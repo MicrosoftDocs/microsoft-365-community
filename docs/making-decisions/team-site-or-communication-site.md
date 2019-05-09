@@ -70,7 +70,12 @@ When they are ready to _share_, the HR team moves the document to or writes the 
 | Navigation | Left | Top |
 | When you create, you ALSO get … | Planner board, OneNote notebook, Email address for the group, Shared Calendar, Opportunity to connect with a Team (if the site wasn&#39;t created as part of provisioning a Microsoft Team) | NOTHING but a SharePoint communication site! |
 
-**Principal author: Susan Hanley, MVP**
-**LinkedIn:** [**http://www.linkedin.com/in/susanhanley**](http://www.linkedin.com/in/susanhanley)
-**Website:** [**www.susanhanley.com**](http://www.susanhanley.com/)
-**Blog:** [**http://www.computerworld.com/blog/essential-sharepoint**](http://www.computerworld.com/blog/essential-sharepoint)
+---
+
+**Principal author**: Susan Hanley, MVP
+
+**LinkedIn**: [**http://www.linkedin.com/in/susanhanley**](http://www.linkedin.com/in/susanhanley)
+
+**Website**: [**www.susanhanley.com**](http://www.susanhanley.com/)
+
+**Blog**: [**http://www.computerworld.com/blog/essential-sharepoint**](http://www.computerworld.com/blog/essential-sharepoint)
