@@ -1,11 +1,4 @@
 ---
-title: "SharePoint Development"
-ms.author: sympmarc
-author: MarcDAnderson
-layout: LandingPage
-ms.audience: 
-ms.topic: landing-page
-description: "---
 title: "SharePoint Usage"
 ms.author: vesaj
 author: VesaJuvonen
