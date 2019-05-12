@@ -1,0 +1,10 @@
+- name: SharePoint usage
+  href: index.md
+- name: Basics
+  href: docs/basics/index.md
+  items: 
+    - name: Glossary
+      href: docs/making-decisions/glossary.md    
+- name: Making Decisions
+  href: docs/making-decisions/index.md
+  items: 
