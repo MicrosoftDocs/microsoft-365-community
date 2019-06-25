@@ -26,6 +26,7 @@ assignees: ''
 #### Question
 
 > Have a question about this repository, how you might help, etc.? Use this section.
+>
 > If this section doesn't apply, simply delete it.
 >
 > _(DELETE THIS PARAGRAPH AFTER READING)_
@@ -35,12 +36,15 @@ assignees: ''
 
 > If you are suggesting an new article please describe the article you'd like to see in as much detail as possible. If you have seen a good example on a blog or other community location, feel free to provide the name of the author and a link.
 >
+> If this section doesn't apply, simply delete it.
+>
 > _(DELETE THIS PARAGRAPH AFTER READING)_
 >
 
 #### Article issue
 
 > If you are reporting an issue in an existing article please describe the issue or improvement you'd like to see in as much detail as possible. Be sure to include a link to the article.
+>
 > If this section doesn't apply, simply delete it.
 >
 > _(DELETE THIS PARAGRAPH AFTER READING)_
