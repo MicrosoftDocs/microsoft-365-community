@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Suggestion or correction
 about: Use this template to make a documentation suggestion
 title: ''
 labels: ''
