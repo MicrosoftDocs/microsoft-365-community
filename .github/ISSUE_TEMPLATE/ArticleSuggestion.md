@@ -1,6 +1,6 @@
 ---
-name: Suggestion or correction
-about: Use this template to make a documentation suggestion
+name: Article Suggestion
+about: Wish there was an article covering a topic near and dear to you? Suggest it here.
 title: ''
 labels: ''
 assignees: ''
