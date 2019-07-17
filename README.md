@@ -1,7 +1,9 @@
 
 # Welcome to the SharePoint Usage Docs!
 
-If you just landed here, and you have no idea what Github is, plase start [here]().
+If you just landed here, and you have no idea what Github is, please go to [Getting Started](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/getting-started.md).
+
+---
 
 This repository is here for YOU. The goal is to build an open source set of content to help people like Information Architects, Business Analysts, "Makers" (aka Citizen Developers), and Site Owners who want to use the platform better.
 
