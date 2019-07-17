@@ -1,7 +1,7 @@
 ---
 title: "SharePoint Usage"
 ms.author: vesaj
-author: VesaJuvonen
+author: MarcDAnderson
 ms.date: 5/12/2018
 layout: LandingPage
 ms.audience: CitizenDeveloper

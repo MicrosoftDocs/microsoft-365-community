@@ -1,6 +1,8 @@
 
 # Welcome to the SharePoint Usage Docs!
 
+If you just landed here, and you have no idea what Github is, plase start [here]().
+
 This repository is here for YOU. The goal is to build an open source set of content to help people like Information Architects, Business Analysts, "Makers" (aka Citizen Developers), and Site Owners who want to use the platform better.
 
 There are lots of other resources for developers, so that isn't our target audience. We may include some code samples or snippets of code in the context of getting something done, but for the most part, any code in this repository will exist to help facilitate conversations between the folks listed above and the developers with whom they work.
