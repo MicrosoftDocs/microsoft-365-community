@@ -1,7 +1,8 @@
 
 # Welcome to the SharePoint Usage Docs!
 
-If you just landed here, and you have no idea what Github is, please go to [Getting Started](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/getting-started.md).
+* If you just landed here, and you have no idea what Github is, please go to [Getting Started](docs\getting-started.md).
+* If you have been here before and would like instructions on how to add content, please go to [Adding Content](docs\adding-content.md).
 
 ---
 
@@ -12,15 +13,19 @@ There are lots of other resources for developers, so that isn't our target audie
 If we're successful here, we may be able to drive our content into the official Microsoft documentation, much the way the [sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) repository does. Be a part of history!
 
 ## Questions & Help
+
 If you are looking for documentation about something which you feel fits this mold but are coming up short, here are some things you can do by raising an Issue in the Issues list:
+
 * Explain what you need and why, but be realistic about the timeframes in which you may see a result. This is an open source effort and we all have day jobs.
 * Suggest an article or set of articles you've seen in blogs or other electronic formats which you think start(s) to get at the issue and might make a good addition here.
 * Write something to fill the gap. Whether it's a germ of an explanation or a full-fledged article, what you write can add value to the repository.
 
 ## Have Fun
+
 While we want the content in this repository to be extremely useful, it doesn't need to be dry and flavorless. We want to characterize the feel and joy of getting things done well in addition to the mechanics. Specific examples or analogies can be very useful to make this happen.
 
 ## Contributing
+
 This repository is sanctioned by Microsoft and therefore there are some contribution guidelines to follow. If you want to contribute directly, you need to have a Github account. But we know not all of you know how to use Github or want to learn. If you have ideas and would like to submit them outside Github, we will be coming up with mechanisms to cover those situations.
 
 ---

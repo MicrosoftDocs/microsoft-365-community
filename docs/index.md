@@ -33,7 +33,7 @@ SharePoint Documentation on usage and feature patterns for site owners and citiz
         </div>
         </a>
     </li>
-        <li>
+    <li>
         <a href="/SharePoint/sp-usage-docs/docs/making-decisions/index.md">
         <div class="cardSize">
             <div class="cardPadding">
@@ -45,6 +45,24 @@ SharePoint Documentation on usage and feature patterns for site owners and citiz
                     </div>
                     <div class="cardText">
                         <h3>Making Decisions</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="/SharePoint/sp-usage-docs/docs/10-things/index.md">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/media/common/i_investigate.svg" alt="10 Things" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>10 Things</h3>
                     </div>
                 </div>
             </div>
