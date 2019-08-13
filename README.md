@@ -1,8 +1,8 @@
 
 # Welcome to the SharePoint Usage Docs!
 
-* If you just landed here, and you have no idea what Github is, please go to [Getting Started](docs\getting-started.md).
-* If you have been here before and would like instructions on how to add content, please go to [Adding Content](docs\adding-content.md).
+* If you just landed here, and you have no idea what Github is, please go to [Getting Started](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/getting-started.md).
+* If you have been here before and would like instructions on how to add content, please go to [Adding Content](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/adding-content.md).
 
 ---
 
