@@ -49,7 +49,7 @@ Near the top of the screen, you'll see a button to Create new file. When you cli
 
 #### Name the file
 
-There is only one requirement for the filename, and this is to give it an md extension. This inndicates that it is a markdown document. It's just the file extension, like docx for Word docs. As for the name itself, try to use a name which is descriptive, but not too long.
+There is only one requirement for the filename, and this is to give it an md extension. This indicates that it is a markdown document. It's just the file extension, like docx for Word docs. As for the name itself, try to use a name which is descriptive, but not too long. For portability, us a nae which has dashes to separate the words, like: my-fantastic-article.md.
 
 #### Edit the file
 
@@ -57,8 +57,7 @@ You can paste in the markdown from the previous steps or type it directly into t
 
 #### Save the file
 
-When you are done editing, scroll down to the **Commit new file** section. Add a title and comments about what you are submitting. This is information whoich becomes part of the pull request - basically you're talking to the people who work on the repo.
-At this point, you can leave the default option to **Commit directly to the master branch.**
+When you are done editing, scroll down to the **Commit new file** section. Add a title and comments about what you are submitting. This is information which becomes part of the pull request - basically you're talking to the people who work on the repo. At this point, you can leave the default option to **Commit directly to the master branch.**
 
 Push the **Commit new file** button and your content is in the repo!
 
