@@ -27,7 +27,7 @@ If you're starting with an existing blog post, then you may be able to convert t
 
 ### Write from scratch
 
-If you're writing new content ferom scratch, you can choose whichever editor you like. The importent thing is to write in markdown format.
+If you're writing new content from scratch, you can choose whichever editor you like. The importent thing is to write in markdown format.
 
 * [Visual Studio Code](https://code.visualstudio.com/) is a free editor from Microsoft and is used primarily for code. It also allows you to write markdown with a preview.
 
@@ -41,19 +41,23 @@ If you know how to work with Github, you probably don't need this section. You w
 
 ### Navigate to the Appropriate Location
 
-Thew repo is organized in a set of folders. The structure will undoubtedly change over time, but look for a folder which seems to correspond with the content you want to add. For example, you might want to add your content to the [docs/making-decisions](https://github.com/SharePoint/sp-usage-docs/tree/master/docs/making-decisions) folder if it's an article about how to decide whether to use [Teams Site vs. Communication Site: Which one should I choose?](docs\making-decisions\team-site-or-communication-site.md)
+Thew repo is organized in a set of folders. The structure will undoubtedly change over time, but look for a folder which seems to correspond with the content you want to add. For example, you might want to add your content to the [docs/making-decisions](https://github.com/SharePoint/sp-usage-docs/tree/master/docs/making-decisions) folder if it's an article about how to decide whether to use [Teams Site vs. Communication Site: Which one should I choose?](docs\making-decisions\team-site-or-communication-site.md) Don't stress too much about this: the contributions we get will drive rerstructuring ovver time.
 
 ### Create the New File
 
-Near the top of the screen, you'll see a button to Create new file. When you click that button, you'll get a new file, which you can give a name and then start editing.
+Near the top of the screen, you'll see a button to Create new file. When you click that button you'll get a new file, which you can give a name and then start editing.
 
 #### Name the file
 
-There is only one requirement for the filename, and this is to give it an md extension. This indicates that it is a markdown document. It's just the file extension, like docx for Word docs. As for the name itself, try to use a name which is descriptive, but not too long. For portability, us a nae which has dashes to separate the words, like: my-fantastic-article.md.
+There is only one requirement for the filename, and this is to give it an md extension. This indicates that it is a markdown document. It's just the file extension, like docx for Word docs. As for the name itself, try to use a name which is descriptive, but not too long. For portability, use a name which has dashes to separate the words, like: my-fantastic-article.md.
 
 #### Edit the file
 
-You can paste in the markdown from the previous steps or type it directly into the text box. Note the Preview tab, which allows you to see what the file will look like once you've saved it.
+You can paste in the markdown from the previous steps or type directly into the text box. Note the Preview tab, which allows you to see what the file will look like once you've saved it.
+
+##### Adding images
+
+TBD
 
 #### Save the file
 
