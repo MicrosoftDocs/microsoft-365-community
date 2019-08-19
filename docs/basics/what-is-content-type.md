@@ -12,5 +12,9 @@ You work with Content Types at home every day. You probably have grocery lists, 
 
 For sake of discussion, lets say you do have a mortgage and you've put it into a mnailla folder in your drawer.
 
-![Document in a manilla folder](../../images/what-is-content-type/folder.png)
+![Document in a manilla folder](../images/what-is-content-type/folder.png)
+
+
+![Document in a manilla folder with metadata](../images/what-is-content-type/folder-with-metadata.png)
+
 
