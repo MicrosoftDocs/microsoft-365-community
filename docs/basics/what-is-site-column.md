@@ -1,4 +1,4 @@
-# What is a Content Type?
+# What is a Site Column?
 
 ## Basic Idea
 
