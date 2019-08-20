@@ -3,6 +3,11 @@
 
 * If you just landed here, and you have no idea what Github is, please go to [Getting Started](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/getting-started.md).
 * If you have been here before and would like instructions on how to add content, please go to [Adding Content](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/adding-content.md).
+* Curious what types of articles we have here? Check out these examples:
+
+  * [Teams Site vs. Communication Site: Which one should I choose?](docs/making-decisions/team-site-or-communication-site.md)
+  * [A Guided Tour Designed to Help You Select an Effective Navigation Strategy](docs/making-decisions/select-an-effective-navigation-strategy.md)
+  * [What is a Content Type?](docs/basics/what-is-content-type.md)
 
 ---
 
