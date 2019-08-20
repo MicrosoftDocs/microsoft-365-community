@@ -10,7 +10,7 @@ When we look at common pieces of paper around the home, we see things with commo
 
 On the check below, we can see six individual fields which we use all the time: check date, pay to the order of, amount, written amount, signature, and memo. (For those of you outside the USA, you may not see checks very often - if at all!)
 
-![Sample completed check](../../images\what-is-site-column\SampleCompletedCheck.png)
+![Sample completed check](../../images/what-is-site-column/SampleCompletedCheck.png)
 
 Those common fields are something we rarely think about, but they make sense to us by virtue of their commonality.
 
