@@ -8,6 +8,7 @@
   * [Teams Site vs. Communication Site: Which one should I choose?](docs/making-decisions/team-site-or-communication-site.md)
   * [A Guided Tour Designed to Help You Select an Effective Navigation Strategy](docs/making-decisions/select-an-effective-navigation-strategy.md)
   * [What is a Content Type?](docs/basics/what-is-content-type.md)
+  * [What is a Site Column?](docs/basics/what-is-site-column.md)
 
 ---
 
