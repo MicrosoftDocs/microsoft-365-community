@@ -29,3 +29,11 @@ When we create a Site Column and choose the settings we want, we get a column wh
 ## Summary
 
 Site Columns are a way to instantiate common fields across our organization as part of an effective information architecture. We can use Site Columns in lists and libraries to provide consistency. By bundling different combinations of Site Columns together, we can build [Content Types](what-is-content-type.md) which provide reusable structures with benefits in display and search.
+
+---
+
+Principal author: Marc D Anderson, MVP
+
+LinkedIn: https://www.linkedin.com/in/marcanderson/
+
+Blog: sympmarc.com

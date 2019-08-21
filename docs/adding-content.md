@@ -10,7 +10,6 @@ Simply click on the Sign up link at the top right of the page to create your acc
 
 The next step is to gather the content. If you want to contribute something you've already written, it will probably require a bit of conversion. The documentation here is all written in markdown and there is a [great markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) you can use if you'd like to write new content or convert something you already have.
 
-
 ### Convert Word Documents
 
 If you have your content in a Word document, you can use one of several Word to markdown conversion tools:
@@ -59,9 +58,24 @@ You can paste in the markdown from the previous steps or type directly into the 
 
 TBD
 
+##### Getting credit
+
+If the content you are contributing is something you are repurposing from your blog or another location, you can add a section at the bottom of your article with information about you and the source. Here's an example:
+
+---
+
+**Principal author**: Susan Hanley, MVP
+
+**LinkedIn**: [**http://www.linkedin.com/in/susanhanley**](http://www.linkedin.com/in/susanhanley)
+
+**Website**: [**www.susanhanley.com**](http://www.susanhanley.com/)
+
+**Blog**: [**http://www.computerworld.com/blog/essential-sharepoint**](http://www.computerworld.com/blog/essential-sharepoint)
+
+---
+
 #### Save the file
 
-When you are done editing, scroll down to the **Commit new file** section. Add a title and comments about what you are submitting. This is information which becomes part of the pull request - basically you're talking to the people who work on the repo. At this point, you can leave the default option to **Commit directly to the master branch.**
+When you are done editing, scroll down to the **Commit new file** section. Add a title and comments about what you are submitting. This is information which becomes part of the "pull request" - basically you're talking to the people who work on the repo. At this point, you can leave the default option to **Commit directly to the master branch.**
 
-Push the **Commit new file** button and your content is in the repo!
-
+Push the **Commit new file** button and your content will be on its way into the repo. However, your content will have to be accepted before it will be generally available. If there are any questions about what you've submitted, you'll get comments on the pull request. If you provided an email address when you signed up for your Github account, you'll get notifications.

@@ -35,3 +35,11 @@ Content Types can be defined in an individual site, in the Content Type Hub, or 
 ## Summary
 
 With Content Types, we can define the business objects which matter to us in our daily jobs. In many cases - whenever a piece of content matters to our organization - we want to create our own Content Types based on one of the generic ones to represent how we do our real work. The metadata we collect with each instance of the Content Type enables us to do our jobs better.
+
+---
+
+Principal author: Marc D Anderson, MVP
+
+LinkedIn: https://www.linkedin.com/in/marcanderson/
+
+Blog: sympmarc.com
