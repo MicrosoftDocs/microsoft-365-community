@@ -1,5 +1,12 @@
 # Adding Content
 
+## Contribution Guidelines
+
+We'll be following the [contribution guidelines](https://docs.microsoft.com/en-us/contribute/) from docs.microsoft.com, as we hope the content here ends up there. It even includes a [style and voice quick start](https://docs.microsoft.com/en-us/contribute/style-quick-start).
+
+For the full reference, read the [Microsoft Writing Style Guide](https://docs.microsoft.com/style-guide/welcome/). The style guide is the current iteration of what's been a standard in technical writing for more than 20 years: The Microsoft Manual of Style.
+
+
 ## Sign up for Github
 
 If you don't already have a Github account, you won't be able to submit any comments, issues, etc., just like most Web sites and SharePOoint itself. If you have an account - you get to skip ahead!
