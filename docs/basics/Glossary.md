@@ -5,16 +5,37 @@ As with any technology, there are lots of terms we toss around to explain things
 This Glossary is an attempt to demystify some of the terms and acronyms we use every day in working with the platform. See one missing? Feel free to add an Issue with what you want added.
 
 [A](#A) [B](#B) [C](#C)
+[D](#D)
+[E](#E)
+[F](#F)
+[G](#G)
+[H](#H)
+[I](#I)
+[J](#K)
+[K](#K)
+[L](#L)
+[M](#M)
+[N](#N)
+[O](#O)
+[P](#P)
+[Q](#Q)
+[R](#R)
+[S](#S)
 
-[A](#A)
-
-[B](#B)
-
-[C](#C)
-
-Communication Site 
+Communication Site
 
 [T](#T)
 
 Team Site
 
+[U](#U)
+[V](#V)
+[W](#W)
+[X](#X)
+[Y](#Y)
+[Z](#Z)
+
+
+
+
+### <a name="A"></a>A
