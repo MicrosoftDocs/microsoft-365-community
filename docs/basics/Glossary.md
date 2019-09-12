@@ -46,6 +46,9 @@ This Glossary is an attempt to demystify some of the terms and acronyms we use e
 ## <a name="I"></a>I
 ## <a name="J"></a>J
 ## <a name="K"></a>K
+
+### Known Folder Move (KFM)
+
 ## <a name="L"></a>L
 ## <a name="M"></a>M
 ## <a name="N"></a>N
