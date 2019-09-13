@@ -26,11 +26,11 @@ Now imagine you work at a mortgage company. Instead of one (or maybe two) mortga
 
 ![Document in a manila folder with metadata](../../images/what-is-content-type/folder-with-more-metadata.png)
 
-We don't add these metadata columns just for fun. We decide to collect the metadata which will enable the use cases we want, but not anymore. For example, if we'd like to have a view which shows all the mortgages which are going to be due in the next month, we need the Content Type = Mortgage and the mortgage due date >= [Today] and mortgage due date <= [Today+30]. We can't satisfy that use case unless we've made the document a Mortgage and added the mortgage due date metadata column - and populated it!
+We don't add these metadata columns just for fun. We decide to collect the metadata which will enable the use cases we want, but not too much more than that. For example, if we'd like to have a view which shows all the mortgages which are going to be due in the next month, we need the Content Type = Mortgage and the mortgage due date >= [Today] and mortgage due date <= [Today+30]. We can't satisfy that use case unless we've made the document a Mortgage and added the mortgage due date metadata column - and populated it!
 
 ## Extra Detail
 
-Content Types can be defined in an individual site, in the Content Type Hub, or using Site Scripts. We make this choice based on the *scope* where we want to use the Content Type. We may have Content Type which only makes sense in the context of a single site, like perhaps a Benefits Description in the Human Resources site. Other Content Type may have utility across the tenant, like perhaps a Contract, if we want each department to store and manage their Contracts in their own sites.
+Content Types can be defined in an individual site, in the Content Type Hub, or using Site Scripts. We make this choice based on the *scope* where we want to use the Content Type. We may have a Content Type which only makes sense in the context of a single site, like perhaps a Benefits Description in the Human Resources site. Other Content Types may have utility across the tenant, like perhaps a Contract, if we want each department to store and manage their Contracts in their own sites.
 
 ## Summary
 
