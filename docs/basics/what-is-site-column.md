@@ -36,4 +36,4 @@ Principal author: Marc D Anderson, MVP
 
 LinkedIn: https://www.linkedin.com/in/marcanderson/
 
-Blog: sympmarc.com
+Blog: [sympmarc.com](http://sympmarc.com)
