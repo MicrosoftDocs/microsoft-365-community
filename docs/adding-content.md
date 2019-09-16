@@ -73,7 +73,7 @@ The first step is to create the directory. Github won't store empty directories,
 
 This will show your name as a directory. Add a file by finishing with `index.md`. You don't need to use this file, but it'll allow you to create the directory. At the bottom of the screen, click the green `Commit new file` button.
 
-Now you will be in the directory you just created. Click Upload files to add your images and then `Commit changes`.
+Now you will be in the directory you just created. Click `Upload files` to add your images and then `Commit changes`.
 
 If you can't figure out how to add the images to your article, add a comment to your article with instructions explaining where you would like each one added.
 
