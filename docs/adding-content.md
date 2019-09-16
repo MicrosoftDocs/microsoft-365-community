@@ -63,7 +63,11 @@ You can paste in the markdown from the previous steps or type directly into the 
 
 ##### Adding images
 
-TBD
+To add images to your article, you'll need to add them to the repository. This is easier if you get more familiar with Github and do pull requests, but here is how you can do it through the UI.
+
+We store images in the images folder. Each article should have its own folder underneath that names with its title, e.g., "known-folder-move-benefits-for-endusers". You then upload your images into that folder.
+
+The first step is to create the flder. Github won't store empty folders, so you need to add a new file into the directory you want to create. Navigate into the images folder, and then click the 
 
 ##### Getting credit
 
