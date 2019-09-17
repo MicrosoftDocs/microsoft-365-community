@@ -35,6 +35,7 @@ This Glossary is an attempt to demystify some of the terms and acronyms we use e
 ## <a name="B"></a>B
 ## <a name="C"></a>C
 
+### Classic SharePoint 
 ### Communication Site
 
 
@@ -51,6 +52,9 @@ This Glossary is an attempt to demystify some of the terms and acronyms we use e
 
 ## <a name="L"></a>L
 ## <a name="M"></a>M
+
+### Modern SharePoint
+
 ## <a name="N"></a>N
 ## <a name="O"></a>O
 ## <a name="P"></a>P
