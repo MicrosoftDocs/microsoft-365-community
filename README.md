@@ -3,16 +3,7 @@
 
 * If you just landed here, and you have no idea what Github is, please go to [Getting Started](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/getting-started.md).
 * If you have been here before and would like instructions on how to add content, please go to [Adding Content](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/adding-content.md).
-* Curious what types of articles we have here? Check out these examples:
-
-  * Basics
-    * [What is a Content Type?](docs/basics/what-is-content-type.md)
-    * [What is a Site Column?](docs/basics/what-is-site-column.md)
-  * Making Decisions
-    * [Teams Site vs. Communication Site: Which one should I choose?](docs/making-decisions/team-site-or-communication-site.md)
-    * [A Guided Tour Designed to Help You Select an Effective Navigation Strategy](docs/making-decisions/select-an-effective-navigation-strategy.md)
-    * [Auto Apply Retention Labels in Office 365 Using Content Types and Metadata](docs/making-decisions/auto-apply-retention-labels-in-office-365-using-content-types-and-metadata.md)
-
+* Curious what types of articles we have here? Check out the [temporary table of contents](docs\index.md).
 
 ---
 
