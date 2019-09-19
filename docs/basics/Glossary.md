@@ -37,9 +37,7 @@ This Glossary is an attempt to demystify some of the terms and acronyms we use e
 
 ### Classic SharePoint
 
-Classic sSharePoint refers to the user interface (UI) that was available starting in SharePoint 2013 - what you might think of as the blue and white UI.
-
-Classic SharePoint uses master pages and page layouts for content structuring. These capabilities were built on the .NET framework.
+Classic SharePoint refers to the user interface (UI) that was available starting in SharePoint 2013 - what you might think of as the blue and white UI. Classic SharePoint uses master pages and page layouts for content structuring. These capabilities were built on the .NET framework.
 
 ### Communication Site
 
@@ -56,23 +54,21 @@ A Communication Site is generally used to communicate from a smaller group to a 
 
 ### Known Folder Move (KFM)
 
-Known Folder Move (KFM) allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business.
+Known Folder Move (KFM) allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost.
 
 ## <a name="L"></a>L
 ## <a name="M"></a>M
 
 ### Modern SharePoint
 
-Modern SharePoint refers to the user interface (UI) that has been avaialble in SharePooint Online to larger and larger degrees starting in about 2016. Some aspects of the modern UI are also available in SharePoint 2019 (on premises).
-
-Modern SharePoint does not use many of the underpinnings of classic SharePoint, such as master pages and page layouts. It is built using more current Web development tools and practices.
+Modern SharePoint refers to the user interface (UI) that has been avaialble in SharePooint Online to larger and larger degrees starting in about 2016. Some aspects of the modern UI are also available in SharePoint 2019 (on premises). Modern SharePoint does not use many of the underpinnings of classic SharePoint, such as master pages and page layouts. It is built using more current Web development tools and practices than classic SharePoint.
 
 ## <a name="N"></a>N
 ## <a name="O"></a>O
 
 ### On premises
 
-On premises refers to running servers yourself, whether they are in your physicaly building, a data center where you rent space, or at a hosting comnpany that runs server specifically for you.
+On premises refers to running servers yourself, whether they are in your physical building, a data center where you rent space, or at a hosting comnpany that runs servers specifically for you.
 
 ## <a name="P"></a>P
 ## <a name="Q"></a>Q
@@ -82,17 +78,17 @@ On premises refers to running servers yourself, whether they are in your physica
 
 ### Team Site
 
-Team Sites are generally used to faciltitate teamwork. It generally has a set of people with permissions to work on content collaboratively, though not all people can create or eit content in all cases.
+Team Sites are generally used to faciltitate teamwork. It generally has a set of people with permissions to work on content collaboratively, though not all people can create or edit content in all cases.
 
 ## <a name="U"></a>U
 
 ### User experience (UX)
 
-The user experience (UX) is how people react to and feel about the user interface as they use it. Web pages can be striaghtforward and easy to use (good UX) or complex and confusing (bad UX). Think of UX as the feelings and emotions people have about the solutions tou give them as and fater they use them.
+The user experience (UX) is how people react to and feel about the user interface as they use it. Web pages can be straightforward and easy to use (good UX) or complex and confusing (bad UX). Think of UX as the feelings and emotions people have about the solutions you give them as and after they use them.
 
 ### User interface (UI)
 
-The user interfact (UI) is what you see on the screen: the layout of the page, the controls you can use to accomplish things (like Web Parts), and where the text and images sit.
+The user interface (UI) is what you see on the screen: the layout of the page, the controls you can use to accomplish things (like Web Parts), and where the text and images sit.
 
 ## <a name="V"></a>V
 ## <a name="W"></a>W
