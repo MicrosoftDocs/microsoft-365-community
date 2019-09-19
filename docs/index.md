@@ -11,7 +11,7 @@
 
 ## Making Decisions
 
-* [Teams Site vs. Communication Site: Which one should I choose?](docs/making-decisions/team-site-or-communication-site.md)
+* [Teams Site vs. Communication Site: Which one should I choose?](making-decisions/team-site-or-communication-site.md)
 * [A Guided Tour Designed to Help You Select an Effective Navigation Strategy](making-decisions/select-an-effective-navigation-strategy.md)
 * [Auto Apply Retention Labels in Office 365 Using Content Types and Metadata](making-decisions/auto-apply-retention-labels-in-office-365-using-content-types-and-metadata.md)
 * [List columns or Site columns: Which one to choose?](making-decisions/list-column-or-site-column-which-one-to-choose.md)
