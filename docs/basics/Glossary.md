@@ -43,6 +43,10 @@ Classic SharePoint refers to the user interface (UI) that was available starting
 
 A Communication Site is generally used to communicate from a smaller group to a larger group. For this reason, Communication Sites are often used in Intranets.
 
+### Crawled Property
+
+A Crawled Property is one of the basic units of the Search Schema. They are created automatically by the SharePoint Search Indexer (or Crawler) when it is discovering content that can be searched. The information stored in Crawled Properties is made available in queries by mapping them to Managed Properties.
+
 ## <a name="D"></a>D
 ## <a name="E"></a>E
 ## <a name="F"></a>F
@@ -61,7 +65,7 @@ Known Folder Move (KFM) allows you to automatically backup/redirect your Windows
 
 ### Managed Property
 
-A Managed Property is a basic unit of the SharePoint Search Schema. It's an entry in the Schema that you refer to when doing search queries that use specific properties, or when specifying which information you want to return.
+A Managed Property is one of the basic units of the SharePoint Search Schema. It's an entry in the Schema that you refer to when doing search queries that use specific properties, or when specifying which information you want to return.
 
 Managed Properties can be created (if you have the appropriate permissions), although SharePoint automatically creates Managed Properties that are useful for a wide range of scenarios.
 
