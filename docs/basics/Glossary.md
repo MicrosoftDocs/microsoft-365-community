@@ -60,7 +60,22 @@ A Crawled Property is one of the basic units of the Search Schema. They are crea
 ## <a name="E"></a>E
 ## <a name="F"></a>F
 ## <a name="G"></a>G
+
+### Group
+
+A Group in SharePoint can generally refer to one of two things. It may mean:
+- Security Group
+  - A container to organise users and other groups. A security group can be assigned permission levels on an object such as a site, a library or library, a folder or a document (or page, or item). Generally only a Site Owner can manage who is in a Security Group.
+- Office Group
+    - An Office 365 Group is a concept within Office 365 that allows users can be members of, which has it's own e-mail address, and can be associated to a Microsoft Teams team, or a SharePoint Site. A Microsoft Teams Team automatically creates an Office 365 Group. These can be public where anyone can join, or Private when you need to be invited or given a code to join. Permissions are simplified to only "Owners" or "Members".
+
 ## <a name="H"></a>H
+
+### Hub Site
+
+A Hub Site is a SharePoint site that can have other sites associated to it. This allows you to group sites by department, region, or project etc. Features such as News and Highlight Content can be used to produce a roll up view of content like pages and documents from the associated sites on a page on the Hub Site.
+
+
 ## <a name="I"></a>I
 ## <a name="J"></a>J
 ## <a name="K"></a>K
@@ -70,7 +85,24 @@ A Crawled Property is one of the basic units of the Search Schema. They are crea
 Known Folder Move (KFM) allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost.
 
 ## <a name="L"></a>L
+
+### Library
+
+A library, typically used as a Document Library is a type of list where documents or other files are added as items, but no further file attachments can be added to the document item. Other files are added as separate entries in the library.
+
+### List
+
+A List in SharePoint is a table used to store information in a SharePoint site. A list has columns that can be used to store differen types of information, and each row in a list is known as an "Item". SharePoint attempts you to very carefully design lists if you attempt to store "large" amounts of data (more than 5,000 items), including things like limiting the number of "Lookup Columns" that can be used. Therefore, if you are planning on storing more than a few thousand items, be sure to follow Microsoft guidelines on storing large amounts of data in lists.
+
+An item in a list can have multiple file attachments added. This is useful if you use a custom list as an Issue Tracker for example, and want to be able to add screenshots to an item in.
+
+A library is a type of list where documents or other files are added as items, but no further file attachments can be added.
+
 ## <a name="M"></a>M
+
+### Managed Metadata
+
+Managed Metadata is a SharePoint feature that allows the business to create a hierarchy of terms that can be used in SharePoint Sites to tag content. This is used by creating the hierarchy using Term Groups and Term Sets, then adding a column to a list of type "Managed Metadata" and setting the Term Set to use for tagging. When an item is added to that list or library, the new column is used to tag that item or document.
 
 ### Managed Property
 
@@ -90,6 +122,13 @@ Modern SharePoint refers to the user interface (UI) that has been avaialble in S
 On premises refers to running servers yourself, whether they are in your physical building, a data center where you rent space, or at a hosting comnpany that runs servers specifically for you.
 
 ## <a name="P"></a>P
+
+### Permission Level
+
+A Permission Level is a set of specific permissons such as "Add an item" or "Edit Lists". SharePoint comes with a set of Permission Levels as standard, such as "Contribute" or "Design", which have different capabilities.
+
+Custom Permission Levels can be created for business-specific scenarios, such as "Can add documents but not delete" by choosing the correct options, and applied to a User or Group.
+
 ## <a name="Q"></a>Q
 ## <a name="R"></a>R
 ## <a name="S"></a>S
@@ -125,6 +164,11 @@ The user experience (UX) is how people react to and feel about the user interfac
 The user interface (UI) is what you see on the screen: the layout of the page, the controls you can use to accomplish things (like Web Parts), and where the text and images sit.
 
 ## <a name="V"></a>V
+
+### View
+
+A View is a way to show data stored in a list or library. It consists of a set of columns that are shown, and a way to pre-filter and sort the information. A View can be considered as a rudimentary "Query" against a list that is used when visiting the list or library.
+
 ## <a name="W"></a>W
 ## <a name="X"></a>X
 ## <a name="Y"></a>Y
