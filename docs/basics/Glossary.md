@@ -87,6 +87,10 @@ Known Folder Move (KFM) allows you to automatically backup/redirect your Windows
 ## <a name="L"></a>L
 ## <a name="M"></a>M
 
+### Managed Metadata
+
+Managed Metadata is a SharePoint feature that allows the business to create a hierarchy of terms that can be used in SharePoint Sites to tag content. This is used by creating the hierarchy using Term Groups and Term Sets, then adding a column to a list of type "Managed Metadata" and setting the Term Set to use for tagging. When an item is added to that list or library, the new column is used to tag that item or document.
+
 ### Managed Property
 
 A Managed Property is one of the basic units of the SharePoint Search Schema. It's an entry in the Schema that you refer to when doing search queries that use specific properties, or when specifying which information you want to return.
