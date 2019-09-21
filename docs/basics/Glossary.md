@@ -90,6 +90,10 @@ Known Folder Move (KFM) allows you to automatically backup/redirect your Windows
 
 A List in SharePoint is a table used to store information in a SharePoint site. A list has columns that can be used to store differen types of information, and each row in a list is known as an "Item". SharePoint attempts you to very carefully design lists if you attempt to store "large" amounts of data (more than 5,000 items), including things like limiting the number of "Lookup Columns" that can be used. Therefore, if you are planning on storing more than a few thousand items, be sure to follow Microsoft guidelines on storing large amounts of data in lists.
 
+An item in a list can have multiple file attachments added. This is useful if you use a custom list as an Issue Tracker for example, and want to be able to add screenshots to an item in.
+
+A library is a type of list where documents or other files are added as items, but no further file attachments can be added.
+
 ## <a name="M"></a>M
 
 ### Managed Metadata
