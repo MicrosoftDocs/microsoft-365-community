@@ -59,6 +59,12 @@ Known Folder Move (KFM) allows you to automatically backup/redirect your Windows
 ## <a name="L"></a>L
 ## <a name="M"></a>M
 
+### Managed Property
+
+A Managed Property is a basic unit of the SharePoint Search Schema. It's an entry in the Schema that you refer to when doing search queries that use specific properties, or when specifying which information you want to return.
+
+Managed Properties can be created (if you have the appropriate permissions), although SharePoint automatically creates Managed Properties that are useful for a wide range of scenarios.
+
 ### Modern SharePoint
 
 Modern SharePoint refers to the user interface (UI) that has been avaialble in SharePoint Online to larger and larger degrees starting in about 2016. Some aspects of the modern UI are also available in SharePoint 2019 (on premises). Modern SharePoint does not use many of the underpinnings of classic SharePoint, such as master pages and page layouts. It is built using more current Web development tools and practices than classic SharePoint.
