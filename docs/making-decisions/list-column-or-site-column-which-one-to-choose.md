@@ -40,8 +40,8 @@ If you're sure that the column will only need to be used/created in a particular
 
 If you're looking for reusability across list/library boundaries, then create a _site column_.
 
-To be Search aware, another aspect to consider in your decision is, whether you are going to use Search to find existing content in the created column or, additionally, use the column in Search queries to find content.
-Creating a _site column_ will create a Search managed property (MP) automatically which you can use to Search for content. While with a _list column_ it won't create a MP, but you will still be able to Search for column contents. 
+To be Search aware, another aspect to consider in your decision is, whether you are going to use Search to find existing content in the created column or, additionally, use the column in Search queries to find content.<br>
+Creating a _site column_ will create a Search managed property (MP) automatically which you can use to Search for content. While with a _list column_ it won't create a MP, but you will still be able to Search for column contents.<br>
 
 Say that _site column_ is MySiteColumn of type single line of text. After you add content to it, a new MP will be created with name MySiteColumnOWSTEXT ([How site columns become managed properties](https://docs.microsoft.com/en-us/sharepoint/technical-reference/automatically-created-managed-properties-in-sharepoint)) which you can use to retrieve content in a Search query, like for example:
 
