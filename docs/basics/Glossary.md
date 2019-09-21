@@ -60,6 +60,15 @@ A Crawled Property is one of the basic units of the Search Schema. They are crea
 ## <a name="E"></a>E
 ## <a name="F"></a>F
 ## <a name="G"></a>G
+
+### Group
+
+A Group in SharePoint can generally refer to one of two things. It may mean:
+- Security Group
+  - A container to organise users and other groups. A security group can be assigned permission levels on an object such as a site, a library or library, a folder or a document (or page, or item). Generally only a Site Owner can manage who is in a Security Group.
+- Office Group
+    - An Office 365 Group is a concept within Office 365 that allows users can be members of, which has it's own e-mail address, and can be associated to a Microsoft Teams team, or a SharePoint Site. A Microsoft Teams Team automatically creates an Office 365 Group. These can be public where anyone can join, or Private when you need to be invited or given a code to join. Permissions are simplified to only "Owners" or "Members".
+
 ## <a name="H"></a>H
 ## <a name="I"></a>I
 ## <a name="J"></a>J
@@ -90,6 +99,13 @@ Modern SharePoint refers to the user interface (UI) that has been avaialble in S
 On premises refers to running servers yourself, whether they are in your physical building, a data center where you rent space, or at a hosting comnpany that runs servers specifically for you.
 
 ## <a name="P"></a>P
+
+### Permission Level
+
+A Permission Level is a set of specific permissons such as "Add an item" or "Edit Lists". SharePoint comes with a set of Permission Levels as standard, such as "Contribute" or "Design", which have different capabilities.
+
+Custom Permission Levels can be created for business-specific scenarios, such as "Can add documents but not delete" by choosing the correct options, and applied to a User or Group.
+
 ## <a name="Q"></a>Q
 ## <a name="R"></a>R
 ## <a name="S"></a>S
