@@ -61,7 +61,7 @@ Known Folder Move (KFM) allows you to automatically backup/redirect your Windows
 
 ### Modern SharePoint
 
-Modern SharePoint refers to the user interface (UI) that has been avaialble in SharePooint Online to larger and larger degrees starting in about 2016. Some aspects of the modern UI are also available in SharePoint 2019 (on premises). Modern SharePoint does not use many of the underpinnings of classic SharePoint, such as master pages and page layouts. It is built using more current Web development tools and practices than classic SharePoint.
+Modern SharePoint refers to the user interface (UI) that has been avaialble in SharePoint Online to larger and larger degrees starting in about 2016. Some aspects of the modern UI are also available in SharePoint 2019 (on premises). Modern SharePoint does not use many of the underpinnings of classic SharePoint, such as master pages and page layouts. It is built using more current Web development tools and practices than classic SharePoint.
 
 ## <a name="N"></a>N
 ## <a name="O"></a>O
