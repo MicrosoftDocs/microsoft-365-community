@@ -85,6 +85,12 @@ A Hub Site is a SharePoint site that can have other sites associated to it. This
 Known Folder Move (KFM) allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost.
 
 ## <a name="L"></a>L
+
+### List
+
+A List in SharePoint is a table used to store information in a SharePoint site. A list has columns that can be used to store differen types of information, and each row in a list is known as an "Item". SharePoint attempts you to very carefully design lists if you attempt to store "large" amounts of data (more than 5,000 items), including things like limiting the number of "Lookup Columns" that can be used. Therefore, if you are planning on storing more than a few thousand items, be sure to follow Microsoft guidelines on storing large amounts of data in lists.
+
+
 ## <a name="M"></a>M
 
 ### Managed Metadata
