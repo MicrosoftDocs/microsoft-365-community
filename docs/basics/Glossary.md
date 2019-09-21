@@ -70,6 +70,12 @@ A Group in SharePoint can generally refer to one of two things. It may mean:
     - An Office 365 Group is a concept within Office 365 that allows users can be members of, which has it's own e-mail address, and can be associated to a Microsoft Teams team, or a SharePoint Site. A Microsoft Teams Team automatically creates an Office 365 Group. These can be public where anyone can join, or Private when you need to be invited or given a code to join. Permissions are simplified to only "Owners" or "Members".
 
 ## <a name="H"></a>H
+
+### Hub Site
+
+A Hub Site is a SharePoint site that can have other sites associated to it. This allows you to group sites by department, region, or project etc. Features such as News and Highlight Content can be used to produce a roll up view of content like pages and documents from the associated sites on a page on the Hub Site.
+
+
 ## <a name="I"></a>I
 ## <a name="J"></a>J
 ## <a name="K"></a>K
