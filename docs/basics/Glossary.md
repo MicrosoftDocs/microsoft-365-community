@@ -90,7 +90,6 @@ Known Folder Move (KFM) allows you to automatically backup/redirect your Windows
 
 A List in SharePoint is a table used to store information in a SharePoint site. A list has columns that can be used to store differen types of information, and each row in a list is known as an "Item". SharePoint attempts you to very carefully design lists if you attempt to store "large" amounts of data (more than 5,000 items), including things like limiting the number of "Lookup Columns" that can be used. Therefore, if you are planning on storing more than a few thousand items, be sure to follow Microsoft guidelines on storing large amounts of data in lists.
 
-
 ## <a name="M"></a>M
 
 ### Managed Metadata
@@ -157,6 +156,11 @@ The user experience (UX) is how people react to and feel about the user interfac
 The user interface (UI) is what you see on the screen: the layout of the page, the controls you can use to accomplish things (like Web Parts), and where the text and images sit.
 
 ## <a name="V"></a>V
+
+### View
+
+A View is a way to show data stored in a list or library. It consists of a set of columns that are shown, and a way to pre-filter and sort the information. A View can be considered as a rudimentary "Query" against a list that is used when visiting the list or library.
+
 ## <a name="W"></a>W
 ## <a name="X"></a>X
 ## <a name="Y"></a>Y
