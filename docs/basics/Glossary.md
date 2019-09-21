@@ -102,6 +102,12 @@ The Search Schema refers to the customisable data dictionary used by SharePoint 
 
 The Style Library is a document library in the Root Web of a SharePoint site that is used mainly in Classic SharePoint Sites. One of the purposes of this library is as a recognised "secure location" to store XSL Templates that are used by the Content Query Web Part (XSL templates outside of the Style Library cannot be used in Content Query Web Parts).
 
+### Subsite
+
+A Site is a container that has lists, libraries, pages, apps, and sites (as children). A site that is a child of another site is a subsite.
+
+Subsites tend to be less common on Modern SharePoint, as Microsoft recommend the use of Hub Sites to group together related sites.
+
 ## <a name="T"></a>T
 
 ### Team Site
