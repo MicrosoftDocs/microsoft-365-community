@@ -77,7 +77,7 @@ On premises refers to running servers yourself, whether they are in your physica
 
 ### Search Schema
 
-The Search Schema refers to the customisable data dictionary used by SharePoint Search to allow users to query for and return specific data using the available Search tools, such as the Search Results web part in Classic SharePoint or the Search REST API.
+The Search Schema refers to the customisable data dictionary used by SharePoint Search to allow users to query for and return specific information from SharePoint using the available Search tools, such as the Search Results web part in Classic SharePoint or the Search REST API.
 
 ## <a name="T"></a>T
 
