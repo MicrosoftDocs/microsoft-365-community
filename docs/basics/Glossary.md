@@ -32,6 +32,11 @@ This Glossary is an attempt to demystify some of the terms and acronyms we use e
 
 
 ## <a name="A"></a>A
+
+### App
+
+An App is a term in SharePoint that means a packaged extension or customisation that you can add to a site. An app can simply be a list that you add to a site to store information, or it can be a package that installs web parts that are available to use on pages, customisations that give you extra functionality within existing lists and libraries, or it could be an entire application that runs outside of SharePoint but has the ability to read and write back to your SharePoint site.
+
 ## <a name="B"></a>B
 ## <a name="C"></a>C
 
