@@ -89,6 +89,10 @@ On premises refers to running servers yourself, whether they are in your physica
 
 The Search Schema refers to the customisable data dictionary used by SharePoint Search to allow users to query for and return specific information from SharePoint using the available Search tools, such as the Search Results web part in Classic SharePoint or the Search REST API.
 
+### Style Library
+
+The Style Library is a document library in the Root Web of a SharePoint site that is used mainly in Classic SharePoint Sites. One of the purposes of this library is as a recognised "secure location" to store XSL Templates that are used by the Content Query Web Part (XSL templates outside of the Style Library cannot be used in Content Query Web Parts).
+
 ## <a name="T"></a>T
 
 ### Team Site
