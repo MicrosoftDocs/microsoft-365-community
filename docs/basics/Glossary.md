@@ -1,6 +1,6 @@
 # SharePoint Usage Glossary
 
-As with any technology, there are lots of terms we toss around to explain things. Just understanding what each term means can be half the battle. Whether you are entirely new to SharePoint or have been using it for a decade, there are always new terms to learn. The fact that Microsoft uses common English words for my capabilities can add an additional layer of confusion.
+As with any technology, there are lots of terms we toss around to explain things. Just understanding what each term means can be half the battle. Whether you are entirely new to SharePoint or have been using it for a decade, there are always new terms to learn. The fact that Microsoft uses common English words for many capabilities can add an additional layer of confusion.
 
 This Glossary is an attempt to demystify some of the terms and acronyms we use every day in working with the platform. See one missing? Feel free to add an Issue with what you want added.
 
@@ -32,6 +32,11 @@ This Glossary is an attempt to demystify some of the terms and acronyms we use e
 
 
 ## <a name="A"></a>A
+
+### App
+
+An App is a term in SharePoint that means a packaged extension or customisation that you can add to a site. An app can simply be a list that you add to a site to store information, or it can be a package that installs web parts that are available to use on pages, customisations that give you extra functionality within existing lists and libraries, or it could be an entire application that runs outside of SharePoint but has the ability to read and write back to your SharePoint site.
+
 ## <a name="B"></a>B
 ## <a name="C"></a>C
 
@@ -42,6 +47,14 @@ Classic SharePoint refers to the user interface (UI) that was available starting
 ### Communication Site
 
 A Communication Site is generally used to communicate from a smaller group to a larger group. For this reason, Communication Sites are often used in Intranets.
+
+### Content Query Web Part
+
+The Content Query Web Part (CQWP) is a web part available in Classic SharePoint that allows rolling up of content across lists and sub sites. The content returned is limited to only the site collection the web part is in. This web part has been replaced by the Highlighted Content web part in Modern SharePoint which gets around the site collection limitation.
+
+### Crawled Property
+
+A Crawled Property is one of the basic units of the Search Schema. They are created automatically by the SharePoint Search Indexer (or Crawler) when it is discovering content that can be searched. The information stored in Crawled Properties is made available in queries by mapping them to Managed Properties.
 
 ## <a name="D"></a>D
 ## <a name="E"></a>E
@@ -59,9 +72,15 @@ Known Folder Move (KFM) allows you to automatically backup/redirect your Windows
 ## <a name="L"></a>L
 ## <a name="M"></a>M
 
+### Managed Property
+
+A Managed Property is one of the basic units of the SharePoint Search Schema. It's an entry in the Schema that you refer to when doing search queries that use specific properties, or when specifying which information you want to return.
+
+Managed Properties can be created (if you have the appropriate permissions), although SharePoint automatically creates Managed Properties that are useful for a wide range of scenarios.
+
 ### Modern SharePoint
 
-Modern SharePoint refers to the user interface (UI) that has been avaialble in SharePooint Online to larger and larger degrees starting in about 2016. Some aspects of the modern UI are also available in SharePoint 2019 (on premises). Modern SharePoint does not use many of the underpinnings of classic SharePoint, such as master pages and page layouts. It is built using more current Web development tools and practices than classic SharePoint.
+Modern SharePoint refers to the user interface (UI) that has been avaialble in SharePoint Online to larger and larger degrees starting in about 2016. Some aspects of the modern UI are also available in SharePoint 2019 (on premises). Modern SharePoint does not use many of the underpinnings of classic SharePoint, such as master pages and page layouts. It is built using more current Web development tools and practices than classic SharePoint.
 
 ## <a name="N"></a>N
 ## <a name="O"></a>O
@@ -74,6 +93,21 @@ On premises refers to running servers yourself, whether they are in your physica
 ## <a name="Q"></a>Q
 ## <a name="R"></a>R
 ## <a name="S"></a>S
+
+### Search Schema
+
+The Search Schema refers to the customisable data dictionary used by SharePoint Search to allow users to query for and return specific information from SharePoint using the available Search tools, such as the Search Results web part in Classic SharePoint or the Search REST API.
+
+### Style Library
+
+The Style Library is a document library in the Root Web of a SharePoint site that is used mainly in Classic SharePoint Sites. One of the purposes of this library is as a recognised "secure location" to store XSL Templates that are used by the Content Query Web Part (XSL templates outside of the Style Library cannot be used in Content Query Web Parts).
+
+### Subsite
+
+A Site is a container that has lists, libraries, pages, apps, and sites (as children). A site that is a child of another site is a subsite.
+
+Subsites tend to be less common on Modern SharePoint, as Microsoft recommend the use of Hub Sites to group together related sites.
+
 ## <a name="T"></a>T
 
 ### Team Site
