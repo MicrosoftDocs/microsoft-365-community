@@ -7,7 +7,7 @@ Before we jump to the topic at hand, a little recap of the terminology involved:
 * A lookup column: this is a column type where we get the data values from another list in the same site. 
 * Managed metadata: is a globally available metadata service that can be shared by all site collections in SharePoint Online or SharePoint on-premises 
 
-## How does Lookup columns works?:  
+## How does Lookup columns works?  
 
 A lookup column is a metadata column that that gets its data from another list in the same site. Before you start creating the columns it's always a good practice to actually think of how your column relationships will be depends on your use case.
 Example: I have a document libary where our company stores our vendor agreements, and we will like to "tags" the agreements with the vendor names, that way it's easier for us to track the documents.
@@ -40,7 +40,7 @@ Example: I have a document libary where our company stores our vendor agreements
 * Beware that deleting items from the source list will "mess up" the destination list, remember to use "Enforce relationship behavior, restrict deleting" when creating the column. 
 
 
-## How does Managed Metadata columns works?:
+## How does Managed Metadata columns works?
 
 Managed Metadata columns depends on SharePoint Taxonomy service and because it's a globally available feature you need to have delegated ownership to at least a termset in order to be able to manage it.
 
