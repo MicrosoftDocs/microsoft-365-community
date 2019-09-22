@@ -3,8 +3,8 @@
 Before we jump to the topic at hand, a little recap of the terminology involved:
 
 * Metadata: means information about something, in SharePoint usually information about documents, pages or list items
-* A list column: this a metadata column connected to a list, the column itself can be of different data types: text, numbers, date&time, people picker, managed metadata
-* A lookup column: this a column type where we get the data values from another list in the same site. 
+* A list column: is a metadata column connected to a list, the column itself can be of different data types: text, numbers, date&time, people picker, managed metadata
+* A lookup column: this is a column type where we get the data values from another list in the same site. 
 * Managed metadata: is a globally available metadata service that can be shared by all site collections in SharePoint Online or SharePoint on-premises 
 
 ## How does Lookup columns works?:  
