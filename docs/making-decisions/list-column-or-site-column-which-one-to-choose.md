@@ -17,7 +17,7 @@ But by doing that, the column will only be created at the list/library level, an
   
 #### What does this mean?
 
-It means that your column will only be available to that particular list/library, and _not_ outside that boundary. If you wish to use that column outside of that list/library, you will have to recreate it at the new location. 
+It means that your column will only be available to that particular list/library, and _not_ outside that boundary. If you wish to use that column outside of that list/library, you will have to recreate it at the new location.
 
 Which brings us to Site columns!
 
@@ -30,7 +30,7 @@ _Site columns_ on the other hand, are created at the site level, and available t
 #### What does this mean?
 
 Well, this means that if you create a site column at the root of your site collection, the column will be available throughout the entire site collection. <br>
-If you create a site column at the subsite level, this column will only be available for the subsite itself, and every other subsite(s) underneath. But not above.<br>
+If you create a site column at the subsite level, this column will only be available for the subsite itself, and every other subsite(s) underneath. But not above.
 
 Site columns are "shared" between sites, but only hierachically.
 
