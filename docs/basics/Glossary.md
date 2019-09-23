@@ -56,6 +56,10 @@ The Content Query Web Part (CQWP) is a web part available in Classic SharePoint 
 
 A Crawled Property is one of the basic units of the Search Schema. They are created automatically by the SharePoint Search Indexer (or Crawler) when it is discovering content that can be searched. The information stored in Crawled Properties is made available in queries by mapping them to Managed Properties.
 
+### <a name="Customization"></a>Customization
+
+Improving specific aspects of SharePoint functionality by changing settings through the end user interface.
+
 ## <a name="D"></a>D
 ## <a name="E"></a>E
 ## <a name="F"></a>F
@@ -129,24 +133,29 @@ Managed Properties can be created (if you have the appropriate permissions), alt
 
 ### Modern SharePoint
 
-Modern SharePoint refers to the user interface (UI) that has been avaialble in SharePoint Online to larger and larger degrees starting in about 2016. Some aspects of the modern UI are also available in SharePoint 2019 (on premises). Modern SharePoint does not use many of the underpinnings of classic SharePoint, such as master pages and page layouts. It is built using more current Web development tools and practices than classic SharePoint.
+Modern SharePoint refers to the user interface (UI) that has been available in SharePoint Online to larger and larger degrees starting in about 2016. Some aspects of the modern UI are also available in SharePoint 2019 (on premises). Modern SharePoint does not use many of the underpinnings of classic SharePoint, such as master pages and page layouts. It is built using more current Web development tools and practices than classic SharePoint.
 
 ## <a name="N"></a>N
 ## <a name="O"></a>O
 
 ### On premises
 
-On premises refers to running servers yourself, whether they are in your physical building, a data center where you rent space, or at a hosting comnpany that runs servers specifically for you.
+On premises refers to running servers yourself, whether they are in your physical building, a data center where you rent space, or at a hosting company that runs servers specifically for you.
 
 ## <a name="P"></a>P
 
 ### Permission Level
 
-A Permission Level is a set of specific permissons such as "Add an item" or "Edit Lists". SharePoint comes with a set of Permission Levels as standard, such as "Contribute" or "Design", which have different capabilities.
+A Permission Level is a set of specific permissions such as "Add an item" or "Edit Lists". SharePoint comes with a set of Permission Levels as standard, such as "Contribute" or "Design", which have different capabilities.
 
 Custom Permission Levels can be created for business-specific scenarios, such as "Can add documents but not delete" by choosing the correct options, and applied to a User or Group.
 
 ## <a name="Q"></a>Q
+
+### Out of the box
+
+Capabilities included with SharePoint without writing any code or doing heavy lifting. Depending on who you talk to, this definition probably includes a level of [customization](#Customization) including things like creating new sites, lists, and libraries.
+
 ## <a name="R"></a>R
 
 ### Roll up
@@ -157,7 +166,7 @@ Custom Permission Levels can be created for business-specific scenarios, such as
 
 ### Search Schema
 
-The Search Schema refers to the customisable data dictionary used by SharePoint Search to allow users to query for and return specific information from SharePoint using the available Search tools, such as the Search Results web part in Classic SharePoint or the Search REST API.
+The Search Schema refers to the customizable data dictionary used by SharePoint Search to allow users to query for and return specific information from SharePoint using the available Search tools, such as the Search Results web part in Classic SharePoint or the Search REST API.
 
 ### Site
 
@@ -167,7 +176,7 @@ The Search Schema refers to the customisable data dictionary used by SharePoint 
 
 ### Style Library
 
-The Style Library is a document library in the Root Web of a SharePoint site that is used mainly in Classic SharePoint Sites. One of the purposes of this library is as a recognised "secure location" to store XSL Templates that are used by the Content Query Web Part (XSL templates outside of the Style Library cannot be used in Content Query Web Parts).
+The Style Library is a document library in the Root Web of a SharePoint site that is used mainly in Classic SharePoint Sites. One of the purposes of this library is as a recognized "secure location" to store XSL Templates that are used by the Content Query Web Part (XSL templates outside of the Style Library cannot be used in Content Query Web Parts).
 
 ### Subsite
 
@@ -183,7 +192,7 @@ Subsites tend to be less common on Modern SharePoint, as Microsoft recommend the
 
 ### Team Site
 
-Team Sites are generally used to faciltitate teamwork. It generally has a set of people with permissions to work on content collaboratively, though not all people can create or edit content in all cases.
+Team Sites are generally used to facilitate teamwork. It generally has a set of people with permissions to work on content collaboratively, though not all people can create or edit content in all cases.
 
 ### Tenant
 
