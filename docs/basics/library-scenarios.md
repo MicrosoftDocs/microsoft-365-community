@@ -42,13 +42,13 @@ Example image below of the “Confidential” security group:<br>
 Example image below of the “Confidential” document library unique permissions:<br>
 ![Document library unique permissions](../../images/library-scenarios/sensitivity-scenario-02.png)
 
->Note: Custom security groups and document libraries with unique permissions add complexity to ongoing site management. Before implementing consider moving sensitive content to its own site collection. 
+>Custom security groups and document libraries with unique permissions add complexity to ongoing site management. Before implementing consider moving sensitive content to its own site collection. 
 
 ## Multimedia scenario
 
 Organizations often group image, audio, and video files in document libraries for reference use or archival purposes. For example, *branding* and *marketing materials*. Providing dedicated document library or [Asset Library](https://support.office.com/en-us/article/Set-up-an-Asset-Library-to-store-image-audio-or-video-files-96532BF6-DC72-4F82-BF0A-21EF945C4D04) for multimedia purposes allows for consistent use and storage of an organizations image, audio, and video files.
 
->Note: If you don't see Asset Library as an option in your built-in apps, contact your SharePoint admin to see if they are available for your site.
+>If you don't see Asset Library as an option in your built-in apps, contact your SharePoint admin to see if they are available for your site.
 
 Using the example of *branding* and *marketing materials*, we would plan for:
 - “Assets” document library or Asset Library for image, audio, and video files.
@@ -62,7 +62,7 @@ Multimedia document libraries can be designated as an [Organization Asset Librar
 Example image shown below:<br>
 ![Multimedia document libraries](../../images/library-scenarios/multimedia-scenario-02.png)
 
->Note: Video files intended for streaming use should be hosted in [Microsoft Stream](https://docs.microsoft.com/en-us/stream/overview). 
+>Video files intended for streaming use should be hosted in [Microsoft Stream](https://docs.microsoft.com/en-us/stream/overview). 
 
 ---
 
