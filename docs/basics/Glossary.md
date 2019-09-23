@@ -59,15 +59,28 @@ A Crawled Property is one of the basic units of the Search Schema. They are crea
 ## <a name="D"></a>D
 ## <a name="E"></a>E
 ## <a name="F"></a>F
+
+### Farm
+
+### First Release
+
+Deprecated - please see [Targeted Release](#TargetedRelease).
+
 ## <a name="G"></a>G
+
+### Governance
 
 ### Group
 
 A Group in SharePoint can generally refer to one of two things. It may mean:
+
 - Security Group
+
   - A container to organise users and other groups. A security group can be assigned permission levels on an object such as a site, a library or library, a folder or a document (or page, or item). Generally only a Site Owner can manage who is in a Security Group.
+
 - Office Group
-    - An Office 365 Group is a concept within Office 365 that allows users can be members of, which has it's own e-mail address, and can be associated to a Microsoft Teams team, or a SharePoint Site. A Microsoft Teams Team automatically creates an Office 365 Group. These can be public where anyone can join, or Private when you need to be invited or given a code to join. Permissions are simplified to only "Owners" or "Members".
+
+  - An Office 365 Group is a concept within Office 365 that allows users can be members of, which has it's own e-mail address, and can be associated to a Microsoft Teams team, or a SharePoint Site. A Microsoft Teams Team automatically creates an Office 365 Group. These can be public where anyone can join, or Private when you need to be invited or given a code to join. Permissions are simplified to only "Owners" or "Members".
 
 ## <a name="H"></a>H
 
@@ -89,6 +102,10 @@ Known Folder Move (KFM) allows you to automatically backup/redirect your Windows
 ### Library
 
 A library, typically used as a Document Library is a type of list where documents or other files are added as items, but no further file attachments can be added to the document item. Other files are added as separate entries in the library.
+
+### Licensing
+
+Office 365 offers multiple licensing options (Kiosk, F1, E1, etc.), each of which turns on a different basket of capabilities for the user to whom the license is assigned.
 
 ### List
 
@@ -131,11 +148,22 @@ Custom Permission Levels can be created for business-specific scenarios, such as
 
 ## <a name="Q"></a>Q
 ## <a name="R"></a>R
+
+### Roll up
+
+### Root Site
+
 ## <a name="S"></a>S
 
 ### Search Schema
 
 The Search Schema refers to the customisable data dictionary used by SharePoint Search to allow users to query for and return specific information from SharePoint using the available Search tools, such as the Search Results web part in Classic SharePoint or the Search REST API.
+
+### Site
+
+### Site Collection
+
+### Standard Release
 
 ### Style Library
 
@@ -149,9 +177,15 @@ Subsites tend to be less common on Modern SharePoint, as Microsoft recommend the
 
 ## <a name="T"></a>T
 
+### <a name="TargetedRelease"></a>Targeted Release
+
+### Taxonomy
+
 ### Team Site
 
 Team Sites are generally used to faciltitate teamwork. It generally has a set of people with permissions to work on content collaboratively, though not all people can create or edit content in all cases.
+
+### Tenant
 
 ## <a name="U"></a>U
 
