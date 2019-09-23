@@ -47,7 +47,7 @@ If you know how to work with Github, you probably don't need this section. You w
 
 ### Navigate to the Appropriate Location
 
-Thew repo is organized in a set of folders. The structure will undoubtedly change over time, but look for a folder which seems to correspond with the content you want to add. For example, you might want to add your content to the [docs/making-decisions](https://github.com/SharePoint/sp-usage-docs/tree/master/docs/making-decisions) folder if it's an article about how to decide whether to use [Teams Site vs. Communication Site: Which one should I choose?](docs\making-decisions\team-site-or-communication-site.md) Don't stress too much about this: the contributions we get will drive rerstructuring ovver time.
+The repo is organized in a set of folders. The structure will undoubtedly change over time, but look for a folder which seems to correspond with the content you want to add. For example, you might want to add your content to the [docs/making-decisions](https://github.com/SharePoint/sp-usage-docs/tree/master/docs/making-decisions) folder if it's an article about how to decide whether to use [Teams Site vs. Communication Site: Which one should I choose?](docs\making-decisions\team-site-or-communication-site.md) Don't stress too much about this: the contributions we get will drive rerstructuring over time.
 
 ### Create the New File
 
