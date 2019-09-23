@@ -35,7 +35,7 @@ This Glossary is an attempt to demystify some of the terms and acronyms we use e
 
 ### App
 
-An App is a term in SharePoint that means a packaged extension or customisation that you can add to a site. An app can simply be a list that you add to a site to store information, or it can be a package that installs web parts that are available to use on pages, customisations that give you extra functionality within existing lists and libraries, or it could be an entire application that runs outside of SharePoint but has the ability to read and write back to your SharePoint site.
+An App is a term in SharePoint that means a packaged extension or customization that you can add to a site. An app can simply be a list that you add to a site to store information, or it can be a package that installs web parts that are available to use on pages, customizations that give you extra functionality within existing lists and libraries, or it could be an entire application that runs outside of SharePoint but has the ability to read and write back to your SharePoint site.
 
 ## <a name="B"></a>B
 ## <a name="C"></a>C
@@ -80,7 +80,7 @@ A Group in SharePoint can generally refer to one of two things. It may mean:
 
 - Security Group
 
-  - A container to organise users and other groups. A security group can be assigned permission levels on an object such as a site, a library or library, a folder or a document (or page, or item). Generally only a Site Owner can manage who is in a Security Group.
+  - A container to organize users and other groups. A security group can be assigned permission levels on an object such as a site, a library or library, a folder or a document (or page, or item). Generally only a Site Owner can manage who is in a Security Group.
 
 - Office Group
 
