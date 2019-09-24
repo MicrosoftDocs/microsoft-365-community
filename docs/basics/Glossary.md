@@ -212,6 +212,12 @@ The user interface (UI) is what you see on the screen: the layout of the page, t
 
 A View is a way to show data stored in a list or library. It consists of a set of columns that are shown, and a way to pre-filter and sort the information. A View can be considered as a rudimentary "Query" against a list that is used when visiting the list or library.
 
+The most common settings we use in views allow us to:
+
+- Choose which columns are displayed and in which order
+- Filter the items based on the values in any of the columns
+- Group items based on the value of most column types
+
 ## <a name="W"></a>W
 ## <a name="X"></a>X
 ## <a name="Y"></a>Y
