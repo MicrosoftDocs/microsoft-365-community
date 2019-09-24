@@ -4,32 +4,7 @@ As with any technology, there are lots of terms we toss around to explain things
 
 This Glossary is an attempt to demystify some of the terms and acronyms we use every day in working with the platform. See one missing? Feel free to add an Issue with what you want added.
 
-[A](#A) [B](#B) [C](#C)
-[D](#D)
-[E](#E)
-[F](#F)
-[G](#G)
-[H](#H)
-[I](#I)
-[J](#K)
-[K](#K)
-[L](#L)
-[M](#M)
-[N](#N)
-[O](#O)
-[P](#P)
-[Q](#Q)
-[R](#R)
-[S](#S)
-[T](#T)
-[U](#U)
-[V](#V)
-[W](#W)
-[X](#X)
-[Y](#Y)
-[Z](#Z)
-
-
+[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#K) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
 
 ## <a name="A"></a>A
 
@@ -38,6 +13,7 @@ This Glossary is an attempt to demystify some of the terms and acronyms we use e
 An App is a term in SharePoint that means a packaged extension or customization that you can add to a site. An app can simply be a list that you add to a site to store information, or it can be a package that installs web parts that are available to use on pages, customizations that give you extra functionality within existing lists and libraries, or it could be an entire application that runs outside of SharePoint but has the ability to read and write back to your SharePoint site.
 
 ## <a name="B"></a>B
+
 ## <a name="C"></a>C
 
 ### Classic SharePoint
@@ -61,7 +37,9 @@ A Crawled Property is one of the basic units of the Search Schema. They are crea
 Improving specific aspects of SharePoint functionality by changing settings through the end user interface.
 
 ## <a name="D"></a>D
+
 ## <a name="E"></a>E
+
 ## <a name="F"></a>F
 
 ### Farm
@@ -94,7 +72,9 @@ A Hub Site is a SharePoint site that can have other sites associated to it. This
 
 
 ## <a name="I"></a>I
+
 ## <a name="J"></a>J
+
 ## <a name="K"></a>K
 
 ### Known Folder Move (KFM)
@@ -136,6 +116,7 @@ Managed Properties can be created (if you have the appropriate permissions), alt
 Modern SharePoint refers to the user interface (UI) that has been available in SharePoint Online to larger and larger degrees starting in about 2016. Some aspects of the modern UI are also available in SharePoint 2019 (on premises). Modern SharePoint does not use many of the underpinnings of classic SharePoint, such as master pages and page layouts. It is built using more current Web development tools and practices than classic SharePoint.
 
 ## <a name="N"></a>N
+
 ## <a name="O"></a>O
 
 ### On premises
@@ -219,6 +200,9 @@ The most common settings we use in views allow us to:
 - Group items based on the value of most column types
 
 ## <a name="W"></a>W
+
 ## <a name="X"></a>X
+
 ## <a name="Y"></a>Y
+
 ## <a name="Z"></a>Z
