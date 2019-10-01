@@ -1,3 +1,4 @@
+![sp-usage-docs](https://repository-images.githubusercontent.com/184586431/54197200-e46e-11e9-978c-0e087a738ec4)
 
 # Welcome to the SharePoint Usage Docs!
 
