@@ -38,6 +38,10 @@ Improving specific aspects of SharePoint functionality by changing settings thro
 
 ## <a name="D"></a>D
 
+### Disaster Recovery (DR)
+
+The planning and practice of ensuring systems are available when a disaster occurs or that they can be restored as quickly as possible.
+
 ## <a name="E"></a>E
 
 ## <a name="F"></a>F
