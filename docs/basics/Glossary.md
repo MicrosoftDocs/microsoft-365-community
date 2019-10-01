@@ -176,7 +176,7 @@ Targeted Release is an option to receive updates to the platform earlier than wi
 
 Targeted Release can be enabled in two ways: per tenant and per user. The two different ways of setting this preference result in different changes. Some updates only make sense in the context of a tenant (e.g., Communication sites) and others can make sense in the context of a person. Giving users Targeted Release does *not* mean they will see all updates sooner, only those which make sense in a person context.
 
-Finally, once you have Targeted Release turned on, it is very hard to go back. your users will be used to new functionality, and you would be removing it. Thus the warning above about not using Targeted Release in a production tenant.
+Finally, once you have Targeted Release turned on, it is very hard to go back. Your users will be used to new functionality, and you would be removing it. Thus the warning above about not using Targeted Release in a production tenant is also relevant from a change management perspective..
 
 ### Taxonomy
 
