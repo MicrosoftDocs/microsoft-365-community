@@ -14,7 +14,7 @@ An App is a term in SharePoint that means a packaged extension or customization 
 
 ### Application Customizer
 
-See [SharePoint Framework](#harePoint-framework)
+See [SharePoint Framework](#sharepoint-framework)
 
 ## B
 
@@ -26,7 +26,7 @@ Classic SharePoint refers to the user interface (UI) that was available starting
 
 ### Command Set
 
-See [SharePoint Framework](#harePoint-framework)
+See [SharePoint Framework](#sharePoint-framework)
 
 ### Communication Site
 
@@ -42,7 +42,7 @@ A Crawled Property is one of the basic units of the Search Schema. They are crea
 
 ### Customization
 
-Improving specific aspects of SharePoint functionality by changing settings through the end user interface. See also [SharePoint Framework](#SharePoint-Framework)
+Improving specific aspects of SharePoint functionality by changing settings through the end user interface. See also [SharePoint Framework](#sharepoint-framework)
 
 ## D
 
@@ -58,7 +58,7 @@ The planning and practice of ensuring systems are available when a disaster occu
 
 ### Field Customizer
 
-See [SharePoint Framework](#harePoint-framework)
+See [SharePoint Framework](#sharePoint-framework)
 
 ### First Release
 
@@ -243,7 +243,7 @@ The most common settings we use in views allow us to:
 
 A web part is a consolidated piece of functionality that can be added one or more times to a page. Web parts can be first-party, those created and maintained by Microsoft or third-party being those created by developers in your own organization, the community via the PnP, or by a consulting service.
 
-Also see [SharePoint Framework](#harePoint-framework)
+Also see [SharePoint Framework](#sharePoint-framework)
 
 ## X
 
