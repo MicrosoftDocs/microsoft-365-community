@@ -6,19 +6,27 @@ This Glossary is an attempt to demystify some of the terms and acronyms we use e
 
 [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#K) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
 
-## <a name="A"></a>A
+## A
 
 ### App
 
 An App is a term in SharePoint that means a packaged extension or customization that you can add to a site. An app can simply be a list that you add to a site to store information, or it can be a package that installs web parts that are available to use on pages, customizations that give you extra functionality within existing lists and libraries, or it could be an entire application that runs outside of SharePoint but has the ability to read and write back to your SharePoint site.
 
-## <a name="B"></a>B
+### Application Customizer
 
-## <a name="C"></a>C
+See [SharePoint Framework](#harePoint-framework)
+
+## B
+
+## C
 
 ### Classic SharePoint
 
 Classic SharePoint refers to the user interface (UI) that was available starting in SharePoint 2013 - what you might think of as the blue and white UI. Classic SharePoint uses master pages and page layouts for content structuring. These capabilities were built on the .NET framework.
+
+### Command Set
+
+See [SharePoint Framework](#harePoint-framework)
 
 ### Communication Site
 
@@ -32,27 +40,31 @@ The Content Query Web Part (CQWP) is a web part available in Classic SharePoint 
 
 A Crawled Property is one of the basic units of the Search Schema. They are created automatically by the SharePoint Search Indexer (or Crawler) when it is discovering content that can be searched. The information stored in Crawled Properties is made available in queries by mapping them to Managed Properties.
 
-### <a name="Customization"></a>Customization
+### Customization
 
-Improving specific aspects of SharePoint functionality by changing settings through the end user interface.
+Improving specific aspects of SharePoint functionality by changing settings through the end user interface. See also [SharePoint Framework](#SharePoint-Framework)
 
-## <a name="D"></a>D
+## D
 
 ### Disaster Recovery (DR)
 
 The planning and practice of ensuring systems are available when a disaster occurs or that they can be restored as quickly as possible.
 
-## <a name="E"></a>E
+## E
 
-## <a name="F"></a>F
+## F
 
 ### Farm
 
+### Field Customizer
+
+See [SharePoint Framework](#harePoint-framework)
+
 ### First Release
 
-Deprecated - please see [Targeted Release](#TargetedRelease).
+Deprecated - please see [Targeted Release](#targeted-release).
 
-## <a name="G"></a>G
+## G
 
 ### Governance
 
@@ -68,23 +80,23 @@ A Group in SharePoint can generally refer to one of two things. It may mean:
 
   - An Office 365 Group is a concept within Office 365 that allows users can be members of, which has it's own e-mail address, and can be associated to a Microsoft Teams team, or a SharePoint Site. A Microsoft Teams Team automatically creates an Office 365 Group. These can be public where anyone can join, or Private when you need to be invited or given a code to join. Permissions are simplified to only "Owners" or "Members".
 
-## <a name="H"></a>H
+## H
 
 ### Hub Site
 
 A Hub Site is a SharePoint site that can have other sites associated to it. This allows you to group sites by department, region, or project etc. Features such as News and Highlight Content can be used to produce a roll up view of content like pages and documents from the associated sites on a page on the Hub Site.
 
-## <a name="I"></a>I
+## I
 
-## <a name="J"></a>J
+## J
 
-## <a name="K"></a>K
+## K
 
 ### Known Folder Move (KFM)
 
 Known Folder Move (KFM) allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost.
 
-## <a name="L"></a>L
+## L
 
 ### Library
 
@@ -96,13 +108,13 @@ Office 365 offers multiple licensing options (Kiosk, F1, E1, etc.), each of whic
 
 ### List
 
-A List in SharePoint is a table used to store information in a SharePoint site. A list has columns that can be used to store differen types of information, and each row in a list is known as an "Item". SharePoint attempts you to very carefully design lists if you attempt to store "large" amounts of data (more than 5,000 items), including things like limiting the number of "Lookup Columns" that can be used. Therefore, if you are planning on storing more than a few thousand items, be sure to follow Microsoft guidelines on storing large amounts of data in lists.
+A List in SharePoint is a table used to store information in a SharePoint site. A list has columns that can be used to store different types of information, and each row in a list is known as an "Item". SharePoint attempts you to very carefully design lists if you attempt to store "large" amounts of data (more than 5,000 items), including things like limiting the number of "Lookup Columns" that can be used. Therefore, if you are planning on storing more than a few thousand items, be sure to follow Microsoft guidelines on storing large amounts of data in lists.
 
 An item in a list can have multiple file attachments added. This is useful if you use a custom list as an Issue Tracker for example, and want to be able to add screenshots to an item in.
 
 A library is a type of list where documents or other files are added as items, but no further file attachments can be added.
 
-## <a name="M"></a>M
+## M
 
 ### Managed Metadata
 
@@ -118,15 +130,19 @@ Managed Properties can be created (if you have the appropriate permissions), alt
 
 Modern SharePoint refers to the user interface (UI) that has been available in SharePoint Online to larger and larger degrees starting in about 2016. Some aspects of the modern UI are also available in SharePoint 2019 (on premises). Modern SharePoint does not use many of the underpinnings of classic SharePoint, such as master pages and page layouts. It is built using more current Web development tools and practices than classic SharePoint.
 
-## <a name="N"></a>N
+## N
 
-## <a name="O"></a>O
+## O
 
 ### On premises
 
 On premises refers to running servers yourself, whether they are in your physical building, a data center where you rent space, or at a hosting company that runs servers specifically for you.
 
-## <a name="P"></a>P
+## P
+
+### Patterns and Practices
+
+Patterns and Practices is an open-source initiative coordinated by SharePoint engineering. This community controls SharePoint development documentation, samples, reusable controls, and other relevant open-source initiatives related to SharePoint development.
 
 ### Permission Level
 
@@ -134,19 +150,23 @@ A Permission Level is a set of specific permissions such as "Add an item" or "Ed
 
 Custom Permission Levels can be created for business-specific scenarios, such as "Can add documents but not delete" by choosing the correct options, and applied to a User or Group.
 
-## <a name="Q"></a>Q
+### PnP
+
+See [Patterns and Practices](#patterns-and-practices)
+
+## Q
 
 ### Out of the box
 
 Capabilities included with SharePoint without writing any code or doing heavy lifting. Depending on who you talk to, this definition probably includes a level of [customization](#Customization) including things like creating new sites, lists, and libraries.
 
-## <a name="R"></a>R
+## R
 
 ### Roll up
 
 ### Root Site
 
-## <a name="S"></a>S
+## S
 
 ### Search Schema
 
@@ -162,15 +182,24 @@ The Search Schema refers to the customizable data dictionary used by SharePoint 
 
 The Style Library is a document library in the Root Web of a SharePoint site that is used mainly in Classic SharePoint Sites. One of the purposes of this library is as a recognized "secure location" to store XSL Templates that are used by the Content Query Web Part (XSL templates outside of the Style Library cannot be used in Content Query Web Parts).
 
+### SharePoint Framework
+
+The SharePoint Framework (also known as SPFx) is a way for developers to extend SharePoint online, Microsoft Teams and in a slightly more limited way SharePoint 2019 and SharePoint 2016. This framework provides a scaffold for developers to build client-side custom extensions which may include:
+
+- Web Parts - functionality that can be added to a page. Web parts can also be extended as tabs in Microsoft Teams.
+- Application Customizers - which are extensions that run on every page of a site and allow the developer to add visible or non-visible content to the page via the top or bottom placeholder
+- Field Customizers - which allow the developer to build modified renderings of fields in a list.
+- Command Sets - which extend the command surface in lists to provide custom actions.
+
 ### Subsite
 
 A Site is a container that has lists, libraries, pages, apps, and sites (as children). A site that is a child of another site is a subsite.
 
 Subsites tend to be less common on Modern SharePoint, as Microsoft recommend the use of Hub Sites to group together related sites.
 
-## <a name="T"></a>T
+## T
 
-### <a name="TargetedRelease"></a>Targeted Release
+### Targeted Release
 
 Targeted Release is an option to receive updates to the platform earlier than with Standard Release. Targeted Release should *not* be used in production tenants (you need to decide how you define this), as there are occasions where Target Release functionality is buggy or is withdrawn. Consider it similar to the old term "beta".
 
@@ -186,7 +215,7 @@ Team Sites are generally used to facilitate teamwork. It generally has a set of 
 
 ### Tenant
 
-## <a name="U"></a>U
+## U
 
 ### User experience (UX)
 
@@ -196,7 +225,7 @@ The user experience (UX) is how people react to and feel about the user interfac
 
 The user interface (UI) is what you see on the screen: the layout of the page, the controls you can use to accomplish things (like Web Parts), and where the text and images sit.
 
-## <a name="V"></a>V
+## V
 
 ### View
 
@@ -208,10 +237,16 @@ The most common settings we use in views allow us to:
 - Filter the items based on the values in any of the columns
 - Group items based on the value of most column types
 
-## <a name="W"></a>W
+## W
 
-## <a name="X"></a>X
+### Web Part
 
-## <a name="Y"></a>Y
+A web part is a consolidated piece of functionality that can be added one or more times to a page. Web parts can be first-party, those created and maintained by Microsoft or third-party being those created by developers in your own organization, the community via the PnP, or by a consulting service.
 
-## <a name="Z"></a>Z
+Also see [SharePoint Framework](#harePoint-framework)
+
+## X
+
+## Y
+
+## Z
