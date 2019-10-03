@@ -138,6 +138,10 @@ Modern SharePoint refers to the user interface (UI) that has been available in S
 
 On premises refers to running servers yourself, whether they are in your physical building, a data center where you rent space, or at a hosting company that runs servers specifically for you.
 
+### Out of the box
+
+Capabilities included with SharePoint without writing any code or doing heavy lifting. Depending on who you talk to, this definition probably includes a level of [customization](#Customization) including things like creating new sites, lists, and libraries.
+
 ## P
 
 ### Patterns and Practices
@@ -153,6 +157,12 @@ Custom Permission Levels can be created for business-specific scenarios, such as
 ### PnP
 
 See [Patterns and Practices](#patterns-and-practices)
+
+### PowerShell
+
+[PowerShell](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/powershell) is an automation scripting language from Microsoft, which was originally only available on Windows devices, and built on top of the .NET Framework. Since 2016, we also have [PowerShell Core](https://github.com/PowerShell/PowerShell) which is open-source, cross-platform, and built on top of .NET Core.
+
+The version that ships on Windows devices is called Windows PowerShell, and the cross-platform version is called PowerShell Core, and is also available on Windows.
 
 ## Q
 
