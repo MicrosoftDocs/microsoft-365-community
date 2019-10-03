@@ -24,6 +24,12 @@ See [SharePoint Framework](#sharepoint-framework)
 
 Classic SharePoint refers to the user interface (UI) that was available starting in SharePoint 2013 - what you might think of as the blue and white UI. Classic SharePoint uses master pages and page layouts for content structuring. These capabilities were built on the .NET framework.
 
+### Column Formatting
+
+Column Formatting is a SharePoint feature that allows users to customize the display of fields in Document Libraries and Lists. Colors, icons, images and other elements are used to highlight content and improve the user experience. Links are used to make content actionable. 
+
+Some columns types, like Date and Choice, include ready made design templates. All column types allow for advanced formatting using JSON code.  
+
 ### Command Set
 
 See [SharePoint Framework](#sharePoint-framework)
@@ -256,6 +262,10 @@ The most common settings we use in views allow us to:
 - Choose which columns are displayed and in which order
 - Filter the items based on the values in any of the columns
 - Group items based on the value of most column types
+
+### View Formatting
+
+View Formatting is a SharePoint feature that allows users to customize the display of rows in Lists using JSON code. Like [Column Formatting](#Column-Formatting), colors, icons, images and other elements are used to highlight content and improve the user experience. 
 
 ## W
 
