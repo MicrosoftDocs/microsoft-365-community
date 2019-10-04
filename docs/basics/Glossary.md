@@ -178,10 +178,6 @@ The version that ships on Windows devices is called Windows PowerShell, and the 
 
 ## Q
 
-### Out of the box
-
-Capabilities included with SharePoint without writing any code or doing heavy lifting. Depending on who you talk to, this definition probably includes a level of [customization](#Customization) including things like creating new sites, lists, and libraries.
-
 ## R
 
 ### Roll up
@@ -197,6 +193,13 @@ The Search Schema refers to the customizable data dictionary used by SharePoint 
 ### Site
 
 ### Site Collection
+
+A Site collection is a group of websites that have the same owner and share administrative settings.
+
+- In *SharePoint Online*, site collections are the top level available to admins, and visible in the SharePoint Admin Center under "Active Sites".
+- In *SharePoint on-premises*, site collections are created within a Web Application, which is a level higher.
+
+When you create a site collection, a top-level site is automatically created in the site collection (called root site). You can then create one or more subsites below the top-level site. The entire structure of the top-level site and all its subsites is called a site collection.
 
 ### Standard Release
 
