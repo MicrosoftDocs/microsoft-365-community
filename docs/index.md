@@ -7,7 +7,8 @@
 * [What is a Content Type?](basics/what-is-content-type.md)
 * [What is a Site Column?](basics/what-is-site-column.md)
 * [Known Folder Move (KFM) Benefits for Endusers](basics/known-folder-move-benefits-for-enduser.md)
-* [ Benefits of using PowerShell with SharePoint](basics/benefits-of-using-powershell-with-sharepoint.md)
+* [Benefits of using PowerShell with SharePoint](basics/benefits-of-using-powershell-with-sharepoint.md)
+* [Library Scenarios](basics/library-scenarios.md)
 
 ## Making Decisions
 
