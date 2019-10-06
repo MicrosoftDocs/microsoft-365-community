@@ -98,7 +98,7 @@ A Hub Site is a SharePoint site that can have other sites associated to it. This
 
 Inheritance refers to the cascading of default site permission levels (i.e. Owner, Member and Visitor) to site Document Libraries, Lists, Site Pages etc. 
 
-Inheritance can be "broken" to allow for [unique permissions](Unique-Permissions).
+Inheritance can be "broken" to allow for [unique permissions](#Unique-Permissions).
 
 ## J
 
