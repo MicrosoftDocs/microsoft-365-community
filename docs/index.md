@@ -9,6 +9,7 @@
 * [Known Folder Move (KFM) Benefits for Endusers](basics/known-folder-move-benefits-for-enduser.md)
 * [Benefits of using PowerShell with SharePoint](basics/benefits-of-using-powershell-with-sharepoint.md)
 * [Library Scenarios](basics/library-scenarios.md)
+* [Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions.](basics/permission-model-diferences.md)
 
 ## Making Decisions
 
@@ -18,3 +19,4 @@
 * [List columns or Site columns: Which one to choose?](making-decisions/list-column-or-site-column-which-one-to-choose.md)
 * [Can Machine Learning be used to assign managed metadata attributes for items?
 ](making-decisions/machine-learning-and-managed-metadata.md)
+* [Changing Microsoft Teams from Private to Public, what to expect in SharePoint?](making-decisions/changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md)
