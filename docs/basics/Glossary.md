@@ -20,6 +20,10 @@ See [SharePoint Framework](#sharepoint-framework)
 
 ## C
 
+### CAML (Collaborative Application Markup Language)
+
+An XML fragment used by SharePoint to define the internal structure of sites, lists, fields, views and content types, declaratively, also used to query data in SharePoint lists to selectively retrieve data.
+
 ### Classic SharePoint
 
 Classic SharePoint refers to the user interface (UI) that was available starting in SharePoint 2013 - what you might think of as the blue and white UI. Classic SharePoint uses master pages and page layouts for content structuring. These capabilities were built on the .NET framework.
@@ -58,9 +62,15 @@ The planning and practice of ensuring systems are available when a disaster occu
 
 ## E
 
+### Enterprise Content Types
+
+Content Types and Site Columns that are defined in the Content Type Hub, then published to all sites collections in the tenant.
+
 ## F
 
 ### Farm
+
+A set of servers that hosts the SharePoint Application, including SQL servers that host the SharePoint databases. A Farm can be single server or multi-tiered architecture containing multiple servers.
 
 ### Field Customizer
 
@@ -76,15 +86,19 @@ Deprecated - please see [Targeted Release](#targeted-release).
 
 ### Group
 
-A Group in SharePoint can generally refer to one of two things. It may mean:
+A Group in SharePoint can generally refer to one of three things. It may mean:
 
-- Security Group
+- SharePoint Group
 
-  - A container to organize users and other groups. A security group can be assigned permission levels on an object such as a site, a library or library, a folder or a document (or page, or item). Generally only a Site Owner can manage who is in a Security Group.
+  - A container to organize users and other security groups. A SharePoint group can be assigned permission levels on an object such as a site, a library or library, a folder or a document (or page, or item). Generally only a Site Owner can manage who is in a SharePoint Group.
 
 - Office Group
 
   - An Office 365 Group is a concept within Office 365 that allows users can be members of, which has it's own e-mail address, and can be associated to a Microsoft Teams team, or a SharePoint Site. A Microsoft Teams Team automatically creates an Office 365 Group. These can be public where anyone can join, or Private when you need to be invited or given a code to join. Permissions are simplified to only "Owners" or "Members".
+  
+ - Security Group
+ 
+  - A security group is a container of users defined in Active Directory, one or more of these can be added to SharePoint Groups. Adding users in the security groups applies permissions in SharePoint.
 
 ## H
 
@@ -183,6 +197,8 @@ The version that ships on Windows devices is called Windows PowerShell, and the 
 ### Roll up
 
 ### Root Site
+
+The base address in a web application or tenant for the first SharePoint Site collection. Typically, defined without use of managed paths ("/sites/" or "/teams/"), for example https://mytenant.sharepoint.com or http://sharepoint
 
 ## S
 
