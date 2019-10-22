@@ -25,3 +25,11 @@ Depending on what information you track in the site itself or in another site â€
 There are opportunities to automate much of this as well. We could run a Flow on the Project Inventory list and when a project changes status or a key date is approaching, we could automatically apply the Site Designs. We could also use the search API to find sites with a specific piece or set of content and apply a Site Design with a Flow based upon that discovery.
 
 In other words, if you have a business process you want to support, Site Designs could be an important piece of the puzzle. Moving a project through its life cycle is just one powerful example.
+
+---
+
+Principal author: Marc D Anderson, MVP
+
+LinkedIn: https://www.linkedin.com/in/marcanderson/
+
+Blog: [sympmarc.com](http://sympmarc.com)
