@@ -30,7 +30,7 @@ Classic SharePoint refers to the user interface (UI) that was available starting
 
 ### Column Formatting
 
-Column Formatting is a SharePoint feature that allows users to customize the display of fields in Document Libraries and Lists. Colors, icons, images and other elements are used to highlight content and improve the user experience. Links are used to make content actionable. 
+Column Formatting is a SharePoint feature that allows users to customize the display of fields in Document Libraries and Lists. Colors, icons, images and other elements are used to highlight content and improve the user experience. Links are used to make content actionable.
 
 Some columns types, like Date and Choice, include ready made design templates. All column types allow for advanced formatting using JSON code.  
 
@@ -88,17 +88,17 @@ Deprecated - please see [Targeted Release](#targeted-release).
 
 A Group in SharePoint can generally refer to one of three things. It may mean:
 
-- SharePoint Group
+#### SharePoint Group
 
-  - A container to organize users and other security groups. A SharePoint group can be assigned permission levels on an object such as a site, a library or library, a folder or a document (or page, or item). Generally only a Site Owner can manage who is in a SharePoint Group.
+  A container to organize users and other security groups. A SharePoint group can be assigned permission levels on an object such as a site, a library or library, a folder or a document (or page, or item). Generally only a Site Owner can manage who is in a SharePoint Group.
 
-- Office Group
+#### Office Group
 
-  - An Office 365 Group is a concept within Office 365 that allows users can be members of, which has it's own e-mail address, and can be associated to a Microsoft Teams team, or a SharePoint Site. A Microsoft Teams Team automatically creates an Office 365 Group. These can be public where anyone can join, or Private when you need to be invited or given a code to join. Permissions are simplified to only "Owners" or "Members".
+  An Office 365 Group is a concept within Office 365 that allows users can be members of, which has it's own e-mail address, and can be associated to a Microsoft Teams team, or a SharePoint Site. A Microsoft Teams Team automatically creates an Office 365 Group. These can be public where anyone can join, or Private when you need to be invited or given a code to join. Permissions are simplified to only "Owners" or "Members".
   
- - Security Group
+#### Security Group
  
-  - A security group is a container of users defined in Active Directory, one or more of these can be added to SharePoint Groups. Adding users in the security groups applies permissions in SharePoint.
+  A security group is a container of users defined in Active Directory, one or more of these can be added to SharePoint Groups. Adding users in the security groups applies permissions in SharePoint.
 
 ## H
 
@@ -157,6 +157,12 @@ Managed Properties can be created (if you have the appropriate permissions), alt
 Modern SharePoint refers to the user interface (UI) that has been available in SharePoint Online to larger and larger degrees starting in about 2016. Some aspects of the modern UI are also available in SharePoint 2019 (on premises). Modern SharePoint does not use many of the underpinnings of classic SharePoint, such as master pages and page layouts. It is built using more current Web development tools and practices than classic SharePoint.
 
 ## N
+
+### Namespace
+
+A namespace refers to the conventions we use to determine major and minor names within a specific domain. For example, we need to use the /sites namespace carefully so we don't have collisions. If Harold Robinson wants to create a site at /sites/HRm, then Human Resources will have a problem.
+
+In programming, namespaces can be far more complex - like List.Fields within Microsoft.SharePoint.Client - but we worry about namespacing in our day-to-day lives, too.  It wouldn't work very well if all our children were named Daryl.
 
 ## O
 
