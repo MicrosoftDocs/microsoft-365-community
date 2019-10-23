@@ -1,12 +1,12 @@
 # Using Site Designs to Manage Project Life Cycles
 
-One possible use for Site Designs is to manage the life cycle of a unit of work. Site Designs allow us to do such things as create list and libraries, apply a theme, install and add-in or solution, set permissions, etc. (See: [Site design JSON schema](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-json-schema))
+One possible use for Site Designs is to manage the life cycle of a unit of work. Site Designs allow us to do such things as create lists and libraries, apply a theme, install an add-in or solution, set permissions, etc. (See: [Site design JSON schema](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-json-schema))
 
 ![Project Lifecycle](../../images/site-design-life-cycle/Lifecycle.png)
 
 We can also trigger a Flow, so that opens up a whole additional world of possibilities. If we can’t accomplish what we need to do in the Flow, we can also call a custom Web Service from the Flow. In the Web Service, we can do anything CSOM opens up to us. In other words, Site Designs are the entry point we can use to do pretty much anything we need in our sites.
 
-So what does this have to do with project life cycle? We’ll think about it like this:
+So what does this have to do with project life cycle? Well think about it like this:
 
 * A project may start as just a proposal. In order to work on that proposal, we may need a library to store the information we are using to put the proposal together. (For some reason, many organizations I work with don’t see the value of connecting the proposal artifacts with the project itself. I do!)
 * Once the proposal is accepted, we need some libraries to store our working documents.
@@ -15,7 +15,7 @@ So what does this have to do with project life cycle? We’ll think about it lik
 
 Site Designs could help us move through this process:
 
-* When we create the site, we might apply the Proposal Site Site Design. It might create a **Proposal Documents** library and associate the site with the **Active Proposals** Hub Site. Associating the the Hub site would set the theme to theme to “active proposal blue“.
+* When we create the site, we might apply the **Proposal Site** Site Design. It might create a **Proposal Documents** library and associate the site with the **Active Proposals** Hub Site. Associating with the Hub site would set the theme to theme to “active proposal blue“.
 * If the proposal is accepted, we might apply the **Project Site** Site Design. This Site Design might instantiate a few Content Types, create a few Document Libraries and apply the Content Types, associate the site with the **Active Projects** Hub Site, and add the **Executive Team** to the Site Members. By associating the site with the Active Projects Hub Site, the theme would be set to “active project green“,
 * When the project is nearing completion, we could apply the **Knowledge Capture** Site Design. This might instantiate a few Content Types, create a Document Library to capture the important outcomes and apply the Content Types, set the theme to "knowledge capture teal", and add the **KM Team** to the Site Members.
 * When the project wraps up apply the **Archive Project** Site Design, which disassociates the site from the **Active Projects** Hub Site and associates with the **Archived Projects** Hub Site. (This would naturally apply the “archived project grey” theme.)
