@@ -6,7 +6,7 @@ One possible use for Site Designs is to manage the life cycle of a unit of work.
 
 We can also trigger a Flow, so that opens up a whole additional world of possibilities. If we can’t accomplish what we need to do in the Flow, we can also call a custom Web Service from the Flow. In the Web Service, we can do anything CSOM opens up to us. In other words, Site Designs are the entry point we can use to do pretty much anything we need in our sites.
 
-So what does this have to do with project life cycle? We’ll think about it like this:
+So what does this have to do with project life cycle? Well think about it like this:
 
 * A project may start as just a proposal. In order to work on that proposal, we may need a library to store the information we are using to put the proposal together. (For some reason, many organizations I work with don’t see the value of connecting the proposal artifacts with the project itself. I do!)
 * Once the proposal is accepted, we need some libraries to store our working documents.
