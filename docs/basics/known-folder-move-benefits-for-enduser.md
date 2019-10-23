@@ -1,32 +1,28 @@
-# Known Folder Move (KFM) Benefits for Endusers 
+# Known Folder Move (KFM) Benefits for End Users
 
-A little recap, KFM is a OneDrive sync feature that works with Windows 7, Windows 8/8.1, Windows 10. This feature allows business users to automatically backup/redirect their Windows clients Desktops, Documents and Pictures folders to OneDrive for Business. Personally I've only used and deployed KFM to Windows 10 platform. 
+KFM is a OneDrive sync feature that works with Windows 7, Windows 8/8.1, Windows 10. This feature allows business users to automatically backup/redirect their Windows clients Desktops, Documents and Pictures folders to OneDrive for Business.
 
-## Benefits of KFM:  
+## Benefits of KFM
 
-*   Automatic Backup of content on your device
-*   You really don't need to worry about uploading your content, as everything you put on the Desktop/Documents/Pictures is uploaded automatically
-*   Protection against &quot;ransomware&quot; attack on the device because OneDrive support in place file restore 
-*   Seamles switching to another device and continue where you left your files
-*   Dependent on your licensing, you will get at least 1 TB of personal backup storage
-*   If your business are small without central IT, users can turn on this feature in a few easy steps
-*   If your business are bigger and have central IT, you can turn on this with GPO's
-*   If you have used Offline files before you might have experienced that it's a bit difficult to know if it have synchronized correctly with the file share you have been configured against. In my opinion it's a lot easier to catch synch issues with OneDrive and esier to fix.
-*   KFM is a &quot;killer&quot; feature when migrating personal file shares to OneDrive
+* Automatic Backup of content on your device
+* You really don't need to worry about uploading your content, as everything you put on the Desktop/Documents/Pictures is uploaded automatically
+* Protection against ransomware attack on the device because OneDrive support in place file restore
+* Seamless switching to another device and continue where you left your files
+* Dependent on your licensing, you will get at least 1 TB of personal backup storage
+* If your business are small without central IT, users can turn on this feature in a few easy steps
+* If your business are bigger and have central IT, you can turn on this with GPO's
+* If you have used Offline files before you might have experienced that it's a bit difficult to know if it have synchronized correctly with the file share you have been configured against. In my opinion it's a lot easier to catch synch issues with OneDrive and easier to fix.
+* KFM is a killer feature when migrating personal file shares to OneDrive
 
-
-
-## How do you turn it on:
+## How you turn it on
 
 Follow this [Guide]( https://support.office.com/en-us/article/back-up-your-documents-pictures-and-desktop-folders-with-onedrive-d61a7930-a6fb-4b95-b28a-6552e77c3057?ui=en-US&rs=en-US&ad=US) at Microsoft support.
-
 
 ![KFMOptions](../../images/known-folder-move-benefits-for-endusers/KFM01.png)
 
 ![KFMOptions](../../images/known-folder-move-benefits-for-endusers/KFM02.png)
 
-
-## Tips & Tricks to be aware of:
+## Tips & Tricks
 
 Here is a few things I've experienced with this feature that might help in case of troubleshooting:
 
@@ -38,9 +34,7 @@ Here is a few things I've experienced with this feature that might help in case 
 
 ---
 
-
-
-**Principal author**: Jimmy Hang, MCT, MCSE: Productivity 
+**Principal author**: Jimmy Hang, MCT, MCSE: Productivity
 
 **LinkedIn**: https://www.linkedin.com/in/jimmyhang/
 

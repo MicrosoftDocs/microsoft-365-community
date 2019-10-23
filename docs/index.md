@@ -6,7 +6,7 @@
 * [Glossary](basics/Glossary.md)
 * [What is a Site Column?](basics/what-is-site-column.md)
 * [What is a Content Type?](basics/what-is-content-type.md)
-* [Known Folder Move (KFM) Benefits for Endusers](basics/known-folder-move-benefits-for-enduser.md)
+* [Known Folder Move (KFM) Benefits for End Users](basics/known-folder-move-benefits-for-enduser.md)
 * [Benefits of using PowerShell with SharePoint](basics/benefits-of-using-powershell-with-sharepoint.md)
 * [Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions.](basics/permission-model-diferences.md)
 
