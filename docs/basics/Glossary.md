@@ -102,6 +102,16 @@ A Group in SharePoint can generally refer to one of three things. It may mean:
 
 ## H
 
+### Home Site
+
+A Home Site is a special type of [Hub Site](#Hub-Site) with a few extra superpowers:
+
+* The Home Site is the destination for the home icon in the SharePoint mobile app.
+
+* It provides an enterprise-wide search scope, making ALL content in your tenant findable.
+
+Home sites are intended for use as the landing page for your organization. On launch, there will be only one Home Site per tenant allowed.
+
 ### Hub Site
 
 A Hub Site is a SharePoint site that can have other sites associated to it. This allows you to group sites by department, region, or project etc. Features such as News and Highlight Content can be used to produce a roll up view of content like pages and documents from the associated sites on a page on the Hub Site.
@@ -217,6 +227,26 @@ The base address in a web application or tenant for the first SharePoint Site co
 The Search Schema refers to the customizable data dictionary used by SharePoint Search to allow users to query for and return specific information from SharePoint using the available Search tools, such as the Search Results web part in Classic SharePoint or the Search REST API.
 
 ### Site
+
+### SharePoint Home Page
+
+Soon to be known as the SharePoint Start Page, this page (at /_layouts/15/sharepoint.aspx in your tenant) provides a personalized view of SharePoint based on who you are. You see:
+
+* A rolled up collection of News based on the sites you are following
+
+* Sites you are following
+
+* Sites you frequently visit
+
+* Sites you've visited recently
+
+* Featured links, curated by your tenant admins
+
+* Suggested sites based on your activity, powered by the Office Graph
+
+### SharePoint Start Page
+
+See [SharePoint Home Page](#sharepoint-home-page)
 
 ### Site Collection
 
