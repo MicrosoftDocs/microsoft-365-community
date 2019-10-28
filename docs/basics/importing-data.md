@@ -43,7 +43,7 @@ The “Copy to” feature will copy the files / folders to the new location whil
 ![Target location](../../images/importing-data/copy-to-files-target-location.png)
 
 - Click “Copy here” to complete the file / folder copy. Example “Copy here” image shown below:<br>
-![“Copy here” button](../../images/importing-data/copy-to-files-copy-here.png)
+![“Copy here” button](../../images/importing-data/copy-to-files-target-copy-here.png)
 
 - The “Show progress” button will notify you of any errors and when possible provide an intervention. Example “Show button” image shown below:<br>
 ![“Show progress” button](../../images/importing-data/copy-to-files-show-progress.png)
