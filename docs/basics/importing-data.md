@@ -21,8 +21,9 @@ SharePoint document libraries support the *drag and drop* of files and folders f
 
 ## Document Libraries – Upload files and folders (User)
 Like the *drag and drop* of files and folders, SharePoint document libraries also support the direct uploading files and folders. With the target site and document library open:
-- Click “Upload” and select “Files” or “Folder”. The “Files” option does not allow the uploading of folders. Similarly, the “Folder” option does not allow files. Example “Upload” button image shown below:<br>
+- Click “Upload” and select “Files” or “Folder”. Example “Upload” button image shown below:<br>
 ![Upload of files and folders from computer to site](../../images/importing-data/upload-files-folders.png)
+The “Files” option does not allow the uploading of folders.  Similarly, the “Folder” option does not allow files. 
 
 - Select the source files / folders and click “Open”. Example source files / folders image shown below:<br>
 ![Upload files](../../images/importing-data/upload-files.png)
