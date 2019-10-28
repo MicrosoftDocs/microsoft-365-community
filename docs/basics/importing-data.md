@@ -23,7 +23,7 @@ SharePoint document libraries support the *drag and drop* of files and folders f
 Like the *drag and drop* of files and folders, SharePoint document libraries also support the direct uploading files and folders. With the target site and document library open:
 - Click “Upload” and select “Files” or “Folder”.<br>
 ![Upload of files and folders from computer to site](../../images/importing-data/upload-files-folders.png)
-The “Files” option does not allow the uploading of folders. Similarly, the “Folder” option does not allow files. 
+The **“Files”** option does not allow the uploading of folders. Similarly, the **“Folder”** option does not allow files. 
 
 - Select the source files / folders and click “Open”.<br>
 ![Upload files](../../images/importing-data/upload-files.png)
@@ -35,7 +35,7 @@ The “Files” option does not allow the uploading of folders. Similarly, the �
 ## Document Libraries – Copy to and Move to (Power user)
 SharePoint document libraries support the copying and moving of files / folders to new locations. New locations can include a different folder, document library or site, including OneDrive for Business.
 
-The “Copy to” feature will copy the files / folders to the new location while leaving the source files / folders unchanged. With the target site and document library open:
+The **“Copy to”** feature will copy the files / folders to the new location while leaving the source files / folders unchanged. With the target site and document library open:
 - Select the source files / folders and click “Copy to”.<br>
 ![Source files](../../images/importing-data/copy-to-files.png)
 
@@ -49,7 +49,7 @@ The “Copy to” feature will copy the files / folders to the new location whil
 ![“Show progress” button](../../images/importing-data/copy-to-files-show-progress.png)
 
 
-The “Move to” feature will copy the files / folders to the new location and will move the source files / folders to the site “Recycle bin”. With the target site and document library open:
+The **“Move to”** feature will copy the files / folders to the new location and will move the source files / folders to the site “Recycle bin”. With the target site and document library open:
 
 - Select the source files / folders and click “Move to”.<br>
 ![Source folder](../../images/importing-data/move-to-folder.png)
