@@ -6,18 +6,16 @@ This guide will help users import files and data into SharePoint.
 
 SharePoint document libraries support the *drag and drop* of files and folders from computer to site. With the target site and document library open:
 - Select the source files / folders.
-- Drag to the site and release.
-
-Example *drag and drop* image shown below:<br>
+- Drag to the site and release. Example *drag and drop* image shown below:<br>
 ![Drag and drop of files and folders from computer to site](../../images/importing-data/drag-drop-files-folders.png)
 
-The upload status can be monitored using the “Show progress” button on the document library menu. Example “Show progress” button image shown below:<br>
+- The upload status can be monitored using the “Show progress” button on the document library menu. Example “Show progress” button image shown below:<br>
 ![“Show progress” button](../../images/importing-data/drag-drop-show-progress.png)
 
-The “Show progress” button will notify you of any errors and when possible provide an intervention. Example intervention image shown below:<br>
+- The “Show progress” button will notify you of any errors and when possible provide an intervention. Example intervention image shown below:<br>
 ![“Show progress” button with intervention](../../images/importing-data/drag-drop-show-intervention.png)
 
-Example error image shown below:<br>
+- Example error image shown below:<br>
 ![“Show progress” button with error](../../images/importing-data/drag-drop-show-error.png)
 
 
