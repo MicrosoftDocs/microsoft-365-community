@@ -33,7 +33,7 @@ The “Files” option does not allow the uploading of folders.  Similarly, the 
 
 
 ## Document Libraries – Copy to and Move to (Power user)
-SharePoint document libraries support the copying and moving of files / folders to new locations. New locations can include a different folder, document library or site (including OneDrive for Business).
+SharePoint document libraries support the copying and moving of files / folders to new locations. New locations can include a different folder, document library or site, including OneDrive for Business.
 
 The “Copy to” feature will copy the files / folders to the new location while leaving the source files / folders unchanged. With the target site and document library open:
 - Select the source files / folders and click “Copy to”. Example source files / folders image shown below:<br>
