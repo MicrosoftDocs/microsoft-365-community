@@ -82,7 +82,7 @@ The “Move to” feature will copy the files / folders to the new location and 
 - Click the URL to view the new SharePoint list. Click “OK” to exit the export wizard. Example successful Excel export image shown below:<br>
 ![Successful Excel export](../../images/importing-data/excel-export-ok.png)
 
--Example exported list shown below:<br>
+- Example exported list shown below:<br>
 ![Successful Excel export](../../images/importing-data/excel-export-list.png)
 
 ---
