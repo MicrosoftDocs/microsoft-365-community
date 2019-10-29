@@ -1,12 +1,10 @@
-![sp-usage-docs](https://repository-images.githubusercontent.com/184586431/54197200-e46e-11e9-978c-0e087a738ec4)
-
-# Welcome to the SharePoint Usage Docs!
+# Welcome to the SharePoint Usage Docs
 
 * If you just landed here, and you have no idea what Github is, please go to [Getting Started](docs/getting-started.md).
 * If you have been here before and would like instructions on how to add content, please go to [Adding Content](docs/adding-content.md).
 * Curious what types of articles we have here? Check out the [temporary table of contents](docs/index.md).
 
----
+![sp-usage-docs](https://repository-images.githubusercontent.com/184586431/54197200-e46e-11e9-978c-0e087a738ec4)
 
 This repository is here for YOU. The goal is to build an open source set of content to help people like Information Architects, Business Analysts, "Makers" (aka Citizen Developers), and Site Owners who want to use the platform better.
 
