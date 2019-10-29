@@ -9,6 +9,7 @@
 * [Known Folder Move (KFM) Benefits for End Users](basics/known-folder-move-benefits-for-enduser.md)
 * [Benefits of using PowerShell with SharePoint](basics/benefits-of-using-powershell-with-sharepoint.md)
 * [Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions.](basics/permission-model-diferences.md)
+* [Importing Data](basics/importing-data.md)
 
 ## Making Decisions
 
