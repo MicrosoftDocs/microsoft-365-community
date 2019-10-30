@@ -111,6 +111,45 @@ The **“Move to”** feature will copy the files / folders to the new location 
 
 ![Successful Excel export](../../images/importing-data/excel-export-list.png)
 
+
+## Document Libraries – SharePoint Migration Tool (Power user)
+The *SharePoint Migration Tool (SPMT)* can be used to import files into SharePoint. *SPMT* is especially useful when migrating a large volume of documents from a file share.
+Detailed information about *SPMT* can be found on the [Download and install the SharePoint Migration Tool](https://docs.microsoft.com/en-us/sharepointmigration/introducing-the-sharepoint-migration-tool) page.
+
+From your *SPMT* computer:
+- Open the “SharePoint Migration Tool”.<br>
+![Open the SharePoint Migration Tool](../../images/importing-data/spmt-windows-search.png)
+
+- Click “Start your first migration”.
+![Welcome screen](../../images/importing-data/spmt-welcome-screen.png)
+
+- Click "File Share".
+![Where's your content screen](../../images/importing-data/spmt-file-share.png)
+
+- Click “Choose folder”.
+![Select a source screen](../../images/importing-data/spmt-select-source.png)
+
+- Select the source file share and click “OK”.
+![Browse for folder screen](../../images/importing-data/spmt-browse-folder.png)
+
+- Click “Choose folder” to select a specific sub-folder or click “Next” to continue.
+![Choose folder or click next screen](../../images/importing-data/spmt-windows-choose-folder.png)
+
+- Enter the destination site URL and document library. Click “Next”.
+![Select a destination screen](../../images/importing-data/spmt-windows-select-destination.png)
+
+- Name your migration if desired or click “Next” to continue.
+![Review migration screen](../../images/importing-data/spmt-windows-review-migration.png)
+
+- Update *SPMT* settings if required or click “Migrate” to continue. Detailed information on *SPMT* settings can be on the [SharePoint Migration Tool Settings](https://docs.microsoft.com/en-us/sharepointmigration/spmt-settings) page.
+![Choose your settings screen](../../images/importing-data/spmt-settings.png)
+
+- Click “Save” to store the migration or click “No thanks” to continue.
+![Choose your settings screen](../../images/importing-data/spmt-save-migration.png)
+
+- The summary screen will provide migration details and reports.
+![Choose your settings screen](../../images/importing-data/spmt-summary.png)
+
 ---
 
 Principal author: Norm Young
