@@ -1,6 +1,13 @@
 # Importing data into SharePoint
 
-This guide will help users understand the various options available to import files and data into SharePoint.
+This guide will help users understand the various options available to import files and data into SharePoint. We cover several different approaches:
+
+| Method | Type of User |
+| ------ | ------------ |
+| [Document Libraries – Drag and drop files and folders](#document-libraries--drag-and-drop-files-and-folders-user)| End user|
+| [Document Libraries – SharePoint Migration Tool](#document-libraries--upload-files-and-folders-user) | Power user |
+| [Lists – Export Spreadsheet to SharePoint](#lists--export-spreadsheet-to-sharepointpower-user) | Power user |
+| [Document Libraries – SharePoint Migration Tool](#document-libraries--sharepoint-migration-tool-power-user) | Power user |
 
 ## Document Libraries – Drag and drop files and folders (User)
 
@@ -111,8 +118,8 @@ The **“Move to”** feature will copy the files / folders to the new location 
 
 ![Successful Excel export](../../images/importing-data/excel-export-list.png)
 
-
 ## Document Libraries – SharePoint Migration Tool (Power user)
+
 The *SharePoint Migration Tool (SPMT)* can be used to import files into SharePoint. *SPMT* is especially useful when migrating a large volume of documents from a file share.
 Detailed information about *SPMT* can be found on the [Download and install the SharePoint Migration Tool](https://docs.microsoft.com/en-us/sharepointmigration/introducing-the-sharepoint-migration-tool) page.
 
