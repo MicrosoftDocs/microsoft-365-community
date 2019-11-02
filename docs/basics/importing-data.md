@@ -8,6 +8,7 @@ This guide will help users understand the various options available to import fi
 | [Document Libraries – SharePoint Migration Tool](#document-libraries--upload-files-and-folders-user) | Power user |
 | [Lists – Export Spreadsheet to SharePoint](#lists--export-spreadsheet-to-sharepointpower-user) | Power user |
 | [Document Libraries – SharePoint Migration Tool](#document-libraries--sharepoint-migration-tool-power-user) | Power user |
+| [Document Libraries – Sync](#document-libraries--sync-power-user) | Power user |
 
 ## Document Libraries – Drag and drop files and folders (User)
 
@@ -156,6 +157,40 @@ From your *SPMT* computer:
 
 - The summary screen will provide migration details and reports.
 ![Choose your settings screen](../../images/importing-data/spmt-summary.png)
+
+## Document Libraries – Sync (Power user)
+
+SharePoint document libraries support the syncing of files between computer and site using *Microsoft OneDrive*. The *OneDrive sync app* is especially useful when migrating a large volume of documents from computer to SharePoint document library.
+Detailed information about OneDrive can be found on the [Sync SharePoint files with the new OneDrive sync app](https://support.office.com/en-us/article/sync-sharepoint-files-with-the-new-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) page.
+
+With the target site and document library open:
+
+- Click “Sync”.<br>
+![Document library sync](../../images/importing-data/onedrive-sync.png)
+
+- Click “Open” to the “Getting ready to sync...” prompt.<br>
+![Getting ready to sync...](../../images/importing-data/onedrive-getting-ready.png)
+
+- Confirm you login account name and click “Sign in”.<br>
+![Sign in](../../images/importing-data/onedrive-signin.png)
+
+- Click “Next”.<br>
+![Your folder](../../images/importing-data/onedrive-your-folder.png)
+
+- Click through the “Welcome to OneDrive” screen and then click “Open my OneDrive folder”.<br>
+![Welcome to OneDrive](../../images/importing-data/onedrive-welcome.png)
+
+Using Windows Explorer, open the source documents folder:
+- Select the source files / folders.
+
+- Drag to the destination sync document library and release.<br>
+![Drag and drop files and folders](../../images/importing-data/onedrive-drag-file-folders.png)
+
+- Source folder and target document library will become synchronized.<br>
+![Source and target synchronized](../../images/importing-data/onedrive-synchronized-files-folders.png)
+
+- See the OneDrive sync app in the system tray to view progress and any sync messages.
+![OneDrive systray](../../images/importing-data/onedrive-systray.png)
 
 ---
 
