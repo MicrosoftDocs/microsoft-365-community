@@ -36,6 +36,7 @@ If you're starting with an existing blog post, then you may be able to convert t
 If you're writing new content from scratch, you can choose whichever editor you like. The importent thing is to write in markdown format.
 
 * [Visual Studio Code](https://code.visualstudio.com/) is a free editor from Microsoft and is used primarily for code. It also allows you to write markdown with a preview.
+* [Recommended Extension - Spell Checker - Spell Right](https://marketplace.visualstudio.com/items?itemName=ban.spellright) - Multilingual, Offline and Lightweight Spell checker for text and markdown files, to help check your files before submission
 
 ---
 
