@@ -1,53 +1,52 @@
-# Information Architecture - Managed Metadata vs Lookup columns
+# Information Architecture - Managed Metadata versus Lookup columns
 
 Before we jump to the topic at hand, a little recap of the terminology involved:
 
 * Metadata: means information about something, in SharePoint usually information about documents, pages or list items
-* A list column: is a metadata column connected to a list, the column itself can be of different data types: text, numbers, date&time, people picker, managed metadata
-* A lookup column: this is a column type where we get the data values from another list in the same site. 
-* Managed metadata: is a globally available metadata service that can be shared by all site collections in SharePoint Online or SharePoint on-premises 
+* List column: is a metadata column in a list or library. The column itself can be of different data types: text, numbers, date & time, people picker, managed metadata, etc.
+* Lookup column: This is a column type where we the data values come from another list in the same site (web).
+* Managed metadata: A globally available metadata service that can be shared by all site collections in SharePoint Online or SharePoint on premises.
 
-## How does Lookup columns works?  
+## How do Lookup columns work?
 
-A lookup column is a metadata column that that gets its data from another list in the same site. Before you start creating the columns it's always a good practice to actually think of how your column relationships will be depends on your use case.
-Example: I have a document library where our company stores our vendor agreements, and we will like to "tags" the agreements with the vendor names, that way it's easier for us to track the documents.
+A lookup column is a metadata column that that gets its data from another list in the same site. Before you start creating the column it's always a good practice to actually think of how your column relationships will work. This will depends on your use case(s).
 
-* In SharePoint create a library named Agreements
+Example: I have a document library where our company stores our vendor agreements and would like to "tag" each agreement with the vendor name(s). That way it's easier for us to find specific documents, filter by vendor, etc.
+
+* In SharePoint, create a document library called Vendor Agreements
 * In the same site create a custom list named Vendors
-* You can extend the list to contain more data, but in this case I will create two extra date&time columns to to see if the vendor is still active or not. You can of course use column formatting to make it look better, ;)
+* You can extend the list to contain more data, but in this case I will create two extra date & time columns to to see if the vendor is still active or not. You can of course use column formatting to make it look better.
 
 ![vendorlist](../../images/information-architecture-managed-metadata-vs-lookup-column/vendor01.png)
 
-
-* Navigate back to the Agreements library
-* In the library create a new column and for the data type choose lookup, point the lookup to the Vendor list and include any extra data you might need from the vendor list. Unfortunately not all data columns are supported.
-* After the lookup column is added you can use this to tag any document you have in the library
+* Navigate back to the Vendor Agreements document library
+* In the Vendor Agreements library, create a new column and choose lookup for the data type. Choose the Vendor list and the Title column, and include any extra data you might need from the vendor list. Note: not all data types are supported.
+* After the lookup column is added you can use it to tag any document you have in the library
 
 ![lookupcolumn](../../images/information-architecture-managed-metadata-vs-lookup-column/lookup01.png)
 
 ![lookupcolumn](../../images/information-architecture-managed-metadata-vs-lookup-column/lookup02.png)
 
+## Pros of Lookup columns
 
-## Pros of Lookup columns:
 * You can create lookup columns as site owner
-* You can add more field from the source list as metadata to the destination list
-* Members can contribute to the source list, without "messing" up the list setup
-* All update to the source list will update the destination list
+* You can add more fields from the source list as metadata to the destination list
+* Members can contribute to the source list, without changing the list setup
+* All updates to the source list will update the destination list
 
-## Cons of Lookup columns:
-* Lookup is only available with source list in the current site
+## Cons of Lookup columns
+
+* Lookup columns can only be created with source lists in the current site
 * In order to re-use in another site we have to recreate both the source list and the lookup column
-* Beware that deleting items from the source list will "mess up" the destination list, remember to use "Enforce relationship behavior, restrict deleting" when creating the column. 
+* Beware that deleting items from the source list will remove those values from items in the destination list, unless you remember to use "Enforce relationship behavior, restrict deleting" when creating the column.
 
+## How do Managed Metadata columns work?
 
-## How does Managed Metadata columns works?
+Managed Metadata columns depend on the SharePoint Taxonomy service for syndication. Because it's a globally available feature you need to have delegated ownership to at least a term set in order to be able to manage it.
 
-Managed Metadata columns depends on SharePoint Taxonomy service and because it's a globally available feature you need to have delegated ownership to at least a termset in order to be able to manage it.
-
-* In this example I've created a termset called document status to track if it's in "draft, wainting approval or published"
-* I'm adding this termset as a column to the Agreement library above
-* I'm using this column to track the approval of the Documents we have here
-
+* In this example I've created a term set called **Document status** with the terms **Draft**, **Waiting approval**, or **Published**
+* I'm adding this term set as a column to the Vendor Agreement library above
+* I'm using this column to track the approval of the documents we have in the library
 
 ![mmd](../../images/information-architecture-managed-metadata-vs-lookup-column/mmd01.png)
 
@@ -57,36 +56,29 @@ Managed Metadata columns depends on SharePoint Taxonomy service and because it's
 
 ![mmd](../../images/information-architecture-managed-metadata-vs-lookup-column/mmd04.png)
 
+## Pros of Managed Metadata columns
 
-## Pros of Managed Metadata columns:
-* Managed Metadata is globally available
-* Managed Metadata support language translations 
-* Changes to the termset will be updated across all sites
-* Admins can control who can contribute to the termset
-* Combined with search you can achieve a global search center with results refinement from all sites using the termset 
+* Managed Metadata is globally available - across all sites in the farm or tenant
+* Managed Metadata supports language translations
+* Changes to the term set values will be updated across all sites
+* Administrators can control who can contribute to each term set
+* Combined with search, you can create a global search center with refiners across all sites using the term set
 
-## Cons of Managed Metadata columns:
+## Cons of Managed Metadata columns
+
 * Cannot be managed freely by site owners, changes have to be added to a change policy to avoid failures
-* Managed metadata is "singular" meaning you cannot connect other metadata to it, like we can with lookup columns
+* Managed metadata is "singular" meaning you cannot connect other metadata to it, like we can with lookup columns. For example, the **Active from Date** and **Active to Date** in the first example above.
 
+## My experience
 
-
-## My experience:
-
-* There is no single way of doing things in "SharePoint", it all depends on the use case
-* I normally use Managed Metadata when dealing with cross site publishing or global search related metadata. Because these metadata are normally managed by a few rolles and used widely across all sites in SharePoint. Especially when building Document Management solutions or Intranet News publishing.
-* I use Lookup columns, when I'm building solutions that is locally related to a site, and the lookup data is from multiple list already in the site. Example building custom apps with PowerApps and I'm using SharePoint list as data sources.  
-
-
-
+* There is no single way of doing things in SharePoint. It all depends on the use cases.
+* I normally use Managed Metadata when dealing with cross site publishing or global search-related metadata. Because the metadata values are normally managed by a few people and used widely across all sites in SharePoint, we get more consistency and converge on a common understanding. This is especially true when building Document Management solutions or Intranet News publishing.
+* I use Lookup columns, when I'm building solutions that are locally related to a site, and the lookup data is from multiple lists already in the site. For example, when building custom apps with PowerApps and I'm using SharePoint lists as data sources.  
 
 ---
 
-
-
-**Principal author**: Jimmy Hang, MCT, MCSE: Productivity 
+**Principal author**: Jimmy Hang, MCT, MCSE: Productivity
 
 **LinkedIn**: https://www.linkedin.com/in/jimmyhang/
 
 **Blog**: https://hangconsult.com
-
