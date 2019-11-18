@@ -10,17 +10,17 @@ Before we jump to the topic at hand, a little recap of the terminology involved:
 ## How does Lookup columns works?  
 
 A lookup column is a metadata column that that gets its data from another list in the same site. Before you start creating the columns it's always a good practice to actually think of how your column relationships will be depends on your use case.
-Example: I have a document libary where our company stores our vendor agreements, and we will like to "tags" the agreements with the vendor names, that way it's easier for us to track the documents.
+Example: I have a document library where our company stores our vendor agreements, and we will like to "tags" the agreements with the vendor names, that way it's easier for us to track the documents.
 
 * In SharePoint create a library named Agreements
 * In the same site create a custom list named Vendors
-* You can extend the list to contain more data, but in this case I will create two extra date&time columns to to see if the vendor is still active or not. You can ofcourse use column formatting to make it look better, ;)
+* You can extend the list to contain more data, but in this case I will create two extra date&time columns to to see if the vendor is still active or not. You can of course use column formatting to make it look better, ;)
 
 ![vendorlist](../../images/information-architecture-managed-metadata-vs-lookup-column/vendor01.png)
 
 
 * Navigate back to the Agreements library
-* In the libary create a new colunm and for the data type choose lookup, point the lookup to the Vendor list and include any extra data you might need from the vendor list. Unfortunately not all data columns are supported.
+* In the library create a new column and for the data type choose lookup, point the lookup to the Vendor list and include any extra data you might need from the vendor list. Unfortunately not all data columns are supported.
 * After the lookup column is added you can use this to tag any document you have in the library
 
 ![lookupcolumn](../../images/information-architecture-managed-metadata-vs-lookup-column/lookup01.png)
@@ -66,7 +66,7 @@ Managed Metadata columns depends on SharePoint Taxonomy service and because it's
 * Combined with search you can achieve a global search center with results refinement from all sites using the termset 
 
 ## Cons of Managed Metadata columns:
-* Cannot be managed freely by site owners, changes have to be added ot a change policy to avoid failures
+* Cannot be managed freely by site owners, changes have to be added to a change policy to avoid failures
 * Managed metadata is "singular" meaning you cannot connect other metadata to it, like we can with lookup columns
 
 
