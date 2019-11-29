@@ -4,6 +4,8 @@ This article talks about scalability of your solutions, this refers to this scen
 
 The requirement has changed - to note, it is best to ask this question early. So you have this new requirement, what kinds of points do you think about, when building your solution on this scale. 
 
+To note, SharePoint Online supports 2,000,000 site collections (Nov 19) to give you context to how large implementations can support. 
+
 # Considerations when building solutions at scale
 
 You now have your solution, so lets go through aspects of the solution you should ask of your solution, to see if you need to make amendments, or think about its design.
@@ -34,8 +36,17 @@ The goals change to reduce the implementation steps and how can I make this easi
 
 ## Information Architecture
 
+When designing for scale you will need to consider how this affects information architecture￼ approach. 
 
-
+￼With large scale deployments, there are several factors to consider:
+- consistent naming convention￼
+- what level do you define columns e.g. list, web, site, ￼enterprise
+- utilising inheritance
+- deployment methods
+- Usability are you using too much metadata? Is it affecting productivity?
+- Multilingual configuration
+- Describing the columns purpose and use in descriptions. 
+- Form customisations
 
 ## Security
 
@@ -43,17 +54,20 @@ Security should always be an important consideration in any solution￼, no matt
 
 Understand who can access your data￼￼ - ask yourself does this data contain any personal information?￼Is the data business critical or sensitive?￼
 
-In SharePoint there are three main models of security, one for users, SharePoint security groups and active directory groups. ￼
+In SharePoint, there are three main models of security, one for users, SharePoint security groups and active directory groups. ￼
 
 ## Navigation
 
 
 
-## Content Types
 
 ## Sites
 
+
+
 ## Manageability
+
+
 
 ## Maintainability
 
@@ -63,16 +77,22 @@ Consider your solution - you have deployed to 1000 sites and you boss goes, “G
 
 ## Manual vs Deployment
 
+Deployment strategy is very important to think about, ￼are you going to click 1000 times with a 10 step process or are you going to consider doing writing or learning PowerShell script. 
+
+If you prefer manual, there are some ways to reduce time to deploy. 
+
+Personally, I consider the PowerShell route if a process goes beyond a few steps, I highly recommend looking into PnP PowerShell, there a lot of cmdlets design to work online and on-premises. 
 
 
 ## Classic and Modern SharePoint differ
+
 
 
 # Tools that help you deploy for scale
 
 Site designs
 
-Power shell￼
+PowerShell￼
 
 
 # Examples
@@ -80,7 +100,7 @@ Power shell￼
 
 # Further Reading
 
-
+Many related articles are in the works to go into each section in more detail. Watch here for updates. 
 
 ---
 
