@@ -2,7 +2,11 @@
 
 ## Basic Idea
 
-A Site Column is a way to instantiate a single data field for effective reuse.
+A Site Column is a template of a configured column.  By creating a Site Column, you can reuse it anywhere else in the site and not have to manually rebuild its configuration at each reuse.  
+
+When creating a new column you have a choice to either "Create column" or "Add from existing site columns".  Selecting the latter will add a replica of the Site Columm to the location you are working.  Once added, you can edit it in any manner, including changing the name.  
+
+You can return to a site column's configuration at any time and make changes.  Once a column has been created it does not retain any connection to the master site column it was created from.  Changes made to the "Template" do not apply to columns that are based on it.
 
 ## Real World Example
 
@@ -36,4 +40,4 @@ Principal author: Marc D Anderson, MVP
 
 LinkedIn: https://www.linkedin.com/in/marcanderson/
 
-Blog: sympmarc.com
+Blog: [sympmarc.com](http://sympmarc.com)
