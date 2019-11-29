@@ -2,9 +2,9 @@
 
 This article talks about scalability of your solutions, this refers to this scenario - you have built your solution and tested on a site or library, you have demoed to your boss, they are very happy and then he goes "Hey now, great solution, can you get this out to 1,000 sites please?". 
 
-The requirement has changed - to note, it is best to ask this question early. So you have this new requirement, what kinds of points do you think about, when building your solution on this scale. 
+The requirement has changed - to note, it is best to ask this question early. So you can plan for this and determine what kinds of points do you think about, when building your solution on this scale. 
 
-To note, SharePoint Online supports 2,000,000 site collections (Nov 19) to give you context to how large implementations can support. 
+To note, SharePoint Online supports 2,000,000 site collections (Nov 19) to give you context to how large implementations can in theory support. 
 
 # Considerations when building solutions at scale
 
@@ -65,7 +65,7 @@ In SharePoint, there are three main models of security, one for users, SharePoin
 
 
 
-## Manageability
+## Multiple Environments
 
 
 
@@ -77,25 +77,28 @@ Consider your solution - you have deployed to 1000 sites and you boss goes, “G
 
 ## Manual vs Deployment
 
-Deployment strategy is very important to think about, ￼are you going to click 1000 times with a 10 step process or are you going to consider doing writing or learning PowerShell script. 
+Deployment strategy is worth planning ahead of rollout of your new features, there are a number of factors to consider, in larger scale implementations:
 
-If you prefer manual, there are some ways to reduce time to deploy. 
+-  Are you going to click 1000 times with a 10 step process or weigh up the effort to  learn PowerShell script to automate this. Personally, I consider the PowerShell route if a process goes beyond a few steps or if I get a sense the deployment will be repeated multiple times.
+-  Not all requirements are correctly articulated by the business or interpreted by the implementer which introduces change to the scope or what features are deployed, especially after the first deployment.
+- Introduce test environments and UAT to validate the requirements have been met.
+- Measure the time it takes to deploy your solution in a single location, then estimate the total time for the number of times you would repeat the same steps.
+- Outage, will the solution be disruptive to staff or users, is out of hours deployment required?
 
-Personally, I consider the PowerShell route if a process goes beyond a few steps, I highly recommend looking into PnP PowerShell, there a lot of cmdlets design to work online and on-premises. 
+### Manual
 
+If you prefer manual, there are some ways to reduce time to manually deploy your solution. Such as:
+ - Choose the centralisation approach, as mentioned above, is there a way to setup your solution to be deployed from one location.
+ - Know your URLs, such as _layout/15/XX links to settings, site contents, for manual deployments aim to jump directly to the page where the setting occurs, avoid navigating through SharePoint, extra clicks will slow you down.
+ - Keep a log of your progress, so for very large implementations, you can pause and come back, refer to a list of how much of the deployment you have done - this can also serve as your checklist if you have a multi-step deployment.
 
-## Classic and Modern SharePoint differ
+### Script
 
+For scripting, I highly recommend looking into PnP PowerShell library, there a lot of cmdlets design to work online and on-premises, there is plenty of blogs, examples or community members that can help you to get you started.
 
+### Site Designs
 
-# Tools that help you deploy for scale
-
-Site designs
-
-PowerShell￼
-
-
-# Examples
+Now there is Site Designs feature in SharePoint Online, which opens up a new way to deploy features.  These can create libraries, set permissions, branding and headings in Modern interfaces and call Flows containing more advanced scenarios
 
 
 # Further Reading
