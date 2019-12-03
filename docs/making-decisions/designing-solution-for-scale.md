@@ -1,14 +1,12 @@
-# Designing s at scale
+# Designing your solution for scale
 
-# Introduction
+## Introduction
 
 This article refers to design considerations of scaling your solutions, for example, in this scenario - you have built your solution and tested on a site or library, you have demoed to your boss, they are very happy and then he goes "Hey now, great solution, can you get this out to 1,000 sites please?".
 
 The requirement has changed - to note, it is best to ask this question early. So you can plan for this and determine what kinds of points do you think about, when building your solution on this scale.
 
 To note, SharePoint Online supports 2,000,000 site collections (Nov 19) to give you context to how large implementations can in theory support.
-
-# Considerations when building solutions at scale
 
 You now have your solution, so lets go through the kind of aspects of the solution you should consider, to see if you need to make amendments, or think about its design.
 
@@ -21,9 +19,9 @@ First question to ask yourself, do you need to deploy this solution 1,000 times 
 - Security, is there a solid reason to keep the solution separate?
 - Technical limits of the product, will SharePoint allow you to centralise?
 
-### Centralisation 
+### Centralisation
 
-Centralisation refers to a single point in which assets and solution is referred to. 
+Centralisation refers to a single point in which assets and solution is referred to.
 
 For example, if you have a JavaScript based solution, consider locating the files into one place, not near the instance but somewhere within you farm or tenant that is readable to all. Changes to the central point reflect on all areas of usage.
 
@@ -121,7 +119,7 @@ Please refer to this article for more detail [https://github.com/SharePoint/sp-u
 
 Now there is Site Designs feature in SharePoint Online, which opens up a new way to deploy features.  These can create libraries, set permissions, branding and headings in Modern interfaces and call Flows containing more advanced scenarios.
 
-# Further Reading
+## Further Reading
 
 Many related articles are in the works to go into each section in more detail. Watch here for updates.
 
