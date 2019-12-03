@@ -53,7 +53,7 @@ There is a separate article coming soon for naming conventions.
 
 ### Columns and Content Types
 
-What level do you define columns and content types e.g. list, web, site, ￼enterprise. The goal should be to keep things simple and use inheritance where possible. Although, modern SharePoint makes it very easy to break from this model.
+What level do you define columns and content types e.g. list, web, site, enterprise. The goal should be to keep things simple and use inheritance where possible. Although, modern SharePoint makes it very easy to break from this model.
 
 There is a great article about the types of column: [List column or Site Column - Which one to choose](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/making-decisions/list-column-or-site-column-which-one-to-choose.md)
 
@@ -65,11 +65,11 @@ There is more detail on site typology in this article: [Information architecture
 
 ## Security
 
-Security should always be an important consideration in any solution￼, no matter how complex or how quick solutions is built. 
+Security should always be an important consideration in any solution￼, no matter how complex or how quick solutions is built.
 
-Understand who can access your data￼￼ - ask yourself does this data contain any personal information?￼Is the data business critical or sensitive?￼
+Understand who can access your data - ask yourself does this data contain any personal information? Is the data business critical or sensitive?
 
-In SharePoint, there are three main models of security, one for users, SharePoint security groups and active directory groups. ￼
+In SharePoint, there are three main models of security, one for users, SharePoint security groups and active directory groups.
 
 This will go into more detail in a later article.
 
