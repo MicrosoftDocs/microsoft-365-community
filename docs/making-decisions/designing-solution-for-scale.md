@@ -1,6 +1,6 @@
 # Introduction
 
-This article talks about scalability of your solutions, this refers to this scenario - you have built your solution and tested on a site or library, you have demoed to your boss, they are very happy and then he goes "Hey now, great solution, can you get this out to 1,000 sites please?". 
+This article refers to design considerations of scaling your solutions, for example, in this scenario - you have built your solution and tested on a site or library, you have demoed to your boss, they are very happy and then he goes "Hey now, great solution, can you get this out to 1,000 sites please?". 
 
 The requirement has changed - to note, it is best to ask this question early. So you can plan for this and determine what kinds of points do you think about, when building your solution on this scale. 
 
@@ -8,11 +8,16 @@ To note, SharePoint Online supports 2,000,000 site collections (Nov 19) to give 
 
 # Considerations when building solutions at scale
 
-You now have your solution, so lets go through aspects of the solution you should ask of your solution, to see if you need to make amendments, or think about its design.
+You now have your solution, so lets go through the kind of aspects of the solution you should consider, to see if you need to make amendments, or think about its design.
 
 ## Centralised, Decentralisation or Both
 
-First question to ask yourself, do you need to deploy this solution 1,000 times or can you place a navigation link on 1000 sites referring to a single location? 
+First question to ask yourself, do you need to deploy this solution 1,000 times or can you place a navigation link on 1000 sites referring to a single location? The decision on your approach can be determined by the following points:
+
+- Initial deployment, where do my assets live? How many times do I need to repeat the steps for deployment? The approach depends variances for each department or instance for example, can you get away with a settings file instead? 
+- Maintainability, as changes occur, you may need to repeat deployment?
+- Security, is there a solid reason to keep the solution separate?
+- Technical limits of the product, will SharePoint allow you to centralise?
 
 ### Centralisation 
 
@@ -39,14 +44,26 @@ The goals change to reduce the implementation steps and how can I make this easi
 When designing for scale you will need to consider how this affects information architecture￼ approach. 
 
 ￼With large scale deployments, there are several factors to consider:
-- consistent naming convention￼
-- what level do you define columns e.g. list, web, site, ￼enterprise
-- utilising inheritance
-- deployment methods
-- Usability are you using too much metadata? Is it affecting productivity?
-- Multilingual configuration
-- Describing the columns purpose and use in descriptions. 
-- Form customisations
+
+### Naming convention
+
+Clear naming of SharePoint artefacts provide context to the user that is visiting the site, library and metadata they are expected to complete. 
+
+There is a separate article coming soon for naming conventions.
+
+### Columns and Content Types
+
+What level do you define columns and content types e.g. list, web, site, ￼enterprise. The goal should be to keep things simple and use inheritance where possible. Although, modern SharePoint makes it very easy to break from this model.
+
+There is a great article about the types of column: [List column or Site Column - Which one to choose](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/making-decisions/list-column-or-site-column-which-one-to-choose.md)
+
+
+### Sites
+
+How you structure your sites, does your solution require lots of subsites? Typically, Microsoft is driving a flat architectural model and you should consider using multiple site collections grouped locally by hub sites.
+
+There is more detail on site typology in this article: [Information architecture - site topology](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/basics/information-architecture-site-topology.md)
+
 
 ## Security
 
@@ -56,24 +73,26 @@ Understand who can access your data￼￼ - ask yourself does this data contain 
 
 In SharePoint, there are three main models of security, one for users, SharePoint security groups and active directory groups. ￼
 
-## Navigation
-
-
-
-
-## Sites
-
-
+This will go into more detail in a later article.
 
 ## Multiple Environments
 
+Multiple environments such as separate site collection, web application (on-premises) or tenant add a layer of protection for solution builders to ensure their solution works as expected. The number of environments is up to you, consider these factors in determining if A, you need a separate environment or B, if you do - how many.
+
+- Does your solution need to involve training users? Ideally having a separate environment to contain the "test" data that will be introduced during these. Filling up production with test data, may reduce search effectiveness if the test content contains enough keywords in be prominent in the results.
+
+- Development isolation from live data. In development, certain aspects maybe required elevated permissions to setup or create the solution. You may outsource the development to a 3rd party in which you want to limit the access to the data in the tenant. I always recommend a developer tenant where possible, they can be obtained easily from [https://dev.office.com](https://dev.office.com) if a developer inadvertently causes problems in the tenant, it is contained away from production. 
+
+- Do you need a UAT or test environment? Allowing the business owners or stakeholders to review the work and play with it. This ideally should be a almost realistic version of production with similar configuration, this will allow you to assess solution impact, test any downtime and your deployment strategies.
+
+The number of environments is up to you, there are additional overheads with having multiple tenants but if you weigh up the cost organisationally against an incident on production it will be worth the effort.
 
 
 ## Maintainability
 
 Maintainability refers to the ease of making changes to your app, updates or cleanup aspects of your solution - how easy this is to achieve. 
 
-Consider your solution - you have deployed to 1000 sites and you boss goes, “Great app, but can you add a column to each list, I really need this.”
+Consider your solution - you have deployed to 1000 sites and you boss goes, “Great app, but can you add a column to each list, I really need this.” You now need to figure out updates to each of the 1000 sites. 
 
 ## Manual vs Deployment
 
@@ -96,10 +115,11 @@ If you prefer manual, there are some ways to reduce time to manually deploy your
 
 For scripting, I highly recommend looking into PnP PowerShell library, there a lot of cmdlets design to work online and on-premises, there is plenty of blogs, examples or community members that can help you to get you started.
 
+Please refer to this article for more detail [https://github.com/SharePoint/sp-usage-docs/blob/master/docs/basics/benefits-of-using-powershell-with-sharepoint.md](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/basics/benefits-of-using-powershell-with-sharepoint.md)
+
 ### Site Designs
 
-Now there is Site Designs feature in SharePoint Online, which opens up a new way to deploy features.  These can create libraries, set permissions, branding and headings in Modern interfaces and call Flows containing more advanced scenarios
-
+Now there is Site Designs feature in SharePoint Online, which opens up a new way to deploy features.  These can create libraries, set permissions, branding and headings in Modern interfaces and call Flows containing more advanced scenarios.
 
 # Further Reading
 

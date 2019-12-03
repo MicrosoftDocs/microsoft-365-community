@@ -23,6 +23,7 @@
 * [Can Machine Learning be used to assign managed metadata attributes for items?
 ](making-decisions/machine-learning-and-managed-metadata.md)
 * [Changing Microsoft Teams from Private to Public, what to expect in SharePoint?](making-decisions/changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md)
+* [Designing your solution for scale](making-decisions/designing-solution-for-scale.md)
 
 ## Scenarios
 
