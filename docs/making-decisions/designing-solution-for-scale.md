@@ -41,9 +41,9 @@ The goals change to reduce the implementation steps and how can I make this easi
 
 ## Information Architecture
 
-When designing for scale you will need to consider how this affects information architecture￼ approach.
+When designing for scale you will need to consider how this affects information architecture approach.
 
-￼With large scale deployments, there are several factors to consider:
+With large scale deployments, there are several factors to consider:
 
 ### Naming convention
 
@@ -65,7 +65,7 @@ There is more detail on site typology in this article: [Information architecture
 
 ## Security
 
-Security should always be an important consideration in any solution￼, no matter how complex or how quick solutions is built.
+Security should always be an important consideration in any solution, no matter how complex or how quick solutions is built.
 
 Understand who can access your data - ask yourself does this data contain any personal information? Is the data business critical or sensitive?
 
