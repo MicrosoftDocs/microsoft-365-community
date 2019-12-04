@@ -2,6 +2,12 @@
 
 The purpose of this guide is to help document the initial setup of a site and provide resources for next steps and ongoing support.
 
+# Checklist
+- [ ] Site build complete
+- [ ] Site owner training complete
+- [ ] Site user training complete
+
+# Site build
 ## Site information
 - Title:
 - URL:
@@ -11,7 +17,7 @@ The purpose of this guide is to help document the initial setup of a site and pr
 - Joined to Hub site (Yes/No) :
     - HUB site name:
 ---
-### Site permissions
+## Site permissions
 | Role        | Permission level      | Users   |
 |-------------|-----------------------|---------|
 | Owners      | Full control          |         |
@@ -19,17 +25,17 @@ The purpose of this guide is to help document the initial setup of a site and pr
 | Visitors    | Read                  |         |
 | *New entry* | *Permission level*    | *Users* |
 
-### Custom permission levels
+## Custom permission levels
 | Name        | Description      |
 |-------------|------------------|
 | *New entry* | *Description*    |
 
-### Custom Groups
+## Custom Groups
 | Name        | Description      |
 |-------------|------------------|
 | *New entry* | *Description*    |
 
-### Site access request settings
+## Site access request settings
 - Members allowed to share the site, files and folders (Yes/No):
 - Members allowed to invite others to site members group (Yes/No):
 - Allow access requests (Yes/No):
@@ -37,20 +43,30 @@ The purpose of this guide is to help document the initial setup of a site and pr
   - Requests to user (Yes/No):
     - User E-mail address:
 ---
-### Site closure and deletion settings
+## Site closure and deletion settings
 - Site policy applied (Yes/No):
   - Site policy name (with description):
 ---
-### Document Libraries 
+## Document Libraries 
 | Name        | Description   | Retention label applied | Sensitivity label applied |
 |-------------|---------------|-------------------------|---------------------------|
 | *New entry* | *Description* | *Retention label name*  | *Sensitivity label name*  |
 ---
-### Lists
+## Lists
+| Name        | Description   | 
+|-------------|---------------|
+| *New entry* | *Description* |
+---
+## Apps
 | Name        | Description   | 
 |-------------|---------------|
 | *New entry* | *Description* |
 
+---
+
+## Site owner training
+---
+## Site user training
 ---
 
 Principal author: Norm Young
