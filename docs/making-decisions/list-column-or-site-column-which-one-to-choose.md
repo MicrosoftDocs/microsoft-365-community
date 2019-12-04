@@ -32,7 +32,7 @@ _Site columns_ on the other hand, are created at the site level, and available t
 Well, this means that if you create a site column at the root of your site collection, the column will be available throughout the entire site collection. <br>
 If you create a site column at the subsite level, this column will only be available for the subsite itself, and every other subsite(s) underneath. But not above.
 
-Site columns are "shared" between sites, but only hierachically.
+Site columns are "shared" between sites, but only hierarchically.
 
 ## So which one should you choose?
 
@@ -49,7 +49,7 @@ MySiteColumnOWSTEXT:contoso
 
 This would return only items which column MySiteColumn contains "contoso".
 
-However, if you opt to create a _list column_ you can acomplish the same later. The only difference is that with _site column_ it will be done automatically whereas with _list column_ you will have to go through extra steps which involves among others, creating a new custom MP.
+However, if you opt to create a _list column_ you can accomplish the same later. The only difference is that with _site column_ it will be done automatically whereas with _list column_ you will have to go through extra steps which involves among others, creating a new custom MP.
 
 ---
 

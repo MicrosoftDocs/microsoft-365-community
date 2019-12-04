@@ -11,6 +11,8 @@
 * [Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions.](basics/permission-model-diferences.md)
 * [Importing Data](basics/importing-data.md)
 * [Versioning in SharePoint](basics/versioning-basics-best-practices.md)
+* [Information Architecture - Managed Metadata vs Lookup columns](basics/information-architecture-managed-metadata-vs-lookup-column.md)
+* [Information Architecture - Site Topology](basics/information-architecture-site-topology.md)
 
 ## Making Decisions
 
@@ -21,6 +23,7 @@
 * [Can Machine Learning be used to assign managed metadata attributes for items?
 ](making-decisions/machine-learning-and-managed-metadata.md)
 * [Changing Microsoft Teams from Private to Public, what to expect in SharePoint?](making-decisions/changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md)
+* [Designing your solution for scale](making-decisions/designing-solution-for-scale.md)
 
 ## Scenarios
 

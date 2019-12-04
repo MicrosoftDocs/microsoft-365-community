@@ -47,7 +47,7 @@ As for Teams, when the user opens the desktop app or browser version, clicks on 
 
 ![mmd](../../images/changing-microsoft-teams-from-private-to-public/JoinPublicTeams.png)
 
-Changing the privacy settings should be thoughfully decided, because Public means Public!
+Changing the privacy settings should be thoughtfully decided, because Public means Public!
 
 ---
 
