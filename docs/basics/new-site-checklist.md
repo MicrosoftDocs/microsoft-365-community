@@ -50,3 +50,11 @@ The purpose of this guide is to help document the initial setup of a site and pr
 | Name        | Description   | 
 |-------------|---------------|
 | *New entry* | *Description* |
+
+---
+
+Principal author: Norm Young
+
+LinkedIn: https://www.linkedin.com/in/norm-young/
+
+Blog: [normyoung.ca](https://normyoung.ca)
