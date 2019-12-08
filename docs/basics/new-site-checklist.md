@@ -4,9 +4,17 @@ The purpose of this guide is to help document the initial setup of a site and pr
 
 # Checklist
 - [ ] Site build complete
+    - [ ] Site information complete
+    - [ ] Site permissions complete
+    - [ ] Site settings complete
+    - [ ]  Document libraries complete
+    - [ ]  Lists complete
+    - [ ] Apps completed
+    
 - [ ] Site owner training complete
 - [ ] Site user training complete
 
+---
 # Site build
 ## Site information
 - Title:
@@ -25,37 +33,46 @@ The purpose of this guide is to help document the initial setup of a site and pr
 | Visitors    | Read                  |         |
 | *New entry* | *Permission level*    | *Users* |
 
-## Custom permission levels
+### Custom permission levels
 | Name        | Description      |
 |-------------|------------------|
 | *New entry* | *Description*    |
 
-## Custom Groups
+### Custom Groups
 | Name        | Description      |
 |-------------|------------------|
 | *New entry* | *Description*    |
 
-## Site access request settings
+### Site access request settings
 - Members allowed to share the site, files and folders (Yes/No):
 - Members allowed to invite others to site members group (Yes/No):
 - Allow access requests (Yes/No):
   - Requests to site owners (Yes/No):
   - Requests to user (Yes/No):
     - User E-mail address:
+
 ---
-## Site closure and deletion settings
+## Site features
+| Name        | Status (Enabled/Disabled)      |
+|-------------|--------------------------------|
+| *New entry* | *Enabled/Disabled*             |
+
+### Site closure and deletion settings
 - Site policy applied (Yes/No):
   - Site policy name (with description):
+
 ---
 ## Document Libraries 
 | Name        | Description   | Retention label applied | Sensitivity label applied |
 |-------------|---------------|-------------------------|---------------------------|
 | *New entry* | *Description* | *Retention label name*  | *Sensitivity label name*  |
+
 ---
 ## Lists
 | Name        | Description   | 
 |-------------|---------------|
 | *New entry* | *Description* |
+
 ---
 ## Apps
 | Name        | Description   | 
@@ -64,9 +81,29 @@ The purpose of this guide is to help document the initial setup of a site and pr
 
 ---
 
-## Site owner training
+# Site owner training
+## Custom training resources 
+| Name                             | URL                             |
+|----------------------------------|---------------------------------|
+| *Name*                           | *URL*                           |
+
+## Microsoft training resources
+| Name                             | URL                             |
+|----------------------------------|---------------------------------|
+| SharePoint Online video training | https://support.office.com/en-us/article/sharepoint-online-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23?ui=en-US&rs=en-US&ad=US |
+
 ---
-## Site user training
+# Site user training
+## Custom training resources 
+| Name                             | URL                             |
+|----------------------------------|---------------------------------|
+| *Name*                           | *URL*                           |
+
+## Microsoft training resources
+| Name                             | Link                            |
+|----------------------------------|---------------------------------|
+| SharePoint Online video training | https://support.office.com/en-us/article/sharepoint-online-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23?ui=en-US&rs=en-US&ad=US |
+
 ---
 
 Principal author: Norm Young
