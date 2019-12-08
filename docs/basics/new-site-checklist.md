@@ -15,7 +15,6 @@ The purpose of this guide is to help document the initial setup of a site and pr
 - [ ] Site support
 - [ ] Next steps
 
----
 
 ## Site build
 ### Site information
@@ -77,7 +76,6 @@ The purpose of this guide is to help document the initial setup of a site and pr
 |-------------|---------------|
 | *New entry* | *Description* |
 
----
 
 ## Site owner training
 ### Custom training resources 
@@ -90,7 +88,6 @@ The purpose of this guide is to help document the initial setup of a site and pr
 |----------------------------------|---------------------------------|
 | SharePoint Online video training | https://support.office.com/en-us/article/sharepoint-online-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23?ui=en-US&rs=en-US&ad=US |
 
----
 
 ## Site user training
 ### Custom training resources 
@@ -103,14 +100,12 @@ The purpose of this guide is to help document the initial setup of a site and pr
 |----------------------------------|---------------------------------|
 | SharePoint Online video training | https://support.office.com/en-us/article/sharepoint-online-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23?ui=en-US&rs=en-US&ad=US |
 
----
 
 ## Site support
 | Name        | Description      |
 |-------------|------------------|
 | *New entry* | *Description*    |
 
----
 
 ## Next steps
 | Name        | Description      |
