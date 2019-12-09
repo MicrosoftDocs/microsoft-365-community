@@ -18,13 +18,14 @@ The purpose of this guide is to help document the initial setup of a site and pr
 
 ## Site build
 ### Site information
-- Title:
-- URL:
+- Title: `_____________________________________`
+- URL: `_______________________________________`
 - Type (Communication/Team):
 - Description:
 - Hub site (Yes/No):
 - Joined to Hub site (Yes/No) :
     - HUB site name:
+
 
 ### Site permissions
 | Role        | Permission level      | Users   |
