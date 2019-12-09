@@ -18,8 +18,9 @@ The purpose of this guide is to help document the initial setup of a site and pr
 
 ## Site build
 ### Site information
-- Title: `_____________________________________`
-- URL: `_______________________________________`
+
+- Title: 
+- URL: 
 - Type (Communication/Team):
 - Description:
 - Hub site (Yes/No):
