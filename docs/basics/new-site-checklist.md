@@ -18,8 +18,7 @@ The purpose of this guide is to help document the initial setup of a site and pr
 
 ## Site build
 ### Site information
-
-- Title: 
+- Title:
 - URL: 
 - Type (Communication/Team):
 - Description:
@@ -109,7 +108,6 @@ The purpose of this guide is to help document the initial setup of a site and pr
 | Name        | Description      |
 |-------------|------------------|
 | *New entry* | *Description*    |
-
 
 ## Next steps
 | Name        | Description      |
