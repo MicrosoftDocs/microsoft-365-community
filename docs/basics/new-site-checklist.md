@@ -87,6 +87,7 @@ The purpose of this guide is to help document the initial setup of a site and pr
 | Name                             | URL                             |
 |----------------------------------|---------------------------------|
 | SharePoint Online video training | https://support.office.com/en-us/article/sharepoint-online-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23?ui=en-US&rs=en-US&ad=US |
+| *Name*                           | *URL*                           |
 
 
 ## Site user training
@@ -96,9 +97,10 @@ The purpose of this guide is to help document the initial setup of a site and pr
 | *Name*                           | *URL*                           |
 
 ### Microsoft training resources
-| Name                             | Link                            |
+| Name                             | URL                             |
 |----------------------------------|---------------------------------|
 | SharePoint Online video training | https://support.office.com/en-us/article/sharepoint-online-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23?ui=en-US&rs=en-US&ad=US |
+| *Name*                           | *URL*                           |
 
 
 ## Site support
