@@ -13,6 +13,7 @@
 * [Versioning in SharePoint](basics/versioning-basics-best-practices.md)
 * [Information Architecture - Managed Metadata vs Lookup columns](basics/information-architecture-managed-metadata-vs-lookup-column.md)
 * [Information Architecture - Site Topology](basics/information-architecture-site-topology.md)
+* [Site Builder/Owner: New Site Checklist](basics/new-site-checklist.md)
 
 ## Making Decisions
 
