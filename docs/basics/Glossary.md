@@ -64,13 +64,13 @@ The planning and practice of ensuring systems are available when a disaster occu
 
 ### Enterprise Content Types
 
-Content Types and Site Columns that are defined in the Content Type Hub, then published to all sites collections in the tenant.
+Content Types and Site Columns that are defined in the Content Type Hub, then published to all Site Collections in the tenant.
 
 ## F
 
 ### Farm
 
-A set of servers that hosts the SharePoint Application, including SQL servers that host the SharePoint databases. A Farm can be single server or multi-tiered architecture containing multiple servers.
+A set of on premises servers that hosts the SharePoint application, including SQL servers that host the SharePoint databases. A Farm can be single server or multi-tiered architecture containing multiple servers.
 
 ### Field Customizer
 
@@ -83,6 +83,8 @@ Deprecated - please see [Targeted Release](#targeted-release).
 ## G
 
 ### Governance
+
+The set of rules and practices which define how an organization chooses to build, publish, manage, and archive content and code in their environment. There is no one-size-fits-all approach, though there are often better practices to follow based on community experience.
 
 ### Group
 
@@ -97,7 +99,7 @@ A Group in SharePoint can generally refer to one of three things. It may mean:
   An Office 365 Group is a concept within Office 365 that allows users can be members of, which has it's own e-mail address, and can be associated to a Microsoft Teams team, or a SharePoint Site. A Microsoft Teams Team automatically creates an Office 365 Group. These can be public where anyone can join, or Private when you need to be invited or given a code to join. Permissions are simplified to only "Owners" or "Members".
   
 #### Security Group
- 
+
   A security group is a container of users defined in Active Directory, one or more of these can be added to SharePoint Groups. Adding users in the security groups applies permissions in SharePoint.
 
 ## H
@@ -108,13 +110,13 @@ A Home Site is a special type of [Hub Site](#Hub-Site) with a few extra superpow
 
 * The Home Site is the destination for the home icon in the SharePoint mobile app.
 
-* It provides an enterprise-wide search scope, making ALL content in your tenant findable.
+* The Home Site  provides an enterprise-wide search scope, making ALL content in your tenant findable.
 
-Home sites are intended for use as the landing page for your organization. On launch, there will be only one Home Site per tenant allowed.
+Home sites are intended for use as the landing page for your organization. There is only one Home Site per tenant allowed.
 
 ### Hub Site
 
-A Hub Site is a SharePoint site that can have other sites associated to it. This allows you to group sites by department, region, or project etc. Features such as News and Highlight Content can be used to produce a roll up view of content like pages and documents from the associated sites on a page on the Hub Site.
+A Hub Site is a SharePoint site that can have other sites associated to it. This allows you to group sites by department, region, or project, etc. Features such as News, Events, and Highlighted Content can be used to produce rolled up views of content - like pages and documents from the associated sites - on a page on the Hub Site.
 
 ## I
 
