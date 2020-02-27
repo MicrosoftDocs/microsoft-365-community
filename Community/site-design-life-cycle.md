@@ -2,7 +2,7 @@
 
 One possible use for Site Designs is to manage the life cycle of a unit of work. Site Designs allow us to do such things as create lists and libraries, apply a theme, install an add-in or solution, set permissions, etc. (See: [Site design JSON schema](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-json-schema))
 
-![Project Lifecycle](../media/site-design-life-cycle/Lifecycle.png)
+![Project Lifecycle](media/site-design-life-cycle/Lifecycle.png)
 
 We can also trigger a Flow, so that opens up a whole additional world of possibilities. If we can’t accomplish what we need to do in the Flow, we can also call a custom Web Service from the Flow. In the Web Service, we can do anything CSOM opens up to us. In other words, Site Designs are the entry point we can use to do pretty much anything we need in our sites.
 

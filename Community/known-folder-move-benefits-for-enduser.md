@@ -18,9 +18,9 @@ KFM is a OneDrive sync feature that works with Windows 7, Windows 8/8.1, Windows
 
 Follow this [Guide]( https://support.office.com/en-us/article/back-up-your-documents-pictures-and-desktop-folders-with-onedrive-d61a7930-a6fb-4b95-b28a-6552e77c3057?ui=en-US&rs=en-US&ad=US) at Microsoft support.
 
-![KFMOptions](../media/known-folder-move-benefits-for-endusers/KFM01.png)
+![KFMOptions](media/known-folder-move-benefits-for-endusers/KFM01.png)
 
-![KFMOptions](../media/known-folder-move-benefits-for-endusers/KFM02.png)
+![KFMOptions](media/known-folder-move-benefits-for-endusers/KFM02.png)
 
 ## Tips & Tricks
 

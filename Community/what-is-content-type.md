@@ -12,11 +12,11 @@ You work with Content Types at home every day. You probably have grocery lists, 
 
 For sake of discussion, let’s say you do have a mortgage and you've put it into a manila folder in your drawer.
 
-![Document in a manila folder](../media/what-is-content-type/folder.png)
+![Document in a manila folder](media/what-is-content-type/folder.png)
 
 Wouldn't it be useful if you wrote some things on the outside of the folder so you could identify what was inside more easily? Maybe you'd add the date the mortgage was signed, the mortgage company, their phone number, and how much the mortgage was for.
 
-![Document in a manila folder with metadata](../media/what-is-content-type/folder-with-metadata.png)
+![Document in a manila folder with metadata](media/what-is-content-type/folder-with-metadata.png)
 
 Now, you may wonder why we're looking at a folder at all. Folders are supposed to be bad! But the analogy holds up: the folder is like the skin of the document, and we've added metadata on the outside to help us make sense of it.
 
@@ -24,7 +24,7 @@ Now, you may wonder why we're looking at a folder at all. Folders are supposed t
 
 Now imagine you work at a mortgage company. Instead of one (or maybe two) mortgages, you're responsible for thousands. The Content Type becomes even more important, and you may want some additional metadata, like maybe the mortgage originator, the servicing company, and the mortgage due date.
 
-![Document in a manila folder with metadata](../media/what-is-content-type/folder-with-more-metadata.png)
+![Document in a manila folder with metadata](media/what-is-content-type/folder-with-more-metadata.png)
 
 We don't add these metadata columns just for fun. We decide to collect the metadata which will enable the use cases we want, but not too much more than that. For example, if we'd like to have a view which shows all the mortgages which are going to be due in the next month, we need the Content Type = Mortgage and the mortgage due date >= [Today] and mortgage due date <= [Today+30]. We can't satisfy that use case unless we've made the document a Mortgage and added the mortgage due date metadata column - and populated it!
 
