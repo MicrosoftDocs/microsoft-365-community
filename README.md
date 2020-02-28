@@ -4,6 +4,8 @@
 * If you have been here before and would like instructions on how to add content, please go to [Adding Content](docs/adding-content.md).
 * Curious what types of articles we have here? Check out the [temporary table of contents](docs/index.md).
 
+![M365 Community Docs](./Community/media/microsoft-365-community/M365Community1.png "M365 Community Docs")
+
 This repository is here for YOU. The goal is to build an open source set of content to help people like Information Architects, Business Analysts, "Makers" (aka Citizen Developers), and Site Owners who want to use the platform better.
 
 There are lots of other resources for developers, so that isn't our target audience. We may include some code samples or snippets of code in the context of getting something done, but for the most part, any code in this repository will exist to help facilitate conversations between the folks listed above and the developers with whom they work.
