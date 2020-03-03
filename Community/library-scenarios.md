@@ -1,3 +1,9 @@
+---
+title: 
+ms.date:
+localization_priority: 
+description:
+---
 # Library scenarios
 
 This guide will provide scenario-based guidance for the planning of SharePoint document libraries.

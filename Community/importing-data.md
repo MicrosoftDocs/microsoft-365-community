@@ -1,8 +1,7 @@
 ---
-title: "Importing data"
-ms.reviewer: 
-author: 
-localization_priority: Priority
+title: 
+ms.date:
+localization_priority: 
 description:
 ---
 # Importing data into SharePoint

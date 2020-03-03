@@ -1,3 +1,9 @@
+---
+title: 
+ms.date:
+localization_priority: 
+description:
+---
 # Information Architecture - Managed Metadata versus Lookup columns
 
 Before we jump to the topic at hand, a little recap of the terminology involved:

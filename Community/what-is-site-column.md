@@ -1,3 +1,9 @@
+---
+title: 
+ms.date:
+localization_priority: 
+description:
+---
 # What is a Site Column?
 
 ## Basic Idea

@@ -1,3 +1,9 @@
+---
+title: 
+ms.date:
+localization_priority: 
+description:
+---
 # Changing Microsoft Teams from Private to Public, what to expect in SharePoint?
 
 ## Privacy settings

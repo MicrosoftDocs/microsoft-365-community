@@ -1,3 +1,9 @@
+---
+title: 
+ms.date:
+localization_priority: 
+description:
+---
 # Auto Apply Retention Labels in Office 365 Using Content Types and Metadata
 
 I think we all agree automating as much retention as possible is a good thing. The less we have to rely on information workers to manually apply a retention label, the better. The information architecture you've diligently defined in your tenant can now be leveraged using auto-apply conditions to automatically set an Office 365 retention label.

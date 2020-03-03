@@ -1,3 +1,9 @@
+---
+title: 
+ms.date:
+localization_priority: 
+description:
+---
 # Site Builder/Owner: New Site Checklist
 
 The purpose of this guide is to help document the initial setup of a site and provide resources for next steps and ongoing support.

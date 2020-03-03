@@ -1,3 +1,9 @@
+---
+title: 
+ms.date:
+localization_priority: 
+description:
+---
 # List columns or Site columns: Which one to choose?
 
 We have two (2) types of columns in SharePoint:

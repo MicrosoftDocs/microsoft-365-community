@@ -1,3 +1,9 @@
+---
+title: 
+ms.date:
+localization_priority: 
+description:
+---
 # Versioning in SharePoint
 
 ## Basic Idea
