@@ -1,7 +1,7 @@
 ---
 title: SharePoint Usage Glossary
 ms.date:  3/3/2020
-author:
+author: sympmarc
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "SharePoint Usage Glossary"
@@ -13,7 +13,7 @@ As with any technology, there are lots of terms we toss around to explain things
 
 This Glossary is an attempt to demystify some of the terms and acronyms we use every day in working with the platform. See one missing? Feel free to add an Issue with what you want added.
 
-[A](#a) [B](#b) [C](#c) [D](#d) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#K) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 ## A
 

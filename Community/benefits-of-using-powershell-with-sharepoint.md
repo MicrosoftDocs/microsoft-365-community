@@ -1,7 +1,7 @@
 ---
 title: Benefits of using PowerShell with SharePoin
 ms.date: 3/3/2020
-author:
+author: veronicageek
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "Benefits of using PowerShell with SharePoint"
@@ -100,8 +100,5 @@ If you live within the Microsoft ecosystem on a daily basis, you will likely use
 
 ---
 
-**Principal author**: Veronique Lengelle, MVP
+**Principal author**: [Veronique Lengelle, MVP](https://www.linkedin.com/in/veronique-lengelle-48a71b31)
 
-**LinkedIn**: https://www.linkedin.com/in/veronique-lengelle-48a71b31/
-
-**Blog**: https://veronicageek.com

@@ -1,7 +1,7 @@
 ---
 title: Using Site Designs to Manage Project Life Cycles
 ms.date: 3/3/2020
-author:
+author: sympmarc
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "Using Site Designs to Manage Project Life Cycles"
@@ -39,8 +39,5 @@ In other words, if you have a business process you want to support, Site Designs
 
 ---
 
-Principal author: Marc D Anderson, MVP
+Principal author: [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson/)
 
-LinkedIn: https://www.linkedin.com/in/marcanderson/
-
-Blog: [sympmarc.com](http://sympmarc.com)

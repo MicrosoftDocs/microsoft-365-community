@@ -1,7 +1,7 @@
 ---
 title: Versioning in SharePoint
 ms.date: 3/3/2020
-author:
+author: PatD
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "Versioning in SharePoint"
@@ -74,8 +74,5 @@ Lists usually only have Major versions.
 
 ---
 
-Principal author: Patrick M Doran
+Principal author: [Patrick M Doran](https://www.linkedin.com/in/patrickdoran)
 
-LinkedIn: https://www.linkedin.com/in/patrickdoran/
-
-GitHub: [github.com/patd](https://github.com/patd)

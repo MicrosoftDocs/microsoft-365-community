@@ -1,7 +1,7 @@
 ---
 title: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
 ms.date: 3/3/2020
-author:
+author: sympmarc
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "A Guided Tour Designed to Help You Select an Effective Navigation Strategy"

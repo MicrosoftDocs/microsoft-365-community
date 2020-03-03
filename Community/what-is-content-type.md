@@ -1,7 +1,7 @@
 ---
 title: What is a content type?
 ms.date: 3/3/2020
-author:
+author: sympmarc
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "What is a content type?"
@@ -47,8 +47,5 @@ With Content Types, we can define the business objects which matter to us in our
 
 ---
 
-Principal author: Marc D Anderson, MVP
+Principal author: [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson/)
 
-LinkedIn: https://www.linkedin.com/in/marcanderson/
-
-Blog: [sympmarc.com](http://sympmarc.com)

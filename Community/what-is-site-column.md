@@ -1,7 +1,7 @@
 ---
 title: What is a site column?
 ms.date: 3/3/2020
-author:
+author: sympmarc
 ms.reviewer: Joanne Hendrickson
 localization_priority: 
 description: "What is a site column?"
@@ -45,8 +45,5 @@ Site Columns are a way to instantiate common fields across our organization as p
 
 ---
 
-Principal author: Marc D Anderson, MVP
+Principal author: [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 
-LinkedIn: https://www.linkedin.com/in/marcanderson/
-
-Blog: [sympmarc.com](http://sympmarc.com)

@@ -1,7 +1,7 @@
 ---
 title: Information Architecture - Site Topology
 ms.date: 3/3/2020
-author:
+author: hugoabernier
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "Information Architecture - Site Topology"
@@ -115,10 +115,4 @@ To find out more about Group naming policies, and to learn to define them, visit
 
 ---
 
-**Principal author**: Hugo Bernier
-
-**LinkedIn**: [**http://www.linkedin.com/in/bernierh**](http://www.linkedin.com/in/bernierh)
-
-**Blog**: [**https://tahoeninjas.blog/**](https://tahoeninjas.blog/)
-
-**Original article(s)**: [https://tahoeninjas.blog/?s=information+architecture](https://tahoeninjas.blog/?s=information+architecture)
+**Principal author**: [Hugo Bernier](http://www.linkedin.com/in/bernierh)
