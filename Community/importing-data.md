@@ -1,6 +1,7 @@
 ---
 title:  Importing data into SharePoint
 ms.date: 3/3/2020
+author:
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: Importing data into SharePoint
@@ -130,7 +131,7 @@ The **“Move to”** feature will copy the files / folders to the new location 
 ## Document Libraries – SharePoint Migration Tool (Power user)
 
 The *SharePoint Migration Tool (SPMT)* can be used to import files into SharePoint. *SPMT* is especially useful when migrating a large volume of documents from a file share.
-Detailed information about *SPMT* can be found on the [Download and install the SharePoint Migration Tool](https://docs.microsoft.com/en-us/sharepointmigration/introducing-the-sharepoint-migration-tool) page.
+Detailed information about *SPMT* can be found on the [Download and install the SharePoint Migration Tool](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool) page.
 
 From your *SPMT* computer:
 - Open the “SharePoint Migration Tool”.<br>
@@ -157,7 +158,7 @@ From your *SPMT* computer:
 - Name your migration if desired or click “Next” to continue.
 ![Review migration screen](media/importing-data/spmt-windows-review-migration.png)
 
-- Update *SPMT* settings if required or click “Migrate” to continue. Detailed information on *SPMT* settings can be on the [SharePoint Migration Tool Settings](https://docs.microsoft.com/en-us/sharepointmigration/spmt-settings) page.
+- Update *SPMT* settings if required or click “Migrate” to continue. Detailed information on *SPMT* settings can be on the [SharePoint Migration Tool Settings](https://docs.microsoft.com/sharepointmigration/spmt-settings) page.
 ![Choose your settings screen](media/importing-data/spmt-settings.png)
 
 - Click “Save” to store the migration or click “No thanks” to continue.
@@ -169,7 +170,7 @@ From your *SPMT* computer:
 ## Document Libraries – Sync (Power user)
 
 SharePoint document libraries support the syncing of files between computer and site using *Microsoft OneDrive*. The *OneDrive sync app* is especially useful when migrating a large volume of documents from computer to SharePoint document library.
-Detailed information about OneDrive can be found on the [Sync SharePoint files with the new OneDrive sync app](https://support.office.com/en-us/article/sync-sharepoint-files-with-the-new-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) page.
+Detailed information about OneDrive can be found on the [Sync SharePoint files with the new OneDrive sync app](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) page.
 
 With the target site and document library open:
 

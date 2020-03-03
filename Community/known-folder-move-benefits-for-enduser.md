@@ -1,6 +1,7 @@
 ---
 title: Known Folder Move (KFM) Benefits for End Users
 ms.date: 3/3/2020
+author:
 ms-reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "Known Folder Move (KFM) Benefits for End Users"
@@ -24,7 +25,7 @@ KFM is a OneDrive sync feature that works with Windows 7, Windows 8/8.1, Windows
 
 ## How you turn it on
 
-Follow this [Guide]( https://support.office.com/en-us/article/back-up-your-documents-pictures-and-desktop-folders-with-onedrive-d61a7930-a6fb-4b95-b28a-6552e77c3057?ui=en-US&rs=en-US&ad=US) at Microsoft support.
+Follow this [Guide]( https://support.office.com/article/back-up-your-documents-pictures-and-desktop-folders-with-onedrive-d61a7930-a6fb-4b95-b28a-6552e77c3057) at Microsoft support.
 
 ![KFMOptions](media/known-folder-move-benefits-for-endusers/KFM01.png)
 
@@ -48,4 +49,4 @@ Here is a few things I've experienced with this feature that might help in case 
 
 **Blog**: https://hangconsult.com
 
-**Source**: https://docs.microsoft.com/en-us/onedrive/redirect-known-folders
+**Source**: https://docs.microsoft.com/onedrive/redirect-known-folders

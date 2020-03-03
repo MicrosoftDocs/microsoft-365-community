@@ -1,6 +1,7 @@
 ---
 title: Information Architecture - Managed Metadata versus Lookup columns
 ms.date: 3/3/2020
+author:
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "Information Architecture - Managed Metadata versus Lookup columns"
