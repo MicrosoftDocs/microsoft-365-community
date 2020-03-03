@@ -1,6 +1,7 @@
 ---
 title: Site Builder/Owner: New Site Checklist
 ms.date: 3/3/2020
+author:
 ms.reviewer: Joanne Hendrickson
 localization_priority: 
 description: "Site Builder/Owner: New Site Checklist"
@@ -95,7 +96,7 @@ The purpose of this guide is to help document the initial setup of a site and pr
 ### Microsoft training resources
 | Name                             | URL                             |
 |----------------------------------|---------------------------------|
-| SharePoint Online video training | https://support.office.com/en-us/article/sharepoint-online-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23?ui=en-US&rs=en-US&ad=US |
+| SharePoint Online video training | https://support.office.com/article/sharepoint-online-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23 |
 | *Name*                           | *URL*                           |
 
 
@@ -108,7 +109,7 @@ The purpose of this guide is to help document the initial setup of a site and pr
 ### Microsoft training resources
 | Name                             | URL                             |
 |----------------------------------|---------------------------------|
-| SharePoint Online video training | https://support.office.com/en-us/article/sharepoint-online-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23?ui=en-US&rs=en-US&ad=US |
+| SharePoint Online video training | https://support.office.com/article/sharepoint-online-video-training-cb8ef501-84db-4427-ac77-ec2009fb8e23 |
 | *Name*                           | *URL*                           |
 
 

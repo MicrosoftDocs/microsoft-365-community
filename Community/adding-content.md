@@ -1,5 +1,6 @@
 ---
 title: Adding content
+author:
 ms.date: 3/3/2020
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
@@ -10,7 +11,7 @@ ms.collection:  SPCommunity
 
 ## Contribution Guidelines
 
-We'll be following the [contribution guidelines](https://docs.microsoft.com/en-us/contribute/) from docs.microsoft.com, as we hope the content here ends up there. It even includes a [style and voice quick start](https://docs.microsoft.com/en-us/contribute/style-quick-start).
+We'll be following the [contribution guidelines](https://docs.microsoft.com/contribute/) from docs.microsoft.com, as we hope the content here ends up there. It even includes a [style and voice quick start](https://docs.microsoft.com/contribute/style-quick-start).
 
 For the full reference, read the [Microsoft Writing Style Guide](https://docs.microsoft.com/style-guide/welcome/). The style guide is the current iteration of what's been a standard in technical writing for more than 20 years: The Microsoft Manual of Style.
 
@@ -56,7 +57,7 @@ If you know how to work with GitHub, you probably don't need this section. You w
 
 ### Navigate to the Appropriate Location
 
-The repo is organized in a set of folders. The structure will undoubtedly change over time, but look for a folder which seems to correspond with the content you want to add. For example, you might want to add your content to the [docs/making-decisions](https://GitHub.com/SharePoint/sp-usage-docs/tree/master/docs/making-decisions) folder if it's an article about how to decide whether to use [Teams Site vs. Communication Site: Which one should I choose?](docs\making-decisions\team-site-or-communication-site.md) Don't stress too much about this: the contributions we get will drive rerstructuring over time.
+The repo is organized in a set of folders. The structure will undoubtedly change over time, but look for a folder which seems to correspond with the content you want to add. Just add your content to the [Community](https://github.com/MicrosoftDocs/microsoft-365-community/tree/master/Community) folder.
 
 ### Create the New File
 

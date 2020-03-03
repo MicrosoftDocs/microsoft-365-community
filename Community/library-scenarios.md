@@ -1,6 +1,7 @@
 ---
 title: Library scenarios
 ms.date: 3/3/2020
+author:
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "Library scenarios"
@@ -33,7 +34,7 @@ Using the example of *project plans* and *governance documents*, we would plan f
 Example image shown below:<br>
 ![Subject matter document libraries](media/library-scenarios/subject-matter-scenario-01.png)
 
-In some cases, high value content is limited in quantity, and additional document libraries add complexity to user navigation. In these situations, highlight the high value content by [pinning it to the top of the document library](https://support.office.com/en-us/article/Highlight-a-file-folder-or-link-in-a-document-library-9c5f46de-f0f4-4cf1-bd5e-b4ebc7a8b31c). When you pin an item, a thumbnail image will appear at the top of the document library page making it easier for users to find it. 
+In some cases, high value content is limited in quantity, and additional document libraries add complexity to user navigation. In these situations, highlight the high value content by [pinning it to the top of the document library](https://support.office.com/article/Highlight-a-file-folder-or-link-in-a-document-library-9c5f46de-f0f4-4cf1-bd5e-b4ebc7a8b31c). When you pin an item, a thumbnail image will appear at the top of the document library page making it easier for users to find it. 
 
 Example image shown below:<br>
 ![Pinned folder in document library](media/library-scenarios/subject-matter-scenario-02.png)
@@ -42,7 +43,7 @@ Example image shown below:<br>
 
 Some sites are required to store sensitive content that is not suitable for site members or visitors to view. For example, confidential *employee reports*. Creating a dedicated document library with unique permissions allow the secured storage of sensitive content within the site while employing a security trimmed navigation experience.
 
-Using the example of *employee reports*, we would plan for a “Confidential” security group and a “Confidential” documentary library with [unique permissions](https://support.office.com/en-us/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782) that exclude the members and visitor security groups.
+Using the example of *employee reports*, we would plan for a “Confidential” security group and a “Confidential” documentary library with [unique permissions](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782) that exclude the members and visitor security groups.
 
 Example image below of the “Confidential” security group:<br>
 ![Custom security group](media/library-scenarios/sensitivity-scenario-01.png)
@@ -54,7 +55,7 @@ Example image below of the “Confidential” document library unique permission
 
 ## Multimedia scenario
 
-Organizations often group image, audio, and video files in document libraries for reference use or archival purposes. For example, *branding* and *marketing materials*. Providing dedicated document library or [Asset Library](https://support.office.com/en-us/article/Set-up-an-Asset-Library-to-store-image-audio-or-video-files-96532BF6-DC72-4F82-BF0A-21EF945C4D04) for multimedia purposes allows for consistent use and storage of an organizations image, audio, and video files.
+Organizations often group image, audio, and video files in document libraries for reference use or archival purposes. For example, *branding* and *marketing materials*. Providing dedicated document library or [Asset Library](https://support.office.com/article/Set-up-an-Asset-Library-to-store-image-audio-or-video-files-96532BF6-DC72-4F82-BF0A-21EF945C4D04) for multimedia purposes allows for consistent use and storage of an organizations image, audio, and video files.
 
 >If you don't see Asset Library as an option in your built-in apps, contact your SharePoint admin to see if they are available for your site.
 
@@ -65,12 +66,12 @@ Using the example of *branding* and *marketing materials*, we would plan for:
 Example image shown below:<br>
 ![Multimedia document libraries](media/library-scenarios/multimedia-scenario-01.png)
 
-Multimedia document libraries can be designated as an [Organization Asset Library](https://docs.microsoft.com/en-us/sharepoint/organization-assets-library) making image files available to users for site and page creation.
+Multimedia document libraries can be designated as an [Organization Asset Library](https://docs.microsoft.com/sharepoint/organization-assets-library) making image files available to users for site and page creation.
 
 Example image shown below:<br>
 ![Multimedia document libraries](media/library-scenarios/multimedia-scenario-02.png)
 
->Video files intended for streaming use should be hosted in [Microsoft Stream](https://docs.microsoft.com/en-us/stream/overview). 
+>Video files intended for streaming use should be hosted in [Microsoft Stream](https://docs.microsoft.com/stream/overview). 
 
 ---
 

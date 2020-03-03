@@ -1,6 +1,7 @@
 ---
 title: Using Site Designs to Manage Project Life Cycles
 ms.date: 3/3/2020
+author:
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "Using Site Designs to Manage Project Life Cycles"
@@ -8,7 +9,7 @@ ms.collection:  SPCommunity
 ---
 # Using Site Designs to Manage Project Life Cycles
 
-One possible use for Site Designs is to manage the life cycle of a unit of work. Site Designs allow us to do such things as create lists and libraries, apply a theme, install an add-in or solution, set permissions, etc. (See: [Site design JSON schema](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-json-schema))
+One possible use for Site Designs is to manage the life cycle of a unit of work. Site Designs allow us to do such things as create lists and libraries, apply a theme, install an add-in or solution, set permissions, etc. (See: [Site design JSON schema](https://docs.microsoft.com/sharepoint/dev/declarative-customization/site-design-json-schema))
 
 ![Project Lifecycle](media/site-design-life-cycle/Lifecycle.png)
 

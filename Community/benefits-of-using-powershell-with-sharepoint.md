@@ -1,6 +1,7 @@
 ---
 title: Benefits of using PowerShell with SharePoin
 ms.date: 3/3/2020
+author:
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "Benefits of using PowerShell with SharePoint"
@@ -10,14 +11,14 @@ ms.collection: SPCommunity
 
 ## What is PowerShell?
 
-[PowerShell](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/powershell) is an automation scripting language from Microsoft, which was originally only available on Windows devices, and built on top of the .NET Framework.
+[PowerShell](https://docs.microsoft.com/windows-server/administration/windows-commands/powershell) is an automation scripting language from Microsoft, which was originally only available on Windows devices, and built on top of the .NET Framework.
 Since 2016, we also have [PowerShell Core](https://github.com/PowerShell/PowerShell) which is open-source, cross-platform, and built on top of .NET Core.
 
 The version that ships on Windows devices is called **Windows PowerShell**, and the cross-platform version is called **PowerShell Core** and is also available on Windows.
 
 ## PowerShell for SharePoint
 
-In the SharePoint world, we have multiple [modules](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_modules?view=powershell-6) available, and which one to use mostly depends on your SharePoint infrastructure. Is it SharePoint on-premises? Is it SharePoint Online?
+In the SharePoint world, we have multiple [modules](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_modules?view=powershell-6) available, and which one to use mostly depends on your SharePoint infrastructure. Is it SharePoint on-premises? Is it SharePoint Online?
 
 Let's have a look at all the different modules currently available for SharePoint.
 
@@ -33,7 +34,7 @@ There's a lot of possibilities to manage your environment with the SharePoint on
 
 #### SharePoint Online Module (by Microsoft)
 
-Microsoft also created a [module for SharePoint Online](https://www.microsoft.com/en-gb/download/details.aspx?id=35588), however it contains approx. 162 cmdlets (late 2019).
+Microsoft also created a [module for SharePoint Online](https://www.microsoft.com/download/details.aspx?id=35588), however it contains approx. 162 cmdlets (late 2019).
 
 That's a big drop from the on-premises version isn't it? But when you think about it, it makes sense. With SharePoint Online, as you may know, there's a lot Microsoft is taking care of, therefore there's no need for us to manage databases, Service Applications, or even Web Applications as a few examples.
 
@@ -73,11 +74,11 @@ If you use PowerShell, it's likely to take less than 5 mins, and off you go!
 
 #### Anything else?
 Sure, you have other purposes for using PowerShell in SharePoint of course.
-Other than creating things, you can change/remove them all at once on multiple sites, extract information like Users/Groups/Permissions, and even integrate with other platforms like [Azure](https://azure.microsoft.com/en-gb/) to automate your most complex tasks!
+Other than creating things, you can change/remove them all at once on multiple sites, extract information like Users/Groups/Permissions, and even integrate with other platforms like [Azure](https://azure.microsoft.com/) to automate your most complex tasks!
 
 More examples where PowerShell is used:
-- [Site Scripts & Site Designs](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview)
-- [WPF Applications](https://docs.microsoft.com/en-us/dotnet/framework/wpf/getting-started/) (Graphical User Interfaces)
+- [Site Scripts & Site Designs](https://docs.microsoft.com/sharepoint/dev/declarative-customization/site-design-overview)
+- [WPF Applications](https://docs.microsoft.com/dotnet/framework/wpf/getting-started/) (Graphical User Interfaces)
 - [Reports on Site Collection Inventory](https://veronicageek.com/sharepoint/sharepoint-2013/get-nested-folders-files-count-folder-size-and-more-in-spo-document-libraries-using-powershell-pnp/2019/09/)
 
 ## Who should know PowerShell?

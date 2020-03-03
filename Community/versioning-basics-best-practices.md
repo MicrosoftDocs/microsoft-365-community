@@ -1,6 +1,7 @@
 ---
 title: Versioning in SharePoint
 ms.date: 3/3/2020
+author:
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "Versioning in SharePoint"
@@ -67,7 +68,7 @@ Lists usually only have Major versions.
 
 ### Further Reading
 
-* Microsoft: [Planning Versioning, Content Approval](https://docs.microsoft.com/en-us/sharepoint/governance/versioning-content-approval-and-check-out-planning)
+* Microsoft: [Planning Versioning, Content Approval](https://docs.microsoft.com/sharepoint/governance/versioning-content-approval-and-check-out-planning)
 * Blog: [SharePoint Maven on Versioning](https://sharepointmaven.com/5-ways-users-can-benefit-versioning-sharepoint/)
 * Blog: [ShareGate: SharePoint Version Control to the Rescue](https://sharegate.com/blog/sharepoint-version-control)
 

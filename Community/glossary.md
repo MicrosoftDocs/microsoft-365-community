@@ -1,6 +1,7 @@
 ---
 title: SharePoint Usage Glossary
 ms.date:  3/3/2020
+author:
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "SharePoint Usage Glossary"
@@ -12,7 +13,7 @@ As with any technology, there are lots of terms we toss around to explain things
 
 This Glossary is an attempt to demystify some of the terms and acronyms we use every day in working with the platform. See one missing? Feel free to add an Issue with what you want added.
 
-[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#K) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#K) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
 
 ## A
 
@@ -44,7 +45,7 @@ Some columns types, like Date and Choice, include ready made design templates. A
 
 ### Command Set
 
-See [SharePoint Framework](#sharePoint-framework)
+See [SharePoint Framework](#sharepoint-framework)
 
 ### Communication Site
 
@@ -82,7 +83,7 @@ A set of on premises servers that hosts the SharePoint application, including SQ
 
 ### Field Customizer
 
-See [SharePoint Framework](#sharePoint-framework)
+See [SharePoint Framework](#sharepoint-framework)
 
 ### First Release
 
@@ -136,7 +137,7 @@ In a development sense, idempotent means that code you run more than once with t
 
 Inheritance refers to the cascading of default site permission levels (i.e. Owner, Member and Visitor) to site Document Libraries, Lists, Site Pages etc. 
 
-Inheritance can be "broken" to allow for [unique permissions](#Unique-Permissions).
+Inheritance can be "broken" to allow for [unique permissions](#unique-permissions).
 
 ## J
 
@@ -342,7 +343,7 @@ View Formatting is a SharePoint feature that allows users to customize the displ
 
 A web part is a consolidated piece of functionality that can be added one or more times to a page. Web parts can be first-party, those created and maintained by Microsoft or third-party being those created by developers in your own organization, the community via the PnP, or by a consulting service.
 
-Also see [SharePoint Framework](#sharePoint-framework)
+Also see [SharePoint Framework](#sharepoint-framework)
 
 ## X
 

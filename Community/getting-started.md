@@ -1,9 +1,10 @@
 ---
-title: 
-ms.date:
-ms.reviewer:  
+title: Getting started
+ms.date: 3/3/2020
+author:
+ms.reviewer:  Joanne Hendrickson
 localization_priority: 
-description:
+description:   "Getting started"
 ms.collection: SPCommunity
 ---
 # Getting Started
