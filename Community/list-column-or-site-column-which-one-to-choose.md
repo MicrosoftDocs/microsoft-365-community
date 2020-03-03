@@ -1,5 +1,5 @@
 ---
-title: List columns or Site columns: Which one to choose?
+title: List columns or Site columns - Which one to choose?
 ms.date: 3/3/2020
 author: veronicageek
 ms.reviewer:  Joanne Hendrickson

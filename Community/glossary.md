@@ -115,7 +115,7 @@ A Group in SharePoint can generally refer to one of three things. It may mean:
 
 ### Home Site
 
-A Home Site is a special type of [Hub Site](#Hub-Site) with a few extra superpowers:
+A Home Site is a special type of [Hub Site](#hub-Site) with a few extra superpowers:
 
 * The Home Site is the destination for the home icon in the SharePoint mobile app.
 
@@ -197,7 +197,7 @@ On premises refers to running servers yourself, whether they are in your physica
 
 ### Out of the box
 
-Capabilities included with SharePoint without writing any code or doing heavy lifting. Depending on who you talk to, this definition probably includes a level of [customization](#Customization) including things like creating new sites, lists, and libraries.
+Capabilities included with SharePoint without writing any code or doing heavy lifting. Depending on who you talk to, this definition probably includes a level of [customization](#customization) including things like creating new sites, lists, and libraries.
 
 ## P
 
@@ -217,7 +217,7 @@ See [Patterns and Practices](#patterns-and-practices)
 
 ### PowerShell
 
-[PowerShell](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/powershell) is an automation scripting language from Microsoft, which was originally only available on Windows devices, and built on top of the .NET Framework. Since 2016, we also have [PowerShell Core](https://github.com/PowerShell/PowerShell) which is open-source, cross-platform, and built on top of .NET Core.
+[PowerShell](https://docs.microsoft.com/windows-server/administration/windows-commands/powershell) is an automation scripting language from Microsoft, which was originally only available on Windows devices, and built on top of the .NET Framework. Since 2016, we also have [PowerShell Core](https://github.com/PowerShell/PowerShell) which is open-source, cross-platform, and built on top of .NET Core.
 
 The version that ships on Windows devices is called Windows PowerShell, and the cross-platform version is called PowerShell Core, and is also available on Windows.
 
@@ -311,7 +311,7 @@ Team Sites are generally used to facilitate teamwork. It generally has a set of 
 
 ### Unique Permissions
 
-Unique Permissions do not [inherit](#Inheritance) default site permission levels and are applied to site Document Libraries, Lists, Site Pages etc.
+Unique Permissions do not [inherit](#inheritance) default site permission levels and are applied to site Document Libraries, Lists, Site Pages etc.
 
 ### User experience (UX)
 
@@ -335,7 +335,7 @@ The most common settings we use in views allow us to:
 
 ### View Formatting
 
-View Formatting is a SharePoint feature that allows users to customize the display of rows in Lists using JSON code. Like [Column Formatting](#Column-Formatting), colors, icons, images and other elements are used to highlight content and improve the user experience. 
+View Formatting is a SharePoint feature that allows users to customize the display of rows in Lists using JSON code. Like [Column Formatting](#column-formatting), colors, icons, images and other elements are used to highlight content and improve the user experience. 
 
 ## W
 
