@@ -115,7 +115,7 @@ A Group in SharePoint can generally refer to one of three things. It may mean:
 
 ### Home Site
 
-A Home Site is a special type of [Hub Site](#hub-Site) with a few extra superpowers:
+A Home Site is a special type of [Hub Site](#hub-site) with a few extra superpowers:
 
 * The Home Site is the destination for the home icon in the SharePoint mobile app.
 
