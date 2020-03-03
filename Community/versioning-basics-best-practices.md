@@ -1,3 +1,11 @@
+---
+title: Versioning in SharePoint
+ms.date: 3/3/2020
+ms.reviewer:  Joanne Hendrickson
+localization_priority: 
+description: "Versioning in SharePoint"
+ms.collection:  SPCommunity
+---
 # Versioning in SharePoint
 
 ## Basic Idea

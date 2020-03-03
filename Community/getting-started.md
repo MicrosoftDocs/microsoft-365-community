@@ -1,3 +1,11 @@
+---
+title: 
+ms.date:
+ms.reviewer:  
+localization_priority: 
+description:
+ms.collection: SPCommunity
+---
 # Getting Started
 
 This document is for people who haven't worked with GitHub before or would like a refresher. As with anything, the first time can be intimidating.

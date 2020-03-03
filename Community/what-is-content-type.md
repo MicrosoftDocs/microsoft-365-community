@@ -1,3 +1,11 @@
+---
+title: What is a content type?
+ms.date: 3/3/2020
+ms.reviewer:  Joanne Hendrickson
+localization_priority: 
+description: "What is a content type?"
+ms.collection:  SPCommunity
+---
 # What is a Content Type?
 
 ## Basic Idea

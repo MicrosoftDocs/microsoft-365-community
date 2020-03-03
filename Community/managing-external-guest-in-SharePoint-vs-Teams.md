@@ -1,3 +1,10 @@
+---
+title: Managing External Guests in SharePoint vs Teams
+ms.date: 3/3/2020
+ms.reviewer: localization_priority: 
+description: "Managing External Guests in SharePoint vs Teams"
+ms.collection:  SPCommunity
+---
 # Managing External Guests in SharePoint vs Teams
 
 "Guest", such a beautiful word. In my humble opinion Guest Users is one of the most valuable assets we have, and learning how to best collaborate with Guest users is an essential skill set.

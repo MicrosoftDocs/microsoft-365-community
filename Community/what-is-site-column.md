@@ -1,3 +1,11 @@
+---
+title: What is a site column?
+ms.date: 3/3/2020
+ms.reviewer: Joanne Hendrickson
+localization_priority: 
+description: "What is a site column?"
+ms.collection:  SPCommunity
+---
 # What is a Site Column?
 
 ## Basic Idea

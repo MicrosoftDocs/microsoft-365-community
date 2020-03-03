@@ -1,3 +1,11 @@
+---
+title: SharePoint Usage Glossary
+ms.date:  3/3/2020
+ms.reviewer:  Joanne Hendrickson
+localization_priority: 
+description: "SharePoint Usage Glossary"
+ms.collection: SPCommunity
+---
 # SharePoint Usage Glossary
 
 As with any technology, there are lots of terms we toss around to explain things. Just understanding what each term means can be half the battle. Whether you are entirely new to SharePoint or have been using it for a decade, there are always new terms to learn. The fact that Microsoft uses common English words for many capabilities can add an additional layer of confusion.

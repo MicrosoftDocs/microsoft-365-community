@@ -1,3 +1,11 @@
+---
+title: Known Folder Move (KFM) Benefits for End Users
+ms.date: 3/3/2020
+ms-reviewer:  Joanne Hendrickson
+localization_priority: 
+description: "Known Folder Move (KFM) Benefits for End Users"
+ms.collection:  SPCommunity
+---
 # Known Folder Move (KFM) Benefits for End Users
 
 KFM is a OneDrive sync feature that works with Windows 7, Windows 8/8.1, Windows 10. This feature allows business users to automatically backup/redirect their Windows clients Desktops, Documents and Pictures folders to OneDrive for Business.

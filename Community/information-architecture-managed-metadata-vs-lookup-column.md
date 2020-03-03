@@ -1,3 +1,11 @@
+---
+title: Information Architecture - Managed Metadata versus Lookup columns
+ms.date: 3/3/2020
+ms.reviewer:  Joanne Hendrickson
+localization_priority: 
+description: "Information Architecture - Managed Metadata versus Lookup columns"
+ms.collection:  SPCommunity
+---
 # Information Architecture - Managed Metadata versus Lookup columns
 
 Before we jump to the topic at hand, a little recap of the terminology involved:

@@ -1,3 +1,11 @@
+---
+title: Site Builder/Owner: New Site Checklist
+ms.date: 3/3/2020
+ms.reviewer: Joanne Hendrickson
+localization_priority: 
+description: "Site Builder/Owner: New Site Checklist"
+ms.collection:  SPCommunity
+---
 # Site Builder/Owner: New Site Checklist
 
 The purpose of this guide is to help document the initial setup of a site and provide resources for next steps and ongoing support.

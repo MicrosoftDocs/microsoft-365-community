@@ -1,3 +1,11 @@
+---
+title: Adding content
+ms.date: 3/3/2020
+ms.reviewer:  Joanne Hendrickson
+localization_priority: 
+description:  Add content
+ms.collection:  SPCommunity
+---
 # Adding Content
 
 ## Contribution Guidelines

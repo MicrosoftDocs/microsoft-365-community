@@ -1,3 +1,10 @@
+---
+title: Can Machine Learning be used to assign managed metadata attributes for items?
+ms.date: 3/3/2020
+localization_priority: 
+description: "Can Machine Learning be used to assign managed metadata attributes for items?"
+ms.collection:  SPCommunity
+---
 # Can Machine Learning be used to assign managed metadata attributes for items?
 
 Metadata adoption is tough.  With the introduction of Machine Learning into the SharePoint ecosystem, Administrators and System Architects are asking if it can be leveraged to reduce our dependency on Users to assign metadata.  This article shares the results of an exploration into the technical capabilities of Machine Learning as it relates to SharePoint Managed Metadata.

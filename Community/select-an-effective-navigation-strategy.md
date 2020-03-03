@@ -1,3 +1,11 @@
+---
+title: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
+ms.date: 3/3/2020
+ms.reviewer:  Joanne Hendrickson
+localization_priority: 
+description: "A Guided Tour Designed to Help You Select an Effective Navigation Strategy"
+ms.collection:  SPCommunity
+---
 # A Guided Tour Designed to Help You Select an Effective Navigation Strategy
 
 Modern navigation in SharePoint Online can be tricky. There are many different native options provided by Microsoft. Let's take a look at what's available and discuss some more robust alternatives.

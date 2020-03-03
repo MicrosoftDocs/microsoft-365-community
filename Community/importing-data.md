@@ -1,3 +1,11 @@
+---
+title:  Importing data into SharePoint
+ms.date: 3/3/2020
+ms.reviewer:  Joanne Hendrickson
+localization_priority: 
+description: Importing data into SharePoint
+ms.collection: SPCommunity
+---
 # Importing data into SharePoint
 
 This guide will help users understand the various options available to import files and data into SharePoint. We cover several different approaches:
@@ -194,8 +202,4 @@ Using Windows Explorer, open the source documents folder:
 
 ---
 
-Principal author: Norm Young
-
-LinkedIn: https://www.linkedin.com/in/norm-young/
-
-Blog: [normyoung.ca](https://normyoung.ca)
+Principal author: [Norm Young](https://www.linkedin.com/in/norm-young/)
