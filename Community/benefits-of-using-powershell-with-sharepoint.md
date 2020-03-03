@@ -1,8 +1,10 @@
 ---
-title: 
-ms.date:
+title: Benefits of using PowerShell with SharePoin
+ms.date: 3/3/2020
+ms.reviewer:  Joanne Hendrickson
 localization_priority: 
-description:
+description: "Benefits of using PowerShell with SharePoint"
+ms.collection: SPCommunity
 ---
 # Benefits of using PowerShell with SharePoint
 

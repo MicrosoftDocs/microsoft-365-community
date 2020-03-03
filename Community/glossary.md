@@ -1,8 +1,10 @@
 ---
-title: 
-ms.date:
+title: SharePoint Usage Glossary
+ms.date:  3/3/2020
+ms.reviewer:  Joanne Hendrickson
 localization_priority: 
-description:
+description: "SharePoint Usage Glossary"
+ms.collection: SPCommunity
 ---
 # SharePoint Usage Glossary
 

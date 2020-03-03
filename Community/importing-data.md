@@ -1,8 +1,10 @@
 ---
-title: 
-ms.date:
+title:  Importing data into SharePoint
+ms.date: 3/3/2020
+ms.reviewer:  Joanne Hendrickson
 localization_priority: 
-description:
+description: Importing data into SharePoint
+ms.collection: SPCommunity
 ---
 # Importing data into SharePoint
 

@@ -1,8 +1,10 @@
 ---
-title: 
-ms.date:
+title: Teams Site vs. Communication Site: Which one should I choose?
+ms.date: 3/3/2020
+ms.reviewer:  Joanne Hendrickson
 localization_priority: 
-description:
+description: "Teams Site vs. Communication Site: Which one should I choose?"
+ms.collection:  SPCommunity
 ---
 # Teams Site vs. Communication Site: Which one should I choose?
 

@@ -1,8 +1,10 @@
 ---
-title: 
-ms.date:
+title: Information Architecture - Site Topology
+ms.date: 3/3/2020
+ms.reviewer:  Joanne Hendrickson
 localization_priority: 
-description:
+description: "Information Architecture - Site Topology"
+ms.collection:  SPCommunity
 ---
 # Information Architecture - Site Topology
 

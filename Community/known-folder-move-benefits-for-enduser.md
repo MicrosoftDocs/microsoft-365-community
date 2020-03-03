@@ -1,8 +1,10 @@
 ---
-title: 
-ms.date:
+title: Known Folder Move (KFM) Benefits for End Users
+ms.date: 3/3/2020
+ms-reviewer:  Joanne Hendrickson
 localization_priority: 
-description:
+description: "Known Folder Move (KFM) Benefits for End Users"
+ms.collection:  SPCommunity
 ---
 # Known Folder Move (KFM) Benefits for End Users
 

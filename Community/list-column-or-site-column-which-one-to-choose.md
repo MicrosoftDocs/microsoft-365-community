@@ -1,8 +1,10 @@
 ---
-title: 
-ms.date:
+title: List columns or Site columns: Which one to choose?
+ms.date: 3/3/2020
+ms.reviewer:  Joanne Hendrickson
 localization_priority: 
-description:
+description: "List columns or Site columns: Which one to choose?"
+ms.collection:  SPCommunity
 ---
 # List columns or Site columns: Which one to choose?
 

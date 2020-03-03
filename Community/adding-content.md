@@ -1,8 +1,10 @@
 ---
-title: 
-ms.date:
+title: Adding content
+ms.date: 3/3/2020
+ms.reviewer:  Joanne Hendrickson
 localization_priority: 
-description:
+description:  Add content
+ms.collection:  SPCommunity
 ---
 # Adding Content
 

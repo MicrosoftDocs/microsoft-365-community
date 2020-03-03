@@ -1,8 +1,10 @@
 ---
 title: 
 ms.date:
+ms.reviewer:  
 localization_priority: 
 description:
+ms.collection: SPCommunity
 ---
 # Getting Started
 

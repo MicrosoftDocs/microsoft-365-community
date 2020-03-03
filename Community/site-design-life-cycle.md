@@ -1,8 +1,10 @@
 ---
-title: 
-ms.date:
+title: Using Site Designs to Manage Project Life Cycles
+ms.date: 3/3/2020
+ms.reviewer:  Joanne Hendrickson
 localization_priority: 
-description:
+description: "Using Site Designs to Manage Project Life Cycles"
+ms.collection:  SPCommunity
 ---
 # Using Site Designs to Manage Project Life Cycles
 

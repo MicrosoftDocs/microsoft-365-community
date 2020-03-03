@@ -1,8 +1,10 @@
 ---
-title: 
-ms.date:
+title: Library scenarios
+ms.date: 3/3/2020
+ms.reviewer:  Joanne Hendrickson
 localization_priority: 
-description:
+description: "Library scenarios"
+ms.collection:  SPCommunity
 ---
 # Library scenarios
 

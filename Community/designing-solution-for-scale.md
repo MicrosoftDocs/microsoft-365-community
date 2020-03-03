@@ -1,8 +1,10 @@
 ---
-title: 
-ms.date:
+title: Designing your solution for scale
+ms.date: 3/3/2020
+ms.reviewer:  Joanne Hendrickson
 localization_priority: 
-description:
+description: "Designing your solution for scale"
+ms.collection: SPCommunity
 ---
 # Designing your solution for scale
 

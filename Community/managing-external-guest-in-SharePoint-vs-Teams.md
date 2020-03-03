@@ -1,8 +1,9 @@
 ---
-title: 
-ms.date:
-localization_priority: 
-description:
+title: Managing External Guests in SharePoint vs Teams
+ms.date: 3/3/2020
+ms.reviewer: localization_priority: 
+description: "Managing External Guests in SharePoint vs Teams"
+ms.collection:  SPCommunity
 ---
 # Managing External Guests in SharePoint vs Teams
 

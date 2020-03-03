@@ -1,8 +1,10 @@
 ---
-title: 
-ms.date:
+title: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
+ms.date: 3/3/2020
+ms.reviewer:  Joanne Hendrickson
 localization_priority: 
-description:
+description: "A Guided Tour Designed to Help You Select an Effective Navigation Strategy"
+ms.collection:  SPCommunity
 ---
 # A Guided Tour Designed to Help You Select an Effective Navigation Strategy
 

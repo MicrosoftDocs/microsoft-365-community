@@ -1,8 +1,10 @@
 ---
-title: 
-ms.date:
+title: Site Builder/Owner: New Site Checklist
+ms.date: 3/3/2020
+ms.reviewer: Joanne Hendrickson
 localization_priority: 
-description:
+description: "Site Builder/Owner: New Site Checklist"
+ms.collection:  SPCommunity
 ---
 # Site Builder/Owner: New Site Checklist
 
