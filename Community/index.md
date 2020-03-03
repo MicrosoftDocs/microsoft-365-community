@@ -1,3 +1,11 @@
+---
+title: Welcome to SharePoint usage docs
+author: sympmarc
+description: Intro to community SharePoint usage docs
+ms.date: 3/3/2020
+ms.reviewer: Joanne Hendrickson
+ms.collection:  SPcommunity
+---
 # Welcome to the SharePoint Usage Docs
 
 * If you just landed here, and you have no idea what GitHub is, please go to [Getting Started](docs/getting-started.md).
