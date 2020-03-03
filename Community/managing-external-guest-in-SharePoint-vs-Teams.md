@@ -12,15 +12,15 @@ In the Office 365 Central Administration center:
 
 1. Verify that Sharing is enabled for the tenant in the tenant Admin Center
 
-    ![guest](../../images/managing-external-guest-in-SharePoint-vs-Teams/guest01.png)
+    ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest01.png)
 
 2. Verify the Office 365 Group allows users to invite guest
 
-    ![guest](../../images/managing-external-guest-in-SharePoint-vs-Teams/guest02.png)
+    ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest02.png)
 
 3. Verify in SharePoint Admin Center guest sharing is on and set the way your governance dictates
 
-    ![guest](../../images/managing-external-guest-in-SharePoint-vs-Teams/guest03.png)
+    ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest03.png)
 
 ## What is the differences in Permissions and Sharing
 
@@ -44,8 +44,8 @@ Differences when in use
 * In SharePoint, a guest can be promoted to Owner of the site
 * In SharePoint (Groups) you can't add an external guest as a member of the O365 Group, this has to be done through the Outlook Web App (OWA), but you can share the SharePoint site only
 
-    ![guest](../../images/managing-external-guest-in-SharePoint-vs-Teams/guest05.png)
-    ![guest](../../images/managing-external-guest-in-SharePoint-vs-Teams/guest07.png)
+    ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest05.png)
+    ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest07.png)
 
 What about "Permission Inheritance"
 
@@ -71,7 +71,7 @@ Imagine you have a "Private Project Team", that is restricted to members:
 * You need owners and members, this can easily be managed by Teams
 * If you have Guests that are members of the project, you can easily invite them to your Team
 
-    ![guest](../../images/managing-external-guest-in-SharePoint-vs-Teams/guest04.png)
+    ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest04.png)
 
 ### Use case #2
 
@@ -80,7 +80,7 @@ Imagine you have a "Private Project Team", that is restricted to members but hav
 * You use Teams to add/remove members as needed to your project, including guest users
 * You then use SharePoint to share any content to any other users who is not a member, both internal and guest
 
-    ![guest](../../images/managing-external-guest-in-SharePoint-vs-Teams/guest08.png)
+    ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest08.png)
 
 ### Use case #3
 
@@ -90,14 +90,14 @@ Imagine you have a "Private Project Team", that is restricted to members, and yo
 * You then invite the "others" external guest to the SharePoint site only as members
 * You can, of course, share the SharePoint site with visitors to allow read-only access to all content
 
-    ![guest](../../images/managing-external-guest-in-SharePoint-vs-Teams/guest07.png)
+    ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest07.png)
 
 ## How to check if you have a lot of external users
 
 * In Teams, just look at the members list, everyone with (Guest) is external
 * In SharePoint, use the new "External user report" in Site Analytics to verify
 
-![guest](../../images/managing-external-guest-in-SharePoint-vs-Teams/guest09.png)
+![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest09.png)
 
 ## Useful resources
 

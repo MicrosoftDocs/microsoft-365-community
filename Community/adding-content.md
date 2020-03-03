@@ -70,7 +70,7 @@ We store images in the images directory (folder). Each article should have its o
 
 The first step is to create the directory. GitHub won't store empty directories, so you need to add a new file into the directory you want to create. Navigate into the images directory, and then click the `Create new file button`. Type the name of the directory, followed by a forward slash: `/`.
 
-![Create a folder](../images/repo-docs/create-new-folder.png)
+![Create a folder](media/repo-docs/create-new-folder.png)
 
 This will show your name as a directory. Add a file by finishing with `index.md`. You don't need to use this file, but it'll allow you to create the directory. At the bottom of the screen, click the green `Commit new file` button.
 

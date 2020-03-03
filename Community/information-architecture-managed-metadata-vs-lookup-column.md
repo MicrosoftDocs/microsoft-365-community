@@ -17,15 +17,15 @@ Example: I have a document library where our company stores our vendor agreement
 * In the same site create a custom list named Vendors
 * You can extend the list to contain more data, but in this case I will create two extra date & time columns to to see if the vendor is still active or not. You can of course use column formatting to make it look better.
 
-![vendorlist](../../images/information-architecture-managed-metadata-vs-lookup-column/vendor01.png)
+![vendorlist](media/information-architecture-managed-metadata-vs-lookup-column/vendor01.png)
 
 * Navigate back to the Vendor Agreements document library
 * In the Vendor Agreements library, create a new column and choose lookup for the data type. Choose the Vendor list and the Title column, and include any extra data you might need from the vendor list. Note: not all data types are supported.
 * After the lookup column is added you can use it to tag any document you have in the library
 
-![lookupcolumn](../../images/information-architecture-managed-metadata-vs-lookup-column/lookup01.png)
+![lookupcolumn](media/information-architecture-managed-metadata-vs-lookup-column/lookup01.png)
 
-![lookupcolumn](../../images/information-architecture-managed-metadata-vs-lookup-column/lookup02.png)
+![lookupcolumn](media/information-architecture-managed-metadata-vs-lookup-column/lookup02.png)
 
 ## Pros of Lookup columns
 
@@ -48,13 +48,13 @@ Managed Metadata columns depend on the SharePoint Taxonomy service for syndicati
 * I'm adding this term set as a column to the Vendor Agreement library above
 * I'm using this column to track the approval of the documents we have in the library
 
-![mmd](../../images/information-architecture-managed-metadata-vs-lookup-column/mmd01.png)
+![mmd](media/information-architecture-managed-metadata-vs-lookup-column/mmd01.png)
 
-![mmd](../../images/information-architecture-managed-metadata-vs-lookup-column/mmd02.png)
+![mmd](media/information-architecture-managed-metadata-vs-lookup-column/mmd02.png)
 
-![mmd](../../images/information-architecture-managed-metadata-vs-lookup-column/mmd03.png)
+![mmd](media/information-architecture-managed-metadata-vs-lookup-column/mmd03.png)
 
-![mmd](../../images/information-architecture-managed-metadata-vs-lookup-column/mmd04.png)
+![mmd](media/information-architecture-managed-metadata-vs-lookup-column/mmd04.png)
 
 ## Pros of Managed Metadata columns
 
