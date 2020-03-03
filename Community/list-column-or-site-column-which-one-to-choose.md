@@ -1,7 +1,7 @@
 ---
 title: List columns or Site columns: Which one to choose?
 ms.date: 3/3/2020
-author:
+author: veronicageek
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "List columns or Site columns: Which one to choose?"
@@ -62,10 +62,5 @@ However, if you opt to create a _list column_ you can accomplish the same later.
 
 ---
 
-**Principal author**: Veronique Lengelle, MVP
+**Principal author**: [Veronique Lengelle, MVP](https://www.linkedin.com/in/veronique-lengelle-48a71b31)
 
-**LinkedIn**: https://www.linkedin.com/in/veronique-lengelle-48a71b31/
-
-**Blog**: https://veronicageek.com
-
-**Original post**: https://veronicageek.com/sharepoint/sharepoint-2013/list-columns-or-site-columns-in-sharepoint/2018/04/

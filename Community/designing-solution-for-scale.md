@@ -134,8 +134,4 @@ Many related articles are in the works to go into each section in more detail. W
 
 ---
 
-**Principal author**: Paul Bullock
-
-**LinkedIn**: [**http://www.linkedin.com/in/pkbullock**](http://www.linkedin.com/in/pkbullock)
-
-**Website**: [**capacreative.co.uk**](https://capacreative.co.uk/)
+**Principal author**: [Paul Bullock](http://www.linkedin.com/in/pkbullock)

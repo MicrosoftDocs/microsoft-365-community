@@ -1,7 +1,7 @@
 ---
 title: Known Folder Move (KFM) Benefits for End Users
 ms.date: 3/3/2020
-author:
+author: sympmarc
 ms-reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "Known Folder Move (KFM) Benefits for End Users"
@@ -43,10 +43,5 @@ Here is a few things I've experienced with this feature that might help in case 
 
 ---
 
-**Principal author**: Jimmy Hang, MCT, MCSE: Productivity
+**Principal author**: [Jimmy Hang, MCT, MCSE: Productivity](https://www.linkedin.com/in/jimmyhang/)
 
-**LinkedIn**: https://www.linkedin.com/in/jimmyhang/
-
-**Blog**: https://hangconsult.com
-
-**Source**: https://docs.microsoft.com/onedrive/redirect-known-folders

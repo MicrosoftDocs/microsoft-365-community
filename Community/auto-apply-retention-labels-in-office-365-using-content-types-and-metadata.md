@@ -1,6 +1,6 @@
 ---
 title: Auto Apply Retention Labels in Office 365 Using Content Types and Metadata
-ms.author:
+author: joannecklein
 ms.date: 3/3/2020
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
@@ -68,10 +68,5 @@ Through my testing, I learned a few things that are important to understand and 
 
 ---
 
-**Principal author**: Joanne Klein, MVP
+**Principal author**: [Joanne Klein, MVP](https://www.linkedin.com/in/joannecklein)
 
-**LinkedIn**: https://www.linkedin.com/in/joannecklein/
-
-**Blog**: https://joannecklein.com
-
-**Original post**: https://joannecklein.com/2019/07/26/auto-apply-retention-labels-in-office-365-using-content-types-and-metadata/

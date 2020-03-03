@@ -1,7 +1,7 @@
 ---
 title: Library scenarios
 ms.date: 3/3/2020
-author:
+author: nyoung30
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "Library scenarios"
@@ -75,8 +75,5 @@ Example image shown below:<br>
 
 ---
 
-Principal author: Norm Young
+Principal author: [Norm Young]https://www.linkedin.com/in/norm-young/)
 
-LinkedIn: https://www.linkedin.com/in/norm-young/
-
-Blog: [normyoung.ca](https://normyoung.ca)

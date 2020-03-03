@@ -1,7 +1,7 @@
 ---
 title: Getting started
 ms.date: 3/3/2020
-author:
+author: sympmarc
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description:   "Getting started"

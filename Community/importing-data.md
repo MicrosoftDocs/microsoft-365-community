@@ -1,7 +1,7 @@
 ---
 title:  Importing data into SharePoint
 ms.date: 3/3/2020
-author:
+author: nyoung30
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: Importing data into SharePoint

@@ -1,7 +1,7 @@
 ---
 title: Site Builder/Owner: New Site Checklist
 ms.date: 3/3/2020
-author:
+author: nyoung30
 ms.reviewer: Joanne Hendrickson
 localization_priority: 
 description: "Site Builder/Owner: New Site Checklist"
@@ -125,8 +125,5 @@ The purpose of this guide is to help document the initial setup of a site and pr
 
 ---
 
-Principal author: Norm Young
+Principal author: [Norm Young](https://www.linkedin.com/in/norm-young)
 
-LinkedIn: https://www.linkedin.com/in/norm-young/
-
-Blog: [normyoung.ca](https://normyoung.ca)

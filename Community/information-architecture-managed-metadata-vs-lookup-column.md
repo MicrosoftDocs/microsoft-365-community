@@ -1,7 +1,7 @@
 ---
 title: Information Architecture - Managed Metadata versus Lookup columns
 ms.date: 3/3/2020
-author:
+author: sympmarc
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "Information Architecture - Managed Metadata versus Lookup columns"
@@ -86,8 +86,4 @@ Managed Metadata columns depend on the SharePoint Taxonomy service for syndicati
 
 ---
 
-**Principal author**: Jimmy Hang, MCT, MCSE: Productivity
-
-**LinkedIn**: https://www.linkedin.com/in/jimmyhang/
-
-**Blog**: https://hangconsult.com
+**Principal author**: [Jimmy Hang, MCT, MCSE: Productivity](https://www.linkedin.com/in/jimmyhang/)

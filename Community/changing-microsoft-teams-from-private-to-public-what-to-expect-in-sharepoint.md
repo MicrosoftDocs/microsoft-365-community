@@ -1,7 +1,7 @@
 ---
 title: Changing Microsoft Teams from Private to Public, what to expect in SharePoint?
 ms.date: 3/3/2020
-author:
+author: veronicageek
 ms.reviewer: Joanne Hendrickson
 localization_priority: 
 description: "Changing Microsoft Teams from Private to Public, what to expect in SharePoint?"
@@ -64,10 +64,5 @@ Changing the privacy settings should be thoughtfully decided, because Public mea
 
 ---
 
-**Principal author**: Veronique Lengelle, MVP
+**Principal author**: [Veronique Lengelle, MVP](https://www.linkedin.com/in/veronique-lengelle-48a71b31)
 
-**LinkedIn**: https://www.linkedin.com/in/veronique-lengelle-48a71b31/
-
-**Blog**: https://veronicageek.com
-
-**Original post**: https://veronicageek.com/office-365/teams/changing-microsoft-teams-from-private-to-public-what-to-expect/2019/02/
