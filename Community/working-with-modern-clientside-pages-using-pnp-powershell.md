@@ -9,19 +9,19 @@ ms.collection:  SPCommunity
 ---
 # Working with modern client-side pages using PnP PowerShell
 
-If you need to work with SharePoint Online, either it's doing some minor modification or build a custom SharePoint provisioning solution, PnP PowerShell is one of the greatest tool there is, it will help you achieve your goals. 
+If you need to work with SharePoint Online, either it's doing some minor modification or build a custom SharePoint provisioning solution, PnP PowerShell is one of the greatest tool there is, it will certainly help you achieve your goals. 
 
-Now PnP is a lot more than just PowerShell, but since I'm an IT-Pro at heart PowerShell is the number one tool I have in my toolkit.
+Now PnP is a lot more than just PowerShell, but since I'm an IT-Pro at heart, PowerShell is the number one tool I have in my toolkit.
 
-First thing first, If you are unfamiliar or new to PnP head over to PnP PowerShell overview to get introductions and guidance on how to setup this. 
+First thing first, if you are unfamiliar or new to PnP, head over to PnP PowerShell overview to get introductions and guidance on how to setup this. 
 
 * [PnP PowerShell overview](https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) 
 
-Client-side pages is a big topic, in this article I will cover some real world use cases and how I've solved them with PnP PowerShell
+Client-side pages is a big topic, in this article I will cover some real world use cases where I've been using PnP PowerShell.
 
 ## Some basics:
 
->* Client-side page, is a term we use to tell others that the page we are working with is a SharePoint modern .aspx page.
+>* Client-side page, is a term we use to tell others that the page we are working with is a SharePoint modern ".aspx" page.
 >* Currently Site Designs and Site Scripts don't have support for Client-side pages
 >* You should be owner of the site you are working with, it will make a lot of things easier
 
@@ -69,7 +69,7 @@ We'll start by creating a $page output containing the details about the page.
 
 ![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp02.png) 
 
-Based on the output above, running the below code will give us the properties of the "Document library" webpart on the page, and it' linked by default to the default document library.  
+Based on the output above, running the below code will give us the properties of the "Document library" webpart on the page, and you can see that it's linked by default to the default document library.  
 
     $page = Get-PnPClientSidePage -Identity Home.aspx    
     $webpart = $page.Controls | ? {$_.InstanceId -eq "416a4c58-61fc-4166-aa19-1099fad50545"}  
@@ -78,7 +78,7 @@ Based on the output above, running the below code will give us the properties of
 ![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp03.png) 
 
 
-If we in the Document library create a new view and set this as standard for the webpart, then run the above code one more time. Note teh "viewid" value in the URL. 
+If we in the Document library create a new view and set this as standard for the webpart, then run the above code one more time. Note the "viewid" value in the URL. 
 
 ![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp04.png) 
 
