@@ -1,20 +1,10 @@
+# Welcome to the Microsoft 365 Community Docs
 
-# Welcome to the SharePoint Usage Docs!
+* If you just landed here, and you have no idea what GitHub is, please go to [Getting Started](./Community/getting-started.md).
+* If you have been here before and would like instructions on how to add content, please go to [Adding Content](./Community/adding-content.md).
+* Curious what types of articles we have here? Check out the [temporary table of contents](./Community/index.md).
 
-* If you just landed here, and you have no idea what Github is, please go to [Getting Started](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/getting-started.md).
-* If you have been here before and would like instructions on how to add content, please go to [Adding Content](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/adding-content.md).
-* Curious what types of articles we have here? Check out these examples:
-
-  * Basics
-    * [What is a Content Type?](docs/basics/what-is-content-type.md)
-    * [What is a Site Column?](docs/basics/what-is-site-column.md)
-  * Making Decisions
-    * [Teams Site vs. Communication Site: Which one should I choose?](docs/making-decisions/team-site-or-communication-site.md)
-    * [A Guided Tour Designed to Help You Select an Effective Navigation Strategy](docs/making-decisions/select-an-effective-navigation-strategy.md)
-    * [Auto Apply Retention Labels in Office 365 Using Content Types and Metadata](docs/making-decisions/auto-apply-retention-labels-in-office-365-using-content-types-and-metadata.md)
-
-
----
+![M365 Community Docs](./Community/media/microsoft-365-community/M365Community1.png "M365 Community Docs")
 
 This repository is here for YOU. The goal is to build an open source set of content to help people like Information Architects, Business Analysts, "Makers" (aka Citizen Developers), and Site Owners who want to use the platform better.
 
