@@ -6,11 +6,11 @@ ms.date: 3/3/2020
 ms.reviewer: Joanne Hendrickson
 ms.collection:  SPcommunity
 ---
-# Welcome to the SharePoint Usage Docs
+# Welcome to the SharePoint usage docs
 
-* If you just landed here, and you have no idea what GitHub is, please go to [Getting Started](docs/getting-started.md).
-* If you have been here before and would like instructions on how to add content, please go to [Adding Content](docs/adding-content.md).
-* Curious what types of articles we have here? Check out the [temporary table of contents](docs/index.md).
+* If you just landed here, and you have no idea what GitHub is, please go to [Getting Started](community/getting-started.md).
+* If you have been here before and would like instructions on how to add content, please go to [Adding Content](community/adding-content.md).
+
 
 ![sp-usage-docs](https://repository-images.githubusercontent.com/184586431/54197200-e46e-11e9-978c-0e087a738ec4)
 
