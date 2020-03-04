@@ -2,7 +2,8 @@
 title: Managing External Guests in SharePoint vs Teams
 ms.date: 3/3/2020
 author: sympmarc
-ms.reviewer: localization_priority: 
+ms.reviewer: Joanne Hendrickson
+localization_priority: 
 description: "Managing External Guests in SharePoint vs Teams"
 ms.collection:  SPCommunity
 ---
@@ -109,8 +110,8 @@ Imagine you have a "Private Project Team", that is restricted to members, and yo
 
 ## Useful resources
 
-* [Manage guest access in Office 365 Groups](https://docs.microsoft.com/en-us/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
-* [Adding guests to Office 365 Groups](https://support.office.com/en-us/article/adding-guests-to-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6?WT.mc_id=365AdminCSH&ui=en-US&rs=en-US&ad=US)
+* [Manage guest access in Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+* [Adding guests to Office 365 Groups](https://support.office.com/article/adding-guests-to-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
 ------
 

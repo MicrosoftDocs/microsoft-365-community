@@ -21,9 +21,9 @@ If it is associated with a Group, the permission model you're used to is going t
 ## The Story So Far
 As a SharePoint Site Owner, you should already be familiar with these permissions concepts:
 
-* [SharePoint Permission Levels](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels)
-* [Creating and Editing Levels](https://docs.microsoft.com/en-us/sharepoint/how-to-create-and-edit-permission-levels)
-* [Customizing SharePoint Permissions](https://docs.microsoft.com/en-us/sharepoint/customize-sharepoint-site-permissions)
+* [SharePoint Permission Levels](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
+* [Creating and Editing Levels](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
+* [Customizing SharePoint Permissions](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
 
 This has been the model for On Premise SharePoint Site Collections for some time.
