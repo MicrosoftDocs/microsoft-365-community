@@ -40,7 +40,7 @@ A scenario where this may apply e.g. if you have 1 Intranet each with 1000+ page
 
 Partial centralisation is an option too, not all solutions can be centralised so look at the components of your design and see what can be centralised.
 
-A scenario where this may apply e.g. if you have 10 departments each with 100 sites within. You deploy 10 times rather than all 1000. Ideally, getting this number down will make your life easier - the less “copies” of your solution the better.
+A scenario where this may apply e.g. if you have 10 departments each with 100 sites within. You deploy 10 times rather than all 1000. Ideally, getting this number down will make your life easier - the less "copies" of your solution the better.
 
 ### Decentralisation
 
@@ -64,13 +64,13 @@ There is a separate article coming soon for naming conventions.
 
 What level do you define columns and content types e.g. list, web, site, enterprise. The goal should be to keep things simple and use inheritance where possible. Although, modern SharePoint makes it very easy to break from this model.
 
-There is a great article about the types of column: [List column or Site Column - Which one to choose](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/making-decisions/list-column-or-site-column-which-one-to-choose.md)
+There is a great article about the types of column: [List column or Site Column - Which one to choose](/Community/list-column-or-site-column-which-one-to-choose.md)
 
 ### Sites
 
 How you structure your sites, does your solution require lots of subsites? Typically, Microsoft is driving a flat architectural model and you should consider using multiple site collections grouped locally by hub sites.
 
-There is more detail on site typology in this article: [Information architecture - site topology](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/basics/information-architecture-site-topology.md)
+There is more detail on site typology in this article: [Information architecture - site topology](/Community/information-architecture-site-topology.md)
 
 ## Security
 
@@ -98,7 +98,7 @@ The number of environments is up to you, there are additional overheads with hav
 
 Maintainability refers to the ease of making changes to your app, updates or cleanup aspects of your solution - how easy this is to achieve.
 
-Consider your solution - you have deployed to 1000 sites and you boss goes, “Great app, but can you add a column to each list, I really need this.” You now need to figure out updates to each of the 1000 sites. 
+Consider your solution - you have deployed to 1000 sites and you boss goes, "Great app, but can you add a column to each list, I really need this." You now need to figure out updates to each of the 1000 sites. 
 
 ## Manual vs Deployment
 
@@ -122,7 +122,7 @@ If you prefer manual, there are some ways to reduce time to manually deploy your
 
 For scripting, I highly recommend looking into PnP PowerShell library, there a lot of cmdlets design to work online and on-premises, there is plenty of blogs, examples or community members that can help you to get you started.
 
-Please refer to this article for more detail [https://github.com/SharePoint/sp-usage-docs/blob/master/docs/basics/benefits-of-using-powershell-with-sharepoint.md](https://github.com/SharePoint/sp-usage-docs/blob/master/docs/basics/benefits-of-using-powershell-with-sharepoint.md)
+Please refer to this article for more detail [/Community/benefits-of-using-powershell-with-sharepoint.md](/Community/benefits-of-using-powershell-with-sharepoint.md)
 
 ### Site Designs
 

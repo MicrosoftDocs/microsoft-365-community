@@ -1,8 +1,8 @@
 # Welcome to the Microsoft 365 Community Docs
 
-* If you just landed here, and you have no idea what GitHub is, please go to [Getting Started](docs/getting-started.md).
-* If you have been here before and would like instructions on how to add content, please go to [Adding Content](docs/adding-content.md).
-* Curious what types of articles we have here? Check out the [temporary table of contents](docs/index.md).
+* If you just landed here, and you have no idea what GitHub is, please go to [Getting Started](./Community/getting-started.md).
+* If you have been here before and would like instructions on how to add content, please go to [Adding Content](./Community/adding-content.md).
+* Curious what types of articles we have here? Check out the [temporary table of contents](./Community/index.md).
 
 ![M365 Community Docs](./Community/media/microsoft-365-community/M365Community1.png "M365 Community Docs")
 
