@@ -11,6 +11,7 @@
 ## [Information Architecture - Managed Metadata vs Lookup columns](information-architecture-managed-metadata-vs-lookup-column.md)
 ## [Information Architecture - Site Topology](information-architecture-site-topology.md)
 ## [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
+## [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
 
 # Making Decisions
 
