@@ -19,7 +19,7 @@ SharePoint comes with some out of the box Content Types which represent generic 
 
 You work with Content Types at home every day. You probably have grocery lists, bills, and maybe a mortgage around your house right now. Each of these objects are second nature to you; you don't think about what they are or what to call them.
 
-For sake of discussion, let’s say you do have a mortgage and you've put it into a manila folder in your drawer.
+For sake of discussion, let's say you do have a mortgage and you've put it into a manila folder in your drawer.
 
 ![Document in a manila folder](media/what-is-content-type/folder.png)
 
@@ -48,4 +48,3 @@ With Content Types, we can define the business objects which matter to us in our
 ---
 
 Principal author: [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson/)
-

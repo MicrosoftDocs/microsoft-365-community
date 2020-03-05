@@ -177,6 +177,10 @@ A Managed Property is one of the basic units of the SharePoint Search Schema. It
 
 Managed Properties can be created (if you have the appropriate permissions), although SharePoint automatically creates Managed Properties that are useful for a wide range of scenarios.
 
+### Multi-Factor Authentication (MFA)
+
+Multi-factor authentication refer to an additional security layer beyond just username and password. One way it is described is the user name and password shows who you are based on something you **know**, and MFA shows who you are by something you **have**. The most common example of MFA is the code you get in a text on your phone when you are logging into sites like your bank or Github.
+
 ### Modern SharePoint
 
 Modern SharePoint refers to the user interface (UI) that has been available in SharePoint Online to larger and larger degrees starting in about 2016. Some aspects of the modern UI are also available in SharePoint 2019 (on premises). Modern SharePoint does not use many of the underpinnings of classic SharePoint, such as master pages and page layouts. It is built using more current Web development tools and practices than classic SharePoint.
