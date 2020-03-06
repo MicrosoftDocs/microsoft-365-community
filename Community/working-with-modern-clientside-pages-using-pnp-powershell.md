@@ -19,6 +19,7 @@ Client-side pages is a big topic. In this article I will cover some real world u
 
 ## Some basics
 
+> [!TIP]
 >* Client-side page is a term we use to tell others that the page we are working with is a SharePoint modern ".aspx" page.
 >* Currently Site Designs and Site Scripts don't have support for Client-side pages
 >* You should be owner of the site you are working with as it will make a lot of things easier
@@ -29,7 +30,8 @@ This is the first command we need to know in PnP
 
     Connect-PnPOnline -Url $siteUrl -UseWebLogin
 
-> Note! The switch "UseWebLogin" will make sure you can authenticate if your account is configured with [MFA](glossary.md#multi-factor-authentication-mfa)
+> [!NOTE]
+> The switch "UseWebLogin" will make sure you can authenticate if your account is configured with [MFA](glossary.md#multi-factor-authentication-mfa)
 
 After connecting you can can start working with the pages you have in the site.
 
@@ -64,11 +66,11 @@ We'll start by creating a $page output containing the details about the page.
 
     $page = Get-PnPClientSidePage -Identity home.aspx
 
-![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp01.png) 
+![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp01.png)
 
     $page.controls | will give us a full view of all webpart on the page, and their properties
 
-![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp02.png) 
+![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp02.png)
 
 Based on the output above, running the below code will give us the properties of the "Document library" webpart on the page, and you can see that it's linked by default to the default document library.  
 
@@ -76,15 +78,15 @@ Based on the output above, running the below code will give us the properties of
     $webpart = $page.Controls | ? {$_.InstanceId -eq "416a4c58-61fc-4166-aa19-1099fad50545"}  
     $webpart.PropertiesJson  
 
-![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp03.png) 
+![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp03.png)
 
 If we in the Document library create a new view and set this as standard for the webpart, then run the above code one more time. Note the "viewid" value in the URL.
 
-![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp04.png) 
+![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp04.png)
 
-The new output will have a lot more details about the new webpart configurations: 
+The new output will have a lot more details about the new webpart configurations:
 
-![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp05.png) 
+![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp05.png)
 
 > "selectedListUrl":"/sites/DEMO505_72/Shared Documents"  
 > "selectedListId":"6a041fef-b2a2-45b4-b827-c1b268bc63d3"  
@@ -120,7 +122,7 @@ New webpart view:
 
 ![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp07.png)
 
-Above is the techniques I use when I want to work with specific pages. When I want to provision SharePoint sites with a certain configuration and pages, normally I combine the above with PnP Provisioning template commands.
+Above is the technique I use when I want to work with specific pages. When I want to provision SharePoint sites with a certain configuration and pages, normally I combine the above with PnP Provisioning template commands.
 
 Firstly I will create an export of all pages from my template site.
 
@@ -128,18 +130,18 @@ Firstly I will create an export of all pages from my template site.
     Get-PnPProvisioningTemplate -Out "C:\Development\template.xml" -Force -IncludeAllClientSidePages #includeallclientsidepages will copy all other pages in the site
 ```
 
-I will then clean the template.xml, by removing all other component that I don't need, and in the "ClientSidePages" node you will find the webparts instanceID that you can reuse later.  
+I will then clean the template.xml, by removing all other component that I don't need, and in the "ClientSidePages" node you will find the web parts' instanceIDs that you can reuse later.  
 
 ![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp08.png)
 
-To apply the template to a new site, in your script connect to the new site then run Apply-PnPProvisioningTemplate the template
+To apply the template to a new site, in your script connect to the new site then run Apply-PnPProvisioningTemplate with the template:
 
 ```powershell
     Connect-PnPOnline -Url https://jh365dev.sharepoint.com/sites/$newsite -UseWebLogin
     Apply-PnPProvisioningTemplate -Path "C:\Development\template.xml"
 ```
 
-Afterward dependent on your need, add extra code to update the web parts.
+Afterward, depending on your needs, add extra code to update the web parts.
 
 Finally, I would like to thank everyone that has contributed and still contribute to PnP, it's super #awesome and it's making my day easier everyday.
 
@@ -151,4 +153,3 @@ Finally, I would like to thank everyone that has contributed and still contribut
 ------
 
 **Principal author**: [Jimmy Hang, MCT, MCSE: Productivity](https://www.linkedin.com/in/jimmyhang)
-

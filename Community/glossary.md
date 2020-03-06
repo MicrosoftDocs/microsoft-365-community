@@ -113,6 +113,12 @@ A Group in SharePoint can generally refer to one of three things. It may mean:
 
 ## H
 
+### Highlighted Content Web Part
+
+The Highlighted Content Web Part allows you to [roll up](#roll-up) content from allows you to specify content sources, sorting and filtering, and layout options.
+
+As with all web parts in SharePoint, this we part will only display content which the current user has permission to see.
+
 ### Home Site
 
 A Home Site is a special type of [Hub Site](#hub-site) with a few extra superpowers:
@@ -231,6 +237,13 @@ The version that ships on Windows devices is called Windows PowerShell, and the 
 
 ### Roll up
 
+Rolling up content refer to the practice of consolidating a specific set of content from multiple locations. Common examples are:
+
+* News from all sites associated with a [Hub Site](#hub-site)
+* Events from all sites associated with a [Hub Site](#hub-site)
+
+More complex roll ups are also possible using the [Highlighted Content Web Part](#Highlighted-Content-Web-Part) or custom code.
+
 ### Root Site
 
 The base address in a web application or tenant for the first SharePoint Site collection. Typically, defined without use of managed paths ("/sites/" or "/teams/"), for example https://mytenant.sharepoint.com or http://sharepoint
@@ -242,6 +255,10 @@ The base address in a web application or tenant for the first SharePoint Site co
 The Search Schema refers to the customizable data dictionary used by SharePoint Search to allow users to query for and return specific information from SharePoint using the available Search tools, such as the Search Results web part in Classic SharePoint or the Search REST API.
 
 ### Site
+
+In modern SharePoint, a site refers to a modern site. (In classic SharePoint, te term was often used for both sites and sub-sites.)
+
+To developers, a "Site" is a [Site Collection](#site-collection), whereas a "web" is a site. Confusing!
 
 ### SharePoint Home Page
 
@@ -265,12 +282,12 @@ See [SharePoint Home Page](#sharepoint-home-page)
 
 ### Site Collection
 
-A Site collection is a group of websites that have the same owner and share administrative settings.
+A Site Collection is a group of websites that have the same owner and share administrative settings.
 
-- In *SharePoint Online*, site collections are the top level available to admins, and visible in the SharePoint Admin Center under "Active Sites".
-- In *SharePoint on-premises*, site collections are created within a Web Application, which is a level higher.
+* In *SharePoint Online*, site collections are the top level available to admins, and visible in the SharePoint Admin Center under "Active Sites".
+* In *SharePoint on-premises*, site collections are created within a Web Application, which is a level higher.
 
-When you create a site collection, a top-level site is automatically created in the site collection (called root site). You can then create one or more subsites below the top-level site. The entire structure of the top-level site and all its subsites is called a site collection.
+When you create a site collection, a top-level site is automatically created in the site collection (called root site). You can then create one or more sub-sites below the top-level site. The entire structure of the top-level site and all its sub-sites is called a site collection.
 
 ### Standard Release
 
@@ -282,10 +299,10 @@ The Style Library is a document library in the Root Web of a SharePoint site tha
 
 The SharePoint Framework (also known as SPFx) is a way for developers to extend SharePoint online, Microsoft Teams and in a slightly more limited way SharePoint 2019 and SharePoint 2016. This framework provides a scaffold for developers to build client-side custom extensions which may include:
 
-- Web Parts - functionality that can be added to a page. Web parts can also be extended as tabs in Microsoft Teams.
-- Application Customizers - which are extensions that run on every page of a site and allow the developer to add visible or non-visible content to the page via the top or bottom placeholder
-- Field Customizers - which allow the developer to build modified renderings of fields in a list.
-- Command Sets - which extend the command surface in lists to provide custom actions.
+* Web Parts - functionality that can be added to a page. Web parts can also be extended as tabs in Microsoft Teams.
+* Application Customizers - which are extensions that run on every page of a site and allow the developer to add visible or non-visible content to the page via the top or bottom placeholder
+* Field Customizers - which allow the developer to build modified renderings of fields in a list.
+* Command Sets - which extend the command surface in lists to provide custom actions.
 
 ### Subsite
 
@@ -333,9 +350,9 @@ A View is a way to show data stored in a list or library. It consists of a set o
 
 The most common settings we use in views allow us to:
 
-- Choose which columns are displayed and in which order
-- Filter the items based on the values in any of the columns
-- Group items based on the value of most column types
+* Choose which columns are displayed and in which order
+* Filter the items based on the values in any of the columns
+* Group items based on the value of most column types
 
 ### View Formatting
 
