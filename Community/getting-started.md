@@ -21,13 +21,13 @@ A repository - or repo - is a set of content which belongs together based on its
 
 ## Content
 
-The "content" in a GitHub repo can be any file type - including code, of course – but in the microsoft-365-community repo, we're focused on text documents. These documents are similar to blog posts or other things you might write and put on the Web somewhere. In this case, we use [markdown](https://www.markdownguide.org/) for file formatting. Markdown is sort of analogous to HTML in a sense in that its a way to encode content for formatting purposes. Markdown is pretty simple, but of course there is a learning curve. Nearly everyone uses a [cheatsheet](https://GitHub.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for a while until they are more familiar with the tool set.
+The "content" in a GitHub repo can be any file type - including code, of course – but in the microsoft-365-community repo, we're focused on text documents. These documents are similar to blog posts or other things you might write and put on the Web somewhere. In this case, we use [markdown](https://www.markdownguide.org/) for file formatting. Markdown is sort of analogous to HTML in a sense in that its a way to encode content for formatting purposes. Markdown is pretty simple, but of course there is a learning curve. Nearly everyone uses a [Docs Markdown reference](https://docs.microsoft.com/en-us/contribute/markdown-reference) for a while until they are more familiar with the tool set.
 
 ## Issues
 
 In GitHub, we use Issues to have interactions about the content.  Look at the [open issues](https://github.com/MicrosoftDocs/microsoft-365-community/issues) (that's the default view) to see what we have as outstanding content needs, as well as interactions about other aspects of the repo's content. You can also add an issue if you'd like to write something or if you see a problem with the existing content.
 
-There are muilple issue templates:
+There are multiple issue templates:
 
 * **Article Issue** - See something wrong in an existing article? Suggest a fix here.
 * **Article Suggestion** - Wish there was an article covering a topic near and dear to you? Suggest it here.
