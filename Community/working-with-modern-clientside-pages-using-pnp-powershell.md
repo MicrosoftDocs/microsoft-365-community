@@ -20,6 +20,7 @@ Client-side pages is a big topic. In this article I will cover some real world u
 ## Some basics
 
 > [!TIP]
+>
 >* Client-side page is a term we use to tell others that the page we are working with is a SharePoint modern ".aspx" page.
 >* Currently Site Designs and Site Scripts don't have support for Client-side pages
 >* You should be owner of the site you are working with as it will make a lot of things easier
@@ -28,7 +29,9 @@ Client-side pages is a big topic. In this article I will cover some real world u
 
 This is the first command we need to know in PnP
 
+``` powershell
     Connect-PnPOnline -Url $siteUrl -UseWebLogin
+```
 
 > [!NOTE]
 > The switch "UseWebLogin" will make sure you can authenticate if your account is configured with [MFA](glossary.md#multi-factor-authentication-mfa)
@@ -64,19 +67,25 @@ The code below will create a new page named "Welcome" and add some web parts on 
 
 We'll start by creating a $page output containing the details about the page.  
 
+``` powershell
     $page = Get-PnPClientSidePage -Identity home.aspx
+```
 
 ![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp01.png)
 
+``` powershell
     $page.controls | will give us a full view of all webpart on the page, and their properties
+```
 
 ![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp02.png)
 
 Based on the output above, running the below code will give us the properties of the "Document library" webpart on the page, and you can see that it's linked by default to the default document library.  
 
+``` powershell
     $page = Get-PnPClientSidePage -Identity Home.aspx    
     $webpart = $page.Controls | ? {$_.InstanceId -eq "416a4c58-61fc-4166-aa19-1099fad50545"}  
     $webpart.PropertiesJson  
+```
 
 ![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp03.png)
 
@@ -92,9 +101,9 @@ The new output will have a lot more details about the new webpart configurations
 > "selectedListId":"6a041fef-b2a2-45b4-b827-c1b268bc63d3"  
 > "selectedViewId":"4f8130a7-fa49-4c65-bafe-d3b738811187"  
 
-In order to work with the webpart properties through PowerShell, I had to convert the properties from Json, make changes then convert it back to Json, then update the webpart.
+In order to work with the webpart properties through PowerShell, I had to convert the properties from JSON, make changes, convert back to JSON, then update the web part.
 
-For example we want to set the default webpart view without manually editing the page, first we need to find the view ID, you will find this in the library when you change view, or by using "Get-PnPView".  
+For example, if we want to set the default web part view without manually editing the page, first we need to find the view ID. You will find this in the library when you change the view, or by using "Get-PnPView".  
 
 I now have two views in my library:
 
