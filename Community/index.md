@@ -12,7 +12,7 @@ ms.collection:  SPcommunity
 * If you have been here before and would like instructions on how to add content, please go to [Adding Content](adding-content.md).
 * Curious what types of articles we have here? Check out the [table of contents](TOC.md).
 
-![M365 Community Docs](/Community/media/microsoft-365-community/M365Community1.png "M365 Community Docs")
+![M365 Community Docs](media/microsoft-365-community/M365Community1.png "M365 Community Docs")
 
 This repository is here for YOU. The goal is to build an open source set of content to help people like Information Architects, Business Analysts, "Makers" (aka Citizen Developers), and Site Owners who want to use the platform better.
 
