@@ -1,7 +1,7 @@
 ### YamlMime:Landing
 
 title: Microsoft 365 Community Content # < 60 chars
-summary: Learn about Microsoft 365 from the community. # < 160 chars
+summary: Learn about Microsoft 365 from the community!  All content is community generated. Learn how to contribute. # < 160 chars
 
 metadata:
   title: Microsoft 365 Community Content # Required; page title displayed in search results. Include the brand. < 60 chars.
@@ -24,7 +24,7 @@ landingContent:
   # Card (optional)
   - title: Basics
     linkLists:
-      - linkListType: concept
+      - linkListType: get-started
         links:
           - text: What is a Site Column?
             url:  what-is-site-column.md
@@ -90,3 +90,4 @@ landingContent:
             url: https://techcommunity.microsoft.com/t5/SharePoint/ct-p/SharePoint
           - text: Suggest a feature
             url: https://sharepoint.uservoice.com/
+
