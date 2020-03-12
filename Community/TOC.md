@@ -1,6 +1,5 @@
 # Basics
 
-## [Glossary](glossary.md)
 ## [What is a Site Column?](what-is-site-column.md)
 ## [What is a Content Type?](what-is-content-type.md)
 ## [Known Folder Move (KFM) Benefits for End Users](known-folder-move-benefits-for-enduser.md)
@@ -12,6 +11,7 @@
 ## [Information Architecture - Site Topology](information-architecture-site-topology.md)
 ## [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
 ## [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
+## [Glossary](glossary.md)
 
 # Making Decisions
 
