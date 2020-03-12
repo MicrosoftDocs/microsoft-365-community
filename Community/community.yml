@@ -40,12 +40,12 @@ landingContent:
             url:  importing-data.md
           - text: Versioning in SharePoint
             url: versioning-basics-best-practices.md
-          - text: Information Architecture - Managed Metadata vs Lookup columns
-            url: information-architecture-managed-metadata-vs-lookup-column.md
           - text: Information Architecture - Site Topology
             url: information-architecture-site-topology.md
           - text: Site Builder/Owner - New Site Checklist
             url: new-site-checklist.md
+          - text: Glossary
+            url: glossary.md
 
   # Card
   - title: Making decisions
@@ -58,6 +58,9 @@ landingContent:
             url: list-column-or-site-column-which-one-to-choose.md
           - text: Changing Microsoft Teams from private to public - What to expect in SharePoint
             url: changing-teams-from-private-to-public-what-to-expect-in-sharepoint
+          - text: Information Architecture - Managed Metadata vs Lookup columns
+            url: information-architecture-managed-metadata-vs-lookup-column.md
+
 
   # Card
   - title: Scenarios
@@ -68,6 +71,8 @@ landingContent:
             url: library-scenarios.md
           - text: Using site designs to manage project life cycles
             url: site-design-life-cycle.md
+          - text: Working with modern client-side pages using PnP PowerShell
+            url:  working-with-modern-clientside-pages-using-pnp-powershell.md
 
 
   # Card (optional)
