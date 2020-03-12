@@ -20,6 +20,7 @@ metadata:
 landingContent:
 # Cards and links should be based on top customer tasks or top subjects
 # Start card title with a verb
+
   # Card (optional)
   - title: Basics
     linkLists:
@@ -32,7 +33,7 @@ landingContent:
           - text: Known Folder Move (KFM) Benefits for End Users
             url:  known-folder-move-benefits-for-enduser.md
           - text: Benefits of using PowerShell with SharePoint
-            url: benefits-of-using-powershell-with-sharepoint.md
+            url:  benefits-of-using-powershell-with-sharepoint.md
           - text: Planning Permissions with Group-based SharePoint Sites when you're used to Regular SharePoint Permissions
             url:  permission-model-diferences.md
           - text: Importing Data
@@ -45,10 +46,6 @@ landingContent:
             url: information-architecture-site-topology.md
           - text: Site Builder/Owner - New Site Checklist
             url: new-site-checklist.md
-          - text: Working with modern client-side pages using PnP PowerShell
-            url: working-with-modern-clientside-pages-using-pnp-powershell.md
-          - text: Glossary
-            url: glossary.md
 
   # Card
   - title: Making decisions
@@ -71,3 +68,20 @@ landingContent:
             url: library-scenarios.md
           - text: Using site designs to manage project life cycles
             url: site-design-life-cycle.md
+
+
+  # Card (optional)
+  - title: References
+    linkLists:
+      - linkListType: reference
+        links:
+          - text: Microsoft Office official documentation
+            url: https://docs.microsoft.com/en-us/office/
+          - text: FastTrack onboarding and adoption services
+            url: https://fasttrack.microsoft.com/office
+          - text: Find a SharePoint certified partner
+            url: https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support
+          - text: Visit the SharePoint community
+            url: https://techcommunity.microsoft.com/t5/SharePoint/ct-p/SharePoint
+          - text: Suggest a feature
+            url: https://sharepoint.uservoice.com/
