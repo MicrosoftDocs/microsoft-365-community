@@ -1,0 +1,61 @@
+### YamlMime:Landing
+
+title: Microsoft 365 Community Content # < 60 chars
+summary: Learn about Microsoft 365 from the community. # < 160 chars
+
+metadata:
+  title: Microsoft 365 Community Content # Required; page title displayed in search results. Include the brand. < 60 chars.
+  description: Community contributed documentation # Required; article description that is displayed in search results. < 160 chars.
+  ms.service: sharepoint-online #Required; service per approved list. service slug assigned to your service by ACOM.
+  ms.subservice: subservice
+  ms.topic: landing-page # Required
+  ms.collection: M365-collaboration
+  author: JoanneHendrickson #Required; your GitHub user alias, with correct capitalization.
+  ms.author: jhendr #Required; microsoft alias of author; optional team alias.
+  ms.date: 03/13/2020 #Required; mm/dd/yyyy format
+  localization_priority: Priority
+
+# linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | tutorial | video | whats-new
+
+landingContent:
+# Cards and links should be based on top customer tasks or top subjects
+# Start card title with a verb
+  # Card (optional)
+  - title: Basics
+    linkLists:
+      - linkListType: concept
+        links:
+          - text: What is a site column?
+            url:  what-is-site-column.md
+          - text: New site checklist
+            url: new-site-checklist.md
+          - text: SharePoint Information architecture - site topology
+            url: information-architecture-site-topology.md
+          - text: Find a SharePoint certified partner
+            url: https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support
+          - text: Visit the SharePoint community
+            url: https://techcommunity.microsoft.com/t5/SharePoint/ct-p/SharePoint
+          - text: Suggest a feature
+            url: https://sharepoint.uservoice.com/
+
+  # Card
+  - title: Making decisions
+    linkLists:
+      - linkListType: concept
+        links:
+          - text: Team site vs Communication site - Which one should I choose?
+            url: team-site-or-communication-site.md         
+          - text: List columns or Site columns - which one to choose?
+            url: list-column-or-site-column-which-one-to-choose.md
+          - text: Changing Microsoft Teams from private to public - What to expect in SharePoint
+            url: changing-teams-from-private-to-public-what-to-expect-in-sharepoint
+
+  # Card
+  - title: Scenarios
+    linkLists:
+      - linkListType: concept
+        links:
+          - text: Library scenarios
+            url: library-scenarios.md
+          - text: Using site designs to manage project life cycles
+            url: site-design-life-cycle.md
