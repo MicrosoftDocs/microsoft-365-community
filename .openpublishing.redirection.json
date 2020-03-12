@@ -2,8 +2,8 @@
   "redirections": [ 
     
     {
-        "source_path": "index.md",
-        "redirect_url": "https://review.docs.microsoft.com/en-us/m365-community/community.yml?branch=master",
+        "source_path": "community/index.md",
+        "redirect_url": "community.yml",
         "redirect_document_id": true
     }
 ]
