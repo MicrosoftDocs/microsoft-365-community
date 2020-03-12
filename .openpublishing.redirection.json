@@ -3,7 +3,7 @@
     
     {
         "source_path": "index.md",
-        "redirect_url": "community.yml",
+        "redirect_url": "community",
         "redirect_document_id": true
     }
 ]
