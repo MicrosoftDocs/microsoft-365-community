@@ -1,0 +1,7 @@
+{
+  "redirections": [ 
+    
+    {
+        "source_path": "index.md",
+        "redirect_url": "community.yml",
+        "redirect_document_id": true
