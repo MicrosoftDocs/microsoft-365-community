@@ -3,7 +3,7 @@
     
     {
         "source_path": "index.md",
-        "redirect_url": "https://review.docs.microsoft.com/en-us/m365-community?branch=master",
+        "redirect_url": "https://review.docs.microsoft.com/en-us/m365-community/community.yml?branch=master",
         "redirect_document_id": true
     }
 ]
