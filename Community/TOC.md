@@ -1,4 +1,4 @@
-# [HOME](index.yml)
+# [Community](index.yml)
 
 # Basics
 
