@@ -1,3 +1,5 @@
+# Please use this template to ensure easier processing of your pull request
+
 #### Category
 - [ ] Content fix
 - [ ] New article
