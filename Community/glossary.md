@@ -242,7 +242,7 @@ Rolling up content refer to the practice of consolidating a specific set of cont
 * News from all sites associated with a [Hub Site](#hub-site)
 * Events from all sites associated with a [Hub Site](#hub-site)
 
-More complex roll ups are also possible using the [Highlighted Content Web Part](#Highlighted-Content-Web-Part) or custom code.
+More complex roll ups are also possible using the [Highlighted Content Web Part](#highlighted-content-web-part) or custom code.
 
 ### Root Site
 
