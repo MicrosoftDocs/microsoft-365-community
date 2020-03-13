@@ -2,9 +2,9 @@
   tocHref: /
   topicHref: /
   items:
-  - name: Microsoft-365
-    href: /microsoft-365
-    topicHref: /microsoft-365
+  - name: Microsoft 365
+    href: https://docs.microsoft.com/microsoft-365
+    topicHref: https://docs.microsoft.com/microsoft-365
     items:
     - name: Community-Content
       tocHref: /microsoft-365/community
