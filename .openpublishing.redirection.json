@@ -3,7 +3,7 @@
     
     {
         "source_path": "community/index.md",
-        "redirect_url": "https://review.docs.microsoft.com/m365-community/community",
+        "redirect_url": "https://docs.microsoft.com/m365-community/community",
         "redirect_document_id": false
     }
 ]
