@@ -22,33 +22,46 @@ landingContent:
 # Start card title with a verb
 
   # Card (optional)
-  - title: Basics
+  - title: Basics and Definitions
     linkLists:
       - linkListType: get-started
         links:
+          - text: Glossary
+            url: glossary.md
           - text: What is a Site Column?
             url:  what-is-site-column.md
           - text: What is a Content Type?
             url:  what-is-content-type.md
+
+  # Card (optional)
+  - title: Microsoft 365 Better Practices
+    linkLists:
+      - linkListType: learn
+        links:
           - text: Known Folder Move (KFM) Benefits for End Users
             url:  known-folder-move-benefits-for-enduser.md
-          - text: Benefits of using PowerShell with SharePoint
-            url:  benefits-of-using-powershell-with-sharepoint.md
-          - text: Planning Permissions with Group-based SharePoint Sites when you're used to Regular SharePoint Permissions
-            url:  permission-model-diferences.md
-          - text: Importing Data
-            url:  importing-data.md
+
+
+  # Card (optional)
+  - title: SharePoint Better Practices
+    linkLists:
+      - linkListType: learn
+        links:
+          - text: Site Builder/Owner - New Site Checklist
+            url: new-site-checklist.md
           - text: Versioning in SharePoint
             url: versioning-basics-best-practices.md
           - text: Information Architecture - Site Topology
             url: information-architecture-site-topology.md
-          - text: Site Builder/Owner - New Site Checklist
-            url: new-site-checklist.md
-          - text: Glossary
-            url: glossary.md
+          - text: Planning Permissions with Group-based SharePoint Sites when you're used to Regular SharePoint Permissions
+            url:  permission-model-diferences.md
+          - text: Importing Data
+            url:  importing-data.md
+          - text: Benefits of using PowerShell with SharePoint
+            url:  benefits-of-using-powershell-with-sharepoint.md
 
   # Card
-  - title: Making decisions
+  - title: Making Better Decisions
     linkLists:
       - linkListType: concept
         links:
@@ -61,9 +74,8 @@ landingContent:
           - text: Information Architecture - Managed Metadata vs Lookup columns
             url: information-architecture-managed-metadata-vs-lookup-column.md
 
-
   # Card
-  - title: Scenarios
+  - title: Useful Scenarios
     linkLists:
       - linkListType: concept
         links:
