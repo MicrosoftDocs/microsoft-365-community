@@ -122,6 +122,6 @@ landingContent:
           - text: Suggest a feature
             url: https://sharepoint.uservoice.com/
           - text: Learn how to be a Community Contributor
-            url:  https://github.com/MicrosoftDocs/microsoft-365-community
+            url:  https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/README.md
           
 
