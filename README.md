@@ -1,17 +1,17 @@
 # Welcome to the Microsoft 365 Community Docs
 
-* If you just landed here, and you have no idea what GitHub is, please go to [Getting Started](./Community/getting-started.md).
+* This repo backs the [Microsoft 365 Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/) content. If you have suggestion or corrections, read on...
+* If you just landed here, and you have no idea what GitHub is, please go to [Getting Started](Community/getting-started.md).
+* If you have been here before and would like instructions on how to add content, please go to [Adding Content](Community/adding-content.md).
+* Curious what types of articles we have here? Check out the [Community Table of Contents](Community/TOC.md) in the Community section.
 
-* If you have been here before and would like instructions on how to add content, please go to [Adding Content](./Community/adding-content.md).
-* Curious what types of articles we have here? Check out the [temporary table of contents](./Community/index.md).
+![M365 Community Docs](Community/media/microsoft-365-community/M365Community1-600px.png "M365 Community Docs")
 
-![M365 Community Docs](./Community/media/microsoft-365-community/M365Community1.png "M365 Community Docs")
-
-This repository is here for YOU. The goal is to build an open source set of content to help people like Information Architects, Business Analysts, "Makers" (aka Citizen Developers), and Site Owners who want to use the platform better.
+This repository is here for YOU. The goal is to build an open source set of content to help people like Information Architects, Business Analysts, "Makers" (aka Citizen Developers), and Site Owners who want to use the Microsoft 365 platform better.
 
 There are lots of other resources for developers, so that isn't our target audience. We may include some code samples or snippets of code in the context of getting something done, but for the most part, any code in this repository will exist to help facilitate conversations between the folks listed above and the developers with whom they work.
 
-If we're successful here, we may be able to drive our content into the official Microsoft documentation, much the way the [sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) repository does. Be a part of history!
+This content is available in the [Microsoft 365 Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/). Contribute and be a part of history!
 
 ## Questions & Help
 
@@ -19,7 +19,7 @@ If you are looking for documentation about something which you feel fits this mo
 
 * Explain what you need and why, but be realistic about the time frames in which you may see a result. This is an open source effort and we all have day jobs.
 * Suggest an article or set of articles you've seen in blogs or other electronic formats which you think start(s) to get at the issue and might make a good addition here.
-* Write something to fill the gap. Whether it's a germ of an explanation or a full-fledged article, what you write can add value to the repository.
+* Write something to fill the gap. Whether it's a germ of an explanation or a full-fledged article, whatever you write can add value to the repository.
 
 ## Have Fun
 
