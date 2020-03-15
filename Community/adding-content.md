@@ -93,13 +93,7 @@ If the content you are contributing is something you are repurposing from your b
 
 ---
 
-**Principal author**: Susan Hanley, MVP
-
-**LinkedIn**: [**http://www.linkedin.com/in/susanhanley**](http://www.linkedin.com/in/susanhanley)
-
-**Website**: [**www.susanhanley.com**](http://www.susanhanley.com/)
-
-**Blog**: [**http://www.computerworld.com/blog/essential-sharepoint**](http://www.computerworld.com/blog/essential-sharepoint)
+**Principal author**:[ Susan Hanley, MVP](http://www.linkedin.com/in/susanhanley)
 
 ---
 

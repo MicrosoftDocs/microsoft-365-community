@@ -21,7 +21,7 @@ A repository - or repo - is a set of content which belongs together based on its
 
 ## Content
 
-The "content" in a GitHub repo can be any file type - including code, of course – but in the microsoft-365-community repo, we're focused on text documents. These documents are similar to blog posts or other things you might write and put on the Web somewhere. In this case, we use [markdown](https://www.markdownguide.org/) for file formatting. Markdown is sort of analogous to HTML in a sense in that its a way to encode content for formatting purposes. Markdown is pretty simple, but of course there is a learning curve. Nearly everyone uses a [Docs Markdown reference](https://docs.microsoft.com/en-us/contribute/markdown-reference) for a while until they are more familiar with the tool set.
+The "content" in a GitHub repo can be any file type - including code, of course – but in the microsoft-365-community repo, we're focused on text documents. These documents are similar to blog posts or other things you might write and put on the Web somewhere. In this case, we use [markdown](https://www.markdownguide.org/) for file formatting. Markdown is sort of analogous to HTML in a sense in that its a way to encode content for formatting purposes. Markdown is pretty simple, but of course there is a learning curve. Nearly everyone uses a [Docs Markdown reference](https://docs.microsoft.com/contribute/markdown-reference) for a while until they are more familiar with the tool set.
 
 ## Issues
 

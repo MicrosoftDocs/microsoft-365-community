@@ -1,10 +1,10 @@
 ---
-title: 
-ms.date: 
-author: 
-ms.reviewer:  Joanne Hendrickson
+title: Template
+ms.date: 3/13/2020
+author: JoanneHendrickson
+ms.reviewer:  jhendr
 localization_priority: 
-description: 
+description: template for creating content
 ms.collection:  SPCommunity
 ---
 

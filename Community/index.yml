@@ -57,7 +57,7 @@ landingContent:
           - text: List columns or Site columns - which one to choose?
             url: list-column-or-site-column-which-one-to-choose.md
           - text: Changing Microsoft Teams from private to public - What to expect in SharePoint
-            url: changing-teams-from-private-to-public-what-to-expect-in-sharepoint
+            url: changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md
           - text: Information Architecture - Managed Metadata vs Lookup columns
             url: information-architecture-managed-metadata-vs-lookup-column.md
 
