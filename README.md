@@ -3,10 +3,10 @@
 ![M365 Community Docs](Community/media/microsoft-365-community/M365Community1-600px.png "M365 Community Docs")
 
 > [!TIP]
->* This repo backs the [Microsoft 365 Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/) content. If you have suggestion or corrections, read on...
->* If you just landed here, and you have no idea what GitHub is, please go to [Getting Started](Community/getting-started.md). If you'd like to learn even more about how to use Github in this context, visit the [Sharing Is Caring Initiative](https://pnp.github.io/sharing-is-caring/).
->* If you have been here before and would like instructions on how to add content, please go to [Adding Content](Community/adding-content.md).
->* Curious what types of articles we have here? Check out the [Community Table of Contents](Community/TOC.md) in the Community section.
+> * This repo backs the [Microsoft 365 Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/) content. If you have suggestion or corrections, read on...
+> * If you just landed here, and you have no idea what GitHub is, please go to [Getting Started](Community/getting-started.md). If you'd like to learn even more about how to use Github in this context, visit the [Sharing Is Caring Initiative](https://pnp.github.io/sharing-is-caring/).
+> * If you have been here before and would like instructions on how to add content, please go to [Adding Content](Community/adding-content.md).
+> * Curious what types of articles we have here? Check out the [Community Table of Contents](Community/TOC.md) in the Community section.
 
 ## Introduction
 
