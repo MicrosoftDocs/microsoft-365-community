@@ -80,13 +80,13 @@ landingContent:
           - text: Changing Microsoft Teams from private to public - What to expect in SharePoint
             url: changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md
           - text: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
-            url: select-an-effective-navigation-strategy.md)
+            url: select-an-effective-navigation-strategy.md
           - text: Auto Apply Retention Labels in Office 365 Using Content Types and Metadata
-            url: auto-apply-retention-labels-in-office-365-using-content-types-and-metadata.md)
+            url: auto-apply-retention-labels-in-office-365-using-content-types-and-metadata.md
           - text: Can Machine Learning be used to assign managed metadata attributes for items?
-            url: machine-learning-and-managed-metadata.md)
+            url: machine-learning-and-managed-metadata.md
           - text: Designing your solution for scale
-            url: designing-solution-for-scale.md)
+            url: designing-solution-for-scale.md
   
   # Card
   - title: Useful Scenarios
