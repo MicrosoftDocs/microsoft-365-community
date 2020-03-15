@@ -51,14 +51,22 @@ landingContent:
             url: new-site-checklist.md
           - text: Versioning in SharePoint
             url: versioning-basics-best-practices.md
-          - text: Information Architecture - Site Topology
-            url: information-architecture-site-topology.md
           - text: Planning Permissions with Group-based SharePoint Sites when you're used to Regular SharePoint Permissions
-            url:  permission-model-diferences.md
+            url:  permission-model-differences.md
           - text: Importing Data
             url:  importing-data.md
           - text: Benefits of using PowerShell with SharePoint
             url:  benefits-of-using-powershell-with-sharepoint.md
+
+  # Card (optional)
+  - title: Information Architecture
+    linkLists:
+      - linkListType: learn
+        links:
+          - text: Information Architecture - Site Topology
+            url: information-architecture-site-topology.md
+          - text: Information Architecture - Managed Metadata vs Lookup columns
+            url: information-architecture-managed-metadata-vs-lookup-column.md
 
   # Card
   - title: Making Better Decisions
@@ -71,9 +79,15 @@ landingContent:
             url: list-column-or-site-column-which-one-to-choose.md
           - text: Changing Microsoft Teams from private to public - What to expect in SharePoint
             url: changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md
-          - text: Information Architecture - Managed Metadata vs Lookup columns
-            url: information-architecture-managed-metadata-vs-lookup-column.md
-
+          - text: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
+            url: select-an-effective-navigation-strategy.md)
+          - text: Auto Apply Retention Labels in Office 365 Using Content Types and Metadata
+            url: auto-apply-retention-labels-in-office-365-using-content-types-and-metadata.md)
+          - text: Can Machine Learning be used to assign managed metadata attributes for items?
+            url: machine-learning-and-managed-metadata.md)
+          - text: Designing your solution for scale
+            url: designing-solution-for-scale.md)
+  
   # Card
   - title: Useful Scenarios
     linkLists:
@@ -83,9 +97,14 @@ landingContent:
             url: library-scenarios.md
           - text: Using site designs to manage project life cycles
             url: site-design-life-cycle.md
+
+  # Card
+  - title: Automation
+    linkLists:
+      - linkListType: how-to-guide
+        links:
           - text: Working with modern client-side pages using PnP PowerShell
             url:  working-with-modern-clientside-pages-using-pnp-powershell.md
-
 
   # Card (optional)
   - title: References
