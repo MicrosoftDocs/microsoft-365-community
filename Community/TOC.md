@@ -39,3 +39,5 @@
 ### [Microsoft 365 Enterprise](https://docs.microsoft.com/microsoft-365/enterprise/?view=o365-worldwide)
 ### [Microsoft 365 Business](https://docs.microsoft.com/microsoft-365/business/?view=o365-worldwide)
 ### [All Office documentation](https://docs.microsoft.com/office/)
+## Contribute
+### [Learn how to be a community contributor](https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/README.md)
