@@ -32,3 +32,8 @@ There are multiple issue templates:
 * **Article Issue** - See something wrong in an existing article? Suggest a fix here.
 * **Article Suggestion** - Wish there was an article covering a topic near and dear to you? Suggest it here.
 * **Question** - Have a general question? Ask it here.
+
+## Pull Requests
+Create a pull request to propose changes in a repository. These changes are proposed in a fork, which ensures that the master branch only contains finished and approved work.
+
+Anyone with read permissions to a repository can create a pull request. This will automatically create a fork (duplicate copy of the repo) where you can make your edits to submit for approval by an administrator of the master branch. For more information, see [Creating a pull request from a fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) and [About forks](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-forks). 
