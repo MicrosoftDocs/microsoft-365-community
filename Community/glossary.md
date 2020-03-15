@@ -135,7 +135,7 @@ A Hub Site is a SharePoint site that can have other sites associated to it. This
 
 ## I
 
-## Idempotent
+### Idempotent
 
 In a development sense, idempotent means that code you run more than once with the same inputs will always produce the same outputs. In other words, you can always expect the same effects, no matter how many times you do something.
 

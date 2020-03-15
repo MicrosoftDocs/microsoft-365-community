@@ -22,33 +22,54 @@ landingContent:
 # Start card title with a verb
 
   # Card (optional)
-  - title: Basics
+  - title: Basics and Definitions
     linkLists:
       - linkListType: get-started
         links:
+          - text: Glossary
+            url: glossary.md
           - text: What is a Site Column?
             url:  what-is-site-column.md
           - text: What is a Content Type?
             url:  what-is-content-type.md
+
+  # Card (optional)
+  - title: Microsoft 365 Better Practices
+    linkLists:
+      - linkListType: learn
+        links:
           - text: Known Folder Move (KFM) Benefits for End Users
             url:  known-folder-move-benefits-for-enduser.md
-          - text: Benefits of using PowerShell with SharePoint
-            url:  benefits-of-using-powershell-with-sharepoint.md
-          - text: Planning Permissions with Group-based SharePoint Sites when you're used to Regular SharePoint Permissions
-            url:  permission-model-diferences.md
-          - text: Importing Data
-            url:  importing-data.md
-          - text: Versioning in SharePoint
-            url: versioning-basics-best-practices.md
-          - text: Information Architecture - Site Topology
-            url: information-architecture-site-topology.md
+
+
+  # Card (optional)
+  - title: SharePoint Better Practices
+    linkLists:
+      - linkListType: learn
+        links:
           - text: Site Builder/Owner - New Site Checklist
             url: new-site-checklist.md
-          - text: Glossary
-            url: glossary.md
+          - text: Versioning in SharePoint
+            url: versioning-basics-best-practices.md
+          - text: Planning Permissions with Group-based SharePoint Sites when you're used to Regular SharePoint Permissions
+            url:  permission-model-differences.md
+          - text: Importing Data
+            url:  importing-data.md
+          - text: Benefits of using PowerShell with SharePoint
+            url:  benefits-of-using-powershell-with-sharepoint.md
+
+  # Card (optional)
+  - title: Information Architecture
+    linkLists:
+      - linkListType: learn
+        links:
+          - text: Information Architecture - Site Topology
+            url: information-architecture-site-topology.md
+          - text: Information Architecture - Managed Metadata vs Lookup columns
+            url: information-architecture-managed-metadata-vs-lookup-column.md
 
   # Card
-  - title: Making decisions
+  - title: Making Better Decisions
     linkLists:
       - linkListType: concept
         links:
@@ -58,12 +79,17 @@ landingContent:
             url: list-column-or-site-column-which-one-to-choose.md
           - text: Changing Microsoft Teams from private to public - What to expect in SharePoint
             url: changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md
-          - text: Information Architecture - Managed Metadata vs Lookup columns
-            url: information-architecture-managed-metadata-vs-lookup-column.md
-
-
+          - text: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
+            url: select-an-effective-navigation-strategy.md)
+          - text: Auto Apply Retention Labels in Office 365 Using Content Types and Metadata
+            url: auto-apply-retention-labels-in-office-365-using-content-types-and-metadata.md)
+          - text: Can Machine Learning be used to assign managed metadata attributes for items?
+            url: machine-learning-and-managed-metadata.md)
+          - text: Designing your solution for scale
+            url: designing-solution-for-scale.md)
+  
   # Card
-  - title: Scenarios
+  - title: Useful Scenarios
     linkLists:
       - linkListType: concept
         links:
@@ -71,9 +97,14 @@ landingContent:
             url: library-scenarios.md
           - text: Using site designs to manage project life cycles
             url: site-design-life-cycle.md
+
+  # Card
+  - title: Automation
+    linkLists:
+      - linkListType: how-to-guide
+        links:
           - text: Working with modern client-side pages using PnP PowerShell
             url:  working-with-modern-clientside-pages-using-pnp-powershell.md
-
 
   # Card (optional)
   - title: References
