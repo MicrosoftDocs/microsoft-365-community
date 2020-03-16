@@ -39,7 +39,7 @@ A major difference from before the change in October 2019 is how Data API Reques
 
 The following key links will redirect to the top-level pricing summary for the three licensing groups:
 
-- For Power Apps (formerly Power Apps)
+- For Power Apps
   - [https://powerapps.microsoft.com/pricing/](https://powerapps.microsoft.com/pricing/)
 - For Power Automate
   - [https://us.flow.microsoft.com/pricing/](https://us.flow.microsoft.com/pricing/)
