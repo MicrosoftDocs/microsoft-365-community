@@ -1,16 +1,16 @@
 # Understanding Power Platform Licensing
 
-# Overview
+## Overview
 
-## About this article
+### About this article
 
 In October 2019 and just before Ignite, Microsoft initiated changes to the licensing plans for the systems known as the Power Platform applications.  The action led to some confusion among the community with administrators and users in Office 365 tenants even as those changes were not going to be immediate for many.  Understanding the full implications for many scenarios required in depth looks into the documentation that came along side it and in that time, there were few people outside of Microsoft who understood things enough to allay fears that the changes were going to up end usage or increase bills suddenly and significantly.  This article seeks to address that gap from the power user (usually referred to as the Citizen Developer) point of view.
 
-## Scope of this article
+### Scope of this article
 
 The information covered here summarizes the information found in the official and definitive Licensing Guidance found here: [https://go.microsoft.com/fwlink/?linkid=2085130](https://go.microsoft.com/fwlink/?linkid=2085130).  The guide addresses Power Apps Power Automate and Power Virtual Agents and not nuances based on organizational or regional Enterprise Agreements (EA&#39;s) or contracts. It also does not cover pricing for Azure, Office 365 or Dynamics 365 products and services but it will discuss the effects of those services regarding understanding the topics included here.
 
-## Importance of Licensing Information
+### Importance of Licensing Information
 
 From the point of view of the citizen developer or organization power user creating applications, flows or virtual agents, the cost of service could affect what they are able to do and to what extent.  Work with these systems occurs in the tenant shared with others and whether the solutions being built are for individual or broad use, it is important to understand the complete impact of operations in the same vein as performance or net benefits.
 
@@ -18,15 +18,15 @@ Unless the developer also has tenant administration access rights, they may have
 
 In the end, the goal of the developers work is to provide a solution that satisfies a requirement or need and just as selecting the appropriate elements and configuration settings, so to is selecting or requesting the appropriate license so that the solution can be implemented and utilized.
 
-# Licensing Core information
+## Licensing Core information
 
-## Preface to the information
+### Preface to the information
 
 It may appear counter intuitive for the licensing guide not to include prices but the main reason behind that is to provide a common set of information that is not associated with a specific region, EA license arrangement or individual contract. Prices will differ from region to region if at least with the default currency. Availability can also be an issue for certain agreement types such as Government or Education in addition to regions.  Though this guide will give a certain starting point using US dollars as the reference, it is recommended that the Power app, flow or virtual agent creator discuss first with tenant administration and the applicable stakeholders the licensing issues as part of appropriate governance procedures.
 
 A major difference from before the change in October 2019 is how Data API Request limits were handled.  The old licensing model had monthly caps albeit allowing the purchase of additional capacity.  The new one no longer has monthly limits but instead caps daily use at numbers per day higher than the old monthly limits in some cases.  The ability to purchase capacity for the requests and for data storage is still available.
 
-## Key links
+### Key links
 
 The following key links will redirect to the top-level pricing summary for the three licensing groups:
 
@@ -43,9 +43,9 @@ The localized version of the licensing guide shown earlier in this article will 
 
 Before moving into detail, it is important to keep in mind that it may be a combination of circumstances from the combination of apps with flow and in context with Office 365 or Dynamics to determine either the price or the choices available. Features such as Connectors, the Common Data Service (CDS), the AI builder and Dynamics entities will be discussed after the platforms.
 
-# Licensing by Platform
+## Licensing by Platform
 
-## Power Apps
+### Power Apps
 
 The core attribute of a Power Apps license is the &quot;run&quot; as in the cost to run the Power App.  The pricing comes in two main choices – Run Single Apps and Run Unlimited Apps. This distinction becomes pronounced when we discuss Power Automate.
 
@@ -97,7 +97,7 @@ The guide shows in various tables the details of for each of these plans along w
 
 The Power Apps Portal is discussed later in this article.
 
-## Power Automate
+### Power Automate
 
 Power Automate has two main concepts that determine pricing. The first is the ability to **Create** flows where the first main package allows an individual user to create and run unlimited flows for themselves. The second is the ability to **Implement** flows such as in the second pricing block allow for &quot;implementation&quot; of flows to serve unlimited users with the base bundle starting at 5 flows whether they are implemented or not.
 
@@ -147,7 +147,7 @@ The following set of points discuss the license differences:
   - Access to Dynamics 365 restricted entities related to Power Apps and Dynamics license in play
   - CDS use and capacity included with Dynamics 365
 
-## Power Virtual Agents
+### Power Virtual Agents
 
 Power Virtual Agents was just released at the start of the year as the latest Power Platform tool that the citizen developer can use to stand up AI chat bot solutions with no code.  As of this article, there are various solutions to integrate them into the Power Apps Portal, Power Automate flow but as far as licensing is concerned, the interaction does not have the same direct impact as the two previously discussed platforms with each other and the Office or Dynamics platform.  This should not be confused with AI Builder which is a separate add in covered in the next section.
 
@@ -177,11 +177,11 @@ There are some very important aspects to the pricing that should be considered:
 
 Unlike the ability for a citizen developer to quickly create and deploy Power Apps or Power Automate Flows, the tenant administrator is required to enable the service. Once the service is on, there is no current limit to how many virtual agents can be created and used by how ever many people.  This means that the governance must be communicated broadly as there are yet as of this writing limited sets of reporting and auditing capabilities requiring an explicit effort by administrators and stakeholders.
 
-## Add-ons and Additional Capacity
+### Add-ons and Additional Capacity
 
 To complete the picture, it is important to understand that there are several additional features along with ways to increase capacity that will affect the cost.  They are discussed in this section.
 
-### Power Apps and Add-ons and Capacity
+#### Power Apps and Add-ons and Capacity
 
 The following items can be added to Power Apps:
 
@@ -199,7 +199,7 @@ The following items can be added to Power Apps:
 
 An important note about service credits for the AI builder which applies also to Power Automate is that they are used at different rates depending on the type of activity they are doing such as prediction or forms processing.  Unfortunately, there is not currently a &quot;rate sheet&quot; published.  For now, the guidance is to audit the month&#39;s service credit rate burndown activity and correlate it against the activity types together.  Doing this over several months will at least allow for some capacity requirements prediction.  Potentially, very specific activities can be measured against the same burn down to elicit a rate, but this is not guaranteed to stay consistent from month to month or even with the same activity over time.  Citizen developers should work closely with tenant administrators and other stakeholders when leveraging this very powerful add-on.
 
-### Common Data Services Capacity Add-ons
+#### Common Data Services Capacity Add-ons
 
 Common data services are the backbone of Dynamics 365 and are also a resource for Power Apps and Power Automate as alternatives to SharePoint lists or explicit SQL Server database or other Data repository systems.  A premium connector is required to access CDS unless the connection is related to Dynamics 365 where it is included.  In various cases, the capacity included with the different plans are either tied to a specific entity such as the app or flow user or the Office 365 tenant.
 
@@ -211,8 +211,14 @@ Regardless of what base level is granted for each license, capacity can be added
 
 These can only be added by tenant administrators with the licensing role.
 
-# Next Steps
+## Next Steps
 
 For the citizen developer, awareness of all aspects can make a big difference when creating and even justifying a solution in the same manner as for a regular developer or solutions architect.  As the saying goes, &quot;Nothing is for free&quot; but deep understanding in this case can at least mitigate much of those costs or at least help put a definitive price tag on those benefits derived from the effort.  It follows from this point and based on recent experience that one must keep up with changes in tis area on the same level as changes in capability and functionality within the Power Platform suite.  Tenant administrators get the benefit of notification through the message system in their administration application while others would benefit from setting up alerts or reminders to the Power Platform docs and blogs here and in the community.
 
 As a final note, recall early when it was noted that prices may vary from region to region as well as agreement to agreement.  Variations notwithstanding, the final arbiter of the price will be Microsoft and with that comes the opportunity to confirm arrangements with them directly or through your IT&#39;s Microsoft contact or representative. When dealing with Microsoft do consider that the major change between the older licensing scheme and the current one is that the customer is rewarded for using the system more that those who create the odd Power App or flow very infrequently.  It is the case of buy a car to only use it to bring the beloved pet to the vet once a quarter or to go to work every day – on the latter, there may be wear in tear but there is also very measurable and significant Return on Investment as is the case here
+
+---
+title: Understanding Power Platform Licensing
+author: Ralph Rivas
+date: today
+---
