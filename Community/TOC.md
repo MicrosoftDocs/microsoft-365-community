@@ -22,10 +22,10 @@
 ### [Auto Apply Retention Labels in Office 365 Using Content Types and Metadata](auto-apply-retention-labels-in-office-365-using-content-types-and-metadata.md)
 ### [Can Machine Learning be used to assign managed metadata attributes for items?](machine-learning-and-managed-metadata.md)
 ### [Designing your solution for scale](designing-solution-for-scale.md)
+### [Understanding Power Platform Licensing](powerplatformlicensingforcitizendeveloper.md)
 ## Useful Scenarios
 ### [Library Scenarios](library-scenarios.md)
 ### [Using Site Designs to Manage Project Life Cycles](site-design-life-cycle.md)
-### [Understanding Power Platform Licensing](powerplatformlicensingforcitizendeveloper.md)
 ## Automation
 ### [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
 ## References
