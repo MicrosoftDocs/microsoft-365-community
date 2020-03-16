@@ -1,3 +1,12 @@
+---
+title: Understanding Power Platform Licensing
+ms.date: 3/16/2020
+author: bigpix2000
+ms.reviewer:  Joanne Hendrickson
+localization_priority: 
+description: "Understanding Power Platform Licensing"
+ms.collection:  SPCommunity
+---
 # Understanding Power Platform Licensing
 
 ## Overview
@@ -218,7 +227,5 @@ For the citizen developer, awareness of all aspects can make a big difference wh
 As a final note, recall early when it was noted that prices may vary from region to region as well as agreement to agreement.  Variations notwithstanding, the final arbiter of the price will be Microsoft and with that comes the opportunity to confirm arrangements with them directly or through your IT&#39;s Microsoft contact or representative. When dealing with Microsoft do consider that the major change between the older licensing scheme and the current one is that the customer is rewarded for using the system more that those who create the odd Power App or flow very infrequently.  It is the case of buy a car to only use it to bring the beloved pet to the vet once a quarter or to go to work every day – on the latter, there may be wear in tear but there is also very measurable and significant Return on Investment as is the case here
 
 ---
-title: Understanding Power Platform Licensing
-author: Ralph Rivas
-date: today
----
+
+**Principal author**: [Ralph Rivas](https://www.linkedin.com/in/ralphrivas/)
