@@ -25,6 +25,7 @@
 ## Useful Scenarios
 ### [Library Scenarios](library-scenarios.md)
 ### [Using Site Designs to Manage Project Life Cycles](site-design-life-cycle.md)
+### [Understanding Power Platform Licensing](powerplatformlicensingforcitizendeveloper.md)
 ## Automation
 ### [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
 ## References

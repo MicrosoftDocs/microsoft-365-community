@@ -87,6 +87,8 @@ landingContent:
             url: machine-learning-and-managed-metadata.md
           - text: Designing your solution for scale
             url: designing-solution-for-scale.md
+          - text: Understanding Power Platform Licensing
+            url: powerplatformlicensingforcitizendeveloper.md
   
   # Card
   - title: Useful Scenarios
