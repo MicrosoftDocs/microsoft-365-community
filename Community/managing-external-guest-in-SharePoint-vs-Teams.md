@@ -108,6 +108,16 @@ Imagine you have a "Private Project Team", that is restricted to members, and yo
 
 ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest09.png)
 
+
+## Block guest access to certain Teams 
+Now and then you will need to make sure that Guest users can't be invited to a certain Team by accident, for example the HR or Finance Team. 
+
+Folow the guide below to achive this, as pr. my knowledge you will need Global administrator right to achieve this.
+
+
+* [Block guest accesss to Team](https://docs.microsoft.com/nb-no/microsoft-365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide#block-guest-users-from-a-specific-group)
+
+
 ## Useful resources
 
 * [Manage guest access in Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
