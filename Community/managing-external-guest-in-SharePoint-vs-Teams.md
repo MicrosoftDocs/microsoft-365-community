@@ -36,7 +36,7 @@ In the Office 365 Central Administration center:
 At basic level Office 365 Groups have two permissions settings:
 
 1. Owner | Full control of the Group, and Site Collection Administrator of the backend SharePoint Site
-2. Member | Edit permission to the Group, and member with "Contribute" rights to the backend SharePoint Site  
+2. Member | Edit permission to the Group, and member with "Edit" rights to the backend SharePoint Site  
 
 SharePoint permission groups, on the other hand, provide more granularity:
 
