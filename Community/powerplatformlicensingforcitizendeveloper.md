@@ -63,7 +63,7 @@ For Licensing purposes, the pricing is affected by the concept of the &quot;Seed
 The following set of points discuss the license differences:
 
 - &quot;Run Single Apps&quot; – Per User/Per App/Per Month (e.g.  US$ 10)
-  - User with a license runs up to two specific apps
+  - User with a license runs up to **two** specific apps
   - Sometimes referred to as the &quot;Per App&quot; Plan
   - Standard, Premium and Custom Connectors included
   - Access to 1 custom portal for each user
@@ -224,7 +224,7 @@ These can only be added by tenant administrators with the licensing role.
 
 For the citizen developer, awareness of all aspects can make a big difference when creating and even justifying a solution in the same manner as for a regular developer or solutions architect.  As the saying goes, &quot;Nothing is for free&quot; but deep understanding in this case can at least mitigate much of those costs or at least help put a definitive price tag on those benefits derived from the effort.  It follows from this point and based on recent experience that one must keep up with changes in tis area on the same level as changes in capability and functionality within the Power Platform suite.  Tenant administrators get the benefit of notification through the message system in their administration application while others would benefit from setting up alerts or reminders to the Power Platform docs and blogs here and in the community.
 
-As a final note, recall early when it was noted that prices may vary from region to region as well as agreement to agreement.  Variations notwithstanding, the final arbiter of the price will be Microsoft and with that comes the opportunity to confirm arrangements with them directly or through your IT&#39;s Microsoft contact or representative. When dealing with Microsoft do consider that the major change between the older licensing scheme and the current one is that the customer is rewarded for using the system more that those who create the odd Power App or flow very infrequently.  It is the case of buy a car to only use it to bring the beloved pet to the vet once a quarter or to go to work every day – on the latter, there may be wear in tear but there is also very measurable and significant Return on Investment as is the case here
+As a final note, recall early when it was noted that prices may vary from region to region as well as agreement to agreement.  Variations notwithstanding, the final arbiter of the price will be Microsoft and with that comes the opportunity to confirm arrangements with them directly or through your IT&#39;s Microsoft contact or representative. When dealing with Microsoft do consider that the major change between the older licensing scheme and the current one is that the customer is rewarded for using the system more that those who create the odd Power App or flow very infrequently.  It is the case of buying a car to only use it to bring the beloved pet to the Pet hospital once a quarter for their check up or to go to work every day – on the latter, there may be wear and tear on the vehicle but there is also very measurable and significant return on investment for the benefit it brings to the household salary. 
 
 ---
 
