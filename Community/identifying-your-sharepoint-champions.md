@@ -24,13 +24,13 @@ They have a specific task in mind and can strong arm your environment to do what
 
 ### The End User Who Ask Lots of Question
 
-If your training is not fully sticking with all people in the room this is very valuable feedback as you aren’t just targeting the tech savvy end users in your organization. When you launch the next solution, everyone in this room will need to understand the why and the how for it to be successfully adopted. Including these end users who ask the most questions in the conversation will help identify where your content is unclear. They are also showing a lot of motivation to understand so support them by inviting them to be SharePoint champions which provides more opportunities for education and questions.
+If your training is not fully sticking with all people in the room this is very valuable feedback as you aren't just targeting the tech savvy end users in your organization. When you launch the next solution, everyone in this room will need to understand the why and the how for it to be successfully adopted. Including these end users who ask the most questions in the conversation will help identify where your content is unclear. They are also showing a lot of motivation to understand so support them by inviting them to be SharePoint champions which provides more opportunities for education and questions.
 
 ## In the Ticket Queue
 
 Take a step back from the individual tickets to look at any trending issues. Is one department heavily using coauthoring and having issues with locked documents? Are the same people reporting the same issues repeatedly? Is this a bug or user error? One of the most challenging issues to resolve is a change in behavior. If you are not present to help redirect those mistakes, it can be challenging to break the habit.
 
-Finding SharePoint champions in these groups can be helpful in identifying the issues more clearly. Maybe the solution isn’t aligned with how they work and needs refinement. The team might have grown since implementation and there is a gap in continued training or supporting materials. Having insight within a group will more quickly bring light to where the gaps are and, as a trusted partner, the conversation and reporting of issues will flow more easily.
+Finding SharePoint champions in these groups can be helpful in identifying the issues more clearly. Maybe the solution isn't aligned with how they work and needs refinement. The team might have grown since implementation and there is a gap in continued training or supporting materials. Having insight within a group will more quickly bring light to where the gaps are and, as a trusted partner, the conversation and reporting of issues will flow more easily.
 
 ## In the Project Queue
 
@@ -40,7 +40,7 @@ Do you have a long project queue due to your small team being overloaded? Who ha
 
 You may have seen this situation before where the company implements a new guidance that limits a crucial established business process. Maybe your organization has decided on no external sharing ever from SharePoint. The procurement department works with external vendors for the majority of their day for document collaboration on contracts, SOWs, etc. Limiting SharePoint external access has dramatically impacted their productivity. What other options are available to them if you limit external sharing across the organization?
 
-When an end user is breaking governance, it is because something is not meeting their day-to-day business needs. Open the conversation to understand why. If you don’t, you are encouraging shadow IT as there is a long list of free options available to meet their external collaboration needs that is now outside your monitoring. If you do, you are building trust in the relationship and gaining crucial insight into their needs.
+When an end user is breaking governance, it is because something is not meeting their day-to-day business needs. Open the conversation to understand why. If you don't, you are encouraging shadow IT as there is a long list of free options available to meet their external collaboration needs that is now outside your monitoring. If you do, you are building trust in the relationship and gaining crucial insight into their needs.
 
 ## Across Varied Perspectives
 
@@ -50,5 +50,5 @@ Identify SharePoint champions across levels, regions, and functions as well to e
 
 In the Admin Portal there are [Usage Reports](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/reportsUsage) for SharePoint, OneDrive, Teams, Skype, and email activity. The SharePoint usage reports show the files viewed or edited, files synced, files shared internally or externally, and pages visited for each user. You can identify different types of end users here using these metrics to pick out your top content consumers and top document collaborators. These end users will have feedback on the current environment configurations and likely a wish list of what they hope SharePoint can do. With how fast Microsoft releases new updates they may not be aware of some solutions that are available right now! If your top users are heard and supported, they will have some of the loudest voices on whether SharePoint is working for your organization.
 
-> [!TIP] 
+> [!TIP]
 > This is commonly where people begin and quickly end their search for SharePoint champions. To get the most valuable feedback you will need to look further than just your top users. What about users with incredibly low usage in a department that you know has fully adopted SharePoint as a solution? Finding out why it is not working for them can be more valuable than hearing the same positives of why it is working for their team members.

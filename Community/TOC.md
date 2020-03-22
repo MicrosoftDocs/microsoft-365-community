@@ -23,6 +23,7 @@
 ### [Can Machine Learning be used to assign managed metadata attributes for items?](machine-learning-and-managed-metadata.md)
 ### [Designing your solution for scale](designing-solution-for-scale.md)
 ### [Understanding Power Platform Licensing](powerplatformlicensingforcitizendeveloper.md)
+### [Identifying Your SharePoint Champions](identifying-your-sharepoint-champions.md)
 ### [Empowering Your SharePoint Champions](empowering-your-SharePoint-champions.md)
 ## Useful Scenarios
 ### [Library Scenarios](library-scenarios.md)
