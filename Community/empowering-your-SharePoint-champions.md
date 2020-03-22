@@ -1,15 +1,16 @@
 ---
 title: Empowering Your SharePoint Champions
 ms.date: 3/22/2020
-author: Emily Mancini
-ms.reviewer:  
+author: eemancini
+ms.reviewer: Joanne Hendrickson
 localization_priority: 
-description: How to support a SharePoint champions group in your organization. A follow up to Identifying Your SharePoint Champions. 
-ms.collection:  Making Better Decisions
+description: How to support a SharePoint champions group in your organization. A follow up to Identifying Your SharePoint Champions.
+ms.collection: SPCommunity
 ---
  
 # Empowering Your SharePoint Champions
-What is so different about a SharePoint champions group than a site owner’s group? It depends on your organization. Some companies may have a different level of expectations for site owners that is focused on focusing on content management to keep the intranet up to date with valuable information supporting the governance plan. SharePoint champions can also be Site Owners though they are dedicated to contributing to the roadmap of Office 365 at your organization. They are interested in providing feedback, testing beta releases for new solutions, and sharing their knowledge with the company to drive engagement in the platform.
+
+What is so different about a SharePoint champions group than a site owner's group? It depends on your organization. Some companies may have a different level of expectations for site owners that is focused on focusing on content management to keep the intranet up to date with valuable information supporting the governance plan. SharePoint champions can also be Site Owners though they are dedicated to contributing to the roadmap of Office 365 at your organization. They are interested in providing feedback, testing beta releases for new solutions, and sharing their knowledge with the company to drive engagement in the platform.
 
 ## Get feedback on what they need to achieve
 
@@ -19,15 +20,15 @@ While you may be able to spot trends on what the organization needs through comp
 
 A great way to get this dialogue started for what challenges your SharePoint champions are seeing in the organization is to host monthly meetups. These sessions can be a freeform place to exchange ideas and talk through common challenges.
 
-Have you ever needed to talk through something out loud to identify the best path forward? Your SharePoint champions may not have colleagues in their department who are as familiar with the technology. Creating a place to have these discussions will give you the opportunity to learn more of the “why” for what they are trying to accomplish and guide them in the right direction. The best solutions come from collaborative development with the people using them.
+Have you ever needed to talk through something out loud to identify the best path forward? Your SharePoint champions may not have colleagues in their department who are as familiar with the technology. Creating a place to have these discussions will give you the opportunity to learn more of the "why" for what they are trying to accomplish and guide them in the right direction. The best solutions come from collaborative development with the people using them.
 
-Additionally, hosting these meetups will ensure you are part of the conversation which gives you the opportunity to guide the SharePoint champions within the organization’s roadmap and governance. I am sure your SharePoint champions can search for some great InfoPath stuff on the internet, but do you really want them building that? It is much easier to course correct in the initial stages of a solution rather than discovering it after it has been released to end users.
+Additionally, hosting these meetups will ensure you are part of the conversation which gives you the opportunity to guide the SharePoint champions within the organization's roadmap and governance. I am sure your SharePoint champions can search for some great InfoPath stuff on the internet, but do you really want them building that? It is much easier to course correct in the initial stages of a solution rather than discovering it after it has been released to end users.
 
 Bonus points for making this event casual and rewarding. Offer food or drinks and focus on fostering a community. Solutioning, change management, and adoption can be really challenging. Give your SharePoint champions a place to share frustrations so they can receive support and guidance. You are a team working together regardless of your reporting structure and departmental business goals. It is a great feeling to be included, supported, and recognized for your work.
 
-## Celebrate your site owners’ efforts
+## Celebrate your site owners' efforts
 
-Celebrate your SharePoint champions’ involvement and initiative to learn SharePoint better and build collaboration tools for their teams. Everyone has a long list of action items, deliverables, and goals for their “day job” already. These end users are going above and beyond to be more involved. Feature their solution as a case study in a company newsletter or create custom swag. Providing public recognition will showcase the efforts of your SharePoint champions and highlight them as a resource in the company who understands how to effectively implement these solutions for their departments.
+Celebrate your SharePoint champions' involvement and initiative to learn SharePoint better and build collaboration tools for their teams. Everyone has a long list of action items, deliverables, and goals for their "day job" already. These end users are going above and beyond to be more involved. Feature their solution as a case study in a company newsletter or create custom swag. Providing public recognition will showcase the efforts of your SharePoint champions and highlight them as a resource in the company who understands how to effectively implement these solutions for their departments.
 
 ## Elevate their voices and involve them in the community
 
