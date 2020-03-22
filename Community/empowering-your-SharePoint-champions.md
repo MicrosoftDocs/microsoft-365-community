@@ -24,7 +24,11 @@ Have you ever needed to talk through something out loud to identify the best pat
 
 Additionally, hosting these meetups will ensure you are part of the conversation which gives you the opportunity to guide the SharePoint champions within the organization's roadmap and governance. I am sure your SharePoint champions can search for some great InfoPath stuff on the internet, but do you really want them building that? It is much easier to course correct in the initial stages of a solution rather than discovering it after it has been released to end users.
 
-Bonus points for making this event casual and rewarding. Offer food or drinks and focus on fostering a community. Solutioning, change management, and adoption can be really challenging. Give your SharePoint champions a place to share frustrations so they can receive support and guidance. You are a team working together regardless of your reporting structure and departmental business goals. It is a great feeling to be included, supported, and recognized for your work.
+> [!TIP]
+> Bonus points for making this event casual and rewarding.
+> Offer food or drinks and focus on fostering a community.
+
+Solutioning, change management, and adoption can be really challenging. Give your SharePoint champions a place to share frustrations so they can receive support and guidance. You are a team working together regardless of your reporting structure and departmental business goals. It is a great feeling to be included, supported, and recognized for your work.
 
 ## Celebrate your site owners' efforts
 
@@ -40,6 +44,6 @@ Microsoft is continually releasing new features, your governance plan is changin
 
 ---
 
-**Principal author**:[ Emily Mancini, UXC](http://www.linkedin.com/in/eemancini)
+**Principal author**:[Emily Mancini, UXC](http://www.linkedin.com/in/eemancini)
 
 ---
