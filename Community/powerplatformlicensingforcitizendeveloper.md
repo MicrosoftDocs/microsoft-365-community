@@ -222,10 +222,67 @@ These can only be added by tenant administrators with the licensing role.
 
 ## Next Steps
 
+### Practical considerations for licensing selections for Power Apps and Power Automate
+Taken at face value, there has been a tendency to believe that the changes lead to significantly higher costs or loss of functionality should previously selected connectors fail to operate. Guidance in this area requires that the aspects behind Flows in Power Automate are understood in context of usage especially how a Flow is triggered.
+
+#### Trigger Types
+There are two types of triggers that affect usage:
+
+- Automated Flow
+
+A flow that is triggered by some sort of webhook or polling event is called an **Automated Trigger Flow**. This includes SharePoint created/updated, Exchange email received. When a flow is running with an automated trigger it can only access the flow owner's connections, so premium licenses required would be associated with that owner's account. In this mode flows run like Azure LogicApps. The &#39;HTTP Request trigger&#39; also is considered an automated trigger.
+
+- Instant Flow
+
+A flow that's triggered by the end user directly is called an **Instant Trigger Flow**. It runs in the context of the current user. This includes triggers such as "Flow Button", "Power Apps Trigger" and "SharePoint for selected item". When a new user first runs these flows, the dialog appears to ask the user to authenticate connections before running. This auth may be silent if pre-granted by administrator. This flow runs exclusively in that user's context.
+
+With this information in context, the usage type may dictate the license required and/or most cost effective. 
+
+#### Flow Licensing guidance
+
+1. Use Standard connectors in Office 365 licenses when possible in all cases.  
+
+2. For Automated Triggers - buy a full license for the Flow Owner (Flow Bundle or User) and watch number of runs in case additional API run capacity needs to be purchased. A goal here is to potentially limit the requires licenses to one or two at most. 
+
+3. For Instant Triggers - buy a full license for each user that will invoke the specific flow if it requires a connector not included with the seeded applications (Office 365, Dynamics) or is premium. The choice point of per user verss Bundle flow will be the cost per flow. This can be the more complex decision as considerations must be made against the cost per user running up against the cost for Flow Bundles which start at 5 and increment by 1.  
+
+4. In the case of the Power Apps Trigger (a type of Instant Trigger) - the most common Instant Trigger is the **Power Apps trigger**, but any Power App that calls a Power Apps Trigger must have premium license for the premium connector used in the Flow and the Power Apps premium license for the end user includes premium flows used as part of that Power App. In this particular case additional purchases of flow licensing is not necessary, since it must be included in the Power Apps premium license.
+
+#### Nuances affecting the choices
+
+It is important to understand that Flow is based on Azure LogicApps as alluded to earlier in this section.  Flow is &#39;consumption based&#39; but priced in a per-user basis while it also must bridge between the serverless products and other Cognitive based, cost/user systems like CDS.  
+
+As Office 365 is per user based, the license considerations for Flow runs are vastly simplified thanks to the Seeded License described earlier.  Dynamics 365 licenses, for example, includes all premium connectors by virtue of its high per user costs effectively covering any remaining services not covered with Office 365.  
+
+#### Practical application
+
+A simple discussion of flow licensing without practical examples tends to over inflate flow licensing costs. In reality,  flow license purchases should be based on specific environment needs as it will typically be a handful of premium accounts required to run the premium automated flows.
+
+Simply put, if 5000 people write to a SharePoint list and there is a SharePoint automated trigger that runs a premium flow license, only 1 premium license is required on that flow.
+
+#### The case for the Full/Premium License in Power Automate versus LogicApps
+
+One premium flow license per month packs a lot more value than running multiple LogicApps that do the same thing. Automated trigger check polling of SharePoint lists are free in Flow but costs a small amount in LogicApps per trigger check.
+
+There are other bigger reasons to get more premium flows. In the case AI Builder, for example, the bundle price may be appealing. When high numbers of flow runs are used API limits may be hit and the purchase of additional API capacity may be required. A best practice in a developer/test/production environment set is to use service accounts with premium licenses used but those flows.
+
+Another important situation is for per-user license pieces such as CDS outside of Dynamics 365.  The Licensing Guide document mentions the concept of &#39;multiplexing&#39; which applies in the same manner as traditional licensing in SQL Server scenarios. So while technically 1 premium license could be used to write to CDS, it would be a multiplexing violation of the CDS license. Other products does not have this requirement.
+
+In one more example, given that a citizen developer creates two Flows (Flow 1 and Flow 2) in an Office 365 E3 environment using a SharePoint form to trigger the first flow (Flow 1) and given that the flow uses the HTTP connector to trigger the second flow (Flow 2 e.g. Graph API REST call) where there are 10 users with permissions to run the form, **only the author** of the flow needs to have the premium\full license rather than a license for each of the 10 SharePoint form users.  It this was an approval workflow where a step inlcuded approvals, the people approving would also not need licenses as the flow is considered a single instance through its completion and is, in effect, already paid for.  
+
+### Additional considerations
+
 For the citizen developer, awareness of all aspects can make a big difference when creating and even justifying a solution in the same manner as for a regular developer or solutions architect.  As the saying goes, &quot;Nothing is for free&quot; but deep understanding in this case can at least mitigate much of those costs or at least help put a definitive price tag on those benefits derived from the effort.  It follows from this point and based on recent experience that one must keep up with changes in tis area on the same level as changes in capability and functionality within the Power Platform suite.  Tenant administrators get the benefit of notification through the message system in their administration application while others would benefit from setting up alerts or reminders to the Power Platform docs and blogs here and in the community.
 
 As a final note, recall early when it was noted that prices may vary from region to region as well as agreement to agreement.  Variations notwithstanding, the final arbiter of the price will be Microsoft and with that comes the opportunity to confirm arrangements with them directly or through your IT&#39;s Microsoft contact or representative. When dealing with Microsoft do consider that the major change between the older licensing scheme and the current one is that the customer is rewarded for using the system more that those who create the odd Power App or flow very infrequently.  It is the case of buying a car to only use it to bring the beloved pet to the Pet hospital once a quarter for their check up or to go to work every day – on the latter, there may be wear and tear on the vehicle but there is also very measurable and significant return on investment for the benefit it brings to the household salary.
 
+## Credits
+Much of the information is based on various Ignite sessions as well as the key licensing document noted earlier.  Additional contributions include John Lui for putting into context they key guidance details that should always accompany any formal discussion of this topic as well as Charles Lamanna (@clamanna) Microsoft CVP for his confirmation response to @singhgurd used in the second example. 
+
+This is living documentation with all updates, confirmations, clarifications, objections and sample scenario contributions welcome! 
+
 ---
 
 **Principal author**: [Ralph Rivas](https://www.linkedin.com/in/ralphrivas/)
+
+
