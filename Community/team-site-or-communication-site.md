@@ -9,6 +9,8 @@ ms.collection:  SPCommunity
 ---
 # Teams Site vs. Communication Site: Which one should I choose?
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 Choosing between a [team site](https://support.office.com/en-ie/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) and a [communication site](https://support.office.com/en-gb/article/what-is-a-sharepoint-communication-site-94a33429-e580-45c3-a090-5512a8070732) should start with your intent and desired business outcomes. Though there are nuances to explore, at the most basic, think about these two use cases:
 
 - **Connect, Collaborate, Create:** When you want to create a place where the members of a work group or project team can collaborate on project deliverables, plan an event, track status, or exchange ideas, you want a **Team Site**. In a Team Site, **all members are content authors** where we jointly create and edit content. Think of team sites as a place where work gets done. My project team needs a place to collaboratively work on deliverables. Even though we have individual assignments, we are collectively collaborating to create one or more assets. Our project team needs a Team Site.

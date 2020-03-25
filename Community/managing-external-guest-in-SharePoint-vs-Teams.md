@@ -9,6 +9,8 @@ ms.collection:  SPCommunity
 ---
 # Managing External Guests in SharePoint vs Teams
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 "Guest", such a beautiful word. In my humble opinion Guest Users is one of the most valuable assets we have, and learning how to best collaborate with Guest users is an essential skill set.
 
 Lucky for us Microsoft with the continuous innovations in Office 365 makes the process more seamless everyday.
@@ -36,7 +38,7 @@ In the Office 365 Central Administration center:
 At basic level Office 365 Groups have two permissions settings:
 
 1. Owner | Full control of the Group, and Site Collection Administrator of the backend SharePoint Site
-2. Member | Edit permission to the Group, and member with "Contribute" rights to the backend SharePoint Site  
+2. Member | Edit permission to the Group, and member with "Edit" rights to the backend SharePoint Site  
 
 SharePoint permission groups, on the other hand, provide more granularity:
 
@@ -107,6 +109,16 @@ Imagine you have a "Private Project Team", that is restricted to members, and yo
 * In SharePoint, use the new "External user report" in Site Analytics to verify
 
 ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest09.png)
+
+
+## Block guest access to certain Teams 
+Now and then you will need to make sure that Guest users can't be invited to a certain Team by accident, for example the HR or Finance Team. 
+
+Folow the guide below to achive this, as pr. my knowledge you will need Global administrator right to achieve this.
+
+
+* [Block guest accesss to Team](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide#block-guest-users-from-a-specific-group)
+
 
 ## Useful resources
 

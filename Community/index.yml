@@ -87,6 +87,12 @@ landingContent:
             url: machine-learning-and-managed-metadata.md
           - text: Designing your solution for scale
             url: designing-solution-for-scale.md
+          - text: Understanding Power Platform Licensing
+            url: powerplatformlicensingforcitizendeveloper.md
+          - text: Identifying Your SharePoint Champions
+            url: identifying-your-sharepoint-champions.md
+          - text: Empowering Your SharePoint Champions
+            url: empowering-your-SharePoint-champions.md
   
   # Card
   - title: Useful Scenarios
