@@ -10,6 +10,8 @@ ms.collection: SPCommunity
  
 # Identifying Your SharePoint Champions
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 Many organizations have a small team supporting all aspects of their environment from break/fix through development of new solutions. There is not enough time in the day to add crucial change management tasks to ensure adoption on top of this already heavy workload, so it is commonly skipped. This risks engagement, adoption, clear insight into departmental challenges, and maintaining open communication for collaborative development.
 
 There are hidden champions within your organization to help with these challenges if you know the right places to look. They are not necessarily the same people as your site owners though they can be. Here are some places to look for your champions:

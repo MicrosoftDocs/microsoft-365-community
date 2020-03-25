@@ -9,6 +9,8 @@ ms.collection:  SPCommunity
 ---
 # Understanding Power Platform Licensing
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 ## Overview
 
 ### About this article

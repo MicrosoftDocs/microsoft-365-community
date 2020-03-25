@@ -9,6 +9,8 @@ ms.collection: SPCommunity
 ---
 # Importing data into SharePoint
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 This guide will help users understand the various options available to import files and data into SharePoint. We cover several different approaches:
 
 | Method | Type of User |

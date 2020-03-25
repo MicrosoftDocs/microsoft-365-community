@@ -9,6 +9,8 @@ ms.collection: SPCommunity
 ---
 # Designing your solution for scale
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 ## Introduction
 
 This article refers to design considerations of scaling your solutions, for example, in this scenario - you have built your solution and tested on a site or library, you have demoed to your boss, they are very happy and then he goes "Hey now, great solution, can you get this out to 1,000 sites please?".

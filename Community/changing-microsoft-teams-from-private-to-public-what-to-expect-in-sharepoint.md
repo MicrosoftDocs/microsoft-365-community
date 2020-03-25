@@ -9,6 +9,8 @@ ms.collection: SPCommunity
 ---
 # Changing Microsoft Teams from Private to Public, what to expect in SharePoint?
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 ## Privacy settings
 
 As you may already know, when creating a [Microsoft Teams](https://products.office.com/en-gb/microsoft-teams/group-chat-software), you can choose the privacy settings to be:

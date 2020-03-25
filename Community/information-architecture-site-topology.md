@@ -9,6 +9,8 @@ ms.collection:  SPCommunity
 ---
 # Information Architecture - Site Topology
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 With the advent of modern pages in SharePoint Online, the classic top-down site topology, as we know it, has evolved to a flat structure that is designed to adapt to your changing organizational structure and content.
 
 ## What we mean by *site topology*

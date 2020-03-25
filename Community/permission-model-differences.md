@@ -9,6 +9,8 @@ ms.collection:  SPCommunity
 ---
 # Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions.
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 ## Basic Idea
 When you're a Site Owner of a SharePoint Site Collection, you should ask yourself - *Is this SharePoint site collection associated with a modern Office 365 Group*?
 
