@@ -10,6 +10,8 @@ ms.collection: SPCommunity
  
 # Empowering Your SharePoint Champions
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 What is so different about a SharePoint champions group than a site owner's group? It depends on your organization. Some companies may have a different level of expectations for site owners that is focused on focusing on content management to keep the intranet up to date with valuable information supporting the governance plan. SharePoint champions can also be Site Owners though they are dedicated to contributing to the roadmap of Office 365 at your organization. They are interested in providing feedback, testing beta releases for new solutions, and sharing their knowledge with the company to drive engagement in the platform.
 
 ## Get feedback on what they need to achieve
