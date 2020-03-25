@@ -9,6 +9,8 @@ ms.collection:  SPCommunity
 ---
 # Information Architecture - Managed Metadata versus Lookup columns
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 Before we jump to the topic at hand, a little recap of the terminology involved:
 
 * Metadata: means information about something, in SharePoint usually information about documents, pages or list items

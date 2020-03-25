@@ -9,6 +9,8 @@ ms.collection:  SPCommunity
 ---
 # Auto Apply Retention Labels in Office 365 Using Content Types and Metadata
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 I think we all agree automating as much retention as possible is a good thing. The less we have to rely on information workers to manually apply a retention label, the better. The information architecture you've diligently defined in your tenant can now be leveraged using auto-apply conditions to automatically set an Office 365 retention label.
 
 > Microsoft has announced machine learning trainable classifiers to help with the growing amount of corporate "dark data" (not within a well-defined information architecture). This will apply out-of-the-box and custom classifiers to intelligently apply retention across your tenant by classifying content based on meaning and context. These will not be covered in this post.

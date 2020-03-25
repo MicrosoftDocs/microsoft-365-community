@@ -9,6 +9,8 @@ ms.collection:  SPCommunity
 ---
 # Library scenarios
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 This guide will provide scenario-based guidance for the planning of SharePoint document libraries.
 
 ## Functional group scenario

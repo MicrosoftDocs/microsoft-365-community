@@ -9,6 +9,8 @@ ms.collection:  SPCommunity
 ---
 # What is a Site Column?
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 ## Basic Idea
 
 A Site Column is a template of a configured column.  By creating a Site Column, you can reuse it anywhere else in the site and not have to manually rebuild its configuration at each reuse.  

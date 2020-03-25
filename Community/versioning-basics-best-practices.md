@@ -9,6 +9,8 @@ ms.collection:  SPCommunity
 ---
 # Versioning in SharePoint
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 ## Basic Idea
 
 Document collaboration, co-authoring, and List updates with human beings is much better with Versioning enabled. People make mistakes, and Versioning provides the safety net.

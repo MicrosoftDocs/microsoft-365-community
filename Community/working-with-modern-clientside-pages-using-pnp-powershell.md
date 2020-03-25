@@ -9,6 +9,8 @@ ms.collection:  SPCommunity
 ---
 # Working with modern client-side pages using PnP PowerShell
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 If you need to work with SharePoint Online, whether it's doing some minor modifications or building a custom SharePoint provisioning solution, PnP PowerShell is one of the greatest tools there is. It will certainly help you achieve your goals. PnP is a lot more than just PowerShell, but since I'm an IT-Pro at heart, PowerShell is the number one tool I have in my toolkit.
 
 First things first, if you are unfamiliar or new to PnP, head over to the PnP PowerShell overview to get introductions and guidance on how to setup this.
