@@ -1,7 +1,5 @@
 # Welcome to the Microsoft 365 Community Docs
 
-![M365 Community Docs](Community/media/microsoft-365-community/M365Community1-600px.png "M365 Community Docs")
-
 > [!TIP]
 > * This repo backs the [Microsoft 365 Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/) content. If you have suggestion or corrections, read on...
 > * If you just landed here, and you have no idea what GitHub is, please go to [Getting Started](Community/getting-started.md). If you'd like to learn even more about how to use Github in this context, visit the [Sharing Is Caring Initiative](https://pnp.github.io/sharing-is-caring/).
