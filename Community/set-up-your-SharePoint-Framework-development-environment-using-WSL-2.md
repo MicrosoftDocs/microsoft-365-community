@@ -13,12 +13,12 @@ ms.collection:  SPCommunity
 
 The purpose of this guide is to help document the steps that are required to set-up your development environment for SharePoint Framework using WSL 2. Windows Subsystem for Linux (WSL) is a new Windows 10 feature that enables you to run native Linux command-line tools directly on Windows, increase file system performance, increase the build time of your projects and many more. 
 
-Follow this Microsoft Docs to know what is [WSL](https://docs.microsoft.com/en-us/windows/wsl/faq)
+Follow this Microsoft Docs to know what is [WSL](https://docs.microsoft.com/windows/wsl/faq)
 
-Follow this Microsoft Docs to know about [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-about)
+Follow this Microsoft Docs to know about [WSL 2](https://docs.microsoft.com/windows/wsl/wsl2-about)
 
 ##### _Note_
-> Follow [Installation Instructions for WSL 2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install) to install and start using WSL 2 to complete the following steps.
+> Follow [Installation Instructions for WSL 2](https://docs.microsoft.com/windows/wsl/wsl2-install) to install and start using WSL 2 to complete the following steps.
 
 ### Install WSL Distro from Microsoft Store
 
