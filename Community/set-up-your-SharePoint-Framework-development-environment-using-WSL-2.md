@@ -1,3 +1,12 @@
+---
+title: Set up your SharePoint Framework development environment using WSL 2
+author: sudharsank
+ms.date: 4/8/2020
+ms.reviewer:  
+localization_priority: 
+description:  Set up your SharePoint Framework development environment using WSL 2
+ms.collection:  SPCommunity
+---
 # Set up your SharePoint Framework development environment using WSL 2
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
