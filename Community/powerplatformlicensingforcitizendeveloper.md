@@ -79,8 +79,6 @@ The following set of points discuss the license differences:
   - User with a license can run unlimited number of apps
   - Also known simply as the &quot;Per User Plan&quot;
   - Standard, Premium and Custom Connectors included
-  - User with a license runs up to two specific apps
-  - Sometimes referred to as the &quot;Per App&quot; Plan
   - Standard and Premium Connectors included
   - Unlimited Access to the (single) tenant portal
   - Access to on premises resources via a data gateway
