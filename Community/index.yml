@@ -103,6 +103,8 @@ landingContent:
             url: library-scenarios.md
           - text: Using site designs to manage project life cycles
             url: site-design-life-cycle.md
+          - text: Working with Cascading Lists in SharePoint and Power Apps
+            url: working-with-cascading-lists-in-sharepoint-and-powerapps.md
 
   # Card
   - title: Automation
