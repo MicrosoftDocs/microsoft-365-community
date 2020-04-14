@@ -1,4 +1,4 @@
-# Working with cascading lists in SharePoint and Power Apps
+# Working with Cascading Lists in SharePoint and Power Apps
 
 This example shows how you can cascade SharePoint lists and only show a subset of the data.
 
