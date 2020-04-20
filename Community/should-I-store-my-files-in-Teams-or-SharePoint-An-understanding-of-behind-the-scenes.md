@@ -1,11 +1,20 @@
+---
+title: Should I store my files in Microsoft Teams or in SharePoint? An understanding of behind the scenes
+author: veronicageek
+ms.reviewer:  Joanne Hendrickson
+localization_priority: 
+description: "Should I store my files in Microsoft Teams or in SharePoint? An understanding of behind the scenes"
+ms.collection:  SPCommunity
+---
+
 # Should I store my files in Microsoft Teams or in SharePoint? An understanding of behind the scenes
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
 To use a product efficiently, it's important to understand a minimum about it. What it does, what can you do with it, what are the limitations, etc.
 
-[Microsoft Teams](https://products.office.com/en-gb/microsoft-teams/group-chat-software) is the hub for teamwork. It allows for collaboration, chat, calls, meetings, and so much more!
-[SharePoint Online](https://products.office.com/en-gb/sharepoint/collaboration) is _primarily_ a document management and intranet platform where you store, collaborate, and share information seamlessly across the organization, and is also part of Microsoft 365.
+[Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) is the hub for teamwork. It allows for collaboration, chat, calls, meetings, and so much more!
+[SharePoint Online](https://products.office.com/sharepoint/collaboration) is _primarily_ a document management and intranet platform where you store, collaborate, and share information seamlessly across the organization, and is also part of Microsoft 365.
 
 Note the key word here being **collaboration**. So it's no surprise that they would interact with each other in some way.
 
@@ -27,7 +36,7 @@ As you can see above, a site is created to store your documents. Meaning that ea
 
 The exact location depends on which Team channel you share(d) them in. By default, there's a _General_ channel (which can't be deleted), and the files shared in this channel will be stored in the SharePoint site, in the _Documents_ library, within the _General_ folder. If you create a Team channel called "Project A", files shared in this channel will be stored in SharePoint under the folder called "Project A", and so on...
 
-_This applies to 'Standard' channels. Private channels have a different architecture which consists in having a separate site with different permissions from the Team. More information is available on the official Microsoft documentation: [Private Channels in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/private-channels)_.
+_This applies to 'Standard' channels. Private channels have a different architecture which consists in having a separate site with different permissions from the Team. More information is available on the official Microsoft documentation: [Private Channels in Microsoft Teams](https://docs.microsoft.com/microsoftteams/private-channels)_.
 
 ![mmd](media/should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes/TeamsGeneral.png)
 
