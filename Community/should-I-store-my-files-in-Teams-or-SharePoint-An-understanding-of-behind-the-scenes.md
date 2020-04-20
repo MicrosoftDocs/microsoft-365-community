@@ -56,16 +56,16 @@ Another way from Microsoft Teams would be to open the associated site directly.
 If you are in the _Posts_ tab of a channel, click on the ellipses (...) on the top right corner under your profile picture, and select **Open in SharePoint**. You'll then be redirected to the folder containing your files/documents.
 
 In case you only want to open a specific file, this is also possible.
-This time, navigate to the _Files_ tab of the channel, click on the ellipses (...) next to the file itself, and select **Open in SharePoint**. Although you'd think it would filter the view for only that document, but unfortunately it isn't.
+This time, navigate to the _Files_ tab of the channel, click on the ellipses (...) next to the file itself, and select **Open in SharePoint**. Although you'd think it would filter the view for only that document, but unfortunately it doesn't.
 
 **Accessing via SharePoint Online**
 If you feel comfortable in using the SharePoint Online interface, feel free to go directly to the site. The common URL is structured like this: `https://<tenant-name>.sharepoint.com/sites/<Team-name>/Shared%20Documents/<channel-name>`
 
-The site should also appear in your SharePoint home page, with all the other sites you have access to.
+The site should also appear in your SharePoint home page, along with all the other sites you have access to.
 
 ## Who can access or see my files?
 
-What is called _security trimming_ where users can view and search only content they've got access to, is totally respected between Microsoft Teams and SharePoint Online. Therefore, when you add / remove users from a Team, their access is also removed from the SharePoint site.
+As with all content in Microsoft 365, _security trimming_ applies to these files. Users can view and search only content they have access to, which is totally respected between Microsoft Teams and SharePoint Online. Therefore, when you add or remove users from a Team, their access is also added or removed from the SharePoint site.
 
 ## Are my changes reflected?
 
