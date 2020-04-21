@@ -11,6 +11,8 @@
 ### [Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions.](permission-model-differences.md)
 ### [Importing Data](importing-data.md)
 ### [Benefits of using PowerShell with SharePoint](benefits-of-using-powershell-with-sharepoint.md)
+### [Identifying Your SharePoint Champions](identifying-your-sharepoint-champions.md)
+### [Empowering Your SharePoint Champions](empowering-your-SharePoint-champions.md)
 ## Information Architecture
 ### [Information Architecture - Site Topology](information-architecture-site-topology.md)
 ### [Information Architecture - Managed Metadata vs Lookup columns](information-architecture-managed-metadata-vs-lookup-column.md)
@@ -23,8 +25,7 @@
 ### [Can Machine Learning be used to assign managed metadata attributes for items?](machine-learning-and-managed-metadata.md)
 ### [Designing your solution for scale](designing-solution-for-scale.md)
 ### [Understanding Power Platform Licensing](powerplatformlicensingforcitizendeveloper.md)
-### [Identifying Your SharePoint Champions](identifying-your-sharepoint-champions.md)
-### [Empowering Your SharePoint Champions](empowering-your-SharePoint-champions.md)
+### [Should I store my files in Microsoft Teams or in SharePoint?](should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md)
 ## Useful Scenarios
 ### [Library Scenarios](library-scenarios.md)
 ### [Using Site Designs to Manage Project Life Cycles](site-design-life-cycle.md)
