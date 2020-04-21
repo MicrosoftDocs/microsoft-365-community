@@ -4,16 +4,28 @@ In any technology or programming language, there are generally accepted better p
 
 This article outlines some suggested approaches to naming conventions and how to think about bringing that consistency to your solutions. Treat it as a set of suggestions which, when followed, will lead to more maintainable and consistent solutions. However, it's also a set of suggestions, so feel free to take this set of suggestions and adapt it for your own use.
 
+## Overview
+
 ## Common Data Service (CDS)
 
 ### Solution Prefix
 
+The solution prefix helps you identify fields which are custom for your solution.
+
 ### Entities
+
+Entities are always nouns. Each entity has a singular and a plural name.
+
+This is similar to the way you should name Content Types in SharePoint: a Content Type name is singular, the place you store them is plural.
 
 ### Fields
 
+Fields are attributes of Entities. They describe something about the Entity. Examples might include: `CustomerName`, `IsConfirmed`, or `ReceivedOn`.
+
 ### Boolean
 
-Name your boolean fields with a verb, such as IsActive or HasSales.
+Boolean fields are either true or false; yes or no, 1 or 0. They have only two states.
+
+Name your boolean fields with a verb, such as `IsActive` or `HasSales`.
 
 ## Model-Driven Apps
