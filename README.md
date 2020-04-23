@@ -1,8 +1,8 @@
 # Welcome to the Microsoft 365 Community Docs
 
 * This repo backs the [Microsoft 365 Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/) content. If you have suggestion or corrections, read on...
-* If you just landed here, and you have no idea what GitHub is, please go to [Getting Started](wiki/Getting-Started). If you'd like to learn even more about how to use Github in this context, visit the [Sharing Is Caring Initiative](https://pnp.github.io/sharing-is-caring/).
-* If you have been here before and would like instructions on how to add content, please go to [Adding Content](wiki/Adding-Content).
+* If you just landed here, and you have no idea what GitHub is, please go to [Getting Started](https://github.com/MicrosoftDocs/microsoft-365-community/wiki/Getting-Started). If you'd like to learn even more about how to use Github in this context, visit the [Sharing Is Caring Initiative](https://pnp.github.io/sharing-is-caring/).
+* If you have been here before and would like instructions on how to add content, please go to [Adding Content](https://github.com/MicrosoftDocs/microsoft-365-community/wiki/Adding-Content).
 * Curious what types of articles we have here? Check out the [Community Table of Contents](Community/TOC.md) in the Community section.
 
 ## Introduction
