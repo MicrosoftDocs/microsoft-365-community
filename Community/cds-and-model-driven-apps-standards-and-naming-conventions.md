@@ -1,3 +1,13 @@
+---
+title: CDS and Model-Driven Apps Standards and Naming Conventions
+ms.date: 4/21/2020
+author:  sympmarc
+ms.reviewer:  Joanne Hendrickson
+localization_priority: 
+description: "CDS and Model-Driven Apps Standards and Naming Conventions"
+ms.collection: SPCommunity
+---
+
 # CDS and Model-Driven Apps Standards and Naming Conventions
 
 In any technology or programming language, there are generally accepted better practices when it comes to naming conventions, thinking about data structures, etc. It's no different with the Power Platform. Even if you are the lone person working on a solution, future you will appreciate following some consistent standards. If you are a part of a team, then that team should agree on a set of standards.
