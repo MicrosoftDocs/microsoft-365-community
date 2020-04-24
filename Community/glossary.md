@@ -31,6 +31,12 @@ See [SharePoint Framework](#sharepoint-framework)
 
 ## C
 
+### Camel Case
+
+In programming, Camel case is the practice of naming variables or controls by capitalizing all words except the first, giving the name a look like a camel's hump. Examples: `iPad`, `intQuantity`, `myEmailAddress`.
+
+See [Wikipedia](https://en.wikipedia.org/wiki/Camel_case). Also see [Pascal Case](#pascal-case)
+
 ### CAML (Collaborative Application Markup Language)
 
 An XML fragment used by SharePoint to define the internal structure of sites, lists, fields, views and content types, declaratively, also used to query data in SharePoint lists to selectively retrieve data.
@@ -213,9 +219,15 @@ Capabilities included with SharePoint without writing any code or doing heavy li
 
 ## P
 
-### Patterns and Practices
+### Pascal Case
 
-Patterns and Practices is an open-source initiative coordinated by SharePoint engineering. This community controls SharePoint development documentation, samples, reusable controls, and other relevant open-source initiatives related to SharePoint development.
+In programming, Pascal case is the practice of naming variables or controls by capitalizing all words. Examples: `TotalQuantity`, `EmailAddress`, `ShippingPlant`.
+
+See [Wikipedia](https://en.wikipedia.org/wiki/Camel_case). Also see [Camel Case](#camel-case)
+
+### Patterns and Practices (PnP)
+
+Patterns and Practices (PnP) is an open-source initiative coordinated by SharePoint engineering. This community controls SharePoint development documentation, samples, reusable controls, and other relevant open-source initiatives related to SharePoint development.
 
 ### Permission Level
 

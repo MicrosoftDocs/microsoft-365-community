@@ -38,10 +38,10 @@ Related field logical names should be suffixed with `id`. As an example, a many-
 
 Relationship table names should be renamed to `pub_measure_N1_session`.
 
+#### Date Fields
+
 #### Boolean Fields
 
-Boolean fields are either true or false; yes or no, 1 or 0. They have only two states.
-
-Name your boolean fields with a verb, such as `IsActive` or `HasSales`.
+Boolean fields are either true or false; yes or no, 1 or 0. They have only two states. Name your boolean fields with a verb, such as `IsActive` or `HasSales`.
 
 ## Model-Driven Apps
