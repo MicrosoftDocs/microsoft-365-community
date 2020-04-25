@@ -1,13 +1,13 @@
 ---
-title: Why SharePoint Training is important
+title: Why SharePoint Training is Important
 author: veronicageek
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
-description: "Why SharePoint Training is important"
+description: "Why SharePoint Training is Important"
 ms.collection:  SPCommunity
 ---
 
-# Why SharePoint Training is important
+# Why SharePoint Training is Important
 
 ## Share what?
 
@@ -40,7 +40,7 @@ And we're only scratching the surface!
 
 ## Integration with other apps
 
-If you're using Microsoft 365, you've surely heard about [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software), [PowerApps](https://powerapps.microsoft.com/en-us/), [Power Automate](https://flow.microsoft.com/en-us/), etc... Well, they all integrate with SharePoint. So you can imagine the extent of the possibilities 🙂
+If you're using Microsoft 365, you've surely heard about [Microsoft Teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software), [PowerApps](https://powerapps.microsoft.com/), [Power Automate](https://flow.microsoft.com/), etc... Well, they all integrate with SharePoint. So you can imagine the extent of the possibilities 🙂
 
 That being said, we also don't want to scare the users. The **goal** is to allow them to work efficiently, taking into consideration that 'The Cloud' is likely a new way of working for most of them, with a product that the higher management decided to go for.
 
@@ -51,7 +51,7 @@ You can't just 'throw users into the wild' and hope for the best, can you? Well,
 
 ![mmd](media/why-sharepoint-training-is-important/NoTrainingVisualization.png)
 
-[Microsoft 365](https://www.microsoft.com/en-gb/microsoft-365) is a subscription-based platform with multiple products depending on the chosen plan(s). So even if you're not using SharePoint, the price will remain the same. But if you do the same for other services (_i.e.: Microsoft Teams, Power Automate, OneDrive for Business, etc..._), in the long run, it will feel like you're paying a lot of money for only 'sending emails' while **also** paying for third-party products.
+[Microsoft 365](https://www.microsoft.com/microsoft-365) is a subscription-based platform with multiple products depending on the chosen plan(s). So even if you're not using SharePoint, the price will remain the same. But if you do the same for other services (_i.e.: Microsoft Teams, Power Automate, OneDrive for Business, etc..._), in the long run, it will feel like you're paying a lot of money for only 'sending emails' while **also** paying for third-party products.
 
 ## Identify SharePoint Champions
 
@@ -67,7 +67,7 @@ Of course, they won't have the same responsibilities, or see the same interfaces
 
 >_Note: The role of SharePoint Service Admin is not in scope of this article_
 
-From the **most** privileged to the least: 
+From the **most** privileged to the least:
 
 1. SharePoint Site Collection Administrator
 2. SharePoint Site Owner (_also Super User_)
@@ -108,17 +108,16 @@ Advanced training _could_ include the following:
 - Sync a library locally
 - Sync OneDrive for Business files locally
 - Co-authoring
-- Create flows using [Power Automate](https://flow.microsoft.com/en-us/)
-- Audience targeting
+- Create flows using [Power Automate](https://flow.microsoft.com/
 - Create, edit, and customize Pages (_i.e.: webparts_)
 - Create content types
 - Create approval workflows
 - Customize Views (_i.e.: Group By_)
 - Restore deleted items from the Recycle Bin (_second stage_)
 - Enabling or disabling site features (_depending on permissions_)
-- Introduce [Microsoft 365 Groups](https://support.office.com/en-gb/article/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2?ui=en-US&rs=en-GB&ad=GB) (_renamed from Office 365 Groups_) and other integrated apps
+- Introduce [Microsoft 365 Groups](https://support.office.com/article/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) (_renamed from Office 365 Groups_) and other integrated apps
 
-Those items are a good starting point, but maybe you'll be asked to customize a SharePoint form using [PowerApps](https://powerapps.microsoft.com/en-us/)? Who knows! 😉
+Those items are a good starting point, but maybe you'll be asked to customize a SharePoint form using [PowerApps](https://powerapps.microsoft.com)? Who knows! 😉
 
 ## Is it really worth it?
 
