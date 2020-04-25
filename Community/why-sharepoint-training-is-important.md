@@ -1,3 +1,12 @@
+---
+title: Why SharePoint Training is important
+author: veronicageek
+ms.reviewer:  Joanne Hendrickson
+localization_priority: 
+description: "Why SharePoint Training is important"
+ms.collection:  SPCommunity
+---
+
 # Why SharePoint Training is important
 
 ## Share what?
@@ -111,7 +120,6 @@ Advanced training _could_ include the following:
 - Introduce [Microsoft 365 Groups](https://support.office.com/en-gb/article/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2?ui=en-US&rs=en-GB&ad=GB) (_renamed from Office 365 Groups_) and other integrated apps
 
 Those items are a good starting point, but maybe you'll be asked to customize a SharePoint form using [PowerApps](https://powerapps.microsoft.com/en-us/)? Who knows! 😉
-
 
 ## Is it really worth it?
 
