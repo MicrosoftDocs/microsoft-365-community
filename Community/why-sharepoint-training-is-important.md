@@ -11,8 +11,7 @@ ms.collection:  SPCommunity
 
 ## Share what?
 
-Yes... We hear that often. So first, let's have a _quick_ introduction.
-SharePoint is a platform. A product. You collaborate and share information across the organisation, quickly and securely. You reduce email traffic, and always have the latest version of a document or file. You can even have a beautiful Intranet!
+Yes... We hear that often. So first, let's have a _quick_ introduction. SharePoint is a platform. A product. You collaborate and share information across the organisation, quickly and securely. You reduce email traffic, and always have the latest version of a document or file. You can even have a beautiful Intranet!
 
 There are of course, many features available in SharePoint, and that's probably what makes it 'complex'. It's a complex product, no denying. But so are many other platforms, products, software, when we don't spend a minimum amount of time learning them 😉
 
