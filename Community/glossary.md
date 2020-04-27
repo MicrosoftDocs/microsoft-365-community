@@ -237,7 +237,7 @@ Custom Permission Levels can be created for business-specific scenarios, such as
 
 ### PnP
 
-See [Patterns and Practices](#patterns-and-practices-(pnp))
+See [Patterns and Practices](#patterns-and-practices-pnp)
 
 ### PowerShell
 
