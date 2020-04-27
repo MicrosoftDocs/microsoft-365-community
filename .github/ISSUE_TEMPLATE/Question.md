@@ -1,5 +1,5 @@
 ---
-name: Question
+name: ❓ Question
 about: Have a general question? Ask it here.
 title: ''
 labels: ''
