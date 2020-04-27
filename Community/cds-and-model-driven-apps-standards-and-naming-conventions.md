@@ -30,12 +30,18 @@ This is similar to the way you should name Content Types in SharePoint: a Conten
 
 ### Fields
 
-Fields are attributes of Entities. They describe something about the Entity. Examples might include: `CustomerName`, `IsConfirmed`, or `ReceivedOn`.
+Fields are attributes of Entities. They describe something about the Entity. Examples might include: `CustomerName`, `IsConfirmed`, or `ReceivedOn`. Consistency and care in naming fields is important to both give clues about how they should be used as well as a clear way to understand what values they will contain. A field name like `a123_FieldName17` provides no apparent value, whereas a field name like `Account: Address 1` does.
 
-### Boolean
+#### Related Fields
 
-Boolean fields are either true or false; yes or no, 1 or 0. They have only two states.
+Related field logical names should be suffixed with `id`. As an example, a many-to-one relationship from an entity called Measure to an entity called Session might be `pub_sessionid`.
 
-Name your boolean fields with a verb, such as `IsActive` or `HasSales`.
+Relationship table names should be renamed to `pub_measure_N1_session`.
+
+#### Date Fields
+
+#### Boolean Fields
+
+Boolean fields are either true or false; yes or no, 1 or 0. They have only two states. Name your boolean fields with a verb, such as `IsActive` or `HasSales`.
 
 ## Model-Driven Apps

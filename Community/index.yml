@@ -55,8 +55,12 @@ landingContent:
             url:  permission-model-differences.md
           - text: Importing Data
             url:  importing-data.md
+          - text: SharePoint Naming Guidelines
+            url:  sharepoint-naming-guidelines.m
           - text: Benefits of using PowerShell with SharePoint
             url:  benefits-of-using-powershell-with-sharepoint.md
+          - text: Why SharePoint Training is Important
+            url: why-sharepoint-training-is-important.md
           - text: Identifying Your SharePoint Champions
             url: identifying-your-sharepoint-champions.md
           - text: Empowering Your SharePoint Champions

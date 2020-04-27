@@ -1,5 +1,5 @@
 ---
-name: Article Issue
+name: 🐞 Article Issue
 about: See something wrong in an existing article? Suggest a fix here.
 title: ''
 labels: ''
