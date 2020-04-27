@@ -1,10 +1,20 @@
-# Naming Guidelines in SharePoint
+---
+title: SharePoint Naming Guidelines
+ms.date: 3/3/2020
+author: pkbullock
+ms.reviewer:  Joanne Hendrickson
+localization_priority: 
+description: "SharePoint Naming Guidelines"
+ms.collection:  SPCommunity
+---
+
+# SharePoint Naming Guidelines
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
 This article describes some useful guidance in naming artefacts such as sites, lists, columns and content types; this helps to avoid issues later with either technical limits, adoption and best practice.
 
-The article uses an example, an HR department requiring a SharePoint site with a set of libraries and metadata; from this, a set of examples uses this scenario.
+The article uses an example: an HR department requiring a SharePoint site with a set of libraries and metadata; from this, a set of examples uses this scenario.
 
 ## Basics
 
@@ -34,7 +44,7 @@ Display names are the visual name that users see when working with list items or
 - If you use abbreviations, expand the meaning in the description to ensure the user understands the data
 - If the title refers to the data type of the information, ensure the column data type reflects this, e.g. Number of Widgets, the data type is number not string.
 
-### Internal names
+### Internal Names
 
 In SharePoint columns, typically have multiple representations of their name, typically the Display Name and the Internal Name are the most commonly used.
 
@@ -54,15 +64,15 @@ Modern interfaces remove spaces when users with edit permissions add columns to 
 
 Internal names are limited to a specific length up to 255 Characters in SharePoint Online.
 
-### Multilingual display names
+### Multilingual Display Names
 
-Multilingual display names are stored as title resource within the field when you create a field this under the hood sets the title resource for the current language in which you created this column, e.g. Payroll ID.
+Multilingual display names are stored as title resources within the field. Under the hood, this sets the title resource for the current language in which you created this column, e.g. Payroll ID.
 
-If you change your language preference by using the user profile service, to specify your preferred language, and then rename the column, this sets this for that language. So in English Payroll ID becomes "ID y gyflogres" in Welsh, or "ID de paie" in French. Note: Bing Translator for illustration.
+If you change your language preference by using the user profile service, to specify your preferred language and then rename the column, this sets this for that language. For example, in English Payroll ID becomes "ID y gyflogres" in Welsh, or "ID de paie" in French. Note: Bing Translator for illustration.
 
 ![mmd](media/sharepoint-naming-guidelines/multilingual-fields.png)
 
-## List and Library naming
+## List and Library Naming
 
 With naming lists or libraries in the modern interface, be aware of the titles you are giving the libraries, for example, in the screenshot below, I have created a library called "Finance, HR, combined strategic team collaboration area", there are a few factors to consider:
 

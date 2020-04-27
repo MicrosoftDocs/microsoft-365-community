@@ -11,6 +11,7 @@
 ### [Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions.](permission-model-differences.md)
 ### [Importing Data](importing-data.md)
 ### [Benefits of using PowerShell with SharePoint](benefits-of-using-powershell-with-sharepoint.md)
+### [SharePoint Naming Guidelines](sharepoint-naming-guidelines.md)
 ### [Why SharePoint Training is Important](why-sharepoint-training-is-important.md)
 ### [Identifying Your SharePoint Champions](identifying-your-sharepoint-champions.md)
 ### [Empowering Your SharePoint Champions](empowering-your-SharePoint-champions.md)
