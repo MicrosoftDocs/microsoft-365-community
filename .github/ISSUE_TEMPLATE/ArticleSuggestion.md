@@ -1,5 +1,5 @@
 ---
-name: Article Suggestion
+name: 💡 Article Suggestion
 about: Wish there was an article covering a topic near and dear to you? Suggest it here.
 title: ''
 labels: ''
