@@ -56,7 +56,7 @@ landingContent:
           - text: Importing Data
             url:  importing-data.md
           - text: SharePoint Naming Guidelines
-            url:  sharepoint-naming-guidelines.m
+            url:  sharepoint-naming-guidelines.md
           - text: Benefits of using PowerShell with SharePoint
             url:  benefits-of-using-powershell-with-sharepoint.md
           - text: Why SharePoint Training is Important
