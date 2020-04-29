@@ -68,14 +68,10 @@ Lists usually only have Major versions.
 
 ### Further Reading
 
-* Microsoft: [Planning Versioning, Content Approval](https://docs.microsoft.com/en-us/sharepoint/governance/versioning-content-approval-and-check-out-planning) & [how does versioning work in a sharepoint list or library](https://support.office.com/en-us/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
+* Microsoft: [Planning Versioning, Content Approval](https://docs.microsoft.com/en-us/sharepoint/governance/versioning-content-approval-and-check-out-planning) & [How does versioning work in a SharePoint list or library](https://support.office.com/en-us/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
 * Blog: [SharePoint Maven on Versioning](https://sharepointmaven.com/5-ways-users-can-benefit-versioning-sharepoint/)
 * Blog: [ShareGate: SharePoint Version Control to the Rescue](https://sharegate.com/blog/sharepoint-version-control)
 
----
 
-Principal author: Patrick M Doran
+Principal author: [Patrick M Doran[(https://www.linkedin.com/in/patrickdoran/)
 
-LinkedIn: https://www.linkedin.com/in/patrickdoran/
-
-GitHub: [github.com/patd](https://github.com/patd)
