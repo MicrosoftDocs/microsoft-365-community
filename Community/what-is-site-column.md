@@ -15,9 +15,9 @@ ms.collection:  SPCommunity
 
 A Site Column is a template of a configured column.  By creating a Site Column, you can reuse it anywhere else in the site and not have to manually rebuild its configuration at each reuse.  
 
-When creating a new column you have a choice to either "Create column" or "Add from existing site columns".  Selecting the latter will add a replica of the Site Column to the location you are working.  Once added, you can edit it in any manner, including changing the name.  
+When creating a new column in a list or library, you have a choice to either "Create column" or "Add from existing site columns".  Selecting the latter will add a replica of the Site Column to the location you are working.
 
-You can return to a site column's configuration at any time and make changes.  Once a column has been created it does not retain any connection to the master site column it was created from.  Changes made to the "Template" do not apply to columns that are based on it.
+You can return to a Site Column's configuration at any time and make changes.  Changes you make to Site Columns are reflected in the places you have used them. This helps bring consistency to your information architecture, whether within a site or across a farm or tenant.
 
 ## Real World Example
 
