@@ -1,6 +1,6 @@
 ---
 title:  Importing data into SharePoint
-ms.date: 3/3/2020
+ms.date: 4/30/2020
 author: nyoung30
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
@@ -16,7 +16,8 @@ This guide will help users understand the various options available to import fi
 | Method | Type of User |
 | ------ | ------------ |
 | [Document Libraries – Drag and drop files and folders](#document-libraries--drag-and-drop-files-and-folders-user)| End user|
-| [Document Libraries – SharePoint Migration Tool](#document-libraries--upload-files-and-folders-user) | Power user |
+| [Document Libraries – Upload files and folders](#document-libraries--upload-files-and-folders-user) | Power user |
+| [Document Libraries – Copy to and Move to](#document-libraries--copy-to-and-move-to-power-user) | Power user |
 | [Lists – Export Spreadsheet to SharePoint](#lists--export-spreadsheet-to-sharepointpower-user) | Power user |
 | [Document Libraries – SharePoint Migration Tool](#document-libraries--sharepoint-migration-tool-power-user) | Power user |
 | [Document Libraries – Sync](#document-libraries--sync-power-user) | Power user |
