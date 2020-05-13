@@ -1,6 +1,6 @@
 ---
 title: Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions.
-ms.date: 3/3/2020
+ms.date: 5/14/2020
 author: PatD
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
@@ -39,7 +39,7 @@ It's hard *not* to spawn a SharePoint Site Collection when using the new Modern 
 
 |Traditional SharePoint Site| Site Spawned from O365 Group  | Shared with Teams, Planner, Outlook, etc|
 |--|--|--|
-| Owners | Owners   | Yes
+| Owners | Owners   | No
 | Members | Members | Yes
 | Designers| n/a | No
 | Contributors | n/a | No
