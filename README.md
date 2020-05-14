@@ -21,6 +21,12 @@ If you are looking for documentation about something which you feel fits this mo
 * Suggest an article or set of articles you've seen in blogs or other electronic formats which you think start(s) to get at the issue and might make a good addition here.
 * Write something to fill the gap. Whether it's a germ of an explanation or a full-fledged article, whatever you write can add value to the repository.
 
+## Updates & Feedback
+To Keep track of Mucrosoft 365 Community Docs updates, please take a look at:
+
+* Please tweet us at [@M365CommDocs](https://twitter.com/M365CommDocs) with the [#M365CommunityDocs](https://twitter.com/hashtag/M365CommunityDocs) tag
+* [Microsoft 365 Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/)
+
 ## Have Fun
 
 While we want the content in this repository to be extremely useful, it doesn't need to be dry and flavorless. We want to characterize the feel and joy of getting things done well in addition to the mechanics. Specific examples or analogies can be very useful to make this happen.
