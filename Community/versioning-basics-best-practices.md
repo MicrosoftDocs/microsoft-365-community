@@ -1,6 +1,6 @@
 ---
 title: Versioning in SharePoint
-ms.date: 3/3/2020
+ms.date: 5/14/2020
 author: PatD
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
@@ -68,14 +68,18 @@ Libraries can have both Major versions, which are represented with whole numbers
 
 Lists usually only have Major versions.
 
+> [!NOTE]
+> When you create a new version of a document, [the incremental changes are stored in SQL Server](https://docs.microsoft.com/sql/relational-databases/track-changes/about-change-data-capture-sql-server?view=sql-server-2017), rather than a completely new copy of the document. This provides the most efficient storage and helps reduce overall storage requirements.
+
 ## Best Practices and Versioning Trivia
 
 * The Version column in SharePoint Views is sometimes not a number column. If you sort it, version 12 shows up in between version 1 and 2.
 * It is a best practice to enable Versioning in a *list* at creation and not set a limit of major versions. It takes up very little space, and your end users will thank you for it.
-* In an average SharePoint On Premise farm, setting document library versions to 10 major and 10 minor has, in practice, been enough for any group that can't define how many versions they need.
+* In an average SharePoint On Premise farm, setting document library versions up to 10 major and 10 minor has, in practice, been enough for any group that can't define how many versions they need.
 * A deleted and then restored file/list item maintains its old versions.
 * In a list with versioning enabled, attachment changes are not versioned.
 * Limiting the number of versions is generally a good practice. It means you can conserve space on the server and reduce clutter for users. But, if your organization is required to save all versions for legal or other reasons, don’t apply any limits.
+
 
 ### Further Reading
 
