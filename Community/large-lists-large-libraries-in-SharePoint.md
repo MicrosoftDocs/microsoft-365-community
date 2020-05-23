@@ -47,7 +47,12 @@ ms.collection: SPCommunity
 
 ## Best practices and strategies for building and operating large SharePoint Lists and Libraries well above the item limit threshold.
 
-  
+
+#### tl;dr
+
+ - The best-case architecture of any SharePoint List or Library is to keep it under 5000 items.  **Your users don't care about this one bit.**  Word doesn't limit you to 500 words. Excel doesn't limit you to 50 columns. As site owner, you need to be on top of this.   
+ - Apply remedies *way before* 5000 items.
+ - *Modern* receives incremental improvements over time (*Classic* is stagnant), but there will always be some kind of limit.  No matter how far the needle is moved, you're users will be ready to add more stuff.
 
   
 ### SharePoint Myths
@@ -141,6 +146,8 @@ Depending on your scenario, absolutely. SharePoint Search doesn't care about the
 >  **Search-Only Example:**
 > The article author currently manages a folderless SharePoint Library with 450,000 PDF files in it. Those files are uploaded to the library through an external process. Each file has a meaningful file name, and the customer uses SharePoint Search to find just the document they need instantly. They'll never sort or filter the library, or edit the documents, so this scenario works just fine. No columns are indexed.
 
+## Can Grouped-By Filtered Views help me here?
+Not in a consistently helpful way.  There are too many variables here to make a solid recommendation either way.  Read Joanne Klein's excellent [deep-dive](https://joannecklein.com/2017/07/25/sharepoint-online-list-view-threshold/) into this for more information.
   
 
   
@@ -216,6 +223,11 @@ This library has 25,000 documents in it.  Each day a **folder** is created and s
 | Created | Date | Yes
 | Created By | Person | Yes   
 
+Default view of folders could be in batches of something like 30-50. And definitely less than 5000.  
+
+> **Folders, Document Sets**
+>Remember, folders count as items when calculating the threshold.
+
 The model will work great for years.  Each folder acts as sort of a reset on the Item Limit Threshold for the default view.   New folderless flat-Views can easily be created using the columns you've indexed.
 
 
@@ -237,7 +249,7 @@ The model will work great for years.  Each folder acts as sort of a reset on the
 
   
 * Blog: [SHAREPOINT ONLINE LIST VIEW THRESHOLD](https://joannecklein.com/2017/07/25/sharepoint-online-list-view-threshold/)
-* 
+
 * Blog: [Deleting a Very Large SharePoint List](https://sympmarc.com/2017/03/27/deleting-a-very-large-sharepoint-list/)
 
   
