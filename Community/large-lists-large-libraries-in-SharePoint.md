@@ -53,7 +53,7 @@ ms.collection: SPCommunity
  - Above 5000 is possible with planning and some feature restrictions.
  - If you can make it Modern, you should.
  - Apply remedies *way before* 5000 items.
- - The best-case architecture of any SharePoint List or Library is to keep it under 5000 items.  **Your users don't care about this one bit.**  Word doesn't limit you to 500 words. Excel doesn't limit you to 50 columns. As site owner, you need to be on top of this.   
+ -  **Your users don't care about this limitation one bit.**  Word doesn't limit you to 500 words. Excel doesn't limit you to 50 columns. As site owner, you need to be on top of this.   
  - If your List or Library is at 3500 items, fair chance it'll hit 5001 when you're on vacation.
   
 ### SharePoint Myths
@@ -79,6 +79,7 @@ If you've operated sites with SharePoint Lists or Libraries for any amount of ti
 >  **The Limit is only the View**
 > As a Site Owner, it's best to keep in mind that when the threshold is exceeded, it's a problem with presenting the *View* and not the List/Library contents. All the data is still there, it just can't be displayed. Mentally, separate the (Items, Documents) from the presentation (Views) to help you pick the best solution.
 
+It's easy to check the number of items or documents in a List or Library.  Either check in Site Contents, or look in the List/Library Settings.  A blue bar will appear there if the List/Library is getting close to the limit. 
   
 
   
@@ -105,7 +106,11 @@ With experience, you'll be able to smell a list that'll grow to exceed the limit
 
 * If the List is tied to a Flow, Workflow, or Timer Job - any scenario where the list is not updated by humans.
 
-  
+> **Monitoring**
+Your workplace may have some sort of fancy third-party monitoring tools to report on item/document totals.  If you're not so lucky, you as a Site Owner can set weekly Email Alert Notifications on the List/Library to keep an eye on things.  It's not true reporting, but you'll be able to see trends in Lists.
+
+
+
 
 ## Are things different with Modern versus Classic Lists/Libraries?
 They are.  Let's compare:
@@ -117,7 +122,8 @@ They are.  Let's compare:
 | On Prem 2016 | 5000 | Yes* | Yes | No | Available**
 | On Prem 2019 | 5000 | Yes* | Yes | Available | Available**
 
-\* *Someone with Central Admin access is needed to change this. And when you ask them to, you'll be given reasons why it's a bad idea.  That's their role - keep the databases performant and sites up and running. 
+\* **Someone with Central Admin access is needed to change this. And when you ask them to, you'll be given reasons why it's a bad idea.  That's their role - keep the databases performant and sites up and running.  The smart play is to ask them to change the limit for a very short amount time so you can fix your List/Library, and then return to the default threshold limit*.
+
  \** *Your admins can schedule a time when the threshold is lifted - generally after hours.  Doing this during business hours will frustrate your users by created a mixed experience.* 
 
 
@@ -126,6 +132,8 @@ They are.  Let's compare:
 ## Should I build this probably-large List/Library into multiple Lists/Libraries?
 
 You can, and that's an option to consider, especially if you can mix in Content Types and Site Columns for data consistency. 
+
+If it's a Document Library, consider using the [SharePoint Content Organizer](https://support.office.com/en-us/article/Configure-the-Content-Organizer-to-route-documents-B0875658-69BC-4F48-ADDB-E3C5F01F2D9A) to route your documents (based on a condition) to different libraries.
 
 But is that what your customers *want* from a user experience perspective? Does it feel like having to update multiple spreadsheets? What if they want to do reporting on this data, and they have to deal with multiple Lists?
 > **Spoiler**
@@ -213,11 +221,15 @@ Your default view in this large List or Library should ideally be composed of on
 | Created By | Person | Yes | Yes |
 
 
-  In this scenario, we've created a SharePoint List that will work great right to 30 million items.  Default view is bullet-proof in Classic or Modern. 
+  In this scenario, we've created a SharePoint List that will work right to 30 million items.  Default view is bullet-proof in Classic or Modern. 
 
-Your users can create Personal Views that show just their Created By entries.  Business analysts can create reports based on *Likes Cats* preference.  
+ - Your users can create Personal Views that show just their Created By
+   entries.  Business analysts can create reports based on *Likes Cats*
+   preference.  
   
-  The *Biography* column - best case - isn't displayed in any views.  Only viewed/edited when the user interacts with the item.
+ - The *Biography* column - best case - isn't displayed in any views.  Only viewed/edited when the user interacts with the item.
+ - It may be worth also indexing *Modified* here for Power Automate Flow users running the Trigger for when SharePoint Items are Created or Modified.
+
   
 
 ### Example 2: Indexing Scenario for a Large Library
