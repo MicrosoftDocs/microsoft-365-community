@@ -43,17 +43,18 @@ ms.collection: SPCommunity
 
   
 
-# Living Large with Large Lists and Libraries
+# Living Large with Large Lists and Large Libraries
 
 ## Best practices and strategies for building and operating large SharePoint Lists and Libraries well above the item limit threshold.
 
 
 #### tl;dr
 
- - The best-case architecture of any SharePoint List or Library is to keep it under 5000 items.  **Your users don't care about this one bit.**  Word doesn't limit you to 500 words. Excel doesn't limit you to 50 columns. As site owner, you need to be on top of this.   
+ - Above 5000 is possible with planning and some feature restrictions.
+ - If you can make it Modern, you should.
  - Apply remedies *way before* 5000 items.
- - *Modern* receives incremental improvements over time (*Classic* is stagnant), but there will always be some kind of limit.  No matter how far the needle is moved, you're users will be ready to add more stuff.
-
+ - The best-case architecture of any SharePoint List or Library is to keep it under 5000 items.  **Your users don't care about this one bit.**  Word doesn't limit you to 500 words. Excel doesn't limit you to 50 columns. As site owner, you need to be on top of this.   
+ - If your List or Library is at 3500 items, fair chance it'll hit 5001 when you're on vacation.
   
 ### SharePoint Myths
 There are couple of myths floating around in the world of SharePoint/Microsoft 365 Lists and Libraries. One is that you shouldn't treat a List like a database (untrue - it is just fine for a power user to create a database). The other is that Lists and Libraries with more than 5000 items just won't work. Both of these are false. Here is guidance on how to own and operate a list or library from 5001 - 30 million items.
@@ -164,7 +165,7 @@ Indexing columns - before the threshold limit is broken - is the most effective 
  
 It's important to take this action early - SharePoint on premise (2013) won't let you create an Index past 5000 items, and SharePoint Online won't let you create on past 20,000 items. Once you cross those lines, it is difficult to correct. You have to delete lists items to get back down below the limit, and then index the columns. (See linked article below for guidance on that)
 
-### Supported Column Types
+### Column types that can be Indexed
 
 * Single line of text
 
@@ -194,24 +195,33 @@ We index columns because those indexed columns can then be used to define Views 
 In fact, if the columns displayed in your List/Library View are *all* indexed columns, the View will function almost like a regular list/library view.
 
 
-### Example 1: Indexing Scenario for a Simple list
-| Column | Type | Index it? 
-|--|--|--|
-| Title | Single Line | Yes|
-| Favorite Sport | Choice (single) | Yes |
-| Likes Cats | Yes/No | Yes |
-| Biography | Multiline | No, can't |
-| Created | Date | Yes
-| Created By | Person | Yes 
+### Indexed columns pair well with a Filtered View
+Your default view in this large List or Library should ideally be composed of only Indexed columns.  If not, it should be filtered first by an Indexed column.  
 
-  In this scenario, we've created a SharePoint List that will work great right to 30 million.  Your default view might include all columns (except *Biography*) and be sorted descended by *Created*. 
 
-Your users can create personal views that show just their entries.  Business analysts can create reports based on Likes Cats preference.  
+
+### Example Scenario 1: Indexing  for a Simple list
+*Sorted by Created, Descending. Batches of 100.*
+
+| Column | Type | Indexed | In Default View
+|--|--|--|--|
+| Title | Single Line | Yes| Yes |
+| Favorite Sport | Choice (single) | Yes | Yes |
+| Likes Cats | Yes/No | Yes | Yes |
+| Biography | Multiline | No, can't | No |
+| Created | Date | Yes | Yes |
+| Created By | Person | Yes | Yes |
+
+
+  In this scenario, we've created a SharePoint List that will work great right to 30 million items.  Default view is bullet-proof in Classic or Modern. 
+
+Your users can create Personal Views that show just their Created By entries.  Business analysts can create reports based on *Likes Cats* preference.  
   
   The *Biography* column - best case - isn't displayed in any views.  Only viewed/edited when the user interacts with the item.
   
 
 ### Example 2: Indexing Scenario for a Large Library
+*Sorted by Created, Descending. Batches of 100.*
 This library has 25,000 documents in it.  Each day a **folder** is created and seven regional sales reports are added to it.   The business has solemnly-sworn to follow this model.
 
 | Column | Type | Index it? 
@@ -223,12 +233,11 @@ This library has 25,000 documents in it.  Each day a **folder** is created and s
 | Created | Date | Yes
 | Created By | Person | Yes   
 
-Default view of folders could be in batches of something like 30-50. And definitely less than 5000.  
 
-> **Folders, Document Sets**
->Remember, folders count as items when calculating the threshold.
 
 The model will work great for years.  Each folder acts as sort of a reset on the Item Limit Threshold for the default view.   New folderless flat-Views can easily be created using the columns you've indexed.
+> **Folders, Document Sets**
+>Remember, folders count as items when calculating the threshold.
 
 
 
