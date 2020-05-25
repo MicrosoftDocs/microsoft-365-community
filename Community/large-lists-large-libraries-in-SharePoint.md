@@ -3,7 +3,7 @@
 
   
 
-title: Living Large with Large Lists and Libraries
+title: # Living Large with Large Lists and Large Libraries
 
   
 
@@ -50,9 +50,9 @@ ms.collection: SPCommunity
 
 #### tl;dr
 
- - Above 5000 is possible with planning and some feature restrictions.
- - If you can make it Modern, you should.
- - Apply remedies *way before* 5000 items.
+ - Life above 5000 is possible with planning and some filtering/sorting compromises.
+ - If you can make it Modern, you should.  Modern experience improves over time.
+ - Apply remedies *before* you hit 5000 items.
  -  **Your users don't care about this limitation one bit.**  Word doesn't limit you to 500 words. Excel doesn't limit you to 50 columns. As site owner, you need to be on top of this.   
  - If your List or Library is at 3500 items, fair chance it'll hit 5001 when you're on vacation.
   
@@ -72,14 +72,18 @@ There are couple of myths floating around in the world of SharePoint/Microsoft 3
 
 ## What is the View Item Limit Threshold?
 
-If you've operated sites with SharePoint Lists or Libraries for any amount of time, you or one of your customers will trigger the Item Limit Threshold in a List or Library. Either they've published a 300,000 row Excel spreadsheet as a new List, or they decided Friday afternoon at right-before-quitting-time is the right time to upload the entire network drive's contents to a single Library. Views break. Sorting and filtering (especially in on-premise) fall apart. Users report broken sites and missing data.  
+When the number of items or documents is so high that SharePoint displays an error instead of the content. For many years this was *5000*.
+
+Behind the scenes. SharePoint is querying data from a database.  It, like all systems, can do but so much at a time, and the *Item Limit Threshold* is that limit.  
+
+If you've operated sites with SharePoint Lists or Libraries for any amount of time, you or one of your customers will trigger the Item Limit Threshold in a List or Library. Either they've published a 300,000 row Excel spreadsheet as a new List, or they decided Friday afternoon right-before-quitting-time is the perfect time to upload the entire network drive's contents to a single Library. Views break. Sorting and filtering (especially on-premise) fall apart. Users report *broken* sites and missing data.  
 
 
 
 >  **The Limit is only the View**
-> As a Site Owner, it's best to keep in mind that when the threshold is exceeded, it's a problem with presenting the *View* and not the List/Library contents. All the data is still there, it just can't be displayed. Mentally, separate the (Items, Documents) from the presentation (Views) to help you pick the best solution.
+> As a Site Owner, keep in mind that when the threshold is exceeded, it's a problem with presenting the *View* and not the List/Library contents. All the data is still there, it just can't be displayed. Mentally, separate the (Items, Documents) from the presentation (Views) to help you pick the best solution.
 
-It's easy to check the number of items or documents in a List or Library.  Either check in Site Contents, or look in the List/Library Settings.  A blue bar will appear there if the List/Library is getting close to the limit. 
+It's easy to check the number of items or documents in a List or Library.  Either look in *Site Contents*, or look in the List/Library Settings.  A blue bar will appear there if the List/Library is getting close to the limit. 
   
 
   
@@ -88,15 +92,15 @@ It's easy to check the number of items or documents in a List or Library.  Eithe
 
   
 
-With experience, you'll be able to smell a list that'll grow to exceed the limit before the List is even created. This prediction experience comes from knowing your customers and their business processes. Generally, these are smells for future threshold-busting Lists and Libraries:
+With experience, you'll be able to smell a List that'll grow to exceed the limit before the List is even created. This prediction experience comes from knowing your customers and their business processes. Generally, these are smells for future threshold-busting Lists and Libraries:
 
   
 
-* If the list or library is considered to be an automation of a manual process, there's a good chance in time it'll go over the limit. Especially if the process has been in place for years when you bring it in to SharePoint.
+* If the List or Library is considered to be an automation of a manual process, there's a good chance in time it'll go over the limit. Especially if the process has been in place for years when you bring it in to SharePoint.
 
   
 
-* If its a network-drive-to-SharePoint migration scenario, there's a good chance it'll go over the limit (but folders may make this a non-issue).
+* If it's a network-drive-to-SharePoint migration scenario, there's a good chance it'll go over the limit (but folders may make this a non-issue).
 
   
 
@@ -104,16 +108,16 @@ With experience, you'll be able to smell a list that'll grow to exceed the limit
 
   
 
-* If the List is tied to a Flow, Workflow, or Timer Job - any scenario where the list is not updated by humans.
+* If the List is tied to a Flow, Workflow, or Timer Job - any scenario where the list is not updated by humans.  
 
-> **Monitoring**
+> **Monitoring tools**
 Your workplace may have some sort of fancy third-party monitoring tools to report on item/document totals.  If you're not so lucky, you as a Site Owner can set weekly Email Alert Notifications on the List/Library to keep an eye on things.  It's not true reporting, but you'll be able to see trends in Lists.
 
 
 
 
-## Are things different with Modern versus Classic Lists/Libraries?
-They are.  Let's compare:
+## What's different about the threshold between Modern versus Classic Lists/Libraries?
+They are different.  Let's compare:
 
 |Platform| Threshold | Can I change threshold? | Automatic Indexing | Modern Experience | Threshold-free Hours
 |--|--|--| --| --| --|
@@ -122,22 +126,24 @@ They are.  Let's compare:
 | On Prem 2016 | 5000 | Yes* | Yes | No | Available**
 | On Prem 2019 | 5000 | Yes* | Yes | Available | Available**
 
-\* **Someone with Central Admin access is needed to change this. And when you ask them to, you'll be given reasons why it's a bad idea.  That's their role - keep the databases performant and sites up and running.  The smart play is to ask them to change the limit for a very short amount time so you can fix your List/Library, and then return to the default threshold limit*.
+\* *Someone with Central Admin access is needed to change this. And when you ask them to, you'll be given reasons why it's a bad idea.  That's their role - keep the databases performant and sites up and running.  The smart play is to ask them to increase the limit for a very short amount time so you can fix your List/Library, and then return to the default threshold limit*.
 
- \** *Your admins can schedule a time when the threshold is lifted - generally after hours.  Doing this during business hours will frustrate your users by created a mixed experience.* 
+ \** *Your admins can schedule a time when the threshold is lifted on a schedule- generally after hours.  Doing this during business hours will frustrate your users by created a mixed experience.* 
 
-
+The most fundamental difference is that Modern will, over time, get new feature improvements to improve the experience of over-threshold Lists/Libraries.  Classic will stay the same.
   
 
 ## Should I build this probably-large List/Library into multiple Lists/Libraries?
 
-You can, and that's an option to consider, especially if you can mix in Content Types and Site Columns for data consistency. 
+You can, and that's an option to consider, especially if you can work in Content Types and Site Columns for data consistency. 
 
-If it's a Document Library, consider using the [SharePoint Content Organizer](https://support.office.com/en-us/article/Configure-the-Content-Organizer-to-route-documents-B0875658-69BC-4F48-ADDB-E3C5F01F2D9A) to route your documents (based on a condition) to different libraries.
+>**Lookup Columns and Calculated Columns**
+>If your List or Library has Calculated columns (which can't be indexed) or Lookup Columns, you may want to consider the multiple List/Library route.  A List will struggle to reference a data in a Lookup column when the number of rows is over the threshold.
 
-But is that what your customers *want* from a user experience perspective? Does it feel like having to update multiple spreadsheets? What if they want to do reporting on this data, and they have to deal with multiple Lists?
-> **Spoiler**
->  When you implement this multiple-list-same-columns solution, one of your users will absolutely break the threshold in one of the lists.  So then you'll have to break that list into two more.  And so on. 
+If it's a Document Library, consider using the [SharePoint Content Organizer](https://support.office.com/en-us/article/Configure-the-Content-Organizer-to-route-documents-B0875658-69BC-4F48-ADDB-E3C5F01F2D9A) to route your documents (based on a condition) to different libraries with the same metadata.
+
+But is that what your customers *want* from a user experience perspective? Does it feel similar to having to update multiple spreadsheets? What if they want to do reporting on this data, and they have to deal with multiple Lists?  This scenario shouldn't be your first choice if you can avoid it.
+
   
 
   
@@ -153,17 +159,21 @@ Depending on your scenario, absolutely. SharePoint Search doesn't care about the
   
 
 >  **Search-Only Example:**
-> The article author currently manages a folderless SharePoint Library with 450,000 PDF files in it. Those files are uploaded to the library through an external process. Each file has a meaningful file name, and the customer uses SharePoint Search to find just the document they need instantly. They'll never sort or filter the library, or edit the documents, so this scenario works just fine. No columns are indexed.
+> The article author currently manages a folderless SharePoint Library with 450,000 PDF files in it. Those files are uploaded to the library through an external process. Each file has a meaningful file name, and the customer uses SharePoint Search to find just the document they need instantly. They'll never sort or filter the library, or edit the documents, so this scenario works just fine. No columns are indexed. 
+
 
 ## Can Grouped-By Filtered Views help me here?
-Not in a consistently helpful way.  There are too many variables here to make a solid recommendation either way.  Read Joanne Klein's excellent [deep-dive](https://joannecklein.com/2017/07/25/sharepoint-online-list-view-threshold/) into this for more information.
+This one gets complex real fast - especially with views for Document Libraries with folders. Read Joanne Klein's excellent [deep-dive](https://joannecklein.com/2017/07/25/sharepoint-online-list-view-threshold/) into this for more information.
   
 
-  
 
 ## All my internet research keeps pointing to Indexed Columns - what's that all about?
 
-Indexing columns - before the threshold limit is broken - is the most effective way to mitigate View pain. In an ideal situation, where the user knows the List or Library will be large, you'd index any and all columns you can. This is done by going to the List or Library settings, and indexing the columns one by one. You can add up to 20 indexes to a list or library. Choose wisely - what columns would you want to base a view on?
+Indexing columns - *before the threshold limit is broken* - is the most effective way to mitigate View threshold pain. In an ideal situation, where the user knows the List or Library will be large, you'd index any and all columns you can. 
+
+A View that's over the threshold will generally only display if it's filtered by an indexed column.
+
+This is done by going to the List or Library settings, choosing the Indexed Columns link, and indexing the columns one by one. You can add up to 20 indexes to a list or library. Choose wisely - what columns would you or your users want to base a view on?
 
   
 
@@ -171,7 +181,7 @@ Indexing columns - before the threshold limit is broken - is the most effective 
 > SharePoint lists/libraries now have the capability to index columns automatically. But like all automated processes, it may not index the *right* column for your users. Don't count on this to save you. Plan ahead.
 
  
-It's important to take this action early - SharePoint on premise (2013) won't let you create an Index past 5000 items, and SharePoint Online won't let you create on past 20,000 items. Once you cross those lines, it is difficult to correct. You have to delete lists items to get back down below the limit, and then index the columns. (See linked article below for guidance on that)
+It's important to take this action early - SharePoint on premise (2013) won't let you create an Index past 5000 items, and SharePoint Online won't let you create on past 20,000 items. Once you cross those lines, it is difficult to correct. You have to delete lists items to get back down below the limit, and then index the columns. 
 
 ### Column types that can be Indexed
 
@@ -206,6 +216,9 @@ In fact, if the columns displayed in your List/Library View are *all* indexed co
 ### Indexed columns pair well with a Filtered View
 Your default view in this large List or Library should ideally be composed of only Indexed columns.  If not, it should be filtered first by an Indexed column.  
 
+> **Pro Indexing Tip**
+>  If you can, always index by Title, Modified, Created, Modified By, and Created By columns.  You can piece together a viable view with this, and so can your users.
+
 
 
 ### Example Scenario 1: Indexing  for a Simple list
@@ -228,7 +241,7 @@ Your default view in this large List or Library should ideally be composed of on
    preference.  
   
  - The *Biography* column - best case - isn't displayed in any views.  Only viewed/edited when the user interacts with the item.
- - It may be worth also indexing *Modified* here for Power Automate Flow users running the Trigger for when SharePoint Items are Created or Modified.
+ - It may be worth also indexing *Modified* here for **Power Automate Flow** users running the trigger for when SharePoint Items are Created or Modified.
 
   
 
@@ -239,7 +252,7 @@ This library has 25,000 documents in it.  Each day a **folder** is created and s
 | Column | Type | Index it? 
 |--|--|--|
 | Title | Single Line | Yes|
-| Name | File Name | No, Can't |
+| Name | File Name | No |
 | Sales Region  | Choice (single) | Yes |
 | Likes Dogs | Yes/No | Yes |
 | Created | Date | Yes
@@ -273,7 +286,7 @@ The model will work great for years.  Each folder acts as sort of a reset on the
 
 * Blog: [Deleting a Very Large SharePoint List](https://sympmarc.com/2017/03/27/deleting-a-very-large-sharepoint-list/)
 
-  
+* Blog: [Predictive Indexing Comes to SharePoint]([https://sympmarc.com/2017/11/08/predictive-indexing-comes-to-office-365-lists-and-libraries/](https://sympmarc.com/2017/11/08/predictive-indexing-comes-to-office-365-lists-and-libraries/))  
   
 
   
