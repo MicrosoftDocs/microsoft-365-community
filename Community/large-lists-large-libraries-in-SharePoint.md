@@ -175,7 +175,7 @@ The model will work great for years.  Each folder acts as sort of a reset on the
 
 - Microsoft: [Adding an index to a SharePoint column](https://support.microsoft.com/en-us/office/add-an-index-to-a-sharepoint-column-f3f00554-b7dc-44d1-a2ed-d477eac463b0)
 - Microsoft: [Manage large lists and libraries in SharePoint](https://support.office.com/en-us/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-- Blog: [SHAREPOINT ONLINE LIST VIEW THRESHOLD](https://joannecklein.com/2017/07/25/sharepoint-online-list-view-threshold/
+- Blog: [SharePoint Online List View Threshold](https://joannecklein.com/2017/07/25/sharepoint-online-list-view-threshold/)
 - Blog: [Deleting a Very Large SharePoint List](https://sympmarc.com/2017/03/27/deleting-a-very-large-sharepoint-list/)
 - Blog: [Predictive Indexing Comes to SharePoint](https://sympmarc.com/2017/11/08/predictive-indexing-comes-to-office-365-lists-and-libraries/)  
   
