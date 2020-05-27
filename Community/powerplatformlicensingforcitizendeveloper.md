@@ -110,7 +110,7 @@ The Power Apps Portal is discussed later in this article.
 
 Power Automate has two main concepts that determine pricing. The first is the ability to **Create** flows where the first main package allows an individual user to create and run unlimited flows for themselves. The second is the ability to **Implement** flows such as in the second pricing block allow for &quot;implementation&quot; of flows to serve unlimited users with the base bundle starting at 5 flows whether they are implemented or not.
 
-The change from October 2019 insofar as API request limits has extra significance with Power Automate as the new pricing rewards heavy use over casual or limited implementation.  Power Automate also includes a Seeded App option in addition to the two main pricing packages.
+The change from October 2019 insofar as API request limits has extra significance with Power Automate as the new pricing rewards heavy use over casual or limited implementation.  Power Automate also includes a Seeded App option in addition to the two main pricing packages. AI Builder was introduced along with Power Virtual Agents and in April 2020 attended RPA (Remote Processing Automation) was introduced as part of the Power Automate functionality adding an additional per user\per month level. Other plans can also use this functionality but would pay for them separately though all of them would still pay separately for unattended operations.   
 
 An important concept is that of the &quot;child flow&quot; where one flow may call upon another as part of its business process.  Child flows do not count against flow capacity limits.
 
@@ -118,7 +118,7 @@ The following set of points discuss the license differences:
 
 - &quot;Per User Plan&quot; – Per User/Per Month (e.g. US $15)
   - Individual users create and run unlimited flows
-  - Considered the &quot;Standalone&quot; license
+  - Considered a &quot;Standalone&quot; license
   - 5000 Daily API Requests for all flows (e.g. if there are 100 flows and assume all were running in a day, they would each be limited to 50 Daily API requests)
   - May execute workflows and business process flows
   - May use Standard, Premium and Connectors
@@ -126,7 +126,20 @@ The following set of points discuss the license differences:
   - CDS included with Power Apps license
   - 50 MB CDS DB Capacity per user when separate from Power Apps
   - 200 MB CDS File Capacity per user when separate from Power Apps)
-
+  
+- &quot;Per User Plan with attended RPA &quot; – Per User/Per Month (e.g. US $40)
+  - Individual users create and run unlimited flows
+  - Considered a &quot;Standalone&quot; license
+  - 5000 Daily API Requests for all flows (e.g. if there are 100 flows and assume all were running in a day, they would each be limited to 50 Daily API requests)
+  - May execute workflows and business process flows
+  - May use Standard, Premium and Connectors
+  - Access to on premises data gateway
+  - CDS included with Power Apps license
+  - 50 MB CDS DB Capacity per user when separate from Power Apps
+  - 200 MB CDS File Capacity per user when separate from Power Apps)
+  - 1 attended RPA bot (unattended bot is still a separate cost)
+  - 5000 AI Builder Service Credits
+  
 - &quot;Per Flow Plan&quot; – 5 Flows Per Month (e.g. US $500 and US $100 for each additional Flow.)
   - Implement Flows with reserved capacity
   - Serve unlimited users
@@ -155,6 +168,8 @@ The following set of points discuss the license differences:
   - Access to on premises resources via a data gateway for Dynamics 365 only
   - Access to Dynamics 365 restricted entities related to Power Apps and Dynamics license in play
   - CDS use and capacity included with Dynamics 365
+  
+
 
 ### Power Virtual Agents
 
@@ -220,6 +235,23 @@ Regardless of what base level is granted for each license, capacity can be added
 
 These can only be added by tenant administrators with the licensing role.
 
+#### RPA and AI Builder
+An important distinction of the additional services is the integration with AI services and RPA.  AI Builder was noted as an Add-on for any service but Microsoft has included an opportunity to consolidate costs for this service by creating a license group on Power Automate that includes 5000 AI Builder credits as well as a attended bot.  It is important to understand the distinction between attended and unattended bots to determine the cost implications as well as to potentially drive the architecture choice for its use.  The definition in the license guide is included here for quick reference:
+
+- Attended bot
+  - Triggered by an explicit user action on their workstation, i.e. a local or remote desktop 
+  - Must operate concurrently with the user on the same workstation
+  - Can run more than one discrete process, but each process must be serialized to run sequentially 
+- Unattended bot 
+  - Runs autonomously without requiring user actuation o Can be deployed on a local or remote desktop, or other virtualized environment
+  - Can run more than one discrete process, but each process must be serialized to run sequentially
+  - Concurrent instances of a singular process require an additional unattended bot for each instance
+
+In Power Automate, 5,000 personal (as in tied to the flow) service credits are included which is actually a small fraction of the additional capacity bundles which start at 1,000,000 credits for $500 a month at the tenant level (shared with the organization).   
+
+The alternative to the solutions using RPA or AI builder items are programs developed directly in Azure using the underlying systems behind these features.  The cost may need to potentially be weighed against direct development efforts especially if there is already those projects in production.  Because the "rate" the service credits are used is not published or is likely to change, the best way to control or manage costs will involve observations over time leveraging the Power Platform Admin reports and adjusting capacity or license assignments based on that.  The new individual option makes for a cheaper "entry" point to make this determination of whether to go for tenant wide blocks of a million or individual blocks of 5 thousand.  
+
+
 ## Next Steps
 
 ### Practical considerations for licensing selections for Power Apps and Power Automate
@@ -269,6 +301,7 @@ There are other bigger reasons to get more premium flows. In the case AI Builder
 Another important situation is for per-user license pieces such as CDS outside of Dynamics 365.  The Licensing Guide document mentions the concept of &#39;multiplexing&#39; which applies in the same manner as traditional licensing in SQL Server scenarios. So while technically 1 premium license could be used to write to CDS, it would be a multiplexing violation of the CDS license. Other products do not have this requirement.
 
 In one more example, given that a citizen developer creates two Flows (Flow 1 and Flow 2) in an Office 365 E3 environment using a SharePoint form to trigger the first flow (Flow 1) and given that the flow uses the HTTP connector to trigger the second flow (Flow 2 e.g. Graph API REST call) where there are 10 users with permissions to run the form, **only the author** of the flow needs to have the premium\full license rather than a license for each of the 10 SharePoint form users.  If this was an approval workflow where a step included approvals, the people approving would also not need licenses as the flow is considered a single instance through its completion and is, in effect, already paid for.  
+
 
 ### Additional considerations
 
