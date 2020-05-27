@@ -75,6 +75,8 @@ landingContent:
             url: information-architecture-site-topology.md
           - text: Information Architecture - Managed Metadata vs Lookup columns
             url: information-architecture-managed-metadata-vs-lookup-column.md
+          - text: Living Large with Large Lists and Large Libraries
+            url: large-lists-large-libraries-in-SharePoint.md
 
   # Card
   - title: Making Better Decisions
