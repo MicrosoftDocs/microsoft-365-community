@@ -140,7 +140,7 @@ The **“Move to”** feature will copy the files / folders to the new location 
 
 - Click “From Excel”; provide a list name; upload a new spreadsheet or select an existing one and click "Next"
 
-![Step 1 of 2](media/importing-data/excel-import-wizard-step1.png)
+![Step 1 of 2](media\importing-data\excel-import-wizard-step1.png)
 
 - Select the target "Table" from the spreadsheet; set the column types ("Single linge of text", "Multiple lines of text", "Choice", "Title" or "Do not import") and click "Create"
 
@@ -156,6 +156,7 @@ The *SharePoint Migration Tool (SPMT)* can be used to import files into SharePoi
 Detailed information about *SPMT* can be found on the [Download and install the SharePoint Migration Tool](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool) page.
 
 From your *SPMT* computer:
+
 - Open the “SharePoint Migration Tool”.<br>
 ![Open the SharePoint Migration Tool](media/importing-data/spmt-windows-search.png)
 
