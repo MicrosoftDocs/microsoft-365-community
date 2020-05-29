@@ -1,7 +1,7 @@
 ---
 title:  Importing data into SharePoint
 ms.date: 4/30/2020
-author: nyoung30
+author: Norm Young
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: Importing data into SharePoint
@@ -19,6 +19,7 @@ This guide will help users understand the various options available to import fi
 | [Document Libraries – Upload files and folders](#document-libraries--upload-files-and-folders-user) | Power user |
 | [Document Libraries – Copy to and Move to](#document-libraries--copy-to-and-move-to-power-user) | Power user |
 | [Lists – Export Spreadsheet to SharePoint](#lists--export-spreadsheet-to-sharepointpower-user) | Power user |
+| [Lists – Import Spreadsheet to SharePoint](#lists--import-spreadsheet-to-sharepointpower-user) | Power user |
 | [Document Libraries – SharePoint Migration Tool](#document-libraries--sharepoint-migration-tool-power-user) | Power user |
 | [Document Libraries – Sync](#document-libraries--sync-power-user) | Power user |
 
@@ -105,7 +106,7 @@ The **“Move to”** feature will copy the files / folders to the new location 
 
 ![“Show progress” button](media/importing-data/move-to-show-progress.png)
 
-## Lists – Export Spreadsheet to SharePoint(Power user)
+## Lists – Export Spreadsheet to SharePoint (Power user)
 
 *Microsoft Excel* supports the exporting of “Tables” from spreadsheets to new SharePoint lists. With the source spreadsheet open:
 
@@ -130,6 +131,24 @@ The **“Move to”** feature will copy the files / folders to the new location 
 - Example exported list shown below:
 
 ![Successful Excel export](media/importing-data/excel-export-list.png)
+
+## Lists – Import Spreadsheet to SharePoint (Power user)
+
+*SharePoint* supports the importing of “Tables” from spreadsheets to new SharePoint lists. From "Site contents":
+
+- Click “New” and click "List".
+
+- Click “From Excel”; provide a list name; upload a new spreadsheet or select an existing one and click "Next"
+
+![Step 1 of 2](media/importing-data/excel-import-wizard-step1.png)
+
+- Select the target "Table" from the spreadsheet; set the column types ("Single linge of text", "Multiple lines of text", "Choice", "Title" or "Do not import") and click "Create"
+
+![Step 2 of 2](media/importing-data/excel-import-wizard-step2.png)
+
+- Example imported list shown below:
+
+![Successful Excel import](media/importing-data/excel-import-list.png)
 
 ## Document Libraries – SharePoint Migration Tool (Power user)
 
