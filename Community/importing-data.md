@@ -18,8 +18,8 @@ This guide will help users understand the various options available to import fi
 | [Document Libraries – Drag and drop files and folders](#document-libraries--drag-and-drop-files-and-folders-user)| End user|
 | [Document Libraries – Upload files and folders](#document-libraries--upload-files-and-folders-user) | Power user |
 | [Document Libraries – Copy to and Move to](#document-libraries--copy-to-and-move-to-power-user) | Power user |
-| [Lists – Export Spreadsheet to SharePoint](#lists--export-spreadsheet-to-sharepointpower-user) | Power user |
-| [Lists – Import Spreadsheet to SharePoint](#lists--import-spreadsheet-to-sharepointpower-user) | Power user |
+| [Lists – Export Spreadsheet to SharePoint](#lists--export-spreadsheet-to-sharepoint-power-user) | Power user |
+| [Lists – Import Spreadsheet to SharePoint](#lists--import-spreadsheet-to-sharepoint-power-user) | Power user |
 | [Document Libraries – SharePoint Migration Tool](#document-libraries--sharepoint-migration-tool-power-user) | Power user |
 | [Document Libraries – Sync](#document-libraries--sync-power-user) | Power user |
 
