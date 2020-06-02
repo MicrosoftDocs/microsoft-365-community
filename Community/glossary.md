@@ -307,7 +307,7 @@ When you create a site collection, a top-level site is automatically created in 
 
 Standard Release is an option to receive updates to the Microsoft 365 platform when they are broadly available to all customers. This is the default option for new tenants and can be modified later on.
 
-As both Standard and Targeted Release options can be applied to all or certain groups of users, it is a good practice to leave the majority of users in Standard Release and set the IT pros and power users in Target Release to evaluate new features and prepare teams to support business users and executives.
+As both Standard and [Targeted Release](#targeted-release) options can be applied to all or certain groups of users, it is a good practice to leave the majority of users in Standard Release and set the IT pros and power users in Targeted Release to evaluate new features and prepare teams to support business users and executives.
 
 ### Style Library
 
@@ -332,7 +332,7 @@ Subsites tend to be less common on Modern SharePoint, as Microsoft recommend the
 
 ### Targeted Release
 
-Targeted Release is an option to receive updates to the platform earlier than with Standard Release. Targeted Release should *not* be used in production tenants (you need to decide how you define this), as there are occasions where Target Release functionality is buggy or is withdrawn. Consider it similar to the old term "beta".
+Targeted Release is an option to receive updates to the platform earlier than with [Standard Release](#standard-release) Targeted Release should *not* be used in production tenants (you need to decide how you define this), as there are occasions where Target Release functionality is buggy or is withdrawn. Consider it similar to the old term "beta".
 
 Targeted Release can be enabled in two ways: per tenant and per user. The two different ways of setting this preference result in different changes. Some updates only make sense in the context of a tenant (e.g., Communication sites) and others can make sense in the context of a person. Giving users Targeted Release does *not* mean they will see all updates sooner, only those which make sense in a person context.
 
