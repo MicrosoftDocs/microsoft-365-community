@@ -270,7 +270,7 @@ The Search Schema refers to the customizable data dictionary used by SharePoint 
 
 ### Site
 
-In modern SharePoint, a site refers to a modern site. (In classic SharePoint, te term was often used for both sites and sub-sites.)
+In modern SharePoint, a site refers to a modern site. (In classic SharePoint, the term was often used for both sites and sub-sites.)
 
 To developers, a "Site" is a [Site Collection](#site-collection), whereas a "web" is a site. Confusing!
 
@@ -304,6 +304,10 @@ A Site Collection is a group of websites that have the same owner and share admi
 When you create a site collection, a top-level site is automatically created in the site collection (called root site). You can then create one or more sub-sites below the top-level site. The entire structure of the top-level site and all its sub-sites is called a site collection.
 
 ### Standard Release
+
+Standard Release is an option to receive updates to the Microsoft 365 platform when they are broadly available to all customers. This is the default option for new tenants and can be modified later on.
+
+As both Standard and Targeted Release options can be applied to all or certain groups of users, it is a good practice to leave the majority of users in Standard Release and set the IT pros and power users in Target Release to evaluate new features and prepare teams to support business users and executives.
 
 ### Style Library
 
