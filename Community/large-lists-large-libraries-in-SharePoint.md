@@ -102,9 +102,11 @@ A View that's over the threshold will generally only display if it's filtered by
 This is done by going to the List or Library settings, choosing the Indexed Columns link, and indexing the columns one by one. You can add up to 20 indexes to a list or library. Choose wisely - what columns would you or your users want to base a view on?
 
 > **Automatic Indexing:**
-> SharePoint lists/libraries in SharePoint Online now have the capability to index columns automatically. But like all automated processes, it may not index the *right* column for your users. Don't count on this to save you. Plan ahead.
+> SharePoint lists/libraries in SharePoint Online now have the capability to index columns automatically. But like all automated processes, it may not index the *right* column for your users, and will not automatically create indexes for lists/libraries with more than 20,000 items. Don't count on this to save you. Plan ahead.
 
-It's important to take this action early - SharePoint on premise (2013) won't let you create an Index past 5000 items, and SharePoint Online won't let you create on past 20,000 items. Once you cross those lines, it is difficult to correct. You have to delete lists items to get back down below the limit, and then index the columns.
+It's important to take this action early - SharePoint on-premise (2013) won't let you create an Index past 5000 items. It is uncertain if there is a hard limit in SharePoint Online, but once you cross those lines, it is difficult to correct. You have to delete lists items to get back down below the limit, and then index the columns. 
+
+For the best user experience you should be proactively ensuring the appropriate columns for your lists/libraries are indexed, based on the columns used most frequently in views and/or filtered by your users.
 
 ### Column types that can be Indexed
 
