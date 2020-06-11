@@ -4,7 +4,7 @@ ms.date: 6/12/2020
 author: sympmarc
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
-description: Importing data into SharePoint
+description: The Microsoft 365 Maturity Model - Introduction
 ms.collection: SPCommunity
 ---
 
@@ -34,7 +34,7 @@ The SPMM was, of course, focused squarely on SharePoint. At the time, SharePoint
 
 Let's look at an example. In the SPMM, one of the dimensions is Collaboration.
 
-![SPMM Collaboration - 2014](media/microsoft365-maturity-model--intro\collaboration-high-level-2014.jpg)
+![SPMM Collaboration - 2014](media/microsoft365-maturity-model--intro/collaboration-high-level-2014.jpg)
 
 The tools have changed, but we still see similar levels of capability when using Document libraries:
 
