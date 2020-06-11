@@ -26,7 +26,7 @@ Taking a holistic view of the technology and gaining an understanding of current
 Around the time SharePoint 2010 was released, [Sadie Van Buren](https://www.linkedin.com/in/sadalit/) developed a powerful set of concepts embodied in the SharePoint Maturity Model (SPMM). The basic idea was to give people working with the platform ways to:
 
 - Understand their capabilities along multiple dimensions on a clearly defined scale
-- Decide which level they would like to achieve for each dimension and it what time frame
+- Decide which level they would like to achieve for each dimension and in what time frame
 - Improve their capabilities in tangible ways by progressing to the next level
 - Compare their organization to their peers based on quantified surveys
 
@@ -36,19 +36,25 @@ Let's look at an example. In the SPMM, one of the dimensions is Collaboration.
 
 ![SPMM Collaboration - 2014](media/microsoft365-maturity-model--intro/collaboration-high-level-2014.jpg)
 
-The tools have changed, but we still see similar levels of capability when using Document libraries:
+The tools have changed, but we still see similar levels of capability when using Document Libraries:
 
 - Team-centric - mostly document storage
 - Cross-enterprise and fuller functionality
 - Outside the firewall
 
-These three high-level distinctions are levels of capability we in the practitioner community see every day in our work. Some organizations are totally fine using SharePoint as a shared folder in the cloud, but most want to be working smarter than that. But how can they know what their path should be? And how to they get there?
+These three high-level distinctions are levels of capability we in the practitioner community see every day in our work. Some organizations are totally fine using SharePoint as a shared folder in the cloud, but most want to be working smarter than that. But how can they know what their path should be? And how can they get there?
 
 ### Underpinnings: the Capability Maturity Model
 
-SPMM was based on  the [Capability Maturity Model (CMM)](https://en.wikipedia.org/wiki/Capability_Maturity_Model), which originally came out of work at Carnegie Mellon University and focused on software development. The premise was if you could measure yourself against a clear set of standards to identify where your practices and capabilities stood, you could take concrete steps to progress to the next level. The model defined a 5 point scale, representing the levels: Initial, Repeatable, Defined, Managed (Capable), and Optimizing (Efficient).
+SPMM was based on  the [Capability Maturity Model (CMM)](https://en.wikipedia.org/wiki/Capability_Maturity_Model), which originally came out of work at Carnegie Mellon University and focused on software development. The premise was if you could measure yourself against a clear set of standards to identify where your practices and capabilities stood, you could take concrete steps to progress to the next level. The model defined a 5 point scale, representing the levels:
 
-Not every organization needs to be at the top level. NASA and Boeing have different goals, constraints, and risks to manage than a small marketing or retail organization. As with any organizational capability, one can decide if is a differentiator or an operational capability based on the organizational strategy. The former may require optimized and foolproof capabilities, where the latter only requires relative efficiency.
+- Initial
+- Repeatable
+- Defined
+- Managed (Capable)
+- Optimizing (Efficient).
+
+Not every organization needs to be at the top level. NASA and Boeing have different goals, constraints, and risks to manage than a small marketing or retail organization. As with any organizational capability, the organization should decide if the capability should be a strategic differentiator or simply a basic operational capability based on the organizational strategy. The former may require optimized and foolproof capabilities, where the latter only requires relative efficiency.
 
 ## What's Next?
 
