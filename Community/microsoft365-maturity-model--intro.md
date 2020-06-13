@@ -32,15 +32,11 @@ Around the time SharePoint 2010 was released, [Sadie Van Buren](https://www.link
 
 The SPMM was, of course, focused squarely on SharePoint. At the time, SharePoint was exclusively an on premises product and generally stood alone, unless you did a lot of work to change things. The *principles*, however, remain valid.
 
-Let's look at an example. In the SPMM, one of the dimensions is Collaboration.
-
-![SPMM Collaboration - 2014](media/microsoft365-maturity-model--intro/collaboration-high-level-2014.jpg)
-
 The tools have changed, but we still see similar levels of capability when using Document Libraries:
 
 - Team-centric - mostly document storage
 - Cross-enterprise and fuller functionality
-- Outside the firewall
+- External collaboration
 
 These three high-level distinctions are levels of capability we in the practitioner community see every day in our work. Some organizations are totally fine using SharePoint as a shared folder in the cloud, but most want to be working smarter than that. But how can they know what their path should be? And how can they get there?
 
@@ -65,5 +61,6 @@ In future articles, we will expand the model several layers deeper. Have thought
 ---
 
 Principal authors:
+
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit/)
