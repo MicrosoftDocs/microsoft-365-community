@@ -38,9 +38,10 @@ landingContent:
     linkLists:
       - linkListType: learn
         links:
+          - text: The Microsoft 365 Maturity Model - Introduction
+            url:  microsoft365-maturity-model--intro.md
           - text: Known Folder Move (KFM) Benefits for End Users
             url:  known-folder-move-benefits-for-enduser.md
-
 
   # Card (optional)
   - title: SharePoint Better Practices
