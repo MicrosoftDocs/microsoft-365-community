@@ -9,6 +9,8 @@ ms.collection:  SPCommunity
 ---
 # List columns or Site columns: Which one to choose?
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 We have two (2) types of columns in SharePoint:
 
 - List columns

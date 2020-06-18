@@ -1,0 +1,144 @@
+### YamlMime:Landing
+
+title: Microsoft 365 Community Content # < 60 chars
+summary: Learn about Microsoft 365 from the community!  All content is community generated. # < 160 chars
+
+metadata:
+  title: Microsoft 365 Community Content # Required; page title displayed in search results. Include the brand. < 60 chars.
+  description: Community contributed documentation # Required; article description that is displayed in search results. < 160 chars.
+  ms.service: sharepoint-online #Required; service per approved list. service slug assigned to your service by ACOM.
+  ms.subservice: subservice
+  ms.topic: landing-page # Required
+  ms.collection: M365-collaboration
+  author: JoanneHendrickson #Required; your GitHub user alias, with correct capitalization.
+  ms.author: jhendr #Required; microsoft alias of author; optional team alias.
+  ms.date: 03/13/2020 #Required; mm/dd/yyyy format
+  localization_priority: Priority
+
+# linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | tutorial | video | whats-new
+
+landingContent:
+# Cards and links should be based on top customer tasks or top subjects
+# Start card title with a verb
+
+  # Card (optional)
+  - title: Basics and Definitions
+    linkLists:
+      - linkListType: get-started
+        links:
+          - text: Glossary
+            url: glossary.md
+          - text: What is a Site Column?
+            url:  what-is-site-column.md
+          - text: What is a Content Type?
+            url:  what-is-content-type.md
+
+  # Card (optional)
+  - title: Microsoft 365 Better Practices
+    linkLists:
+      - linkListType: learn
+        links:
+          - text: The Microsoft 365 Maturity Model - Introduction
+            url:  microsoft365-maturity-model--intro.md
+          - text: Known Folder Move (KFM) Benefits for End Users
+            url:  known-folder-move-benefits-for-enduser.md
+
+  # Card (optional)
+  - title: SharePoint Better Practices
+    linkLists:
+      - linkListType: learn
+        links:
+          - text: Site Builder/Owner - New Site Checklist
+            url: new-site-checklist.md
+          - text: Versioning in SharePoint
+            url: versioning-basics-best-practices.md
+          - text: Planning Permissions with Group-based SharePoint Sites when you're used to Regular SharePoint Permissions
+            url:  permission-model-differences.md
+          - text: Importing Data
+            url:  importing-data.md
+          - text: SharePoint Naming Guidelines
+            url:  sharepoint-naming-guidelines.md
+          - text: Benefits of using PowerShell with SharePoint
+            url:  benefits-of-using-powershell-with-sharepoint.md
+          - text: Why SharePoint Training is Important
+            url: why-sharepoint-training-is-important.md
+          - text: Identifying Your SharePoint Champions
+            url: identifying-your-sharepoint-champions.md
+          - text: Empowering Your SharePoint Champions
+            url: empowering-your-SharePoint-champions.md
+
+  # Card (optional)
+  - title: Information Architecture
+    linkLists:
+      - linkListType: learn
+        links:
+          - text: Information Architecture - Site Topology
+            url: information-architecture-site-topology.md
+          - text: Information Architecture - Managed Metadata vs Lookup columns
+            url: information-architecture-managed-metadata-vs-lookup-column.md
+          - text: Living Large with Large Lists and Large Libraries
+            url: large-lists-large-libraries-in-SharePoint.md
+
+  # Card
+  - title: Making Better Decisions
+    linkLists:
+      - linkListType: concept
+        links:
+          - text: Team site vs Communication site - Which one should I choose?
+            url: team-site-or-communication-site.md         
+          - text: List columns or Site columns - which one to choose?
+            url: list-column-or-site-column-which-one-to-choose.md
+          - text: Changing Microsoft Teams from private to public - What to expect in SharePoint
+            url: changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md
+          - text: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
+            url: select-an-effective-navigation-strategy.md
+          - text: Auto Apply Retention Labels in Office 365 Using Content Types and Metadata
+            url: auto-apply-retention-labels-in-office-365-using-content-types-and-metadata.md
+          - text: Can Machine Learning be used to assign managed metadata attributes for items?
+            url: machine-learning-and-managed-metadata.md
+          - text: Designing your solution for scale
+            url: designing-solution-for-scale.md
+          - text: Understanding Power Platform Licensing
+            url: powerplatformlicensingforcitizendeveloper.md
+          - text: Should I store my files in Microsoft Teams or in SharePoint?
+            url: should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md
+  
+  # Card
+  - title: Useful Scenarios
+    linkLists:
+      - linkListType: concept
+        links:
+          - text: Library scenarios
+            url: library-scenarios.md
+          - text: Using site designs to manage project life cycles
+            url: site-design-life-cycle.md
+          - text: Working with Cascading Lists in SharePoint and Power Apps
+            url: working-with-cascading-lists-in-sharepoint-and-powerapps.md
+
+  # Card
+  - title: Automation
+    linkLists:
+      - linkListType: how-to-guide
+        links:
+          - text: Working with modern client-side pages using PnP PowerShell
+            url:  working-with-modern-clientside-pages-using-pnp-powershell.md
+
+  # Card (optional)
+  - title: References
+    linkLists:
+      - linkListType: reference
+        links:
+          - text: Microsoft Office official documentation
+            url: https://docs.microsoft.com/office/
+          - text: FastTrack onboarding and adoption services
+            url: https://fasttrack.microsoft.com/office
+          - text: Find a SharePoint certified partner
+            url: https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support
+          - text: Visit the SharePoint community
+            url: https://techcommunity.microsoft.com/t5/SharePoint/ct-p/SharePoint
+          - text: Suggest a feature
+            url: https://sharepoint.uservoice.com/
+          - text: Learn how to be a Community Contributor
+            url:  https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/README.md
+          
+

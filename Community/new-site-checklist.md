@@ -9,6 +9,8 @@ ms.collection:  SPCommunity
 ---
 # Site Builder/Owner: New Site Checklist
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 The purpose of this guide is to help document the initial setup of a site and provide resources for next steps and ongoing support.
 
 ## Checklist

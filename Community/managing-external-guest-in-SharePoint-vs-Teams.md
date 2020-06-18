@@ -9,6 +9,8 @@ ms.collection:  SPCommunity
 ---
 # Managing External Guests in SharePoint vs Teams
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 "Guest", such a beautiful word. In my humble opinion Guest Users is one of the most valuable assets we have, and learning how to best collaborate with Guest users is an essential skill set.
 
 Lucky for us Microsoft with the continuous innovations in Office 365 makes the process more seamless everyday.
@@ -115,7 +117,7 @@ Now and then you will need to make sure that Guest users can't be invited to a c
 Folow the guide below to achive this, as pr. my knowledge you will need Global administrator right to achieve this.
 
 
-* [Block guest accesss to Team](https://docs.microsoft.com/nb-no/microsoft-365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide#block-guest-users-from-a-specific-group)
+* [Block guest accesss to Team](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide#block-guest-users-from-a-specific-group)
 
 
 ## Useful resources

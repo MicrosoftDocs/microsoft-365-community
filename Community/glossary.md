@@ -9,6 +9,8 @@ ms.collection: SPCommunity
 ---
 # SharePoint Usage Glossary
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 As with any technology, there are lots of terms we toss around to explain things. Just understanding what each term means can be half the battle. Whether you are entirely new to SharePoint or have been using it for a decade, there are always new terms to learn. The fact that Microsoft uses common English words for many capabilities can add an additional layer of confusion.
 
 This Glossary is an attempt to demystify some of the terms and acronyms we use every day in working with the platform. See one missing? Feel free to add an Issue with what you want added.
@@ -28,6 +30,12 @@ See [SharePoint Framework](#sharepoint-framework)
 ## B
 
 ## C
+
+### Camel Case
+
+In programming, Camel case is the practice of naming variables or controls by capitalizing all words except the first, giving the name a look like a camel's hump. Examples: `iPad`, `intQuantity`, `myEmailAddress`.
+
+See [Wikipedia](https://en.wikipedia.org/wiki/Camel_case). Also see [Pascal Case](#pascal-case)
 
 ### CAML (Collaborative Application Markup Language)
 
@@ -113,6 +121,12 @@ A Group in SharePoint can generally refer to one of three things. It may mean:
 
 ## H
 
+### Highlighted Content Web Part
+
+The Highlighted Content Web Part allows you to [roll up](#roll-up) content from allows you to specify content sources, sorting and filtering, and layout options.
+
+As with all web parts in SharePoint, this we part will only display content which the current user has permission to see.
+
 ### Home Site
 
 A Home Site is a special type of [Hub Site](#hub-site) with a few extra superpowers:
@@ -129,7 +143,7 @@ A Hub Site is a SharePoint site that can have other sites associated to it. This
 
 ## I
 
-## Idempotent
+### Idempotent
 
 In a development sense, idempotent means that code you run more than once with the same inputs will always produce the same outputs. In other words, you can always expect the same effects, no matter how many times you do something.
 
@@ -177,6 +191,10 @@ A Managed Property is one of the basic units of the SharePoint Search Schema. It
 
 Managed Properties can be created (if you have the appropriate permissions), although SharePoint automatically creates Managed Properties that are useful for a wide range of scenarios.
 
+### Multi-Factor Authentication (MFA)
+
+Multi-factor authentication refer to an additional security layer beyond just username and password. One way it is described is the user name and password shows who you are based on something you **know**, and MFA shows who you are by something you **have**. The most common example of MFA is the code you get in a text on your phone when you are logging into sites like your bank or Github.
+
 ### Modern SharePoint
 
 Modern SharePoint refers to the user interface (UI) that has been available in SharePoint Online to larger and larger degrees starting in about 2016. Some aspects of the modern UI are also available in SharePoint 2019 (on premises). Modern SharePoint does not use many of the underpinnings of classic SharePoint, such as master pages and page layouts. It is built using more current Web development tools and practices than classic SharePoint.
@@ -201,9 +219,15 @@ Capabilities included with SharePoint without writing any code or doing heavy li
 
 ## P
 
-### Patterns and Practices
+### Pascal Case
 
-Patterns and Practices is an open-source initiative coordinated by SharePoint engineering. This community controls SharePoint development documentation, samples, reusable controls, and other relevant open-source initiatives related to SharePoint development.
+In programming, Pascal case is the practice of naming variables or controls by capitalizing all words. Examples: `TotalQuantity`, `EmailAddress`, `ShippingPlant`.
+
+See [Wikipedia](https://en.wikipedia.org/wiki/Camel_case). Also see [Camel Case](#camel-case)
+
+### Patterns and Practices (PnP)
+
+Patterns and Practices (PnP) is an open-source initiative coordinated by SharePoint engineering. This community controls SharePoint development documentation, samples, reusable controls, and other relevant open-source initiatives related to SharePoint development.
 
 ### Permission Level
 
@@ -213,7 +237,7 @@ Custom Permission Levels can be created for business-specific scenarios, such as
 
 ### PnP
 
-See [Patterns and Practices](#patterns-and-practices)
+See [Patterns and Practices](#patterns-and-practices-pnp)
 
 ### PowerShell
 
@@ -227,6 +251,13 @@ The version that ships on Windows devices is called Windows PowerShell, and the 
 
 ### Roll up
 
+Rolling up content refer to the practice of consolidating a specific set of content from multiple locations. Common examples are:
+
+* News from all sites associated with a [Hub Site](#hub-site)
+* Events from all sites associated with a [Hub Site](#hub-site)
+
+More complex roll ups are also possible using the [Highlighted Content Web Part](#highlighted-content-web-part) or custom code.
+
 ### Root Site
 
 The base address in a web application or tenant for the first SharePoint Site collection. Typically, defined without use of managed paths ("/sites/" or "/teams/"), for example https://mytenant.sharepoint.com or http://sharepoint
@@ -238,6 +269,10 @@ The base address in a web application or tenant for the first SharePoint Site co
 The Search Schema refers to the customizable data dictionary used by SharePoint Search to allow users to query for and return specific information from SharePoint using the available Search tools, such as the Search Results web part in Classic SharePoint or the Search REST API.
 
 ### Site
+
+In modern SharePoint, a site refers to a modern site. (In classic SharePoint, the term was often used for both sites and sub-sites.)
+
+To developers, a "Site" is a [Site Collection](#site-collection), whereas a "web" is a site. Confusing!
 
 ### SharePoint Home Page
 
@@ -261,14 +296,18 @@ See [SharePoint Home Page](#sharepoint-home-page)
 
 ### Site Collection
 
-A Site collection is a group of websites that have the same owner and share administrative settings.
+A Site Collection is a group of websites that have the same owner and share administrative settings.
 
-- In *SharePoint Online*, site collections are the top level available to admins, and visible in the SharePoint Admin Center under "Active Sites".
-- In *SharePoint on-premises*, site collections are created within a Web Application, which is a level higher.
+* In *SharePoint Online*, site collections are the top level available to admins, and visible in the SharePoint Admin Center under "Active Sites".
+* In *SharePoint on-premises*, site collections are created within a Web Application, which is a level higher.
 
-When you create a site collection, a top-level site is automatically created in the site collection (called root site). You can then create one or more subsites below the top-level site. The entire structure of the top-level site and all its subsites is called a site collection.
+When you create a site collection, a top-level site is automatically created in the site collection (called root site). You can then create one or more sub-sites below the top-level site. The entire structure of the top-level site and all its sub-sites is called a site collection.
 
 ### Standard Release
+
+Standard Release is an option to receive updates to the Microsoft 365 platform when they are broadly available to all customers. This is the default option for new tenants and can be modified later on.
+
+As both Standard and [Targeted Release](#targeted-release) options can be applied to all or certain groups of users, it is a good practice to leave the majority of users in Standard Release and set the IT pros and power users in Targeted Release to evaluate new features and prepare teams to support business users and executives.
 
 ### Style Library
 
@@ -278,10 +317,10 @@ The Style Library is a document library in the Root Web of a SharePoint site tha
 
 The SharePoint Framework (also known as SPFx) is a way for developers to extend SharePoint online, Microsoft Teams and in a slightly more limited way SharePoint 2019 and SharePoint 2016. This framework provides a scaffold for developers to build client-side custom extensions which may include:
 
-- Web Parts - functionality that can be added to a page. Web parts can also be extended as tabs in Microsoft Teams.
-- Application Customizers - which are extensions that run on every page of a site and allow the developer to add visible or non-visible content to the page via the top or bottom placeholder
-- Field Customizers - which allow the developer to build modified renderings of fields in a list.
-- Command Sets - which extend the command surface in lists to provide custom actions.
+* Web Parts - functionality that can be added to a page. Web parts can also be extended as tabs in Microsoft Teams.
+* Application Customizers - which are extensions that run on every page of a site and allow the developer to add visible or non-visible content to the page via the top or bottom placeholder
+* Field Customizers - which allow the developer to build modified renderings of fields in a list.
+* Command Sets - which extend the command surface in lists to provide custom actions.
 
 ### Subsite
 
@@ -293,7 +332,7 @@ Subsites tend to be less common on Modern SharePoint, as Microsoft recommend the
 
 ### Targeted Release
 
-Targeted Release is an option to receive updates to the platform earlier than with Standard Release. Targeted Release should *not* be used in production tenants (you need to decide how you define this), as there are occasions where Target Release functionality is buggy or is withdrawn. Consider it similar to the old term "beta".
+Targeted Release is an option to receive updates to the platform earlier than with [Standard Release](#standard-release) Targeted Release should *not* be used in production tenants (you need to decide how you define this), as there are occasions where Target Release functionality is buggy or is withdrawn. Consider it similar to the old term "beta".
 
 Targeted Release can be enabled in two ways: per tenant and per user. The two different ways of setting this preference result in different changes. Some updates only make sense in the context of a tenant (e.g., Communication sites) and others can make sense in the context of a person. Giving users Targeted Release does *not* mean they will see all updates sooner, only those which make sense in a person context.
 
@@ -329,9 +368,9 @@ A View is a way to show data stored in a list or library. It consists of a set o
 
 The most common settings we use in views allow us to:
 
-- Choose which columns are displayed and in which order
-- Filter the items based on the values in any of the columns
-- Group items based on the value of most column types
+* Choose which columns are displayed and in which order
+* Filter the items based on the values in any of the columns
+* Group items based on the value of most column types
 
 ### View Formatting
 
