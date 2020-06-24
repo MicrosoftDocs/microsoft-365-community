@@ -46,9 +46,9 @@ Note: Versioning can also be enabled or disabled through PowerShell, SharePoint 
 
 In SharePoint Online, select the list item or document, and in the Actions menu, select Version History.  You can also see a link to the version history in the details pane.
 
-In SharePoint On Premise (2010, 2013, 2016, 2019) you can view Version history by clicking on the link in the Ribbon menu.
+In SharePoint on premises (2010, 2013, 2016, 2019) you can view version history by clicking on the link in the ribbon menu.
 
-In both products, Version History opens in a modal dialog box, with options to View, Restore, or Delete the entry. If any SharPoint Metadata columns were changed, that column and its new value will be displayed.
+In both products, Version History opens in a modal dialog box, with options to View, Restore, or Delete the entry. If any SharePoint Metadata columns were changed, that column and its new value will be displayed.
 
 ## SharePoint Online vs SharePoint On Premise
 
@@ -80,13 +80,12 @@ Lists usually only have Major versions.
 * In a list with versioning enabled, attachment changes are not versioned.
 * Limiting the number of versions is generally a good practice. It means you can conserve space on the server and reduce clutter for users. But, if your organization is required to save all versions for legal or other reasons, don’t apply any limits.
 
-
 ### Further Reading
 
 * Microsoft: [Planning Versioning, Content Approval](https://docs.microsoft.com/sharepoint/governance/versioning-content-approval-and-check-out-planning) & [How does versioning work in a SharePoint list or library](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
 * Blog: [SharePoint Maven on Versioning](https://sharepointmaven.com/5-ways-users-can-benefit-versioning-sharepoint/)
 * Blog: [ShareGate: SharePoint Version Control to the Rescue](https://sharegate.com/blog/sharepoint-version-control)
 
+---
 
-Principal author: [Patrick M Doran[(https://www.linkedin.com/in/patrickdoran/)
-
+Principal author: [Patrick M Doran](https://www.linkedin.com/in/patrickdoran/)
