@@ -7,10 +7,9 @@ localization_priority:
 description: Document Lifecycle Scenarios - showing different ways to think through how we manage documents based on their relative weight and importance
 ms.collection:  SPCommunity
 ---
+# Document Lifecycle Scenarios
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
-
-# Document Lifecycle Scenarios
 
 Not all documents are created equal. Based on the relative weight and importance of a document, we may decide on quite different ways to manage a document through its lifecycle. In this article, we present several different scenarios for managing a document lifecycle.
 
