@@ -38,8 +38,8 @@ In SharePoint Online or On Premise, versioning is enabled in the List Settings o
 
 If you can Enable versioning, you can Disable versioning. Disabling versioning doesn't delete the old versions. End users receive no notification of this change.
 
-> **A Cautionary Tale:**
-> As site owner, if you disable Versioning and *don't* tell your end users, they'll notify you. In person.
+> [!Note]
+> **A Cautionary Tale:**  As site owner, if you disable Versioning and *don't* tell your end users, they'll notify you. In person.
 
 Note: Versioning can also be enabled or disabled through PowerShell, SharePoint Designer, or by a developer using CSOM.
 
@@ -60,6 +60,7 @@ Historically, versioning is not enabled by default at the creation of a list or 
 | Lists     | Not enabled at creation | Not enabled at creation |
 | Libraries  | Enabled at creation (and set to 500 versions)   | Not enabled at creation |
 
+> [!Note]
 > **A Cautionary Tale:**
 > As Site Owner, you're responsible for not exceeding your allotted space limit. 500 versions of an Excel file won't cause any trouble.  A 500-version library with hundreds of  300MB PDF documents might push the site over the limit and prevent users from working in the site.  Watch your Storage Metrics on storage libraries.
 
