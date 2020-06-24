@@ -20,6 +20,7 @@ Emotionally, it reinforces the idea that SharePoint is a good place to store you
 SharePoint Lists items (data) and Library documents (files) have the ability to store, track, and *restore* the previous state of the item or document to how it was before a user changed it.
 
 Versioning creates a historical record of all changes, with the date/time and indication of the user who made the change, on a per-file/list item basis. The end user can view, delete, and restore a version if they have the correct permissions in the library or list.
+
 | To do this… | I need this permission… |
 |------------|------------------------|
 | View version history | Full Control, Contribute, Read |
@@ -31,7 +32,6 @@ Versioning creates a historical record of all changes, with the date/time and in
 ## Enabling Versioning
 
 In SharePoint Online or On Premise, versioning is enabled in the List Settings or Library Settings screens by clicking on the 'Versioning settings' link.  An interface is provided to let you control how many versions you'd like to retain. The user must have the Manage Lists permission capability to enable versioning.
- 
 
 ## Disabling Versioning
 
