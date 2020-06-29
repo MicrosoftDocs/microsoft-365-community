@@ -1,3 +1,13 @@
+---
+title:  "Managing SharePoint Online Security: A Team Effort"
+ms.date: 6/27/2020
+author: veronicageek
+ms.reviewer:  Joanne Hendrickson
+localization_priority: 
+description: "Managing SharePoint Online Security: A Team Effort"
+ms.collection: SPCommunity
+---
+
 # Managing SharePoint Online Security: A Team Effort
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
@@ -37,7 +47,7 @@ When you know what the company policy is, you can choose the appropriate sharing
 
 Again, we have a few options available to help securing a bit more if necessary. You can select them all or not. But it's not because you can that you should!
 
-**Limit external sharing by domain**: If selected, you can _Allow_ or _Block_ specific domains. A common scenario would be collaborating with specific customers or Partners. This setting is available at the _tenant_ level, as well as at the _site_ level.
+**Limit external sharing by domain**: If selected, you can _Allow_ or _Block_ specific domains. A common scenario would be collaborating with specific customers or partners. This setting is available at the _tenant_ level, as well as at the _site_ level.
 
 >_Note: From the moment you choose to "Allow" one or more domains, the other ones will be blocked. If you decide to "Block" one or more domains, the other ones will be allowed._
 
@@ -71,7 +81,6 @@ You can copy a permission level, and select or deselect options for your require
 
 > _Best Practice: If necessary, create your own SharePoint group and permission level, and avoid modifying or deleting the built-in groups. For more information, please refer to the official Microsoft documentation about the [Default SharePoint Groups](https://docs.microsoft.com/sharepoint/default-sharepoint-groups)._
 
-
 ### Active Directory (AD) Groups
 
 Most organizations already have an on-premises Active Directory, which is synchronized to Microsoft 365. When assigning permissions to a SharePoint site, the recommended approach is to **_add security groups to those SharePoint groups_**.
@@ -103,7 +112,7 @@ If your site is _not_ connected to a group, then not much has changed really. De
 
 **Sites _connected_ to Microsoft 365 groups**
 
-When connected to a group, you still have the possibility to **share the _Site Only_**. Meaning that you don't have to share other resources associated with a Microsoft 365 group (_i.e.: shared mailbox, planner, etc..._).
+When connected to a group, you still have the possibility to **share the _Site Only_**. Meaning that you don't have to share other resources associated with a Microsoft 365 group (_i.e.: shared mailbox, Planner, etc..._).
 
 If however, you wish to share the site as well as including the user(s) within all the resources provisioned with the Microsoft 365 group, then you need to select **Invite people** >> **Add members to group**. The choice is yours! 😉
 
@@ -139,7 +148,7 @@ Two options for who should receive Access Requests:
 - Site Owners
 - Specific email
 
-To know more about how to configure Access Requests, have a look at the official Microsoft documentation: [Set up and manage access requests](https://support.microsoft.com/en-us/office/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
+To know more about how to configure Access Requests, have a look at the official Microsoft documentation: [Set up and manage access requests](https://support.microsoft.com/office/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
 
 ## Other Security Features To Consider
 
@@ -170,3 +179,7 @@ The following documentation is very interesting to help understand how Microsoft
 ## Conclusion
 
 As we've seen throughout this article, SharePoint security is not only a matter of having SharePoint admin permissions. It definitely is a team effort where so many other roles are involved!
+
+---
+
+**Principal author**: [Veronique Lengelle, MVP](https://www.linkedin.com/in/veronique-lengelle-48a71b31)
