@@ -7,7 +7,7 @@ localization_priority:
 description: "SharePoint Usage Glossary"
 ms.collection: SPCommunity
 ---
-# SharePoint Usage Glossary
+# Microsoft 365 Glossary
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
