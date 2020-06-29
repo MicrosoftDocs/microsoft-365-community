@@ -36,6 +36,8 @@
 ### [Working with Cascading Lists in SharePoint and Power Apps](working-with-cascading-lists-in-sharepoint-and-powerapps.md)
 ## Automation
 ### [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
+## Security
+### [Managing SharePoint Online Security: A Team Effort](sharepoint-security-a-team-effort.md)
 ## References
 ### [FastTrack onboarding and adoption services](https://fasttrack.microsoft.com/office)
 ### [Find a SharePoint certified partner](https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support)
