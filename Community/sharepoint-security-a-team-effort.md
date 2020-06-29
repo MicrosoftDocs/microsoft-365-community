@@ -104,13 +104,13 @@ Add your account (to keep access), then _remove_ the default SharePoint groups, 
 
 Site sharing will differ if your site is connected to a Microsoft 365 Group or not. The modern interface allows for a more comprehensive way to control permissions, and offers more granularity when sharing.
 
-**Sites _not connected_ to Microsoft 365 groups**
+#### Sites _not connected_ to Microsoft 365 groups
 
 If your site is _not_ connected to a group, then not much has changed really. Despite the modern interface, SharePoint aficionados will still recognize how to share a site, or be familiar with the _Advanced Permissions Settings_.
 
 ![mmd](media\managing-sharepoint-online-security-a-team-effort\share-site-not-connected.png)
 
-**Sites _connected_ to Microsoft 365 groups**
+#### Sites _connected_ to Microsoft 365 groups
 
 When connected to a group, you still have the possibility to **share the _Site Only_**. Meaning that you don't have to share other resources associated with a Microsoft 365 group (_i.e.: shared mailbox, Planner, etc..._).
 
@@ -118,7 +118,7 @@ If however, you wish to share the site as well as including the user(s) within a
 
 ![mmd](media\managing-sharepoint-online-security-a-team-effort\sharing-site-connected-to-group.png)
 
-**Change how members can share**
+#### Change how members can share
 
 Something else that might also mitigate how sharing occurs, is the possibility to select between the following 3 options:
 
