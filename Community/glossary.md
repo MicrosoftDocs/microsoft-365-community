@@ -41,6 +41,10 @@ See [Wikipedia](https://en.wikipedia.org/wiki/Camel_case). Also see [Pascal Case
 
 An XML fragment used by SharePoint to define the internal structure of sites, lists, fields, views and content types, declaratively, also used to query data in SharePoint lists to selectively retrieve data.
 
+### Citizen Developer
+
+A user whose job definition does not include any development activities and/or without formal software development training, but who nevertheless creates new business applications for consumption by others using development and runtime environments sanctioned by corporate IT.
+
 ### Classic SharePoint
 
 Classic SharePoint refers to the user interface (UI) that was available starting in SharePoint 2013 - what you might think of as the blue and white UI. Classic SharePoint uses master pages and page layouts for content structuring. These capabilities were built on the .NET framework.
