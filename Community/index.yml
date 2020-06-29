@@ -123,6 +123,14 @@ landingContent:
           - text: Working with modern client-side pages using PnP PowerShell
             url:  working-with-modern-clientside-pages-using-pnp-powershell.md
 
+  # Card
+  - title: Security
+    linkLists:
+      - linkListType: concept
+        links:
+          - text: "Managing SharePoint Online Security: A Team Effort"
+            url:  sharepoint-security-a-team-effort.md
+
   # Card (optional)
   - title: References
     linkLists:

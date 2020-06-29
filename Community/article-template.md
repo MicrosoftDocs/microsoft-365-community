@@ -8,9 +8,9 @@ description: template for creating content
 ms.collection:  SPCommunity
 ---
 
-[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
-
 # Main title
+
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
 ## Subtitle
 

@@ -7,7 +7,7 @@ localization_priority:
 description: "SharePoint Usage Glossary"
 ms.collection: SPCommunity
 ---
-# SharePoint Usage Glossary
+# Microsoft 365 Glossary
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
@@ -40,6 +40,10 @@ See [Wikipedia](https://en.wikipedia.org/wiki/Camel_case). Also see [Pascal Case
 ### CAML (Collaborative Application Markup Language)
 
 An XML fragment used by SharePoint to define the internal structure of sites, lists, fields, views and content types, declaratively, also used to query data in SharePoint lists to selectively retrieve data.
+
+### Citizen Developer
+
+A user whose job definition does not include any development activities and/or without formal software development training, but who nevertheless creates new business applications for consumption by others using development and runtime environments sanctioned by corporate IT.
 
 ### Classic SharePoint
 
