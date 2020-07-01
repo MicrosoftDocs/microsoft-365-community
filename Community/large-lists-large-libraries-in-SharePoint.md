@@ -1,6 +1,6 @@
 ---
 title: Living Large with Large Lists and Large Libraries
-ms.date: 5/21/2020
+ms.date: 7/01/2020
 author: PatD
 ms.reviewer: jhendr
 localization_priority:
@@ -35,7 +35,7 @@ When the number of items or documents is so high that SharePoint displays an err
 
 Behind the scenes. SharePoint is querying data from a database.  It, like all systems, can do but so much at a time, and the *Item Limit Threshold* is that limit.  
 
-If you've operated sites with SharePoint Lists or Libraries for any amount of time, you or one of your customers will trigger the Item Limit Threshold in a List or Library. Either they've published a 300,000 row Excel spreadsheet as a new List, or they decided Friday afternoon right-before-quitting-time is the perfect time to upload the entire network drive's contents to a single Library. Views break. Sorting and filtering (especially on-premise) fall apart. Users report *broken* sites and missing data.  
+If you've operated sites with SharePoint Lists or Libraries for any amount of time, you or one of your customers will trigger the Item Limit Threshold in a List or Library. Either they've published a 300,000 row Excel spreadsheet as a new List, or they decided Friday afternoon right-before-quitting-time is the perfect time to upload the entire network drive's contents to a single Library. Views break. Sorting and filtering (especially on-premises) fall apart. Users report *broken* sites and missing data.  
 
 > **The Limit is only the View**
 > As a Site Owner, keep in mind that when the threshold is exceeded, it's a problem with presenting the *View* and not the List/Library contents. All the data is still there, it just can't be displayed. Mentally, separate the (Items, Documents) from the presentation (Views) to help you pick the best solution.
@@ -104,7 +104,7 @@ This is done by going to the List or Library settings, choosing the Indexed Colu
 > **Automatic Indexing:**
 > SharePoint lists/libraries in SharePoint Online now have the capability to index columns automatically. But like all automated processes, it may not index the *right* column for your users, and will not automatically create indexes for lists/libraries with more than 20,000 items. Don't count on this to save you. Plan ahead.
 
-It's important to take this action early - SharePoint on-premise (2013) won't let you create an Index past 5000 items. It is uncertain if there is a hard limit in SharePoint Online, but once you cross those lines, it is difficult to correct. You have to delete lists items to get back down below the limit, and then index the columns. 
+It's important to take this action early - SharePoint on-premises (2013) won't let you create an Index past 5000 items. It is uncertain if there is a hard limit in SharePoint Online, but once you cross those lines, it is difficult to correct. You have to delete lists items to get back down below the limit, and then index the columns. 
 
 For the best user experience you should be proactively ensuring the appropriate columns for your lists/libraries are indexed, based on the columns used most frequently in views and/or filtered by your users.
 

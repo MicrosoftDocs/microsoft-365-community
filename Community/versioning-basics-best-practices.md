@@ -1,6 +1,6 @@
 ---
 title: Versioning in SharePoint
-ms.date: 6/24/2020
+ms.date: 7/01/2020
 author: PatD
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
@@ -32,7 +32,7 @@ Versioning creates a historical record of all changes, with the date/time and in
 
 ## Enabling Versioning
 
-In SharePoint Online or On Premise, versioning is enabled in the List Settings or Library Settings screens by clicking on the 'Versioning settings' link.  An interface is provided to let you control how many versions you'd like to retain. The user must have the Manage Lists permission capability to enable versioning.
+In SharePoint Online or On-Premises, versioning is enabled in the List Settings or Library Settings screens by clicking on the 'Versioning settings' link.  An interface is provided to let you control how many versions you'd like to retain. The user must have the Manage Lists permission capability to enable versioning.
 
 ## Disabling Versioning
 
@@ -47,15 +47,15 @@ Note: Versioning can also be enabled or disabled through PowerShell, SharePoint 
 
 In SharePoint Online, select the list item or document, and in the Actions menu, select Version History.  You can also see a link to the version history in the details pane.
 
-In SharePoint on premises (2010, 2013, 2016, 2019) you can view version history by clicking on the link in the ribbon menu.
+In SharePoint on-premises (2010, 2013, 2016, 2019) you can view version history by clicking on the link in the ribbon menu.
 
 In both products, Version History opens in a modal dialog box, with options to View, Restore, or Delete the entry. If any SharePoint Metadata columns were changed, that column and its new value will be displayed.
 
-## SharePoint Online vs SharePoint On Premise
+## SharePoint Online vs SharePoint On-Premises
 
 Historically, versioning is not enabled by default at the creation of a list or library.  Recently, SharePoint Online has started enabling it by default in libraries when they're created.
 
-|            | Online                 | On Premise             |
+|            | Online                 | On-Premises             |
 | ----------| ---------------------- | ---------------------- |
 | Lists     | Not enabled at creation | Not enabled at creation |
 | Libraries  | Enabled at creation (and set to 500 versions)   | Not enabled at creation |
@@ -77,7 +77,7 @@ Lists usually only have Major versions.
 
 * The Version column in SharePoint Views is sometimes not a number column. If you sort it, version 12 shows up in between version 1 and 2.
 * It is a best practice to enable Versioning in a *list* at creation and not set a limit of major versions. It takes up very little space, and your end users will thank you for it.
-* In an average SharePoint On Premise farm, setting document library versions up to 10 major and 10 minor has, in practice, been enough for any group that can't define how many versions they need.
+* In an average SharePoint On-Premises farm, setting document library versions up to 10 major and 10 minor has, in practice, been enough for any group that can't define how many versions they need.
 * A deleted and then restored file/list item maintains its old versions.
 * In a list with versioning enabled, attachment changes are not versioned.
 * Limiting the number of versions is generally a good practice. It means you can conserve space on the server and reduce clutter for users. But, if your organization is required to save all versions for legal or other reasons, don’t apply any limits.
