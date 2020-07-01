@@ -1,6 +1,6 @@
 ---
 title: Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions.
-ms.date: 5/14/2020
+ms.date: 07/01/2020
 author: PatD
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
@@ -28,7 +28,7 @@ As a SharePoint Site Owner, you should already be familiar with these permission
 * [Customizing SharePoint Permissions](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
 
-This has been the model for On Premise SharePoint Site Collections for some time.
+This has been the model for On-Premises SharePoint Site Collections for some time.
 
 
 ## Where things are different with Office 365 Group-generated SharePoint Sites
