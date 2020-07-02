@@ -21,7 +21,7 @@
 ### [Information Architecture - Managed Metadata vs Lookup columns](information-architecture-managed-metadata-vs-lookup-column.md)
 ### [Living Large with Large Lists and Large Libraries](large-lists-large-libraries-in-SharePoint.md)
 ## Making Better Decisions
-### [Teams Site vs. Communication Site: Which one should I choose?](team-site-or-communication-site.md)
+### [Team Site vs. Communication Site: Which one should I choose?](team-site-or-communication-site.md)
 ### [List columns or Site columns: Which one to choose?](list-column-or-site-column-which-one-to-choose.md)
 ### [Changing Microsoft Teams from Private to Public, what to expect in SharePoint?](changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md)
 ### [A Guided Tour Designed to Help You Select an Effective Navigation Strategy](select-an-effective-navigation-strategy.md)
