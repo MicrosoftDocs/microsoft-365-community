@@ -45,7 +45,7 @@ To enable the Security Defaults within your Microsoft 365 directory:
 4.  Set the **Enable Security Defaults** toggle to **Yes**
 5.  Select **Save**
 
-You can also choose to disable these features and create your own set of security rules and controls, by either not enabling the Security Defaults or if they are enabled setting the Enable Security Defaults toggle to No. To learn more about the Security Defaults provided out of the box, click https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults.
+You can also choose to disable these features and create your own set of security rules and controls, by either not enabling the Security Defaults or if they are enabled setting the Enable Security Defaults toggle to No. To learn more about the Security Defaults provided out of the box, click https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults.
 
 
 ## Custom Security Configuration
@@ -80,8 +80,8 @@ The following list of Security controls and features outlines the **Business and
 Multi-Factor Authentication can be explicitly assigned to users or administrators or enforced using Conditional Access Policies. The preferred approach to implementing Conditional Access Policies. These policies provide more granularity to when users need to provide the second factor, versus it having to be every time. Administrator Multi-Factor Authentication using Conditional Access Policies can be created and enabled for free, whereas end-user configuration does require every user to have a license that allows this to work. 
 
 **How:** To learn how to implement Administrator and User Multi-Factor Conditional Access Policies, use the links below.
-Enable a Conditional Access Policy for Multi-Factor for Administrator Accounts: https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-policy-admin-mfa#create-a-conditional-access-policy
-Enable a Conditional Access Policy for Multi-Factor for all User Accounts: https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-policy-all-users-mfa#create-a-conditional-access-policy
+Enable a Conditional Access Policy for Multi-Factor for Administrator Accounts: https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-admin-mfa#create-a-conditional-access-policy
+Enable a Conditional Access Policy for Multi-Factor for all User Accounts: https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-all-users-mfa#create-a-conditional-access-policy
 
 **NOTE:** Be aware that adding a single Azure Active Directory Premium (Plan 1 or Plan 2) for an Administrator will enable the features, but not license it for every user. 
 
@@ -94,7 +94,7 @@ Enable a Conditional Access Policy for Multi-Factor for all User Accounts: https
 
 With a time specified, users will be signed out from all Microsoft 365 services, not just SharePoint Online and OneDrive for Business unless they have selected to stay signed-in. The end-user experience is also different if they are inactive in other browser tabs but not in a SharePoint Online or OneDrive for Business one; then, all tabs will stay signed in.
 
-**How:** To learn how to implement Idle Session Sign-out, click https://docs.microsoft.com/en-us/sharepoint/sign-out-inactive-users#specify-idle-session-sign-out-settings-in-the-new-sharepoint-admin-center
+**How:** To learn how to implement Idle Session Sign-out, click https://docs.microsoft.com/sharepoint/sign-out-inactive-users#specify-idle-session-sign-out-settings-in-the-new-sharepoint-admin-center
 
 
 ### Block Legacy Authentication
@@ -128,7 +128,7 @@ Filtering will only show you the attempted sign-ins that used legacy authenticat
 
 Blocking legacy authentication is performed by configuring conditional access policies.
 
-**How:** To learn how to implement Idle Session Sign-out, click https://docs.microsoft.com/en-us/sharepoint/sign-out-inactive-users#specify-idle-session-sign-out-settings-in-the-new-sharepoint-admin-center 
+**How:** To learn how to implement Idle Session Sign-out, click https://docs.microsoft.com/sharepoint/sign-out-inactive-users#specify-idle-session-sign-out-settings-in-the-new-sharepoint-admin-center 
 
 
 ### Set User Passwords to Never Expire
@@ -141,7 +141,7 @@ There are two options for disabling expiration of passwords:
 1. Disable password expiration either on a per-user or for the organization within Azure Active Directory
 2. Sync passwords from On-premises Active Directory using Azure AD Connect. This sync includes password policies 
 
-**How:** To learn how to implement a password expiration policy, click https://docs.microsoft.com/en-us/microsoft-365/admin/add-users/set-password-to-never-expire?view=o365-worldwide
+**How:** To learn how to implement a password expiration policy, click https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire?view=o365-worldwide
 
 
 ### External Sharing
@@ -150,7 +150,7 @@ There are two options for disabling expiration of passwords:
 
 **Protection:** Microsoft 365 provides external sharing settings at the tenant and application levels. The decision to modify these settings should be business-related. Setting this to **Only people in your organization**, limits external sharing capabilities. Content can then only be shared, using accounts that already exist within the existing Azure Active Directory, whether internal users or external guest accounts. Adding external accounts then becomes a controlled process. 
 
-**How:** To learn how to implement external sharing protections, click https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off 
+**How:** To learn how to implement external sharing protections, click https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off 
 
 ---
 
