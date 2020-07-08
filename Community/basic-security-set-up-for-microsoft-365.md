@@ -1,8 +1,14 @@
 ---
 title: Basic Security Set Up for Microsoft 365
+<<<<<<< HEAD:Community/basic-security-set-up-for-microsoft-365.md
 ms.date: 7/08/2020
 author: helloitsliam
 ms.reviewer:  Joanne Hendrickson
+=======
+ms.date: 7/8/2020
+author: helloitsliam
+ms.reviewer:  jhendr
+>>>>>>> a44b0769938df4c0e127bca061d4ed6b7c1142ea:Community/basic-security-set-up-for-microsoft-365.md
 localization_priority: 
 description: Basic Security Set Up for Microsoft 365
 ms.collection:  SPCommunity
@@ -38,13 +44,21 @@ A caveat to using these controls is that if you have custom created Conditional 
 
 To enable the Security Defaults within your Microsoft 365 directory:
 
+<<<<<<< HEAD:Community/basic-security-set-up-for-microsoft-365.md
 1. Sign in to the **Azure Portal** (<https://portal.azure.com>) as either a Security Administrator, Conditional Access Administrator or Global Administrator
+=======
+1. Sign in to the [Azure Portal](https://portal.azure.com) as either a Security Administrator, Conditional Access Administrator or Global Administrator
+>>>>>>> a44b0769938df4c0e127bca061d4ed6b7c1142ea:Community/basic-security-set-up-for-microsoft-365.md
 2. Click on **Azure Active Directory**, then click **Properties**
 3. Select the link at the bottom labeled **Manage Security Defaults**
 4. Set the **Enable Security Defaults** toggle to **Yes**
 5. Select **Save**
 
+<<<<<<< HEAD:Community/basic-security-set-up-for-microsoft-365.md
 You can also choose to disable these features and create your own set of security rules and controls, by either not enabling the Security Defaults or if they are enabled setting the Enable Security Defaults toggle to No. To learn more about the Security Defaults provided out of the box, click <https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults>.
+=======
+You can also choose to disable these features and create your own set of security rules and controls, by either not enabling the Security Defaults or if they are enabled setting the Enable Security Defaults toggle to No. Learn more about the [Security Defaults provided out of the box](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults.).
+>>>>>>> a44b0769938df4c0e127bca061d4ed6b7c1142ea:Community/basic-security-set-up-for-microsoft-365.md
 
 ## Custom Security Configuration
 
@@ -54,7 +68,7 @@ This design allows more granular control and protections that can cater to your 
 
 ## Accepting the Risk
 
-The type of Security protections, you might enable or deploy, comes down to the level of risk you are willing to accept as an organization. Enabling or Disabling the Security Defaults will be precisely that. For example, when working within Microsoft 365 for Education, the Security Defaults are not the most efficient security controls to use. You may wonder why? If you remember, a core Security Default is forcing all users to register for Multi-Factor Authentication. If you are within a school, such as a High School, this will force all Students to register their Mobile Devices to access services. This approach forces all Students through the registration process, which would require extensive planning and support.
+The type of Security protections you might enable or deploy comes down to the level of risk you are willing to accept as an organization. Enabling or Disabling the Security Defaults will be precisely that. For example, when working within Microsoft 365 for Education, the Security Defaults are not the most efficient security controls to use. You may wonder why? If you remember, a core Security Default is forcing all users to register for Multi-Factor Authentication. If you are within a school, such as a High School, this will force all Students to register their Mobile Devices to access services. This approach forces all Students through the registration process, which would require extensive planning and support.
 
 It then becomes a decision on assuming the risk. If you understand the risk, then the control for this becomes negated. Designing a Security plan for any organization will require this level of thinking and may not provide the level of Security that an organization needs.
 
@@ -62,7 +76,7 @@ It then becomes a decision on assuming the risk. If you understand the risk, the
 
 Every Microsoft 365 Tenant needs a Security configuration. The out of the box capabilities provide the first line of defense at the service level. Even though Authentication controls are in place, they are not the only controls required.
 
-There are five core security controls, and features, if enabled within all Tenants, will provide a solid foundation for other protections that can be applied as needed by the organization.
+There are five core security controls and features, which if enabled within all Tenants, will provide a solid foundation for other protections that can be applied as needed by the organization.
 
 The following list of Security controls and features outlines the **Business and Security Risk**, **the Protection Features or Components**, and links for **How to Enable** the required protections.
 
@@ -75,8 +89,14 @@ The following list of Security controls and features outlines the **Business and
 Multi-Factor Authentication can be explicitly assigned to users or administrators or enforced using Conditional Access Policies. The preferred approach to implementing Conditional Access Policies. These policies provide more granularity to when users need to provide the second factor, versus it having to be every time. Administrator Multi-Factor Authentication using Conditional Access Policies can be created and enabled for free, whereas end-user configuration does require every user to have a license that allows this to work.
 
 **How:** To learn how to implement Administrator and User Multi-Factor Conditional Access Policies, use the links below.
+<<<<<<< HEAD:Community/basic-security-set-up-for-microsoft-365.md
 Enable a Conditional Access Policy for Multi-Factor for Administrator Accounts: <https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-admin-mfa#create-a-conditional-access-policy>
 Enable a Conditional Access Policy for Multi-Factor for all User Accounts: <https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-all-users-mfa#create-a-conditional-access-policy>
+=======
+
+* [Enable a Conditional Access Policy for Multi-Factor for Administrator Accounts](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-admin-mfa#create-a-conditional-access-policy)
+* [Enable a Conditional Access Policy for Multi-Factor for all User Accounts](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-all-users-mfa#create-a-conditional-access-policy)
+>>>>>>> a44b0769938df4c0e127bca061d4ed6b7c1142ea:Community/basic-security-set-up-for-microsoft-365.md
 
 **NOTE:** Be aware that adding a single Azure Active Directory Premium (Plan 1 or Plan 2) for an Administrator will enable the features, but not license it for every user.
 
@@ -86,9 +106,15 @@ Enable a Conditional Access Policy for Multi-Factor for all User Accounts: <http
 
 **Protection:** The Idle session sign-out lets organizations specify a time at which end-users receive a warning and automatically sign out of Microsoft 365. After the specified period of inactivity within SharePoint Online and OneDrive for Business, automatic sign-out occurs. This sign-out activity works using end-user requests sent to SharePoint Online or OneDrive for Business, not by moving the mouse in the browser when accessing either service.
 
+<<<<<<< HEAD:Community/basic-security-set-up-for-microsoft-365.md
 With a time specified, users will be signed out from all Microsoft 365 services, not just SharePoint Online and OneDrive for Business unless they have selected to stay signed-in. The end-user experience is also different if they are inactive in other browser tabs but not in a SharePoint Online or OneDrive for Business one; then, all tabs will stay signed in.
 
 **How:** To learn how to implement Idle Session Sign-out, click <https://docs.microsoft.com/sharepoint/sign-out-inactive-users#specify-idle-session-sign-out-settings-in-the-new-sharepoint-admin-center>
+=======
+With a time specified, users will be signed out from all Microsoft 365 services, not just SharePoint Online and OneDrive for Business unless they have selected to stay signed-in. The end-user experience is also different if they are inactive in other browser tabs but not in a SharePoint Online or OneDrive for Business one; then all tabs will stay signed in.
+
+**How:** Learn how to [implement Idle Session Sign-out](https://docs.microsoft.com/sharepoint/sign-out-inactive-users#specify-idle-session-sign-out-settings-in-the-new-sharepoint-admin-center).
+>>>>>>> a44b0769938df4c0e127bca061d4ed6b7c1142ea:Community/basic-security-set-up-for-microsoft-365.md
 
 ### Block Legacy Authentication
 
@@ -96,6 +122,7 @@ With a time specified, users will be signed out from all Microsoft 365 services,
 
 **Protection:** Though blocking legacy authentication is critical to the Security of the Microsoft 365 Tenant, you need to ensure that all applications and mail protocols used to support the modern authentication approach and work without the legacy capabilities. Such applications and services that utilize legacy authentication are:
 
+<<<<<<< HEAD:Community/basic-security-set-up-for-microsoft-365.md
 *Authenticated*
 *SMTP*
 *Autodiscover (used by Outlook)*
@@ -112,6 +139,24 @@ With a time specified, users will be signed out from all Microsoft 365 services,
 To help in identifying legacy authentication used within your organization, you can filter the Azure Active Directory Sign-ins and validate that legacy is either required or can be disabled.
 
 1. Sign in to the **Azure Portal** (<https://portal.azure.com>) as either a Security Administrator, Conditional Access Administrator or Global Administrator
+=======
+* *Authenticated*
+* *SMTP*
+* *Autodiscover (used by Outlook)*
+* *Exchange ActiveSync*
+* *Exchange Online PowerShell*
+* *Exchange Web Services*
+* *IMPA4*
+* *MAPI over HTTP (used by Outlook 2010 and later)*
+* *Offline Address Book*
+* *Outlook Anywhere (RPC over HTTP)*
+* *Outlook Service POP3*
+* *Reporting Web Services*
+
+To help identify legacy authentication used within your organization, you can filter the Azure Active Directory Sign-ins and validate that legacy is either required or can be disabled.
+
+1. Sign in to the [Azure Portal](https://portal.azure.com) as either a Security Administrator, Conditional Access Administrator or Global Administrator
+>>>>>>> a44b0769938df4c0e127bca061d4ed6b7c1142ea:Community/basic-security-set-up-for-microsoft-365.md
 2. Click on **Azure Active Directory**, then click **Sign-ins**
 3. Add the Client App column by clicking **Columns**, then **Client App**
 4. Click **Add Filters**, then **Client App**
@@ -121,7 +166,11 @@ Filtering will only show you the attempted sign-ins that used legacy authenticat
 
 Blocking legacy authentication is performed by configuring conditional access policies.
 
+<<<<<<< HEAD:Community/basic-security-set-up-for-microsoft-365.md
 **How:** To learn how to implement Block Legacy Authentication, click <https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/block-legacy-authentication>
+=======
+**How:** Learn how to [implement Idle Session Sign-out](https://docs.microsoft.com/sharepoint/sign-out-inactive-users#specify-idle-session-sign-out-settings-in-the-new-sharepoint-admin-center).
+>>>>>>> a44b0769938df4c0e127bca061d4ed6b7c1142ea:Community/basic-security-set-up-for-microsoft-365.md
 
 ### Set User Passwords to Never Expire
 
@@ -134,12 +183,17 @@ There are two options for disabling expiration of passwords:
 1. Disable password expiration either on a per-user or for the organization within Azure Active Directory
 2. Sync passwords from On-premises Active Directory using Azure AD Connect. This sync includes password policies
 
+<<<<<<< HEAD:Community/basic-security-set-up-for-microsoft-365.md
 **How:** To learn how to implement a password expiration policy, click <https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire?view=o365-worldwide>
+=======
+**How:** Learn how to [implement a password expiration policy](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire?view=o365-worldwide)
+>>>>>>> a44b0769938df4c0e127bca061d4ed6b7c1142ea:Community/basic-security-set-up-for-microsoft-365.md
 
 ### External Sharing
 
-**Risk:** External sharing of content is always a risk for any organization. Due to how SharePoint assigns permissions and control access, data such as Personally Identifiable Information (PII) data might get shared externally with no protections, especially if any external email is allowed. *SharePoint External Sharing** is a top-level configuration setting which controls sharing content from SharePoint to anyone, including non-corporate accounts. This setting is available at the Tenant organization level, which is utilized at lower levels within Office 365 unless set explicitly at the application level.
+**Risk:** External sharing of content is always a risk for any organization. Due to how SharePoint assigns permissions and control access, data such as Personally Identifiable Information (PII) data might get shared externally with no protections, especially if any external email is allowed. *SharePoint External Sharing* is a top-level configuration setting which controls sharing content from SharePoint to anyone, including non-corporate accounts. This setting is available at the Tenant organization level, which is utilized at lower levels within Office 365 unless set explicitly at the application level.
 
+<<<<<<< HEAD:Community/basic-security-set-up-for-microsoft-365.md
 **Protection:** Microsoft 365 provides external sharing settings at the tenant and application levels. The decision to modify these settings should be business-related. Setting this to **Only people in your organization**, limits external sharing capabilities. Content can then only be shared, using accounts that already exist within the existing Azure Active Directory, whether internal users or external guest accounts. Adding external accounts then becomes a controlled process.
 
 **How:** To learn how to implement external sharing protections, click <https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off>
@@ -147,5 +201,14 @@ There are two options for disabling expiration of passwords:
 ---
 
 **Principal author**: Liam Cleary (<https://www.linkedin.com/in/liamcleary>)
+=======
+**Protection:** Microsoft 365 provides external sharing settings at the tenant and application levels. The decision to modify these settings should be business-related. Setting this to **Only people in your organization**, limits external sharing capabilities. Content can then only be shared using accounts that already exist within the existing Azure Active Directory, whether internal users or external guest accounts. Adding external accounts then becomes a controlled process.
+
+**How:** Learn how to [implement external sharing protections](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off )
+
+---
+
+**Principal author**: [Liam Cleary](https://www.linkedin.com/in/liamcleary)
+>>>>>>> a44b0769938df4c0e127bca061d4ed6b7c1142ea:Community/basic-security-set-up-for-microsoft-365.md
 
 ---
