@@ -122,9 +122,9 @@ Filtering will only show you the attempted sign-ins that used legacy authenticat
 
 Blocking legacy authentication is performed by configuring conditional access policies.
 
-**How:** Learn how to [implement Idle Session Sign-out](https://docs.microsoft.com/sharepoint/sign-out-inactive-users#specify-idle-session-sign-out-settings-in-the-new-sharepoint-admin-center).
+**How:** Learn how to [block legacy authentication](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication).
 
-## Set User Passwords to Never Expire
+### Set User Passwords to Never Expire
 
 **Risk:** When enforcing periodic password resets, passwords become less secure. Users tend to pick a weaker password and vary it slightly for each reset. This type of behavior can often lead to re-use of existing passwords, as well as malicious attackers, guessing the password. If a user creates a secure password (long, complicated, and without any pragmatic words present), it should remain just as strong in 60 days as it is today.
 
@@ -137,7 +137,7 @@ There are two options for disabling expiration of passwords:
 
 **How:** Learn how to [implement a password expiration policy](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire?view=o365-worldwide)
 
-## External Sharing
+### External Sharing
 
 **Risk:** External sharing of content is always a risk for any organization. Due to how SharePoint assigns permissions and control access, data such as Personally Identifiable Information (PII) data might get shared externally with no protections, especially if any external email is allowed. *SharePoint External Sharing* is a top-level configuration setting which controls sharing content from SharePoint to anyone, including non-corporate accounts. This setting is available at the Tenant organization level, which is utilized at lower levels within Office 365 unless set explicitly at the application level.
 
