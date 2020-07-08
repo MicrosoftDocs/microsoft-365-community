@@ -129,7 +129,9 @@ landingContent:
       - linkListType: concept
         links:
           - text: "Managing SharePoint Online Security: A Team Effort"
-            url:  sharepoint-security-a-team-effort.md
+            url: sharepoint-security-a-team-effort.md
+          - text: "Basic Security Set Up for Microsoft 365"
+            url: basic-security-set-up-for-microsoft-365.md
 
   # Card (optional)
   - title: References
