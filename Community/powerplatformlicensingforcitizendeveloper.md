@@ -89,18 +89,24 @@ The following set of points discuss the license differences:
 - Seeded Power Apps
   - Bundled with Office 365 and Dynamics 365
   - Does not require a Per User/Per App or Unlimited Apps plan but there are limits on the with Office 365 and Power Automate side
-    - Office 365 includes Standard connectors but not Premium Connectors
-    - Office 365 include access to Office 365 features such as SharePoint directly but not via HTTP which is considered a Premium connector
-    - Office 365 does not include CDS capacity
-    - Office 365 does not include access to on premises services via the data gateway
-    - Office 365 Data API limited to 2000 requests per day
+  - Office 365 specific abilities\limitations:
+    - Includes Standard connectors but not Premium Connectors
+    - Includes access to Office 365 features such as SharePoint directly but not via HTTP which is considered a Premium connector
+    - Does not include CDS capacity
+    - Does not include access to on premises services via the data gateway
+    - Data API limited to 2000 requests per day
+    - No model driven custom apps 
+    - No Power Apps portal access
+  - Dynamics 365 specific abilities\limitations:
+    - Create, read, update Delete Access to Dynamics 365 restricted entities limited to 15 in basic Dynamics 365
+    - CDS use and capacity included with Dynamics 365
+    - Run custom apps (canvas/model driven) in Dynamics 365 Enterprise Applications only
+    - Create and Access custom entities (limited to 15 in non Dynamics 365 Enterprise Applications)
+    - Dynamics 365 restricted entity use rights (create, read, updated and delete)
+    - Power Apps Portal only in context of Dynamics 365 Enterprise Applications
+    - May use prebuilt Standard and Premium Connectors
   - Apps typically created to customize or extend Office 365 and Dynamics 365 features
     - e.g. Provisioning SharePoint Online Sites or Lists
-  - Standard and Premium Connectors included only when in context of Office 365 or Dynamics
-  - No Power Apps portal included
-  - Access to on premises resources via a data gateway
-  - Create, read, update Delete Access to Dynamics 365 restricted entities limited to 15 in basic Dynamics 365
-  - CDS use and capacity included with Dynamics 365
 
 The guide shows in various tables the details of for each of these plans along with footnotes providing specific detail or caveats.  For Power Apps, there is one note referring to &quot;Appendix B&quot; which is about Premium Connectors recently added.  The context for that information is not just to allow comparison against the old plan but to show what may have originally been considered standard as well as new items recently introduced.  A major item that is common to applications build by people familiar and comfortable with T-SQL and SQL Server for data as opposed to SharePoint lists or the CDS, is the SQL Connector which is noted now as Premium.  Appendix B should be consulted if you are seeing whether you need a license for an existing app.
 
