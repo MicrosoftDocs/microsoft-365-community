@@ -1,6 +1,6 @@
 ---
 title: Basic Security Set Up for Microsoft 365
-ms.date: 7/8/2020
+ms.date: 7/9/2020
 author: helloitsliam
 ms.reviewer:  jhendr
 localization_priority: 
@@ -219,5 +219,3 @@ It is essential to continually monitor and review these reports and logs, not on
 ---
 
 **Principal author**: [Liam Cleary](https://www.linkedin.com/in/liamcleary)
-
----
