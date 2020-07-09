@@ -210,6 +210,12 @@ Users can consent to all apps - This option allows all end-users to consent to a
 * [Configure how end-users consent to applications](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent#configure-user-consent-settings-from-the-azure-portal)
 * [Configure the admin consent workflow](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow#enable-the-admin-consent-workflow)
 
+## Security Considerations
+
+With any security configuration, they are only as good as the attacks that are known. New attack types are surfacing almost daily, which could make these controls ineffective. To help mitigate Microsoft 365 provides multiple logging capabilities and reports. Some are straight reports or log entries; others provide feedback or even instruction on how to mitigate.
+
+It is essential to continually monitor and review these reports and logs, not only to ensure they are working but also to implement further controls and capabilities as they are needed.
+
 ---
 
 **Principal author**: [Liam Cleary](https://www.linkedin.com/in/liamcleary)
