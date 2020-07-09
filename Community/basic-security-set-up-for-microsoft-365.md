@@ -182,11 +182,11 @@ Using Mobile application management (MAM) policies will require end-users to hav
 
 **Risk:** Client Rules Forwarding Block lets you manage email auto-forwarding in your organization. Using client-side forwarding rules to exfiltrate data to external recipients is becoming an increasingly used vector for attackers.
 
-**Protection:** Exchange Online provides the ability to enable client forwarding rules and disable them. There are four core options:
+**Protection:** Exchange Online provides the ability to enable client forwarding rules and disable them. There are three core options:
 
-Remote Domains - Set **Allow automatic forwarding** to disable
-Role-Based Access Control (RBAC) - Use RBAC to limit the impact and create a new management role that restricts the properties **DeliverToMailboxAndForward**, **ForwardingAddress** and **ForwardingSmtpAddress**.
-Transport Rules - Implementing a Transport Rule can stop emails set to be Auto-Forwarded to an external address. These transport rules use **IF** logic. The rule checks if the sender is located **Inside the organization**, along with if the recipient is located **Outside the organization**, and if the message type is **Auto-Forward**, then it rejects the message.
+* **Remote Domains** - Set 'Allow automatic forwarding' to disable
+* **Role-Based Access Control (RBAC)** - Use RBAC to limit the impact by creating a new management role that restricts forwarding and delivery
+* **Transport Rules** - Implementing a Transport Rule can stop emails set to be Auto-Forwarded to an external address. These transport rules use 'IF' logic. The rule checks if the sender is located 'Inside the organization', along with if the recipient is located 'Outside the organization', and if the message type is 'Auto-Forward', then it rejects the message.
 
 **How:** Learn how to [block and control client forwarding rules](https://support.microsoft.com/office/stop-auto-forwarding-emails-in-microsoft-365-f9d693ba-5c78-47c0-b156-8e461e062aa7)
 
