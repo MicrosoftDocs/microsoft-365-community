@@ -15,18 +15,18 @@ Before we jump to the topic at hand, a little recap of the terminology involved:
 
 * Metadata: means information about something, in SharePoint usually information about documents, pages or list items
 * List column: is a metadata column in a list or library. The column itself can be of different data types: text, numbers, date & time, people picker, managed metadata, etc.
-* Lookup column: This is a column type where we the data values come from another list in the same site (web).
+* Lookup column: This is a column type where the data values come from another list in the same site (web).
 * Managed metadata: A globally available metadata service that can be shared by all site collections in SharePoint Online or SharePoint on premises.
 
 ## How do Lookup columns work?
 
-A lookup column is a metadata column that that gets its data from another list in the same site. Before you start creating the column it's always a good practice to actually think of how your column relationships will work. This will depends on your use case(s).
+A lookup column is a metadata column that gets its data from another list in the same site. Before you start creating the column it's always a good practice to actually think of how your column relationships will work. This will depend on your use case(s).
 
 Example: I have a document library where our company stores our vendor agreements and would like to "tag" each agreement with the vendor name(s). That way it's easier for us to find specific documents, filter by vendor, etc.
 
 * In SharePoint, create a document library called Vendor Agreements
 * In the same site create a custom list named Vendors
-* You can extend the list to contain more data, but in this case I will create two extra date & time columns to to see if the vendor is still active or not. You can of course use column formatting to make it look better.
+* You can extend the list to contain more data, but in this case I will create two extra date & time columns to see if the vendor is still active or not. You can of course use column formatting to make it look better.
 
 ![vendorlist](media/information-architecture-managed-metadata-vs-lookup-column/vendor01.png)
 
