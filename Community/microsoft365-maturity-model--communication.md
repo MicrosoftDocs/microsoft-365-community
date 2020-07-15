@@ -61,7 +61,7 @@ Every organization can choose how best to use the Microsoft 365 platform for com
 
 ## Evolution of this competency
 
-![Communication](media\microsoft365-maturity-model--communication\Microsoft365MaturityModel-Communication.png)
+![Communication](media/microsoft365-maturity-model--communication/Microsoft365MaturityModel-Communication.png)
 
 ### Level 100
 
