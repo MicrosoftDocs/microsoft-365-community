@@ -61,6 +61,8 @@ Every organization can choose how best to use the Microsoft 365 platform for com
 
 ## Evolution of this competency
 
+![Communications](media/microsoft365-maturity-model--communications/Microsoft365MaturityModel-Communications.png)
+
 ### Level 100
 
 The entry point for the Communication competency is often simply a set of documents in a SharePoint Document Library. These documents are most commonly organized into folders by topics, and the folders may be 5-7 layers deep. This is usually the first step in moving from a shared folders environment to a Web-based environment.
