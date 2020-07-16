@@ -133,13 +133,15 @@ As with all web parts in SharePoint, this we part will only display content whic
 
 ### Home Site
 
-A Home Site is a special type of [Hub Site](#hub-site) with a few extra superpowers:
+A Home site is the top site of your intranet. It is a [Communication Site](#communication-site) with a few extra superpowers:
 
 * The Home Site is the destination for the home icon in the SharePoint mobile app.
 
-* The Home Site  provides an enterprise-wide search scope, making ALL content in your tenant findable.
+* The Home Site  provides an organization-wide search scope, making ALL content in your tenant findable.
 
-Home sites are intended for use as the landing page for your organization. There is only one Home Site per tenant allowed.
+* The Home Site  is set up as an [organization news site](https://docs.microsoft.com/sharepoint/organization-news-site).
+
+Home sites are intended for use as the landing page for your organization. There is only one Home Site per tenant allowed and [its set using PowerShell](https://docs.microsoft.com/SharePoint/home-site)
 
 ### Hub Site
 
