@@ -12,18 +12,16 @@ ms.collection: SPCommunity
 
 
 ## All Items
+As a SharePoint Site Owner, you benefit directly by having users who find the product _useful_ with a good _user experience._ Some things you have control over – navigation structure, page structure, content types, and List/Library Views. If you totally ignore what you have influence over, your users might perceive SharePoint as _something IT imposed on us_ without. If you lend a hand as Site Owner, you can change that perception. You can be the one who makes Lists/Libraries a joy to work in, a _useful_ thing to work in.
 
-As a SharePoint Site Owner, you benefit directly by having users who find the product _useful_ with a good _user experience._ Some things you have control over – navigation structure, page structure, content types, and List/Library Views. If you totally ignore what you have influence over, your users might perceive SharePoint as _something IT imposed on us_ without thought. If you lend a hand as Site Owner, you can change that perception. You can be the one who makes Lists/Libraries a joy to work in, a _useful_ thing to work in.
+ You should lend a hand to your users by making List/Library default Views meaningful and useful from the start. Users can make their own Views, of course, but by showing them what a good View is like, you can empower them to work efficiently.
 
- You can lend a hand to your users by making List/Library default Views meaningful and useful from the start. Users can make their own Views, of course, but by showing them what a good View is like, you can empower them to work efficiently.
+> **Microsoft Lists**
 
-**Notes** :
- At the time of this writing, _Microsoft 365 Lists_ – as a standalone product – are on the way. Much of the thinking here should apply the _Lists_ the tool as well. Good usability crosses product lines.
+> At the time of this writing, _Microsoft 365 Lists_ – as a standalone product – is on the way. Much of the thinking here should apply the _Lists_ the tool as well. Good usability crosses product lines.
 
 ## How to make a great default View
-
-
-This is as much a UX (User eXperience) thought-process as it is a technical one. Your goal should always be displaying only the necessary columns for a user in the default View. Here&#39;s the high-level steps to think about:
+This is as much a UX (User eXperience) thought-process as it is a technical one. Your goal should always be displaying only the necessary columns for a user in the default View. Here are the high-level steps to think about:
 
 1. Have a firm understanding of what a SharePoint View can do
 2. Think about _how_ your users might work in the List/Library
@@ -32,50 +30,48 @@ This is as much a UX (User eXperience) thought-process as it is a technical one.
 5. Understand and apply proven _UX principals_ for laying out things on a screen.
 6. Make that default View!
 
-**Note:**
 
-This article is left-to-right language focused – and should not be considered best practice for right-to-left languages (like Arabic or Hebrew).
+>**On language:**
 
- Get involved and contribute to this open source article here: [https://github.com/MicrosoftDocs/microsoft-365-community](https://github.com/MicrosoftDocs/microsoft-365-community)
+>This article is left-to-right language focused – and should not be considered best practice for right-to-left languages (like Arabic or Hebrew).
 
-Multilingual SharePoint guidance from Microsoft: [https://docs.microsoft.com/en-us/sharepoint/sites/plan-for-multilingual-sites](https://docs.microsoft.com/en-us/sharepoint/sites/plan-for-multilingual-sites)
+> * Get involved and improve this open source article here: [https://github.com/MicrosoftDocs/microsoft-365-community](https://github.com/MicrosoftDocs/microsoft-365-community)
+> * Multilingual SharePoint guidance from Microsoft: [https://docs.microsoft.com/en-us/sharepoint/sites/plan-for-multilingual-sites](https://docs.microsoft.com/en-us/sharepoint/sites/plan-for-multilingual-sites)
+> * SharePoint Online Communication Sites and Pages: [https://support.microsoft.com/en-us/office/create-multilingual-communication-sites-pages-and-news-2bb7d610-5453-41c6-a0e8-6f40b3ed750c](https://support.microsoft.com/en-us/office/create-multilingual-communication-sites-pages-and-news-2bb7d610-5453-41c6-a0e8-6f40b3ed750c)
 
-SharePoint Online Communication Sites and Pages: [https://support.microsoft.com/en-us/office/create-multilingual-communication-sites-pages-and-news-2bb7d610-5453-41c6-a0e8-6f40b3ed750c](https://support.microsoft.com/en-us/office/create-multilingual-communication-sites-pages-and-news-2bb7d610-5453-41c6-a0e8-6f40b3ed750c)
 
 ## Understanding List/Library View capability
+As a site owner, get yourself up to speed on SharePoint List/Library View features and capabilities. You should know how to show/hide columns, change the sort order, make multiple views, and how to add column choices to the Modern UI filters pane.
 
-As a site owner, get yourself up to speed on SharePoint List View features and capabilities. You should know how to show/hide columns, change the sort order, make multiple views, and how to add column choices to the Modern UI filters pane.
+
+>**SharePoint Designer Views:**
+
+>If someone told you to make a View in _SharePoint Designer_: Years ago, this was a viable tool for that, but that product is deprecated and will be unsupported in a few years. Do not use it.
 
 You should also learn concepts like item/document View metadata filtering and grouping content.
 
-**Note:**
+* Microsoft has an overview of View creation here: [https://support.microsoft.com/en-us/office/edit-a-list-view-in-sharepoint-15916903-e79a-423f-b4e2-02d37e1ff372](https://support.microsoft.com/en-us/office/edit-a-list-view-in-sharepoint-15916903-e79a-423f-b4e2-02d37e1ff372)
 
-If someone told you to make a View in _SharePoint Designer_: Years ago, this was a viable tool for that, but that product is deprecated and will be unsupported in a few years. Don&#39;t use it.
-
-Microsoft has an overview of View creation here: [https://support.microsoft.com/en-us/office/edit-a-list-view-in-sharepoint-15916903-e79a-423f-b4e2-02d37e1ff372](https://support.microsoft.com/en-us/office/edit-a-list-view-in-sharepoint-15916903-e79a-423f-b4e2-02d37e1ff372)
-
-These Community Docs also have a great article on List Column and Site column usage: [https://docs.microsoft.com/en-us/microsoft-365/community/list-column-or-site-column-which-one-to-choose](https://docs.microsoft.com/en-us/microsoft-365/community/list-column-or-site-column-which-one-to-choose)
+* These Community Docs also have a great article on List Column and Site column usage: [https://docs.microsoft.com/en-us/microsoft-365/community/list-column-or-site-column-which-one-to-choose](https://docs.microsoft.com/en-us/microsoft-365/community/list-column-or-site-column-which-one-to-choose)
 
 ## How will your users _use_ this View?
 
-Ask this question – how will users use this View? Is it a document collaboration space? Is it a mini database filled with approval requests? Is it a data source for another application through SharePoint&#39;s REST services? Will _no humans_ use ever use the List/Library, but must be supported and maintained? Is it the document repository of record, with lots of reading but few updates?
+Ask this question – how will users use this View? Is it a document collaboration space? Is it a mini database filled with approval requests? Is it a data source for another application through SharePoint's REST services? Will _no humans_ use ever use the List/Library, but must be supported and maintained? Is it the document repository of record, with lots of reading but few updates?
 
- By taking a beat and thinking about the _tasks_ your users will perform, you&#39;ll get a head start on making a useful View.
+ By taking a beat and thinking about the _tasks_ your users will perform, you'll get a head start on making a useful View.
 
 ## How many items are in this List/Library?
 
-Tough to know the answer to this up front, but once you&#39;ve been a Site Owner for a few years, you&#39;ll get a feel for it. This question lends itself to thinking about performance, pagination in Classic (i.e., _1-30 of 3000 items_), folders in Libraries, Grouping content in a View, and data-driven views.
+Tough to know the answer to this up front, but once you've been a Site Owner for a few years, you'll get a feel for it. This question lends itself to thinking about performance, pagination in Classic (i.e., _1-30 of 3000 items_), folders in Libraries, Grouping content in a View, and data-driven views.
 
-**Note** :
- The Community Docs have a guide to handling Views where there&#39;s a lot of content:
-
+The Microsoft Community Docs have a guide to handling Views where there is a lot of content:
 [https://docs.microsoft.com/en-us/microsoft-365/community/large-lists-large-libraries-in-sharepoint](https://docs.microsoft.com/en-us/microsoft-365/community/large-lists-large-libraries-in-sharepoint)
 
 ## Where are you users accessing this View?
 
-As Site Owners or developers, we frequently have the privilege of modern equipment, fast connections, and wide-screen monitors. Ask yourself – will your users be accessing this View in mobile device with a small screen? In a low-bandwidth or disconnected area? On an underpowered netbook that&#39;s a decade old?
+As Site Owners or developers, we frequently have the privilege of modern equipment, fast connections, and wide-screen monitors. Ask yourself – will your users be accessing this View in mobile device with a small screen? In a low-bandwidth or disconnected area? On an underpowered netbook that's a decade old?
 
-Ask the question, then shrink your monitor down, and put your browser&#39;s Developer tools into 3G mode, or mobile simulator mode (Edge, Chrome, Firefox all do this) to simulate the experience. Speed of the user interface is a critical component of good UX, and something you can control in a View with careful planning.
+Ask the question, then shrink your monitor down, and put your browser's Developer tools into 3G mode, or mobile simulator mode (Edge, Chrome, Firefox all do this) to simulate the experience. Speed of the user interface is a critical component of good UX, and something you can control in a View with careful planning.
 
 ##
 
@@ -86,7 +82,7 @@ Of which, there are many, and it&#39;s better to think of this as a spectrum rat
 
 Think about:
 
-- **Effective Visual Hierarchy** – A View is mostly rows and columns, so hierarchy might not be the first thing that comes to mind. But it&#39;s there – left-to-right reading, column order (more important columns on the left) and relationship to the filters pane.
+- **Effective Visual Hierarchy** – A View is mostly rows and columns, so hierarchy might not be the first thing that comes to mind. But it's there – left-to-right reading, column order (more important columns on the left) and relationship to the filters pane.
 
  Read more about hierarchy: [https://xd.adobe.com/ideas/process/information-architecture/visual-hierarchy-in-ux-design/
 ](https://xd.adobe.com/ideas/process/information-architecture/visual-hierarchy-in-ux-design/)
