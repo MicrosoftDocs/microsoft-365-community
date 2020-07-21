@@ -78,6 +78,8 @@ landingContent:
             url: information-architecture-managed-metadata-vs-lookup-column.md
           - text: Living Large with Large Lists and Large Libraries
             url: large-lists-large-libraries-in-SharePoint.md
+          - text: Creating Useful Views for Lists & Libraries
+            url: creating-useful-views-in-lists-libraries.md
 
   # Card
   - title: Making Better Decisions
