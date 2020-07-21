@@ -1,7 +1,7 @@
 ---
 title: Creating Useful Views for Lists & Libraries
 ms.date: 7/10/2020
-author: Patd
+author: PatD
 ms.reviewer: Joanne Hendrickson
 localization_priority:
 description: Support your end users by creating effiicent and effective Views
@@ -32,7 +32,7 @@ You should lend a hand to your users by making List/Library default Views meanin
   
 ## How to make a great default View
 
-Set your users up for success when you help them create a List or Library - create an excelletn default View. This is as much a UX (User eXperience) thought-process as it is a technical one. Your goal should always be displaying only the necessary columns for a user in the default View. Here are the high-level steps to think about:
+Set your users up for success when you help them create a List or Library - create an excellent default View. This is as much a UX (User eXperience) thought-process as it is a technical one. Your goal should always be displaying only the necessary columns for a user in the default View. Here are the high-level steps to think about:
 
 1. Have a firm understanding of what a SharePoint View can do
 
@@ -94,13 +94,15 @@ Read more about hierarchy: [https://xd.adobe.com/ideas/process/information-archi
 
 Color in rows of data delivers the most impact when its tied to a business goal and provides actionable information to your List/Library user.
 
-Read more about this: [https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting)[https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-formatting](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-formatting)
+Read more about this: 
+[https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting)
+[https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-formatting](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-formatting)
 
 * **The F-shaped pattern** is another classic User Experience principal that directly applies to List/Library Views. The most important, most actionable columns in your default View should be on the left and sorted by what-needs-attention towards the top. If you imagine a large letter F superimposed on the page, this will help you visualize it. User Experience Researchers have used eye tracking to record this phenomenon. Users are reading left-to-right and scanning quickly to find the information they need. Does your View support this?
 
 Read more: [https://uxplanet.org/f-shaped-pattern-for-reading-content-80af79cd3394](https://uxplanet.org/f-shaped-pattern-for-reading-content-80af79cd3394)
 
-Here's how that might apply to a View. This graphic simulates the output of eye-tracking heatmap results. Red areas are scanned more thoroughly by your user than green.
+Here's how this eye-tracking might apply to a View. This graphic simulates the output of eye-tracking heatmap results. Red areas are scanned more thoroughly by your user than green.
 
 ![Screenshot of SharePoint View with simulated heat map](media/creating-useful-views-in-lists-libraries/creating-useful-views-in-lists-libraries-f-shape.png)
 
@@ -110,15 +112,15 @@ The Filters Pane, available in any View, is the underrated biggest improvement t
 
 As the Site Owner, you're doing your users a service by _pinning_ choice and date columns to the Filters Pane, and maybe those columns from the default View. You'll need to instruct your users about the pane's existence, but if they've ever used SharePoint Search refiners or any shopping website before, they'll totally get it.
 
-## General and usually-correct default View strategies:
+## General and _usually-correct_ default View strategies
 
-Sometimes little to no UX research will be done, and sometimes you won't know how or where your List/Library will be used. These tips will help you establish a good default View that applies in most cases:
+Sometimes little-to-no UX research will be done, and sometimes you won't know how or where your List/Library will be used. These tips will help you establish a good default View that applies in most cases:
 
 * **Title column on the left** side of the view (same with _Name_, if it's a Library). Maybe the most left you can, but not in the middle or the right. Give users a target to click on where they're looking.
 
-* **In a browser, zero percent of users want to scroll horizontally** even though it's super easy to three-finger horizontal swipe on your brand-new state of the art developer-grade laptop trackpad. Use the Filters Pane instead. Or create a secondary View that shows more columns.
+* **In a browser, zero percent of users want to scroll horizontally** even though it's super easy to three-finger horizontal swipe on your brand-new state-of-the-art developer-grade laptop trackpad. Use the Filters Pane instead. Or create a secondary View that shows more columns.
 
-* **In a Modern View, Item Count (Pagination) is often ignored** in favor of infinite scrolling. This comes at performance tradeoff at your user's expense. Additional rows are loaded and rendered dynamically as the user scrolls. Displaying _fewer_ columns in your View can increase perceived scrolling speed. Smooth scrolling is what your users want in a View.
+* **In a Modern View, Item Count (Pagination) is often ignored** in favor of infinite scrolling. This comes at performance tradeoff at your user's expense. Additional rows are loaded and rendered dynamically as the user scrolls. Displaying _fewer_ columns in your View can increase perceived scrolling speed. Smooth scrolling is what your users want in a View. Let the filters pane work for you.
 
 * **Sort Modified date descending** and display the Modified date column. This provides the context of _freshness_ for a given List/Library's View. In many cases, the user's needs to act on the most recent item in the list, like approving a travel expense or reviewing a document update.
 
