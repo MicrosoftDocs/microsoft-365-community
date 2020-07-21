@@ -73,7 +73,7 @@ Currently there is a number of things you can't do in Teams that force users to 
 
 ## How does it work then?
 
-In most of the use cases I've beeing dealing with lately I have to use a combination of both Teams and SharePoint's sharing features to make it works as it should.
+In most of the use cases I've been dealing with lately I have to use a combination of both Teams and SharePoint's sharing features to make it works as it should.
 
 ### Use case #1
 
@@ -89,7 +89,7 @@ Imagine you have a "Private Project Team", that is restricted to members:
 Imagine you have a "Private Project Team", that is restricted to members but have some content that need to be reviewed by someone who is not a member of the project, and cannot be added as a member to the team for any reason.
 
 * You use Teams to add/remove members as needed to your project, including guest users
-* You then use SharePoint to share any content to any other users who is not a member, both internal and guest
+* You then use SharePoint to share any content to any other users who are not a member, both internal and guest
 
     ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest08.png)
 
@@ -114,10 +114,10 @@ Imagine you have a "Private Project Team", that is restricted to members, and yo
 ## Block guest access to certain Teams 
 Now and then you will need to make sure that Guest users can't be invited to a certain Team by accident, for example the HR or Finance Team. 
 
-Folow the guide below to achive this, as pr. my knowledge you will need Global administrator right to achieve this.
+Follow the guide below to achieve this, as pr. my knowledge you will need Global administrator right to achieve this.
 
 
-* [Block guest accesss to Team](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide#block-guest-users-from-a-specific-group)
+* [Block guest access to Team](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide#block-guest-users-from-a-specific-group)
 
 
 ## Useful resources
