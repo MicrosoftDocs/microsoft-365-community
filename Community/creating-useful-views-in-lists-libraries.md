@@ -26,9 +26,9 @@ You should lend a hand to your users by making List/Library default Views meanin
 >This article is left-to-right language focused - and should **not** be considered best practice for right-to-left languages (like Arabic or Hebrew).
 > * Get involved and improve this open source article here: [https://github.com/MicrosoftDocs/microsoft-365-community](https://github.com/MicrosoftDocs/microsoft-365-community)
 >
-> * Multilingual SharePoint guidance from Microsoft: [https://docs.microsoft.com/en-us/sharepoint/sites/plan-for-multilingual-sites](https://docs.microsoft.com/en-us/sharepoint/sites/plan-for-multilingual-sites)
+> * Multilingual SharePoint guidance from Microsoft: [https://docs.microsoft.com/sharepoint/sites/plan-for-multilingual-sites](https://docs.microsoft.com/sharepoint/sites/plan-for-multilingual-sites)
 >
-> * SharePoint Online Communication Sites and Pages: [https://support.microsoft.com/en-us/office/create-multilingual-communication-sites-pages-and-news-2bb7d610-5453-41c6-a0e8-6f40b3ed750c](https://support.microsoft.com/en-us/office/create-multilingual-communication-sites-pages-and-news-2bb7d610-5453-41c6-a0e8-6f40b3ed750c)
+> * SharePoint Online Communication Sites and Pages: [https://support.microsoft.com/office/create-multilingual-communication-sites-pages-and-news-2bb7d610-5453-41c6-a0e8-6f40b3ed750c](https://support.microsoft.com/office/create-multilingual-communication-sites-pages-and-news-2bb7d610-5453-41c6-a0e8-6f40b3ed750c)
   
 ## How to make a great default View
 
@@ -56,9 +56,9 @@ As a site owner, get yourself up to speed on SharePoint List/Library View featur
 
 You should also learn concepts like item/document View metadata filtering and grouping content.
 
-* Microsoft has an overview of View creation here: [https://support.microsoft.com/en-us/office/edit-a-list-view-in-sharepoint-15916903-e79a-423f-b4e2-02d37e1ff372](https://support.microsoft.com/en-us/office/edit-a-list-view-in-sharepoint-15916903-e79a-423f-b4e2-02d37e1ff372)
+* Microsoft has an overview of View creation here: [https://support.microsoft.com/office/edit-a-list-view-in-sharepoint-15916903-e79a-423f-b4e2-02d37e1ff372](https://support.microsoft.com/office/edit-a-list-view-in-sharepoint-15916903-e79a-423f-b4e2-02d37e1ff372)
 
-* These Community Docs also have a great article on List Column and Site column usage: [https://docs.microsoft.com/en-us/microsoft-365/community/list-column-or-site-column-which-one-to-choose](https://docs.microsoft.com/en-us/microsoft-365/community/list-column-or-site-column-which-one-to-choose)
+* These Community Docs also have a great article on List Column and Site column usage: [https://docs.microsoft.com/microsoft-365/community/list-column-or-site-column-which-one-to-choose](https://docs.microsoft.com/microsoft-365/community/list-column-or-site-column-which-one-to-choose)
 
 ## How will your users _use_ this View?
 
@@ -72,7 +72,7 @@ Tough to know the answer to this up front, but once you've been a Site Owner for
 
 The Microsoft Community Docs have a guide to handling Views where there is a lot of content:
 
-[https://docs.microsoft.com/en-us/microsoft-365/community/large-lists-large-libraries-in-sharepoint](https://docs.microsoft.com/en-us/microsoft-365/community/large-lists-large-libraries-in-sharepoint)
+[https://docs.microsoft.com/microsoft-365/community/large-lists-large-libraries-in-sharepoint](https://docs.microsoft.com/microsoft-365/community/large-lists-large-libraries-in-sharepoint)
 
 ## Where are you users accessing this View?
 
@@ -94,9 +94,9 @@ Read more about hierarchy: [https://xd.adobe.com/ideas/process/information-archi
 
 Color in rows of data delivers the most impact when its tied to a business goal and provides actionable information to your List/Library user.
 
-Read more about this: 
-[https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting)
-[https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-formatting](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-formatting)
+Read more about this:
+[https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting)
+[https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting)
 
 * **The F-shaped pattern** is another classic User Experience principal that directly applies to List/Library Views. The most important, most actionable columns in your default View should be on the left and sorted by what-needs-attention towards the top. If you imagine a large letter F superimposed on the page, this will help you visualize it. User Experience Researchers have used eye tracking to record this phenomenon. Users are reading left-to-right and scanning quickly to find the information they need. Does your View support this?
 
