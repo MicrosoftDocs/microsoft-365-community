@@ -46,7 +46,6 @@ Set your users up for success when you help them create a List or Library - crea
 
 6. Make that default View!
 
-
 ## Understanding List/Library View capability
 
 As a site owner, get yourself up to speed on SharePoint List/Library View features and capabilities. You should know how to show/hide columns, change the sort order, make multiple views, and how to add column choices to the Modern UI filters pane.
