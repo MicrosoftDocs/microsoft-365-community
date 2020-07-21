@@ -1,6 +1,6 @@
 ---
 title: Living Large with Large Lists and Large Libraries
-ms.date: 7/01/2020
+ms.date: 7/16/2020
 author: PatD
 ms.reviewer: jhendr
 localization_priority:
@@ -16,7 +16,7 @@ Best practices and strategies for building and operating large SharePoint Lists 
 
 ## tl;dr
 
-- Life above 5000 items is indeed possible with planning and some filtering/sorting compromises.
+- List or Library above 5000 items is indeed possible with planning and some filtering/sorting compromises.
 - If you can make it modern, you should. The modern experience improves over time; classic does not.
 - Apply remedies *before* you hit 5000 items, though in some cases, you can make it to 20000. Procrastination will hurt you!
 - **Your users don't care about this limitation one bit.**  Word doesn't limit you to 500 words. Excel doesn't limit you to 50 columns. As site owner, you need to be on top of this.
@@ -24,16 +24,16 @@ Best practices and strategies for building and operating large SharePoint Lists 
   
 ## SharePoint Myths
 
-There are couple of myths floating around in the world of SharePoint/Microsoft 365 Lists and Libraries. One is that you shouldn't treat a List like a database (untrue - it is just fine for a power user to create a database). The other is that Lists and Libraries with more than 5000 items just won't work. Both of these are false. Here is guidance on how to own and operate a list or library from 5001 - 30 million items.
+There are couple of myths floating around in the world of SharePoint Lists and Libraries. One is that you shouldn't treat a List like a database (untrue - it is just fine for a power user to create a database). The other is that Lists and Libraries with more than 5000 items just won't work. Both of these are false. Here is guidance on how to own and operate a list or library from 5001 - 30 million items.
 
 > **A Cautionary Tale:**
 > As site owner, your end-users and power-users **will** hit this wall without careful planning and some monitoring. To them, the List/Library will appear broken and will reflect badly on you and the tool. They'll be given almost no warning that they're exceeding the threshold.
 
-## What is the View Item Limit Threshold?
+## What is the List View Threshold?
 
 When the number of items or documents is so high that SharePoint displays an error instead of the content. For many years this was *5000*.
 
-Behind the scenes. SharePoint is querying data from a database.  It, like all systems, can do but so much at a time, and the *Item Limit Threshold* is that limit.  
+Behind the scenes. SharePoint is querying data from a database.  It, like all systems, can do but so much at a time, and the *Item Limit Threshold* is that limit of items that are displayed in a given view.  
 
 If you've operated sites with SharePoint Lists or Libraries for any amount of time, you or one of your customers will trigger the Item Limit Threshold in a List or Library. Either they've published a 300,000 row Excel spreadsheet as a new List, or they decided Friday afternoon right-before-quitting-time is the perfect time to upload the entire network drive's contents to a single Library. Views break. Sorting and filtering (especially on-premises) fall apart. Users report *broken* sites and missing data.  
 
@@ -106,7 +106,7 @@ This is done by going to the List or Library settings, choosing the Indexed Colu
 
 It's important to take this action early - SharePoint on-premises (2013) won't let you create an Index past 5000 items. It is uncertain if there is a hard limit in SharePoint Online, but once you cross those lines, it is difficult to correct. You have to delete lists items to get back down below the limit, and then index the columns. 
 
-For the best user experience you should be proactively ensuring the appropriate columns for your lists/libraries are indexed, based on the columns used most frequently in views and/or filtered by your users.
+For the best user experience you should be proactively ensuring the appropriate columns for your lists/libraries are indexed, based on the columns used most frequently in views and/or filtered by your users. You can add indexes on up to 20 columns on a list or library.
 
 ### Column types that can be Indexed
 
@@ -119,6 +119,16 @@ For the best user experience you should be proactively ensuring the appropriate 
 - Lookup (Lookup)
 - Person or Group (single value) (Lookup)
 - Managed Metadata (Lookup)
+
+### Column types that cannot be Indexed
+
+- Multiple lines of text
+- Choice (multi-valued)
+- Calculated
+- Hyperlink or Picture
+- Custom Columns
+- Person or Group (multi-valued) (Lookup)
+- External data
   
 ## But *why* are we indexing columns?
 
@@ -146,7 +156,7 @@ Your default view in this large List or Library should ideally be composed of on
 | Created | Date | Yes | Yes |
 | Created By | Person | Yes | Yes |
 
-In this scenario, we've created a SharePoint List that will work right to 30 million items.  Default view is bullet-proof in Classic or Modern. 
+In this scenario, we've created a SharePoint List or Library that will work right to 30 million items.  Default view is bullet-proof in Classic or Modern. 
 
 - Your users can create Personal Views that show just their Created By
    entries.  Business analysts can create reports based on *Likes Cats*
