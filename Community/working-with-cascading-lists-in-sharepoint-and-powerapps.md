@@ -14,7 +14,7 @@ This example shows how you can cascade SharePoint lists and only show a subset o
 
 Cascading is useful when you have several lists that are related to each other and you only want to see the relevant options based on a previous selection.
 
-We wil illustrate this with a scenario. Our ambition is to create an awesome list of great innovations from various countries and to be able to cascade the innovations based on the choice of region, filtering the countries for the specific region.
+We will illustrate this with a scenario. Our ambition is to create an awesome list of great innovations from various countries and to be able to cascade the innovations based on the choice of region, filtering the countries for the specific region.
 
 ## 1. SharePoint Lists
 
@@ -22,7 +22,7 @@ This example uses 3 different SharePoint lists:
 
 ![Demo-Cascading-Lists](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-lists.png)
 
-**Country:** Contains a single lines of text columns for the Title and Region. The list is populated with 231 countries with and associated region. The View used is grouping by Region. The taxonomy of world regions can be found [here](https://almbok.com/taxonomy/world_regions).
+**Country:** Contains a single line of text columns for the Title and Region. The list is populated with 231 countries with an associated region. The View used is grouping by Region. The taxonomy of world regions can be found [here](https://almbok.com/taxonomy/world_regions).
 
 **Region:** Using the default Title field for the region title. The additional text field Countries is used as a placeholder for column formatting only.
 
