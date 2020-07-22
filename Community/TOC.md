@@ -46,7 +46,6 @@
 ### [Find a SharePoint certified partner](https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support)
 ### [Visit the SharePoint community](https://techcommunity.microsoft.com/t5/SharePoint/ct-p/SharePoint)
 ### [Suggest a feature](https://sharepoint.uservoice.com/)
-### [Learn how to be a Community Contributor](https://github.com/MicrosoftDocs/microsoft-365-community)
 ## Microsoft Office official documentation
 ### [SharePoint](https://docs.microsoft.com/sharepoint/)
 ### [Microsoft Teams](https://docs.microsoft.com/microsoftteams/microsoft-teams)
