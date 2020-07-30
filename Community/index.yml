@@ -81,7 +81,15 @@ landingContent:
           - text: Creating Useful Views for Lists & Libraries
             url: creating-useful-views-in-lists-libraries.md
 
-  # Card
+  # Card (optional)
+  - title: Effective Communication
+    linkLists:
+      - linkListType: learn
+        links:
+          - text: The Principles of Communication
+            url: principles-of-communication.md
+
+  # Card (optional)
   - title: Making Better Decisions
     linkLists:
       - linkListType: concept
@@ -105,7 +113,7 @@ landingContent:
           - text: Should I store my files in Microsoft Teams or in SharePoint?
             url: should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md
   
-  # Card
+  # Card (optional)
   - title: Useful Scenarios
     linkLists:
       - linkListType: concept
@@ -117,7 +125,7 @@ landingContent:
           - text: Working with Cascading Lists in SharePoint and Power Apps
             url: working-with-cascading-lists-in-sharepoint-and-powerapps.md
 
-  # Card
+  # Card (optional)
   - title: Automation
     linkLists:
       - linkListType: how-to-guide
@@ -125,7 +133,7 @@ landingContent:
           - text: Working with modern client-side pages using PnP PowerShell
             url:  working-with-modern-clientside-pages-using-pnp-powershell.md
 
-  # Card
+  # Card (optional)
   - title: Security
     linkLists:
       - linkListType: concept
@@ -152,5 +160,3 @@ landingContent:
             url: https://sharepoint.uservoice.com/
           - text: Learn how to be a Community Contributor
             url:  https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/README.md
-          
-

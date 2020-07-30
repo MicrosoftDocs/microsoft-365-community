@@ -68,25 +68,17 @@ Before delivering corporate communications, regardless of the technology and pro
     graphics, images, videos etc on-brand and have a clearly identifiable style that belongs to the organisation?  A brand guardian is needed to ensure the
     correct use of logos, fonts, typefaces and colours for all scenarios [print, online, email signatures, brochures, letterheads, social media channels,
     signage, leaflets etc.]
-
 - **Key message development**. What does the organisation stand for and how can these key points be included across different comms formats?
-
 - **Inclusion**. All marcomms divisions to be represented and involved in the process
-
 - **Process**. A clear approval process established that is shared throughout the organisation to ensure better control of messaging, timing, branding,
     avoids conflict and is joined up
-
 - **Spokespeople**. Allocating spokespeople by topic so they become specialists and more trusted
-
 - **Plan**. A clear delivery plan is needed that integrates different services and platforms e.g. intranet, website content, direct content, newsletters,
     email, apps, etc
-
 - **Metrics**. Clear measurement and evaluation metrics agreed at the outset
-
 - **Timing & Timeliness**. Timetable and how frequent comms are.  For example, weekly comms that are short and easily digested are better than long,
     monthly comms that can suffer from tl;dr syndrome. Timing is crucial. For example, most people are spent come a Friday afternoon after a busy week and
     large numbers take Friday off to enjoy long weekends
-
 - **Effectiveness**. Consideration needs to be given to engaging as opposed to transmitting in large organisations. A two-way flow of communication that is
     managed and acted upon has numerous advantages
 

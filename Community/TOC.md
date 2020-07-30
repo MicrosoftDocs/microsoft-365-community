@@ -21,7 +21,8 @@
 ### [Information Architecture - Managed Metadata vs Lookup columns](information-architecture-managed-metadata-vs-lookup-column.md)
 ### [Living Large with Large Lists and Large Libraries](large-lists-large-libraries-in-SharePoint.md)
 ### [Creating Useful Views for Lists & Libraries](creating-useful-views-in-lists-libraries.md)
-
+## Effective Communication
+### [The Principles of Communication](principles-of-communication.md)
 ## Making Better Decisions
 ### [Team Site vs. Communication Site: Which one should I choose?](team-site-or-communication-site.md)
 ### [List columns or Site columns: Which one to choose?](list-column-or-site-column-which-one-to-choose.md)
