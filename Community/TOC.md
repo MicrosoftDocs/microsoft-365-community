@@ -21,7 +21,8 @@
 ### [Information Architecture - Managed Metadata vs Lookup columns](information-architecture-managed-metadata-vs-lookup-column.md)
 ### [Living Large with Large Lists and Large Libraries](large-lists-large-libraries-in-SharePoint.md)
 ### [Creating Useful Views for Lists & Libraries](creating-useful-views-in-lists-libraries.md)
-
+## Effective Communication
+### [The Principles of Communication](principles-of-communication.md)
 ## Making Better Decisions
 ### [Team Site vs. Communication Site: Which one should I choose?](team-site-or-communication-site.md)
 ### [List columns or Site columns: Which one to choose?](list-column-or-site-column-which-one-to-choose.md)
@@ -46,7 +47,6 @@
 ### [Find a SharePoint certified partner](https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support)
 ### [Visit the SharePoint community](https://techcommunity.microsoft.com/t5/SharePoint/ct-p/SharePoint)
 ### [Suggest a feature](https://sharepoint.uservoice.com/)
-### [Learn how to be a Community Contributor](https://github.com/MicrosoftDocs/microsoft-365-community)
 ## Microsoft Office official documentation
 ### [SharePoint](https://docs.microsoft.com/sharepoint/)
 ### [Microsoft Teams](https://docs.microsoft.com/microsoftteams/microsoft-teams)

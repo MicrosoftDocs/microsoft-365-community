@@ -7,6 +7,7 @@ localization_priority:
 description: "Using Site Designs to Manage Project Life Cycles"
 ms.collection:  SPCommunity
 ---
+
 # Using Site Designs to Manage Project Life Cycles
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]

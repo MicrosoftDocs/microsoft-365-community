@@ -99,6 +99,6 @@ Communication sites offer the following options for navigation:
 
 ![CommunicationHeaderCompactMegaMenuNav](media/select-an-effective-navigation-strategy/CommunicationHeaderCompactMegaMenuNav.png)
 
-## Alternatives
+---
 
-Links out to community samples and other options go here.
+Principal author: [Eric Skaggs](https://www.linkedin.com/in/skaggej)
