@@ -142,6 +142,8 @@ landingContent:
             url: sharepoint-security-a-team-effort.md
           - text: "Basic Security Set Up for Microsoft 365"
             url: basic-security-set-up-for-microsoft-365.md
+          - text: "Managing External Guests in SharePoint vs Teams"
+            url: managing-external-guest-in-SharePoint-vs-Teams.md
 
   # Card (optional)
   - title: References
