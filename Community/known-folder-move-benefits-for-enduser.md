@@ -7,6 +7,7 @@ localization_priority:
 description: "Known Folder Move (KFM) Benefits for End Users"
 ms.collection:  SPCommunity
 ---
+
 # Known Folder Move (KFM) Benefits for End Users
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
