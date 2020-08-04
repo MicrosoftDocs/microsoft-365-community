@@ -8,7 +8,7 @@ description: The Microsoft 365 Maturity Model - Communication Competency
 ms.collection: SPCommunity
 ---
 
-# The Microsoft 365 Maturity Model - Collaboration Competency
+# The Microsoft 365 Maturity Model - Communication Competency
 
 ## Overview of the Concepts [tl;dr]
 
