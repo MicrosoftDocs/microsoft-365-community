@@ -8,7 +8,7 @@ description: The Microsoft 365 Maturity Model - Communication Competency
 ms.collection: SPCommunity
 ---
 
-# The Microsoft 365 Maturity Model - Collaboration Competency
+# The Microsoft 365 Maturity Model - Communication Competency
 
 ## Overview of the Concepts [tl;dr]
 
@@ -34,7 +34,7 @@ Communication often takes place across multiple tools/formats and over a period 
 
 The purpose of messages should be clear; worded in such a way that the receiver understands the same thing which the sender wants to convey. Be clear of what format do you want to say it in. Be clear about your goal or purpose. It is also essential that the receiver is conversant with the language, inherent assumptions, and the mechanics of communication. Typically, sentences should be short, in the active voice and key elements stated it in separate bullet points.
 
-### Feedback
+### User Feedback
 
 Feedback is very important to make the communication effective. There should be a feedback information from the recipient to know whether he has understood the message in the same sense in which the sender has meant it.
 

@@ -4,8 +4,10 @@
 ### [What is a Site Column?](what-is-site-column.md)
 ### [What is a Content Type?](what-is-content-type.md)
 ## Microsoft 365 Better Practices
-### [The Microsoft 365 Maturity Model - Introduction](microsoft365-maturity-model--intro.md)
 ### [Known Folder Move (KFM) Benefits for End Users](known-folder-move-benefits-for-enduser.md)
+## Microsoft 365 Maturity Model
+### [The Microsoft 365 Maturity Model - Introduction](microsoft365-maturity-model--intro.md)
+### [The Microsoft 365 Maturity Model - Collaboration Competency](microsoft365-maturity-model--collaboration.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
 ### [Versioning in SharePoint](versioning-basics-best-practices.md)
