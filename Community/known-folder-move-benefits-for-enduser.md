@@ -1,12 +1,13 @@
 ---
 title: Known Folder Move (KFM) Benefits for End Users
-ms.date: 3/3/2020
-author: sympmarc
+ms.date: 8/3/2020
+author: jimmyhang
 ms-reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "Known Folder Move (KFM) Benefits for End Users"
 ms.collection:  SPCommunity
 ---
+
 # Known Folder Move (KFM) Benefits for End Users
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
@@ -21,7 +22,7 @@ KFM is a OneDrive sync feature that works with Windows 7, Windows 8/8.1, Windows
 * Seamless switching to another device and continue where you left your files
 * Dependent on your licensing, you will get at least 1 TB of personal backup storage
 * If your business are small without central IT, users can turn on this feature in a few easy steps
-* If your business is bigger and has central IT, you can turn on this with GPO's
+* If your business is bigger and has central IT, you can turn on this with GPOs
 * If you have used Offline files before you might have experienced that it's a bit difficult to know if it has synchronized correctly with the file share you have been configured against. In my opinion it's a lot easier to catch synch issues with OneDrive and easier to fix.
 * KFM is a killer feature when migrating personal file shares to OneDrive
 
