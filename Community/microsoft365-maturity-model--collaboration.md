@@ -54,7 +54,7 @@ These states align roughly with the levels below.
 
 In many cases, the first move into Microsoft 365 is a simple migration of shared folders on a file server into SharePoint. (This usually follows a migration of email hosting from an on-premises Exchange server to Exchange Online. While this is extremely important, the average end user may not even realize it has happened.) At this level, most collaboration occurs in an unstructured way, unsupported by specific technologies. Task and document collaboration together with knowledge exchange in conversations take place via email or phone, or in person in physical meetings. There is minimal tracking, and an over-reliance on real-time, co-located, in person working.
 
-Initial level collaboration characteristics include:
+**Initial level collaboration** characteristics include:
 
 #### Governance & Security
 
@@ -90,7 +90,7 @@ At this maturity level, many people in the organization are likely to be asking:
 
 At this level, the focus tends to be on document and file collaboration; workspaces (Microsoft Teams, SharePoint, etc.) start to have defined structures and content rules based on specific goals. Each team decides how to best collaborate within that workspace, though there is little reuse and minimal consistency outside each group.
 
-Repeatable level collaboration characteristics include:
+**Repeatable level collaboration** characteristics include:
 
 #### Governance & Security
 
@@ -126,7 +126,7 @@ Commonality across teams starts to drive how workspaces are created and set up. 
 
 The process of collaboration is well defined and agreed as a standard business process. There are sets of defined and documented standard processes established, signed off, in use and subject to some degree of improvement over time. The processes may not have been systematically or repeatedly used to the extent needed for their users to become fully competent or the process to be validated in a range of situations, hence there are gaps in adoption and consistency. This could be considered a developmental stage - with use in a wider range of conditions and user competence development the process can develop to next level of maturity.
 
-Defined level collaboration characteristics include:
+**Defined level collaboration** characteristics include:
 
 #### Governance & Security
 
@@ -162,7 +162,7 @@ At this level, the organization sees a path to real ROI for the solution.  There
 
 Rather than focusing on specific point solutions, a more strategic view of platform apps and services leads to a mixed-use set of solutions.  Collaborative opportunities exist not just to facilitate ongoing work, but also to support areas of interest, centers of excellence, etc. These opportunities lead to serendipitous connections between people who might not have found each other before.
 
-Managed level collaboration characteristics include:
+**Managed level collaboration** characteristics include:
 
 ####  Governance & Security
 
@@ -205,7 +205,7 @@ At this level, users rely on the platform for their day to day work as well as f
 
 At this level, many transactional actions are automated to ensure consistency and good governance. Because people are connected across the organization based on their skills, interests, and work, innovative collaborations arise without formal structures. These innovative efforts are encouraged and given space to work and flourish.
 
-Optimizing level collaboration characteristics include:
+**Optimizing level collaboration** characteristics include:
 
 #### Governance & Security
 
@@ -245,7 +245,7 @@ Optimizing level collaboration characteristics include:
 
 At this level, business leaders and platform administrators are implementing continuous improvements based on user activities and feedback.  Users are proud of their collaboration platform and can show real ROI over the way they previously worked.
 
-## Cost & benefit
+## Cost & Benefit
 
 When we talk about the benefits of collaboration, we are often asked to provide a clear ROI. This can be difficult to do, just as it has been with other knowledge-based efforts in the past.
 
@@ -265,9 +265,11 @@ Leveling up your collaboration maturity means you are rethinking processes.  Thi
 With collaboration at its core, the Microsoft 365 platform can be an incredible enabler of better practices. This can only be realized if your organization continues to learn, grow, and evolve its practices, striving for improved collaboration.
 
 ---
+
 Principal authors:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
-- [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit/)
+- [Simon Doy](https://www.linkedin.com/in/simondoy/)
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
 - [Emily Mancini]( https://www.linkedin.com/in/eemancini/)
+- [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit/)

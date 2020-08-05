@@ -1,6 +1,6 @@
 ---
 title: The Microsoft 365 Maturity Model – Communication Competency
-ms.date: 7/14/2020
+ms.date: 8/5/2020
 author: sympmarc
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
@@ -12,155 +12,246 @@ ms.collection: SPCommunity
 
 ## Overview of the Concepts [tl;dr]
 
-Communication is a core competency of a successful modern organization. Most organizations want to be sure their population is well-informed about strategic direction, operational initiatives, cultural mores and norms, and the like. However, many organizations fall short. Knowledge in the board room must get to the mail room, and this competency focuses of the levels of maturity which organizations historically fall into.
+Communication is a core competency of a successful modern organization. Most organizations want to be sure their population is well-informed about strategic direction, operational initiatives, cultural mores and norms, and the like. However, many organizations fall short. Knowledge in the board room must get to the mailroom; likewise, senior staff need to hear the thoughts of people further down the reporting lines. The breadth of communication needs to be appropriate to the nature and urgency of the message and its intended audience. This competency focuses of the levels of maturity which organizations can achieve.
 
 ## Definition of this competency
 
 Communication is generally defined as a smaller number of people extending information to a larger group of people. This is most commonly the model for Intranet sites in SharePoint, Yammer groups, or organization-wide Teams.
 
-The content itself can take many forms, such as News Posts, discussions about broad topics, blog posts, benefits descriptions, etc. It can also encompass high importance alerts and notifications, possibly with feedback and tracking.
+Communication encompasses the processes of creation, approval, and distribution The content itself can take many forms, such as News Posts, discussions about broad topics, articles and blog posts, benefits descriptions, etc. It can also encompass high importance alerts and notifications, possibly with feedback and tracking..  Concepts like consistency, predictability, and relevance require both human investment and a robust technology platform.
 
-Communication Professionals will sometimes refer to the 7 Principles of Communication; these might be worth considering alongside your maturity assessment.
-
-### Attention and Style
-
-In good communication, the receiver’s attention is drawn to the message. People are different in behavior, attention, emotions etc. so they may respond differently to the message. This may require constructing different message formats for different roles and grades. Senior staff should be seen to be acting in accordance with the messages, using the messaging tools and supporting the messaging processes. Formal communication is generally used for transmitting messages and other information; however, sometimes informal communication may prove more effective. Informal communication can be helpful for assessing the reaction of employees towards various policies. Both types should embrace the organization’s ethos; commonly this is positive, honest, respectful, open and polite.
-
-### Coherency
-
-Communication often takes place across multiple tools/formats and over a period of time. It’s important that communication remains logical, well-planned, and self-reinforcing across these. There should be a good connection with the main topic and, often linked to company values, principles, and mission. Equally, communication should be consistent with the policies, plans, programs and objectives of the organization and not in conflict with them.
-
-### Clarity
-
-The purpose of messages should be clear; worded in such a way that the receiver understands the same thing which the sender wants to convey. Be clear of what format do you want to say it in. Be clear about your goal or purpose. It is also essential that the receiver is conversant with the language, inherent assumptions, and the mechanics of communication. Typically, sentences should be short, in the active voice and key elements stated it in separate bullet points.
-
-### User Feedback
-
-Feedback is very important to make the communication effective. There should be a feedback information from the recipient to know whether he has understood the message in the same sense in which the sender has meant it.
-
-### Effective
-
-Communications shouldn’t leave your team confused. You need to communicate your message in the least possible words, have the consistency of tone, voice, and content so that you can save time. There is no room for repetition. Try to use short sentences and short words. Each message must have a logical conclusion and a call to action. People shouldn’t be left wondering if there is more to come. Make sure you communicate completely that includes the need to be informed and take action. 
-The information communicated should be adequate and complete in all respects. Inadequate information may delay action and create confusion. Inadequate information also affects efficiency of the receiver.
-
-### Timeliness and Urgency
-
-Communication should be done at proper time and with the appropriate level of impact and urgency, to ensure that messages can be understood and acted upon to achieve their objective. It should be possible to differentiate Urgent and Import information and understand the time scale for any actions. There should be confidence that communication reaches their audience when intended.
+Communication Professionals will sometimes refer to the [Principles of Communication](https://docs.microsoft.com/en-us/microsoft-365/community/principles-of-communication); these might be worth considering alongside your maturity assessment.
 
 ## Common Microsoft 365 tool sets
 
-Every organization can choose how best to use the Microsoft 365 platform for communication. The best answer for a large multi-national conglomerate would make little sense for a five-person financial advisory firm. The Microsoft 365 apps and services most likely included in the mix for communication include the following:
+Every organization can choose how best to use the Microsoft 365 platform for communication. The best answer for a large multi-national conglomerate would make little sense for a five-person financial advisory firm. The Microsoft 365 apps and services that are in the mix for communication include the following:
 
 - SharePoint Communication Sites
 - SharePoint News / News Digests
 - Stream
 - Yammer
-- Yammer in Teams
+- Teams posts, chats and notifications
 - Sway
 - Email
+- Mobile device notifications (via Flow, Teams etc.)
+- Other mobile clients
 
 ## Evolution of this competency
 
-![Communication](media/microsoft365-maturity-model--communication/Microsoft365MaturityModel-Communication.png)
-
 ### Level 100
 
-The entry point for the Communication competency is often simply a set of documents in a SharePoint Document Library. These documents are most commonly organized into folders by topics, and the folders may be 5-7 layers deep. This is usually the first step in moving from a shared folders environment to a Web-based environment.
+This is the starting level for a new or untried process. As with all 100 level characteristics, practices may be somewhat effective, but they don’t take advantage of the power of the platform, nor do they take into account the multiple use cases which exist in even the smallest and simplest organization. Typically, they are undocumented and in a state of dynamic change, tending to be driven in an ad hoc, uncontrolled and reactive manner by users or events. This provides a chaotic or unstable environment for the processes.
 
-Characteristics include:
+**Initial level communication** characteristics include:
 
-- Navigation & taxonomy not formally considered
-- Little to no review/governance of content
-- Folder structure re-created from shared drives and all content housed in documents only
-- Content is presented without appropriate structure or context
-- No holistic view of permissions
+#### Governance & Security
 
-As with all 100 level characteristics, the practices may be somewhat effective, but they don’t take advantage of the power of the platform, nor do they take into account the multiple use cases which exist in even the smallest and simplest organization. These use cases generally include:
-
-- New employees joining the organization and getting up to speed
-- Sureness about the validity of the document one finds in a search
-
-The initial level is characterized by heavy use of email to circulate information, updates, newsletters and attached documents.  Documents may also be stored in shared file storage and there may be use of intranet pages or campaigns to reinforce circulated information.
-
-- Most communications are untargeted or weakly targeted to intended audiences
-- Minimal feedback mechanisms are available for the communications. Tracking for readership is absent.
-- Communications are frequently ad hoc, not based on templates, lack governance and do not tend towards an agreed ‘house’ style.
+- There are no restrictions or guidance on who should communicate to whom or by what means.
+- Communications are frequently ad hoc, not based on templates, lack governance, and do not tend towards an agreed ‘house’ style.
 - High impact communications lack a review and approval process.
-- There is no means of prioritizing important communications, not of scheduling their availability
+
+#### Information Architecture
+
+- Most communications are untargeted or weakly targeted to intended audiences.
+Navigation and taxonomy have not been formally considered.
+
+#### Content
+
+- There is heavy use of email to circulate information, updates, newsletters and attached documents.  
+- The folder structure for storage is re-created from shared drives, and published content largely takes the form of documents or PDFs.
+- Minimal feedback mechanisms are available for the communications and are not formalized. Tracking for readership is absent.
+- There is no means of prioritizing important communications, nor of scheduling their availability
+
+#### Impacts
+
+At this level you can expect the following:
+
+- Frustrated and confused users
+- Lack of consistency
+- Inability to meet compliance
+- Poor communication reach, limited engagement and low levels of awareness. Gaps in coverage
+- Poorly considered, incorrect and misleading communications
 
 ### Level 200
 
-Characteristics include:
+Processes are documented or managed by a central group to enable (but not enforced) the preferred ways of doing them. Some processes are repeatable, possibly with consistent results. Process discipline is unlikely to be rigorous, but where it exists it may help to ensure that existing processes are maintained during times of stress.
 
-- Custom metadata is applied to content
-- Templates standardized across sites
-- Lists used rather than static HTML
-- Multiple document management systems may be present w/out governance around purpose and no cross-referencing of content
-- Site structure does not only reflect organizational structure
-Repeatable level Communication characteristics include:
-- Use of templates for messages, newsletters, documents
+**Repeatable level communication** characteristics include:
+
+#### Governance & Security
+
+- Nominated functions for reviewing/creating/releasing some classes of communications, i.e. nominated communications roles
+- A policy is available to guide users on appropriate communications and there are mechanisms to support this
 - Example ‘tone of voice’ guidance, reinforcement of company values and phrases (including mission statements)
+
+#### Information Architecture
+
+- Some degree of targeting, based on groups and distribution lists; users are not necessarily aware of the ability to do this
+- Basic mechanisms for prioritization of higher importance messaging exist, but are ungoverned
+
+#### Content
+
+- Use of templates for messages, newsletters, documents are in place, but not enforced
 - Standardized images and logos (stored in a shared location)
 - More than a single method of pushing communication to internal users
-- Publication of key messages to an intranet or other persistent system for later retrieval.
+- Publication of key messages to an intranet or other persistent system for ad hoc access and later retrieval.
 - Some mechanisms for feedback or further interaction resulting from communications.
-- Nominated functions for reviewing/creating/releasing some classes of communications, i.e. nominated comms roles
 - Ability to schedule future communications
-- Some degree of targeting, based on groups and distribution lists
-- A policy is available to guide users on appropriate communications and there are mechanisms to support this
+
+#### Impacts
+
+At this level, communications often don’t follow expected layouts, style and standards.  A central set of policies may exist, managed by a central owner, but there is no shared understanding across the organization of what these are.
 
 ### Level 300
 
-Characteristics include:
+The process is well defined and agreed as a standard business process. There are sets of defined and documented standard processes established, signed off and subject to some degree of improvement over time. These standard processes are in place. The processes may not have been systematically or repeatedly used to the extent needed for their users to become fully competent or the process to be validated in a range of situations. This could be considered a developmental stage - with use in a wider range of conditions and user competence development the process can develop to next level of maturity.
 
-- Site Columns/ Managed Metadata standardize the taxonomy. Custom Content Types are created.  
-- Custom page layouts & site templates are configured
-- Approval process is implemented
-- Navigation provides strong information scent to complete top tasks
-- Some content targeted to groups
-- Mobile access considered
-- Content management is decoupled from content presentation
-Defined level Communication characteristics include:
+**Defined level communication** characteristics include:
+
+#### Governance & Security
+
+- Communications policies are published and widely understood; some monitoring and reinforcement is in place.
+- Guidance exists on writing style; spelling and grammar checking is in active use. Feedback and corrections are acted on. Brand guidelines cover internal as well as external use.
+
+#### Information Architecture
+
+- Different communication mechanisms/channels are understood at an organizational level and often used effectively by staff
 - The purpose of different types of communication are considered and understood and appropriate strategies are defined for different categories and constraints.
-- Communications policies are published and widely understood; some monitoring and reinforcement is in place
+- Mechanisms exist for sharing localized messages with other parts of the organization; these are based on author judgement
+
+#### Content
+
+- Templates, images and logo assets etc. are available and encouraged. 
+- Top down, bottom up and peer to peer communications are supported
+- Mechanisms to prioritize messages exist in multiple channels, are well defined and broadly understood
+- Basic, mostly manual, mechanisms are in place for scheduling communication, updating, removing or archiving superseded or expired communications.
+
+#### Impacts
+
+At this level, there is a stated strategy for communication that is understood and supported at executive level. This encompasses the many types of communication, with different purposes, approaches, and audiences.  Communication is widely accessed and is broadly effective. There are mechanisms with agreed processes for centrally delivering the common communications needs using images and templated layouts.
+
+Users experience  consistency in core communication. They can use feedback mechanisms, and most people can access what they need regardless of device, location etc.  Less common scenarios are somewhat overlooked, ad hoc or lacking consistency. Higher priority/importance communications can be prioritized, so that they are not lost in the ‘noise’. It is possible to sequence communications, allowing planned campaigns and timed release of information.
 
 ### Level 400
 
-Characteristics include:
+The communication process is actively managed in accordance with agreed processes, and the governance is well-defined, widely understood, and followed.. Metrics are in place to track communication effectiveness
 
-- Content is displayed in as many locations as needed, in the proper context
-- Content life cycle management ensures accuracy, freshness, and uniqueness
-- Site usage informs the content presented
-- Content, across varying media file types, are stored in appropriate services within Microsoft 365
-- Organizational Assets are used to centralize imagery, iconography
-- If more than one doc management system is present, governance is defined
-- Content written for the web, formatted to support online reading patterns
+**Managed level communication** characteristics include:
+
+#### Governance & Security
+
+- Message life cycle management ensures timeliness, approvals, moderation, accuracy, tracking and removal at the appropriate time.
+- Logs, feedback, site usage etc. confirms that content and messages are being received and that tracking analytics and reporting are available
+
+#### Information Architecture
+
+- Communications are displayed in as many locations as needed, in the proper context, but without duplication of content.
+- Individuals, groups and roles are consistently targeted, based on well-maintained profiles and tagging
+- Different media types are employed to ensure reach and comprehension across the workforce, e.g. live chat, published documents and pages, live briefings, on demand video and podcast/audio (for road warriors, for example)
+- The process for aggregating information from multiple sources, or for pushing messages from one part of an organization to another are actively curated
+
+#### Content
+
+- Templates and standards are mandated and embedded in the communication process
+- Mechanisms to prioritize messages are standardized and broadly adopted. Processes exist to manage inappropriate use
+- Organizational Assets, such as agreed imagery, iconography, are standardized for communications use.
+- Written content is formatted and presented to support online reading patterns and accessibility standards
+- Communications are sampled for style, effectiveness etc. and guidance on improvement is offered. Some Compliance and DLP rules are enabled
+
+#### Impacts
+
+At this level, users have a high degree of trust in organizational communications. They understand the communication mechanisms that are available, and feel confident in the source and appropriateness of what they receive. This maturity level still may create dissatisfaction in some users who remember the “wild west” days of the organization when it was less mature, and who feel restricted in their ability to communicate if they do not have the appropriate role or level of rights.
 
 ### Level 500
 
-Characteristics include:
+Management of the communication process includes deliberate and systematic process improvement/optimization. There is focus is on continually improving communications through both incremental and innovative technological changes/improvements. Level 500 is likely to include automation, reduction in manual tasks and associated variability, strong governance and compliance interventions as well as optimization for user interactions and productivity.
+Optimizing level communication characteristics include:
 
-- Content is personalized to the user
-- Content is shared across multiple functions and systems without duplication
-- Feedback mechanism is in place and evaluated to improve content over time
-- Automated tagging may be present
-- Messages are (automatically) translated to the reader’s language
-- Tagging and other use of company terminology is enforced.
-- There may be explicit linkage to vision, values and mission statements
-- Messages can be acknowledged and optionally commented upon. Actions can be seamlessly transferred to individual or user tasks
+#### Governance & Security
+
+- Communications are automatically sampled for style, effectiveness etc. and guidance on improvement is implemented. Communication training is provided across multiple media types.
+- Lifecycle management is strongly implemented and largely automated. Compliance and DLP rules are comprehensively applied and enforced.
+
+#### Information Architecture
+
+- Curation of communication is performed by ‘the system’. AI, based on the understanding of the reader’s interests and role, creates linkages across knowledge and communication systems and pushes content to individuals and groups based on role, activity and interests. 
+- Communication stratification is strongly implemented across media types and roles.
+
+#### Content
+
+- Formatting and publication of content to different media types is automated (e.g. text to speech, speech to text, automated publishing)
+- Longitudinal communications are well understood and carefully managed. A-B testing may be in place.
+- Focus time (non-communication periods) are encouraged and protected.
+
+#### Impacts
+
+At this level, the ROI to the organization is demonstrable, and all users feel they have a voice, through feedback mechanisms and content submission channels.  The system supports communication governance such that users don’t need to remember the rules, making interactions more intuitive and lightweight.
 
 ## Scenarios
 
-## Cost & benefit
+### News and updates
+
+- The head of sales shares news about a massive deal with the department and rest of the organization.
+- The CEO shares a story about a key new partnership that the organization has entered.
+- The marketing department share news with key customers about the latest innovations within the organization.
+- The senior management team hold a village hall with the whole organization to keep employees informed on the organization's performance.
+
+### Alerts and Notifications
+
+- The company needs to alert the workforce to an external audit next week.
+- Employees need to be made aware of a road accident which is causing travel delays.
+- Accounts share that expenses are due at the end of the month.
+
+### Vision, goals, mission
+
+- The organization embeds an updated mission statement, with values and the rules of engagement to their staff.
+
+### Campaigns
+
+- Working practices, post-COVID-19 need announcing and updating on a rolling basis, with confirmation from staff that they understand and will comply
+
+### Newsletters
+
+- A monthly, mobile-friendly news roundup is published in a form that different staff will access and consume, including frontline shop-floor workers and field-based staff
+
+### Innovation
+
+- The organization fosters innovation/improvement by inviting employees to make suggestions on how to improve the way the business works and suggest new product ideas.
+- An employee asks for help to create a response to tender.
+- An employee asks a question around whether product X can do Z
+
+## Cost & Benefit
+
+Corporate communication is often seen as somehow exempt from the usual ROI driven business case; it has been difficult to quantify the benefits, while the costs are often fragmented across multiple approaches and purposes.
+
+Some examples of communication ROI include:
+
+- Reduced errors, waste and inefficiency
+- Improved completion of objectives based on shared goals and understanding
+- Active avoidance of risks and non-compliance
+- Enhanced culture and improved collaboration when everyone is receiving consistent messaging, especially across boundaries (departmental, geography, group company etc.)
+- Enhanced customer and/or vendor perception if communication channels extend outside the organization
+- Employee satisfaction (feeling engaged, with the ability to provide feedback and participate in decisions)
+- Innovation (requesting, generating, and executing on ideas through sharing goals and making connections)
+Costs are driven by the need to deploy and support the communication technologies, up-skill staff in their use and, most importantly, by investing in best practice and policy adherence.
 
 ## Resources to learn more
 
+- [International Association of Business Communicators](https://www.iabc.com/)
+- [Example style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
+
 ## Conclusion
 
+Organization communication is much broader that email and newsletters. Effective communication is highly sophisticated, enabling many types of corporate communications using a range of technologies in order to provide the right message to the right people in the best format at the right time. Great communications incorporate feedback, enable action and organizational change, and develop the culture whilst ensuring compliance and addressing risk.
+
+Organizations should define their desired maturity, based on their needs, circumstances and capabilities. They should recognize that embedding good communication is more than implementing a range of technology solutions.
+
 ---
+
 Principal authors:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
-- [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit/)
-- [Emily Mancini]( https://www.linkedin.com/in/eemancini/)
+- [Simon Doy](https://www.linkedin.com/in/simondoy/)
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+- [Emily Mancini]( https://www.linkedin.com/in/eemancini/)
+- [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit/)
