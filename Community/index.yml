@@ -50,6 +50,8 @@ landingContent:
             url:  microsoft365-maturity-model--intro.md
           - text: The Microsoft 365 Maturity Model - Collaboration Competency
             url:  microsoft365-maturity-model--collaboration.md
+          - text: The Microsoft 365 Maturity Model - Communication Competency
+            url:  microsoft365-maturity-model--communication.md
 
   # Card (optional)
   - title: SharePoint Better Practices
