@@ -22,7 +22,7 @@ Communication is generally defined as a smaller number of people providing usefu
 
 Communication encompasses the processes of creation, approval, and distribution of content. The content itself can take many forms, such as News Posts, discussions about broad topics, articles and blog posts, benefits descriptions, etc. It can also encompass high importance alerts and notifications, possibly with feedback and tracking.  Concepts like consistency, predictability, and relevance require both human investment and a robust technology platform.
 
-Communication professionals will sometimes refer to the [Principles of Communication](https://docs.microsoft.com/en-us/microsoft-365/community/principles-of-communication); these might be worth considering alongside your maturity assessment.
+Communication professionals will sometimes refer to the [Principles of Communication](https://docs.microsoft.com/microsoft-365/community/principles-of-communication); these might be worth considering alongside your maturity assessment.
 
 ## Common Microsoft 365 tool sets
 
@@ -163,7 +163,7 @@ The communication process is actively managed in accordance with agreed processe
 - Templates and standards are mandated and embedded in the communication process
 - Mechanisms to prioritize messages are standardized and broadly adopted.
 - Processes exist to manage inappropriate use and these processes are connected to incentives
-- [Organizational Assets](https://docs.microsoft.com/en-us/sharepoint/organization-assets-library), such as agreed imagery, iconography, are standardized for communications use.
+- [Organizational Assets](https://docs.microsoft.com/sharepoint/organization-assets-library), such as agreed imagery, iconography, are standardized for communications use.
 - Written content is formatted and presented to support online reading patterns and accessibility standards
 - Communications are sampled for style, effectiveness etc. and guidance on improvement is offered.
 - Some Compliance and DLP rules are enabled
