@@ -10,7 +10,7 @@ ms.collection: SPCommunity
 
 # The Microsoft 365 Maturity Model - Collaboration Competency
 
-## Overview of the Concepts [tl;dr]
+## Overview of the Concepts
 
 Microsoft 365 is at its core all about collaboration. The collaborative underpinning of the platform goes all the way back to the earliest days of SharePoint when it was code-named Tahoe. For this reason, collaboration is often the first draw to the platform for a new customer. Microsoft 365 has broadened into a rich set of apps and services, many of which support the concept of collaboration.
 
