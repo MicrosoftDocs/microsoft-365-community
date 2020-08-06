@@ -33,6 +33,7 @@ Content type called _Contract document_ has been added to a document library. Re
 
 The result? Within a week, the _Contract_ retention label was applied to all documents with the content type of _Contract document_ on all SharePoint sites the retention label was published to.
 
+
 #### Apply a Retention Label based on a Choice Metadata column
 
 A choice metadata column, _ContractType_, has been added to a library. I want to use one of the choice values to set a retention label. The auto-generated managed property from the search schema cannot be used in the auto-apply condition. You must manually map the crawled property to a RefinableString property (it's queryable). For this example, I've mapped the crawled property generated for metadata column, ContractType, to RefinableString00. Retention label called _Hardware_ has been created and auto-applied based on the condition below:
