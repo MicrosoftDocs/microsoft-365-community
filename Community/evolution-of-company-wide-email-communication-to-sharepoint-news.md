@@ -51,7 +51,7 @@ In organizations where news is heavily vetted before sharing across the company,
 
 While the expanded access for site owners to share their news is exciting, for some organizations it is still important to delineate what your organization considers the &quot;official&quot; or &quot;authoritative&quot; news. A site specified as organizational news will have a signifier in the site title - it appears in a highlighted box - helping these news posts to visually stand out as different.
 
-![Organizational news](media/evolution-of-company-wide-email-communication-to-sharepoint-news\org-news.png)
+![Organizational news](media/evolution-of-company-wide-email-communication-to-sharepoint-news/org-news.png)
 
 ## SharePoint News Digest to Replace Newsletters
 
@@ -61,7 +61,7 @@ As your organization shifts to sharing news as it happens, you may want to help 
 
 Your newsletter process now supports sharing news as it happens and following up with the most important updates via email to ensure key messages were not missed. Delivering this news digest to email inboxes also captures some your colleagues who may be transitioning to this new process for sharing company updates.
 
-![News Digest](media/evolution-of-company-wide-email-communication-to-sharepoint-news\news-digest.png)
+![News Digest](media/evolution-of-company-wide-email-communication-to-sharepoint-news/news-digest.png)
 
 ## SharePoint News Will Shift Your Communication for the Better
 
