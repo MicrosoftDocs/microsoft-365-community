@@ -46,6 +46,6 @@ Microsoft is continually releasing new features, your governance plan is changin
 
 ---
 
-**Principal author**:[Emily Mancini, UXC](http://www.linkedin.com/in/eemancini)
+**Principal author**: [Emily Mancini, UXC](http://www.linkedin.com/in/eemancini)
 
 ---

@@ -74,6 +74,6 @@ Embracing the capabilities in SharePoint news instead of traditional emails to s
 
 ---
 
-**Principal author**:[Emily Mancini, UXC](http://www.linkedin.com/in/eemancini)
+**Principal author**: [Emily Mancini, UXC](http://www.linkedin.com/in/eemancini)
 
 ---
