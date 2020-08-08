@@ -77,6 +77,18 @@ Improving specific aspects of SharePoint functionality by changing settings thro
 
 ## D
 
+### Dataflex for Teams
+
+[Microsoft Dataflex for Teams](https://powerapps.microsoft.com/en-us/blog/introducing-microsoft-dataflex-a-new-low-code-data-platform-for-microsoft-teams/) is a built-in, low-code data platform for Microsoft Teams, and provides relational data storage, rich data types, enterprise grade governance, and one-click solution deployment for Power App solutions built for, and within Microsoft Teams.
+
+Microsoft Dataflex for Teams is built upon Dataflex Pro (previously referred to as the 'Common Data Service'), and provides a 'lite' version equivalent, for free, under the existing licencing requirements of Microsoft 365.
+
+### Dataflex Pro
+
+[Microsoft Dataflex Pro](https://powerplatform.microsoft.com/en-us/common-data-service/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Dataflex Pro enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
+
+Previously called 'Common Data Service' (CDS), but renamed in July 2020 when the announcement of Dataflex for Teams (a light weight version) was announced.
+
 ### Disaster Recovery (DR)
 
 The planning and practice of ensuring systems are available when a disaster occurs or that they can be restored as quickly as possible.
@@ -267,6 +279,7 @@ Power BI provides a simple, intuitive, easy to use experience for end users to c
 
 The version that ships on Windows devices is called Windows PowerShell, and the cross-platform version is called PowerShell Core, and is also available on Windows.
 
+<<<<<<< Updated upstream
 ### Power Virtual Agents
 
 Power Virtual Agents empowers organisations to create powerful bots using a guided, no-code graphical interface without the need for data scientists or developers. 
@@ -276,6 +289,13 @@ Using Power Virtual Agents, you can:
 * Empower your teams by allowing them to easily build bots themselves without needing intermediaries, or coding or AI expertise.
 * Reduce costs by easily automating common inquiries and freeing human agent time to deal with more complex issues.
 * Improve customer satisfaction by allowing customers to self-help and resolve issues quickly 24/7 using rich personalized bot conversations.
+=======
+### Power Platform Environment
+
+A Power Platform [Environment](https://docs.microsoft.com/en-us/power-platform/admin/environments-overview) is a container that administrators can use to manage apps, automations, connections, and other assets; along with permissions to allow organisation users to use the resources.
+
+There are multiple types of environments that an organisation can create (Developer, Sandbox, Production). The type indicates the purpose of the environment and determines its characteristics.
+>>>>>>> Stashed changes
 
 ## Q
 
