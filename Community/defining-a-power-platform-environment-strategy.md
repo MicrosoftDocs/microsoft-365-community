@@ -14,14 +14,7 @@ ms.collection:  SPCommunity
 
 The Power Platform is Microsoft’s answer to the growing need in business for a way to build and customise professional-grade business solutions quickly, with the ability to connect to over 200 data sources including, SharePoint Online, Azure SQL, Twitter and more.
 
-An environment is a space to store, manage, and share your organization's business data, apps, and flows. It also serves as a container to separate apps that might have different roles, security requirements, or target audiences. How you choose to use environments depends on your organization and the apps you're trying to build. For example:
 
-•	You can choose to only build your apps in a single environment.
-•	You might create separate environments that group the test and production versions of your apps.
-•	You might create separate environments that correspond to specific teams or departments in your company, each containing the relevant data and apps for each audience.
-•	You might also create separate environments for different global branches of your company.
-
-For some, the concept of an ‘Environment’ in Power Platform is brand new. Unless you have been told or you have done your research, you would not know any different to there being a single environment or multiple.
 
 ## What type of environments are there?
 
@@ -29,18 +22,6 @@ Environments are containers that administrators can use to manage apps, automati
 
 There are multiple types of environments. The type indicates the purpose of the environment and determines its characteristics. The following table summarises the current types of environments that you might encounter.
 
-Environment Type	Purpose
-Developer	Developer environments are created by users who have the Community Plan license. They're special environments intended only for use by the owner, and they can't be shared with other users. Provisioning developer environments can't be restricted unless through a support ticket.
-Only a single user account with the Community Plan has access.
-
-Trial	Trial environments are intended to support short-term testing needs and are automatically cleaned up after a short period of time. They expire after 30 days and are limited to one user. Provisioning trial environments can be restricted to admins.
-
-Sandbox	These are non-production environments, which offer features like copy and reset. Sandbox environments are used for development and testing, separate from production. Provisioning sandbox environments can be restricted to admins (because production environment creation can be blocked), but converting from a production to a sandbox environment can't be blocked.
-
-Non-production environments. Enables the typical ‘Development’ and ‘Test’ environment isolation.
-Default	These are a special type of production environment. Each tenant has a default environment that's created automatically. Its characteristics are discussed in the following section, The default environment.
-
-Production	This is intended to be used for permanent work in an organization. It can be created and owned by an administrator or anyone with a Power Apps license, provided there is 1 GB available database capacity. These environments are also created for each existing Common Data Service database when it is upgraded to version 9.0 or later. Production environments are what you should use for any environments on which you depend.
 
 ## Why is the Default Environment special?
 
@@ -51,12 +32,7 @@ There is specific guidance for the Default environment to call out because of it
 •	Users are not automatically added to the Environment Admin role
 •	The default environment can’t be deleted, but you can rename it – e.g. Personal Productivity.
 
-Note:
-•	No users will be added to the Environment Admin role of the default environment automatically. More information: Administer environments in Power Apps
-•	You can't delete the default environment.
-•	The default environment is limited to 32 GB of storage capacity. In case you need to store more data, you can create a production environment. More information: Provisioning a new environment
 
-The Default environment should not be used to host production solutions. It’s designed to be an open environment that allows users to extend Office 365 and trusted applications or to build personal productivity applications that don’t affect many people.
 
 ## Why do I need to define a strategy?
 
