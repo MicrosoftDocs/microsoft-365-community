@@ -243,11 +243,39 @@ Custom Permission Levels can be created for business-specific scenarios, such as
 
 See [Patterns and Practices](#patterns-and-practices-pnp)
 
+### Power Apps
+
+PowerApps is a low-code/no-code development platform that provides a means for both Citizen Developers and Pro-Developers to build custom apps for your business needs. 
+
+Using PowerApps, you can quickly build custom business apps that connect to your business data stored either in the underlying data platform (Dataflex Pro) or in various online and on-premises data sources (SharePoint, Excel, Microsoft 365, Dynamics 365, SQL Server).
+
+### Power Automate
+
+Power Automate is a low-code/no-code workflow platform that helps you create automated workflows between your favorite apps and services to synchronize files, get notifications, collect data and more. 
+
+Power Automate provides a means to quickly automate your workflows, enable business logic to simplify app building, and model your processes across connected data sources and services.
+
+### Power BI
+
+Power BI is Microsofts Business Intelligence and Reporting applicaiton. It allows you to connect and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that’s easy to use and helps you gain deeper data insight.
+
+Power BI provides a simple, intuitive, easy to use experience for end users to create their own reports and dashboards.
+
 ### PowerShell
 
 [PowerShell](https://docs.microsoft.com/windows-server/administration/windows-commands/powershell) is an automation scripting language from Microsoft, which was originally only available on Windows devices, and built on top of the .NET Framework. Since 2016, we also have [PowerShell Core](https://github.com/PowerShell/PowerShell) which is open-source, cross-platform, and built on top of .NET Core.
 
 The version that ships on Windows devices is called Windows PowerShell, and the cross-platform version is called PowerShell Core, and is also available on Windows.
+
+### Power Virtual Agents
+
+Power Virtual Agents empowers organisations to create powerful bots using a guided, no-code graphical interface without the need for data scientists or developers. 
+
+Using Power Virtual Agents, you can:
+
+* Empower your teams by allowing them to easily build bots themselves without needing intermediaries, or coding or AI expertise.
+* Reduce costs by easily automating common inquiries and freeing human agent time to deal with more complex issues.
+* Improve customer satisfaction by allowing customers to self-help and resolve issues quickly 24/7 using rich personalized bot conversations.
 
 ## Q
 
