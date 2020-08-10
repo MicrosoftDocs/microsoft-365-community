@@ -26,6 +26,7 @@
 ### [Creating Useful Views for Lists & Libraries](creating-useful-views-in-lists-libraries.md)
 ## Effective Communication
 ### [The Principles of Communication](principles-of-communication.md)
+### [The Evolution of Company-wide Email Communication to SharePoint News](evolution-of-company-wide-email-communication-to-sharepoint-news.md)
 ## Making Better Decisions
 ### [Team Site vs. Communication Site: Which one should I choose?](team-site-or-communication-site.md)
 ### [List columns or Site columns: Which one to choose?](list-column-or-site-column-which-one-to-choose.md)
@@ -40,6 +41,7 @@
 ### [Library Scenarios](library-scenarios.md)
 ### [Using Site Designs to Manage Project Life Cycles](site-design-life-cycle.md)
 ### [Working with Cascading Lists in SharePoint and Power Apps](working-with-cascading-lists-in-sharepoint-and-powerapps.md)
+### [Defining a Power Platform Environment Strategy](defining-a-power-platform-environment-strategy.md)
 ## Automation
 ### [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
 ## Security
