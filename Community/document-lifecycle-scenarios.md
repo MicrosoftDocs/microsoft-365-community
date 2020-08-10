@@ -1,12 +1,13 @@
 ---
 title: Document Lifecycle Scenarios
-ms.date: 6/22/2020
+ms.date: 8/5/2020
 author: sympmarc
 ms.reviewer:  jhendr
 localization_priority: 
 description: Document Lifecycle Scenarios - showing different ways to think through how we manage documents based on their relative weight and importance
 ms.collection:  SPCommunity
 ---
+
 # Document Lifecycle Scenarios
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
