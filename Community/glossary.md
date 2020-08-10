@@ -77,6 +77,18 @@ Improving specific aspects of SharePoint functionality by changing settings thro
 
 ## D
 
+### Dataflex for Teams
+
+[Microsoft Dataflex for Teams](https://powerapps.microsoft.com/en-us/blog/introducing-microsoft-dataflex-a-new-low-code-data-platform-for-microsoft-teams/) is a built-in, low-code data platform for Microsoft Teams, and provides relational data storage, rich data types, enterprise grade governance, and one-click solution deployment for Power App solutions built for, and within Microsoft Teams.
+
+Microsoft Dataflex for Teams is built upon Dataflex Pro (previously referred to as the 'Common Data Service'), and provides a 'lite' version equivalent, for free, under the existing licencing requirements of Microsoft 365.
+
+### Dataflex Pro
+
+[Microsoft Dataflex Pro](https://powerplatform.microsoft.com/en-us/common-data-service/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Dataflex Pro enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
+
+Previously called 'Common Data Service' (CDS), but renamed in July 2020 when the announcement of Dataflex for Teams (a light weight version) was announced.
+
 ### Disaster Recovery (DR)
 
 The planning and practice of ensuring systems are available when a disaster occurs or that they can be restored as quickly as possible.
@@ -243,11 +255,47 @@ Custom Permission Levels can be created for business-specific scenarios, such as
 
 See [Patterns and Practices](#patterns-and-practices-pnp)
 
+### Power Apps
+
+PowerApps is a low-code/no-code development platform that provides a means for both Citizen Developers and Pro-Developers to build custom apps for your business needs. 
+
+Using PowerApps, you can quickly build custom business apps that connect to your business data stored either in the underlying data platform (Dataflex Pro) or in various online and on-premises data sources (SharePoint, Excel, Microsoft 365, Dynamics 365, SQL Server).
+
+### Power Automate
+
+Power Automate is a low-code/no-code workflow platform that helps you create automated workflows between your favorite apps and services to synchronize files, get notifications, collect data and more. 
+
+Power Automate provides a means to quickly automate your workflows, enable business logic to simplify app building, and model your processes across connected data sources and services.
+
+### Power BI
+
+Power BI is Microsofts Business Intelligence and Reporting applicaiton. It allows you to connect and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that’s easy to use and helps you gain deeper data insight.
+
+Power BI provides a simple, intuitive, easy to use experience for end users to create their own reports and dashboards.
+
 ### PowerShell
 
 [PowerShell](https://docs.microsoft.com/windows-server/administration/windows-commands/powershell) is an automation scripting language from Microsoft, which was originally only available on Windows devices, and built on top of the .NET Framework. Since 2016, we also have [PowerShell Core](https://github.com/PowerShell/PowerShell) which is open-source, cross-platform, and built on top of .NET Core.
 
 The version that ships on Windows devices is called Windows PowerShell, and the cross-platform version is called PowerShell Core, and is also available on Windows.
+
+<<<<<<< Updated upstream
+### Power Virtual Agents
+
+Power Virtual Agents empowers organisations to create powerful bots using a guided, no-code graphical interface without the need for data scientists or developers. 
+
+Using Power Virtual Agents, you can:
+
+* Empower your teams by allowing them to easily build bots themselves without needing intermediaries, or coding or AI expertise.
+* Reduce costs by easily automating common inquiries and freeing human agent time to deal with more complex issues.
+* Improve customer satisfaction by allowing customers to self-help and resolve issues quickly 24/7 using rich personalized bot conversations.
+=======
+### Power Platform Environment
+
+A Power Platform [Environment](https://docs.microsoft.com/en-us/power-platform/admin/environments-overview) is a container that administrators can use to manage apps, automations, connections, and other assets; along with permissions to allow organisation users to use the resources.
+
+There are multiple types of environments that an organisation can create (Developer, Sandbox, Production). The type indicates the purpose of the environment and determines its characteristics.
+>>>>>>> Stashed changes
 
 ## Q
 
