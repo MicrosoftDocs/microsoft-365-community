@@ -36,29 +36,31 @@ There is specific guidance for the Default environment to call out because of it
 
 Developing an environment strategy means configuring environments and other layers of data security (DLP) in a way that supports the productive development in an organisation, while securing and organising resources.
 
-To follow application lifecycle management (ALM) principles, you'll need separate environments for app development and production. Although you can perform basic ALM with only separate development and production environments, we recommend that you also maintain at least one test environment that's separate from your development and production environments. 
+To follow application lifecycle management (ALM) principles, you'll need separate environments for app development and production. Although you can perform basic ALM with only separate development and production environments, we recommend that you also maintain at least one test environment that's separate from your development and production environments.
 
 When you have a separate test environment, you can perform end-to-end validation that includes solution deployment and application testing. 
 Some organizations might also need additional environments for user acceptance testing (UAT), systems integration testing (SIT), and training.
 
-Environment scenarios
-Scenario 1	The ‘Out of the Box’, default environment.
-Scenario 2	Scenario 1 + Dedicated departmental environments
-Scenario 3	Scenario 2 + Dedicated application environments
-Scenario 4	Multi-Tenant ALM environment separation.
+### Environment scenarios
 
-Scenario 1 – Personal Productivity (default environment)
+- Scenario 1 - The ‘Out of the Box’, default environment.
+- Scenario 2 - Scenario 1 + Dedicated departmental environments
+- Scenario 3 - Scenario 2 + Dedicated application environments
+- Scenario 4 - Multi-Tenant ALM environment separation.
+
+### Scenario 1 – Personal Productivity (default environment)
 
 Uses include: Personal Productivity Apps and Flows, Custom SharePoint Lists and Library forms.
 
-Scenario 2 – Departmental
+### Scenario 2 – Departmental
 
 Uses include: Personal Productivity Apps and Flows, Custom SharePoint Lists and Library forms and dedicated department environments.
 
-Scenario 3 – Departmental and Application
+### Scenario 3 – Departmental and Application
+
 Uses include: Default environment, dedicated department environments and a dedicated environment(s) for a single application.
 
-Scenario 4 – Multi-Tenant ALM Approach
+### Scenario 4 – Multi-Tenant ALM Approach
 
 Uses include: Separating Power Platform environments across physical tenants. Could be used to separate Production, Staging and Development environments, or could be used for geo-location reasons.
 

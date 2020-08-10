@@ -98,6 +98,8 @@ landingContent:
         links:
           - text: The Principles of Communication
             url: principles-of-communication.md
+          - text: The Evolution of Company-wide Email Communication to SharePoint News
+            url: evolution-of-company-wide-email-communication-to-sharepoint-news.md
 
   # Card (optional)
   - title: Making Better Decisions
