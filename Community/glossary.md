@@ -292,7 +292,7 @@ Using Power Virtual Agents, you can:
 =======
 ### Power Platform Environment
 
-A Power Platform [Environment](https://docs.microsoft.com/en-us/power-platform/admin/environments-overview) is a container that administrators can use to manage apps, automations, connections, and other assets; along with permissions to allow organisation users to use the resources.
+A Power Platform [Environment](https://docs.microsoft.com/power-platform/admin/environments-overview) is a container that administrators can use to manage apps, automations, connections, and other assets; along with permissions to allow organisation users to use the resources.
 
 There are multiple types of environments that an organisation can create (Developer, Sandbox, Production). The type indicates the purpose of the environment and determines its characteristics.
 >>>>>>> Stashed changes
