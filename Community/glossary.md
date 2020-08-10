@@ -1,12 +1,13 @@
 ---
 title: SharePoint Usage Glossary
-ms.date:  3/3/2020
+ms.date:  8/10/2020
 author: sympmarc
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "SharePoint Usage Glossary"
 ms.collection: SPCommunity
 ---
+
 # Microsoft 365 Glossary
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
@@ -79,7 +80,7 @@ Improving specific aspects of SharePoint functionality by changing settings thro
 
 ### Dataflex for Teams
 
-[Microsoft Dataflex for Teams](https://powerapps.microsoft.com/en-us/blog/introducing-microsoft-dataflex-a-new-low-code-data-platform-for-microsoft-teams/) is a built-in, low-code data platform for Microsoft Teams, and provides relational data storage, rich data types, enterprise grade governance, and one-click solution deployment for Power App solutions built for, and within Microsoft Teams.
+[Microsoft Dataflex for Teams](https://powerapps.microsoft.com/blog/introducing-microsoft-dataflex-a-new-low-code-data-platform-for-microsoft-teams/) is a built-in, low-code data platform for Microsoft Teams, and provides relational data storage, rich data types, enterprise grade governance, and one-click solution deployment for Power App solutions built for, and within Microsoft Teams.
 
 Microsoft Dataflex for Teams is built upon Dataflex Pro (previously referred to as the 'Common Data Service'), and provides a 'lite' version equivalent, for free, under the existing licencing requirements of Microsoft 365.
 
@@ -279,23 +280,21 @@ Power BI provides a simple, intuitive, easy to use experience for end users to c
 
 The version that ships on Windows devices is called Windows PowerShell, and the cross-platform version is called PowerShell Core, and is also available on Windows.
 
-<<<<<<< Updated upstream
+### Power Platform Environment
+
+A Power Platform Environment is a container that administrators can use to manage apps, automations, connections, and other assets; along with permissions to allow organizational users to use the resources.
+
+There are multiple types of environments that an organization can create (Developer, Sandbox, Production). The type indicates the purpose of the environment and determines its characteristics.
+
 ### Power Virtual Agents
 
-Power Virtual Agents empowers organisations to create powerful bots using a guided, no-code graphical interface without the need for data scientists or developers. 
+Power Virtual Agents empowers organizations to create powerful bots using a guided, no-code graphical interface without the need for data scientists or developers.
 
 Using Power Virtual Agents, you can:
 
 * Empower your teams by allowing them to easily build bots themselves without needing intermediaries, or coding or AI expertise.
 * Reduce costs by easily automating common inquiries and freeing human agent time to deal with more complex issues.
 * Improve customer satisfaction by allowing customers to self-help and resolve issues quickly 24/7 using rich personalized bot conversations.
-=======
-### Power Platform Environment
-
-A Power Platform [Environment](https://docs.microsoft.com/en-us/power-platform/admin/environments-overview) is a container that administrators can use to manage apps, automations, connections, and other assets; along with permissions to allow organisation users to use the resources.
-
-There are multiple types of environments that an organisation can create (Developer, Sandbox, Production). The type indicates the purpose of the environment and determines its characteristics.
->>>>>>> Stashed changes
 
 ## Q
 
