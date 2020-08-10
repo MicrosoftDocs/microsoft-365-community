@@ -124,6 +124,8 @@ landingContent:
             url: powerplatformlicensingforcitizendeveloper.md
           - text: Should I store my files in Microsoft Teams or in SharePoint?
             url: should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md
+          - text: Defining a Power Platform Environment Strategy
+            url: defining-a-power-platform-environment-strategy.md
   
   # Card (optional)
   - title: Useful Scenarios
