@@ -30,7 +30,7 @@ There is specific guidance for the Default environment to call out because of it
 - It’s automatically created with the first user in the region closest to the Azure AD tenant
 - New users that sign up for PowerApps are automatically added to the Maker role
 - Users are not automatically added to the Environment Admin role
-- The default environment can’t be deleted, but you can rename it – e.g. Personal Productivity.
+- The default environment can’t be deleted, but you can rename it – e.g., Personal Productivity.
 
 ## Why do I need to define a strategy?
 

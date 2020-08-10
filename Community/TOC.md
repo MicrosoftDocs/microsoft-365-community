@@ -26,6 +26,7 @@
 ### [Creating Useful Views for Lists & Libraries](creating-useful-views-in-lists-libraries.md)
 ## Effective Communication
 ### [The Principles of Communication](principles-of-communication.md)
+### [The Evolution of Company-wide Email Communication to SharePoint News](evolution-of-company-wide-email-communication-to-sharepoint-news.md)
 ## Making Better Decisions
 ### [Team Site vs. Communication Site: Which one should I choose?](team-site-or-communication-site.md)
 ### [List columns or Site columns: Which one to choose?](list-column-or-site-column-which-one-to-choose.md)
@@ -36,17 +37,18 @@
 ### [Designing your solution for scale](designing-solution-for-scale.md)
 ### [Understanding Power Platform Licensing](powerplatformlicensingforcitizendeveloper.md)
 ### [Should I store my files in Microsoft Teams or in SharePoint?](should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md)
+### [Defining a Power Platform Environment Strategy](defining-a-power-platform-environment-strategy.md)
 ## Useful Scenarios
 ### [Library Scenarios](library-scenarios.md)
 ### [Using Site Designs to Manage Project Life Cycles](site-design-life-cycle.md)
 ### [Working with Cascading Lists in SharePoint and Power Apps](working-with-cascading-lists-in-sharepoint-and-powerapps.md)
+### [Defining a Power Platform Environment Strategy](defining-a-power-platform-environment-strategy.md)
 ## Automation
 ### [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
 ## Security
 ### [Managing SharePoint Online Security: A Team Effort](sharepoint-security-a-team-effort.md)
 ### [Basic Security Set Up for Microsoft 365](basic-security-set-up-for-microsoft-365.md)
 ### [Managing External Guests in SharePoint vs Teams](managing-external-guest-in-SharePoint-vs-Teams.md)
-
 ## References
 ### [FastTrack onboarding and adoption services](https://fasttrack.microsoft.com/office)
 ### [Find a SharePoint certified partner](https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support)
