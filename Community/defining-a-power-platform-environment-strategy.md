@@ -20,26 +20,25 @@ The Power Platform is Microsoft’s answer to the growing need in business for a
 
 Environments are containers that administrators can use to manage apps, automations, connections, and other assets; along with permissions to allow organisation users to use the resources.
 
-There are multiple types of environments. The type indicates the purpose of the environment and determines its characteristics. The following table summarises the current types of environments that you might encounter.
+There are multiple types of environments. The type indicates the purpose of the environment and determines its characteristics.
 
 ## Why is the Default Environment special?
 
-A single default environment is automatically created by Power Apps for each tenant and shared by all users in that tenant. Whenever a new user signs up for Power Apps, they're automatically added to the Maker role of the default environment. The default environment is created in the region closest to the default region of the Azure AD tenant.
+A single default environment is automatically created by Power Apps for each tenant and shared by all users in that tenant. Whenever a new user signs up for Power Apps, they're automatically added to the Maker role of the default environment. 
+
+The default environment is created in the region closest to the default region of the Azure AD tenant.
 There is specific guidance for the Default environment to call out because of its unique nature:
 
 - It’s automatically created with the first user in the region closest to the Azure AD tenant
 - New users that sign up for PowerApps are automatically added to the Maker role
 - Users are not automatically added to the Environment Admin role
-- The default environment can’t be deleted, but you can rename it – e.g., Personal Productivity.
+- The default environment can’t be deleted, but you can rename it – e.g., Personal Productivity (do it now, if you haven't!)
 
 ## Why do I need to define a strategy?
 
 Developing an environment strategy means configuring environments and other layers of data security (DLP) in a way that supports the productive development in an organisation, while securing and organising resources.
 
-To follow application lifecycle management (ALM) principles, you'll need separate environments for app development and production. Although you can perform basic ALM with only separate development and production environments, we recommend that you also maintain at least one test environment that's separate from your development and production environments.
-
-When you have a separate test environment, you can perform end-to-end validation that includes solution deployment and application testing. 
-Some organizations might also need additional environments for user acceptance testing (UAT), systems integration testing (SIT), and training.
+If you want to follow application lifecycle management (ALM) principles, you'll need separate environments for app development and production. Although you can perform basic ALM with only separate development and production environments, it's recommended that you also maintain at least one test environment that's separate from your development and production environments.
 
 ### Environment scenarios
 
@@ -50,17 +49,25 @@ Some organizations might also need additional environments for user acceptance t
 
 ### Scenario 1 – Personal Productivity (default environment)
 
+![Personal Productivity Approach](media/defining-a-power-platform-environment-strategy/Scenario01-Personal-Productivity.png)
+
 Uses include: Personal Productivity Apps and Flows, Custom SharePoint Lists and Library forms.
 
 ### Scenario 2 – Departmental
+
+![Departmental Approach](media/defining-a-power-platform-environment-strategy/Scenario02-DepartmentEnvironments.png)
 
 Uses include: Personal Productivity Apps and Flows, Custom SharePoint Lists and Library forms and dedicated department environments.
 
 ### Scenario 3 – Departmental and Application
 
+![Departmental and Application Approach](media/defining-a-power-platform-environment-strategy/Scenario03-ApplicationEnvironments.png)
+
 Uses include: Default environment, dedicated department environments and a dedicated environment(s) for a single application.
 
 ### Scenario 4 – Multi-Tenant ALM Approach
+
+![Multi-Tenant ALM Approach](media/defining-a-power-platform-environment-strategy/Scenario04-Multi-Tenant.png)
 
 Uses include: Separating Power Platform environments across physical tenants. Could be used to separate Production, Staging and Development environments, or could be used for geo-location reasons.
 
@@ -80,8 +87,7 @@ Based on successful experience with other customer engagements, below is a list 
 - Individual-use environments for Proof of Concepts and training workshops
 - Use a service account to deploy production solutions
 - Reduce the number of shared development environments
-- Share resources with Azure AD Security Groups
-- Provision environments with CDS instances in the appropriate region.
+- Share resources with Azure AD Security Groups.
 
 ## Further Reading
 

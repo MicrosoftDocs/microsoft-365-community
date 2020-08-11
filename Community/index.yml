@@ -38,7 +38,7 @@ landingContent:
     linkLists:
       - linkListType: learn
         links:
-          - text: Known Folder Move (KFM) Benefits for End Users
+          - text: OneDrive PC Folder Backup Benefits for End Users
             url:  known-folder-move-benefits-for-enduser.md
 
   # Card (optional)
@@ -138,6 +138,8 @@ landingContent:
             url: site-design-life-cycle.md
           - text: Working with Cascading Lists in SharePoint and Power Apps
             url: working-with-cascading-lists-in-sharepoint-and-powerapps.md
+          - text: Document Lifecycle Scenarios
+            url: document-lifecycle-scenarios.md
 
   # Card (optional)
   - title: Automation

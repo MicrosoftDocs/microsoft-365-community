@@ -4,7 +4,7 @@
 ### [What is a Site Column?](what-is-site-column.md)
 ### [What is a Content Type?](what-is-content-type.md)
 ## Microsoft 365 Better Practices
-### [Known Folder Move (KFM) Benefits for End Users](known-folder-move-benefits-for-enduser.md)
+### [OneDrive PC Folder Backup Benefits for End Users](known-folder-move-benefits-for-enduser.md)
 ## Microsoft 365 Maturity Model
 ### [The Microsoft 365 Maturity Model - Introduction](microsoft365-maturity-model--intro.md)
 ### [The Microsoft 365 Maturity Model - Collaboration Competency](microsoft365-maturity-model--collaboration.md)
@@ -42,7 +42,7 @@
 ### [Library Scenarios](library-scenarios.md)
 ### [Using Site Designs to Manage Project Life Cycles](site-design-life-cycle.md)
 ### [Working with Cascading Lists in SharePoint and Power Apps](working-with-cascading-lists-in-sharepoint-and-powerapps.md)
-### [Defining a Power Platform Environment Strategy](defining-a-power-platform-environment-strategy.md)
+### [Document Lifecycle Scenarios](document-lifecycle-scenarios.md)
 ## Automation
 ### [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
 ## Security

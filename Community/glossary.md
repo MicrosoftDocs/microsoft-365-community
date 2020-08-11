@@ -178,7 +178,7 @@ Inheritance can be "broken" to allow for [unique permissions](#unique-permission
 
 ### Known Folder Move (KFM)
 
-Known Folder Move (KFM) allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost.
+Known Folder Move (KFM) allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost. Known Folder Move is now known as [OneDrive PC Folder Backup](#onedrive-pc-folder-backup).
 
 ## L
 
@@ -231,6 +231,10 @@ In programming, namespaces can be far more complex - like List.Fields within Mic
 ### On premises
 
 On premises refers to running servers yourself, whether they are in your physical building, a data center where you rent space, or at a hosting company that runs servers specifically for you.
+
+### OneDrive PC Folder Backup
+
+This capability was originally called [Known Folder Move (KFM)](#known-folder-move-kfm). It allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost. 
 
 ### Out of the box
 
@@ -297,7 +301,6 @@ Using Power Virtual Agents, you can:
 * Empower your teams by allowing them to easily build bots themselves without needing intermediaries, or coding or AI expertise.
 * Reduce costs by easily automating common inquiries and freeing human agent time to deal with more complex issues.
 * Improve customer satisfaction by allowing customers to self-help and resolve issues quickly 24/7 using rich personalized bot conversations.
-
 
 ## Q
 
