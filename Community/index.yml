@@ -138,6 +138,9 @@ landingContent:
             url: site-design-life-cycle.md
           - text: Working with Cascading Lists in SharePoint and Power Apps
             url: working-with-cascading-lists-in-sharepoint-and-powerapps.md
+          - text: Document Lifecycle Scenarios
+            url: document-lifecycle-scenarios.md
+
 
   # Card (optional)
   - title: Automation
