@@ -176,7 +176,7 @@ Inheritance can be "broken" to allow for [unique permissions](#unique-permission
 
 ### Known Folder Move (KFM)
 
-Known Folder Move (KFM) allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost.
+Known Folder Move (KFM) allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost. Known Folder Move is now known as [OneDrive PC Folder Backup](#OneDrive-PC-Folder-Backup).
 
 ## L
 
@@ -229,6 +229,10 @@ In programming, namespaces can be far more complex - like List.Fields within Mic
 ### On premises
 
 On premises refers to running servers yourself, whether they are in your physical building, a data center where you rent space, or at a hosting company that runs servers specifically for you.
+
+### OneDrive PC Folder Backup
+
+This capability was originally called [Known Folder Move (KFM)](#Known-Folder-Move-KFM). It allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost. 
 
 ### Out of the box
 
