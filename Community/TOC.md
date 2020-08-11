@@ -4,7 +4,7 @@
 ### [What is a Site Column?](what-is-site-column.md)
 ### [What is a Content Type?](what-is-content-type.md)
 ## Microsoft 365 Better Practices
-### [Known Folder Move (KFM) Benefits for End Users](known-folder-move-benefits-for-enduser.md)
+### [OneDrive PC Folder Backup Benefits for End Users](known-folder-move-benefits-for-enduser.md)
 ## Microsoft 365 Maturity Model
 ### [The Microsoft 365 Maturity Model - Introduction](microsoft365-maturity-model--intro.md)
 ### [The Microsoft 365 Maturity Model - Collaboration Competency](microsoft365-maturity-model--collaboration.md)
