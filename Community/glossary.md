@@ -176,7 +176,7 @@ Inheritance can be "broken" to allow for [unique permissions](#unique-permission
 
 ### Known Folder Move (KFM)
 
-Known Folder Move (KFM) allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost. Known Folder Move is now known as [OneDrive PC Folder Backup](#oneDrive-pc-folder-backup).
+Known Folder Move (KFM) allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost. Known Folder Move is now known as [OneDrive PC Folder Backup](#onedrive-pc-folder-backup).
 
 ## L
 
@@ -299,7 +299,6 @@ Using Power Virtual Agents, you can:
 * Empower your teams by allowing them to easily build bots themselves without needing intermediaries, or coding or AI expertise.
 * Reduce costs by easily automating common inquiries and freeing human agent time to deal with more complex issues.
 * Improve customer satisfaction by allowing customers to self-help and resolve issues quickly 24/7 using rich personalized bot conversations.
-
 
 ## Q
 
