@@ -12,12 +12,13 @@ ms.collection: SPCommunity
 # How to Share Org-Wide Communication in Microsoft 365
 
 Org-wide communication supports employees’ understanding of the organization, sharing timely updates, creating the company culture, driving employee engagement, sending crisis communications, and creating opportunities for discussion, innovation, and feedback. Relying on one communication channel - typically email - to get all these different messages across risks losing your audience to the deluge of emails in their inbox and reduced employee engagement. Within Microsoft 365, organizations have many communications channels to choose from (email, Teams, Yammer, SharePoint), and the best solution in each case will ultimately depend on:
--	Company culture
--	Company size
--	Audience
--	Persistence of the message
--	Intent of communication
--	Integration across Microsoft 365. 
+
+- Company culture
+- Company size
+- Audience
+- Persistence of the message
+- Intent of communication
+- Integration across Microsoft 365
 
 The goal is to share the right information to the right people at the right time.
 
@@ -114,10 +115,12 @@ Email appears in Outlook and the Outlook web application only. Individual emails
 To make your org-wide communications more effective, engaging, and actionable, consider the best Microsoft 365 communication channel to support your needs. Evaluating the impacts of your company culture, size, and audience, the persistence of the message, the intent of the communication, and necessary integration across Microsoft 365 will help you navigate what to use when. What works for a small, transparent company will not work for a large, regulated global company. The variety of options ensures you will find a communication channel within Microsoft 365 that is a close fit for your needs.
 
 ## Resources
-- [The Evolution of Company-wide Email Communication to SharePoint News](https://docs.microsoft.com/en-us/microsoft-365/community/evolution-of-company-wide-email-communication-to-sharepoint-news)
+
+- [The Evolution of Company-wide Email Communication to SharePoint News](https://docs.microsoft.com/microsoft-365/community/evolution-of-company-wide-email-communication-to-sharepoint-news)
 - [Which is better for collaboration – Yammer or Microsoft Teams?](https://www.computerworld.com/article/3568210/which-is-better-for-collaboration-yammer-or-microsoft-teams)
+
 ---
 
-**Principal author**: [Emily Mancini, UXC]( https://www.linkedin.com/in/eemancini/) 
+**Principal author**: [Emily Mancini, UXC]( https://www.linkedin.com/in/eemancini/)
 
 ---
