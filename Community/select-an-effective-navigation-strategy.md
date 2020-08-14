@@ -1,13 +1,16 @@
 ---
 title: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
-ms.date: 3/3/2020
-author: sympmarc
+ms.date: 7/31/2020
+author: skaggej
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
 description: "A Guided Tour Designed to Help You Select an Effective Navigation Strategy"
 ms.collection:  SPCommunity
 ---
+
 # A Guided Tour Designed to Help You Select an Effective Navigation Strategy
+
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
 Modern navigation in SharePoint Online can be tricky. There are many different native options provided by Microsoft. Let's take a look at what's available and discuss some more robust alternatives.
 
@@ -97,6 +100,6 @@ Communication sites offer the following options for navigation:
 
 ![CommunicationHeaderCompactMegaMenuNav](media/select-an-effective-navigation-strategy/CommunicationHeaderCompactMegaMenuNav.png)
 
-## Alternatives
+---
 
-Links out to community samples and other options go here.
+Principal author: [Eric Skaggs](https://www.linkedin.com/in/skaggej)

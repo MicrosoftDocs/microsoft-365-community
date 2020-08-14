@@ -9,6 +9,8 @@ ms.collection: SPCommunity
 ---
 # Designing your solution for scale
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 ## Introduction
 
 This article refers to design considerations of scaling your solutions, for example, in this scenario - you have built your solution and tested on a site or library, you have demoed to your boss, they are very happy and then he goes "Hey now, great solution, can you get this out to 1,000 sites please?".
@@ -23,7 +25,7 @@ You now have your solution, so lets go through the kind of aspects of the soluti
 
 First question to ask yourself, do you need to deploy this solution 1,000 times or can you place a navigation link on 1000 sites referring to a single location? The decision on your approach can be determined by the following points:
 
-- Initial deployment, where do my assets live? How many times do I need to repeat the steps for deployment? The approach depends variances for each department or instance for example, can you get away with a settings file instead? 
+- Initial deployment, where do my assets live? How many times do I need to repeat the steps for deployment? The approach depends variances for each department or instance for example, can you get away with a settings file instead?
 - Maintainability, as changes occur, you may need to repeat deployment?
 - Security, is there a solid reason to keep the solution separate?
 - Technical limits of the product, will SharePoint allow you to centralise?
@@ -98,7 +100,7 @@ The number of environments is up to you, there are additional overheads with hav
 
 Maintainability refers to the ease of making changes to your app, updates or cleanup aspects of your solution - how easy this is to achieve.
 
-Consider your solution - you have deployed to 1000 sites and you boss goes, "Great app, but can you add a column to each list, I really need this." You now need to figure out updates to each of the 1000 sites. 
+Consider your solution - you have deployed to 1000 sites and you boss goes, "Great app, but can you add a column to each list, I really need this." You now need to figure out updates to each of the 1000 sites.
 
 ## Manual vs Deployment
 

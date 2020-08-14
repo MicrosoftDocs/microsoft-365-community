@@ -1,6 +1,6 @@
 ---
 title:  Importing data into SharePoint
-ms.date: 3/3/2020
+ms.date: 4/30/2020
 author: nyoung30
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
@@ -9,13 +9,17 @@ ms.collection: SPCommunity
 ---
 # Importing data into SharePoint
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 This guide will help users understand the various options available to import files and data into SharePoint. We cover several different approaches:
 
 | Method | Type of User |
 | ------ | ------------ |
 | [Document Libraries – Drag and drop files and folders](#document-libraries--drag-and-drop-files-and-folders-user)| End user|
-| [Document Libraries – SharePoint Migration Tool](#document-libraries--upload-files-and-folders-user) | Power user |
-| [Lists – Export Spreadsheet to SharePoint](#lists--export-spreadsheet-to-sharepointpower-user) | Power user |
+| [Document Libraries – Upload files and folders](#document-libraries--upload-files-and-folders-user) | Power user |
+| [Document Libraries – Copy to and Move to](#document-libraries--copy-to-and-move-to-power-user) | Power user |
+| [Lists – Export Spreadsheet to SharePoint](#lists--export-spreadsheet-to-sharepoint-power-user) | Power user |
+| [Lists – Import Spreadsheet to SharePoint](#lists--import-spreadsheet-to-sharepoint-power-user) | Power user |
 | [Document Libraries – SharePoint Migration Tool](#document-libraries--sharepoint-migration-tool-power-user) | Power user |
 | [Document Libraries – Sync](#document-libraries--sync-power-user) | Power user |
 
@@ -102,7 +106,7 @@ The **“Move to”** feature will copy the files / folders to the new location 
 
 ![“Show progress” button](media/importing-data/move-to-show-progress.png)
 
-## Lists – Export Spreadsheet to SharePoint(Power user)
+## Lists – Export Spreadsheet to SharePoint (Power user)
 
 *Microsoft Excel* supports the exporting of “Tables” from spreadsheets to new SharePoint lists. With the source spreadsheet open:
 
@@ -128,13 +132,32 @@ The **“Move to”** feature will copy the files / folders to the new location 
 
 ![Successful Excel export](media/importing-data/excel-export-list.png)
 
+## Lists – Import Spreadsheet to SharePoint (Power user)
+
+*SharePoint* supports the importing of “Tables” from spreadsheets to new SharePoint lists. From "Site contents":
+
+- Click “New” and click "List".
+
+- Click “From Excel”; provide a list name; upload a new spreadsheet or select an existing one and click "Next"
+
+![Step 1 of 2](media/importing-data/excel-import-wizard-step1.png)
+
+- Select the target "Table" from the spreadsheet; set the column types ("Single line of text", "Multiple lines of text", "Choice", "Title" or "Do not import") and click "Create"
+
+![Step 2 of 2](media/importing-data/excel-import-wizard-step2.png)
+
+- Example imported list shown below:
+
+![Successful Excel import](media/importing-data/excel-import-list.png)
+
 ## Document Libraries – SharePoint Migration Tool (Power user)
 
 The *SharePoint Migration Tool (SPMT)* can be used to import files into SharePoint. *SPMT* is especially useful when migrating a large volume of documents from a file share.
 Detailed information about *SPMT* can be found on the [Download and install the SharePoint Migration Tool](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool) page.
 
 From your *SPMT* computer:
-- Open the “SharePoint Migration Tool”.<br>
+
+- Open the “SharePoint Migration Tool”.
 ![Open the SharePoint Migration Tool](media/importing-data/spmt-windows-search.png)
 
 - Click “Start your first migration”.

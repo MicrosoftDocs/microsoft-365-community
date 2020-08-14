@@ -9,6 +9,8 @@ ms.collection:  SPCommunity
 ---
 # What is a Content Type?
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 ## Basic Idea
 
 The easy answer here is a Content Type is a type of content, but that isn't very helpful. A Content Type is like a business object: something that you move around your desk or computer every day.

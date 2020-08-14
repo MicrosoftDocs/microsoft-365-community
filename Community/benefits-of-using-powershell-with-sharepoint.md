@@ -1,5 +1,5 @@
 ---
-title: Benefits of using PowerShell with SharePoin
+title: Benefits of using PowerShell with SharePoint
 ms.date: 3/3/2020
 author: veronicageek
 ms.reviewer:  Joanne Hendrickson
@@ -10,6 +10,8 @@ ms.collection: SPCommunity
 # Benefits of using PowerShell with SharePoint
 
 ## What is PowerShell?
+
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
 [PowerShell](https://docs.microsoft.com/windows-server/administration/windows-commands/powershell) is an automation scripting language from Microsoft, which was originally only available on Windows devices, and built on top of the .NET Framework.
 Since 2016, we also have [PowerShell Core](https://github.com/PowerShell/PowerShell) which is open-source, cross-platform, and built on top of .NET Core.
@@ -36,7 +38,7 @@ There's a lot of possibilities to manage your environment with the SharePoint on
 
 Microsoft also created a [module for SharePoint Online](https://www.microsoft.com/download/details.aspx?id=35588), however it contains approx. 162 cmdlets (late 2019).
 
-That's a big drop from the on-premises version isn't it? But when you think about it, it makes sense. With SharePoint Online, as you may know, there's a lot Microsoft is taking care of, therefore there's no need for us to manage databases, Service Applications, or even Web Applications as a few examples.
+That's a big drop from the on-premises version, isn't it? But when you think about it, it makes sense. With SharePoint Online, as you may know, there's a lot Microsoft is taking care of, therefore there's no need for us to manage databases, Service Applications, or even Web Applications as a few examples.
 
 #### SharePoint PowerShell PnP (Patterns & Practices)
 
@@ -85,7 +87,7 @@ More examples where PowerShell is used:
 This question might be a bit tricky for some.
 
 - **Administrators** should definitely know PowerShell. No question about that.
-- **Site Owners** mostly delegate to administrators if there's a lot of activities to perform on the their site(s).
+- **Site Owners** mostly delegate to administrators if there's a lot of activities to perform on their site(s).
 - **End-Users** are unlikely to need PowerShell unless it's one of their interest.
 
 PowerShell Development is also a known skill and usually coupled with other ones like C#, or SQL Server to only name a few.
