@@ -100,6 +100,8 @@ landingContent:
             url: principles-of-communication.md
           - text: The Evolution of Company-wide Email Communication to SharePoint News
             url: evolution-of-company-wide-email-communication-to-sharepoint-news.md
+          - text: How to Share Org-Wide Communication in Microsoft 365
+            url: how-to-share-org-wide-communications-in-microsoft-365.md
 
   # Card (optional)
   - title: Making Better Decisions

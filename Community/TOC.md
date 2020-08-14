@@ -27,6 +27,7 @@
 ## Effective Communication
 ### [The Principles of Communication](principles-of-communication.md)
 ### [The Evolution of Company-wide Email Communication to SharePoint News](evolution-of-company-wide-email-communication-to-sharepoint-news.md)
+### [How to Share Org-Wide Communication in Microsoft 365](how-to-share-org-wide-communications-in-microsoft-365.md)
 ## Making Better Decisions
 ### [Team Site vs. Communication Site: Which one should I choose?](team-site-or-communication-site.md)
 ### [List columns or Site columns: Which one to choose?](list-column-or-site-column-which-one-to-choose.md)
