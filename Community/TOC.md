@@ -50,6 +50,7 @@
 ### [Managing SharePoint Online Security: A Team Effort](sharepoint-security-a-team-effort.md)
 ### [Basic Security Set Up for Microsoft 365](basic-security-set-up-for-microsoft-365.md)
 ### [Managing External Guests in SharePoint vs Teams](managing-external-guest-in-SharePoint-vs-Teams.md)
+### [The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1](power-platform-DLP-policies-you-should-be-considering-on-Day-1.md)
 ## References
 ### [FastTrack onboarding and adoption services](https://fasttrack.microsoft.com/office)
 ### [Find a SharePoint certified partner](https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support)
