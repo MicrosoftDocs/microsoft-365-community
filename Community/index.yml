@@ -162,6 +162,8 @@ landingContent:
             url: basic-security-set-up-for-microsoft-365.md
           - text: "Managing External Guests in SharePoint vs Teams"
             url: managing-external-guest-in-SharePoint-vs-Teams.md
+          - text: The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1
+            url: power-platform-DLP-policies-you-should-be-considering-on-Day-1.md
 
   # Card (optional)
   - title: References
