@@ -28,6 +28,10 @@ An App is a term in SharePoint that means a packaged extension or customization 
 
 See [SharePoint Framework](#sharepoint-framework)
 
+### Application Lifecycle Management (ALM)
+
+### Azure Information Protection (AIP)
+
 ## B
 
 ## C
@@ -264,7 +268,7 @@ See [Patterns and Practices](#patterns-and-practices-pnp)
 
 ### Power Apps
 
-PowerApps is a low-code/no-code development platform that provides a means for both Citizen Developers and Pro-Developers to build custom apps for your business needs. 
+PowerApps is a low-code/no-code development platform that provides a means for both Citizen Developers and Pro-Developers to build custom apps for your business needs.
 
 Using PowerApps, you can quickly build custom business apps that connect to your business data stored either in the underlying data platform (Dataflex Pro) or in various online and on-premises data sources (SharePoint, Excel, Microsoft 365, Dynamics 365, SQL Server).
 
@@ -279,6 +283,8 @@ Power Automate provides a means to quickly automate your workflows, enable busin
 Power BI is Microsofts Business Intelligence and Reporting applicaiton. It allows you to connect and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that’s easy to use and helps you gain deeper data insight.
 
 Power BI provides a simple, intuitive, easy to use experience for end users to create their own reports and dashboards.
+
+### Power Platform Data Loss Prevention
 
 ### PowerShell
 
