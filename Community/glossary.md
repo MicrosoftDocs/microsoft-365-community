@@ -78,6 +78,8 @@ Improving specific aspects of SharePoint functionality by changing settings thro
 
 ## D
 
+### Data Loss Prevention (DLP)
+
 ### Dataflex for Teams
 
 [Microsoft Dataflex for Teams](https://powerapps.microsoft.com/blog/introducing-microsoft-dataflex-a-new-low-code-data-platform-for-microsoft-teams/) is a built-in, low-code data platform for Microsoft Teams, and provides relational data storage, rich data types, enterprise grade governance, and one-click solution deployment for Power App solutions built for, and within Microsoft Teams.
@@ -86,7 +88,7 @@ Microsoft Dataflex for Teams is built upon Dataflex Pro (previously referred to 
 
 ### Dataflex Pro
 
-[Microsoft Dataflex Pro](https://powerplatform.microsoft.com/en-us/common-data-service/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Dataflex Pro enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
+[Microsoft Dataflex Pro](https://powerplatform.microsoft.com/common-data-service/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Dataflex Pro enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
 
 Previously called 'Common Data Service' (CDS), but renamed in July 2020 when the announcement of Dataflex for Teams (a light weight version) was announced.
 
@@ -166,7 +168,7 @@ In a development sense, idempotent means that code you run more than once with t
 
 ### Inheritance
 
-Inheritance refers to the cascading of default site permission levels (i.e. Owner, Member and Visitor) to site Document Libraries, Lists, Site Pages etc. 
+Inheritance refers to the cascading of default site permission levels (i.e. Owner, Member and Visitor) to site Document Libraries, Lists, Site Pages etc.
 
 Inheritance can be "broken" to allow for [unique permissions](#unique-permissions).
 
