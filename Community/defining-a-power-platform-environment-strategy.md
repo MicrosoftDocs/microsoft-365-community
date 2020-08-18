@@ -36,7 +36,7 @@ There is specific guidance for the Default environment to call out because of it
 
 ## Why do I need to define a strategy?
 
-Developing an environment strategy means configuring environments and other layers of data security (DLP) in a way that supports the productive development in an organisation, while securing and organising resources.
+Developing an environment strategy means configuring environments and other layers of data security (DLP) in a way that supports the productive development in an organization, while securing and organizing resources.
 
 If you want to follow application lifecycle management (ALM) principles, you'll need separate environments for app development and production. Although you can perform basic ALM with only separate development and production environments, it's recommended that you also maintain at least one test environment that's separate from your development and production environments.
 
