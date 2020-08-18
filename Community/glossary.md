@@ -64,6 +64,11 @@ Some columns types, like Date and Choice, include ready made design templates. A
 
 See [SharePoint Framework](#sharepoint-framework)
 
+### Common Data Service
+
+[Microsoft Common Data Service](https://powerplatform.microsoft.com/common-data-service/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Common Data Service enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
+
+
 ### Communication Site
 
 A Communication Site is generally used to communicate from a smaller group to a larger group. For this reason, Communication Sites are often used in Intranets.
@@ -84,15 +89,7 @@ Improving specific aspects of SharePoint functionality by changing settings thro
 
 ### Data Loss Prevention (DLP)
 
-### Project Oakdale
 
-[Project Oakdale](https://powerapps.microsoft.com/blog/introducing-microsoft-dataflex-a-new-low-code-data-platform-for-microsoft-teams/) is a built-in, low-code data platform for Microsoft Teams, and provides relational data storage, rich data types, enterprise grade governance, and one-click solution deployment for Power App solutions built for, and within Microsoft Teams.
-
-Project Oakdale is built upon Common Data Service, and provides a 'lite' version equivalent, for free, under the existing licencing requirements of Microsoft 365.
-
-### Common Data Service
-
-[Microsoft Common Data Service](https://powerplatform.microsoft.com/common-data-service/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Common Data Service enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
 
 
 ### Disaster Recovery (DR)
@@ -306,6 +303,13 @@ Using Power Virtual Agents, you can:
 * Empower your teams by allowing them to easily build bots themselves without needing intermediaries, or coding or AI expertise.
 * Reduce costs by easily automating common inquiries and freeing human agent time to deal with more complex issues.
 * Improve customer satisfaction by allowing customers to self-help and resolve issues quickly 24/7 using rich personalized bot conversations.
+
+### Project Oakdale
+
+[Project Oakdale](https://powerapps.microsoft.com/blog/introducing-microsoft-dataflex-a-new-low-code-data-platform-for-microsoft-teams/) is a built-in, low-code data platform for Microsoft Teams, and provides relational data storage, rich data types, enterprise grade governance, and one-click solution deployment for Power App solutions built for, and within Microsoft Teams.
+
+Project Oakdale is built upon Common Data Service, and provides a 'lite' version equivalent, for free, under the existing licencing requirements of Microsoft 365.
+
 
 ## Q
 
