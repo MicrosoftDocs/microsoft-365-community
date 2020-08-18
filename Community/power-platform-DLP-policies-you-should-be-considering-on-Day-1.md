@@ -20,7 +20,7 @@ However, an area that is often overlooked is within the Power Platform.
 
 Security teams are typically focused on Microsoft 365 Security and Compliance: Retention Polices, DLP, [Azure Information Protection (AIP)](glossary.md#azure-information-protection-aip), Labelling, etc. – and this is all good stuff – but what about people moving data (internally and externally) using Power Apps and Power Automate?
 
-In [Defining a Power Platform Environment Strategy](/defining-a-power-platform-environment-strategy.md) I wrote about the concept of using Power Platform environments for [Application Lifecycle Management (ALM)](glossary.md#application-lifecycle-management-alm) purposes and provided some examples of when it might be appropriate to build out from the single Default Environment that is created for each and every tenant. I purposely kept this simple and excluded other factors that may influence or complicate matters further, however DLP Policies may influence your strategy.
+In [Defining a Power Platform Environment Strategy](defining-a-power-platform-environment-strategy.md) I wrote about the concept of using Power Platform environments for [Application Lifecycle Management (ALM)](glossary.md#application-lifecycle-management-alm) purposes and provided some examples of when it might be appropriate to build out from the single Default Environment that is created for each and every tenant. I purposely kept this simple and excluded other factors that may influence or complicate matters further, however DLP Policies may influence your strategy.
 
 To follow on from that post, and assuming the concept of ‘Environments’ is better understood, the next step is to ensure your Power Platform is secure.
 

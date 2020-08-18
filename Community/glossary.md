@@ -88,13 +88,12 @@ Improving specific aspects of SharePoint functionality by changing settings thro
 
 [Microsoft Dataflex for Teams](https://powerapps.microsoft.com/blog/introducing-microsoft-dataflex-a-new-low-code-data-platform-for-microsoft-teams/) is a built-in, low-code data platform for Microsoft Teams, and provides relational data storage, rich data types, enterprise grade governance, and one-click solution deployment for Power App solutions built for, and within Microsoft Teams.
 
-Microsoft Dataflex for Teams is built upon Dataflex Pro (previously referred to as the 'Common Data Service'), and provides a 'lite' version equivalent, for free, under the existing licencing requirements of Microsoft 365.
+Microsoft Dataflex for Teams is built upon Common Data Service, and provides a 'lite' version equivalent, for free, under the existing licencing requirements of Microsoft 365.
 
-### Dataflex Pro
+### Common Data Service
 
-[Microsoft Dataflex Pro](https://powerplatform.microsoft.com/common-data-service/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Dataflex Pro enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
+[Microsoft Common Data Service](https://powerplatform.microsoft.com/common-data-service/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Common Data Service enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
 
-Previously called 'Common Data Service' (CDS), but renamed in July 2020 when the announcement of Dataflex for Teams (a light weight version) was announced.
 
 ### Disaster Recovery (DR)
 
@@ -272,7 +271,7 @@ See [Patterns and Practices](#patterns-and-practices-pnp)
 
 PowerApps is a low-code/no-code development platform that provides a means for both Citizen Developers and Pro-Developers to build custom apps for your business needs.
 
-Using PowerApps, you can quickly build custom business apps that connect to your business data stored either in the underlying data platform (Dataflex Pro) or in various online and on-premises data sources (SharePoint, Excel, Microsoft 365, Dynamics 365, SQL Server).
+Using PowerApps, you can quickly build custom business apps that connect to your business data stored either in the underlying data platform (Common Data Service) or in various online and on-premises data sources (SharePoint, Excel, Microsoft 365, Dynamics 365, SQL Server).
 
 ### Power Automate
 

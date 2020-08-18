@@ -81,7 +81,7 @@ Based on successful experience with other customer engagements, below is a list 
 - Provision a new Production environment for non-personal apps/flows
 - Define and implement your DLP policies for your environments
 - When establishing a DLP strategy, you may need multiple environments for the same department
-- When establishing your Power Platform environment strategy, based upon your licencing, you may find that you need to provision environments without a Dataflex Pro database and also use DLP policies to restrict the user of premium connectors.
+- When establishing your Power Platform environment strategy, based upon your licencing, you may find that you need to provision environments without a Common Data Service database and also use DLP policies to restrict the user of premium connectors.
 - Establish a process for requesting access or creation of environments
 - Dev/Test/Production environments for specific business groups or application
 - Individual-use environments for Proof of Concepts and training workshops
