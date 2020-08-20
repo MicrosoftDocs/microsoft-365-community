@@ -41,7 +41,7 @@ That little personal idea we had can have long legs!
 
 ## Important Organizational Document
 
-Some documents are simply too important organizationally to arise informally. They also may require some organized and sometimes mandated processes. In this case, the document is generally created in s SharePoint Document Library with important, required metadata columns. It may be moved through a process using a Power Automate flow for approvals or other important state changes.
+Some documents are simply too important organizationally to arise informally. They also may require some organized and sometimes mandated processes. In this case, the document is generally created in a SharePoint Document Library with important, required metadata columns. It may be moved through a process using a Power Automate flow for approvals or other important state changes.
 
 The goal with documents like this - perhaps a company policy or regulatory filing - is to ensure accuracy and adherence to all organizational constraints.
 
