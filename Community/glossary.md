@@ -308,7 +308,7 @@ Using Power Virtual Agents, you can:
 
 [Project Oakdale](https://powerapps.microsoft.com/blog/introducing-microsoft-dataflex-a-new-low-code-data-platform-for-microsoft-teams/) is a built-in, low-code data platform for Microsoft Teams, and provides relational data storage, rich data types, enterprise grade governance, and one-click solution deployment for Power App solutions built for, and within Microsoft Teams.
 
-Project Oakdale is built upon Common Data Service, and provides a 'lite' version equivalent, for free, under the existing licencing requirements of Microsoft 365.
+Project Oakdale is built upon Common Data Service, and provides a 'lite' version equivalent, for free, under the existing licensing requirements of Microsoft 365.
 
 
 ## Q
