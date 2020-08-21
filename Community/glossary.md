@@ -89,8 +89,7 @@ Improving specific aspects of SharePoint functionality by changing settings thro
 
 ### Data Loss Prevention (DLP)
 
-
-
+A set of policies for identifying, alerting and securing sensitive information types found in content across the Microsoft 365 platform. 
 
 ### Disaster Recovery (DR)
 
@@ -333,6 +332,10 @@ The base address in a web application or tenant for the first SharePoint Site co
 ### Search Schema
 
 The Search Schema refers to the customizable data dictionary used by SharePoint Search to allow users to query for and return specific information from SharePoint using the available Search tools, such as the Search Results web part in Classic SharePoint or the Search REST API.
+
+### Sensitive information type
+
+A defined pattern of data that can be identified in order to be protected by DLP or sensitivity labels. Common examples include social security numbers, credit card numbers but can also include any type of data considered sensitive by the organization that matches a pattern.
 
 ### Site
 
