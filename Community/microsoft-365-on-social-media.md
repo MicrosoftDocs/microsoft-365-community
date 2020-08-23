@@ -1,6 +1,6 @@
 ---
 title: Follow Microsoft 365 on Social Media
-ms.date: 8/22/2020
+ms.date: 8/23/2020
 author: Christophe Humbert
 ms.reviewer: 
 localization_priority: 
@@ -12,7 +12,7 @@ ms.collection:  SPCommunity
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-## The value of Social Media
+## The Value of Social Media
 
 Given the pace of change in the Microsoft 365 universe, social media have become a primary source of information and training. The references in this page direct you to fresh content provided by Microsoft and the community.
 
@@ -39,7 +39,8 @@ Social media also give you direct access to expertise. Use one of the help tags 
 |[#MicrosoftDocs](https://twitter.com/hashtag/MicrosoftDocs)|[@docsmsft](https://twitter.com/docsmsft)|
 |[#MicrosoftLearn](https://twitter.com/hashtag/MicrosoftLearn)|[@MicrosoftLearn](https://twitter.com/MicrosoftLearn)|
 |[#M365CommDocs](https://twitter.com/hashtag/M365CommDocs)|[@M365CommDocs](https://twitter.com/M365CommDocs)|
-https://twitter.com/docsmsft
+|[#MSUSPartner](https://twitter.com/hashtag/MSUSPartner)|[@MSUSPartner](https://twitter.com/MSUSPartner)|
+
 ## Messaging and Communications
 
 > [!IMPORTANT]
@@ -49,8 +50,8 @@ https://twitter.com/docsmsft
 |---|---|
 |[#MicrosoftTeams](https://twitter.com/hashtag/MicrosoftTeams)|[@MicrosoftTeams](https://twitter.com/MicrosoftTeams)|
 |[#Microsoft365Groups](https://twitter.com/hashtag/Microsoft365Groups)|
-|[#AzureAD](https://twitter.com/hashtag/AzureAD)|https://twitter.com/azuread
-|[#MSOutlook](https://twitter.com/hashtag/MSOutlook)|https://twitter.com/Outlook
+|[#AzureAD](https://twitter.com/hashtag/AzureAD)|[@AzureAD](https://twitter.com/azuread)|
+|[#MSOutlook](https://twitter.com/hashtag/MSOutlook)|[@Outlook](https://twitter.com/Outlook)|
 |[#Yammer](https://twitter.com/hashtag/Yammer)|[@Yammer](https://twitter.com/Yammer)|
 |[#AdaptiveCards](https://twitter.com/hashtag/AdaptiveCards)||
 
@@ -61,15 +62,16 @@ https://twitter.com/docsmsft
 
 |Hashtag|Official Account|
 |---|---|
-|[#SharePoint](https://twitter.com/hashtag/SharePoint), [#SharePointSpaces](https://twitter.com/hashtag/SharePointSpaces), [#ProjectCortex](https://twitter.com/hashtag/ProjectCortex), [#MicrosoftLists](https://twitter.com/hashtag/MicrosoftLists)|[@SharePoint](https://twitter.com/SharePoint)|
+|[#SharePoint](https://twitter.com/hashtag/SharePoint), [#SharePointSpaces](https://twitter.com/hashtag/SharePointSpaces), [#ProjectCortex](https://twitter.com/hashtag/ProjectCortex)|[@SharePoint](https://twitter.com/SharePoint)|
+|[#MicrosoftLists](https://twitter.com/hashtag/MicrosoftLists)||
 |[#OneDrive](https://twitter.com/hashtag/OneDrive)|[@OneDrive](https://twitter.com/onedrive)|
 
 ## Office Suite
 
 |Hashtag|Official Account|
 |---|---|
-https://twitter.com/Office
-|Office|[@Office](https://twitter.com/Office)|
+||[@Office](https://twitter.com/Office)|
+|[#OneNote](https://twitter.com/hashtag/OneNote)|[@msonenote](https://twitter.com/msonenote)|
 |[#Excel](https://twitter.com/hashtag/Excel)|[@msexcel](https://twitter.com/msexcel)|
 |[#MSWord](https://twitter.com/hashtag/MSWord)||
 |[#PowerPoint](https://twitter.com/hashtag/PowerPoint)|[@PowerPoint](https://twitter.com/PowerPoint)|
@@ -82,24 +84,23 @@ https://twitter.com/Office
 |[#PowerApps](https://twitter.com/hashtag/PowerApps)|[@PowerApps](https://twitter.com/PowerApps)|
 |[#PowerAutomate](https://twitter.com/hashtag/PowerAutomate)|[@MSPowerAutomate](https://twitter.com/MSPowerAutomate)|
 |[#PowerBI](https://twitter.com/hashtag/PowerBI), [#DAX](https://twitter.com/hashtag/DAX), [#PowerQuery](https://twitter.com/hashtag/PowerQuery)|[@MSPowerBI](https://twitter.com/MSPowerBI)|
-|[#CommonDataService](https://twitter.com/hashtag/CommonDataService)||
 |[#PowerVirtualAgents](https://twitter.com/hashtag/PowerVirtualAgents)|[@MSPowerVirtual](https://twitter.com/MSPowerVirtual)|
+|[#CommonDataService](https://twitter.com/hashtag/CommonDataService)||
 |[#AIBuilder](https://twitter.com/hashtag/AIBuilder)||
 
 ## Other Apps
 
-[#MSVisio](https://twitter.com/hashtag/MSVisio)\
-[#MSProject](https://twitter.com/hashtag/MSProject)\
-[#MSWhiteboard](https://twitter.com/hashtag/MSWhiteboard)
-#MSForms
-
-[@project](https://twitter.com/project)
-[@msvisio](https://twitter.com/msvisio)
-[@SkypeBusiness](https://twitter.com/SkypeBusiness)
-[@MS_StaffHub](https://twitter.com/MS_StaffHub)
-[@MicrosoftStream](https://twitter.com/MicrosoftStream)
-[@sway](https://twitter.com/sway)
-[@MicrosoftToDo](https://twitter.com/MicrosoftToDo)
+|Hashtag|Official Account|
+|---|---|
+|[#MicrosoftStream](https://twitter.com/hashtag/MicrosoftStream)|[@MicrosoftStream](https://twitter.com/MicrosoftStream)|
+|[#MSVisio](https://twitter.com/hashtag/MSVisio)|[@msvisio](https://twitter.com/msvisio)|
+|[#MSProject](https://twitter.com/hashtag/MSProject)|[@project](https://twitter.com/project)|
+|[#MSWhiteboard](https://twitter.com/hashtag/MSWhiteboard)||
+|[#MSForms](https://twitter.com/hashtag/MSForms)||
+||[@SkypeBusiness](https://twitter.com/SkypeBusiness)|
+||[@MS_StaffHub](https://twitter.com/MS_StaffHub)|
+||[@sway](https://twitter.com/sway)|
+||[@MicrosoftToDo](https://twitter.com/MicrosoftToDo)|
 
 ## Development
 
@@ -108,11 +109,10 @@ https://twitter.com/Office
 
 |Hashtag|Official Account|
 |---|---|
-|[#SPFx](https://twitter.com/hashtag/SPFx)|[@Microsoft365Dev](https://twitter.com/Microsoft365Dev)
-|[#MicrosoftGraph](https://twitter.com/hashtag/MicrosoftGraph)|
-|[#PnPPowerShell](https://twitter.com/hashtag/PnPPowerShell)|
-|[#PnPjs](https://twitter.com/hashtag/PnPjs)|
-|[#PnPhelp](https://twitter.com/hashtag/PnPhelp)|
+|[#SPFx](https://twitter.com/hashtag/SPFx)|[@Microsoft365Dev](https://twitter.com/Microsoft365Dev)|
+|[#MicrosoftGraph](https://twitter.com/hashtag/MicrosoftGraph)|[@Microsoft365Dev](https://twitter.com/Microsoft365Dev)|
+|[#PnPPowerShell](https://twitter.com/hashtag/PnPPowerShell)|[@m365pnp](https://twitter.com/m365pnp)|
+|[#PnPjs](https://twitter.com/hashtag/PnPjs)|[@m365pnp](https://twitter.com/m365pnp)|
 
 ## Security
 
@@ -143,9 +143,9 @@ The following tags are used in combination with product tags to identify informa
 
 ## Notable Twitter Accounts
 
-Below a list of twitter accounts that often post about Microsoft 365 and have more than 20k followers.
+Below a list of twitter accounts that often post about Microsoft 365 and have more than 20k followers.\
 [@maryjofoley](https://twitter.com/maryjofoley),
-[@DonaSakar](https://twitter.com/DonaSakar)
+[@DonaSarkar](https://twitter.com/DonaSakar)
 
 ---
 
