@@ -122,10 +122,11 @@ TBD
 
 ## Environments
 
-The following tags are used in combination with product specific tags to identify information specific to a national cloud platform.
+The following tags are used in combination with product tags to identify information specific to a national cloud platform.
 #GCC
 #GCCH
 #DoD
+#TeamsForGov
 
 ## Notable Twitter Accounts
 
