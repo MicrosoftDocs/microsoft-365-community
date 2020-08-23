@@ -1,5 +1,5 @@
 ---
-title: Follow Microsoft 365 in Social Media
+title: Follow Microsoft 365 on Social Media
 ms.date: 8/22/2020
 author: Christophe Humbert
 ms.reviewer: 
@@ -36,7 +36,10 @@ Social media also give you direct access to expertise. Use one of the help tags 
 |Hashtag|Official Account|
 |---|---|
 |[#Microsoft365](https://twitter.com/hashtag/Microsoft365)|[@Microsoft365](https://twitter.com/Microsoft365)|
-
+|[#MicrosoftDocs](https://twitter.com/hashtag/MicrosoftDocs)|[@docsmsft](https://twitter.com/docsmsft)|
+|[#MicrosoftLearn](https://twitter.com/hashtag/MicrosoftLearn)|[@MicrosoftLearn](https://twitter.com/MicrosoftLearn)|
+|[#M365CommDocs](https://twitter.com/hashtag/M365CommDocs)|[@M365CommDocs](https://twitter.com/M365CommDocs)|
+https://twitter.com/docsmsft
 ## Messaging and Communications
 
 > [!IMPORTANT]
@@ -46,9 +49,10 @@ Social media also give you direct access to expertise. Use one of the help tags 
 |---|---|
 |[#MicrosoftTeams](https://twitter.com/hashtag/MicrosoftTeams)|[@MicrosoftTeams](https://twitter.com/MicrosoftTeams)|
 |[#Microsoft365Groups](https://twitter.com/hashtag/Microsoft365Groups)|
-|[#AzureAD](https://twitter.com/hashtag/AzureAD)|
-|[#MSOutlook](https://twitter.com/hashtag/MSOutlook)|
+|[#AzureAD](https://twitter.com/hashtag/AzureAD)|https://twitter.com/azuread
+|[#MSOutlook](https://twitter.com/hashtag/MSOutlook)|https://twitter.com/Outlook
 |[#Yammer](https://twitter.com/hashtag/Yammer)|[@Yammer](https://twitter.com/Yammer)|
+|[#AdaptiveCards](https://twitter.com/hashtag/AdaptiveCards)||
 
 ## Content Management
 
@@ -57,29 +61,30 @@ Social media also give you direct access to expertise. Use one of the help tags 
 
 |Hashtag|Official Account|
 |---|---|
-|[#SharePoint](https://twitter.com/hashtag/SharePoint),[#SharePointSpaces](https://twitter.com/hashtag/SharePointSpaces),[#ProjectCortex](https://twitter.com/hashtag/ProjectCortex)|[@SharePoint](https://twitter.com/SharePoint)|
-|[#OneDrive](https://twitter.com/hashtag/OneDrive)|
-|[#MicrosoftLists](https://twitter.com/hashtag/MicrosoftLists)|
+|[#SharePoint](https://twitter.com/hashtag/SharePoint), [#SharePointSpaces](https://twitter.com/hashtag/SharePointSpaces), [#ProjectCortex](https://twitter.com/hashtag/ProjectCortex), [#MicrosoftLists](https://twitter.com/hashtag/MicrosoftLists)|[@SharePoint](https://twitter.com/SharePoint)|
+|[#OneDrive](https://twitter.com/hashtag/OneDrive)|[@OneDrive](https://twitter.com/onedrive)|
 
 ## Office Suite
 
 |Hashtag|Official Account|
 |---|---|
-|[#Excel](https://twitter.com/hashtag/Excel)|
-|[#MSWord](https://twitter.com/hashtag/MSWord)|
-|[#PowerPoint](https://twitter.com/hashtag/PowerPoint)|
+https://twitter.com/Office
+|Office|[@Office](https://twitter.com/Office)|
+|[#Excel](https://twitter.com/hashtag/Excel)|[@msexcel](https://twitter.com/msexcel)|
+|[#MSWord](https://twitter.com/hashtag/MSWord)||
+|[#PowerPoint](https://twitter.com/hashtag/PowerPoint)|[@PowerPoint](https://twitter.com/PowerPoint)|
 
 ## Power Platform
 
 |Hashtag|Official Account|
 |---|---|
-|[#PowerPlatform](https://twitter.com/hashtag/PowerPlatform)|
+|[#PowerPlatform](https://twitter.com/hashtag/PowerPlatform)||
 |[#PowerApps](https://twitter.com/hashtag/PowerApps)|[@PowerApps](https://twitter.com/PowerApps)|
 |[#PowerAutomate](https://twitter.com/hashtag/PowerAutomate)|[@MSPowerAutomate](https://twitter.com/MSPowerAutomate)|
-|[#CommonDataService](https://twitter.com/hashtag/CommonDataService)|
-|[#PowerVirtualAgents](https://twitter.com/hashtag/PowerVirtualAgents)|[@MSPowerVirtual](https://twitter.com/MSPowerVirtual)|
-|[#AIBuilder](https://twitter.com/hashtag/AIBuilder)|
 |[#PowerBI](https://twitter.com/hashtag/PowerBI), [#DAX](https://twitter.com/hashtag/DAX), [#PowerQuery](https://twitter.com/hashtag/PowerQuery)|[@MSPowerBI](https://twitter.com/MSPowerBI)|
+|[#CommonDataService](https://twitter.com/hashtag/CommonDataService)||
+|[#PowerVirtualAgents](https://twitter.com/hashtag/PowerVirtualAgents)|[@MSPowerVirtual](https://twitter.com/MSPowerVirtual)|
+|[#AIBuilder](https://twitter.com/hashtag/AIBuilder)||
 
 ## Other Apps
 
@@ -99,13 +104,15 @@ Social media also give you direct access to expertise. Use one of the help tags 
 ## Development
 
 > [!IMPORTANT]
-> Seeking help on PnP? Include PnPhelp in your tweet.
+> Seeking help on PnP? Include **[#PnPhelp](https://twitter.com/hashtag/PnPhelp)** in your tweet.
 
 |Hashtag|Official Account|
 |---|---|
-#PnPjs
-#PnPPowerShell
-#SPFx
+|[#SPFx](https://twitter.com/hashtag/SPFx)|[@Microsoft365Dev](https://twitter.com/Microsoft365Dev)
+|[#MicrosoftGraph](https://twitter.com/hashtag/MicrosoftGraph)|
+|[#PnPPowerShell](https://twitter.com/hashtag/PnPPowerShell)|
+|[#PnPjs](https://twitter.com/hashtag/PnPjs)|
+|[#PnPhelp](https://twitter.com/hashtag/PnPhelp)|
 
 ## Security
 
@@ -115,25 +122,30 @@ TBD
 
 |Hashtag|Date|
 |---|---|
-|#MS365UserGroup|year long|
-|#MS365Saturday|year long|
-|#MSIgnite|---|
-|#MSBuild|---|
+|[#MSBizAppsSummit](https://twitter.com/hashtag/MSBizAppsSummit)|Spring|
+|[#MSInspire](https://twitter.com/hashtag/MSInspire)|May|
+|[#MSBuild](https://twitter.com/hashtag/MSBuild)|May|
+|[#MSIgnite](https://twitter.com/hashtag/MSIgnite)|September|
+|[#M365UserGroup](https://twitter.com/hashtag/M365UserGroup)|Year long|
+|[#PowerBIUserGroup](https://twitter.com/hashtag/PowerBIUserGroup)|Year long|
+|[#M365Saturday](https://twitter.com/hashtag/M365Saturday)|Year long|
+
 
 ## Environments
 
 The following tags are used in combination with product tags to identify information specific to a national cloud platform.
-#GCC
-#GCCH
-#DoD
-#TeamsForGov
+|Hashtag|
+|---|
+|[#GCC](https://twitter.com/hashtag/GCC)|
+|[#GCCH](https://twitter.com/hashtag/GCCH)|
+|[#DoD](https://twitter.com/hashtag/DoD)|
+|[#TeamsForGov](https://twitter.com/hashtag/TeamsForGov)|
 
 ## Notable Twitter Accounts
 
 Below a list of twitter accounts that often post about Microsoft 365 and have more than 20k followers.
-https://twitter.com/maryjofoley
-
-|@MaryJoFoley|@DonaSakar|
+[@maryjofoley](https://twitter.com/maryjofoley),
+[@DonaSakar](https://twitter.com/DonaSakar)
 
 ---
 
