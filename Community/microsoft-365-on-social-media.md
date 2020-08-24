@@ -1,8 +1,8 @@
 ---
 title: Follow Microsoft 365 on Social Media
 ms.date: 8/23/2020
-author: Christophe Humbert
-ms.reviewer: 
+author: PathToSharePoint
+ms.reviewer: Joanne Hendrickson
 localization_priority: 
 description: Useful links to help you follow the Microsoft 365 community on social media
 ms.collection:  SPCommunity
@@ -26,7 +26,6 @@ Social media also give you direct access to expertise. Use one of the help tags 
 
 > [!TIP]
 > Use a Power Automate template to track tweets related to your topics of interest.
-
 
 >[!NOTE]
 >Note: references to Azure and Dynamics 365 are beyond the scope of this document.
@@ -129,7 +128,6 @@ TBD
 |[#M365UserGroup](https://twitter.com/hashtag/M365UserGroup)|Year long|
 |[#PowerBIUserGroup](https://twitter.com/hashtag/PowerBIUserGroup)|Year long|
 |[#M365Saturday](https://twitter.com/hashtag/M365Saturday)|Year long|
-
 
 ## Environments
 

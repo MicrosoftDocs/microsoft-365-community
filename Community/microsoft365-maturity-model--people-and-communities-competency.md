@@ -1,19 +1,11 @@
 ---
-
 title: The Microsoft 365 Maturity Model – People and Communities Competency
-
 ms.date: 8/5/2020
-
 author: eemancini
-
 ms.reviewer: Joanne Hendrickson
-
 localization_priority:
-
 description: The Microsoft 365 Maturity Model – People and Communities Competency
-
 ms.collection: SPCommunity
-
 ---
 
 # The Microsoft 365 Maturity Model – People and Communities Competency
@@ -109,7 +101,7 @@ People profiles have additional information populated for skills, expertise, and
 - Processes exist to create and populate staff profiles in appropriate systems in response to trigger events (new starter, role change, leaver). Compliance with maintaining profiles is a matter for line management.
 - Staff have the ability to update elements of their profile and request updates to other attributes.
 - Custom profile fields support subject matter expertise identification and other attributes important to the organization.
-- Photos are updated from a central source. 
+- Photos are updated from a central source.
 -Community spaces connect a targeted set of users. The purpose and etiquette of community spaces is defined.
 - Profile information is sometimes used as a data source and integrated within systems and processes. It becomes possible to automate organization charts; attempts are made to resolve the inconsistencies this reveals.
 - Local directories are in the process of being eliminated.
@@ -144,7 +136,6 @@ People are connected across the organization based on their skills, interests, a
 - Users can maintain important profile data that writes back to Active Directory or Human Resources Information Systems.
 - Communities and conversations extend to external participants when it makes a process more effective.
 - Employees are finding opportunities to innovate within the company spurred by new connections.
-
 
 #### Impacts
 
@@ -181,7 +172,8 @@ Some examples of collaboration ROI include:
 Improving your People and Communities maturity means rethinking your processes and decentralizing communication from one channel to multiple areas which best support the topics and tasks at hand. Embracing different levels of persistence and types of interaction with communication in these channels supports end users’ ability to be more focused and deeply engaged in conversation, achieving better results. Empowering your end users to manage their own communities enables IT professionals to focus on a higher strategic level and reduce friction with end users.
 
 ## Resources to Learn More
-- [How to Share Org-Wide Communication in Microsoft 365]( https://docs.microsoft.com/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
+
+- [How to Share Org-Wide Communication in Microsoft 365](https://docs.microsoft.com/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
 - [Join and create a community in Yammer](https://support.microsoft.com/office/join-and-create-a-community-in-yammer-56aaf591-1fbc-4160-ba26-0c4723c23fd6)
 - [Manage Dynamic Distribution Groups](https://docs.microsoft.com/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups)
 - [Principles of Communication](https://docs.microsoft.com/microsoft-365/community/principles-of-communication)
@@ -191,11 +183,7 @@ Improving your People and Communities maturity means rethinking your processes a
 Principal authors:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
-
 - [Simon Doy](https://www.linkedin.com/in/simondoy)
-
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson)
-
 - [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini)
-
 - [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit)

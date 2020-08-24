@@ -55,7 +55,6 @@ In the Admin Portal there are [Usage Reports](https://admin.microsoft.com/Adminp
 > [!TIP]
 > This is commonly where people begin and quickly end their search for SharePoint champions. To get the most valuable feedback you will need to look further than just your top users. What about users with incredibly low usage in a department that you know has fully adopted SharePoint as a solution? Finding out why it is not working for them can be more valuable than hearing the same positives of why it is working for their team members.
 
-
 ---
 
 **Principal author**:[Emily Mancini, UXC](http://www.linkedin.com/in/eemancini)
