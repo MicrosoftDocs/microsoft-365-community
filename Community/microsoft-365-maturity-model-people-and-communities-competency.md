@@ -50,8 +50,6 @@ The solution for which channels to use can vary depending on the size of your or
 
 ### Level 100
 
-This is the starting level for a new or untried process. As with all 100 level characteristics, practices may be somewhat effective, but they don’t take advantage of the power of the platform, nor do they take into account the multiple use cases which exist in even the smallest and simplest organization. Typically, they are undocumented and in a state of dynamic change, tending to be driven in an ad hoc, uncontrolled and reactive manner by users or events. This provides a chaotic or unstable environment for the processes.
-
 Organizations at level 100 have done little to actively support the concepts around people and communities, relying on organic and traditional approaches. They may still have printed phone directories. There are no expectations within the company that personal profiles are completed or updated. Much of the important interaction between employees occurs with in-person meetings, chat, or hallways and often with no clear outcomes.
 
 Systems may exist to support identifying who works in the organization and in which department. Distribution lists are used to communicate with groups such as “All Company” and each department. The processes to update information fall to IT, are essentially manual and undocumented, and lack formal processes to manage their members.
