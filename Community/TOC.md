@@ -1,6 +1,7 @@
 # [HOME](index.yml)
 ## Basics and Definitions
 ### [Glossary](glossary.md)
+### [Follow Microsoft 365 on Social Media](microsoft-365-on-social-media.md)
 ### [What is a Site Column?](what-is-site-column.md)
 ### [What is a Content Type?](what-is-content-type.md)
 ## Microsoft 365 Better Practices
@@ -9,6 +10,7 @@
 ### [The Microsoft 365 Maturity Model - Introduction](microsoft365-maturity-model--intro.md)
 ### [The Microsoft 365 Maturity Model - Collaboration Competency](microsoft365-maturity-model--collaboration.md)
 ### [The Microsoft 365 Maturity Model - Communication Competency](microsoft365-maturity-model--communication.md)
+### [The Microsoft 365 Maturity Model – People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
 ### [Versioning in SharePoint](versioning-basics-best-practices.md)

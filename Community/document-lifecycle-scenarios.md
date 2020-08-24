@@ -29,7 +29,7 @@ This scenario is similar to the inner and outer loop ideas presented by Microsof
 > [!TIP]
 > Ideally if we are working with documents on our desktops, they are also synching to OneDrive with [OneDrive PC Folder Backup](known-folder-move-benefits-for-enduser.md) (née Known Folder Move).
 
-When we feel pour document is "ready" or has reached a point where we would like some feedback - usually from "trusted" co-workers - we share the document where it sits by creating a sharing link and sending it to them.
+When we feel our document is "ready" or has reached a point where we would like some feedback - usually from "trusted" co-workers - we share the document where it sits by creating a sharing link and sending it to them.
 
 Once we've collaborated on the document with the small circle, we may decide it is ready for our larger work team to review and give us feedback. At this point, we may move the document from our OneDrive into the Team Site (SharePoint) or Files tab (Microsoft Teams) where out team has access and we share a link again. This is the beginning of the shift from the inner loop to the outer loop.
 
@@ -41,7 +41,7 @@ That little personal idea we had can have long legs!
 
 ## Important Organizational Document
 
-Some documents are simply too important organizationally to arise informally. They also may require some organized and sometimes mandated processes. In this case, the document is generally created in s SharePoint Document Library with important, required metadata columns. It may be moved through a process using a Power Automate flow for approvals or other important state changes.
+Some documents are simply too important organizationally to arise informally. They also may require some organized and sometimes mandated processes. In this case, the document is generally created in a SharePoint Document Library with important, required metadata columns. It may be moved through a process using a Power Automate flow for approvals or other important state changes.
 
 The goal with documents like this - perhaps a company policy or regulatory filing - is to ensure accuracy and adherence to all organizational constraints.
 
