@@ -142,12 +142,11 @@ The following tags are used in combination with product tags to identify informa
 
 ## Notable Twitter Accounts
 
-Below a list of twitter accounts that often post about Microsoft 365 and have more than 20k followers.\
-[@maryjofoley](https://twitter.com/maryjofoley),
-[@DonaSarkar](https://twitter.com/DonaSakar)
+Below a list of twitter accounts that often post about Microsoft 365 and have more than 20k followers.
+
+- [@maryjofoley](https://twitter.com/maryjofoley)
+- [@DonaSarkar](https://twitter.com/DonaSakar)
 
 ---
 
 **Principal author**: [Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/)
-
----
