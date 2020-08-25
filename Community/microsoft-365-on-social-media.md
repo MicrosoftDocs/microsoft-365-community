@@ -132,6 +132,7 @@ TBD
 ## Environments
 
 The following tags are used in combination with product tags to identify information specific to a national cloud platform.
+
 |Hashtag|
 |---|
 |[#GCC](https://twitter.com/hashtag/GCC)|
