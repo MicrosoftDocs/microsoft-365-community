@@ -28,6 +28,8 @@ landingContent:
         links:
           - text: Glossary
             url: glossary.md
+          - text: Follow Microsoft 365 on Social Media
+            url: microsoft-365-on-social-media.md
           - text: What is a Site Column?
             url:  what-is-site-column.md
           - text: What is a Content Type?
@@ -52,6 +54,8 @@ landingContent:
             url:  microsoft365-maturity-model--collaboration.md
           - text: The Microsoft 365 Maturity Model - Communication Competency
             url:  microsoft365-maturity-model--communication.md
+          - text: The Microsoft 365 Maturity Model – People and Communities Competency
+            url: microsoft365-maturity-model--people-and-communities-competency.md
 
   # Card (optional)
   - title: SharePoint Better Practices
