@@ -30,20 +30,9 @@ Social media also give you direct access to expertise. Use one of the help tags 
 >[!NOTE]
 >Note: references to Azure and Dynamics 365 are beyond the scope of this document.
 
-
-
-
-https://status.office365.com/
-
-spsevents
-
-Jeff Teper
-Mark Kashman
-
-
-
-
 ## General
+
+If you're having general issues with Microsoft 365, be sure to check the [Microsoft 365 Service health status](https://status.office365.com/) page and/or follow [@MSFT365Status](https://twitter.com/MSFT365Status) for information about any known service incidents.
 
 |Hashtag|Official Account|
 |---|---|
@@ -134,6 +123,7 @@ TBD
 
 |Hashtag|Date|
 |---|---|
+|[#SPSEvents](https://twitter.com/hashtag/SPSEvents)| Saturdays, globally |
 |[#MSBizAppsSummit](https://twitter.com/hashtag/MSBizAppsSummit)|Spring|
 |[#MSInspire](https://twitter.com/hashtag/MSInspire)|May|
 |[#MSBuild](https://twitter.com/hashtag/MSBuild)|May|
