@@ -30,6 +30,19 @@ Social media also give you direct access to expertise. Use one of the help tags 
 >[!NOTE]
 >Note: references to Azure and Dynamics 365 are beyond the scope of this document.
 
+
+
+
+https://status.office365.com/
+
+spsevents
+
+Jeff Teper
+Mark Kashman
+
+
+
+
 ## General
 
 |Hashtag|Official Account|
@@ -142,10 +155,17 @@ The following tags are used in combination with product tags to identify informa
 
 ## Notable Twitter Accounts
 
-Below a list of twitter accounts that often post about Microsoft 365 and have more than 20k followers.
+Below a list of twitter accounts that often post about Microsoft 365 and can be considered authoritative.
+
+### Microsoft
+
+- [@DonaSarkar](https://twitter.com/DonaSakar)
+- [@JeffTeper](https://twitter.com/jeffteper)
+- [@MKashman](https://twitter.com/mkashman)
+
+### Other
 
 - [@maryjofoley](https://twitter.com/maryjofoley)
-- [@DonaSarkar](https://twitter.com/DonaSakar)
 
 ---
 
