@@ -32,6 +32,8 @@ Social media also give you direct access to expertise. Use one of the help tags 
 
 ## General
 
+If you're having general issues with Microsoft 365, be sure to check the [Microsoft 365 Service health status](https://status.office365.com/) page and/or follow [@MSFT365Status](https://twitter.com/MSFT365Status) for information about any known service incidents.
+
 |Hashtag|Official Account|
 |---|---|
 |[#Microsoft365](https://twitter.com/hashtag/Microsoft365)|[@Microsoft365](https://twitter.com/Microsoft365)|
@@ -119,19 +121,21 @@ TBD
 
 ## Events and User Groups
 
-|Hashtag|Date|
-|---|---|
-|[#MSBizAppsSummit](https://twitter.com/hashtag/MSBizAppsSummit)|Spring|
-|[#MSInspire](https://twitter.com/hashtag/MSInspire)|May|
-|[#MSBuild](https://twitter.com/hashtag/MSBuild)|May|
-|[#MSIgnite](https://twitter.com/hashtag/MSIgnite)|September|
-|[#M365UserGroup](https://twitter.com/hashtag/M365UserGroup)|Year long|
-|[#PowerBIUserGroup](https://twitter.com/hashtag/PowerBIUserGroup)|Year long|
-|[#M365Saturday](https://twitter.com/hashtag/M365Saturday)|Year long|
+| Account |Hashtag|Date|
+|---|---|---|
+|[@SPS_Events](https://twitter.com/SPS_Events)|[#SPSEvents](https://twitter.com/hashtag/SPSEvents)| Saturdays, globally ||
+||[#MSBizAppsSummit](https://twitter.com/hashtag/MSBizAppsSummit)|Spring|
+||[#MSInspire](https://twitter.com/hashtag/MSInspire)|May|
+||[#MSBuild](https://twitter.com/hashtag/MSBuild)|May|
+|[@MS_Ignite](https://twitter.com/MS_Ignite)|[#MSIgnite](https://twitter.com/hashtag/MSIgnite)|September|
+||[#M365UserGroup](https://twitter.com/hashtag/M365UserGroup)|Year long|
+||[#PowerBIUserGroup](https://twitter.com/hashtag/PowerBIUserGroup)|Year long|
+||[#M365Saturday](https://twitter.com/hashtag/M365Saturday)|Year long|
 
 ## Environments
 
 The following tags are used in combination with product tags to identify information specific to a national cloud platform.
+
 |Hashtag|
 |---|
 |[#GCC](https://twitter.com/hashtag/GCC)|
@@ -141,12 +145,18 @@ The following tags are used in combination with product tags to identify informa
 
 ## Notable Twitter Accounts
 
-Below a list of twitter accounts that often post about Microsoft 365 and have more than 20k followers.\
-[@maryjofoley](https://twitter.com/maryjofoley),
-[@DonaSarkar](https://twitter.com/DonaSakar)
+Below a list of twitter accounts that often post about Microsoft 365 and can be considered authoritative.
+
+### Microsoft
+
+- [@DonaSarkar](https://twitter.com/DonaSakar)
+- [@JeffTeper](https://twitter.com/jeffteper)
+- [@MKashman](https://twitter.com/mkashman)
+
+### Other
+
+- [@maryjofoley](https://twitter.com/maryjofoley)
 
 ---
 
 **Principal author**: [Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/)
-
----
