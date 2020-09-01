@@ -10,7 +10,7 @@ ms.collection: SPCommunity
 
 # Maturity Model for Microsoft 365 - Introduction
 
-![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365\M365MM.png)
+![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview
 
