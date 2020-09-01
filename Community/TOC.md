@@ -6,11 +6,11 @@
 ### [What is a Content Type?](what-is-content-type.md)
 ## Microsoft 365 Better Practices
 ### [OneDrive PC Folder Backup Benefits for End Users](known-folder-move-benefits-for-enduser.md)
-## Microsoft 365 Maturity Model
-### [The Microsoft 365 Maturity Model - Introduction](microsoft365-maturity-model--intro.md)
-### [The Microsoft 365 Maturity Model - Collaboration Competency](microsoft365-maturity-model--collaboration.md)
-### [The Microsoft 365 Maturity Model - Communication Competency](microsoft365-maturity-model--communication.md)
-### [The Microsoft 365 Maturity Model – People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
+## Maturity Model for Microsoft 365
+### [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md)
+### [Maturity Model for Microsoft 365 - Collaboration Competency](microsoft365-maturity-model--collaboration.md)
+### [Maturity Model for Microsoft 365 - Communication Competency](microsoft365-maturity-model--communication.md)
+### [Maturity Model for Microsoft 365 – People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
 ### [Versioning in SharePoint](versioning-basics-best-practices.md)
