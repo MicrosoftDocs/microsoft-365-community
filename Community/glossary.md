@@ -127,11 +127,11 @@ A Group in SharePoint can generally refer to one of three things. It may mean:
 
 #### SharePoint Group
 
-  A container to organize users and other security groups. A SharePoint group can be assigned permission levels on an object such as a site, a library or library, a folder or a document (or page, or item). Generally only a Site Owner can manage who is in a SharePoint Group.
+  A container to organize users and other security groups. A SharePoint group can be assigned permission levels on an object such as a site, a list or library, a folder or a document (or page, or item). Generally only a Site Owner can manage who is in a SharePoint Group.
 
 #### Office Group
-
-  An Office 365 Group is a concept within Office 365 that allows users can be members of, which has it's own e-mail address, and can be associated to a Microsoft Teams team, or a SharePoint Site. A Microsoft Teams Team automatically creates an Office 365 Group. These can be public where anyone can join, or Private when you need to be invited or given a code to join. Permissions are simplified to only "Owners" or "Members".
+  
+Groups in Microsoft 365 is a concept which lets their members easily collaborate. It provides a collection of resources such as a shared Outlook mailbox including a shared calendar, a SharePoint [Team site](#team-site) with a document library and a Notebook as well as a Planner Board, a Power Bi Worksspace and a Stream Video portal. A Group is the foundation of a Microsoft Teams team, and can be upgraded to a Team as well. A Team gives users within that group channels to collaborate in the context that is relevant to their work and the ability to have scheduled and ad-hoc meetings. Teams can be public (they can be accessed by everyone inside of the organization), private (users need to be invited explicitely) or org-wide (everyone in the organization is automatically a member of this team). Roles and permissions are simplified to Owner (create, delete, manage memberships), Member (collaborate, create channels and add tabs) and Guest. Guests are outside of the organization and need to be added explicetly as an External User, otherwise they can't see nor access a team. They can only work in the structure provided to them, which means they can't add tabs, apps or channels. 
   
 #### Security Group
 
