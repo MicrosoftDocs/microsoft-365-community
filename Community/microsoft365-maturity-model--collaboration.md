@@ -166,7 +166,7 @@ Rather than focusing on specific point solutions, a more strategic view of platf
 
 **Managed level collaboration** characteristics include:
 
-####  Governance & Security
+#### Governance & Security
 
 - There is a strong understanding of the value and risk of collaboration and governance and security approaches are implemented to minimize data leakage, allow and prevent sharing as needed, to reactively review or investigate activities.
 - There are time, location, device and person limits on access to content and collaboration between people
