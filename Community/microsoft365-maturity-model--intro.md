@@ -25,7 +25,7 @@ Taking a holistic view of the technology and gaining an understanding of current
 
 ## The SharePoint Maturity Model (SPMM)
 
-![SharePoint Maturity Model](media/maturity-model-for-microsoft-365/SPMM Square.png)
+![SharePoint Maturity Model](media/maturity-model-for-microsoft-365/SPMMSquare.png)
 
 Around the time SharePoint 2010 was released, [Sadie Van Buren](https://www.linkedin.com/in/sadalit/) developed a powerful set of concepts embodied in the SharePoint Maturity Model (SPMM). The basic idea was to give people working with the platform ways to:
 
@@ -50,7 +50,7 @@ SPMM was based on  the [Capability Maturity Model (CMM)](https://en.wikipedia.or
 
 #### Initial
 
-This is the starting level for a new or untried process. Practices may be somewhat effective, but they don’t take advantage of the power of the platform, nor do they take into account the multiple use cases which exist in even the smallest and simplest organization. Typically, they are undocumented and in a state of dynamic change, tending to be driven in an ad hoc, uncontrolled and reactive manner by users or events. This provides a chaotic or unstable environment for the processes.   
+This is the starting level for a new or untried process. Practices may be somewhat effective, but they don’t take advantage of the power of the platform, nor do they take into account the multiple use cases which exist in even the smallest and simplest organization. Typically, they are undocumented and in a state of dynamic change, tending to be driven in an ad hoc, uncontrolled and reactive manner by users or events. This provides a chaotic or unstable environment for the processes.
 
 #### Repeatable
 
@@ -62,7 +62,7 @@ The process is well defined and agreed as a standard business process. There are
 
 #### Managed (Capable)
 
-The process is quantitatively managed in accordance with agreed-upon metrics. Effective achievement of the process objectives can be evidenced (using metrics) across a range of operational conditions. The suitability of the process in multiple environments has been tested and the process refined and adapted. Process users have experienced the process in multiple and varied conditions and are able to demonstrate competence. The process maturity enables adaptions to particular projects without measurable losses of quality or deviations from specifications. Process Capability is established from this level.   
+The process is quantitatively managed in accordance with agreed-upon metrics. Effective achievement of the process objectives can be evidenced (using metrics) across a range of operational conditions. The suitability of the process in multiple environments has been tested and the process refined and adapted. Process users have experienced the process in multiple and varied conditions and are able to demonstrate competence. The process maturity enables adaptions to particular projects without measurable losses of quality or deviations from specifications. Process Capability is established from this level.
 
 #### Optimizing (Efficient)
 
@@ -70,11 +70,11 @@ Process management includes deliberate process optimization/improvement. The foc
 
 Management of the processes includes deliberate and systematic process improvement/optimization. There is focus is on continual improvement through both incremental and innovative technological changes/improvements. The Optimizing level is likely to include automation, reduction in manual tasks and associated variability, strong governance and compliance interventions as well as optimization for user interactions and productivity.  
 
-Not every organization needs to be at the top level. NASA or Airbus have different goals, constraints, and risks to manage than a small marketing or retail organization. Not every department, team or function needs to be at the same level; Operations often needs to function with higher levels of maturity than, for example, Sales and this is reflected in their respective technology strategy and investment. As with any organizational capability, the organization should decide if the capability should be a strategic differentiator or simply a basic operational capability based on the organizational strategy. The former may require optimized and foolproof capabilities, where the latter only requires relative efficiency. 
+Not every organization needs to be at the top level. NASA or Airbus have different goals, constraints, and risks to manage than a small marketing or retail organization. Not every department, team or function needs to be at the same level; Operations often needs to function with higher levels of maturity than, for example, Sales and this is reflected in their respective technology strategy and investment. As with any organizational capability, the organization should decide if the capability should be a strategic differentiator or simply a basic operational capability based on the organizational strategy. The former may require optimized and foolproof capabilities, where the latter only requires relative efficiency.
 
 ## What's Next?
 
-The goal of expanding the SPMM to the Microsoft 365 level is to help practitioners in the community think through how they can improve their capabilities or decide which capabilities matter most to them. These decisions should be based not just on the technology capabilities themselves, but driven by specific outcome objectives derived from the organizational strategy, possibly at a reasonably granular level as well as at the over-arching organization level. 
+The goal of expanding the SPMM to the Microsoft 365 level is to help practitioners in the community think through how they can improve their capabilities or decide which capabilities matter most to them. These decisions should be based not just on the technology capabilities themselves, but driven by specific outcome objectives derived from the organizational strategy, possibly at a reasonably granular level as well as at the over-arching organization level.
 
 Our goal is to apply the same Competencies that were the core of the original SPMM. Because Microsoft 365 is a much deeper and wider toolkit, we aim to produce a guidance document for each Competency, in a consistent format. Although these are clearly linked to M365, we have deliberately avoided detailing particular features and functions, focusing on the business needs and processes in the Competency documents. We hope to expand the document set to drill into the technologies; a ‘How to’ for achieving different levels with the tools M365 provides.  
 
