@@ -1,3 +1,16 @@
+---
+title: Should everyone create Teams - Low Code Provisioning solution
+ms.date:  9/02/2020
+author: LuiseFreese
+ms.reviewer:  Joanne Hendrickson
+localization_priority:
+description: "Should everyone create Teams - Low Code Provisioning solution"
+ms.collection: SPCommunity
+
+---
+# **Should everyone create Teams?**
+
+
 This article shall shed a light on two aspects of Modern Workplace: 
 
 Teams Provisioning using a low-code solution while ensuring that Teams Owners are digitally literate enough to be responsible owners. 
@@ -6,15 +19,13 @@ Uncle Ben was right: With great power comes great responsibility  —
 
 If we give users great tools with great power, we also need to make sure to properly skill them up. We also need a lean process to deal with common asks.
 
-# **Should everyone create Teams?**
-
 Everyone wants to work with Teams as it provides us the collaborative workplace we need to be able to work from anywhere. And with Teams comes the relatively new concept (at least for an end-user) concept of ownership. Owning a Team empowers users to determine, how they want to collaborate, but we should also enable users to make wise decisions as they are literate enough to understand the implications. 
 
 Just blocking Group / Teams creation and have an established approval process owned by IT won't meet business needs as users will work around that and find shadow IT solutions. Just allowing everyone to create Groups and Teams will lead to overadoption: Too many Teams which should be channels, too many channels, which should be chats. 
 
 Key therefore is, to balance these extremes. 
 
-# **Solution Overview**
+## **Solution Overview**
 
 ![LuiseFreese-LowCodeTeamsProvisioning-solution-overview](https://user-images.githubusercontent.com/49960482/91979094-84742b00-ed25-11ea-94dc-e769ff9039c2.png)
 
@@ -25,7 +36,7 @@ If the user passes the test, he /she will be added to the group of Educated User
 If user doesn't pass the test OR if the manager doesn't approve, notifications will be sent and the process ends.
 
 
-# **What we need to build before we do the Chatbot**
+## **What we need to build before we do the Chatbot**
 
 - 2 Security Groups in Azure AD for Educated Users and Uneducated Users
 - Events for training in a calendar
@@ -73,7 +84,7 @@ This Power Automate flow creates items in our SharePoint list. Go to flow.micros
 Create a new list and add columns Teamname, Description, Owner, Privacy, Status etc. 
 
 
-#**Chatbot in Power Virtual Agents**
+# **Chatbot in Power Virtual Agents**
 
 We will now 
 
@@ -177,8 +188,6 @@ We update our SharePoint list (status is now rejected) and we post another Adapt
 If the Outcome of the Approval is Approved, we need to update our List as well and add an HTTP Call to first create a Group:
 
 ![LuiseFreese-LowCodeTeamsProvisioning-2ndflow-managers-approvalYES](https://user-images.githubusercontent.com/49960482/91987008-c1442000-ed2d-11ea-8f2e-8f93234b2f7b.png)
-
-You can find all required JSON on [docs.microsoft.com](https://docs.microsoft.com/en-us/graph/api/resources/teams-api-overview?view=graph-rest-1.0) — Plus it is highly recommended to first test everything in [Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
 
 As we do not only want a Microsoft 365 Group but also a Team based on that group, we need the Group ID. To get this ID (remember, we initialized an empty var for that already!), we need the parse JSON action and set our Group ID var to that value:
 
