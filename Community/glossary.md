@@ -68,7 +68,6 @@ See [SharePoint Framework](#sharepoint-framework)
 
 [Microsoft Common Data Service](https://powerplatform.microsoft.com/common-data-service/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Common Data Service enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
 
-
 ### Communication Site
 
 A Communication Site is generally used to communicate from a smaller group to a larger group. For this reason, Communication Sites are often used in Intranets.
@@ -89,7 +88,7 @@ Improving specific aspects of SharePoint functionality by changing settings thro
 
 ### Data Loss Prevention (DLP)
 
-A set of policies for identifying, alerting and securing sensitive information types found in content across the Microsoft 365 platform. 
+A set of policies for identifying, alerting and securing sensitive information types found in content across the Microsoft 365 platform.
 
 ### Disaster Recovery (DR)
 
@@ -129,9 +128,11 @@ A Group in SharePoint can generally refer to one of three things. It may mean:
 
   A container to organize users and other security groups. A SharePoint group can be assigned permission levels on an object such as a site, a list or library, a folder or a document (or page, or item). Generally only a Site Owner can manage who is in a SharePoint Group.
 
-#### Office Group
+#### Microsoft 365 Group
   
-Groups in Microsoft 365 is a concept which lets their members easily collaborate. It provides a collection of resources such as a shared Outlook mailbox including a shared calendar, a SharePoint [Team site](#team-site) with a document library and a Notebook as well as a Planner Board, a Power Bi Worksspace and a Stream Video portal. A Group is the foundation of a Microsoft Teams team, and can be upgraded to a Team as well. A Team gives users within that group channels to collaborate in the context that is relevant to their work and the ability to have scheduled and ad-hoc meetings. Teams can be public (they can be accessed by everyone inside of the organization), private (users need to be invited explicitely) or org-wide (everyone in the organization is automatically a member of this team). Roles and permissions are simplified to Owner (create, delete, manage memberships), Member (collaborate, create channels and add tabs) and Guest. Guests are outside of the organization and need to be added explicetly as an External User, otherwise they can't see nor access a team. They can only work in the structure provided to them, which means they can't add tabs, apps or channels. 
+A Microsoft 365 Groups is a concept which lets the members of the Group easily collaborate. It provides a collection of resources such as a shared Outlook mailbox including a shared calendar, a SharePoint [Team site](#team-site) with a document library and a Notebook, as well as a Planner Board, a Power BI workspace and a Stream Video portal.
+
+A Group is the foundation of a Microsoft Teams Team. A Team gives users within that Group channels to collaborate in the context that is relevant to their work and the ability to have scheduled and ad-hoc meetings. Teams can be public (they can be accessed by everyone inside of the organization), private (users need to be invited explicitly) or org-wide (everyone in the organization is automatically a member of this team). Roles and permissions are simplified to Owner (create, delete, manage memberships), Member (collaborate, create channels and add tabs) and Guest. Guests are outside of the organization and need to be added explicitly as an External User, otherwise they can't see nor access a Team. They can only work in the structure provided to them, which means they can't add tabs, apps or channels.
   
 #### Security Group
 
@@ -187,7 +188,7 @@ A library, typically used as a Document Library is a type of list where document
 
 ### Licensing
 
-Office 365 offers multiple licensing options (Kiosk, F1, E1, etc.), each of which turns on a different basket of capabilities for the user to whom the license is assigned.
+Microsoft 365 offers multiple licensing options (Kiosk, F1, E1, etc.), each of which turns on a different basket of capabilities for the user to whom the license is assigned.
 
 ### List
 
@@ -233,7 +234,7 @@ On premises refers to running servers yourself, whether they are in your physica
 
 ### OneDrive PC Folder Backup
 
-This capability was originally called [Known Folder Move (KFM)](#known-folder-move-kfm). It allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost. 
+This capability was originally called [Known Folder Move (KFM)](#known-folder-move-kfm). It allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost.
 
 ### Out of the box
 
@@ -269,7 +270,7 @@ Using PowerApps, you can quickly build custom business apps that connect to your
 
 ### Power Automate
 
-Power Automate is a low-code/no-code workflow platform that helps you create automated workflows between your favorite apps and services to synchronize files, get notifications, collect data and more. 
+Power Automate is a low-code/no-code workflow platform that helps you create automated workflows between your favorite apps and services to synchronize files, get notifications, collect data and more.
 
 Power Automate provides a means to quickly automate your workflows, enable business logic to simplify app building, and model your processes across connected data sources and services.
 
@@ -308,7 +309,6 @@ Using Power Virtual Agents, you can:
 [Project Oakdale](https://powerapps.microsoft.com/blog/introducing-microsoft-dataflex-a-new-low-code-data-platform-for-microsoft-teams/) is a built-in, low-code data platform for Microsoft Teams, and provides relational data storage, rich data types, enterprise grade governance, and one-click solution deployment for Power App solutions built for, and within Microsoft Teams.
 
 Project Oakdale is built upon Common Data Service, and provides a 'lite' version equivalent, for free, under the existing licensing requirements of Microsoft 365.
-
 
 ## Q
 
@@ -443,7 +443,7 @@ The most common settings we use in views allow us to:
 
 ### View Formatting
 
-View Formatting is a SharePoint feature that allows users to customize the display of rows in Lists using JSON code. Like [Column Formatting](#column-formatting), colors, icons, images and other elements are used to highlight content and improve the user experience. 
+View Formatting is a SharePoint feature that allows users to customize the display of rows in Lists using JSON code. Like [Column Formatting](#column-formatting), colors, icons, images and other elements are used to highlight content and improve the user experience.
 
 ## W
 

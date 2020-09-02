@@ -66,7 +66,7 @@ The process is quantitatively managed in accordance with agreed-upon metrics. Ef
 
 #### Optimizing (Efficient)
 
-Process management includes deliberate process optimization/improvement. The focus is on continually improving process performance through both incremental and innovative technological changes/improvements. Processes are concerned with addressing statistical common causes of process variation and changing the process (for example, to shift the mean of the process performance) to improve process performance. This would be done at the same time as maintaining the likelihood of achieving the established quantitative process-improvement objectives. 
+Process management includes deliberate process optimization/improvement. The focus is on continually improving process performance through both incremental and innovative technological changes/improvements. Processes are concerned with addressing statistical common causes of process variation and changing the process (for example, to shift the mean of the process performance) to improve process performance. This would be done at the same time as maintaining the likelihood of achieving the established quantitative process-improvement objectives.
 
 Management of the processes includes deliberate and systematic process improvement/optimization. There is focus is on continual improvement through both incremental and innovative technological changes/improvements. The Optimizing level is likely to include automation, reduction in manual tasks and associated variability, strong governance and compliance interventions as well as optimization for user interactions and productivity.  
 
@@ -99,8 +99,8 @@ These will be supported by other related articles, such as:
 
 Principal authors:
 
-- [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) 
-- [Simon Doy](https://www.linkedin.com/in/simondoy) 
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson) 
-- [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini) 
-- [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit) 
+- [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
+- [Simon Doy](https://www.linkedin.com/in/simondoy)
+- [Simon Hudson](https://www.linkedin.com/in/simonjhudson)
+- [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini)
+- [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit)
