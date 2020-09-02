@@ -56,6 +56,8 @@ landingContent:
             url:  microsoft365-maturity-model--communication.md
           - text: Maturity Model for Microsoft 365 – People and Communities Competency
             url: microsoft365-maturity-model--people-and-communities-competency.md
+          - text: Maturity Model for Microsoft 365 - Staff & Training Competency
+            url: microsoft365-maturity-model--staff-and-training.md
 
   # Card (optional)
   - title: SharePoint Better Practices
