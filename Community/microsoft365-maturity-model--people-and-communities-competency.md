@@ -1,14 +1,16 @@
 ---
-title: The Microsoft 365 Maturity Model – People and Communities Competency
+title: Maturity Model for Microsoft 365 – People and Communities Competency
 ms.date: 8/5/2020
 author: eemancini
 ms.reviewer: Joanne Hendrickson
 localization_priority:
-description: The Microsoft 365 Maturity Model – People and Communities Competency
+description: Maturity Model for Microsoft 365 – People and Communities Competency
 ms.collection: SPCommunity
 ---
 
-# The Microsoft 365 Maturity Model – People and Communities Competency
+# Maturity Model for Microsoft 365 – People and Communities Competency
+
+![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview of the Concepts [tl;dr]
 

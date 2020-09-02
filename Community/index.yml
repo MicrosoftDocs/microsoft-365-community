@@ -44,17 +44,17 @@ landingContent:
             url:  known-folder-move-benefits-for-enduser.md
 
   # Card (optional)
-  - title: Microsoft 365 Maturity Model
+  - title: Maturity Model for Microsoft 365
     linkLists:
       - linkListType: learn
         links:
-          - text: The Microsoft 365 Maturity Model - Introduction
+          - text: Maturity Model for Microsoft 365 - Introduction
             url:  microsoft365-maturity-model--intro.md
-          - text: The Microsoft 365 Maturity Model - Collaboration Competency
+          - text: Maturity Model for Microsoft 365 - Collaboration Competency
             url:  microsoft365-maturity-model--collaboration.md
-          - text: The Microsoft 365 Maturity Model - Communication Competency
+          - text: Maturity Model for Microsoft 365 - Communication Competency
             url:  microsoft365-maturity-model--communication.md
-          - text: The Microsoft 365 Maturity Model – People and Communities Competency
+          - text: Maturity Model for Microsoft 365 – People and Communities Competency
             url: microsoft365-maturity-model--people-and-communities-competency.md
 
   # Card (optional)

@@ -1,14 +1,16 @@
 ---
-title: The Microsoft 365 Maturity Model – Collaboration Competency
+title: Maturity Model for Microsoft 365 – Collaboration Competency
 ms.date: 8/4/2020
 author: sympmarc
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
-description: The Microsoft 365 Maturity Model - Collaboration Competency
+description: Maturity Model for Microsoft 365 - Collaboration Competency
 ms.collection: SPCommunity
 ---
 
-# The Microsoft 365 Maturity Model - Collaboration Competency
+# Maturity Model for Microsoft 365 - Collaboration Competency
+
+![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview of the Concepts [tl;dr]
 
@@ -164,7 +166,7 @@ Rather than focusing on specific point solutions, a more strategic view of platf
 
 **Managed level collaboration** characteristics include:
 
-####  Governance & Security
+#### Governance & Security
 
 - There is a strong understanding of the value and risk of collaboration and governance and security approaches are implemented to minimize data leakage, allow and prevent sharing as needed, to reactively review or investigate activities.
 - There are time, location, device and person limits on access to content and collaboration between people

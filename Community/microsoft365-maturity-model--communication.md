@@ -1,14 +1,16 @@
 ---
-title: The Microsoft 365 Maturity Model – Communication Competency
+title: Maturity Model for Microsoft 365 – Communication Competency
 ms.date: 8/5/2020
 author: sympmarc
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
-description: The Microsoft 365 Maturity Model - Communication Competency
+description: Maturity Model for Microsoft 365 - Communication Competency
 ms.collection: SPCommunity
 ---
 
-# The Microsoft 365 Maturity Model - Communication Competency
+# Maturity Model for Microsoft 365 - Communication Competency
+
+![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview of the Concepts [tl;dr]
 
