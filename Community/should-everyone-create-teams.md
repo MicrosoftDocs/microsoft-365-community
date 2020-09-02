@@ -27,7 +27,7 @@ Key therefore is, to balance these extremes.
 
 ## Solution Overview
 
-![LuiseFreese-LowCodeTeamsProvisioning-solution-overview](https://user-images.githubusercontent.com/49960482/91979094-84742b00-ed25-11ea-94dc-e769ff9039c2.png)
+![LuiseFreese-LowCodeTeamsProvisioning-solution-overview](media/should-everyone-create-teams/solution-overview.png)
 
 User asks in natural language a chatbot for a new team, a Power Automate flow picks up this information and checks if the user is already in an Azure AD security group called Educated Users. If the owner to be is already a member in this Educated Users security group, a second Power Automate flow gets the manager's approval and provisions the team. If the user is not a member of this group, user will be invited for training and test.
 
@@ -68,7 +68,7 @@ Forms is able to do surveys (there are no correct answers) and quizzes (there AR
 
 Create a new list in SharePoint with these columns:
 
-![LuiseFreese-LowCodeTeamsProvisioning-SP-List-columns](https://user-images.githubusercontent.com/49960482/91981258-d8ccda00-ed28-11ea-9ed7-53f7e7f2eb4e.png)
+![LuiseFreese-LowCodeTeamsProvisioning-SP-List-columns](media/should-everyone-create-teams/demo-answers-to-quiz.png)
 
 For the calculated columns:
 
