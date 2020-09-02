@@ -6,11 +6,12 @@ localization_priority:
 description: "Working with Cascading Lists in SharePoint and Power Apps"
 ms.collection:  SPCommunity
 ---
+
 # Working with Cascading Lists in SharePoint and Power Apps
 
 This example shows how you can cascade SharePoint lists and only show a subset of the data.
 
-![Demo-Cascading-Lists](media/working-with-cascading-lists-in-sharepoint-and-powerapps/working-with-cascading-lists-in-sharepoint-and-powerapps.gif)
+![Working with Cascading Lists in SharePoint and Power App](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-lists-in-sharepoint.gif)
 
 Cascading is useful when you have several lists that are related to each other and you only want to see the relevant options based on a previous selection.
 
@@ -20,7 +21,7 @@ We will illustrate this with a scenario. Our ambition is to create an awesome li
 
 This example uses 3 different SharePoint lists:
 
-![Demo-Cascading-Lists](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-lists.png)
+![Demo Cascading Lists](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-lists.png)
 
 **Country:** Contains a single line of text columns for the Title and Region. The list is populated with 231 countries with an associated region. The View used is grouping by Region. The taxonomy of world regions can be found [here](https://almbok.com/taxonomy/world_regions).
 
@@ -34,7 +35,7 @@ In this step we will construct a JSON object and add it to the [column formattin
 
 First, we will have to create a navigation link to the grouped view in the Country list.
 
-![Demo-Cascading-JSON](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-json-formatting-url.png)
+![Demo Cascading JSON Formatting URL](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-json-formatting-url.png)
 
 First, click on a heading so the list only shows the heading. Then copy the URL and move the "FilterValue1=" to the end of the URL.
 
@@ -81,17 +82,17 @@ Finally, paste the URL into the JSON formatting (see code below). Remove the las
 }
 ```
 
-![Demo-Cascading-Lists-Formatting](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-json-formatting.png)
+![Demo Cascading JSON Formatting](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-json-formatting.png)
 
 ## 3. Power Apps (Filter, Choices)
 
 Now we will customize the form for the Innovations list by opening Power Apps in a browser. In the Innovations list, create a new list item and choose "Edit form" then "Customize with PowerApps". This may look different depending on your specific environment. If so, read the article [Customize a SharePoint list or library form by using Power Apps](https://docs.microsoft.com/powerapps/maker/canvas-apps/customize-list-form) for additional information.
 
-![Demo-Cascading-Lists-Formatting](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-powerapps-1.png)
+![Demo Cascading Power Apps 1](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-powerapps-1.png)
 
 In Power Apps, select the Country card and under the Advanced tab select "Unlock to change properties" to open up for edits. Depending on your specific instance the given names for components may be different, so adjust accordingly.
 
-![Demo-Cascading-Lists-Formatting](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-powerapps-2.png)
+![Demo Cascading Power Apps 2](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-powerapps-2.png)
 
 Select the DataCardValue3 (Combo Box) in the Country_DataCard1 (Card), and select the Items function value.
 
@@ -99,7 +100,7 @@ Because the **[Choices](https://docs.microsoft.com/powerapps/maker/canvas-apps/f
 
 Make sure that the "Region" column is checked in the lookup field to the Country list. Basically this shows up in Power Apps as an additional table.
 
-![Demo-Cascading-Lists-Formatting](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-powerapps-3.png)
+![Demo Cascading Power Apps 3](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-powerapps-3.png)
 
 Using the **[Filter](https://docs.microsoft.com/powerapps/maker/canvas-apps/functions/function-filter-lookup)** function and the **[in](https://docs.microsoft.com/powerapps/maker/canvas-apps/functions/operators#in-and-exactin-operators)** operator we now can reference the values based in the Id from the Country to show the proper Title value based on the selection of the Region.
 
@@ -107,8 +108,10 @@ Using the **[Filter](https://docs.microsoft.com/powerapps/maker/canvas-apps/func
 Filter(Choices([@Innovations].Country), Id in Filter(Choices([@Innovations].'Country:Region'), Value = DataCardValue2.Selected.Value).Id)
 ```
 
-![Demo-Cascading-Lists-Formatting](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-powerapps-4.png)
+![Demo Cascading Power Apps 4](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-powerapps-4.png)
 
 ------
 
 **Principal author**: [Henrik Yllemo](https://www.linkedin.com/in/yllemo)
+
+------
