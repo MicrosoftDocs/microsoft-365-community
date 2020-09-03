@@ -34,6 +34,8 @@ landingContent:
             url:  what-is-site-column.md
           - text: What is a Content Type?
             url:  what-is-content-type.md
+          - text: Groups in Microsoft 365 and Azure, and Which is Right for You
+            url: all-about-groups.md
 
   # Card (optional)
   - title: Microsoft 365 Better Practices

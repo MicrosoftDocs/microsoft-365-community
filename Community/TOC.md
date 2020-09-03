@@ -4,6 +4,7 @@
 ### [Follow Microsoft 365 on Social Media](microsoft-365-on-social-media.md)
 ### [What is a Site Column?](what-is-site-column.md)
 ### [What is a Content Type?](what-is-content-type.md)
+### [Groups in Microsoft 365 and Azure, and Which is Right for You](all-about-groups.md)
 ## Microsoft 365 Better Practices
 ### [OneDrive PC Folder Backup Benefits for End Users](known-folder-move-benefits-for-enduser.md)
 ## Maturity Model for Microsoft 365
