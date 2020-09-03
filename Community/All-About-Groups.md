@@ -80,6 +80,6 @@ SharePoint Permissions should be handled with Microsoft 365 Groups. Native Share
 
 ---
 
-**Principal author**: [Todd Klindt](https://www.linkedin.com/in/toddklindt/)
+**Principal author**: [Todd Klindt, MVP](https://www.linkedin.com/in/toddklindt/)
 
 ---
