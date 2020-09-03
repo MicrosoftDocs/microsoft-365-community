@@ -30,7 +30,11 @@ See [SharePoint Framework](#sharepoint-framework)
 
 ### Application Lifecycle Management (ALM)
 
+Set of standards and processes to analyze, design, build, test and deploy a software solution. Modern ALM typically is an iterative process which allows for the incremental improvement and development and implementation of apllication features.
+
 ### Azure Information Protection (AIP)
+
+A cloud solution that supports labeling of documents and emails to classify and protect information. Labeled items can be protected by encryption, marked with a watermark or restricted to specific actions or users and is bound to the item. This cloud based solution relies on Azure Rights Management Service (RMS) for enforcing restrictions.
 
 ## B
 
@@ -281,6 +285,8 @@ Power BI is Microsofts Business Intelligence and Reporting applicaiton. It allow
 Power BI provides a simple, intuitive, easy to use experience for end users to create their own reports and dashboards.
 
 ### Power Platform Data Loss Prevention
+
+A set of policies that can be applied to the Power Platform tenant or environment to prevent data leakage by grouping connectors deemed for business or personal use to be used together. Additionally, connectors can be blocked from any use and new connectors can be added by default to the business, personal or blocked group as needed. Custom connectors can also be classified at the environment level.
 
 ### PowerShell
 
