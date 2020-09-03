@@ -4,13 +4,15 @@
 ### [Follow Microsoft 365 on Social Media](microsoft-365-on-social-media.md)
 ### [What is a Site Column?](what-is-site-column.md)
 ### [What is a Content Type?](what-is-content-type.md)
+### [Groups in Microsoft 365 and Azure, and Which is Right for You](all-about-groups.md)
 ## Microsoft 365 Better Practices
 ### [OneDrive PC Folder Backup Benefits for End Users](known-folder-move-benefits-for-enduser.md)
 ## Maturity Model for Microsoft 365
 ### [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md)
 ### [Maturity Model for Microsoft 365 - Collaboration Competency](microsoft365-maturity-model--collaboration.md)
 ### [Maturity Model for Microsoft 365 - Communication Competency](microsoft365-maturity-model--communication.md)
-### [Maturity Model for Microsoft 365 – People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
+### [Maturity Model for Microsoft 365 - People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
+### [Maturity Model for Microsoft 365 - Staff & Training Competency](microsoft365-maturity-model--staff-and-training.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
 ### [Versioning in SharePoint](versioning-basics-best-practices.md)

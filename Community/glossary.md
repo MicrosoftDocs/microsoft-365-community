@@ -1,6 +1,6 @@
 ---
 title: SharePoint Usage Glossary
-ms.date:  8/10/2020
+ms.date: 9/2/2020
 author: sympmarc
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
@@ -30,7 +30,11 @@ See [SharePoint Framework](#sharepoint-framework)
 
 ### Application Lifecycle Management (ALM)
 
+Set of standards and processes to analyze, design, build, test and deploy a software solution. Modern ALM typically is an iterative process which allows for the incremental improvement and development and implementation of application features.
+
 ### Azure Information Protection (AIP)
+
+A cloud solution that supports labeling of documents and emails to classify and protect information. Labeled items can be protected by encryption, marked with a watermark or restricted to specific actions or users and is bound to the item. This cloud based solution relies on Azure Rights Management Service (RMS) for enforcing restrictions.
 
 ## B
 
@@ -278,11 +282,13 @@ Power Automate provides a means to quickly automate your workflows, enable busin
 
 ### Power BI
 
-Power BI is Microsofts Business Intelligence and Reporting applicaiton. It allows you to connect and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that’s easy to use and helps you gain deeper data insight.
+Power BI is Microsoft's Business Intelligence and Reporting application. It allows you to connect and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that’s easy to use and helps you gain deeper data insight.
 
 Power BI provides a simple, intuitive, easy to use experience for end users to create their own reports and dashboards.
 
 ### Power Platform Data Loss Prevention
+
+A set of policies that can be applied to the Power Platform tenant or environment to prevent data leakage by grouping connectors deemed for business or personal use to be used together. Additionally, connectors can be blocked from any use and new connectors can be added by default to the business, personal, or blocked group as needed. Custom connectors can also be classified at the environment level.
 
 ### PowerShell
 

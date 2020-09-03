@@ -80,8 +80,8 @@ Our goal is to apply the same Competencies that were the core of the original SP
 
 The current target is to deliver:
 
-- [Collaboration](microsoft365-maturity-model--collaboration)
-- [Communication](microsoft365-maturity-model--communication)
+- [Collaboration](microsoft365-maturity-model--collaboration.md)
+- [Communication](microsoft365-maturity-model--communication.md)
 - [People & Communities](microsoft365-maturity-model--people-and-communities-competency.md)
 - Business Process
 - Search

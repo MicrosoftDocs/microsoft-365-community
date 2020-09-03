@@ -34,6 +34,8 @@ landingContent:
             url:  what-is-site-column.md
           - text: What is a Content Type?
             url:  what-is-content-type.md
+          - text: Groups in Microsoft 365 and Azure, and Which is Right for You
+            url: all-about-groups.md
 
   # Card (optional)
   - title: Microsoft 365 Better Practices
@@ -56,6 +58,8 @@ landingContent:
             url:  microsoft365-maturity-model--communication.md
           - text: Maturity Model for Microsoft 365 – People and Communities Competency
             url: microsoft365-maturity-model--people-and-communities-competency.md
+          - text: Maturity Model for Microsoft 365 - Staff & Training Competency
+            url: microsoft365-maturity-model--staff-and-training.md
 
   # Card (optional)
   - title: SharePoint Better Practices
