@@ -70,7 +70,7 @@ Anyone with the "Create Groups" and "Manage Permissions" permissions in the Shar
 
 ### How do they manage them?
 
-SharePoint groups are primarily managed in the SharePoint interface by navigating to the "Site Permissions" and "Advanced Site Permissions" application page (/_layouts/15/user.aspx). They can also be managed in PowerShell with either the [Microsoft SharePoint Online](https://www.powershellgallery.com/packages/Microsoft.Online.SharePoint.PowerShell)] or the [PnP PowerShell modules](https://www.powershellgallery.com/packages/SharePointPnPPowerShellOnline/).
+SharePoint groups are primarily managed in the SharePoint interface by navigating to the "Site Permissions" and "Advanced Site Permissions" application page (/_layouts/15/user.aspx). They can also be managed in PowerShell with either the [Microsoft SharePoint Online](https://www.powershellgallery.com/packages/Microsoft.Online.SharePoint.PowerShell) or the [PnP PowerShell modules](https://www.powershellgallery.com/packages/SharePointPnPPowerShellOnline/).
 
 ### How are they used?
 
