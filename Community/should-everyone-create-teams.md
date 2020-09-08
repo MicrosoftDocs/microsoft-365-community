@@ -27,7 +27,7 @@ Key therefore is, to balance these extremes.
 
 ## Solution Overview
 
-![LuiseFreese-LowCodeTeamsProvisioning-solution-overview](media/should-everyone-create-teams/solution-overview.png)
+![solution overview](media/should-everyone-create-teams/solution-overview.png)
 
 User asks in natural language a chatbot for a new team, a Power Automate flow picks up this information and checks if the user is already in an Azure AD security group called Educated Users. If the owner to be is already a member in this Educated Users security group, a second Power Automate flow gets the manager's approval and provisions the team. If the user is not a member of this group, user will be invited for training and test.
 
@@ -58,7 +58,7 @@ Go to forms.microsoft.com and ask in that form which training sessions the user 
 
 Go to flow.microsoft.com and create a new flow without a template. Use the "when a new response is submitted" trigger from Forms, then the  "get the response details" of the form add a filter query to get the right event from the calendar, then update the event by adding the user to it.
 
-![LuiseFreese-LowCodeTeamsProvisioning-flow-session-invitation](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-session-invitation.png)
+![flow session invitation](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-session-invitation.png)
 
 ### Form to test users
 
@@ -68,11 +68,11 @@ Forms is able to do surveys (there are no correct answers) and quizzes (there AR
 
 Create a new list in SharePoint with these columns:
 
-![LuiseFreese-LowCodeTeamsProvisioning-SP-List-columns](media/should-everyone-create-teams/demo-answers-to-quiz.png)
+![SP List columns](media/should-everyone-create-teams/demo-answers-to-quiz.png)
 
 For the calculated columns:
 
-![LuiseFreese-LowCodeTeamsProvisioning-SP-List-results](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-SP-List-results.png)
+![SP List results](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-SP-List-results.png)
 
 ### Flow to log tests in a SharePoint list
 
@@ -103,46 +103,46 @@ Click on the + sign to create the next node after your last question / message i
 
 The PVA template will open up in a new browser tab. Save this template with a new name.
 
-![LuiseFreese-LowCodeTeamsProvisioning-flow-from-pva](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-from-pva.png)
+![flow from pva](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-from-pva.png)
 
 Initialize your variables for all the information the user gives us so we can provision the team: team name, description, privacy, owner, members and first channel.
 
-![LuiseFreese-LowCodeTeamsProvisioning-flow-initialize-vars](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-initialize-vars.png)
+![flow initialize vars](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-initialize-vars.png)
 
 After we took care of all variables we need to check the group membership of our owner.
 
 The CHECK GROUP MEMBERSHIP action returns the string of the Group ID if a user is a member of the group and will return NULL if the user isn't member of that group.
 
-![LuiseFreese-LowCodeTeamsProvisioning-flow-check-membership](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-check-membership.png)
+![flow check membership](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-check-membership.png)
 
 Expression: `empty(null)`
 
 If he/ she is in the educated group, we can just log the request in the SharePoint list we already prepared.
 
-![LuiseFreese-LowCodeTeamsProvisioning-flow-create-item](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-create-item.png)
+![flow create item](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-create-item.png)
 
 If the user is still in the Uneducated Group, we need to invite him/her to a training and test him/her — (and wait a bit so he/she can complete this).
-![LuiseFreese-LowCodeTeamsProvisioning-flow-invite](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-invite.png)
+![flow invite](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-invite.png)
 
 To invite the user to the training and link him/her to the test, we can use Adaptive Cards. If you never used Adaptive Cards before, just go to [https://adaptivecards.io/designer](https://adaptivecards.io/designer), select MICROSOFT TEAMS as host applications and replace the text of one of the samples with your text in the visual editor. Below, the Designer auto generates some JSON for you — copy-paste this into a POST YOUR OWN ADAPTIVE CARD AS A FLOW BOT TO A USER action.
 
 This is how our card looks then:
 
-![LuiseFreese-LowCodeTeamsProvisioning-flow-AC](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-AC.png)
+![flow Adaptive Cards](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-AC.png)
 
 The clickable buttons link directly to the forms for training sessions (remember, we already built a flow to invite users automatically!) and the quiz (yet again, our flow logs the answers and SharePoint calculates the result for us!)
 
 Now need to know if the user passed the test:
 
-![LuiseFreese-LowCodeTeamsProvisioning-get-tested-user](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-get-tested-user.png)
+![get tested user](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-get-tested-user.png)
 
 If the user passes the test, he/she will be added to the Educated Group and we log the request in SharePoint. If the user doesn't pass, we will just send notifications and end the process.
 
-![LuiseFreese-LowCodeTeamsProvisioning-flow-log-request](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-log-request.png)
+![flow log request](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-log-request.png)
 
 ### Create a 2nd flow to provision a Team based on the information we got out of the first flow
 
-<img width="889" alt="LuiseFreese-LowCodeTeamsProvisioning-provisioningflow" src="media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-provisioningflow.png">
+![provisioningflow](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-provisioningflow.png)
 
 **Microsoft Graph**
 Power Automate doesn't provide an action "Create a Team". Therefore, we will call Microsoft Graph to create teams, add members, create channels, and a lot more, but we first need to authenticate to make this magic happen.
@@ -150,7 +150,7 @@ Power Automate doesn't provide an action "Create a Team". Therefore, we will cal
 ### Register an app in Azure AD
 
 Go to portal.azure.com and click on APP REGISTRATIONS, and click NEW REGISTRATION. Give it a name and save the ID of your tenant and the ID of our App (Client) After that, click on API PERMISSIONS (use APPLICATION) and select MICROSOFT GRAPH. We need to add the Group.Read.Write.All permission and grant admin consent for that as well.
-![LuiseFreese-LowCodeTeamsProvisioning-Application](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-Application.png)
+![Application](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-Application.png)
 
 To make it work, we also need an App Secret. Please, save this. In this minimal viable product, I just saved it in a variable, better to use Key Vault for that. Regardless where we store the App Secret: You only have ONE chance to save it, as soon as you leave this blade, you can't see it anymore.
 
@@ -160,7 +160,7 @@ Your trigger is WHEN A NEW ITEM IS CREATED (remember, the PVA flow will end with
 
 Now we need to initialize the following variables:
 
-![LuiseFreese-LowCodeTeamsProvisioning-2ndflow-initialize-vars](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-2ndflow-initialize-vars.png)
+![initialize variable](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-2ndflow-initialize-vars.png)
 
 - Tenant ID, App ID, App Secret are strings and we get all these IDs out of the app registration of the previous step
 - Group ID is a string as well but is empty for now
@@ -171,25 +171,25 @@ Now we need to initialize the following variables:
 
 We will again create an Adaptive Card for this:
 
-![LuiseFreese-LowCodeTeamsProvisioning-2ndflow-managers-approval](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-2ndflow-managers-approval.png)
+![managers approval](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-2ndflow-managers-approval.png)
 
 Depending on the outcome we let Microsoft Graph create first a group and then update it to a team or we will end the process if the manager doesn't approve. Here is what happens if the Outcome is not Approved:
 
 We update our SharePoint list (status is now rejected) and we post another Adaptive Card to our user to inform him/her and terminate the process.
 
-![LuiseFreese-LowCodeTeamsProvisioning-2ndflow-managers-approvalNO](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-2ndflow-managers-approvalNO.png)
+![managers-approval with outcome not approved](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-2ndflow-managers-approvalNO.png)
 
 If the Outcome of the Approval is Approved, we need to update our List as well and add an HTTP Call to first create a Group:
 
-![LuiseFreese-LowCodeTeamsProvisioning-2ndflow-managers-approvalYES](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-2ndflow-managers-approvalYES.png)
+![managers approval with outcome approved](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-2ndflow-managers-approvalYES.png)
 
 As we do not only want a Microsoft 365 Group but also a Team based on that group, we need the Group ID. To get this ID (remember, we initialized an empty var for that already!), we need the parse JSON action and set our Group ID var to that value:
 
-![LuiseFreese-LowCodeTeamsProvisioning-2ndflowparsejson](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-2ndflowparsejson.png)
+![parse json](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-2ndflowparsejson.png)
 
 Now it's time to use another two HTTP calls for creating the Team and adding the channel:
 
-![LuiseFreese-LowCodeTeamsProvisioning-2ndflowupdateteam](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-2ndflowupdateteam.png)
+![flow to update a team](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-2ndflowupdateteam.png)
 
 Please keep in mind to expand the SHOW ADVANCED OPTIONS and enter all authentication information as shown in the Create a group step. Now update your SharePoint list (status is no created) and inform your user with another Adaptive Card in Teams:
 
