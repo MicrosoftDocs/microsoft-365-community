@@ -38,6 +38,8 @@ A cloud solution that supports labeling of documents and emails to classify and 
 
 ## B
 
+### Business Data Services (BDS)
+
 ## C
 
 ### Camel Case
@@ -99,6 +101,8 @@ A set of policies for identifying, alerting and securing sensitive information t
 The planning and practice of ensuring systems are available when a disaster occurs or that they can be restored as quickly as possible.
 
 ## E
+
+### eDiscovery
 
 ### Enterprise Content Types
 
