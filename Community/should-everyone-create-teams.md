@@ -72,7 +72,7 @@ Create a new list in SharePoint with these columns:
 
 For the calculated columns:
 
-![LuiseFreese-LowCodeTeamsProvisioning-SP-List-results](media/should-everyone-create-teams/91980948-61974600-ed28-11ea-8577-b8fef618d5e0.png)
+![LuiseFreese-LowCodeTeamsProvisioning-SP-List-results](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-SP-List-results.png)
 
 ### Flow to log tests in a SharePoint list
 
@@ -103,7 +103,7 @@ Click on the + sign to create the next node after your last question / message i
 
 The PVA template will open up in a new browser tab. Save this template with a new name.
 
-<img width="926" alt="LuiseFreese-LowCodeTeamsProvisioning-flow-from-pva" src="media/should-everyone-create-teams/91982264-46c5d100-ed2a-11ea-9f7c-26cadb7c5659.png">
+![LuiseFreese-LowCodeTeamsProvisioning-flow-from-pva](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-from-pva.png)
 
 Initialize your variables for all the information the user gives us so we can provision the team: team name, description, privacy, owner, members and first channel.
 
@@ -124,7 +124,7 @@ If he/ she is in the educated group, we can just log the request in the SharePoi
 If the user is still in the Uneducated Group, we need to invite him/her to a training and test him/her — (and wait a bit so he/she can complete this).
 ![LuiseFreese-LowCodeTeamsProvisioning-flow-invite](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-invite.png)
 
-To invite the user to the training and link him/her to the test, we can use Adaptive Cards. If you never used Adaptive Cards before, just go to [https://adaptivecards.io/designer](https://adaptivecards.io/designer), select MICROSOFT TEAMS as host applications and replace the text of one of the samples with your text in the visual editor. Below, the Designer autogenerates some JSON for you — copy-paste this into a POST YOUR OWN ADAPTIVE CARD AS A FLOW BOT TO A USER action.
+To invite the user to the training and link him/her to the test, we can use Adaptive Cards. If you never used Adaptive Cards before, just go to [https://adaptivecards.io/designer](https://adaptivecards.io/designer), select MICROSOFT TEAMS as host applications and replace the text of one of the samples with your text in the visual editor. Below, the Designer auto generates some JSON for you — copy-paste this into a POST YOUR OWN ADAPTIVE CARD AS A FLOW BOT TO A USER action.
 
 This is how our card looks then:
 
