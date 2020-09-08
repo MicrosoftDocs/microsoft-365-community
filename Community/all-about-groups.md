@@ -14,7 +14,7 @@ ms.collection:  SPCommunity
 
 ## What's With All These Groups?
 
-Azure and Microsoft 365 are the culmination of decades of technical evolution and the desire to be as backwards compatible as possible. While those are noble and righteous goals, they do come with some baggage. In this case that baggage is many object types in Azure Active Directory and Microsoft 365 that are "groups" and it's not entirely obvious what each group is or isn't, and which group you should use for any given scenario. In this article we hope to unravel that mystery some and provide you with the tools you need to make the right choice. We will cover [Azure AD Security Groups](#azure-ad-security-groups), [Microsoft 365 Groups](#microsoft-365-Groups), and [SharePoint Groups](#sharepoint-groups).
+Azure and Microsoft 365 are the culmination of decades of technical evolution and the desire to be as backwards compatible as possible. While those are noble and righteous goals, they do come with some baggage. In this case that baggage is many object types in Azure Active Directory and Microsoft 365 that are "groups" and it's not entirely obvious what each group is or isn't, and which group you should use for any given scenario. In this article we hope to unravel that mystery some and provide you with the tools you need to make the right choice. We will cover [Azure AD Security Groups](#azure-ad-security-groups), [Microsoft 365 Groups](#microsoft-365-groups), and [SharePoint Groups](#sharepoint-groups).
 
 ## Azure AD Security Groups
 
