@@ -199,7 +199,7 @@ To publish your Bot, just click on PUBLISH in PVA and choose Microsoft Teams as 
 
 This is our result as a gif:
 
-![publish bot](media/should-everyone-create-teams/provisionbot.gif)
+![provision bot](media/should-everyone-create-teams/provisionbot.gif)
 
 **Coming back to the purpose of solutions like this:**
 
