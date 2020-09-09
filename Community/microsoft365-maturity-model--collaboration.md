@@ -40,6 +40,8 @@ Every organization can choose how best to use the Microsoft 365 platform for col
 
 ## Evolution of this competency
 
+See the Maturity [Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
+
 From the days of a knowledge management focus - from which much of the current thinking about collaboration has sprung - we have the paradigm of data turning into information, then into knowledge, then into insight, then into wisdom. Some organizations were able to move along that path, and others were not.
 
 With collaboration, we have a similar set of states:
@@ -56,7 +58,7 @@ These states align roughly with the levels below.
 
 In many cases, the first move into Microsoft 365 is a simple migration of shared folders on a file server into SharePoint. (This usually follows a migration of email hosting from an on-premises Exchange server to Exchange Online. While this is extremely important, the average end user may not even realize it has happened.) At this level, most collaboration occurs in an unstructured way, unsupported by specific technologies. Task and document collaboration together with knowledge exchange in conversations take place via email or phone, or in person in physical meetings. There is minimal tracking, and an over-reliance on real-time, co-located, in person working.
 
-**Initial level collaboration** characteristics include:
+**[Initial level](microsoft365-maturity-model--intro.md#initial)** characteristics include:
 
 #### Governance & Security
 
@@ -76,7 +78,7 @@ In many cases, the first move into Microsoft 365 is a simple migration of shared
 #### Content
 
 - Collaboration is document-based – a means to share a document we are working on
-- While links can be emailed rather than the documents themselves, copies of documents still get attached to emails. 
+- While links can be emailed rather than the documents themselves, copies of documents still get attached to emails.
 - Versions proliferate, usually by saving a copy of the document with a new name.
 
 #### Task Management
@@ -92,7 +94,7 @@ At this maturity level, many people in the organization are likely to be asking:
 
 At this level, the focus tends to be on document and file collaboration; workspaces (Microsoft Teams, SharePoint, etc.) start to have defined structures and content rules based on specific goals. Each team decides how to best collaborate within that workspace, though there is little reuse and minimal consistency outside each group.
 
-**Repeatable level collaboration** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#repeatable)** characteristics include:
 
 #### Governance & Security
 
@@ -128,7 +130,7 @@ Commonality across teams starts to drive how workspaces are created and set up. 
 
 The process of collaboration is well defined and agreed as a standard business process. There are sets of defined and documented standard processes established, signed off, in use and subject to some degree of improvement over time. The processes may not have been systematically or repeatedly used to the extent needed for their users to become fully competent or the process to be validated in a range of situations, hence there are gaps in adoption and consistency. This could be considered a developmental stage - with use in a wider range of conditions and user competence development the process can develop to next level of maturity.
 
-**Defined level collaboration** characteristics include:
+**[Defined level](microsoft365-maturity-model--intro.md#defined)** characteristics include:
 
 #### Governance & Security
 
@@ -164,7 +166,7 @@ At this level, the organization sees a path to real ROI for the solution.  There
 
 Rather than focusing on specific point solutions, a more strategic view of platform apps and services leads to a mixed-use set of solutions.  Collaborative opportunities exist not just to facilitate ongoing work, but also to support areas of interest, centers of excellence, etc. These opportunities lead to serendipitous connections between people who might not have found each other before.
 
-**Managed level collaboration** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#managed-capable)** characteristics include:
 
 #### Governance & Security
 
@@ -207,7 +209,7 @@ At this level, users rely on the platform for their day to day work as well as f
 
 At this level, many transactional actions are automated to ensure consistency and good governance. Because people are connected across the organization based on their skills, interests, and work, innovative collaborations arise without formal structures. These innovative efforts are encouraged and given space to work and flourish.
 
-**Optimizing level collaboration** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#optimizing-efficient)** characteristics include:
 
 #### Governance & Security
 
@@ -273,5 +275,5 @@ Principal authors:
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy](https://www.linkedin.com/in/simondoy/)
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
-- [Emily Mancini]( https://www.linkedin.com/in/eemancini/)
+- [Emily Mancini](https://www.linkedin.com/in/eemancini/)
 - [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit/)
