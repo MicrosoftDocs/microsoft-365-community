@@ -9,7 +9,7 @@ ms.collection: SPCommunity
 
 ---
 
-# Should everyone create Teams?
+# Should everyone create Teams? A Low Code Provisioning solution
 
 This article shall shed a light on two aspects of Modern Workplace: Microsoft Teams Provisioning using a low-code solution while ensuring that Teams Owners are digitally literate enough to be responsible owners.
 
