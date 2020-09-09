@@ -50,6 +50,7 @@
 ### [Document Lifecycle Scenarios](document-lifecycle-scenarios.md)
 ## Automation
 ### [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
+### [Should everyone create Teams? A Low Code Provisioning solution](should-everyone-create-teams.md)
 ## Security
 ### [Managing SharePoint Online Security: A Team Effort](sharepoint-security-a-team-effort.md)
 ### [Basic Security Set Up for Microsoft 365](basic-security-set-up-for-microsoft-365.md)

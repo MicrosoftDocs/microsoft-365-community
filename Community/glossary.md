@@ -38,6 +38,8 @@ A cloud solution that supports labeling of documents and emails to classify and 
 
 ## B
 
+### Business Data Services (BDS)
+
 ## C
 
 ### Camel Case
@@ -99,6 +101,8 @@ A set of policies for identifying, alerting and securing sensitive information t
 The planning and practice of ensuring systems are available when a disaster occurs or that they can be restored as quickly as possible.
 
 ## E
+
+### eDiscovery
 
 ### Enterprise Content Types
 
@@ -302,9 +306,9 @@ A Power Platform Environment is a container that administrators can use to manag
 
 There are multiple types of environments that an organization can create (Developer, Sandbox, Production). The type indicates the purpose of the environment and determines its characteristics.
 
-### Power Virtual Agents
+### Power Virtual Agents (PVA)
 
-Power Virtual Agents empowers organizations to create powerful bots using a guided, no-code graphical interface without the need for data scientists or developers.
+Power Virtual Agents (PVA) empowers organizations to create powerful bots using a guided, no-code graphical interface without the need for data scientists or developers.
 
 Using Power Virtual Agents, you can:
 

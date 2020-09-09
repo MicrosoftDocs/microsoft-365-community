@@ -158,6 +158,8 @@ landingContent:
         links:
           - text: Working with modern client-side pages using PnP PowerShell
             url:  working-with-modern-clientside-pages-using-pnp-powershell.md
+          - text: Should everyone create Teams? A Low Code Provisioning solution
+            url: should-everyone-create-teams.md
 
   # Card (optional)
   - title: Security
