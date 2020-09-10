@@ -23,7 +23,7 @@ A good search experience benefits the organization by reducing time to find know
 
 ## Definition of this competency
 
-Search is about enabling people to find the authoritative information within the organization easily using a set of keywords or search terms. The results may come from the Microsoft 365 platform or other systems which have been connected into the search process.
+Search is about enabling people to find the authoritative information within the organization easily using a set of keywords or search terms, or based in their activities. The results may come from the Microsoft 365 platform or other systems which have been connected into the search process.
 
 ## Common Microsoft 365 Search technologies
 
