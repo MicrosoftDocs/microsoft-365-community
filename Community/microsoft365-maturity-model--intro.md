@@ -83,13 +83,14 @@ The current target is to deliver:
 - [Collaboration](microsoft365-maturity-model--collaboration.md)
 - [Communication](microsoft365-maturity-model--communication.md)
 - [People & Communities](microsoft365-maturity-model--people-and-communities-competency.md)
+- [Search](microsoft365-maturity-model--search.md)
 - Business Process
-- Search
 - Apps & Services
 - Insight
 - Administration
 - Expertise & Readiness
 - Development & Customization
+- Content Management
 
 These will be supported by other related articles, such as:
 
