@@ -12,6 +12,7 @@
 ### [Maturity Model for Microsoft 365 - Collaboration Competency](microsoft365-maturity-model--collaboration.md)
 ### [Maturity Model for Microsoft 365 - Communication Competency](microsoft365-maturity-model--communication.md)
 ### [Maturity Model for Microsoft 365 - People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
+### [Maturity Model for Microsoft 365 - Search Competency](microsoft365-maturity-model--search.md)
 ### [Maturity Model for Microsoft 365 - Staff & Training Competency](microsoft365-maturity-model--staff-and-training.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
