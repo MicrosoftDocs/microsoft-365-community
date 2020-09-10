@@ -318,11 +318,11 @@ Organizations should capture success stories to provide examples of the benefits
 
 Principal authors:
 
-- [Simon Doy]( [https://www.linkedin.com/in/simondoy](https://www.linkedin.com/in/simondoy)
-- [Simon Hudson]([https://www.linkedin.com/in/simonjhudson/](https://www.linkedin.com/in/simonjhudson)
+- [Simon Doy](https://www.linkedin.com/in/simondoy)
+- [Simon Hudson](https://www.linkedin.com/in/simonjhudson)
 
 Contributing authors:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
-- [Emily Mancini](https://www.linkedin.com/in/eemancini/)
-- [Sadie Van Buren (Microsoft)]([https://www.linkedin.com/in/sadalit/](https://www.linkedin.com/in/sadalit)
+- [Emily Mancini](https://www.linkedin.com/in/eemancini)
+- [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit)
