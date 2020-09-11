@@ -2,7 +2,8 @@
 title: What is a site column?
 ms.date: 3/3/2020
 author: sympmarc
-ms.reviewer: Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: "What is a site column?"
 ms.collection:  SPCommunity

@@ -2,7 +2,8 @@
 title: SharePoint Usage Glossary
 ms.date: 9/2/2020
 author: sympmarc
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: "SharePoint Usage Glossary"
 ms.collection: SPCommunity

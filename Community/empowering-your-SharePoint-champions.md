@@ -2,7 +2,8 @@
 title: Empowering Your SharePoint Champions
 ms.date: 3/22/2020
 author: eemancini
-ms.reviewer: Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: How to support a SharePoint champions group in your organization. A follow up to Identifying Your SharePoint Champions.
 ms.collection: SPCommunity

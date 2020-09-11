@@ -2,7 +2,8 @@
 title: Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions.
 ms.date: 07/01/2020
 author: PatD
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: "Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions."
 ms.collection:  SPCommunity

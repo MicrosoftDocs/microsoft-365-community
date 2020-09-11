@@ -2,7 +2,8 @@
 title: Versioning in SharePoint
 ms.date: 7/01/2020
 author: PatD
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: "Versioning in SharePoint"
 ms.collection:  SPCommunity

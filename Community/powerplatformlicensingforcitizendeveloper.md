@@ -2,7 +2,8 @@
 title: Understanding Power Platform Licensing
 ms.date: 3/16/2020
 author: bigpix2000
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: "Understanding Power Platform Licensing"
 ms.collection:  SPCommunity

@@ -2,7 +2,8 @@
 title: Groups in Microsoft 365 and Azure, and Which is Right for You
 ms.date: 8/31/2020
 author: ToddKlindt
-ms.reviewer:  jhendr
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: "There are a lot of groups in Azure and Microsoft 365. They can be confusing. This article explains them so you can figure out which one is best for you."
 ms.collection:  SPCommunity

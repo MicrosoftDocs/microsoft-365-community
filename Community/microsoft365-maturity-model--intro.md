@@ -2,7 +2,8 @@
 title:  Maturity Model for Microsoft 365 - Introduction
 ms.date: 6/12/2020
 author: sympmarc
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: Maturity Model for Microsoft 365 - Introduction
 ms.collection: SPCommunity
