@@ -198,6 +198,7 @@ This is our result as a gif:
 
 ![provision bot](media/should-everyone-create-teams/provisionbot.gif)
 
+
 **Coming back to the purpose of solutions like this:**
 
 The goal is to enable users and to give them great powers! We now have an easily maintainable solution for IT and a very lean process for the business side of a company to request common asks. We are more efficient as we only need to involve human working time if needed. We don't need to spend lots of time to make users adopt this system as the interface is easy to understand even for users who are not that tech-savvy, plus we have a good chance to narrow the historical gap between business and IT. It's a #BetterTogether story.
