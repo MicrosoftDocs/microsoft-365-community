@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: Useful links to help you follow the Microsoft 365 community on social media
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Follow Microsoft 365 on Social Media

@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority:
 description: Support your end users by creating effiicent and effective Views
-ms.collection: SPCommunity
+ms.collection: M365Community
 
 ---
 

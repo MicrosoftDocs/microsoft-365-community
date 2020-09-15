@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description:  Maturity Model for Microsoft 365 - Staff & Training Competency
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 
 # Maturity Model for Microsoft 365 - Staff & Training Competency

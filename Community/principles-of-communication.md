@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority:
 description: Seven principles of communication as used to inform the Communication Competency within the Microsoft 365 Maturity Model
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 
 # The Principles of Communication 

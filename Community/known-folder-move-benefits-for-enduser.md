@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: OneDrive PC Folder Backup Benefits for End Users
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # OneDrive PC Folder Backup Benefits for End Users

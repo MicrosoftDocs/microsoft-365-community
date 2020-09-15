@@ -6,7 +6,7 @@ ms.author: jhendr
 ms.reviewer: jhendr
 localization_priority:
 description: Maturity Model for Microsoft 365 - Search Competency
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 
 # Maturity Model for Microsoft 365 - Search Competency

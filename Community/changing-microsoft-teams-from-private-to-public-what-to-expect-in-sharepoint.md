@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "Changing Microsoft Teams from Private to Public, what to expect in SharePoint?"
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 # Changing Microsoft Teams from Private to Public, what to expect in SharePoint?
 

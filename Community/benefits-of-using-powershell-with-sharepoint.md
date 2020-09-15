@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "Benefits of using PowerShell with SharePoint"
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 # Benefits of using PowerShell with SharePoint
 

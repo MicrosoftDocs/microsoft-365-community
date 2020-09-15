@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "CDS and Model-Driven Apps Standards and Naming Conventions"
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 
 # CDS and Model-Driven Apps Standards and Naming Conventions

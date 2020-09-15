@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "Library scenarios"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 # Library scenarios
 

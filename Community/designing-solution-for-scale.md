@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "Designing your solution for scale"
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 # Designing your solution for scale
 
@@ -91,7 +91,7 @@ Multiple environments such as separate site collection, web application (on-prem
 
 - Does your solution need to involve training users? Ideally having a separate environment to contain the "test" data that will be introduced during these. Filling up production with test data, may reduce search effectiveness if the test content contains enough keywords in be prominent in the results.
 
-- Development isolation from live data. In development, certain aspects maybe required elevated permissions to setup or create the solution. You may outsource the development to a 3rd party in which you want to limit the access to the data in the tenant. I always recommend a developer tenant where possible, they can be obtained easily from [Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) if a developer inadvertently causes problems in the tenant, it is contained away from production.
+- Development isolation from live data. In development, certain aspects maybe required elevated permissions to setup or create the solution. You may outsource the development to a 3rd party in which you want to limit the access to the data in the tenant. I always recommend a developer tenant where possible, they can be obtained easily from [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) if a developer inadvertently causes problems in the tenant, it is contained away from production.
 
 - Do you need a UAT or test environment? Allowing the business owners or stakeholders to review the work and play with it. This ideally should be a almost realistic version of production with similar configuration, this will allow you to assess solution impact, test any downtime and your deployment strategies.
 

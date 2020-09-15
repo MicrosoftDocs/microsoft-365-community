@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "Using Site Designs to Manage Project Life Cycles"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Using Site Designs to Manage Project Life Cycles

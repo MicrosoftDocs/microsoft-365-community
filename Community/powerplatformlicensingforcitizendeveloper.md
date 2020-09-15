@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "Understanding Power Platform Licensing"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Understanding Power Platform Licensing

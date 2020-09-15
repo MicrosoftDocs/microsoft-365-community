@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "Site Builder/Owner: New Site Checklist"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 # Site Builder/Owner: New Site Checklist
 

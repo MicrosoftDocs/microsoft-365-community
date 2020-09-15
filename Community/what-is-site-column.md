@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "What is a site column?"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 # What is a Site Column?
 

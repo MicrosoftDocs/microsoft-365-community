@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: The Evolution of Company-wide Email Communication to SharePoint News
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 
 # The Evolution of Company-wide Email Communication to SharePoint News

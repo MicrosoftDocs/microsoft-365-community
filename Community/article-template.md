@@ -1,12 +1,13 @@
 ---
 title: Template
-ms.date: 3/13/2020
-author: JoanneHendrickson
+ms.date: 9/02/2020
+author: [Your Github handle]
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service:
 localization_priority: 
 description: template for creating content
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Main title

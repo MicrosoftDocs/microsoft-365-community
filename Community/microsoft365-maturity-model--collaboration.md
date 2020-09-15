@@ -7,7 +7,7 @@ ms.author: jhendr
 ms.service:
 localization_priority: 
 description: Maturity Model for Microsoft 365 - Collaboration Competency
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 
 # Maturity Model for Microsoft 365 - Collaboration Competency

@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "What is a content type?"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 # What is a Content Type?
 

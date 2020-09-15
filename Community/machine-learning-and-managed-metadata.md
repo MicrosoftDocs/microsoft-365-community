@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "Can Machine Learning be used to assign managed metadata attributes for items?"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 # Can Machine Learning be used to assign managed metadata attributes for items?
 

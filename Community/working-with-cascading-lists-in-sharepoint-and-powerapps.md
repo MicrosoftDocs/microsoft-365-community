@@ -5,7 +5,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "Working with Cascading Lists in SharePoint and Power Apps"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Working with Cascading Lists in SharePoint and Power Apps

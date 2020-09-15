@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "Defining a Power Platform Environment Strategy"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Defining a Power Platform Environment Strategy

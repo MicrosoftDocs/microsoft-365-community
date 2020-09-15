@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "A Guided Tour Designed to Help You Select an Effective Navigation Strategy"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # A Guided Tour Designed to Help You Select an Effective Navigation Strategy

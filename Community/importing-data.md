@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: Importing data into SharePoint
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 # Importing data into SharePoint
 

@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "List columns or Site columns: Which one to choose?"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 # List columns or Site columns: Which one to choose?
 

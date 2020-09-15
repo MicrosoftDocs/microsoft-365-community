@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "Team Site vs. Communication Site: Which one should I choose?"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 # Team Site vs. Communication Site: Which one should I choose?
 
@@ -21,7 +21,7 @@ Choosing between a [team site](https://support.office.com/en-ie/article/what-is-
 
 **Create a team site for each discrete group of people or unit of work**.
 
-If you are a long-time user of SharePoint, you might be thinking that &quot;team site equals sub-site.&quot; Resist the temptation to create team sites as sub-sites! Many governance decisions (for example, the ability to share content outside the organization and who has permission to invite new members to the team) are **scoped to the site collection**. For the most flexibility both today and in the future, each team should get their own site collection – which is exactly what happens when you create an [Office 365 Group](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) or a team site from the SharePoint start page, assuming that your organization has enabled &quot;self-service&quot; site creation. When you provision a new [Microsoft Teams](https://support.office.com/en-us/article/video-what-is-microsoft-teams-422bf3aa-9ae8-46f1-83a2-e65720e1a34d) or [team site](https://support.office.com/en-ie/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) in Office 365, you will get a new _site collection_ in your tenant.
+If you are a long-time user of SharePoint, you might be thinking that &quot;team site equals sub-site.&quot; Resist the temptation to create team sites as sub-sites! Many governance decisions (for example, the ability to share content outside the organization and who has permission to invite new members to the team) are **scoped to the site collection**. For the most flexibility both today and in the future, each team should get their own site collection – which is exactly what happens when you create an [Office 365 Group](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) or a team site from the SharePoint start page, assuming that your organization has enabled &quot;self-service&quot; site creation. When you provision a new [Microsoft Teams](https://support.office.com/article/video-what-is-microsoft-teams-422bf3aa-9ae8-46f1-83a2-e65720e1a34d) or [team site](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) in Office 365, you will get a new _site collection_ in your tenant.
 
 If you are doing this right, you will have **a lot of team sites**. Why? Because you have a lot of projects and work teams – and each one of your projects or work teams will likely have different access and information management requirements. Even if the same work team works on lots of projects, you should still provision a unique team site for each unique project.
 

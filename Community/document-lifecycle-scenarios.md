@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: Document Lifecycle Scenarios - showing different ways to think through how we manage documents based on their relative weight and importance
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Document Lifecycle Scenarios

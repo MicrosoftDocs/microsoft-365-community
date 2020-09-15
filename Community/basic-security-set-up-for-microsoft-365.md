@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: Basic Security Set Up for Microsoft 365
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Basic Security Set Up for Microsoft 365

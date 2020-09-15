@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "Information Architecture - Site Topology"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 # Information Architecture - Site Topology
 

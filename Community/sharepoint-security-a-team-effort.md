@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "Managing SharePoint Online Security: A Team Effort"
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 
 # Managing SharePoint Online Security: A Team Effort

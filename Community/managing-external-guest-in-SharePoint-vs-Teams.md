@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "Managing External Guests in SharePoint vs Teams"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Managing External Guests in SharePoint vs Teams

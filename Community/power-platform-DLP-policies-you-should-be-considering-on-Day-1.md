@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "The Power Platform DLP policies you should be considering on Day 1"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1

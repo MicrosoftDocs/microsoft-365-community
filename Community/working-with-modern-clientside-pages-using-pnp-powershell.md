@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "Working with modern client-side pages using PnP PowerShell"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 # Working with modern client-side pages using PnP PowerShell
 

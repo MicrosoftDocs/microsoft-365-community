@@ -6,7 +6,7 @@ ms.reviewer: jhendr
 ms.author: jhendr
 localization_priority: 
 description: "SharePoint Naming Guidelines"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # SharePoint Naming Guidelines
