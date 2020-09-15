@@ -4,7 +4,7 @@ ms.date: 9/02/2020
 author: [Your Github handle]
 ms.reviewer: jhendr
 ms.author: jhendr
-ms.service:
+ms.service: o365-solutions
 localization_priority: 
 description: template for creating content
 ms.collection: M365Community
