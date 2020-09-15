@@ -4,7 +4,7 @@ ms.date: 7/28/2020
 author: SimonJHudson
 ms.reviewer: jhendr
 ms.author: jhendr
-ms.service: o365-solutions
+ms.prod: microsoft-365
 localization_priority:
 description: Seven principles of communication as used to inform the Communication Competency within the Microsoft 365 Maturity Model
 ms.collection: M365Community

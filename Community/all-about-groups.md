@@ -4,7 +4,7 @@ ms.date: 8/31/2020
 author: ToddKlindt
 ms.reviewer: jhendr
 ms.author: jhendr
-ms.service:
+ms.prod: microsoft-365
 localization_priority: 
 description: "There are a lot of groups in Azure and Microsoft 365. They can be confusing. This article explains them so you can figure out which one is best for you."
 ms.collection: M365Community

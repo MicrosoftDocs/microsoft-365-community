@@ -4,7 +4,7 @@ ms.date: 8/5/2020
 author: eemancini
 ms.reviewer: jhendr
 ms.author: jhendr
-ms.service: o365-solutions
+ms.prod: microsoft-365
 localization_priority:
 description: Maturity Model for Microsoft 365 – People and Communities Competency
 ms.collection: M365Community

@@ -4,7 +4,7 @@ ms.date: 9/3/2020
 author: simonjhudson
 ms.author: jhendr
 ms.reviewer: jhendr
-ms.service: search
+ms.prod: microsoft-365
 localization_priority:
 description: Maturity Model for Microsoft 365 - Search Competency
 ms.collection: M365Community
