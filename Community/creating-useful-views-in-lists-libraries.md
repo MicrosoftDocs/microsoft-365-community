@@ -4,6 +4,7 @@ ms.date: 7/10/2020
 author: PatD
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority:
 description: Support your end users by creating effiicent and effective Views
 ms.collection: M365Community

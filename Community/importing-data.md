@@ -4,6 +4,7 @@ ms.date: 4/30/2020
 author: nyoung30
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: Importing data into SharePoint
 ms.collection: M365Community

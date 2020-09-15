@@ -4,6 +4,7 @@ ms.date: 3/3/2020
 author: pkbullock
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: "Designing your solution for scale"
 ms.collection: M365Community
@@ -14,7 +15,7 @@ ms.collection: M365Community
 
 ## Introduction
 
-This article refers to design considerations of scaling your solutions, for example, in this scenario - you have built your solution and tested on a site or library, you have demoed to your boss, they are very happy and then he goes "Hey now, great solution, can you get this out to 1,000 sites please?".
+This article refers to design considerations of scaling your solutions, for example, in this scenario - you have built your solution and tested on a site or library, you have demoed to your boss, they are very happy and then he goes "Hey now, great solution, can you get this out to 1,000 sites please?"
 
 The requirement has changed - to note, it is best to ask this question early. So you can plan for this and determine what kinds of points do you think about, when building your solution on this scale.
 

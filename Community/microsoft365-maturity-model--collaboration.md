@@ -4,7 +4,7 @@ ms.date: 8/4/2020
 author: sympmarc
 ms.reviewer: jhendr
 ms.author: jhendr
-ms.service:
+ms.service: o365-solutions
 localization_priority: 
 description: Maturity Model for Microsoft 365 - Collaboration Competency
 ms.collection: M365Community

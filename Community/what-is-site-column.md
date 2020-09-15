@@ -4,10 +4,12 @@ ms.date: 3/3/2020
 author: sympmarc
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: "What is a site column?"
 ms.collection: M365Community
 ---
+
 # What is a Site Column?
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]

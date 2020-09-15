@@ -4,6 +4,7 @@ ms.date: 8/17/2020
 author: aaronrendell
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: power-platform
 localization_priority: 
 description: "The Power Platform DLP policies you should be considering on Day 1"
 ms.collection: M365Community

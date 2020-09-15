@@ -4,10 +4,12 @@ ms.date: 3/3/2020
 author: nyoung30
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: "Library scenarios"
 ms.collection: M365Community
 ---
+
 # Library scenarios
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]

@@ -4,6 +4,7 @@ ms.date: 8/3/2020
 author: jimmyhang
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: one-drive
 localization_priority: 
 description: OneDrive PC Folder Backup Benefits for End Users
 ms.collection: M365Community

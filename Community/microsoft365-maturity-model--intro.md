@@ -4,6 +4,7 @@ ms.date: 6/12/2020
 author: sympmarc
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: o365-solutions
 localization_priority: 
 description: Maturity Model for Microsoft 365 - Introduction
 ms.collection: M365Community

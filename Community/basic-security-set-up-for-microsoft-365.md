@@ -4,6 +4,7 @@ ms.date: 7/9/2020
 author: helloitsliam
 ms.reviewer: jhendr
 ms.author: jhendr
+ms-service: security
 localization_priority: 
 description: Basic Security Set Up for Microsoft 365
 ms.collection: M365Community

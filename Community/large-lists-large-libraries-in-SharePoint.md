@@ -4,6 +4,7 @@ ms.date: 7/16/2020
 author: PatD
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority:
 description: Best practices and strategies for building and operating large SharePoint Lists and Libraries well above the 5000 item threshold.
 ms.collection: M365Community

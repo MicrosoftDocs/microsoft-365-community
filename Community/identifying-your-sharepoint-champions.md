@@ -4,6 +4,7 @@ ms.date: 3/22/2020
 author: eemancini
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: Identifying influencers in your organization to help support SharePoint and Office 365 initiatives through feedback, change management support, and self-service opportunities.
 ms.collection: M365Community

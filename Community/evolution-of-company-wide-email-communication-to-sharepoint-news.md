@@ -4,6 +4,7 @@ ms.date: 8/7/2020
 author: eemancini
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: The Evolution of Company-wide Email Communication to SharePoint News
 ms.collection: M365Community

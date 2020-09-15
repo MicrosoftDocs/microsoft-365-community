@@ -4,6 +4,7 @@ ms.date: 8/13/2020
 author: eemancini
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority:  
 description: How to Share Org-Wide Communications in Microsoft 365
 ms.collection: M365Community 
