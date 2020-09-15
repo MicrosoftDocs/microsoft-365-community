@@ -2,7 +2,8 @@
 title: Designing your solution for scale
 ms.date: 3/3/2020
 author: pkbullock
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: "Designing your solution for scale"
 ms.collection: SPCommunity

@@ -1,7 +1,8 @@
 ---
 title: Should I store my files in Microsoft Teams or in SharePoint? An understanding of behind the scenes
 author: veronicageek
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: "Should I store my files in Microsoft Teams or in SharePoint? An understanding of behind the scenes"
 ms.collection:  SPCommunity

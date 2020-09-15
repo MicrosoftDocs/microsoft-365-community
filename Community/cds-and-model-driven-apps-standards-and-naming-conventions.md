@@ -2,7 +2,8 @@
 title: CDS and Model-Driven Apps Standards and Naming Conventions
 ms.date: 4/21/2020
 author:  sympmarc
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: "CDS and Model-Driven Apps Standards and Naming Conventions"
 ms.collection: SPCommunity

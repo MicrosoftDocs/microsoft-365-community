@@ -2,7 +2,8 @@
 title: Defining a Power Platform Environment Strategy
 ms.date: 8/10/2020
 author: aaronrendell
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: "Defining a Power Platform Environment Strategy"
 ms.collection:  SPCommunity

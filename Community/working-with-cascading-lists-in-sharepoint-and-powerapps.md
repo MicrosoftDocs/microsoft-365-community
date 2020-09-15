@@ -1,7 +1,8 @@
 ---
 title: Working with Cascading Lists in SharePoint and Power Apps
 author: yllemo
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: "Working with Cascading Lists in SharePoint and Power Apps"
 ms.collection:  SPCommunity

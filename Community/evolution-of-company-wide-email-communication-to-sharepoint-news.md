@@ -2,7 +2,8 @@
 title: The Evolution of Company-wide Email Communication to SharePoint News
 ms.date: 8/7/2020
 author: eemancini
-ms.reviewer: Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: The Evolution of Company-wide Email Communication to SharePoint News
 ms.collection: SPCommunity

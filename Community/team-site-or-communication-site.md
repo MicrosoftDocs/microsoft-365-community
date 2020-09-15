@@ -2,7 +2,8 @@
 title: Team Site vs. Communication Site -  Which one should I choose?
 ms.date: 5/1/2020
 author: SusanHanley
-s.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: "Team Site vs. Communication Site: Which one should I choose?"
 ms.collection:  SPCommunity

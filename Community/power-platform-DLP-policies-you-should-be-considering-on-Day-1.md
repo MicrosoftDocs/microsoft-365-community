@@ -2,7 +2,8 @@
 title: The Power Platform DLP policies you should be considering on Day 1
 ms.date: 8/17/2020
 author: aaronrendell
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: "The Power Platform DLP policies you should be considering on Day 1"
 ms.collection:  SPCommunity

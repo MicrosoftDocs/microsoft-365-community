@@ -2,7 +2,8 @@
 title: Template
 ms.date: 3/13/2020
 author: JoanneHendrickson
-ms.reviewer:  jhendr
+ms.reviewer: jhendr
+ms.author: jhendr
 localization_priority: 
 description: template for creating content
 ms.collection:  SPCommunity
