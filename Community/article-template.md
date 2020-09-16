@@ -1,7 +1,7 @@
 ---
 title: Template
 ms.date: 9/02/2020
-author: [Your Github handle]
+author: YourGithubHandle
 ms.reviewer: jhendr
 ms.author: jhendr
 ms.prod: microsoft-365

@@ -2,11 +2,14 @@
 title: Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces
 ms.date:  9/16/2020
 author: LuiseFreese
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.prod: outlook
 localization_priority:
 description: "Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces"
 ms.collection: M365Community
 ---
+
 # Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces
 
 Outlook Spaces is now officially in preview and like many others, I wondered which place in Microsoft 365 it has and how users can benefit from it.
@@ -56,9 +59,9 @@ You can add people cards of Outlook to have contact information of relevant peop
 
 You can also add files from your OneDrive as from BOX, DROPBOX or GOOGLE DRIVE to your space which means that you don't make hard copies of files, but add a link to a document, which let's you benefit of having a living document. Please note, that you can't add files that are shared with you but are stored in another users OneDrive. What you can do is adding those files as a web link.
 
-### Location & bing weather
+### Location & Bing weather
 
-Spaces connects to bing maps in location and weather cards. If you add a location and later click on it, it will open bing maps in a new tab of your browser. Via the ellipsis on the card, you can also use the get directions feature.
+Spaces connects to Bing Maps in location and weather cards. If you add a location and later click on it, it will open Bing maps in a new tab of your browser. Via the ellipsis on the card, you can also use the get directions feature.
 
 ## How can people include this tool into their existing behavior and routines
 
@@ -104,3 +107,9 @@ There is now way to share an Outlook Space with others, because it is meant to b
 As mentioned above, Outlook Spaces needs to be enabled for commercial users with PowerShell, but it could be that tech-savvy or digitally more interested users may have seen this feature with their personal account or already use it - to plan their lives. I'd strongly encourage you not only enable it but to make users understand how email, events, tasks, persons, and notes sit in Exchange Online and that Microsoft just added the ability to include files from OneDrive and links as well so that users can make their own visual dashboard.
 
 Outlook Spaces is not in concurrence to To Do or Planner or to Teams, it's a valuable addition to services that we are already using for our personal work. We realize more and more, that people's working behaviors are rather unique and that many users ask for more visual ways to manage their works and to ideate.
+
+---
+
+**Principal author**: [Luise Freese](https://www.linkedin.com/in/luisefreese/)
+
+---

@@ -209,3 +209,5 @@ If you don't like the chatbot approach, you can also work with a request form in
 ---
 
 **Principal author**: [Luise Freese](https://www.linkedin.com/in/luisefreese/)
+
+---
