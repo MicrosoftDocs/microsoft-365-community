@@ -6,9 +6,7 @@ ms.reviewer:  Joanne Hendrickson
 localization_priority:
 description: "Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces"
 ms.collection: M365Community
-
 ---
-
 # Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces
 
 Outlook Spaces is now officially in preview and like many others, I wondered which place in Microsoft 365 it has and how users can benefit from it.
@@ -17,6 +15,8 @@ Outlook Spaces is now officially in preview and like many others, I wondered whi
 
 Outlook Spaces is a dynamic space in which you can aggregate information from your projects in a more visual way. It is a canvas similar to Microsoft Whiteboard, but without the ability to draw on. You can add notes, files, links, tasks, goals, emails and events, cards for weather, people and locations and organize all of that in buckets. Users, who are already familiar with Microsoft Planner, will recognize this concept easily. You can access Outlook Spaces in Outlook on the web. Right now it's likely that you will need to log in with your personal account to try it out as only a limited number of work accounts are enabled for that. Remember, it's still in preview but still worth a try. Find Spaces/Project Moca in the module switcher on the lower left hand corner of Outlook on the web. If you can’t see it, click on the '...' ellipsis. Additional information for admins: This feature is shipped off-by default. You can enable it via PowerShell, for reference check [Set-OwaMailboxPolicy](https://docs.microsoft.com/powershell/module/exchange/set-owamailboxpolicy).
 
+![Templates in Outlook Spaces](media/Yet-another-tool-why-you-will-probably-fall-in-love-with-Project-Moca-aka-Outlook-Spaces/Outlook-Spaces-Templates.png)
+
 ## Which use cases will Outlook Spaces serve
 
 Following its purpose of making organizing all the different workloads a bit easier, Outlook Spaces is a nice feature of Outlook on the web that allows users to have a one big overview to really see the whole picture of their work in one place. Most users ask for having that single pane of glass- we know this pretty well from years of discussion about the 'when to use what' question in Microsoft 365. Having a personal space to track and organize what matters to you and not relying on different structures that others defined for you (e.g. in different Microsoft Teams teams) will take into account unique needs of users. Project Moca enables people to group information, tasks, files and more in a context that makes sense to them. This makes sure, that they build their own visual synopsis in a digital tool.
@@ -24,6 +24,8 @@ Following its purpose of making organizing all the different workloads a bit eas
 ## Is it a project management tool
 
  Please note, that in the 'project management' template you get some predefined buckets called 'to do', 'in progress', 'waiting' and 'done', following the Kanban board methodology. Those buckets don't have any impact on the emails, events, and especially To Do tasks which you drag them into. This means, that even if you move a task from the bucket 'in progress' to 'done', this won't change the status of the task from 'not started' to 'completed'. Seems pretty logical to me, as To Do tasks only have two status: 'not started' and 'completed'. My take on the approach of Spaces: Outlook Spaces is an visual aggregator of personal work content, not a project management tool.
+
+![Example Canvas in Outlook Spaces](media/Yet-another-tool-why-you-will-probably-fall-in-love-with-Project-Moca-aka-Outlook-Spaces/Outlook-Spaces-project.png)
 
 ## How does Outlook Spaces integrate with other apps & services
 
