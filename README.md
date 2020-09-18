@@ -1,7 +1,5 @@
 # Welcome to the Microsoft 365 Community Docs
 
-![PnP Community Docs](Community\media\repo-docs\pnp-community-docs.jpg)
-
 * This repo backs the [Microsoft 365 Community Docs](https://docs.microsoft.com/microsoft-365/community/) content. If you have suggestion or corrections, read on...
 * If you just landed here, and you have no idea what GitHub is, please go to [Getting Started](https://github.com/MicrosoftDocs/microsoft-365-community/wiki/Getting-Started). If you'd like to learn even more about how to use Github in this context, visit the [Sharing Is Caring Initiative](https://pnp.github.io/sharing-is-caring/).
 * If you have been here before and would like instructions on how to add content, please go to [Adding Content](https://github.com/MicrosoftDocs/microsoft-365-community/wiki/Adding-Content).
@@ -47,5 +45,3 @@ When you submit a pull request, a CLA-bot will automatically determine whether y
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-![Parker](Community\media\repo-docs\parker-docs.jpg)
