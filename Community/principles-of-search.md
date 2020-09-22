@@ -157,11 +157,9 @@ Great search shouldn&#39;t feel like search at all; great User Experience (UX) o
 - [Search Verticals]
 - [Search User Interface / UX]
 
-## References and Sources
-
 ---
 
 Principal authors:
 
-- [Simon Hudson]([https://www.linkedin.com/in/simonjhudson/](https://www.linkedin.com/in/simonjhudson/))
-- [Simon Doy]([https://www.linkedin.com/in/simondoy](https://www.linkedin.com/in/simondoy)/)
+- [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+- [Simon Doy](https://www.linkedin.com/in/simondoy)
