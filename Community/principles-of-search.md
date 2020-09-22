@@ -16,7 +16,7 @@ ms.collection: SPCommunity
 
 # Introduction - The Principles of Search
 
-Great search should be at the heart of all corporate information systems and digital workspaces. The reason is simple, in this information age we all need far more information than any individual can hope to know about. While the human mind is a marvelous thing, it has its limitations and our memory capacity isn&#39;t so much limited as adapted for certain types of knowledge retention.; Meanwhile our organizations, industry, and society as a whole are creating new information at a rate far faster that it is possible to absorb. Not only can we not know and recall everything that is important to us, but we often don't know what we we don&#39;t know.
+Great search should be at the heart of all corporate information systems and digital workspaces. The reason is simple, in this information age we all need far more information than any individual can hope to know about. While the human mind is a marvelous thing, it has its limitations and our memory capacity isn't so much limited as adapted for certain types of knowledge retention.; Meanwhile our organizations, industry, and society as a whole are creating new information at a rate far faster that it is possible to absorb. Not only can we not know and recall everything that is important to us, but we often don't know what we we don't know.
 
 The paradox is that personal and organizational productivity is reliant on rapid access to current, authoritative information we need in order to make decisions or work through processes. We know we need it but we don't necessarily know _what_ it is, _where_ it is or even _if_ it exists. Good search fills in this deficiency by providing discovery tools for users; _great_ search does it by removing the burden on users to know how to search or where to search. As others have observed,
 
@@ -29,15 +29,15 @@ Search relies heavily on several other competencies including cCollaboration and
 People search for many reasons:
 
 - Find answers: they need to answer a question they have.
-- Locate things: they know something exists, but don&#39;t know where it is. Sometimes they need to find out if information exists or what information exists; or even that something doesn&#39;t exist.
-- Clarify things: they know something exists, but don&#39;t know how to adequately describe it.
+- Locate things: they know something exists, but don't know where it is. Sometimes they need to find out if information exists or what information exists; or even that something doesn't exist.
+- Clarify things: they know something exists, but don't know how to adequately describe it.
 - Find expertise: they need to find someone who can offer advice or skills or can do something for them.
-- Simplify things: sometimes its quicker to use search to filter large amounts of &#39;stuff&#39; than to browse. Sometimes pre-defined filters don&#39;t provide the options or nuances needed.
+- Simplify things: sometimes its quicker to use search to filter large amounts of 'stuff' than to browse. Sometimes pre-defined filters don't provide the options or nuances needed.
 - Accelerate activities: search is frequently a more efficient of rapid means of completing a task or process.
 
 ## Search strategies
 
-There are a wide variety of search strategies and technologies and these are evolving all the time in response to increasing diversity and volume of content in order to manage the complexity that come with these. Some strategies become ineffective or disadvantageous as complexity grows. There is a constant &#39;arms race&#39; between content creation and search technology.
+There are a wide variety of search strategies and technologies and these are evolving all the time in response to increasing diversity and volume of content in order to manage the complexity that come with these. Some strategies become ineffective or disadvantageous as complexity grows. There is a constant 'arms race' between content creation and search technology.
 
 ![Volume and diversity of content](media/principles-of-search/volume-and-diversity-of-content.png)
 
@@ -47,7 +47,7 @@ The human-machine interface also evolves in response to the changing nature of b
 
 ## History of Search
 
-Search, as a concept, has been around for as long as people have been storing knowledge in the form of written words. The [Pinakes](https://en.wikipedia.org/wiki/Pinakes) may well have been the 1st library index, based on the contents of the library of Alexandria around 300 BCE. With around half a million papyrus scrolls stored in the library, the great repository of knowledge already far exceeded ability of even a team of librarians to know the content. Today, even the smallest organixations have vast quantities of internal information, supplemented by externally accessible knowledge. Since the dawn of the computing age around 80 years ago, [machines have assisted](https://en.wikipedia.org/wiki/Search_engine_technology#History_of_Search_Technology) us with finding the information we need. With the advent of digitization, digital search has become the only realistic way of accessing the internal and external information at our disposal, and has become a critical capability since the turn of the Millennium. Web search started in the early 90s, arguably culminating with the release of Google. [Enterprise search](http://intranetfocus.com/a-history-of-enterprise-search-starting-out/#:~:text=Any%20history%20of%20enterprise%20search%20is%20intrinsically%20linked,written%20by%20Mark%20Sanderson%20and%20W%20Bruce%20Croft.) actually precedes this; Microsoft became active around 2001, adding search capabilities to Microsoft Office SharePoint Server, which it later spun out as the stand alone Search Server in 2008. This marked the start of Microsoft&#39;s vision for search, to break down information silos and provide a single point to search for all content across the enterprise. Even their first engine was able to search through multiple content sources including SharePoint, Exchange, Lotus Notes and File servers.
+Search, as a concept, has been around for as long as people have been storing knowledge in the form of written words. The [Pinakes](https://en.wikipedia.org/wiki/Pinakes) may well have been the 1st library index, based on the contents of the library of Alexandria around 300 BCE. With around half a million papyrus scrolls stored in the library, the great repository of knowledge already far exceeded ability of even a team of librarians to know the content. Today, even the smallest organixations have vast quantities of internal information, supplemented by externally accessible knowledge. Since the dawn of the computing age around 80 years ago, [machines have assisted](https://en.wikipedia.org/wiki/Search_engine_technology#History_of_Search_Technology) us with finding the information we need. With the advent of digitization, digital search has become the only realistic way of accessing the internal and external information at our disposal, and has become a critical capability since the turn of the Millennium. Web search started in the early 90s, arguably culminating with the release of Google. [Enterprise search](http://intranetfocus.com/a-history-of-enterprise-search-starting-out/#:~:text=Any%20history%20of%20enterprise%20search%20is%20intrinsically%20linked,written%20by%20Mark%20Sanderson%20and%20W%20Bruce%20Croft.) actually precedes this; Microsoft became active around 2001, adding search capabilities to Microsoft Office SharePoint Server, which it later spun out as the stand alone Search Server in 2008. This marked the start of Microsoft's vision for search, to break down information silos and provide a single point to search for all content across the enterprise. Even their first engine was able to search through multiple content sources including SharePoint, Exchange, Lotus Notes and File servers.
 
 As SharePoint gained popularity so did the amount of content stored in the system. As the amount of content grew, a more sophisticated search engine was needed. In 2008, Microsoft acquired FAST, a true enterprise search product When they integrated the technology into SharePoint 2013, organizations were provided with powerful enterprise search, able to scale to large volumes of information. Further development of search integrated it into Windows desktop, many desktop and server applications and ultimately into online services, including The Bing web search engine and the search capabilities embedded across the Microsoft Graph.
 
@@ -61,7 +61,7 @@ In our thinking about the maturity model for Microsoft 365 we identified common 
 
 ## Ubiquitous
 
-Great search should be available everywhere. People should be able to elect to search in any and every application they use, on every device, regardless of their location and circumstances. They shouldn&#39;t have to go to a different place or application to conduct the search they need. Search should generally occur invisibly, wherever people are doing their day to day tasks.
+Great search should be available everywhere. People should be able to elect to search in any and every application they use, on every device, regardless of their location and circumstances. They shouldn't have to go to a different place or application to conduct the search they need. Search should generally occur invisibly, wherever people are doing their day to day tasks.
 
 **Search should be omnipresent.**
 
@@ -85,11 +85,11 @@ Great search should not actually be about search at all; It should be about deli
 
 ## Appropriate
 
-Great search should understand what people mean. As far as possible, search should infer what it is that people need when they start searching (or even before). To achieve this requires an understanding of several things: the user&#39;s explicit query and also the implied query derived from the user context. This can include many things such as their location, their role, the current activities, time of day and many other profile elements. Search should offer understanding, not just indexing. By doing this, the information returned can be personalised and relevant.
+Great search should understand what people mean. As far as possible, search should infer what it is that people need when they start searching (or even before). To achieve this requires an understanding of several things: the user's explicit query and also the implied query derived from the user context. This can include many things such as their location, their role, the current activities, time of day and many other profile elements. Search should offer understanding, not just indexing. By doing this, the information returned can be personalised and relevant.
 
 ![Search sophistication vs input](media/principles-of-search/search-sophistication-vs-input.png)
 
- Furthermore, the way the information is presented should also be personalised and prioritised to the person&#39;s needs. The results of search should be consumable by the searcher, readily understood, and presented in a way they can quickly scan, interpret and move ahead with. Regardless of what the user is searching on, relevant results should be returned.
+ Furthermore, the way the information is presented should also be personalised and prioritised to the person's needs. The results of search should be consumable by the searcher, readily understood, and presented in a way they can quickly scan, interpret and move ahead with. Regardless of what the user is searching on, relevant results should be returned.
 
 ![Search relevant results](media/principles-of-search/search-relevent-results.png)
 
@@ -131,9 +131,9 @@ Great search should be reliable and familiar. Modes of interaction should be uni
 
 ## Obvious or invisible
 
-Great search should be helpful. Staff should not have to learn complex search options, or spend time carefully considering the most effective search terms and options. In fact, search should be easier than the alternatives, which might include browsing, guessing, asking someone or using a web search engine. Everyone should be able to use search and it shouldn&#39;t be a training problem. Search results should be no more complex than necessary, easy to assimilate, free of irrelevant or useless information and functionality. Search must focus on those things that helps users find or do what&#39;s needed.
+Great search should be helpful. Staff should not have to learn complex search options, or spend time carefully considering the most effective search terms and options. In fact, search should be easier than the alternatives, which might include browsing, guessing, asking someone or using a web search engine. Everyone should be able to use search and it shouldn't be a training problem. Search results should be no more complex than necessary, easy to assimilate, free of irrelevant or useless information and functionality. Search must focus on those things that helps users find or do what's needed.
 
-Great search shouldn&#39;t feel like search at all; great User Experience (UX) often occurs when there is no User Interface (UI); it is so natural and embedded in the process that it isn&#39;t something users do, it just happens.
+Great search shouldn't feel like search at all; great User Experience (UX) often occurs when there is no User Interface (UI); it is so natural and embedded in the process that it isn't something users do, it just happens.
 
 **Search should be effortless**
 
@@ -141,11 +141,11 @@ Great search shouldn&#39;t feel like search at all; great User Experience (UX) o
 
 - All systems and tools provide a search option, or have it embedded in the workflow.
 - Searching is across all content in the enterprise regardless of the system that it resides in. Silos occur due to planned control, not technical limitations.
-- Search isn&#39;t limited to files; &#39;things&#39;, skills, people, places, and more are included.
+- Search isn't limited to files; 'things', skills, people, places, and more are included.
 - Users can find what they want without having to know which system to search.
 - Search is scoped for the most likely need in the current context but allow a shift to different or edge case queries.
 - The process of search is similar in all systems, with familiar options, UI elements and outputs.
-- Presentation of results and &#39;findings&#39; are appropriate to the content discovered, include previews, formatting, actions and more based on the context.
+- Presentation of results and 'findings' are appropriate to the content discovered, include previews, formatting, actions and more based on the context.
 - Users can review and refine results to find the result they need. Document content is viewable within the search results page; People can refine the findings to improve precision and confirm they have the right result.
 - Indexing frequency is matched to content fluidity; as content changes results are up-to-date and include the latest changes.
 - Content and search findings are actively managed, reviewed, designed, optimised.
