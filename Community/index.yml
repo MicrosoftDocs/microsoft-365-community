@@ -108,6 +108,8 @@ landingContent:
         links:
           - text: The Principles of Communication
             url: principles-of-communication.md
+          - text: The Principles of Search
+            url: principles-of-search.md
           - text: The Evolution of Company-wide Email Communication to SharePoint News
             url: evolution-of-company-wide-email-communication-to-sharepoint-news.md
           - text: How to Share Org-Wide Communication in Microsoft 365
@@ -176,6 +178,14 @@ landingContent:
             url: managing-external-guest-in-SharePoint-vs-Teams.md
           - text: The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1
             url: power-platform-DLP-policies-you-should-be-considering-on-Day-1.md
+
+  # Card (optional)
+  - title: In Preview
+    linkLists:
+      - linkListType: concept
+        links:
+          - text: Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces
+            url: yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces.md
 
   # Card (optional)
   - title: References

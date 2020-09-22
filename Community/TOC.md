@@ -31,6 +31,7 @@
 ### [Creating Useful Views for Lists & Libraries](creating-useful-views-in-lists-libraries.md)
 ## Effective Communication
 ### [The Principles of Communication](principles-of-communication.md)
+### [The Principles of Search](principles-of-search.md)
 ### [The Evolution of Company-wide Email Communication to SharePoint News](evolution-of-company-wide-email-communication-to-sharepoint-news.md)
 ### [How to Share Org-Wide Communication in Microsoft 365](how-to-share-org-wide-communications-in-microsoft-365.md)
 ## Making Better Decisions
@@ -57,6 +58,8 @@
 ### [Basic Security Set Up for Microsoft 365](basic-security-set-up-for-microsoft-365.md)
 ### [Managing External Guests in SharePoint vs Teams](managing-external-guest-in-SharePoint-vs-Teams.md)
 ### [The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1](power-platform-DLP-policies-you-should-be-considering-on-Day-1.md)
+## In Preview
+### [Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces](yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces.md)
 ## References
 ### [FastTrack onboarding and adoption services](https://fasttrack.microsoft.com/office)
 ### [Find a SharePoint certified partner](https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support)
