@@ -4,10 +4,12 @@ ms.date: 3/3/2020
 author: hugoabernier
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: "Information Architecture - Site Topology"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
+
 # Information Architecture - Site Topology
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]

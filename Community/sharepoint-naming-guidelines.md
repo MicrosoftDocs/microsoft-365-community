@@ -4,9 +4,10 @@ ms.date: 3/3/2020
 author: pkbullock
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: "SharePoint Naming Guidelines"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # SharePoint Naming Guidelines

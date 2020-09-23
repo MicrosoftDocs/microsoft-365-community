@@ -4,9 +4,10 @@ ms.date: 07/01/2020
 author: PatD
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: "Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions."
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions

@@ -4,9 +4,10 @@ ms.date:  9/02/2020
 author: LuiseFreese
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: msteams
 localization_priority:
 description: "Should everyone create Teams - Low Code Provisioning solution"
-ms.collection: SPCommunity
+ms.collection: M365Community
 
 ---
 
@@ -208,3 +209,5 @@ If you don't like the chatbot approach, you can also work with a request form in
 ---
 
 **Principal author**: [Luise Freese](https://www.linkedin.com/in/luisefreese/)
+
+---

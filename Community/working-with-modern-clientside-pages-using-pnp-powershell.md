@@ -4,9 +4,10 @@ ms.date: 03/04/2020
 author: JimmyHang
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: "Working with modern client-side pages using PnP PowerShell"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 # Working with modern client-side pages using PnP PowerShell
 

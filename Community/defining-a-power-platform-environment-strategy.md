@@ -4,9 +4,10 @@ ms.date: 8/10/2020
 author: aaronrendell
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: power-platform
 localization_priority: 
 description: "Defining a Power Platform Environment Strategy"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Defining a Power Platform Environment Strategy

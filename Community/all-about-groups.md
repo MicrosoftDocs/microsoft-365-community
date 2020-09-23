@@ -4,9 +4,10 @@ ms.date: 8/31/2020
 author: ToddKlindt
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.prod: microsoft-365
 localization_priority: 
 description: "There are a lot of groups in Azure and Microsoft 365. They can be confusing. This article explains them so you can figure out which one is best for you."
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Groups in Microsoft 365 and Azure, and Which is Right for You
@@ -49,7 +50,7 @@ Microsoft 365 Groups have two roles, Owner and Member. Owners can change the set
 
 ### Who can manage them?
 
-By default, any user in a tenant can create a Microsoft 365 Group by creating a new resource in a Group supported app. Tenant Administrators do have the option of [restricting who can create Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide). Group Owners can manage Group membership and settings. Users that have the appropriate administrative roles at the tenant level can also create and manage Groups, including ones they are not members of. If a Group's [Privacy level](https://support.microsoft.com/office/make-microsoft-365-groups-public-or-private-c0a991b3-9c56-48b8-bf0f-05530f836b1b) is set to Public then any user in the tenant can add themselves to it.
+By default, any user in a tenant can create a Microsoft 365 Group by creating a new resource in a Group supported app. Tenant Administrators do have the option of [restricting who can create Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/solutions/manage-creation-of-groups). Group Owners can manage Group membership and settings. Users that have the appropriate administrative roles at the tenant level can also create and manage Groups, including ones they are not members of. If a Group's [Privacy level](https://support.microsoft.com/office/make-microsoft-365-groups-public-or-private-c0a991b3-9c56-48b8-bf0f-05530f836b1b) is set to Public then any user in the tenant can add themselves to it.
 
 ### How do they manage them?
 

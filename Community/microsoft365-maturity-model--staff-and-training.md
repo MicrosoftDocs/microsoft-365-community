@@ -4,9 +4,10 @@ ms.date: 8/31/2020
 author: eemancini
 ms.reviewer: jhendr
 ms.author: jhendr
-localization_priority: 
+ms.prod: microsoft-365
+localization_priority:
 description:  Maturity Model for Microsoft 365 - Staff & Training Competency
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 
 # Maturity Model for Microsoft 365 - Staff & Training Competency

@@ -4,9 +4,10 @@ ms.date: 3/16/2020
 author: bigpix2000
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: power-platform
 localization_priority: 
 description: "Understanding Power Platform Licensing"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Understanding Power Platform Licensing

@@ -4,9 +4,10 @@ ms.date: 6/12/2020
 author: sympmarc
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.prod: microsoft-365
 localization_priority: 
 description: Maturity Model for Microsoft 365 - Introduction
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 
 # Maturity Model for Microsoft 365 - Introduction

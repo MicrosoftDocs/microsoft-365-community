@@ -4,10 +4,12 @@ ms.date: 7/01/2020
 author: PatD
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: "Versioning in SharePoint"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
+
 # Versioning in SharePoint
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]

@@ -4,9 +4,10 @@ ms.date: 3/3/2020
 author: veronicageek
 ms.reviewer: jhendr
 ms.author: jhendr
+ms.service: sharepoint-powershell
 localization_priority: 
 description: "Benefits of using PowerShell with SharePoint"
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 # Benefits of using PowerShell with SharePoint
 
@@ -53,11 +54,11 @@ Currently (late 2019), and depending on the SharePoint version, there are approx
 - SharePoint 2016
 - SharePoint 2013
 
-### Office 365 CLI
+### CLI for Microsoft 365
 
-Also part of the PowerShell PnP initiative is the [Office 365 CLI](https://pnp.github.io/office365-cli/). This allows you to manage your Microsoft Office 365 tenant and SharePoint Framework projects on any platform.
+Also part of the PnP initiative is the [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/). This allows you to manage your Microsoft 365 tenant and SharePoint Framework projects on any platform.
 
-No matter if you're on _Windows_, _macOS_ or _Linux_, using Bash, Cmder or PowerShell, using the Office 365 CLI you can configure Office 365, manage SharePoint Framework projects and build automation scripts.
+No matter if you're on _Windows_, _macOS_ or _Linux_, using Bash, Cmder or PowerShell, using the CLI for Microsoft 365 you can configure Microsoft 365, manage SharePoint Framework projects and build automation scripts.
 
 ## So why should I use PowerShell?
 
