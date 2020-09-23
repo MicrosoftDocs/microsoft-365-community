@@ -32,7 +32,7 @@ Following its purpose of making organizing all the different workloads a bit eas
 
  Note that in the 'project management' template you get some predefined buckets called 'to do', 'in progress', 'waiting' and 'done', following the Kanban board methodology. Those buckets don't have any impact on the emails, events, and especially To Do tasks which you drag them into. This means that even if you move a task from the bucket 'in progress' to 'done', this won't change the status of the task from 'not started' to 'completed'. Seems pretty logical to me, as To Do tasks only have two status: 'not started' and 'completed'. My take on the approach of Spaces: Outlook Spaces is a visual aggregator of personal work content, not a project management tool.
 
-![Example Canvas in Outlook Spaces](media/yet-another-tool-why-you-will-probably-fall-in-love-with-project-moca-aka-outlook-spaces/outlook-spaces-project.png)
+![Example Canvas in Outlook Spaces](media/yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces/outlook-spaces-project.png)
 
 ## How does Outlook Spaces integrate with other apps & services
 
