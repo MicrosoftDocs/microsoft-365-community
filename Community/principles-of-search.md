@@ -14,6 +14,8 @@ ms.collection: SPCommunity
 
 # Introduction - The Principles of Search
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 Great search should be at the heart of all corporate information systems and digital workspaces. The reason is simple, in this information age we all need far more information than any individual can hope to know about. While the human mind is a marvelous thing, it has its limitations and our memory capacity isn't so much limited as adapted for certain types of knowledge retention.; Meanwhile our organizations, industry, and society as a whole are creating new information at a rate far faster that it is possible to absorb. Not only can we not know and recall everything that is important to us, but we often don't know what we we don't know.
 
 The paradox is that personal and organizational productivity is reliant on rapid access to current, authoritative information we need in order to make decisions or work through processes. We know we need it but we don't necessarily know _what_ it is, _where_ it is or even _if_ it exists. Good search fills in this deficiency by providing discovery tools for users; _great_ search does it by removing the burden on users to know how to search or where to search. As others have observed,

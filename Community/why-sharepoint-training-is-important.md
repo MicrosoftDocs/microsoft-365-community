@@ -11,6 +11,8 @@ ms.collection: M365Community
 
 # Why SharePoint Training is Important
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 ## Share what?
 
 Yes... We hear that often. So first, let's have a _quick_ introduction. SharePoint is a platform. A product. You collaborate and share information across the organisation, quickly and securely. You reduce email traffic, and always have the latest version of a document or file. You can even have a beautiful Intranet!
