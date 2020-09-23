@@ -12,6 +12,9 @@ ms.collection: M365Community
 
 # The Principles of Communication 
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
+
 Communication Professionals will sometimes refer to the 7 Principles of Communication; sadly, these are not standardised (so probably level 200!), but
 there are some common themes which were used to inform the Communication Competency within the Microsoft 365 Maturity Model. If you are not a Communications professional you may find this interpretation of the principles helpful as part of a communications strategy, maturity assessment or technology selection.
 
@@ -43,7 +46,7 @@ Communication often takes place across multiple tools/formats and over a period 
 
 Communication should be done at proper time and with the appropriate level of impact and urgency, to ensure that messages can be understood and acted upon to achieve their objective. It should be possible to differentiate Urgent and Import information and understand the time scale for any actions. There should be confidence that communication reaches their audience when intended.
 
-#### Feedback
+#### Importance of Feedback
 
 Feedback is very important to confirm that communication has been effective and to resolve questions, allow challenge, clarify actions etc. Sometimes there is a compliance requirement or monitoring function that needs to be addressed via feedback or a ‘read receipt’.
 

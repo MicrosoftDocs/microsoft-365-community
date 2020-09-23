@@ -12,6 +12,8 @@ ms.collection: M365Community
 
 # Maturity Model for Microsoft 365 - Staff & Training Competency
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 ![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview of the Concepts [tl;dr]
