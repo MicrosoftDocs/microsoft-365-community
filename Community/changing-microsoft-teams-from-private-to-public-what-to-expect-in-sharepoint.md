@@ -4,7 +4,7 @@ ms.date: 3/3/2020
 author: veronicageek
 ms.reviewer: jhendr
 ms.author: jhendr
-ms-service: msteams
+ms.service: msteams
 localization_priority: 
 description: "Changing Microsoft Teams from Private to Public, what to expect in SharePoint?"
 ms.collection: M365Community
@@ -32,11 +32,11 @@ This means that if you've chosen your Team to be _Private_, added a few members,
 
 If you navigate to the site, click on the "number" of members on the top right corner of the page, you should see the **Group membership**, which is whoever you've added when creating the Team.
 
-![mmd](media/changing-microsoft-teams-from-private-to-public/SiteMembership.png)
+![Site Membership](media/changing-microsoft-teams-from-private-to-public/SiteMembership.png)
 
 And **Site Permissions** should look like this:
 
-![mmd](media/changing-microsoft-teams-from-private-to-public/SitePermissions.png)
+![Site Permissions](media/changing-microsoft-teams-from-private-to-public/SitePermissions.png)
 
 ## Change privacy from Private to Public
 
@@ -46,7 +46,7 @@ At the first glance, not much to be honest :neutral_face:
 
 The Group membership is still the same, BUT if you have a look at the _Site permissions_, there's something new!
 
-![mmd](media/changing-microsoft-teams-from-private-to-public/NEWSitePermissions.png)
+![New Site Permissions](media/changing-microsoft-teams-from-private-to-public/NEWSitePermissions.png)
 
 The "**_Everyone except external users_**" group just got added automatically.
 
@@ -58,11 +58,9 @@ If the user clicks on the "Conversations" tab in SharePoint, she/he is also part
 
 As for Teams, when the user opens the desktop app or browser version, clicks on **Join or create a Team** on the bottom left corner, the public team is showing up, and the user can join.
 
-![mmd](media/changing-microsoft-teams-from-private-to-public/JoinPublicTeams.png)
+![Join Public Teams](media/changing-microsoft-teams-from-private-to-public/JoinPublicTeams.png)
 
 Changing the privacy settings should be thoughtfully decided, because Public means Public!
-
----
 
 **Note:** _Joining a public Team doesn't require any approval. Therefore, the user(s) will automatically become Members in Teams and in SharePoint._
 
@@ -70,3 +68,4 @@ Changing the privacy settings should be thoughtfully decided, because Public mea
 
 **Principal author**: [Veronique Lengelle, MVP](https://www.linkedin.com/in/veronique-lengelle-48a71b31)
 
+---
