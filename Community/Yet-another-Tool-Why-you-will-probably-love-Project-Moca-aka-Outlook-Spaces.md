@@ -22,7 +22,7 @@ You can access Outlook Spaces in Outlook on the web. Right now it's likely that 
 
 Additional information for admins: This feature is shipped off by default. You can enable it via PowerShell. For reference check [Set-OwaMailboxPolicy](https://docs.microsoft.com/powershell/module/exchange/set-owamailboxpolicy).
 
-![Templates in Outlook Spaces](media/yet-another-tool-why-you-will-probably-fall-in-love-with-project-moca-aka-outlook-spaces/outlook-spaces-templates.png)
+![Templates in Outlook Spaces](media/yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces/outlook-spaces-templates.png)
 
 ## Which use cases will Outlook Spaces serve
 
