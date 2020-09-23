@@ -77,10 +77,6 @@ Great search should not actually be about search at all; It should be about deli
 
 ## ![Search Query](media/principles-of-search/search-query.png)
 
-**Query = Explicit Query +Implicit Query**
-
-= What you say you need + what is unsaid (the context)
-
 ## Appropriate
 
 Great search should understand what people mean. As far as possible, search should infer what it is that people need when they start searching (or even before). To achieve this requires an understanding of several things: the user's explicit query and also the implied query derived from the user context. This can include many things such as their location, their role, the current activities, time of day and many other profile elements. Search should offer understanding, not just indexing. By doing this, the information returned can be personalised and relevant.
@@ -151,9 +147,6 @@ Great search shouldn't feel like search at all; great User Experience (UX) often
 - Searching feels immediate; users maintain their engagement during a search activity.
 - Extraneous information is minimised, clutter is avoided cognitive load for users is minimised.
 - Related content is exposed.
-
-- [Search Verticals]
-- [Search User Interface / UX]
 
 ---
 
