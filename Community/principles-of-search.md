@@ -24,7 +24,7 @@ The paradox is that personal and organizational productivity is reliant on rapid
 
 Search relies heavily on several other competencies including cCollaboration and mManagement of cContent; without these being well managed search cannot be highly effective; mature search capabilities within the organization are built on a foundation of mature business processes.
 
-# Why search
+## Why search
 
 People search for many reasons:
 
@@ -53,7 +53,7 @@ As SharePoint gained popularity so did the amount of content stored in the syste
 
 You can keep up to date with Microsoft search here: [https://resources.techcommunity.microsoft.com/microsoft-search/](https://resources.techcommunity.microsoft.com/microsoft-search/)
 
-# Principles of Search
+## Principles of Search
 
 In our thinking about the maturity model for Microsoft 365 we identified common themes, which we have worked into guiding principles for making search magical. Making search magical involves adhering to all these principles.
 
@@ -133,7 +133,7 @@ Great search shouldn't feel like search at all; great User Experience (UX) often
 
 **Search should be effortless**
 
-# Characteristics of magical search
+## Characteristics of magical search
 
 - All systems and tools provide a search option, or have it embedded in the workflow.
 - Searching is across all content in the enterprise regardless of the system that it resides in. Silos occur due to planned control, not technical limitations.
