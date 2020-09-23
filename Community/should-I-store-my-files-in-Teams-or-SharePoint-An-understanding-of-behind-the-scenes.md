@@ -1,10 +1,12 @@
 ---
 title: Should I store my files in Microsoft Teams or in SharePoint? An understanding of behind the scenes
 author: veronicageek
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: msteams
 localization_priority: 
 description: "Should I store my files in Microsoft Teams or in SharePoint? An understanding of behind the scenes"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Should I store my files in Microsoft Teams or in SharePoint? An understanding of behind the scenes
@@ -69,7 +71,7 @@ As with all content in Microsoft 365, _security trimming_ applies to these files
 
 ## Are my changes reflected?
 
-Yes. Wherever you are making changes to files and documents, they are saved. And you always have the latest version of the document, wether you are in Microsoft Teams or in SharePoint Online.
+Yes. Wherever you are making changes to files and documents, they are saved. And you always have the latest version of the document, whether you are in Microsoft Teams or in SharePoint Online.
 
 ---
 

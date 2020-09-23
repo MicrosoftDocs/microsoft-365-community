@@ -1,12 +1,15 @@
 ---
 title: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
-ms.date: 3/3/2020
-author: sympmarc
-ms.reviewer:  Joanne Hendrickson
+ms.date: 7/31/2020
+author: skaggej
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: "A Guided Tour Designed to Help You Select an Effective Navigation Strategy"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
+
 # A Guided Tour Designed to Help You Select an Effective Navigation Strategy
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
@@ -99,6 +102,6 @@ Communication sites offer the following options for navigation:
 
 ![CommunicationHeaderCompactMegaMenuNav](media/select-an-effective-navigation-strategy/CommunicationHeaderCompactMegaMenuNav.png)
 
-## Alternatives
+---
 
-Links out to community samples and other options go here.
+Principal author: [Eric Skaggs](https://www.linkedin.com/in/skaggej)

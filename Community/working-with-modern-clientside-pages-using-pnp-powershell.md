@@ -2,10 +2,12 @@
 title: Working with modern client-side pages using PnP PowerShell
 ms.date: 03/04/2020
 author: JimmyHang
-ms.reviewer: 
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: "Working with modern client-side pages using PnP PowerShell"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 # Working with modern client-side pages using PnP PowerShell
 
@@ -25,7 +27,7 @@ Client-side pages is a big topic. In this article I will cover some real world u
 >
 >* Client-side page is a term we use to tell others that the page we are working with is a SharePoint modern ".aspx" page.
 >* Currently Site Designs and Site Scripts don't have support for Client-side pages
->* You should be owner of the site you are working with as it will make a lot of things easier
+>* You should be the owner of the site you are working with as it will make a lot of things easier
 
 ## Connecting to SharePoint with PnP
 
@@ -38,7 +40,7 @@ This is the first command we need to know in PnP
 > [!NOTE]
 > The switch "UseWebLogin" will make sure you can authenticate if your account is configured with [MFA](glossary.md#multi-factor-authentication-mfa)
 
-After connecting you can can start working with the pages you have in the site.
+After connecting you can start working with the pages you have in the site.
 
 The code below will create a new page named "Welcome" and add some web parts on the page.
 
@@ -141,7 +143,7 @@ Firstly I will create an export of all pages from my template site.
     Get-PnPProvisioningTemplate -Out "C:\Development\template.xml" -Force -IncludeAllClientSidePages #includeallclientsidepages will copy all other pages in the site
 ```
 
-I will then clean the template.xml, by removing all other component that I don't need, and in the "ClientSidePages" node you will find the web parts' instanceIDs that you can reuse later.  
+I will then clean the template.xml, by removing all other components that I don't need, and in the "ClientSidePages" node you will find the web parts' instanceIDs that you can reuse later.  
 
 ![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp08.png)
 

@@ -2,10 +2,12 @@
 title: Empowering Your SharePoint Champions
 ms.date: 3/22/2020
 author: eemancini
-ms.reviewer: Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: How to support a SharePoint champions group in your organization. A follow up to Identifying Your SharePoint Champions.
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
  
 # Empowering Your SharePoint Champions
@@ -44,8 +46,14 @@ Some of my favorite presentations involve an IT Professional co-presenting with 
 
 Microsoft is continually releasing new features, your governance plan is changing as the company grows, and you have new initiatives for the intranet on the horizon. Include your SharePoint champions in quarterly meetings to highlight the changes that are coming and continue getting their feedback on their experiences. These meetings can overlap with the support you provide for your site owners, should you choose to treat these groups as separate initiatives.
 
+## Resources to learn more
+
+- [The Microsoft 365 Maturity Model – Introduction](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
+- [Why SharePoint Training is Important](https://docs.microsoft.com/microsoft-365/community/why-sharepoint-training-is-important)
+- [Identifying Your SharePoint Champions](https://docs.microsoft.com/microsoft-365/community/identifying-your-sharepoint-champions)
+
 ---
 
-**Principal author**:[Emily Mancini, UXC](http://www.linkedin.com/in/eemancini)
+**Principal author**: [Emily Mancini, UXC](http://www.linkedin.com/in/eemancini)
 
 ---

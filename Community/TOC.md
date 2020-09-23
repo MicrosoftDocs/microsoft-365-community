@@ -1,11 +1,19 @@
 # [HOME](index.yml)
 ## Basics and Definitions
 ### [Glossary](glossary.md)
+### [Follow Microsoft 365 on Social Media](microsoft-365-on-social-media.md)
 ### [What is a Site Column?](what-is-site-column.md)
 ### [What is a Content Type?](what-is-content-type.md)
+### [Groups in Microsoft 365 and Azure, and Which is Right for You](all-about-groups.md)
 ## Microsoft 365 Better Practices
-### [The Microsoft 365 Maturity Model - Introduction](microsoft365-maturity-model--intro.md)
-### [Known Folder Move (KFM) Benefits for End Users](known-folder-move-benefits-for-enduser.md)
+### [OneDrive PC Folder Backup Benefits for End Users](known-folder-move-benefits-for-enduser.md)
+## Maturity Model for Microsoft 365
+### [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md)
+### [Maturity Model for Microsoft 365 - Collaboration Competency](microsoft365-maturity-model--collaboration.md)
+### [Maturity Model for Microsoft 365 - Communication Competency](microsoft365-maturity-model--communication.md)
+### [Maturity Model for Microsoft 365 - People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
+### [Maturity Model for Microsoft 365 - Search Competency](microsoft365-maturity-model--search.md)
+### [Maturity Model for Microsoft 365 - Staff & Training Competency](microsoft365-maturity-model--staff-and-training.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
 ### [Versioning in SharePoint](versioning-basics-best-practices.md)
@@ -20,8 +28,14 @@
 ### [Information Architecture - Site Topology](information-architecture-site-topology.md)
 ### [Information Architecture - Managed Metadata vs Lookup columns](information-architecture-managed-metadata-vs-lookup-column.md)
 ### [Living Large with Large Lists and Large Libraries](large-lists-large-libraries-in-SharePoint.md)
+### [Creating Useful Views for Lists & Libraries](creating-useful-views-in-lists-libraries.md)
+## Effective Communication
+### [The Principles of Communication](principles-of-communication.md)
+### [The Principles of Search](principles-of-search.md)
+### [The Evolution of Company-wide Email Communication to SharePoint News](evolution-of-company-wide-email-communication-to-sharepoint-news.md)
+### [How to Share Org-Wide Communication in Microsoft 365](how-to-share-org-wide-communications-in-microsoft-365.md)
 ## Making Better Decisions
-### [Teams Site vs. Communication Site: Which one should I choose?](team-site-or-communication-site.md)
+### [Team Site vs. Communication Site: Which one should I choose?](team-site-or-communication-site.md)
 ### [List columns or Site columns: Which one to choose?](list-column-or-site-column-which-one-to-choose.md)
 ### [Changing Microsoft Teams from Private to Public, what to expect in SharePoint?](changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md)
 ### [A Guided Tour Designed to Help You Select an Effective Navigation Strategy](select-an-effective-navigation-strategy.md)
@@ -30,18 +44,27 @@
 ### [Designing your solution for scale](designing-solution-for-scale.md)
 ### [Understanding Power Platform Licensing](powerplatformlicensingforcitizendeveloper.md)
 ### [Should I store my files in Microsoft Teams or in SharePoint?](should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md)
+### [Defining a Power Platform Environment Strategy](defining-a-power-platform-environment-strategy.md)
 ## Useful Scenarios
 ### [Library Scenarios](library-scenarios.md)
 ### [Using Site Designs to Manage Project Life Cycles](site-design-life-cycle.md)
 ### [Working with Cascading Lists in SharePoint and Power Apps](working-with-cascading-lists-in-sharepoint-and-powerapps.md)
+### [Document Lifecycle Scenarios](document-lifecycle-scenarios.md)
 ## Automation
 ### [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
+### [Should everyone create Teams? A Low Code Provisioning solution](should-everyone-create-teams.md)
+## Security
+### [Managing SharePoint Online Security: A Team Effort](sharepoint-security-a-team-effort.md)
+### [Basic Security Set Up for Microsoft 365](basic-security-set-up-for-microsoft-365.md)
+### [Managing External Guests in SharePoint vs Teams](managing-external-guest-in-SharePoint-vs-Teams.md)
+### [The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1](power-platform-DLP-policies-you-should-be-considering-on-Day-1.md)
+## In Preview
+### [Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces](yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces.md)
 ## References
 ### [FastTrack onboarding and adoption services](https://fasttrack.microsoft.com/office)
 ### [Find a SharePoint certified partner](https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support)
 ### [Visit the SharePoint community](https://techcommunity.microsoft.com/t5/SharePoint/ct-p/SharePoint)
 ### [Suggest a feature](https://sharepoint.uservoice.com/)
-### [Learn how to be a Community Contributor](https://github.com/MicrosoftDocs/microsoft-365-community)
 ## Microsoft Office official documentation
 ### [SharePoint](https://docs.microsoft.com/sharepoint/)
 ### [Microsoft Teams](https://docs.microsoft.com/microsoftteams/microsoft-teams)

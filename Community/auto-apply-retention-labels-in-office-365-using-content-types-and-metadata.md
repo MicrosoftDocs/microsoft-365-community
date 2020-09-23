@@ -2,10 +2,12 @@
 title: Auto Apply Retention Labels in Office 365 Using Content Types and Metadata
 author: joannecklein
 ms.date: 3/3/2020
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: O365-seccomp
 localization_priority: 
 description: "Auto Apply Retention Labels in Office 365 Using Content Types and Metadata"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 # Auto Apply Retention Labels in Office 365 Using Content Types and Metadata
 
@@ -31,7 +33,7 @@ Content type called _Contract document_ has been added to a document library. Re
 
 **ContentType:'Contract document'**
 
-The result? Within a week, any SharePoint site the retention label is published to had the _Contract_ retention label applied to all documents with the content type of _Contract document._
+The result? Within a week, the _Contract_ retention label was applied to all documents with the content type of _Contract document_ on all SharePoint sites the retention label was published to.
 
 #### Apply a Retention Label based on a Choice Metadata column
 
@@ -39,7 +41,7 @@ A choice metadata column, _ContractType_, has been added to a library. I want to
 
 **RefinableString00:Hardware**
 
-The result? Within a week, any SharePoint site the retention label is published to had the _Hardware_ retention label applied to all documents with a choice value of 'Hardware' on the _ContractType_ metadata column.
+The result? Within a week, the _Hardware_ retention label applied to all documents with a choice value of 'Hardware' on the _ContractType_ metadata column on all SharePoint sites the retention label was published to.
 
 #### Apply a Retention Label on a compound condition
 
@@ -47,7 +49,7 @@ What about combining conditions? You can do this too! This test combined a conte
 
 **ContentType:'Contract document' AND RefinableString00:Software**
 
-The result? Within a week, any SharePoint site the retention label is published to had the _Software_ retention label applied to all documents with a content type of _Contract document_ and a choice value of 'Software' on the _ContractType_ metadata column.
+The result? Within a week, the _Software_ retention label applied to all documents with a content type of _Contract document_ and a choice value of 'Software' on the _ContractType_ metadata column on all SharePoint sites the retention label was published to.
 
 #### Apply a Retention Label on a Date column <= Today
 
@@ -55,7 +57,7 @@ Can you include date logic in the condition? Yes. I have added an optional date 
 
 **RefinableDate01<=TODAY**
 
-The result? Within a week, any SharePoint site the retention label is published to had the _Expired Contract_ retention label applied to all documents when a date either equal to today or in the past has been entered into the _DateExpired_ metadata column. Note: if a date isn't entered in the column OR a future date is entered in the column, a retention label is not applied.
+The result? Within a week, the _Expired Contract_ retention label applied to all documents when a date either equal to today or in the past has been entered into the _DateExpired_ metadata column on all SharePoint sites the retention label was published to. Note: if a date isn't entered in the column OR a future date is entered in the column, a retention label is not applied.
 
 ## Important things to know
 

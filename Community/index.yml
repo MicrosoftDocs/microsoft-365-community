@@ -28,20 +28,40 @@ landingContent:
         links:
           - text: Glossary
             url: glossary.md
+          - text: Follow Microsoft 365 on Social Media
+            url: microsoft-365-on-social-media.md
           - text: What is a Site Column?
             url:  what-is-site-column.md
           - text: What is a Content Type?
             url:  what-is-content-type.md
+          - text: Groups in Microsoft 365 and Azure, and Which is Right for You
+            url: all-about-groups.md
 
   # Card (optional)
   - title: Microsoft 365 Better Practices
     linkLists:
       - linkListType: learn
         links:
-          - text: The Microsoft 365 Maturity Model - Introduction
-            url:  microsoft365-maturity-model--intro.md
-          - text: Known Folder Move (KFM) Benefits for End Users
+          - text: OneDrive PC Folder Backup Benefits for End Users
             url:  known-folder-move-benefits-for-enduser.md
+
+  # Card (optional)
+  - title: Maturity Model for Microsoft 365
+    linkLists:
+      - linkListType: learn
+        links:
+          - text: Maturity Model for Microsoft 365 - Introduction
+            url:  microsoft365-maturity-model--intro.md
+          - text: Maturity Model for Microsoft 365 - Collaboration Competency
+            url:  microsoft365-maturity-model--collaboration.md
+          - text: Maturity Model for Microsoft 365 - Communication Competency
+            url:  microsoft365-maturity-model--communication.md
+          - text: Maturity Model for Microsoft 365 – People and Communities Competency
+            url: microsoft365-maturity-model--people-and-communities-competency.md
+          - text: Maturity Model for Microsoft 365 - Search Competency
+            url: microsoft365-maturity-model--search.md
+          - text: Maturity Model for Microsoft 365 - Staff & Training Competency
+            url: microsoft365-maturity-model--staff-and-training.md
 
   # Card (optional)
   - title: SharePoint Better Practices
@@ -78,8 +98,24 @@ landingContent:
             url: information-architecture-managed-metadata-vs-lookup-column.md
           - text: Living Large with Large Lists and Large Libraries
             url: large-lists-large-libraries-in-SharePoint.md
+          - text: Creating Useful Views for Lists & Libraries
+            url: creating-useful-views-in-lists-libraries.md
 
-  # Card
+  # Card (optional)
+  - title: Effective Communication
+    linkLists:
+      - linkListType: learn
+        links:
+          - text: The Principles of Communication
+            url: principles-of-communication.md
+          - text: The Principles of Search
+            url: principles-of-search.md
+          - text: The Evolution of Company-wide Email Communication to SharePoint News
+            url: evolution-of-company-wide-email-communication-to-sharepoint-news.md
+          - text: How to Share Org-Wide Communication in Microsoft 365
+            url: how-to-share-org-wide-communications-in-microsoft-365.md
+
+  # Card (optional)
   - title: Making Better Decisions
     linkLists:
       - linkListType: concept
@@ -102,8 +138,10 @@ landingContent:
             url: powerplatformlicensingforcitizendeveloper.md
           - text: Should I store my files in Microsoft Teams or in SharePoint?
             url: should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md
+          - text: Defining a Power Platform Environment Strategy
+            url: defining-a-power-platform-environment-strategy.md
   
-  # Card
+  # Card (optional)
   - title: Useful Scenarios
     linkLists:
       - linkListType: concept
@@ -114,14 +152,40 @@ landingContent:
             url: site-design-life-cycle.md
           - text: Working with Cascading Lists in SharePoint and Power Apps
             url: working-with-cascading-lists-in-sharepoint-and-powerapps.md
+          - text: Document Lifecycle Scenarios
+            url: document-lifecycle-scenarios.md
 
-  # Card
+  # Card (optional)
   - title: Automation
     linkLists:
       - linkListType: how-to-guide
         links:
           - text: Working with modern client-side pages using PnP PowerShell
             url:  working-with-modern-clientside-pages-using-pnp-powershell.md
+          - text: Should everyone create Teams? A Low Code Provisioning solution
+            url: should-everyone-create-teams.md
+
+  # Card (optional)
+  - title: Security
+    linkLists:
+      - linkListType: concept
+        links:
+          - text: "Managing SharePoint Online Security: A Team Effort"
+            url: sharepoint-security-a-team-effort.md
+          - text: "Basic Security Set Up for Microsoft 365"
+            url: basic-security-set-up-for-microsoft-365.md
+          - text: "Managing External Guests in SharePoint vs Teams"
+            url: managing-external-guest-in-SharePoint-vs-Teams.md
+          - text: The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1
+            url: power-platform-DLP-policies-you-should-be-considering-on-Day-1.md
+
+  # Card (optional)
+  - title: In Preview
+    linkLists:
+      - linkListType: concept
+        links:
+          - text: Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces
+            url: yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces.md
 
   # Card (optional)
   - title: References
@@ -140,5 +204,3 @@ landingContent:
             url: https://sharepoint.uservoice.com/
           - text: Learn how to be a Community Contributor
             url:  https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/README.md
-          
-

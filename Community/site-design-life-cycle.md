@@ -2,11 +2,14 @@
 title: Using Site Designs to Manage Project Life Cycles
 ms.date: 3/3/2020
 author: sympmarc
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: "Using Site Designs to Manage Project Life Cycles"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
+
 # Using Site Designs to Manage Project Life Cycles
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
