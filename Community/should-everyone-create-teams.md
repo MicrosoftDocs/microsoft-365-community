@@ -13,6 +13,8 @@ ms.collection: M365Community
 
 # Should everyone create Teams? A Low Code Provisioning solution
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 This article shall shed a light on two aspects of Modern Workplace: Microsoft Teams Provisioning using a low-code solution while ensuring that Teams Owners are digitally literate enough to be responsible owners.
 
 Uncle Ben was right: With great power comes great responsibility. If we give users great tools with great power, we also need to make sure to properly skill them up. We also need a lean process to deal with common asks.

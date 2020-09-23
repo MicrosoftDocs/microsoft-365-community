@@ -14,6 +14,13 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
+Replace the following values in the metadata section above:
+
+- title: [The Title of Your Article]
+- author: [your GitHub handle]
+- description: [The Title of Your Article and/or a little more detail - one line]
+
+
 ## Subtitle
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dignissim erat…

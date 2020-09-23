@@ -12,6 +12,8 @@ ms.collection: M365Community
 
 # Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 Outlook Spaces is now officially in preview and like many others, I wondered which place in Microsoft 365 it has and how users can benefit from it.
 
 ## What is Outlook Spaces

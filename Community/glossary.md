@@ -4,7 +4,7 @@ ms.date: 9/2/2020
 author: sympmarc
 ms.reviewer: jhendr
 ms.author: jhendr
-ms-service: o365-solutions
+ms.prod: microsoft-365
 localization_priority: 
 description: "SharePoint Usage Glossary"
 ms.collection: M365Community

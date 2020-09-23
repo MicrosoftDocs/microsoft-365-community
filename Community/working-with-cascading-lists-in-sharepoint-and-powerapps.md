@@ -11,6 +11,8 @@ ms.collection: M365Community
 
 # Working with Cascading Lists in SharePoint and Power Apps
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 This example shows how you can cascade SharePoint lists and only show a subset of the data.
 
 ![Working with Cascading Lists in SharePoint and Power App](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-lists-in-sharepoint.gif)
