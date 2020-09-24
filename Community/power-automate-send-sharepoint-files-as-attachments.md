@@ -40,27 +40,27 @@ https://docs.microsoft.com/en-us/power-automate/
 
 In our SharePoint team site we have a Contracts folder, inside this folder we have our partners and customers as subfolders. 
 
-![image](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment01.png)
+![Contract folder in Library](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment01.png)
 
 The contract files are located inside the customer/partner folder as below
 
-![image](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment02.png)
+![Files inside a contract](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment02.png)
 
 Using the library menu | click Automate | Power Automate | Create a flow
 
-![image](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment03.png)
+![Creating a new Flow](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment03.png)
 
 The flow we are building is an Instant Flow, in the dialog click "See your flows" to navigate to the Flow editor page
 
-![image](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment04.png)
+![Flow templates](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment04.png)
 
 Choose to create a new flow | Instant - from blank
 
-![image](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment05.png)
+![Create a new Instant flow from blank](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment05.png)
 
 Name your flow and choose to "For a selected file" as trigger then click Create
 
-![image](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment06.png)
+![Trigger action 'For a selected file'](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment06.png)
 
 
 Whenever the flows runs we need some data from the end users, in this case "Recipient Name" and "Recipient Email" then we will create two variables:
@@ -71,16 +71,16 @@ Whenever the flows runs we need some data from the end users, in this case "Reci
 	- AttachmentsArray | this is the array where we will put all files to be sent
 
 
-![image](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment07.png)
+![Trigger inputs](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment07.png)
 
 The next step is to grab the data of the item that started the flow, that way we can verify if the "item" that started the workflow is either a file or a folder.
 
-![image](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment08.png)
+![Condition step to verify if item is folder](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment08.png)
 
 
 If folder is "true", we will then append the folder name to our variable "FolderName", and use this in the next action to grab all the files properties in the current folder
 
-![image](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment09.png)
+![Append data to Folder Name variable, get all files in current folder](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment09.png)
 
 
 We will then use "Apply to each" to append the files content to our Attachment array variable, the trick her is to append the right content, thanks to this guide at the Flow forums by Sunay Vaishnav, I finally managed to get this working. 
@@ -94,7 +94,7 @@ As pr. this writing, the working way to append SharePoint files to attachment ar
   "ContentBytes": @{body('Get_file_content')?['body']}
 }
 ```
-![image](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment10.png)
+![Get each file content, and append to Attachments array variable](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment10.png)
 
 The final action is the "Send email (V2)" action, you will need to populate the actions with the following input:
 
@@ -104,19 +104,19 @@ The final action is the "Send email (V2)" action, you will need to populate the 
 	- From (send as) | user who started the flow
 
 
-![image](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment11.png)
+![Send email action](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment11.png)
 
 
 The whole Flow should look something like this:
 
-![image](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment12.png)
+![Final Flow with all steps](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment12.png)
 
 
 All done Save, Test and Share with your users
 
 The recipient should receive an email with the files attached
 
-![image](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment13.png)
+![The email sent to recipient](media/power-automate-send-sharepoint-files-as-attachments/powerautomate-sendasattachment13.png)
 
 
 ---
