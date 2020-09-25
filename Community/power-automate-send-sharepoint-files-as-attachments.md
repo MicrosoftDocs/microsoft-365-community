@@ -81,7 +81,7 @@ We will then use "Apply to each" to append the files' content to our Attachment 
 
 As of this writing, the bast way to append SharePoint files to an attachment array is:
 
-``` json
+``` javascript
 {
   "Name": @{items('Apply_to_each')?['{FilenameWithExtension}']},
   "ContentBytes": @{body('Get_file_content')?['body']}
