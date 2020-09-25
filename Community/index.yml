@@ -154,6 +154,8 @@ landingContent:
             url: working-with-cascading-lists-in-sharepoint-and-powerapps.md
           - text: Document Lifecycle Scenarios
             url: document-lifecycle-scenarios.md
+          - text: Power Automate - Send SharePoint files as attachments
+            url: power-automate-send-sharepoint-files-as-attachments.md
 
   # Card (optional)
   - title: Automation
