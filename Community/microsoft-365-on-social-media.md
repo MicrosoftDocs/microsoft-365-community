@@ -40,6 +40,7 @@ If you're having general issues with Microsoft 365, be sure to check the [Micros
 |---|---|
 |[#Microsoft365](https://twitter.com/hashtag/Microsoft365)|[@Microsoft365](https://twitter.com/Microsoft365)|
 |[#MicrosoftDocs](https://twitter.com/hashtag/MicrosoftDocs)|[@docsmsft](https://twitter.com/docsmsft)|
+|[#MicrosoftSearch](https://twitter.com/hashtag/MicrosoftSearch)|[@MicrosoftSearch](https://twitter.com/MicrosoftSearch)|
 |[#MicrosoftLearn](https://twitter.com/hashtag/MicrosoftLearn)|[@MicrosoftLearn](https://twitter.com/MicrosoftLearn)|
 |[#M365CommDocs](https://twitter.com/hashtag/M365CommDocs)|[@M365CommDocs](https://twitter.com/M365CommDocs)|
 |[#MSUSPartner](https://twitter.com/hashtag/MSUSPartner)|[@MSUSPartner](https://twitter.com/MSUSPartner)|
@@ -65,9 +66,11 @@ If you're having general issues with Microsoft 365, be sure to check the [Micros
 
 |Hashtag|Official Account|
 |---|---|
-|[#SharePoint](https://twitter.com/hashtag/SharePoint), [#SharePointSpaces](https://twitter.com/hashtag/SharePointSpaces), [#ProjectCortex](https://twitter.com/hashtag/ProjectCortex)|[@SharePoint](https://twitter.com/SharePoint)|
-|[#MicrosoftLists](https://twitter.com/hashtag/MicrosoftLists)||
+|[#SharePoint](https://twitter.com/hashtag/SharePoint), [#SharePointSpaces](https://twitter.com/hashtag/SharePointSpaces)|[@SharePoint](https://twitter.com/SharePoint)|
+|[#ProjectCortex](https://twitter.com/hashtag/ProjectCortex), [#Syntex](https://twitter.com/hashtag/Syntex)|[@SharePoint](https://twitter.com/SharePoint)|
+|[#MicrosoftLists](https://twitter.com/hashtag/MicrosoftLists), [#ProjectNucleus](https://twitter.com/hashtag/ProjectNucleus)|[@SharePoint](https://twitter.com/SharePoint)|
 |[#OneDrive](https://twitter.com/hashtag/OneDrive)|[@OneDrive](https://twitter.com/onedrive)|
+|[#MicrosoftStream](https://twitter.com/hashtag/MicrosoftStream)|[@MicrosoftStream](https://twitter.com/MicrosoftStream)|
 
 ## Office Suite
 
@@ -90,6 +93,7 @@ If you're having general issues with Microsoft 365, be sure to check the [Micros
 |[#PowerVirtualAgents](https://twitter.com/hashtag/PowerVirtualAgents)|[@MSPowerVirtual](https://twitter.com/MSPowerVirtual)|
 |[#CommonDataService](https://twitter.com/hashtag/CommonDataService)||
 |[#AIBuilder](https://twitter.com/hashtag/AIBuilder)||
+|[#ProjectOakdale](https://twitter.com/hashtag/ProjectOakdale)||
 
 ## Other Apps
 
