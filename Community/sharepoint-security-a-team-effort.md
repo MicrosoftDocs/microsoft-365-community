@@ -2,10 +2,12 @@
 title:  "Managing SharePoint Online Security: A Team Effort"
 ms.date: 6/27/2020
 author: veronicageek
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: "Managing SharePoint Online Security: A Team Effort"
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 
 # Managing SharePoint Online Security: A Team Effort

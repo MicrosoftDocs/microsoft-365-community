@@ -2,10 +2,12 @@
 title: Information Architecture - Managed Metadata versus Lookup columns
 ms.date: 3/3/2020
 author: sympmarc
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: "Information Architecture - Managed Metadata versus Lookup columns"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 # Information Architecture - Managed Metadata versus Lookup columns
 

@@ -2,10 +2,12 @@
 title: Identifying Your SharePoint Champions
 ms.date: 3/22/2020
 author: eemancini
-ms.reviewer: Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: Identifying influencers in your organization to help support SharePoint and Office 365 initiatives through feedback, change management support, and self-service opportunities.
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
  
 # Identifying Your SharePoint Champions
@@ -55,6 +57,11 @@ In the Admin Portal there are [Usage Reports](https://admin.microsoft.com/Adminp
 > [!TIP]
 > This is commonly where people begin and quickly end their search for SharePoint champions. To get the most valuable feedback you will need to look further than just your top users. What about users with incredibly low usage in a department that you know has fully adopted SharePoint as a solution? Finding out why it is not working for them can be more valuable than hearing the same positives of why it is working for their team members.
 
+## Resources to learn more
+
+- [The Microsoft 365 Maturity Model – Introduction](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
+- [Why SharePoint Training is Important](https://docs.microsoft.com/microsoft-365/community/why-sharepoint-training-is-important)
+- [Empowering Your SharePoint Champions](https://docs.microsoft.com/microsoft-365/community/empowering-your-sharepoint-champions)
 
 ---
 

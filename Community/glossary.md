@@ -1,11 +1,13 @@
 ---
 title: SharePoint Usage Glossary
-ms.date:  8/10/2020
+ms.date: 9/2/2020
 author: sympmarc
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.prod: microsoft-365
 localization_priority: 
 description: "SharePoint Usage Glossary"
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 
 # Microsoft 365 Glossary
@@ -30,9 +32,15 @@ See [SharePoint Framework](#sharepoint-framework)
 
 ### Application Lifecycle Management (ALM)
 
+Set of standards and processes to analyze, design, build, test and deploy a software solution. Modern ALM typically is an iterative process which allows for the incremental improvement and development and implementation of application features.
+
 ### Azure Information Protection (AIP)
 
+A cloud solution that supports labeling of documents and emails to classify and protect information. Labeled items can be protected by encryption, marked with a watermark or restricted to specific actions or users and is bound to the item. This cloud based solution relies on Azure Rights Management Service (RMS) for enforcing restrictions.
+
 ## B
+
+### Business Data Services (BDS)
 
 ## C
 
@@ -68,7 +76,6 @@ See [SharePoint Framework](#sharepoint-framework)
 
 [Microsoft Common Data Service](https://powerplatform.microsoft.com/common-data-service/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Common Data Service enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
 
-
 ### Communication Site
 
 A Communication Site is generally used to communicate from a smaller group to a larger group. For this reason, Communication Sites are often used in Intranets.
@@ -89,13 +96,15 @@ Improving specific aspects of SharePoint functionality by changing settings thro
 
 ### Data Loss Prevention (DLP)
 
-A set of policies for identifying, alerting and securing sensitive information types found in content across the Microsoft 365 platform. 
+A set of policies for identifying, alerting and securing sensitive information types found in content across the Microsoft 365 platform.
 
 ### Disaster Recovery (DR)
 
 The planning and practice of ensuring systems are available when a disaster occurs or that they can be restored as quickly as possible.
 
 ## E
+
+### eDiscovery
 
 ### Enterprise Content Types
 
@@ -127,11 +136,13 @@ A Group in SharePoint can generally refer to one of three things. It may mean:
 
 #### SharePoint Group
 
-  A container to organize users and other security groups. A SharePoint group can be assigned permission levels on an object such as a site, a library or library, a folder or a document (or page, or item). Generally only a Site Owner can manage who is in a SharePoint Group.
+  A container to organize users and other security groups. A SharePoint group can be assigned permission levels on an object such as a site, a list or library, a folder or a document (or page, or item). Generally only a Site Owner can manage who is in a SharePoint Group.
 
-#### Office Group
+#### Microsoft 365 Group
+  
+A Microsoft 365 Groups is a concept which lets the members of the Group easily collaborate. It provides a collection of resources such as a shared Outlook mailbox including a shared calendar, a SharePoint [Team site](#team-site) with a document library and a Notebook, as well as a Planner Board, a Power BI workspace and a Stream Video portal.
 
-  An Office 365 Group is a concept within Office 365 that allows users can be members of, which has it's own e-mail address, and can be associated to a Microsoft Teams team, or a SharePoint Site. A Microsoft Teams Team automatically creates an Office 365 Group. These can be public where anyone can join, or Private when you need to be invited or given a code to join. Permissions are simplified to only "Owners" or "Members".
+A Group is the foundation of a Microsoft Teams Team. A Team gives users within that Group channels to collaborate in the context that is relevant to their work and the ability to have scheduled and ad-hoc meetings. Teams can be public (they can be accessed by everyone inside of the organization), private (users need to be invited explicitly) or org-wide (everyone in the organization is automatically a member of this team). Roles and permissions are simplified to Owner (create, delete, manage memberships), Member (collaborate, create channels and add tabs) and Guest. Guests are outside of the organization and need to be added explicitly as an External User, otherwise they can't see nor access a Team. They can only work in the structure provided to them, which means they can't add tabs, apps or channels.
   
 #### Security Group
 
@@ -187,7 +198,7 @@ A library, typically used as a Document Library is a type of list where document
 
 ### Licensing
 
-Office 365 offers multiple licensing options (Kiosk, F1, E1, etc.), each of which turns on a different basket of capabilities for the user to whom the license is assigned.
+Microsoft 365 offers multiple licensing options (Kiosk, F1, E1, etc.), each of which turns on a different basket of capabilities for the user to whom the license is assigned.
 
 ### List
 
@@ -233,7 +244,7 @@ On premises refers to running servers yourself, whether they are in your physica
 
 ### OneDrive PC Folder Backup
 
-This capability was originally called [Known Folder Move (KFM)](#known-folder-move-kfm). It allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost. 
+This capability was originally called [Known Folder Move (KFM)](#known-folder-move-kfm). It allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost.
 
 ### Out of the box
 
@@ -269,17 +280,19 @@ Using PowerApps, you can quickly build custom business apps that connect to your
 
 ### Power Automate
 
-Power Automate is a low-code/no-code workflow platform that helps you create automated workflows between your favorite apps and services to synchronize files, get notifications, collect data and more. 
+Power Automate is a low-code/no-code workflow platform that helps you create automated workflows between your favorite apps and services to synchronize files, get notifications, collect data and more.
 
 Power Automate provides a means to quickly automate your workflows, enable business logic to simplify app building, and model your processes across connected data sources and services.
 
 ### Power BI
 
-Power BI is Microsofts Business Intelligence and Reporting applicaiton. It allows you to connect and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that’s easy to use and helps you gain deeper data insight.
+Power BI is Microsoft's Business Intelligence and Reporting application. It allows you to connect and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that’s easy to use and helps you gain deeper data insight.
 
 Power BI provides a simple, intuitive, easy to use experience for end users to create their own reports and dashboards.
 
 ### Power Platform Data Loss Prevention
+
+A set of policies that can be applied to the Power Platform tenant or environment to prevent data leakage by grouping connectors deemed for business or personal use to be used together. Additionally, connectors can be blocked from any use and new connectors can be added by default to the business, personal, or blocked group as needed. Custom connectors can also be classified at the environment level.
 
 ### PowerShell
 
@@ -293,9 +306,9 @@ A Power Platform Environment is a container that administrators can use to manag
 
 There are multiple types of environments that an organization can create (Developer, Sandbox, Production). The type indicates the purpose of the environment and determines its characteristics.
 
-### Power Virtual Agents
+### Power Virtual Agents (PVA)
 
-Power Virtual Agents empowers organizations to create powerful bots using a guided, no-code graphical interface without the need for data scientists or developers.
+Power Virtual Agents (PVA) empowers organizations to create powerful bots using a guided, no-code graphical interface without the need for data scientists or developers.
 
 Using Power Virtual Agents, you can:
 
@@ -308,7 +321,6 @@ Using Power Virtual Agents, you can:
 [Project Oakdale](https://powerapps.microsoft.com/blog/introducing-microsoft-dataflex-a-new-low-code-data-platform-for-microsoft-teams/) is a built-in, low-code data platform for Microsoft Teams, and provides relational data storage, rich data types, enterprise grade governance, and one-click solution deployment for Power App solutions built for, and within Microsoft Teams.
 
 Project Oakdale is built upon Common Data Service, and provides a 'lite' version equivalent, for free, under the existing licensing requirements of Microsoft 365.
-
 
 ## Q
 
@@ -443,7 +455,7 @@ The most common settings we use in views allow us to:
 
 ### View Formatting
 
-View Formatting is a SharePoint feature that allows users to customize the display of rows in Lists using JSON code. Like [Column Formatting](#column-formatting), colors, icons, images and other elements are used to highlight content and improve the user experience. 
+View Formatting is a SharePoint feature that allows users to customize the display of rows in Lists using JSON code. Like [Column Formatting](#column-formatting), colors, icons, images and other elements are used to highlight content and improve the user experience.
 
 ## W
 

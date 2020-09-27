@@ -2,11 +2,14 @@
 title: Can Machine Learning be used to assign managed metadata attributes for items?
 ms.date: 3/3/2020
 author: bhall999
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: machine-learning
 localization_priority: 
 description: "Can Machine Learning be used to assign managed metadata attributes for items?"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
+
 # Can Machine Learning be used to assign managed metadata attributes for items?
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]

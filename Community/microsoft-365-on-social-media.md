@@ -1,11 +1,13 @@
 ---
 title: Follow Microsoft 365 on Social Media
 ms.date: 8/23/2020
-author: Christophe Humbert
-ms.reviewer: 
+author: PathToSharePoint
+ms.reviewer: jhendr
+ms.author: jhendr
+ms-service: o365-solutions
 localization_priority: 
 description: Useful links to help you follow the Microsoft 365 community on social media
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Follow Microsoft 365 on Social Media
@@ -27,11 +29,12 @@ Social media also give you direct access to expertise. Use one of the help tags 
 > [!TIP]
 > Use a Power Automate template to track tweets related to your topics of interest.
 
-
 >[!NOTE]
 >Note: references to Azure and Dynamics 365 are beyond the scope of this document.
 
 ## General
+
+If you're having general issues with Microsoft 365, be sure to check the [Microsoft 365 Service health status](https://status.office365.com/) page and/or follow [@MSFT365Status](https://twitter.com/MSFT365Status) for information about any known service incidents.
 
 |Hashtag|Official Account|
 |---|---|
@@ -120,20 +123,21 @@ TBD
 
 ## Events and User Groups
 
-|Hashtag|Date|
-|---|---|
-|[#MSBizAppsSummit](https://twitter.com/hashtag/MSBizAppsSummit)|Spring|
-|[#MSInspire](https://twitter.com/hashtag/MSInspire)|May|
-|[#MSBuild](https://twitter.com/hashtag/MSBuild)|May|
-|[#MSIgnite](https://twitter.com/hashtag/MSIgnite)|September|
-|[#M365UserGroup](https://twitter.com/hashtag/M365UserGroup)|Year long|
-|[#PowerBIUserGroup](https://twitter.com/hashtag/PowerBIUserGroup)|Year long|
-|[#M365Saturday](https://twitter.com/hashtag/M365Saturday)|Year long|
-
+| Account |Hashtag|Date|
+|---|---|---|
+|[@SPS_Events](https://twitter.com/SPS_Events)|[#SPSEvents](https://twitter.com/hashtag/SPSEvents)| Saturdays, globally ||
+||[#MSBizAppsSummit](https://twitter.com/hashtag/MSBizAppsSummit)|Spring|
+||[#MSInspire](https://twitter.com/hashtag/MSInspire)|May|
+||[#MSBuild](https://twitter.com/hashtag/MSBuild)|May|
+|[@MS_Ignite](https://twitter.com/MS_Ignite)|[#MSIgnite](https://twitter.com/hashtag/MSIgnite)|September|
+||[#M365UserGroup](https://twitter.com/hashtag/M365UserGroup)|Year long|
+||[#PowerBIUserGroup](https://twitter.com/hashtag/PowerBIUserGroup)|Year long|
+||[#M365Saturday](https://twitter.com/hashtag/M365Saturday)|Year long|
 
 ## Environments
 
 The following tags are used in combination with product tags to identify information specific to a national cloud platform.
+
 |Hashtag|
 |---|
 |[#GCC](https://twitter.com/hashtag/GCC)|
@@ -143,12 +147,18 @@ The following tags are used in combination with product tags to identify informa
 
 ## Notable Twitter Accounts
 
-Below a list of twitter accounts that often post about Microsoft 365 and have more than 20k followers.\
-[@maryjofoley](https://twitter.com/maryjofoley),
-[@DonaSarkar](https://twitter.com/DonaSakar)
+Below a list of twitter accounts that often post about Microsoft 365 and can be considered authoritative.
+
+### Microsoft
+
+- [@DonaSarkar](https://twitter.com/DonaSakar)
+- [@JeffTeper](https://twitter.com/jeffteper)
+- [@MKashman](https://twitter.com/mkashman)
+
+### Other
+
+- [@maryjofoley](https://twitter.com/maryjofoley)
 
 ---
 
 **Principal author**: [Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/)
-
----

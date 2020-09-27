@@ -1,16 +1,25 @@
 ---
 title: Template
-ms.date: 3/13/2020
-author: JoanneHendrickson
-ms.reviewer:  jhendr
+ms.date: 9/02/2020
+author: sympmarc
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.prod: microsoft-365
 localization_priority: 
 description: template for creating content
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Main title
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
+Replace the following values in the metadata section above:
+
+- title: [The Title of Your Article]
+- author: [your GitHub handle]
+- description: [The Title of Your Article and/or a little more detail - one line]
+
 
 ## Subtitle
 

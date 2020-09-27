@@ -1,14 +1,20 @@
 ---
-title: The Microsoft 365 Maturity Model – Communication Competency
+title: Maturity Model for Microsoft 365 – Communication Competency
 ms.date: 8/5/2020
 author: sympmarc
-ms.reviewer:  Joanne Hendrickson
-localization_priority: 
-description: The Microsoft 365 Maturity Model - Communication Competency
-ms.collection: SPCommunity
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: o365-solutions
+localization_priority:
+description: Maturity Model for Microsoft 365 - Communication Competency
+ms.collection: M365Community
 ---
 
-# The Microsoft 365 Maturity Model - Communication Competency
+# Maturity Model for Microsoft 365 - Communication Competency
+
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
+![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview of the Concepts [tl;dr]
 
@@ -40,11 +46,13 @@ Every organization can choose how best to use the Microsoft 365 platform for com
 
 ## Evolution of this competency
 
+See the Maturity [Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
+
 ### Level 100
 
 This is the starting level for a new or untried process. As with all 100 level characteristics, practices may be somewhat effective, but they don’t take advantage of the power of the platform, nor do they take into account the multiple use cases which exist in even the smallest and simplest organization. Typically, they are undocumented and in a state of dynamic change, tending to be driven in an ad hoc, uncontrolled, and reactive manner by users or events. This provides a chaotic or unstable environment for the processes.
 
-**Initial level communication** characteristics include:
+**[Initial level](microsoft365-maturity-model--intro.md#initial)** characteristics include:
 
 #### Governance & Security
 
@@ -81,7 +89,7 @@ At this level you can expect the following:
 
 Processes are documented or managed by a central group to enable (but not enforce) the preferred ways of communicating. Some processes are repeatable, possibly with consistent results. Process discipline is unlikely to be rigorous, but where it exists it may help to ensure that existing processes are maintained during times of stress.
 
-**Repeatable level communication** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#repeatable)** characteristics include:
 
 #### Governance & Security
 
@@ -111,7 +119,7 @@ At this level, communications often don’t follow expected layouts, style, and 
 
 The process is well defined and agreed as a standard business process. There are sets of defined and documented standard processes established, signed off, and subject to some degree of improvement over time. The processes may not have been systematically or repeatedly used to the extent needed for their users to become fully competent or the process to be validated in a range of situations. This could be considered a developmental stage - with use in a wider range of conditions and user competence development the process can develop to next level of maturity.
 
-**Defined level communication** characteristics include:
+**[Defined level](microsoft365-maturity-model--intro.md#defined)** characteristics include:
 
 #### Governance & Security
 
@@ -144,7 +152,7 @@ Users experience  consistency in core communication and know where to go for spe
 
 The communication process is actively managed in accordance with agreed processes, and the governance is well-defined, widely understood, and followed. Metrics are in place to track communication effectiveness.
 
-**Managed level communication** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#managed-capable)** characteristics include:
 
 #### Governance & Security
 
@@ -176,7 +184,7 @@ At this level, users have a high degree of trust in organizational communication
 
 Management of the communication process includes deliberate and systematic process improvement and optimization. There is a focus on continually improving communications through both incremental and innovative technological changes or improvements. Level 500 is likely to include automation, reduction in manual tasks and associated variability, strong governance and compliance interventions, as well as optimization for user interactions and productivity.
 
-**Optimizing level communication** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#optimizing-efficient)** characteristics include:
 
 #### Governance & Security
 
@@ -269,5 +277,5 @@ Principal authors:
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy](https://www.linkedin.com/in/simondoy/)
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
-- [Emily Mancini]( https://www.linkedin.com/in/eemancini/)
+- [Emily Mancini](https://www.linkedin.com/in/eemancini/)
 - [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit/)

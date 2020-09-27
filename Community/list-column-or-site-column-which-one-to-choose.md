@@ -2,11 +2,14 @@
 title: List columns or Site columns Which one to choose?
 ms.date: 3/3/2020
 author: veronicageek
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: "List columns or Site columns: Which one to choose?"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
+
 # List columns or Site columns: Which one to choose?
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]

@@ -2,11 +2,14 @@
 title: Versioning in SharePoint
 ms.date: 7/01/2020
 author: PatD
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: "Versioning in SharePoint"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
+
 # Versioning in SharePoint
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
@@ -55,10 +58,10 @@ In both products, Version History opens in a modal dialog box, with options to V
 
 Historically, versioning is not enabled by default at the creation of a list or library.  Recently, SharePoint Online has started enabling it by default in libraries when they're created.
 
-|            | Online                 | On-Premises             |
-| ----------| ---------------------- | ---------------------- |
-| Lists     | Not enabled at creation | Not enabled at creation |
-| Libraries  | Enabled at creation (and set to 500 versions)   | Not enabled at creation |
+|What| Online| On-Premises|
+|:------| :-----| :-----|
+|Lists| Not enabled at creation| Not enabled at creation |
+|Libraries|Enabled at creation (and set to 500 versions)|Not enabled at creation|
 
 > [!Note]
 > **A Cautionary Tale:**

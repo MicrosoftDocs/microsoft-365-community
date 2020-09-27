@@ -2,13 +2,17 @@
 title: The Evolution of Company-wide Email Communication to SharePoint News
 ms.date: 8/7/2020
 author: eemancini
-ms.reviewer: Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: The Evolution of Company-wide Email Communication to SharePoint News
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 
 # The Evolution of Company-wide Email Communication to SharePoint News
+
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
 Since the advent of email, the most common way most organizations have shared news and updates to the entire organization at once has been through emails to a org-wide distribution list. As Microsoft 365 continues to expand capabilities and offers us multiple communication channels to use, it may be time to shift your communication strategy to leverage alternate solutions like SharePoint news to increase employee engagement.
 

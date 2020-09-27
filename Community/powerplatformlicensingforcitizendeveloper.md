@@ -2,11 +2,14 @@
 title: Understanding Power Platform Licensing
 ms.date: 3/16/2020
 author: bigpix2000
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: power-platform
 localization_priority: 
 description: "Understanding Power Platform Licensing"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
+
 # Understanding Power Platform Licensing
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
@@ -95,7 +98,7 @@ The following set of points discuss the license differences:
     - Does not include CDS capacity
     - Does not include access to on premises services via the data gateway
     - Data API limited to 2000 requests per day
-    - No model driven custom apps 
+    - No model driven custom apps
     - No Power Apps portal access
   - Dynamics 365 specific abilities\limitations:
     - Create, read, update Delete Access to Dynamics 365 restricted entities limited to 15 in basic Dynamics 365
@@ -116,7 +119,7 @@ The Power Apps Portal is discussed later in this article.
 
 Power Automate has two main concepts that determine pricing. The first is the ability to **Create** flows where the first main package allows an individual user to create and run unlimited flows for themselves. The second is the ability to **Implement** flows such as in the second pricing block allow for &quot;implementation&quot; of flows to serve unlimited users with the base bundle starting at 5 flows whether they are implemented or not.
 
-The change from October 2019 insofar as API request limits has extra significance with Power Automate as the new pricing rewards heavy use over casual or limited implementation.  Power Automate also includes a Seeded App option in addition to the two main pricing packages. AI Builder was introduced along with Power Virtual Agents and in April 2020 attended RPA (Remote Processing Automation) was introduced as part of the Power Automate functionality adding an additional per user\per month level. Other plans can also use this functionality but would pay for them separately though all of them would still pay separately for unattended operations.   
+The change from October 2019 insofar as API request limits has extra significance with Power Automate as the new pricing rewards heavy use over casual or limited implementation.  Power Automate also includes a Seeded App option in addition to the two main pricing packages. AI Builder was introduced along with Power Virtual Agents and in April 2020 attended RPA (Remote Processing Automation) was introduced as part of the Power Automate functionality adding an additional per user\per month level. Other plans can also use this functionality but would pay for them separately though all of them would still pay separately for unattended operations.
 
 An important concept is that of the &quot;child flow&quot; where one flow may call upon another as part of its business process.  Child flows do not count against flow capacity limits.
 
@@ -175,8 +178,6 @@ The following set of points discuss the license differences:
   - Access to Dynamics 365 restricted entities related to Power Apps and Dynamics license in play
   - CDS use and capacity included with Dynamics 365
   
-
-
 ### Power Virtual Agents
 
 Power Virtual Agents was just released at the start of the year as the latest Power Platform tool that the citizen developer can use to stand up AI chat bot solutions with no code.  As of this article, there are various solutions to integrate them into the Power Apps Portal, Power Automate flow but as far as licensing is concerned, the interaction does not have the same direct impact as the two previously discussed platforms with each other and the Office or Dynamics platform.  This should not be confused with AI Builder which is a separate add in covered in the next section.
@@ -242,28 +243,30 @@ Regardless of what base level is granted for each license, capacity can be added
 These can only be added by tenant administrators with the licensing role.
 
 #### RPA and AI Builder
+
 An important distinction of the additional services is the integration with AI services and RPA.  AI Builder was noted as an Add-on for any service but Microsoft has included an opportunity to consolidate costs for this service by creating a license group on Power Automate that includes 5000 AI Builder credits as well as a attended bot.  It is important to understand the distinction between attended and unattended bots to determine the cost implications as well as to potentially drive the architecture choice for its use.  The definition in the license guide is included here for quick reference:
 
 - Attended bot
-  - Triggered by an explicit user action on their workstation, i.e. a local or remote desktop 
+  - Triggered by an explicit user action on their workstation, i.e. a local or remote desktop
   - Must operate concurrently with the user on the same workstation
-  - Can run more than one discrete process, but each process must be serialized to run sequentially 
-- Unattended bot 
+  - Can run more than one discrete process, but each process must be serialized to run sequentially
+- Unattended bot
   - Runs autonomously without requiring user actuation o Can be deployed on a local or remote desktop, or other virtualized environment
   - Can run more than one discrete process, but each process must be serialized to run sequentially
   - Concurrent instances of a singular process require an additional unattended bot for each instance
 
-In Power Automate, 5,000 personal (as in tied to the flow) service credits are included which is actually a small fraction of the additional capacity bundles which start at 1,000,000 credits for $500 a month at the tenant level (shared with the organization).   
+In Power Automate, 5,000 personal (as in tied to the flow) service credits are included which is actually a small fraction of the additional capacity bundles which start at 1,000,000 credits for $500 a month at the tenant level (shared with the organization).
 
 The alternative to the solutions using RPA or AI builder items are programs developed directly in Azure using the underlying systems behind these features.  The cost may need to potentially be weighed against direct development efforts especially if there is already those projects in production.  Because the "rate" the service credits are used is not published or is likely to change, the best way to control or manage costs will involve observations over time leveraging the Power Platform Admin reports and adjusting capacity or license assignments based on that.  The new individual option makes for a cheaper "entry" point to make this determination of whether to go for tenant wide blocks of a million or individual blocks of 5 thousand.  
-
 
 ## Next Steps
 
 ### Practical considerations for licensing selections for Power Apps and Power Automate
+
 Taken at face value, there has been a tendency to believe that the changes lead to significantly higher costs or loss of functionality should previously selected connectors fail to operate. Guidance in this area requires that the aspects behind Flows in Power Automate are understood in context of usage especially how a Flow is triggered.
 
 #### Trigger Types
+
 There are two types of triggers that affect usage:
 
 - Automated Flow
@@ -274,13 +277,13 @@ A flow that is triggered by some sort of webhook or polling event is called an *
 
 A flow that's triggered by the end user directly is called an **Instant Trigger Flow**. It runs in the context of the current user. This includes triggers such as "Flow Button", "Power Apps Trigger" and "SharePoint for selected item". When a new user first runs these flows, the dialog appears to ask the user to authenticate connections before running. This auth may be silent if pre-granted by administrator. This flow runs exclusively in that user's context.
 
-With this information in context, the usage type may dictate the license required and/or most cost effective. 
+With this information in context, the usage type may dictate the license required and/or most cost effective.
 
 #### Flow Licensing guidance
 
 1. Use Standard connectors in Office 365 licenses when possible in all cases.  
 
-2. For Automated Triggers - buy a full license for the Flow Owner (Flow Bundle or User) and watch number of runs in case additional API run capacity needs to be purchased. A goal here is to potentially limit the requires licenses to one or two at most. 
+2. For Automated Triggers - buy a full license for the Flow Owner (Flow Bundle or User) and watch number of runs in case additional API run capacity needs to be purchased. A goal here is to potentially limit the requires licenses to one or two at most.
 
 3. For Instant Triggers - buy a full license for each user that will invoke the specific flow if it requires a connector not included with the seeded applications (Office 365, Dynamics) or is premium. The choice point of per user versus Bundle flow will be the cost per flow. This can be the more complex decision as considerations must be made against the cost per user running up against the cost for Flow Bundles which start at 5 and increment by 1.  
 
@@ -308,7 +311,6 @@ Another important situation is for per-user license pieces such as CDS outside o
 
 In one more example, given that a citizen developer creates two Flows (Flow 1 and Flow 2) in an Office 365 E3 environment using a SharePoint form to trigger the first flow (Flow 1) and given that the flow uses the HTTP connector to trigger the second flow (Flow 2 e.g. Graph API REST call) where there are 10 users with permissions to run the form, **only the author** of the flow needs to have the premium\full license rather than a license for each of the 10 SharePoint form users.  If this was an approval workflow where a step included approvals, the people approving would also not need licenses as the flow is considered a single instance through its completion and is, in effect, already paid for.  
 
-
 ### Additional considerations
 
 For the citizen developer, awareness of all aspects can make a big difference when creating and even justifying a solution in the same manner as for a regular developer or solutions architect.  As the saying goes, &quot;Nothing is for free&quot; but deep understanding in this case can at least mitigate much of those costs or at least help put a definitive price tag on those benefits derived from the effort.  It follows from this point and based on recent experience that one must keep up with changes in this area on the same level as changes in capability and functionality within the Power Platform suite.  Tenant administrators get the benefit of notification through the message system in their administration application while others would benefit from setting up alerts or reminders to the Power Platform docs and blogs here and in the community.
@@ -316,13 +318,13 @@ For the citizen developer, awareness of all aspects can make a big difference wh
 As a final note, recall early when it was noted that prices may vary from region to region as well as agreement to agreement.  Variations notwithstanding, the final arbiter of the price will be Microsoft and with that comes the opportunity to confirm arrangements with them directly or through your IT&#39;s Microsoft contact or representative. When dealing with Microsoft do consider that the major change between the older licensing scheme and the current one is that the customer is rewarded for using the system more that those who create the odd Power App or flow very infrequently.  It is the case of buying a car to only use it to bring the beloved pet to the Pet hospital once a quarter for their checkup or to go to work every day – on the latter, there may be wear and tear on the vehicle but there is also very measurable and significant return on investment for the benefit it brings to the household salary.
 
 ## Credits
-Much of the information is based on various Ignite sessions as well as the key licensing document noted earlier.  Additional contributions include John Liu for putting into context they key guidance details that should always accompany any formal discussion of this topic as well as Charles Lamanna (@clamanna) Microsoft CVP for his confirmation response to @singhgurd used in the second example. 
 
-This is living documentation with all updates, confirmations, clarifications, objections and sample scenario contributions welcome! 
- 
+Much of the information is based on various Ignite sessions as well as the key licensing document noted earlier.  Additional contributions include John Liu for putting into context they key guidance details that should always accompany any formal discussion of this topic as well as Charles Lamanna (@clamanna) Microsoft CVP for his confirmation response to @singhgurd used in the second example.
+
+This is living documentation with all updates, confirmations, clarifications, objections and sample scenario contributions welcome!
+
 ---
 
 **Principal author**: [Ralph Rivas](https://www.linkedin.com/in/ralphrivas/)
+
 **Principal contributor**: [John Liu](https://www.linkedin.com/in/johnnliu/)
-
-

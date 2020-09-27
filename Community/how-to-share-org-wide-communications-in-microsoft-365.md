@@ -2,14 +2,18 @@
 title: How to Share Org-Wide Communications in Microsoft 365
 ms.date: 8/13/2020 
 author: eemancini
-ms.reviewer:  Joanne Hendrickson 
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority:  
 description: How to Share Org-Wide Communications in Microsoft 365
-ms.collection: SPCommunity 
+ms.collection: M365Community 
 --- 
 
 
 # How to Share Org-Wide Communication in Microsoft 365
+
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
 Org-wide communication supports employees’ understanding of the organization, sharing timely updates, creating the company culture, driving employee engagement, sending crisis communications, and creating opportunities for discussion, innovation, and feedback. Relying on one communication channel - typically email - to get all these different messages across risks losing your audience to the deluge of emails in their inbox and reduced employee engagement. Within Microsoft 365, organizations have many communications channels to choose from (email, Teams, Yammer, SharePoint), and the best solution in each case will ultimately depend on:
 
@@ -40,7 +44,7 @@ By default, comments are turned on for SharePoint news posts, inviting all emplo
 
 #### Yammer
 
-[Yammer](https://support.microsoft.com/yammer?wt.mc_id=otc_yammer&ui=en-us&rs=en-us&ad=us) excels at supporting serendipitous connections across your organization and creating communities for knowledge sharing, special interest groups, or communities of practice in an informal setting. Yammer communities are self-service and most successful when run independently by interested parties. In an organization with open communication, Yammer is an excellent place to socialize, crowdsource ideas and solutions, informally share updates, increase communication between executives and employees, and break down silos initiating cross-department collaboration.
+[Yammer](https://support.microsoft.com/yammer) excels at supporting serendipitous connections across your organization and creating communities for knowledge sharing, special interest groups, or communities of practice in an informal setting. Yammer communities are self-service and most successful when run independently by interested parties. In an organization with open communication, Yammer is an excellent place to socialize, crowdsource ideas and solutions, informally share updates, increase communication between executives and employees, and break down silos initiating cross-department collaboration.
 
 ### Restricted Communication
 
@@ -72,7 +76,7 @@ The persistent chat in channels supports threads allowing employees to dive deep
 
 ### Large Company
 
-At a larger company, you likely know your team and a small subset of the rest of the organization. New names are appearing in emails and your intranet daily without the context of who-does-what. Having all communications across the company in one channel (email) is incredibly overwhelming and could consume hours. There is a great benefit for larger organizations to divide their company updates between the intranet (and potentially also sent via email), collaboration to Teams, and social to Yammer to allow employees to focus on the tasks at hand. A typical morning may start with an employee navigating to the intranet to see the company news, then shifting to email and Teams to see action items to complete (which often appear within [To Do](https://todosupport.helpshift.com/a/microsoft-to-do/?p=web) or [Planner](https://support.microsoft.com/planner?ui=en-us&rs=en-us&ad=us)). As timely work is completed, an employee may then navigate to Yammer to engage socially with colleagues, share knowledge, or engage in a special interest group.
+At a larger company, you likely know your team and a small subset of the rest of the organization. New names are appearing in emails and your intranet daily without the context of who-does-what. Having all communications across the company in one channel (email) is incredibly overwhelming and could consume hours. There is a great benefit for larger organizations to divide their company updates between the intranet (and potentially also sent via email), collaboration to Teams, and social to Yammer to allow employees to focus on the tasks at hand. A typical morning may start with an employee navigating to the intranet to see the company news, then shifting to email and Teams to see action items to complete (which often appear within [To Do](https://todosupport.helpshift.com/a/microsoft-to-do/?p=web) or [Planner](https://support.microsoft.com/planner)). As timely work is completed, an employee may then navigate to Yammer to engage socially with colleagues, share knowledge, or engage in a special interest group.
 
 ## Audience
 
@@ -121,6 +125,6 @@ To make your org-wide communications more effective, engaging, and actionable, c
 
 ---
 
-**Principal author**: [Emily Mancini, UXC]( https://www.linkedin.com/in/eemancini/)
+**Principal author**: [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini/)
 
 ---

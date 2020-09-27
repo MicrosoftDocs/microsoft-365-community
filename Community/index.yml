@@ -28,10 +28,14 @@ landingContent:
         links:
           - text: Glossary
             url: glossary.md
+          - text: Follow Microsoft 365 on Social Media
+            url: microsoft-365-on-social-media.md
           - text: What is a Site Column?
             url:  what-is-site-column.md
           - text: What is a Content Type?
             url:  what-is-content-type.md
+          - text: Groups in Microsoft 365 and Azure, and Which is Right for You
+            url: all-about-groups.md
 
   # Card (optional)
   - title: Microsoft 365 Better Practices
@@ -42,16 +46,22 @@ landingContent:
             url:  known-folder-move-benefits-for-enduser.md
 
   # Card (optional)
-  - title: Microsoft 365 Maturity Model
+  - title: Maturity Model for Microsoft 365
     linkLists:
       - linkListType: learn
         links:
-          - text: The Microsoft 365 Maturity Model - Introduction
+          - text: Maturity Model for Microsoft 365 - Introduction
             url:  microsoft365-maturity-model--intro.md
-          - text: The Microsoft 365 Maturity Model - Collaboration Competency
+          - text: Maturity Model for Microsoft 365 - Collaboration Competency
             url:  microsoft365-maturity-model--collaboration.md
-          - text: The Microsoft 365 Maturity Model - Communication Competency
+          - text: Maturity Model for Microsoft 365 - Communication Competency
             url:  microsoft365-maturity-model--communication.md
+          - text: Maturity Model for Microsoft 365 – People and Communities Competency
+            url: microsoft365-maturity-model--people-and-communities-competency.md
+          - text: Maturity Model for Microsoft 365 - Search Competency
+            url: microsoft365-maturity-model--search.md
+          - text: Maturity Model for Microsoft 365 - Staff & Training Competency
+            url: microsoft365-maturity-model--staff-and-training.md
 
   # Card (optional)
   - title: SharePoint Better Practices
@@ -98,6 +108,8 @@ landingContent:
         links:
           - text: The Principles of Communication
             url: principles-of-communication.md
+          - text: The Principles of Search
+            url: principles-of-search.md
           - text: The Evolution of Company-wide Email Communication to SharePoint News
             url: evolution-of-company-wide-email-communication-to-sharepoint-news.md
           - text: How to Share Org-Wide Communication in Microsoft 365
@@ -142,6 +154,8 @@ landingContent:
             url: working-with-cascading-lists-in-sharepoint-and-powerapps.md
           - text: Document Lifecycle Scenarios
             url: document-lifecycle-scenarios.md
+          - text: Power Automate - Send SharePoint files as attachments
+            url: power-automate-send-sharepoint-files-as-attachments.md
 
   # Card (optional)
   - title: Automation
@@ -150,6 +164,8 @@ landingContent:
         links:
           - text: Working with modern client-side pages using PnP PowerShell
             url:  working-with-modern-clientside-pages-using-pnp-powershell.md
+          - text: Should everyone create Teams? A Low Code Provisioning solution
+            url: should-everyone-create-teams.md
 
   # Card (optional)
   - title: Security
@@ -164,6 +180,14 @@ landingContent:
             url: managing-external-guest-in-SharePoint-vs-Teams.md
           - text: The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1
             url: power-platform-DLP-policies-you-should-be-considering-on-Day-1.md
+
+  # Card (optional)
+  - title: In Preview
+    linkLists:
+      - linkListType: concept
+        links:
+          - text: Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces
+            url: yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces.md
 
   # Card (optional)
   - title: References

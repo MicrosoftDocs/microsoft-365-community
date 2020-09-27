@@ -2,10 +2,12 @@
 title: OneDrive PC Folder Backup Benefits for End Users
 ms.date: 8/3/2020
 author: jimmyhang
-ms-reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: one-drive
 localization_priority: 
 description: OneDrive PC Folder Backup Benefits for End Users
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # OneDrive PC Folder Backup Benefits for End Users
@@ -31,7 +33,7 @@ OneDrive PC Folder Backup is a OneDrive sync feature that works with Windows 7, 
 
 ## How you turn it on
 
-Follow this [Guide]( https://support.office.com/article/back-up-your-documents-pictures-and-desktop-folders-with-onedrive-d61a7930-a6fb-4b95-b28a-6552e77c3057) at Microsoft support.
+Follow this [Guide](https://support.office.com/article/back-up-your-documents-pictures-and-desktop-folders-with-onedrive-d61a7930-a6fb-4b95-b28a-6552e77c3057) at Microsoft support.
 
 ![OneDrive PC Folder Backup Options](media/known-folder-move-benefits-for-endusers/KFM01.png)
 

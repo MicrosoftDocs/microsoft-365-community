@@ -2,11 +2,14 @@
 title: What is a content type?
 ms.date: 3/3/2020
 author: sympmarc
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: jhendr
+ms.author: jhendr
+ms.service: sharepoint-online
 localization_priority: 
 description: "What is a content type?"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
+
 # What is a Content Type?
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
