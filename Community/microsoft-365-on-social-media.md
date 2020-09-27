@@ -127,16 +127,16 @@ TBD
 
 ## Events and User Groups
 
-| Account |Hashtag|Date|
+|Hashtag| Account |Date|
 |---|---|---|
-|[@SPS_Events](https://twitter.com/SPS_Events)|[#SPSEvents](https://twitter.com/hashtag/SPSEvents)| Saturdays, globally ||
-||[#MSBizAppsSummit](https://twitter.com/hashtag/MSBizAppsSummit)|Spring|
-||[#MSInspire](https://twitter.com/hashtag/MSInspire)|May|
-||[#MSBuild](https://twitter.com/hashtag/MSBuild)|May|
-|[@MS_Ignite](https://twitter.com/MS_Ignite)|[#MSIgnite](https://twitter.com/hashtag/MSIgnite)|September|
-||[#M365UserGroup](https://twitter.com/hashtag/M365UserGroup)|Year long|
-||[#PowerBIUserGroup](https://twitter.com/hashtag/PowerBIUserGroup)|Year long|
-||[#M365Saturday](https://twitter.com/hashtag/M365Saturday)|Year long|
+|[#SPSEvents](https://twitter.com/hashtag/SPSEvents)|[@SPS_Events](https://twitter.com/SPS_Events)| Saturdays, globally ||
+|[#MSBizAppsSummit](https://twitter.com/hashtag/MSBizAppsSummit)||Spring|
+|[#MSInspire](https://twitter.com/hashtag/MSInspire)||May|
+|[#MSBuild](https://twitter.com/hashtag/MSBuild)||May|
+|[#MSIgnite](https://twitter.com/hashtag/MSIgnite)|[@MS_Ignite](https://twitter.com/MS_Ignite)|September|
+|[#M365UserGroup](https://twitter.com/hashtag/M365UserGroup)||Year long|
+|[#PowerBIUserGroup](https://twitter.com/hashtag/PowerBIUserGroup)||Year long|
+|[#M365Saturday](https://twitter.com/hashtag/M365Saturday)||Year long|
 
 ## Environments
 
