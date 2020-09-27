@@ -86,7 +86,7 @@ If you're having general issues with Microsoft 365, be sure to check the [Micros
 
 |Hashtag|Official Account|
 |---|---|
-|[#PowerPlatform](https://twitter.com/hashtag/PowerPlatform)||
+|[#PowerPlatform](https://twitter.com/hashtag/PowerPlatform)|[@MSPowerPlat](https://twitter.com/MSPowerPlat)|
 |[#PowerApps](https://twitter.com/hashtag/PowerApps)|[@PowerApps](https://twitter.com/PowerApps)|
 |[#PowerAutomate](https://twitter.com/hashtag/PowerAutomate)|[@MSPowerAutomate](https://twitter.com/MSPowerAutomate)|
 |[#PowerBI](https://twitter.com/hashtag/PowerBI), [#DAX](https://twitter.com/hashtag/DAX), [#PowerQuery](https://twitter.com/hashtag/PowerQuery)|[@MSPowerBI](https://twitter.com/MSPowerBI)|
@@ -99,7 +99,6 @@ If you're having general issues with Microsoft 365, be sure to check the [Micros
 
 |Hashtag|Official Account|
 |---|---|
-|[#MicrosoftStream](https://twitter.com/hashtag/MicrosoftStream)|[@MicrosoftStream](https://twitter.com/MicrosoftStream)|
 |[#MSVisio](https://twitter.com/hashtag/MSVisio)|[@msvisio](https://twitter.com/msvisio)|
 |[#MSProject](https://twitter.com/hashtag/MSProject)|[@project](https://twitter.com/project)|
 |[#MSWhiteboard](https://twitter.com/hashtag/MSWhiteboard)||
