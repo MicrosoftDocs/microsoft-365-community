@@ -4,7 +4,7 @@ ms.date: 8/23/2020
 author: PathToSharePoint
 ms.reviewer: jhendr
 ms.author: jhendr
-ms-prod: microsoft-365
+ms.prod: microsoft-365
 localization_priority: 
 description: Useful links to help you follow the Microsoft 365 community on social media
 ms.collection: M365Community
