@@ -29,8 +29,6 @@ Taking a holistic view of the technology and gaining an understanding of current
 
 ## The SharePoint Maturity Model (SPMM)
 
-![SharePoint Maturity Model](media/maturity-model-for-microsoft-365/SPMMSquare.png)
-
 Around the time SharePoint 2010 was released, [Sadie Van Buren](https://www.linkedin.com/in/sadalit/) developed a powerful set of concepts embodied in the SharePoint Maturity Model (SPMM). The basic idea was to give people working with the platform ways to:
 
 - Understand their capabilities along multiple dimensions on a clearly defined scale
@@ -88,11 +86,11 @@ The current target is to deliver:
 - [Communication](microsoft365-maturity-model--communication.md)
 - [People & Communities](microsoft365-maturity-model--people-and-communities-competency.md)
 - [Search](microsoft365-maturity-model--search.md)
+- [Staff & Training](microsoft365-maturity-model--staff-and-training.md)
 - Business Process
 - Apps & Services
 - Insight
 - Administration
-- Expertise & Readiness
 - Development & Customization
 - Content Management
 
