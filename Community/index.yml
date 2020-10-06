@@ -50,18 +50,22 @@ landingContent:
     linkLists:
       - linkListType: learn
         links:
-          - text: Maturity Model for Microsoft 365 - Introduction
+          - text: Introduction
             url:  microsoft365-maturity-model--intro.md
-          - text: Maturity Model for Microsoft 365 - Collaboration Competency
+          - text: Collaboration Competency
             url:  microsoft365-maturity-model--collaboration.md
-          - text: Maturity Model for Microsoft 365 - Communication Competency
+          - text: Communication Competency
             url:  microsoft365-maturity-model--communication.md
-          - text: Maturity Model for Microsoft 365 – People and Communities Competency
+          - text: People and Communities Competency
             url: microsoft365-maturity-model--people-and-communities-competency.md
-          - text: Maturity Model for Microsoft 365 - Search Competency
+          - text: Search Competency
             url: microsoft365-maturity-model--search.md
-          - text: Maturity Model for Microsoft 365 - Staff & Training Competency
+          - text: Staff & Training Competency
             url: microsoft365-maturity-model--staff-and-training.md
+      - linkListType: how-to-guide
+        links:
+          - text: Elevating Staff and Training
+            url: microsoft-maturity-model-how-to-staff-and-training.md
 
   # Card (optional)
   - title: SharePoint Better Practices
