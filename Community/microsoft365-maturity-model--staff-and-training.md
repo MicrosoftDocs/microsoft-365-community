@@ -18,14 +18,14 @@ ms.collection: M365Community
 
 ## Overview of the Concepts [tl;dr]
 
-Implementing new technology solutions requires enablement of the business to use and support them. Involving end users in development conversations and training them on usage of the solutions ensures an organizational understanding of why and how these solutions advance their own needs as well as the needs of the business. Structuring the system support staff to take a consultative approach with the business through repeatable business processes enables long-term collaboration to identify and focus on the most impactful solutions for the business. Creating a steering committee ensures a high-level strategic approach to developing solutions that can prioritize requests from across the business to better align with company goals. This steering committee will also be the primary audience for sharing success stories and knowledge to showcase the returns on investment.
+Implementing new technology solutions requires enabling the business to use and support them. Involving end users in development conversations and training them on usage of the solutions ensures an organizational understanding of why and how these solutions advance their own needs as well as the needs of the business. Structuring the system support staff to take a consultative approach with the business through repeatable business processes enables long-term collaboration to identify and focus on the most impactful solutions for the business. Creating a steering committee ensures a high-level strategic approach to developing solutions that can prioritize requests from across the business to better align with company goals. This steering committee will also be the primary audience for sharing success stories and knowledge to showcase the returns on investment.
 
 ## Definition of this competency
 
 The Staff and Training competency focuses on who will be sustaining the system and how they will engage the business and empower the end users to use the solutions. The organization is focused on developing its people, processes, and therefore its capabilities by implementing quality practices.
 Note: In this article, we refer to IT as the primarily responsible department for the solutions. In your organization this might be a different group, so feel free to mentally substitute, as appropriate. Not all Microsoft 365 roll outs are IT-driven.
 
-### Common Microsoft 365 Toolsets
+### Common Microsoft 365 Tool Sets
 
 - [Microsoft Learn](https://docs.microsoft.com/learn/)
 - [LinkedIn Learning](https://www.linkedin.com/learning)
@@ -109,7 +109,7 @@ Now that the IT support staff has expanded, there are opportunities for the busi
 
 #### Impacts
 
-Once training is viewed as a program, this allows for strategic planning on how to advance the technical literacy of the organization. The training is no longer focused on which buttons to click within a system and instead focuses on changes in behavior or business processes to work more efficiently. For example, a OneNote training would not focus solely on making sections and pages. The training would include productivity tips for how to use OneNote to increase efficiency in meeting notetaking.
+Once training is viewed as a program, this allows for strategic planning on how to advance the technical literacy of the organization. The training is no longer focused on which buttons to click within a system and instead focuses on changes in behavior or business processes to work more efficiently. For example, a OneNote training would not focus solely on making sections and pages. The training would include productivity tips for how to use OneNote to increase efficiency in meeting note taking.
 
 As technical literacy increases, so does the interest from employees outside of IT. Content Owners are taking active roles working with their teams and the system to gather feedback, share with IT, and collaborate on solutions. Training attendees who are not content owners may begin to show a greater interest in the system and seek to be more involved. There still may be some challenges in leadership supporting time spent working with the system for non-IT roles.
 
