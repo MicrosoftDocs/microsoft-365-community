@@ -101,7 +101,6 @@ Now that the IT support staff has expanded, there are opportunities for the busi
 **[Managed level](microsoft365-maturity-model--intro.md#managed-capable)** characteristics include:
 
 - IT has more than one resource knowledgeable on the system.
-- Onboarding and off-boarding is addressed clearly in the training plans.
 - Requests for new functionality are tracked and prioritized.
 - Communication strategy in place for sharing system changes and improvements.
 - Training viewed as a program, not just string of individual system training.
