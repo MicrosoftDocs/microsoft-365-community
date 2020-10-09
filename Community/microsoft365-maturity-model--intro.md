@@ -94,9 +94,11 @@ The current target is to deliver:
 - Development & Customization
 - Content Management
 
-These will be supported by other related articles, such as:
+## Related Articles
 
-- [Principles of Communication](https://docs.microsoft.com/microsoft-365/community/principles-of-communication)
+- [Principles of Communication](principles-of-communication.md)
+- [Principles of Search](principles-of-search.md)
+- [Elevating Staff and Training](microsoft-maturity-model-how-to-staff-and-training.md)
 
 ---
 
