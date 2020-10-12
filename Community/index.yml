@@ -62,6 +62,8 @@ landingContent:
             url: microsoft365-maturity-model--search.md
           - text: Staff & Training Competency
             url: microsoft365-maturity-model--staff-and-training.md
+          - text: Business Process Competency
+            url: microsoft365-maturity-model--business-process.md
       - linkListType: how-to-guide
         links:
           - text: Elevating Staff and Training
