@@ -38,7 +38,7 @@ The Business Process competency focuses on how users in an organization perform 
 
 ## Evolution of this competency
 
-See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro) for definitions of the Maturity Model levels.
+See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
 
 ### Level 100 - Initial
 
