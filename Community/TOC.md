@@ -14,6 +14,7 @@
 ### [People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
 ### [Search Competency](microsoft365-maturity-model--search.md)
 ### [Staff & Training Competency](microsoft365-maturity-model--staff-and-training.md)
+### [Business Process Competency](microsoft365-maturity-model--business-process.md)
 ### [Elevating Staff and Training](microsoft-maturity-model-how-to-staff-and-training.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
