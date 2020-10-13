@@ -234,6 +234,6 @@ Principal authors:
 Contributing authors:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
-- [Simon Doy](https://www.linkedin.com/in/simondoy](https://www.linkedin.com/in/simondoy)/)
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
-- [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini/)
+- [Simon Doy](https://www.linkedin.com/in/simondoy)
+- [Simon Hudson](https://www.linkedin.com/in/simonjhudson)
+- [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini)
