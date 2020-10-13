@@ -87,12 +87,12 @@ The current target is to deliver:
 - [People & Communities](microsoft365-maturity-model--people-and-communities-competency.md)
 - [Search](microsoft365-maturity-model--search.md)
 - [Staff & Training](microsoft365-maturity-model--staff-and-training.md)
-- Business Process
+- [Business Process](microsoft365-maturity-model--business-process.md)
+- Content Management
 - Apps & Services
 - Insight
 - Administration
 - Development & Customization
-- Content Management
 
 ## Related Articles
 
