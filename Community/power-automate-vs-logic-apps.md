@@ -131,6 +131,6 @@ In both products, security should always be considered and determine an appropri
 
 **Principal author** [Paul Bullock, MVP](https://www.linkedin.com/in/pkbullock)
 
-I invite authors with their knowledge in this topic to contribute to this article, sharing your experience.
+I invite authors with their knowledge in this topic to contribute to this article, sharing their experience.
 
 ---
