@@ -13,9 +13,10 @@
 ### [Communication Competency](microsoft365-maturity-model--communication.md)
 ### [People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
 ### [Search Competency](microsoft365-maturity-model--search.md)
-### [Staff & Training Competency](microsoft365-maturity-model--staff-and-training.md)
+### Staff & Training
+#### [Staff & Training Competency](microsoft365-maturity-model--staff-and-training.md)
+#### [Elevating Staff and Training](microsoft-maturity-model-how-to-staff-and-training.md)
 ### [Business Process Competency](microsoft365-maturity-model--business-process.md)
-### [Elevating Staff and Training](microsoft-maturity-model-how-to-staff-and-training.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
 ### [Versioning in SharePoint](versioning-basics-best-practices.md)
@@ -47,6 +48,7 @@
 ### [Understanding Power Platform Licensing](powerplatformlicensingforcitizendeveloper.md)
 ### [Should I store my files in Microsoft Teams or in SharePoint?](should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md)
 ### [Defining a Power Platform Environment Strategy](defining-a-power-platform-environment-strategy.md)
+### [Power Automate vs Logic Apps](power-automate-vs-logic-apps.md)
 ## Useful Scenarios
 ### [Library Scenarios](library-scenarios.md)
 ### [Using Site Designs to Manage Project Life Cycles](site-design-life-cycle.md)

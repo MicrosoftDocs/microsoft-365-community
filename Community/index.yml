@@ -10,9 +10,9 @@ metadata:
   ms.subservice: subservice
   ms.topic: landing-page # Required
   ms.collection: M365-collaboration
-  author: JoanneHendrickson #Required; your GitHub user alias, with correct capitalization.
+  author: jhendr #Required; your GitHub user alias, with correct capitalization.
   ms.author: jhendr #Required; microsoft alias of author; optional team alias.
-  ms.date: 03/13/2020 #Required; mm/dd/yyyy format
+  ms.date: 10/28/2020 #Required; mm/dd/yyyy format
   localization_priority: Priority
 
 # linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | tutorial | video | whats-new
@@ -146,7 +146,7 @@ landingContent:
             url: should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md
           - text: Defining a Power Platform Environment Strategy
             url: defining-a-power-platform-environment-strategy.md
-  
+            
   # Card (optional)
   - title: Useful Scenarios
     linkLists:
