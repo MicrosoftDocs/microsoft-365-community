@@ -8,12 +8,15 @@
 ## Microsoft 365 Better Practices
 ### [OneDrive PC Folder Backup Benefits for End Users](known-folder-move-benefits-for-enduser.md)
 ## Maturity Model for Microsoft 365
-### [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md)
-### [Maturity Model for Microsoft 365 - Collaboration Competency](microsoft365-maturity-model--collaboration.md)
-### [Maturity Model for Microsoft 365 - Communication Competency](microsoft365-maturity-model--communication.md)
-### [Maturity Model for Microsoft 365 - People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
-### [Maturity Model for Microsoft 365 - Search Competency](microsoft365-maturity-model--search.md)
-### [Maturity Model for Microsoft 365 - Staff & Training Competency](microsoft365-maturity-model--staff-and-training.md)
+### [Introduction](microsoft365-maturity-model--intro.md)
+### [Collaboration Competency](microsoft365-maturity-model--collaboration.md)
+### [Communication Competency](microsoft365-maturity-model--communication.md)
+### [People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
+### [Search Competency](microsoft365-maturity-model--search.md)
+### Staff & Training
+#### [Staff & Training Competency](microsoft365-maturity-model--staff-and-training.md)
+#### [Elevating Staff and Training](microsoft-maturity-model-how-to-staff-and-training.md)
+### [Business Process Competency](microsoft365-maturity-model--business-process.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
 ### [Versioning in SharePoint](versioning-basics-best-practices.md)
@@ -45,11 +48,13 @@
 ### [Understanding Power Platform Licensing](powerplatformlicensingforcitizendeveloper.md)
 ### [Should I store my files in Microsoft Teams or in SharePoint?](should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md)
 ### [Defining a Power Platform Environment Strategy](defining-a-power-platform-environment-strategy.md)
+### [Power Automate vs Logic Apps](power-automate-vs-logic-apps.md)
 ## Useful Scenarios
 ### [Library Scenarios](library-scenarios.md)
 ### [Using Site Designs to Manage Project Life Cycles](site-design-life-cycle.md)
 ### [Working with Cascading Lists in SharePoint and Power Apps](working-with-cascading-lists-in-sharepoint-and-powerapps.md)
 ### [Document Lifecycle Scenarios](document-lifecycle-scenarios.md)
+### [Power Automate - Send SharePoint files as attachments](power-automate-send-sharepoint-files-as-attachments.md)
 ## Automation
 ### [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
 ### [Should everyone create Teams? A Low Code Provisioning solution](should-everyone-create-teams.md)

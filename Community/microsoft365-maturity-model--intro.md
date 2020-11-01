@@ -12,6 +12,8 @@ ms.collection: M365Community
 
 # Maturity Model for Microsoft 365 - Introduction
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 ![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview
@@ -26,8 +28,6 @@ Taking a holistic view of the technology and gaining an understanding of current
 - Establish a baseline to show improvement over time
 
 ## The SharePoint Maturity Model (SPMM)
-
-![SharePoint Maturity Model](media/maturity-model-for-microsoft-365/SPMMSquare.png)
 
 Around the time SharePoint 2010 was released, [Sadie Van Buren](https://www.linkedin.com/in/sadalit/) developed a powerful set of concepts embodied in the SharePoint Maturity Model (SPMM). The basic idea was to give people working with the platform ways to:
 
@@ -86,17 +86,19 @@ The current target is to deliver:
 - [Communication](microsoft365-maturity-model--communication.md)
 - [People & Communities](microsoft365-maturity-model--people-and-communities-competency.md)
 - [Search](microsoft365-maturity-model--search.md)
-- Business Process
+- [Staff & Training](microsoft365-maturity-model--staff-and-training.md)
+- [Business Process](microsoft365-maturity-model--business-process.md)
+- Content Management
 - Apps & Services
 - Insight
 - Administration
-- Expertise & Readiness
 - Development & Customization
-- Content Management
 
-These will be supported by other related articles, such as:
+## Related Articles
 
-- [Principles of Communication](https://docs.microsoft.com/microsoft-365/community/principles-of-communication)
+- [Principles of Communication](principles-of-communication.md)
+- [Principles of Search](principles-of-search.md)
+- [Elevating Staff and Training](microsoft-maturity-model-how-to-staff-and-training.md)
 
 ---
 

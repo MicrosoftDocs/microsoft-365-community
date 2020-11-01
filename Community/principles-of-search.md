@@ -14,6 +14,8 @@ ms.collection: SPCommunity
 
 # Introduction - The Principles of Search
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 Great search should be at the heart of all corporate information systems and digital workspaces. The reason is simple, in this information age we all need far more information than any individual can hope to know about. While the human mind is a marvelous thing, it has its limitations and our memory capacity isn't so much limited as adapted for certain types of knowledge retention.; Meanwhile our organizations, industry, and society as a whole are creating new information at a rate far faster that it is possible to absorb. Not only can we not know and recall everything that is important to us, but we often don't know what we we don't know.
 
 The paradox is that personal and organizational productivity is reliant on rapid access to current, authoritative information we need in order to make decisions or work through processes. We know we need it but we don't necessarily know _what_ it is, _where_ it is or even _if_ it exists. Good search fills in this deficiency by providing discovery tools for users; _great_ search does it by removing the burden on users to know how to search or where to search. As others have observed,
@@ -22,7 +24,7 @@ The paradox is that personal and organizational productivity is reliant on rapid
 
 Search relies heavily on several other competencies including cCollaboration and mManagement of cContent; without these being well managed search cannot be highly effective; mature search capabilities within the organization are built on a foundation of mature business processes.
 
-# Why search
+## Why search
 
 People search for many reasons:
 
@@ -51,7 +53,7 @@ As SharePoint gained popularity so did the amount of content stored in the syste
 
 You can keep up to date with Microsoft search here: [https://resources.techcommunity.microsoft.com/microsoft-search/](https://resources.techcommunity.microsoft.com/microsoft-search/)
 
-# Principles of Search
+## Principles of Search
 
 In our thinking about the maturity model for Microsoft 365 we identified common themes, which we have worked into guiding principles for making search magical. Making search magical involves adhering to all these principles.
 
@@ -131,7 +133,7 @@ Great search shouldn't feel like search at all; great User Experience (UX) often
 
 **Search should be effortless**
 
-# Characteristics of magical search
+## Characteristics of magical search
 
 - All systems and tools provide a search option, or have it embedded in the workflow.
 - Searching is across all content in the enterprise regardless of the system that it resides in. Silos occur due to planned control, not technical limitations.

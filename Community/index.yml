@@ -10,9 +10,9 @@ metadata:
   ms.subservice: subservice
   ms.topic: landing-page # Required
   ms.collection: M365-collaboration
-  author: JoanneHendrickson #Required; your GitHub user alias, with correct capitalization.
+  author: jhendr #Required; your GitHub user alias, with correct capitalization.
   ms.author: jhendr #Required; microsoft alias of author; optional team alias.
-  ms.date: 03/13/2020 #Required; mm/dd/yyyy format
+  ms.date: 10/28/2020 #Required; mm/dd/yyyy format
   localization_priority: Priority
 
 # linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | tutorial | video | whats-new
@@ -50,18 +50,24 @@ landingContent:
     linkLists:
       - linkListType: learn
         links:
-          - text: Maturity Model for Microsoft 365 - Introduction
+          - text: Introduction
             url:  microsoft365-maturity-model--intro.md
-          - text: Maturity Model for Microsoft 365 - Collaboration Competency
+          - text: Collaboration Competency
             url:  microsoft365-maturity-model--collaboration.md
-          - text: Maturity Model for Microsoft 365 - Communication Competency
+          - text: Communication Competency
             url:  microsoft365-maturity-model--communication.md
-          - text: Maturity Model for Microsoft 365 – People and Communities Competency
+          - text: People and Communities Competency
             url: microsoft365-maturity-model--people-and-communities-competency.md
-          - text: Maturity Model for Microsoft 365 - Search Competency
+          - text: Search Competency
             url: microsoft365-maturity-model--search.md
-          - text: Maturity Model for Microsoft 365 - Staff & Training Competency
+          - text: Staff & Training Competency
             url: microsoft365-maturity-model--staff-and-training.md
+          - text: Business Process Competency
+            url: microsoft365-maturity-model--business-process.md
+      - linkListType: how-to-guide
+        links:
+          - text: Elevating Staff and Training
+            url: microsoft-maturity-model-how-to-staff-and-training.md
 
   # Card (optional)
   - title: SharePoint Better Practices
@@ -140,7 +146,7 @@ landingContent:
             url: should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md
           - text: Defining a Power Platform Environment Strategy
             url: defining-a-power-platform-environment-strategy.md
-  
+            
   # Card (optional)
   - title: Useful Scenarios
     linkLists:
@@ -154,6 +160,8 @@ landingContent:
             url: working-with-cascading-lists-in-sharepoint-and-powerapps.md
           - text: Document Lifecycle Scenarios
             url: document-lifecycle-scenarios.md
+          - text: Power Automate - Send SharePoint files as attachments
+            url: power-automate-send-sharepoint-files-as-attachments.md
 
   # Card (optional)
   - title: Automation
