@@ -36,6 +36,9 @@ Social media also give you direct access to expertise. Use one of the help tags 
 
 If you're having general issues with Microsoft 365, be sure to check the [Microsoft 365 Service health status](https://status.office365.com/) page and/or follow [@MSFT365Status](https://twitter.com/MSFT365Status) for information about any known service incidents.
 
+> [!IMPORTANT]
+> You can reach out to Microsoft Customer Service & Support directly on twitter: **[@MicrosoftHelps](https://twitter.com/MicrosoftHelps)**.
+
 |Hashtag|Official Account|
 |---|---|
 |[#Microsoft365](https://twitter.com/hashtag/Microsoft365)|[@Microsoft365](https://twitter.com/Microsoft365)|
