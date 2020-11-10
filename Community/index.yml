@@ -106,6 +106,8 @@ landingContent:
             url: large-lists-large-libraries-in-SharePoint.md
           - text: Creating Useful Views for Lists & Libraries
             url: creating-useful-views-in-lists-libraries.md
+          - text: How Do Site Columns Become Managed Properties - Thus Available for Search?
+            url: how-do-site-columns-become-managed-properties-thus-available-for-search.md
 
   # Card (optional)
   - title: Effective Communication

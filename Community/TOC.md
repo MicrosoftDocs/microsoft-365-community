@@ -32,6 +32,7 @@
 ### [Information Architecture - Managed Metadata vs Lookup columns](information-architecture-managed-metadata-vs-lookup-column.md)
 ### [Living Large with Large Lists and Large Libraries](large-lists-large-libraries-in-SharePoint.md)
 ### [Creating Useful Views for Lists & Libraries](creating-useful-views-in-lists-libraries.md)
+### [How Do Site Columns Become Managed Properties - Thus Available for Search?](how-do-site-columns-become-managed-properties-thus-available-for-search.md)
 ## Effective Communication
 ### [The Principles of Communication](principles-of-communication.md)
 ### [The Principles of Search](principles-of-search.md)
