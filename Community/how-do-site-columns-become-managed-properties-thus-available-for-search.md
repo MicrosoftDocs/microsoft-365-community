@@ -31,14 +31,14 @@ Also head over here to read more about [PnP Modern Search Solution](https://micr
 
 A site column can be created generally in two places:
 
-1. In the Contenttype hub, using the Content type hub will make the column available to all sites in your SharePoint Online tenant.
-2. In the Site collection where you will be using the column
+1. In the Content Type Hub - Using the Content Type Hub will make the column available to all sites in your SharePoint Online tenant.
+2. In the Site Collection where you will be using the column
 
-> [!NOTE] this article won't discuss in detail the Information Architecture of when and where to create the site columns, probably content for another article.
+> [!NOTE] this article won't discuss in detail the Information Architecture of when and where to create the site columns.
 
 ### Using What
 
-There is a lot of tools you can use to create a site column
+There are a lot of tools you can use to create a site column
 
 1. Manually clicking in the SharePoint page, this is what we'll be using in this article
 2. Using PnP PowerShell
@@ -80,8 +80,9 @@ The Site column is now ready to be used in the library, and I'll be adding some 
 
 ![Site column available in library view](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch07.png)
 
-Next is to wait for SharePoint Online to do it's magic, in the mean time you can navigate to your tenant [Search Administration](https://tenant-admin.sharepoint.com/_layouts/15/searchadmin/TA_SearchAdministration.aspx) page to review current settings.
-You will need SharePoint Administrator rolle to be able to access this page.
+Next, you need to wait for SharePoint Online to do it's magic. This magic takes the form of the search crawler indexing the column and its values. This generally takes only a few minutes in SharePoint Online, though it can take longer.
+
+In the mean time you can navigate to your tenant [Search Administration](https://tenant-admin.sharepoint.com/_layouts/15/searchadmin/TA_SearchAdministration.aspx) page to review current settings. You will need the SharePoint Administrator role to be able to access this page.
 
 ![Search administration page](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch08.png)
 
@@ -91,27 +92,26 @@ Navigate to Crawled properties and search for your custom column, if the search 
 
 You will then find two crawled properties:
 
-* ows_MyCustomColumnForSearch | this is the one we will use to map to our managed properti for search
-* ows_q_Text_MyCustomColumnForSearch | this is automaticaly created by SharePoint and shouldn't be used
+* ows_MyCustomColumnForSearch | this is the one we will use to map to our managed property for search
+* ows_q_Text_MyCustomColumnForSearch | this is automatically created by SharePoint and shouldn't be used
 
 In SharePoint Online, we're not allowed to create new "Managed Properties" in the Search Schema that are "Refinable" and "Sortable", but Microsoft has created a number of Managed Properties that we can use in order to extend the search experience.
 
-In the managed properties page, search for "refinablestring" or "refinabledate", use refinabledate if your site columns is a DateTime type column.
+In the managed properties page, search for "refinablestring" or "refinabledate". For example, use refinabledate if your site columns is a DateTime type column.
 
 ![Site column available in library view](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch10.png)
 
-Pick the RefinableString that is available, meaning not already mapped to other crawled properties example: "RefinableString01".
-This managed property have everything turned on, queryable, refinable ect.
+Pick the RefinableString that is available, meaning not already mapped to other crawled properties example: "RefinableString01". These managed properties have everything turned on: queryable, refinable, etc.
 
 ![RefinableString01 settings](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch11.png)
 
-Scroll down to the bottom of the page, and map the crawled property to the managed property, then click OK
+Scroll down to the bottom of the page, and map the crawled property to the managed property, then click OK.
 
 ![Mapping of crawled properties to mapped properties](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch12.png)
 
 ![RefinableString01 mapped to crawled property](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch13.png)
 
-After this you will need to wait for the search index to be refreshed with the new Manged Property, to make sure that the index maps your Site Column by the next run, navigate back to your Site, in site settings, choose "Search and offline availability"
+After this you will need to wait for the search index to be refreshed with the new Managed Property. To make sure that the index maps your Site Column by the next run, navigate back to your site, and in site settings, choose "Search and offline availability"
 
 ![Search and offline availability](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch14.png)
 
@@ -119,13 +119,13 @@ Click "Reindex site" then OK, then wait…
 
 ![Search and offline availability](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch15.png)
 
-When the index has been updated you will be able to search for content that has your site column metadata like below..
+When the index has been updated you will be able to search for content that has your site column metadata as shown below.
 
 ![Search by using your new managed property](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch16.png)
 
 ![Search by using your new managed property](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch17.png)
 
-To extend the search experience you can use the [PnP Modern Search web part](https://microsoft-search.github.io/pnp-modern-search/) mentioned above to build your custom search landing page:
+To extend the search experience you can use the [PnP Modern Search Web Parts](https://microsoft-search.github.io/pnp-modern-search/) mentioned above to build your custom search landing page:
 The solution will contain mainly:
 
 * Search box web part
