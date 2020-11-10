@@ -76,11 +76,12 @@ The most effective guidelines are simple and easy to consume supporting quick de
 
 - Review the feedback from the pilot group using Delve and create guidelines for the company on how to complete profiles and use search to locate expertise across the company. Include specifics in your guidelines on how each field will be used at your organization.
 
-For example, if employees are completing the "projects" field, does this include only active projects? What should be included in "skills"? If you are a small start-up, it may be helpful for employees to identify all their skills even if it is not relevant to their current position. Your start-up, with no corporate communications department, may need video editing help and finding an internal resource is the only option due to a limited project budget. If you are a large organization, including skills not specific to employees' roles may cause confusion on who-does-what.
+  * For example, if employees are completing the "projects" field, does this include only active projects? What should be included in "skills"? If you are a small start-up, it may be helpful for employees to identify all their skills even if it is not relevant to their current position. Your start-up, with no corporate communications department, may need video editing help and finding an internal resource is the only option due to a limited project budget. If you are a large organization, including skills not specific to employees' roles may cause confusion on who-does-what.
 
-These guidelines should be created in partnership with company leadership to ensure alignment with company objectives and ensure their support implementing the new process across all departments. Include any additional enterprise solutions or business processes for identifying expertise. For example, if there is an IT ticketing solution in place, include in the guidelines that this search is not a replacement for submitting tickets for IT support.
+  * These guidelines should be created in partnership with company leadership to ensure alignment with company objectives and ensure their support implementing the new process across all departments. Include any additional enterprise solutions or business processes for identifying expertise. For example, if there is an IT ticketing solution in place, include in the guidelines that this search is not a replacement for submitting tickets for IT support.
 
 - Eliminate any alternate solutions previously used to surface expertise. Only solutions identified as the enterprise solution should include this information. Reducing shadow copies of data will ensure data is accurate, within any audit scopes, and reduce confusion for employees transitioning to the new business process.
+
 - Provide company-wide training on using search to identify expertise. If possible, sharing this update at an all hands or Town Hall meeting will ensure this shift is viewed as a change in business process across the organization.
 
 ## How to move from Defined to Managed to (level 300 to 400)
@@ -99,9 +100,9 @@ The guidance for what-to-use-when was created in partnership with the business a
 - Form a meeting and communication cadence with this group to share Microsoft announcements, project initiatives, and to serve as an open door for feedback. Staying closely aligned with the end users actively working in these systems will ensure you understand how people are working in Microsoft 365 and what they need to be productive. Your guidance will continue to evolve to meet their needs and as Microsoft makes shifts in their offerings.
 - Continue training and showcase the efforts of end users utilizing self-service opportunities. Share case studies of teams who created their own communities by following the training and guidance. Include specifics around their starting point, pain points that drove the change, and improvements while using new solutions to communicate.
 
-Highlighting the end results will support end users across the organization as they separately work through change management for each new community they are building. Sharing these stories also gives end users the opportunity to showcase their efforts innovating their teams' communications. Elevating these case studies to company-wide communication perpetuates the message across the organization that shifting to multiple communication solutions for different types of communities is an initiative that is critical to the company's success in collaborating more effectively.
+  Highlighting the end results will support end users across the organization as they separately work through change management for each new community they are building. Sharing these stories also gives end users the opportunity to showcase their efforts innovating their teams' communications. Elevating these case studies to company-wide communication perpetuates the message across the organization that shifting to multiple communication solutions for different types of communities is an initiative that is critical to the company's success in collaborating more effectively.
 
-## People (level 300 to 400)
+### People (level 300 to 400)
 
 Now that end users have added their skills, expertise, and project data into their profiles, it is important to focus on keeping this data up-to-date.
 
@@ -123,16 +124,16 @@ To advance to the 500 level, consider the following activities:
 
 - End users have become comfortable searching for skills, expertise, and projects in people profiles so training should be expanded to include guidance on how to use [Delve](https://support.microsoft.com/office/what-is-office-delve-1315665a-c6af-4409-a28d-49f8916878ca) and [MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page) to be more productive.
 
-For example:
+  For example:
 
-- When searching for a subject matter expert, explore the Delve profile of your colleague to see documents you both have access to. This can help you better understand where they sit in the organization, what they are actively working on, and areas you might already overlap.
-- On your own Delve profile, explore the "discover documents from people around you" section to get a better idea of the initiatives your colleagues are working on. You will only see documents you have permission to though you may spot some activities where you should be involved or that impact your current projects. This is a great way to proactively explore what is happening around you.
-- Use the "Favorites" board to create a place for all the helpful documents across Microsoft 365 that help you work more effectively.
-- Spend time each week in MyAnalytics to get data-driven insights to help you be more productive by seeing data on your work, network, and collaboration habits.
-  - Increasing awareness of your focus can reduce lost time due to distractions.
-  - Being aware of your wellbeing can reduce stress and anxiety as you create space to disconnect from work.
-  - Keeping an eye on your network can ensure you are spending time with the colleagues who need your attention the most.
-  - Reviewing your collaboration data supports keeping your meeting time focused on critical discussions and raises your awareness to which meetings are unproductive as you are often multi-tasking in them.
+  - When searching for a subject matter expert, explore the Delve profile of your colleague to see documents you both have access to. This can help you better understand where they sit in the organization, what they are actively working on, and areas you might already overlap.
+  - On your own Delve profile, explore the "discover documents from people around you" section to get a better idea of the initiatives your colleagues are working on. You will only see documents you have permission to though you may spot some activities where you should be involved or that impact your current projects. This is a great way to proactively explore what is happening around you.
+  - Use the "Favorites" board to create a place for all the helpful documents across Microsoft 365 that help you work more effectively.
+  - Spend time each week in MyAnalytics to get data-driven insights to help you be more productive by seeing data on your work, network, and collaboration habits.
+    - Increasing awareness of your focus can reduce lost time due to distractions.
+    - Being aware of your wellbeing can reduce stress and anxiety as you create space to disconnect from work.
+    - Keeping an eye on your network can ensure you are spending time with the colleagues who need your attention the most.
+    - Reviewing your collaboration data supports keeping your meeting time focused on critical discussions and raises your awareness to which meetings are unproductive as you are often multi-tasking in them.
 
 ## Conclusion
 
