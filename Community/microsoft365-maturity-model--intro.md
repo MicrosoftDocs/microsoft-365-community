@@ -88,8 +88,8 @@ The current target is to deliver:
 - [Search](microsoft365-maturity-model--search.md)
 - [Staff & Training](microsoft365-maturity-model--staff-and-training.md)
 - [Business Process](microsoft365-maturity-model--business-process.md)
-- Content Management
-- Apps & Services
+- Management of Content
+- Applications & Services
 - Data & Analytics
 - Infrastructure
 - Development & Customization
