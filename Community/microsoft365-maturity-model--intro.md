@@ -90,8 +90,8 @@ The current target is to deliver:
 - [Business Process](microsoft365-maturity-model--business-process.md)
 - Content Management
 - Apps & Services
-- Insight
-- Administration
+- Data & Analytics
+- Infrastructure
 - Development & Customization
 
 ## Related Articles
@@ -99,6 +99,7 @@ The current target is to deliver:
 - [Principles of Communication](principles-of-communication.md)
 - [Principles of Search](principles-of-search.md)
 - [Elevating Staff and Training](microsoft-maturity-model-how-to-staff-and-training.md)
+- [Elevating People and Communities](microsoft-maturity-model-how-to-people-communities.md)
 
 ---
 
@@ -108,4 +109,4 @@ Principal authors:
 - [Simon Doy](https://www.linkedin.com/in/simondoy)
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson)
 - [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini)
-- [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit)
+- [Sadie Van Buren](https://www.linkedin.com/in/sadalit)

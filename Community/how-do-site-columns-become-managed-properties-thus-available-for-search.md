@@ -66,7 +66,7 @@ When done, scroll down to the bottom of the page and choose OK, the new site col
 
 ### Where to use site columns
 
-Site columns, are normally used in documentlibrary or list.
+Site columns, are normally used in document library or list.
 
 Locate your library and navigate to "Library settings"
 

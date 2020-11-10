@@ -280,4 +280,4 @@ Principal authors:
 - [Simon Doy](https://www.linkedin.com/in/simondoy/)
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
 - [Emily Mancini](https://www.linkedin.com/in/eemancini/)
-- [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit/)
+- [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
