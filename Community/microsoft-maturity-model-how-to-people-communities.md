@@ -18,9 +18,9 @@ ms.collection: M365Community
 
 ## Introduction
 
-The [People and Communities article](https://docs.microsoft.com/en-us/microsoft-365/community/microsoft365-maturity-model--people-and-communities-competency) provides an overview of People and Communities concepts and then details each of the 5 People and Communities maturity levels from Initial to Optimizing (100 through to 500). It adopts a broadly technology-agnostic approach to the business characteristics of People and Communities, plus expected benefits.
+The [People and Communities article](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--people-and-communities-competency) provides an overview of People and Communities concepts and then details each of the 5 People and Communities maturity levels from Initial to Optimizing (100 through to 500). It adopts a broadly technology-agnostic approach to the business characteristics of People and Communities, plus expected benefits.
 
-This article aims to specifically explore how organisations at any level could use the Microsoft 365 suite (and associated technologies) to reach a higher maturity level.
+This article aims to specifically explore how organizations at any level could use the Microsoft 365 suite (and associated technologies) to reach a higher maturity level.
 
 ## How to move from Initial to Repeatable (level 100 to 200)
 
@@ -30,7 +30,7 @@ There is little company guidance or recommendation on where to have different ty
 
 To advance to the 200 level, consider the following activities:
 
-### Communities
+### Communities (level 100 to 200)
 
 Focus on known working groups, like project teams and departments, to begin transitioning to [Microsoft 365 Groups](https://support.microsoft.com/office/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) or [Dynamic Distribution Groups]( https://docs.microsoft.com/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups?view=exchserver-2019) (when file management or additional collaboration outside of email is not needed). These working groups are considered the "inner loop" which is a known set of people working together. The members and output are clearly defined simplifying the choice of what-to-use when.
 
@@ -40,7 +40,7 @@ A department, depending on the size and company culture, may also benefit from a
 
 Begin to pilot open community spaces like Yammer or an org-wide Team. The "outer loop" is focused on sharing information widely across an organization outside the known working groups. There is not a known set of members as it can be fluid and communication is often focused on surfacing new ideas, gathering feedback, knowledge sharing, breaking down silos, and connecting the business with senior leaders. Focus on moving company-wide communication that seeks to foster two-way communication to Yammer or an org-wide Team ([depending on company culture and size](https://docs.microsoft.com/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365#company-culture)).
 
-### People
+### People (level 100 to 200)
 
 Reach out to your [SharePoint Champions](https://docs.microsoft.com/microsoft-365/community/identifying-your-sharepoint-champions), Microsoft 365 business owners, and internal customer service functions (think Information Technology, Human Resources, Finance) to begin completing their profiles in [Delve]( https://support.microsoft.com/what-is-office-delve-1315665a-c6af-4409-a28d-49f8916878ca) with more detail in addition to any contact information that may be populated from Active Directory or a synced Human Resource Information System. Focus on adding project and skills information to support search becoming a go-to place to identify people across the organization who provide internal customer service support (like answering benefits questions or providing support with a specific software), source knowledge and expertise.
 
@@ -50,7 +50,7 @@ At the 200 level, the focus tends to be on creating communication channels for t
 
 To advance to the 300 level, consider the following activities:
 
-### Communities
+### Communities (level 200 to 300)
 
 After piloting Microsoft 365 Groups (with associated Yammer community or Microsoft Team) and Dynamic Distribution Groups, focus on creating guidelines and associated training for what-to-use-when across the organization. The guidelines should consider the company culture, company size, persistence of communication, intent of communication, and audience.
 
@@ -72,7 +72,7 @@ The most effective guidelines are simple and easy to consume supporting quick de
 | Department, small  | Dynamic                | All members collaborating                     | Files, calendar, email or chat | Microsoft 365 Group \(potentially with Microsoft Team\)                            |
 | Department, large  | Dynamic                | One\-way communication informing the business | None or comments only          | SharePoint News \(potentially shared via email with a Dynamic Distribution Group\) |
 
-### People
+### People (level 200 to 300)
 
 - Review the feedback from the pilot group using Delve and create guidelines for the company on how to complete profiles and use search to locate expertise across the company. Include specifics in your guidelines on how each field will be used at your organization.
 
@@ -92,7 +92,7 @@ People profiles have additional information populated for skills, expertise, and
 
 To advance to the 400 level, consider the following activities:
 
-### Communities
+### Communities (level 300 to 400)
 
 The guidance for what-to-use-when was created in partnership with the business and training was launched to align the business on the new community spaces for collaboration. The focus can shift to creating opportunities for feedback, iterative improvements, and strategic planning as the Microsoft 365 platform continues to evolve.
 
@@ -104,7 +104,7 @@ The guidance for what-to-use-when was created in partnership with the business a
 
 Highlighting the end results will support end users across the organization as they separately work through change management for each new community they are building. Sharing these stories also gives end users the opportunity to showcase their efforts innovating their teams' communications. Elevating these case studies to company-wide communication perpetuates the message across the organization that shifting to multiple communication solutions for different types of communities is an initiative that is critical to the company's success in collaborating more effectively.
 
-## People
+## People (level 300 to 400)
 
 Now that end users have added their skills, expertise, and project data into their profiles, it is important to focus on keeping this data up-to-date.
 
@@ -118,11 +118,11 @@ Organizations at the 400 level have a strategic view of all communication channe
 
 To advance to the 500 level, consider the following activities:
 
-### Communities
+### Communities (level 400 to 500)
 
 - Communities have been solidly formed for internal communication so the focus shifts to including external participants when it makes a process more effective. As understanding of the different communities and their permission structures have increased, end users are more comfortable allowing external collaborators into these spaces instead of maintaining a separate site focused on these interactions (with many manual processes to support the content moving internally and externally repeatedly).
 
-### People
+### People (level 400 to 500)
 
 - End users have become comfortable searching for skills, expertise, and projects in people profiles so training should be expanded to include guidance on how to use [Delve](https://support.microsoft.com/office/what-is-office-delve-1315665a-c6af-4409-a28d-49f8916878ca) and [MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page) to be more productive.
 
@@ -146,7 +146,7 @@ Improving your People and Communities maturity means rethinking your processes a
 - [People and Communities Competency- Microsoft 365 Maturity Model](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--people-and-communities-competency)
 - [How to Share Org-Wide Communication in Microsoft 365](https://docs.microsoft.com/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
 - [The Evolution of Company-Wide Email Communication to SharePoint News](https://docs.microsoft.com/microsoft-365/community/evolution-of-company-wide-email-communication-to-sharepoint-news)
-- [Principles of Communciation](<https://docs.microsoft.com/microsoft-365/community/principles-of-communication>)
+- [Principles of Communication](<https://docs.microsoft.com/microsoft-365/community/principles-of-communication>)
 - [Manage Dynamic Distribution Groups]( https://docs.microsoft.com/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups)
 - [Welcome to Microsoft Teams](<https://docs.microsoft.com/microsoftteams/teams-overview>)
 - [Create and Share News on your SharePoint Sites](https://support.microsoft.com/office/create-and-share-news-on-your-sharepoint-sites-495f8f1a-3bef-4045-b33a-55e5abe7aed7)
