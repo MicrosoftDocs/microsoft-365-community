@@ -11,12 +11,15 @@
 ### [Introduction](microsoft365-maturity-model--intro.md)
 ### [Collaboration Competency](microsoft365-maturity-model--collaboration.md)
 ### [Communication Competency](microsoft365-maturity-model--communication.md)
-### [People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
+### People and Communities
+#### [People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
+#### [Elevating People and Communities](microsoft-maturity-model-how-to-people-communities.md)
 ### [Search Competency](microsoft365-maturity-model--search.md)
 ### Staff & Training
 #### [Staff & Training Competency](microsoft365-maturity-model--staff-and-training.md)
 #### [Elevating Staff and Training](microsoft-maturity-model-how-to-staff-and-training.md)
 ### [Business Process Competency](microsoft365-maturity-model--business-process.md)
+### [Management of Content Competency](microsoft365-maturity-model--management-of-content.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
 ### [Versioning in SharePoint](versioning-basics-best-practices.md)

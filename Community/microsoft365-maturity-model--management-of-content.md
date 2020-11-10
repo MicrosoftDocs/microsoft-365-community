@@ -1,6 +1,6 @@
 ---
 title:  Maturity Model for Microsoft 365 – Management of Content Competency
-ms.date: 8/31/2020
+ms.date: 11/10/2020
 author: simonjhudson
 ms.reviewer: jhendr
 ms.author: jhendr
@@ -35,7 +35,7 @@ This competency focuses on many aspects with management of content, including pr
 - Email
 - Media
 
-#### Common Microsoft 365 Toolsets
+### Common Microsoft 365 Toolsets
 
 - OneDrive
 - SharePoint
@@ -54,9 +54,9 @@ This competency focuses on many aspects with management of content, including pr
 - Power Automate
 - Project Cortex
 
-#### Aspects of content that can be managed
+### Aspects of content that can be managed
 
-**Presentation**
+#### Presentation
 
 - Consistency
 - Standards
@@ -65,7 +65,7 @@ This competency focuses on many aspects with management of content, including pr
 - Readability and cognitive load
 - Accessibility
 
-**Lifecycle Management**
+#### Lifecycle Management
 
 - Creation
   - Co-authoring
@@ -82,9 +82,9 @@ This competency focuses on many aspects with management of content, including pr
   - Archive
   - Destruction
 
-&quot;Cradle to grave&quot;
+"Cradle to grave"
 
-**Identification**
+#### Identification
 
 - Tagging
 - Sensitivity Labelling
@@ -92,12 +92,12 @@ This competency focuses on many aspects with management of content, including pr
 - Protection Labelling
 - Metadata
 
-**Storage**
+#### Storage
 
 - Structure
 - Platforms and tools
 - Information Architecture
-- Putability
+- "Putability"
 - Duplicate management
 - Costs
 - Offline and sync
@@ -106,16 +106,18 @@ This competency focuses on many aspects with management of content, including pr
 
 ### Level 100
 
-**Initial level** Management of Contentcharacteristics include:
+**Initial level** Management of Content - characteristics include:
 
-##### Lifecycle Management
+#### Lifecycle Management
 
 - Content is created and stored inconsistently in a variety of applications, in many styles. Often the content format is not appropriate, for example, notifications are created as documents attached to an email, contacts are stored in Excel, images are stored in slide decks.
 - No process for lifecycle management is in place.
 - Documents are created on an ad hoc basis either from a blank copy or by re-using a previous version (without clearing previous metadata).
 - File formats for newly created content are not standardized and out of date or unexpected formats are in use.
 - Content creation tools are not standardized, may uses use older versions of software or tools from different companies, creating further content inconsistencies.
-- Templates may exist, but they are &#39;lost&#39; in the folder hierarchy and infrequently used; templates are not integrated into the &#39;New Document&#39; setting ![](RackMultipart20201110-4-19iie7_html_84adbbf1401b3e51.png)
+- Templates may exist, but they are &#39;lost&#39; in the folder hierarchy and infrequently used; templates are not integrated into the into the ‘New Document’ setting
+![Personal Templates](media/microsoft365-maturity-model--management-of-content/personal-templates.jpg)
+
 - Editing, updates and reviews are largely serial activities or conducted in parallel via email which results in multiple versions which must be manually reassembled.
 - Version control is absent, achieved through unmanaged file names or implemented via a separate list or database. Access to version history is absent or unreliable.
 - Content governance and protection are absent or achieved manually.
@@ -141,7 +143,7 @@ This competency focuses on many aspects with management of content, including pr
 - List items are frequently stored as files in spreadsheets, in word processor documents or as simple text files. Formatting is arbitrary; presentation and readability are left to the individual.
 - There little or no guidance on emails footers; some staff use the tools in their email client to add these, but most are unaware of the value or mechanism of doing this.
 
-##### Storage
+#### Storage
 
 - Users are uncertain where to save documents; frequently creating multiple copies in different places.
 - No strong file management strategy is in place. While a file server may be in use, users may store content on a local hard drive or a removable drive.
@@ -165,14 +167,14 @@ At this level you can expect the following:
 
 **Repeatable level**** Management of Content** characteristics include:
 
-##### Lifecycle Management
+#### Lifecycle Management
 
 - While there is some expectation that content is created and stored consistently in appropriate applications, a lack of staff awareness and monitoring results in inappropriate content approaches. Notifications as attached documents, contacts are in personal lists, etc. remain widespread. Managers do not set observable standards or expectations and inadvertently undermine improvement attempts.
 - There is an understanding of lifecycle management and some process for this is outlined but not embedded in the organization other than in a few key areas. Document lifecycle tracking is largely managed through external lists and document registers. Documents are generally created from a blank copy or by re-using a previous version. Staff remain free to deviate from the processes and there is little enforcement by the system or management.
 - Lifecycle management of list items is largely absent.
 - Content creation tools and file formats have been standardized across the organization, but this is not enforced and some staff continue to use non-compliant formats. There is no systematic standardization of legacy content. There may be overzealous application of the standards in some areas, overlooking the specific business need in the local pursuit of standardization.
-- Templates exist, but are not well managed and not published in a way that promotes their active use across the organization; templates are not integrated into the &#39;New Document&#39; settings ![](RackMultipart20201110-4-19iie7_html_84adbbf1401b3e51.png)
-
+- Templates exist, but are not well managed and not published in a way that promotes their active use across the organization; templates are not integrated into the 'New Document settings
+![Personal Templates](media/microsoft365-maturity-model--management-of-content/personal-templates.jpg)
 - Some teams and staff understand the power of multi-author editing by storing their content in an online content management platform. While they use and promote this approach, many staff still expect to receive attachments rather than live link, resulting in serial editing in many cases. Content management approaches are rarely mandated outside critical documents. Version control is in use in these cases though much remains unmanaged or handled through manual update of document registers. Staff members are often unaware of how to use version history and version control.
 - Files within the content management platforms have some level of role-based access, governance and protection, though this is not mandated, well documented, centrally managed or built to best practice.
 - Disposal of superseded content remains ad hoc, though there may be a periodic clean up and bulk review, especially for managed content. This is true of documents, web pages, items and most other forms of content. There is limited appreciation of the need to declutter, deduplicate, decommission and delete.
@@ -225,7 +227,7 @@ At this level you can expect the following:
 
 **Defined level**** Management of Content** characteristics include:
 
-##### Lifecycle Management
+#### Lifecycle Management
 
 - Basic Content Lifecycle Management is in place for key business operations, commonly via content management systems (CMS) rather than file servers; this ensures that draft, active/published and superseded content items are easily identified. Document registers are discouraged in favor of tools with the CMS, though legacy registers may persist. There is some effort to ensure important content is retained and there are occasional efforts to cleanse old documents; this may result in loss of important information due to absence of robust controls. Staff can deviate from many processes, though this is actively discouraged.
 - Content creation tools and file formats have been standardized across the organization, policies and management processes actively discourage use of non-compliant formats. Some effort is made to update legacy content where it is in current use.
@@ -279,7 +281,7 @@ At this level you can expect the following:
 
 **Managed level**** Management of Content** characteristics include:
 
-##### Lifecycle Management
+#### Lifecycle Management
 
 - Content Lifecycle Management is in active use in all regulated or quality assured processes and elsewhere that has impacts on the business. Most documents are tagged with sensitivity, status and retention information or reside in a location where this is enforced.
 - All types of content have similar levels of management:
@@ -338,7 +340,7 @@ At this level you can expect the following:
 
 **Optimizing level**** Management of Content** characteristics include:
 
-##### Lifecycle Management
+#### Lifecycle Management
 
 - Content Lifecycle Management operates at most levels of the organization, is optimized, tracked and reviewed for effectiveness and actively drives quality, productivity and risk reduction – this may be reflected in certifications, standards and reduced insurance costs. It remains consistent as it spans different types of content and platform.
 - Most content is created based on well-defined and managed &#39;content classes or content types. There is visibility of use of content types across the organization and an understanding of the content type schema and inheritance.
@@ -406,11 +408,13 @@ Marketing want to ensure all internal and external documents use the new company
 
 Staff need to know where to store the product specification information, QA reports and analysis data for a new product. They also need to update the new product pipeline overview for the sales and marketing teams.
 
-## Cost &amp; benefit
+## Cost & benefit
+
+To be added
 
 ## Resources to learn more
 
-There are a variety of helpful documents on lists, libraries, information architecture, plus related competencies such as search, communication and collaboration on the [Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/community/principles-of-search) site.
+There are a variety of helpful documents on lists, libraries, information architecture, plus related competencies such as search, communication and collaboration on the [Microsoft Docs](https://docs.microsoft.com/microsoft-365/community/principles-of-search) site.
 
 ## Conclusion
 
