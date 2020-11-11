@@ -64,10 +64,15 @@ landingContent:
             url: microsoft365-maturity-model--staff-and-training.md
           - text: Business Process Competency
             url: microsoft365-maturity-model--business-process.md
+          - text: Management of Content Competency
+            url: microsoft365-maturity-model--management-of-content.md
+
       - linkListType: how-to-guide
         links:
           - text: Elevating Staff and Training
             url: microsoft-maturity-model-how-to-staff-and-training.md
+          - text: Elevating People and Communities
+            url: microsoft-maturity-model-how-to-people-communities.md
 
   # Card (optional)
   - title: SharePoint Better Practices
@@ -106,6 +111,8 @@ landingContent:
             url: large-lists-large-libraries-in-SharePoint.md
           - text: Creating Useful Views for Lists & Libraries
             url: creating-useful-views-in-lists-libraries.md
+          - text: How Do Site Columns Become Managed Properties - Thus Available for Search?
+            url: how-do-site-columns-become-managed-properties-thus-available-for-search.md
 
   # Card (optional)
   - title: Effective Communication

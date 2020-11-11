@@ -229,7 +229,7 @@ Improving your Business Process maturity requires an investment in business proc
 
 Principal authors:
 
-- [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit/)
+- [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
 
 Contributing authors:
 

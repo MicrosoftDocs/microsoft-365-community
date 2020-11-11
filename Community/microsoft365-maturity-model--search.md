@@ -329,4 +329,4 @@ Contributing authors:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Emily Mancini](https://www.linkedin.com/in/eemancini)
-- [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit)
+- [Sadie Van Buren](https://www.linkedin.com/in/sadalit)
