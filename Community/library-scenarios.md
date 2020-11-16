@@ -2,8 +2,8 @@
 title: Library scenarios
 ms.date: 3/3/2020
 author: nyoung30
-ms.reviewer: jhendr
-ms.author: jhendr
+ms.reviwer: efrene
+ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 
 description: "Library scenarios"

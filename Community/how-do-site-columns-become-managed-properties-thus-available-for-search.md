@@ -2,8 +2,8 @@
 title: How Do Site Columns Become Managed Properties - Thus Available for Search?
 ms.date: 11/1/2020
 author: JimmyHang
-ms.reviewer: jhendr
-ms.author: jhendr
+ms.reviwer: efrene
+ms.author: efrene
 ms.service: search
 localization_priority: 
 description: "How Do Site Columns Become Managed Properties - Thus Available for Search?"
