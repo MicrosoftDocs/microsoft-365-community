@@ -2,8 +2,8 @@
 title: Template
 ms.date: 9/02/2020
 author: sympmarc
-ms.reviewer: jhendr
-ms.author: jhendr
+ms.reviwer: efrene
+ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 
 description: template for creating content
