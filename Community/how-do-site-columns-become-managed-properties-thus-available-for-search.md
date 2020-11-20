@@ -17,7 +17,7 @@ ms.collection: M365Community
 Before we jump to the topic at hand, a little recap of the terminology involved:
 
 * Metadata: means information about something, in SharePoint usually information about documents, pages or list items
-* Site Column: is a metadata column that has been created for a whole site collection, thus available to be used by anny list/library in that site.
+* Site Column: is a metadata column that has been created for a whole site collection, thus available to be used by any list/library in that site.
 * Search Crawled Properties: A crawled property is content and metadata that is extracted from an item, such as a document or a URL, during a crawl.
 * Search Managed Properties: Is a list of useful content and metadata included in the search index, we normally map useful crawled properties to managed properties to make search more easy.
 
