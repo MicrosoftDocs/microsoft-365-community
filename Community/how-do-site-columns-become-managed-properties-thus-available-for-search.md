@@ -2,8 +2,8 @@
 title: How Do Site Columns Become Managed Properties - Thus Available for Search?
 ms.date: 11/1/2020
 author: JimmyHang
-ms.reviewer: jhendr
-ms.author: jhendr
+ms.reviwer: efrene
+ms.author: efrene
 ms.service: search
 localization_priority: 
 description: "How Do Site Columns Become Managed Properties - Thus Available for Search?"
@@ -34,7 +34,8 @@ A site column can be created generally in two places:
 1. In the Content Type Hub - Using the Content Type Hub will make the column available to all sites in your SharePoint Online tenant.
 2. In the Site Collection where you will be using the column
 
-> [!NOTE] this article won't discuss in detail the Information Architecture of when and where to create the site columns.
+> [!NOTE]
+> This article doesn't discuss in detail the Information Architecture of when and where to create the site columns.
 
 ### Using What
 

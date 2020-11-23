@@ -2,8 +2,8 @@
 title: Document Lifecycle Scenarios
 ms.date: 8/11/2020
 author: sympmarc
-ms.reviewer: jhendr
-ms.author: jhendr
+ms.reviwer: efrene
+ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 
 description: Document Lifecycle Scenarios - showing different ways to think through how we manage documents based on their relative weight and importance

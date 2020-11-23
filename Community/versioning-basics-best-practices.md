@@ -2,8 +2,8 @@
 title: Versioning in SharePoint
 ms.date: 7/01/2020
 author: PatD
-ms.reviewer: jhendr
-ms.author: jhendr
+ms.reviwer: efrene
+ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 
 description: "Versioning in SharePoint"

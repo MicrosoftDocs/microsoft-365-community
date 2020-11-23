@@ -2,8 +2,8 @@
 title:  Maturity Model for Microsoft 365 – Management of Content Competency
 ms.date: 11/10/2020
 author: simonjhudson
-ms.reviewer: jhendr
-ms.author: jhendr
+ms.reviwer: efrene
+ms.author: efrene
 ms.prod: microsoft-365
 localization_priority:
 description:  Maturity Model for Microsoft 365 - Management of Content Competency
