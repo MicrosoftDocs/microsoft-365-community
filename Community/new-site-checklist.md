@@ -36,10 +36,17 @@ The purpose of this guide is to help document the initial setup of a site and pr
 - Title:
 - URL:
 - Type (Communication/Team):
+- Group enabled (Yes/No):
+- Teams enabled (Yes/No):
 - Description:
 - Hub site (Yes/No):
 - Joined to Hub site (Yes/No) :
     - HUB site name:
+
+### Ownership
+Content Owner 1:
+Content Owner 2:
+Technical Owner: 
 
 ### Site permissions
 
@@ -84,15 +91,15 @@ The purpose of this guide is to help document the initial setup of a site and pr
 
 ### Document Libraries
 
-| Name        | Description   | Retention label applied | Sensitivity label applied |
-|-------------|---------------|-------------------------|---------------------------|
-| *New entry* | *Description* | *Retention label name*  | *Sensitivity label name*  |
+| Name        | Description   | Retention label applied | Sensitivity label applied | Content Types used  | Power Automate flow used  |
+|-------------|---------------|-------------------------|---------------------------|---------------------|---------------------------|
+| *New entry* | *Description* | *Retention label name*  | *Sensitivity label name*  | *Content type name* | *Workflow name* *trigger* |
 
 ### Lists
 
-| Name        | Description   |
-|-------------|---------------|
-| *New entry* | *Description* |
+| Name        | Description   | Content Types used  | Power Automate flow used  |
+|-------------|---------------|---------------------|---------------------------|
+| *New entry* | *Description* | *Content type name* | *Workflow name* *trigger* |
 
 ### Apps
 
