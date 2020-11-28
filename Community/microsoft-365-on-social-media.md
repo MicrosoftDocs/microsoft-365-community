@@ -94,9 +94,8 @@ If you're having general issues with Microsoft 365, be sure to check the [Micros
 |[#PowerAutomate](https://twitter.com/hashtag/PowerAutomate)|[@MSPowerAutomate](https://twitter.com/MSPowerAutomate)|
 |[#PowerBI](https://twitter.com/hashtag/PowerBI), [#DAX](https://twitter.com/hashtag/DAX), [#PowerQuery](https://twitter.com/hashtag/PowerQuery)|[@MSPowerBI](https://twitter.com/MSPowerBI)|
 |[#PowerVirtualAgents](https://twitter.com/hashtag/PowerVirtualAgents)|[@MSPowerVirtual](https://twitter.com/MSPowerVirtual)|
-|[#CommonDataService](https://twitter.com/hashtag/CommonDataService)||
+|[#Dataverse](https://twitter.com/hashtag/Dataverse)||
 |[#AIBuilder](https://twitter.com/hashtag/AIBuilder)||
-|[#ProjectOakdale](https://twitter.com/hashtag/ProjectOakdale)||
 
 ## Other Apps
 
@@ -110,6 +109,7 @@ If you're having general issues with Microsoft 365, be sure to check the [Micros
 ||[@MS_StaffHub](https://twitter.com/MS_StaffHub)|
 ||[@sway](https://twitter.com/sway)|
 ||[@MicrosoftToDo](https://twitter.com/MicrosoftToDo)|
+|[#ProjectMoca](https://twitter.com/hashtag/ProjectMoca)||
 
 ## Development
 
