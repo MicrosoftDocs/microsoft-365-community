@@ -10,7 +10,7 @@ description: Elevate your organization through the Staff and Training Competency
 ms.collection: M365Community
 ---
 
-# Elevating Staff and Training
+# How to Elevate Staff and Training
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
@@ -113,6 +113,6 @@ Overall, providing solutions to existing problems will generate higher interest 
 
 ---
 
-Principal author: [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini/)
+Principal author: [Emily Mancini, UXMC](https://www.linkedin.com/in/eemancini/)
 
 ---
