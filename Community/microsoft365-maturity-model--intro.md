@@ -82,6 +82,8 @@ Our goal is to apply the same Competencies that were the core of the original SP
 
 The current target is to deliver:
 
+### Published
+
 - [Collaboration](microsoft365-maturity-model--collaboration.md)
 - [Communication](microsoft365-maturity-model--communication.md)
 - [People & Communities](microsoft365-maturity-model--people-and-communities-competency.md)
@@ -89,10 +91,12 @@ The current target is to deliver:
 - [Staff & Training](microsoft365-maturity-model--staff-and-training.md)
 - [Business Process](microsoft365-maturity-model--business-process.md)
 - [Management of Content](microsoft365-maturity-model--management-of-content.md)
-- Applications & Services
+
+### In progress
+
 - Data & Analytics
 - Infrastructure
-- Development & Customization
+- Customization & Development
 
 ## Related Articles
 
