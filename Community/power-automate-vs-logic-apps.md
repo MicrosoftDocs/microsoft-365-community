@@ -16,17 +16,17 @@ ms.collection:  SPCommunity
 
 ## What are these services
 
-Power Automate and Azure Logic apps are workflow services that can automate your processes business or system and integrate with Microsoft and 3rd party services with over 300 connectors. These powerful services are designed to get you going quickly, building the workflow between business services providing that familiarity without having the steep learning curve.
+Power Automate and Azure Logic Apps are workflow services that can automate your processes business or system and integrate with Microsoft and 3rd party services with over 300 connectors. These powerful services are designed to get you going quickly, building the workflow between business services providing that familiarity without having the steep learning curve.
 
 **Power Automate** provides a user-friendly and focused experience within Office 365 that can easy to get end-users going once assigned an appropriate license.
 
-**Azure Logic apps** provide the same user-friendly designer surface similar to Power Automate with the option to build complex integration solutions, utilise advanced development tools, DevOps and monitoring, if required.
+**Azure Logic Apps** provide the same user-friendly designer surface similar to Power Automate with the option to build complex integration solutions, utilise advanced development tools, DevOps and monitoring, if required.
 
 Both options aim to significantly reduce the effort and quickly build and automate processes between services, allowing you to focus on higher-value tasks.
 
 ## Highlight key differences between Logic Apps and Power Automate
 
-Whilst Power Automate is built on top of Azure Logic apps, there are differences in terms of the environments they are used from, e.g. Office 365 and Azure, which provides unique features and optional methods of construction. Here are some of the following key differences:
+Whilst Power Automate is built on top of Azure Logic Apps, there are differences in terms of the environments they are used from, e.g. Office 365 and Azure, which provides unique features and optional methods of construction. Here are some of the following key differences:
 
 | Description | Power Automate | Logic Apps |
 |-------------|----------------|------------|
@@ -64,7 +64,7 @@ Since both tools have this, learning Power Automate can be easily transferrable 
 **Azure Logic Apps - web based designer**
 ![Mobile view of Power Automate](media\power-automate-vs-logic-apps\azure-logic-app-example.png)
 
-**Did you know you can export from Power Automate into Azure Logic apps?** Yes, you can. If you are working with the Azure Portal it will require some knowledge of JSON, or for a friendlier experience using Visual Studio, check out the docs to consider your approach: [https://docs.microsoft.com/azure/logic-apps/export-from-microsoft-flow-logic-app-template](https://docs.microsoft.com/azure/logic-apps/export-from-microsoft-flow-logic-app-template)
+**Did you know you can export from Power Automate into Azure Logic Apps?** Yes, you can. If you are working with the Azure Portal it will require some knowledge of JSON, or for a friendlier experience using Visual Studio, check out the docs to consider your approach: [https://docs.microsoft.com/azure/logic-apps/export-from-microsoft-flow-logic-app-template](https://docs.microsoft.com/azure/logic-apps/export-from-microsoft-flow-logic-app-template)
 
 This is a great feature - giving you more flexibility - if your Flow evolves overtime or you realise that you need more integration options or a different licensing approach, you can port over to Azure Logic Apps.
 
