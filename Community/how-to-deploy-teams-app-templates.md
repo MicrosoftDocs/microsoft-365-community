@@ -8,6 +8,7 @@ ms.prod: microsoft-365
 localization_priority: 
 description: "Microsoft Teams app templates are ready to production, easy to deploy apps that extend Teams to your needs- this is a guide how to deply them"
 ms.collection: M365Community
+---
 
 
 # How to deploy Teams App templates into your tenant
