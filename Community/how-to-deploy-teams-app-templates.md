@@ -21,7 +21,7 @@ Microsoft Teams is an excellent hub for collaboration, and the most fantastic th
 
 ⚡ Please don’t test in your production environment. If you are new to this, get a free Microsoft 365 developer tenant, it’s way safer for you. 
 
-As an example, I will use the [Groups Activity App](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-template) to show the steps that we usually need to do to deploy an app in our tenant.
+As an example, I will use the [Groups Activity App](https://docs.microsoft.com/microsoftteams/platform/samples/app-template) to show the steps that we usually need to do to deploy an app in our tenant.
 
 You can get the complete documentation, including all files, deployment guides, and architecture overview on [GitHub](https://github.com/OfficeDev/microsoft-teams-apps-groupactivities). In this article, I will make you aware of some essential steps, which you might forget or give you some context.
 
