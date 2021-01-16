@@ -33,6 +33,8 @@ Remember to save your App secret immediately after creating it – you won’t b
 To know which permissions you need, read the documentation of the app template.
 Don’t forget to grant admin consent for the permissions. 
 
+![Step 1: Register app in AD](https://github.com/LuiseFreese/microsoft-365-community/blob/patch-2/Community/media/how-to-deploy-teams-app-templates/1registeraapp.gif)
+
 ## Deploy template
 
 As we deal with One-Click-Deployment, you will need to click that magic deploy to Azure button in the deployment guide and
@@ -41,9 +43,13 @@ create a new resource group
 paste Tenant ID, AppID, App Secret into the form,
 be a little bit patient. It can take a while. You don’t need to stay on that site. You can check later on as well.
 
+![deploy template](https://github.com/LuiseFreese/microsoft-365-community/blob/patch-2/Community/media/how-to-deploy-teams-app-templates/2deploy.gif)
+
 ## Add authentication
 
 Azure AD can easily manage authentication, connect our bot with it, and set the scope as in our app registration.
+
+![add authentication](https://github.com/LuiseFreese/microsoft-365-community/blob/patch-2/Community/media/how-to-deploy-teams-app-templates/3addauthentication.gif)
 
 ## Package App
 
@@ -62,6 +68,7 @@ In the manifest.json we will replace placeholders for
 and zip this `manifest.json` with `outline.png` and `color.png` from GitHub repo in a `GroupActivities.zip` file.
 
 ⚡ Watch out, sometimes the `outline.png` provided on GitHub are not transparent, and then your app won’t pass App validation. If this is the case for you, make it transparent, add it again to your .zip file.
+![package your app](https://github.com/LuiseFreese/microsoft-365-community/blob/patch-2/Community/media/how-to-deploy-teams-app-templates/4package.gif)
 
 ## Publish
 
@@ -70,6 +77,8 @@ The easiest way to publish your app is via Microsoft Teams App Studio – but yo
 If you choose App Studio, upload your .zip file and select publish and then app catalog.
 
 If you choose Teams Toolkit, you can see potential error even before trying to publish, and the error/warning notifications give you more detail about what was wrong, while App Studio just returns a ‘Something went wrong.’
+
+![publish](https://github.com/LuiseFreese/microsoft-365-community/blob/patch-2/Community/media/how-to-deploy-teams-app-templates/6publish.gif)
 
 Time for a happy dance!
 
