@@ -182,15 +182,24 @@ Patterns and trends we can observe once we ensured to work towards a structure t
 * Embracing diversity leads to better products
 * Breaking down information silos will lead to serendiptious connections
 * a #LearnItAll mindset will grant future readiness
+* democratizing access to corporate assets (knowledge, tools, roles) will impact how people feel about their employer
+* respectful clima towards everyone results in consciousness and thoughfulness
 
 ### events
 
-Climbing up our iceberg we will now reach its visible tip, the events that everyone notices. We 
+Climbing up our iceberg we will now reach its visible tip, the events that everyone notices. After we did the legwork with core beliefs and organizational values, defined structure and processes that support these values and fostered patterns that result in a digitally literate, connected and aligned workforce, we can now reap what we have sown:
+
+* frictionless collaboration
+* healthy productivity
+* good working moral
+
 Of course, we will need: 
 
 * advocates, who explain, evangelize and discuss openly change with their peers. It is important to include people rather than giving the impression that ongoing change would be already a fait accompli. Good communication is key. Just sending an email or printing some posters won't light a fire in an organization. Explain the big picture and elaborate on the why of this enterprise. This makes sure, that all stakeholder will have a good understanding to drive change even further.
 
 * some persistence. Rome wasn't built in a day and we first need to unlearn the practices from old world. This is pretty challenging as we easily fall back into old role patterns. The path would be to be patient and to make it easier to follow a new approach. Gamification can help a lot here, but yet again- if we only work on this level, the effects will quickly fizzle out. 
+
+* proper guidance and training. Training alone won't be sufficient, people will need examples, discussions and time to figure out what works best for them. 
 
 
 
