@@ -43,7 +43,6 @@ The aspects described above make it clear that decisions today are no longer str
 
 ## Old world and new world collide
 
-You might think, 'So what? The world is changing, and markets are getting more complex, so where is the news?', right? Okay, here's the catch:
 We've build organizations around structures and processes that were invented to deal with different requirements. The way we built up and think about organizations is still based on the idea, that markets are predictable, change can be planned and our world works consistently.
 
 So ultimately, we need a new way of thinking about organizations and the way we work. We need new guidelines and principles that fit the challenges we're facing right now, that fit this new world.
@@ -52,24 +51,24 @@ In other words, this new world comes with a need to transform:
 
 ### Profit -> Purpose
 
-Maximizing profit was the main driver for successful businesses for a long time. Yet within a connected world full of information, that isn't the only constant that ensures success nowadays. Customers often have enough information to compare different organizations and can choose who they're engaging with. That appears to customers and employees to the same extend. Nowadays, many factors need to be considered for a successful business: work ethics, social responsibility, the ecological aspect, etc. Those things often come when an organization has a clear purpose, a WHY. Organizations that know why there are doing something, rather than relying on how to have a far better standing in the markets than others. And you know what the trick is? With purpose comes profit, but it doesn't work the other way around. Customers and partners have a pretty good idea of whom they want to deal with, and that's what differentiates a successful organization from an unsuccessful one.
+Maximizing profit was the main driver for successful businesses for a long time. Yet within a connected world full of information, that isn't the only constant that ensures success nowadays. Customers often have enough information to compare different organizations and can choose who they're engaging with. That appears to customers and employees to the same extend. Nowadays, many factors need to be considered for a successful business: work ethics, social responsibility, the ecological aspect, etc. Those things often come when an organization has a clear purpose, a WHY. Organizations that know why there are doing something, rather than relying on how to have a far better standing in the markets than others: With purpose comes profit, but it doesn't work the other way around. Customers and partners have a pretty good idea of whom they want to deal with, and that's what differentiates a successful organization from an unsuccessful one.
 
 ### Hierarchies -> Networks
 
-In a world where we have a complicated yet straightforward task with multiple people to work on that task, you need someone who clearly understands what to do. Someone to keep all the strings together and knows where to go. With that comes clarity about hierarchy, line of command, and power. Within a world that is changing fast and context isn't to be overseen by one (or a couple) person,  we have the problem that there isn't THE right way, that one person likely can't understand all interdependencies. This person has to rely on others to tackle the current task. Yet, a clear line of command and a strict hierarchy are opposed to this. Self-organized teams, collaboration between internal and external staff over many borders require a different understanding of leadership and collaboration. Rather than a clear line of command, networks work much better these days to connect to other people and create an exchange that meets the requirements.
+In a world where we have a complicated yet straightforward task with multiple people to work on that task, we need someone who clearly understands what to do. Someone to keep all the strings together and knows where to go. With that comes clarity about hierarchy, line of command, and power. Within a world that is changing fast and context isn't to be overseen by one (or a couple) person,  we have the problem that there isn't THE right way, that one person likely can't understand all interdependencies. This person has to rely on others to tackle the current task. Yet, a clear line of command and a strict hierarchy are opposed to this. Self-organized teams, collaboration between internal and external staff over many borders require a different understanding of leadership and collaboration. Rather than a clear line of command, networks work much better these days to connect to other people and create an exchange that meets the requirements.
 
 ### Controlling -> Empowering
 
-Keep the *Hierarchy - Network* idea in the back of your mind and spin the thought further: If you can connect with different people, regardless of their physical location, neither their standing within a hierarchy, still you need them to be able to do something. Within strict organizations with constricting processes, built-in communications, and IT departments, people have no chance to make an impact. When you are in the wrong position in the hierarchy, you'll never contribute. But what if the earthshaking idea is in the head of somebody who can't contribute? In this modern, ever-changing world, the top person is not necessarily the one with the best ideas. Often it's quite the opposite: How often do people on the front line, interacting with customers and challenges, know precisely how to solve those needs?
+Let's keep the *Hierarchy - Network* idea in the back of our mind and spin the thought further: If we can connect with different people, regardless of their physical location, neither their standing within a hierarchy, still we need them to be able to do something. Within strict organizations with constricting processes, built-in communications, and IT departments, people have no chance to make an impact. When we are in the wrong position in the hierarchy, we'll never contribute. But what if the earthshaking idea is in the head of somebody who can't contribute? In this modern, ever-changing world, the top person is not necessarily the one with the best ideas. Often it's quite the opposite: How often do people on the front line, interacting with customers and challenges, know precisely how to solve those needs?
 
 ### Planning -> Experimentation
 
 For ages, planability and predictability of strategies were a winning factor of organizations, and the one hero-like manager who could foresee what was going to happen was at the top of the hierarchy. But if we know that the VUCA components characterize organizations' environment, this long-term planability isn't sufficient. The opposite of this business model is one that is characterized by short iterations. A short term experiment that might seal the deal, yet isn't a complete catastrophe if it's not. 
-Do you know where you know this principle from? That's right, from every agile approach ever. Short sprints are way more efficient than the old waterfall approach. Yet, the structures we find in modern organizations don't allow such a system because they still solidify an old mindset.
+This comes from every agile approach. Short sprints are way more efficient than the old waterfall approach. Yet, the structures we find in modern organizations don't allow such a system because they still solidify an old mindset.
 
 ### Privacy -> Transparency
 
-'Intellectual property is good, and if you have or know something, keep it for yourself so you can climb up that hierarchy ladder. And of course, you will build up a competitive advantage.' These thoughts don't make sense anymore and don't fit a modern and agile organization: It is impossible to know which information might become useful in the future and which expert we will need to pass an upcoming challenge. Therefore we need to be open-minded, think in networks, and empower people to participate in the meaning of our purpose. 
+'Intellectual property is good, and if we have or know something, we keep it for ourselves so we can climb up that hierarchy ladder. And of course, we will build up a competitive advantage.' These thoughts don't make sense anymore and don't fit a modern and agile organization: It is impossible to know which information might become useful in the future and which expert we will need to pass an upcoming challenge. Therefore we need to be open-minded, think in networks, and empower people to participate in the meaning of our purpose. 
 
 Digitalization needs to be the accelerator on that, but can never be the primary driver. We need a new approach to think about work in general.
 
@@ -159,7 +158,7 @@ The million-dollar question now is, what needs to be done at Level 4 so that we 
 
 ### corporate culture - mental model
 
-Rather than stating that people need to have the *right* mindset, we will need to focus on organizational change, which means that it is not sufficient to write down some fancy leadership principles and work on which behavior we show. People don't do what we tell them to do, but we offer them. It is time to consciously reflect on corporate values and how there are filled with life in the organization. As an example: You can *tell* that you have a good culture of being allowed to make mistakes, but if everyone is cc-ing everyone massively to share responsibility / cover themselves, then it is evident that the excellent culture only existed on paper. Therefore we will need to question ourselves about our values and how they resonate for employees, partners, customers. Without doing this heavy lifting, all approaches to roll out tools, to do champions programs, use case shopping and end-user training will only scratch the surface and come to nothing or won't stay sustainably, which means that we will see perhaps some quick wins, but no long term change. 
+Rather than stating that people need to have the *right* mindset, we will need to focus on organizational change, which means that it is not sufficient to write down some fancy leadership principles and work on which behavior we show. People don't do what we tell them to do, but we offer them. It is time to consciously reflect on corporate values and how there are filled with life in the organization. As an example: We can *tell* that we have a good culture of being allowed to make mistakes, but if everyone is cc-ing everyone massively to share responsibility / cover themselves, then it is evident that the excellent culture only existed on paper. Therefore we will need to question ourselves about our values and how they resonate for employees, partners, customers. Without doing this heavy lifting, all approaches to roll out tools, to do champions programs, use case shopping and end-user training will only scratch the surface and come to nothing or won't stay sustainably, which means that we will see perhaps some quick wins, but no long term change. 
 
 Some questions to ask could be: 
 
@@ -196,7 +195,9 @@ Climbing up our iceberg, we will now reach its visible tip, the events that ever
 * healthy productivity
 * good working morale
 
-Of course, we will need: 
+## Next steps
+
+To achieve this, we will need: 
 
 * advocates, who explain, evangelize and discuss openly change with their peers. It is essential to include people rather than giving the impression that ongoing change would be already a fait accompli. Good communication is critical. Just sending an email or printing some posters won't light a fire in an organization. Explain the big picture and elaborate on the why of this enterprise. This makes sure that all stakeholders will have an excellent understanding to drive change even further.
 
@@ -204,8 +205,14 @@ Of course, we will need:
 
 * proper guidance and training. Training alone won't be sufficient; people will need examples, discussions, and time to figure out what works best for them. 
 
+## Conclusion
 
-## conclusion
+To see the bigger picture of adoption and how Microsoft 365 could support our digital transformation efforts, it is useful to investigate the corporate mental model, the organizational structures, and patterns. Focusing on visible events only, underestimating the mental model's complexity, and cherry-pick quick-wins will not lead to sustainable change. If we want to evolve from our inherited understanding of work into meaningful collaboration, we need to adopt new working behavior properly. This is only possible if we first care about corporate culture, which will be reflected in all levels above.
+
+## useful resources
+
+* [Microsoft 365 Maturity model](https://docs.microsoft.com/en-us/microsoft-365/community/microsoft365-maturity-model--intro)
+* [Microsoft 365 Adoption guide](https://adoption.microsoft.com)
 
 
 **Principal author**: [LuiseFreese](http://www.linkedin.com/in/LuiseFreese)
