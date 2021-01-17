@@ -41,7 +41,7 @@ Living in a complex and connected world with various connections that are diffic
 
 The aspects described above make it clear that decisions today are no longer straightforward. 'One size fits all' is rarely a suitable model anymore. More and more often, it is not a question of WHAT, but of HOW, and WHY. This leads to the fact that the demands on organizations today are paradoxical, sometimes even contradictory.
 
-## old world and new world collide
+## Old world and new world collide
 
 You might think 'So what? The world is changing and markets are getting more complex, so where is the news?', right? Okay, here's the catch:
 We've build organizations around structures and processes that were invented to deal with different requirements. The way we built up and think about organizations are still based on the idea, that markets are predictable, change can be planned and our world works in a consistent way.
