@@ -71,7 +71,7 @@ Microsoft 365 can be one step to achieve transformation, but is not a goal by it
 
 Before we can change how we do a Microsoft 365 project to solve our oldworld problems, we first need to understand old and desired new ways of working and get the bigger picture of the situation we are facing. A good tool to facilitate deeper thinking is the iceberg model. 
 
-### whats is the iceberg model
+### What is the iceberg model
 
 ![iceberg model of visible events and unvisble patterns, systems and mental models](https://github.com/LuiseFreese/blog/blob/main/media/iceberg.jpg "The iceberg model - a tool to get the bigger picture")
 
@@ -89,8 +89,7 @@ On this level, people think about what led to the visible event and try to conne
  
 * Level 3: Structures
 
-Digging one level deeper, we will see which system supports and influences these patterns: *What's influencing these patterns?
-Where are the connections between patterns?* 
+Digging one level deeper, we will see which system supports and influences these patterns: *What's influencing these patterns? Where are the connections between patterns?* 
 On this level, people think about what influences these patterns and try to understand the *Why*, for example: "Working crazy hours, worrying about problems at work and eating late night affected my quality of sleep". 
 
 * Level 4: Mental models
@@ -98,9 +97,6 @@ On this level, people think about what influences these patterns and try to unde
 Finally, we will investigate, *what values, beliefs or assumptions shape the system and keep it in place?* People now dig into which thinking generated the structures that are in place, for example: "Our belief of "work is the most important thing, even more important than health and the more I do the more valuable I am" led to my behavior (which seemed to be normal, because everyone did that) which resulted in physical manifestation of unhealthy work ethics that showed as catching colds easily"
 
 Let's have a look on how this works in the "old world" 
-
-short intro old world
-not productive, incompliant working behavior... 
 
 ### iceberg of the old world
 
@@ -165,7 +161,7 @@ Some questions to ask could be:
 * Do we encourage people to learn and share? Which restrictions prevent employess to actively do so and how much time is reserved for that?
 * Do we have an organizational purpose? How is this *why* communicated to employees? Is this only one-way communication or a vivid discussion in which everyone's voice matters? 
 
-### structure
+### Structure
 
 As the fixed hierarchy in organizations seems to be one of the main drivers to prevent purposeful collaboration within an organization, it's deconstruction will be a powerful step towards a modern organization. Based on the answers from above, we will need to ask:
 
@@ -174,7 +170,7 @@ As the fixed hierarchy in organizations seems to be one of the main drivers to p
 * How can we ensure that information silos no longer exist?
 * How would permissions, access to data and tools, ownership and responsibilities look like when we work with Microsoft 365?
 
-### patterns and trends 
+### Patterns and Trends 
 
 Patterns and trends we can observe once we ensured to work towards a structure that is aligned with our organizational purpose and reflects its values are, for example: 
 
@@ -185,7 +181,7 @@ Patterns and trends we can observe once we ensured to work towards a structure t
 * democratizing access to corporate assets (knowledge, tools, roles) will impact how people feel about their employer
 * respectful clima towards everyone results in consciousness and thoughfulness
 
-### events
+### Events
 
 Climbing up our iceberg we will now reach its visible tip, the events that everyone notices. After we did the legwork with core beliefs and organizational values, defined structure and processes that support these values and fostered patterns that result in a digitally literate, connected and aligned workforce, we can now reap what we have sown:
 
@@ -202,13 +198,6 @@ Of course, we will need:
 * proper guidance and training. Training alone won't be sufficient, people will need examples, discussions and time to figure out what works best for them. 
 
 
-
-
-
-Sustain
-
-
-Luise & Michael
 ## conclusion
 
 
