@@ -1,6 +1,6 @@
 ---
 title: Why Microsoft 365 adoption projects fail
-ms.date: 17/01/2020
+ms.date: 01/17/2021
 author: LuiseFreese
 ms.reviwer: efrene
 ms.author: efrene
@@ -211,7 +211,7 @@ To see the bigger picture of adoption and how Microsoft 365 could support our di
 
 ## useful resources
 
-* [Microsoft 365 Maturity model](https://docs.microsoft.com/en-us/microsoft-365/community/microsoft365-maturity-model--intro)
+* [Microsoft 365 Maturity model](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
 * [Microsoft 365 Adoption guide](https://adoption.microsoft.com)
 
 
