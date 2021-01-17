@@ -16,18 +16,21 @@ ms.collection: M365Community
 
 ## intro about the challenge: 
 
-* adoption is hard because people don't understand WHY they need to change their working behavior
-* to simply explain it would be to increase productivity, is not enough, it doesn't connect nor does it reflect their beliefs
-* without a shared vision/common understanding, we will only scratch the surface of what M 365 could do in an organization
+We see a lot of challenges when it comes to the *people part* of Microsoft 365. We heard it all before: Digitalization is 80% about people and 20% about tech. But what does that mean exactly? How can we face that challenge and why is it so hard to let people love software? Because Microsoft 365 is not *just* a software - it's an approach to change the way we work, because it reflects some principles which we will need in the future. We know already, that 
+
+* adoption is hard because people don't understand WHY they need to change their working behavior. Without this why they resist change or only change superficially; they don't stay curious and they don't adapt the evergreen approach. 
+* simply explaining Microsoft 365 would increase productivity, is not enough, because statements like that don't sell anymore. They don't connect to people's experiences nor do they reflect their beliefs. In fact, people easily confuse being productive (adding value in a meaningful way) with being busy (fulfilling tasks rather chaotically and under time pressure) so that *increase productivity* is rather perceived as putting even more pressure on them. 
+* without a shared vision and common understanding, we will only scratch the surface of what Microsoft 365 could do in an organization. 
 
 ## VUCA
-The necessity of understanding the real challenge isn't acutally that new: In the 90's the term VUCA was invented by the US military to describe our modern world and the challenges any organization (not only the military) was facing. This acronym describes a world, in which change becomes a new constant, so planability and consistency are not the factors to describe current markets and environments for organizations.
+The necessity of understanding the real challenge isn't acutally that new: In the 90's the term VUCA was invented by the US military to describe our modern world and the challenges any organization (not only the military) was facing. This acronym describes a world, in which change becomes a new constant, so planability and consistency are not the factors to describe current markets and environments for organizations. 
 
 ### Volatility
 
 The world is changing faster than ever before BUT the world will never change as slowly as it is right now. New challenges, competitors and different unpredictable factors are something we have to deal with. That means, that long term planning and the reliability of this planning won't be sufficient for modern organizations.
 
 ### Uncertainty
+
 Predictability and calculability of events are rapidly decreasing, forecasts and experiences from the past as a basis for shaping the future are losing their validity and relevance. Just look at how quickly and comprehensively Covid19 has changed the way we are working right now. Do we have to say more?
 
 ### Complexity
@@ -48,19 +51,24 @@ So ultimately, we need a new way of thinking about organizations and the way we 
 In other words, this new world comes with a need to transform: 
 
 ### Profit -> Purpose
+
 Maximising profit was the main driver for successful businesses for a long time. Yet within a connected world full of information that isn't the only constant that ensures success nowadays. Customers often have enough information to compare different organizations and are able to choose who they're engaging with. That appears to customers and employees to the same extend. Nowadays there are many factors that need to be taken into account for a successful business: work ethics, social responsibility, the ecological factor, and so on. Those things often come, when an organization has a clear purpose, a WHY. Organisations that know why there are doing something, rather than relying on the how have a far better standing in the markets than others. And you know what the trick is? With purpose come profit, but it doesn't work the other way around. Customers and partners have a pretty good idea who they want to deal with and that's what differs a successful organization from a unsuccessful.
 
 ### Hierarchies -> Networks
+
 In a world where we have a compliacted, yet clear task with multiple people to work on that task, you need someone who has a clear understanding of what there is to do. Someone to keep all the strings together and knows where to go. With that comes a clarity about hierarchy, line of command and power. Within a world that is changing fast and context isn't to be overseen by one (or a couple) person,  we have the problem, that there isn't THE right way, that one person likely can't understand all interdependencies. This person has to rely on others to tackle the current task. Yet a clear line of command and a strict hierarchy are opposed to this. Self-organized teams, collaboration between internal and external staff over many borders require a different understanding of leadership and collaboration. Rather than a clear line of command, networks work much better these days to connect different people and to create exchange that meets the requirements.
 
 ### Controlling -> Empowering
+
 Keep the *Hierachy - Network* idea in the back of your mind and spin the thought further: If you can connect with different people, regardless their physical location, neither their standing within a hierarchy, still you need them to be able to do something. Within strict organizations with constricting processes built in communications and IT departments, people have no chance to make an impact. When you are at the wrong position in the hierarchy, you'll never contribute. But what if the earthshaking idea is in the head of somebody who can't contribute? In this modern, ever changing world the person at the top is not necessarily the one with the best ideas. Often it's quite the opposite: How often do people on the front line, interacting with customers and challenges, know exactly how to solve those needs?
 
 ### Planning -> Experimentation
+
 For ages planability and predictability of strategies were a winning factor of organizations and the one, hero-like, manager who could forsee what was going to happen was at the top of the hierarchy. But if we know, that the environment of organizations is characterized by the VUCA components, this long-term planability isn't sufficient. The opposite of this business model is one that is characterized by short iterations. A short term experiment that might seal the deal, yet isn't a complete catastrophe if it's not. 
 Do you know where you know this principle from? That's right, from every agile approach ever. Short sprints are way more efficient than the old waterfall approach. Yet the structures we find in modern organizations don't allow such an approach, because they still solidify an old mindset.
 
 ### Privacy -> Transparency
+
 'Intellectual property is good and if you have or know something, keep it for yourself so you can climb up that hierarchy ladder. And of course you will build up a competitive advantage.' These thoughts don't make sense anymore and don't fit a modern and agile organizations: It is impossible to know which information might become useful in the future and which expert we will need to pass an upcoming challenge. Therefore we need to be open-minded, think in networks and empower people to participate in the meaning of our purpose. 
 
 Digitalization needs to be the accelerator on that, but can never be the main driver. We need a new approach to think about work in general.
@@ -113,7 +121,6 @@ People abuse tools, work around disfunctional processes, communication patterns 
 Typical organizations look like a pyramide, with a  few decision-makers at the top (leadership) and the rest of the workforce at the bottom, which is a result from the approach to design companies like military institutions with a defined chain of command and with compartmentalized structures. This led to departments, which don't communicate well and are now rather information silos. The given structure leads to processes, that make sure that this structure stays as it is - which conflicts directly with the need to convert from privacy to transparency, from planning to experimentation and from controlling to empowering. But segmentation of organization is not only an issue across departments (horizontically), but also in in hierarchy (vertically), which leads us to another iceberg, that is responsible for a lack of understanding of problems of workforce by leadership: 
 
 ![iceberg of ignorance](https://github.com/LuiseFreese/blog/blob/main/media/icebergignorance.jpg)
-
 
 Leadership, who doesn't understand issues and a workforce, that can not regularly connect to their leadership team lead to processes which do not reflect the work that needs to be done, structures that cement the status quo and decisions about tools and working methods that serve old principles privacy, planning and controlling. 
  
