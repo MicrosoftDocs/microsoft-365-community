@@ -6,10 +6,9 @@ ms.reviwer: efrene
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 
-description: Why Microsoft 365 adoption projects fail - a deeper look into organizational structures, mental models and patterns
+description: Why Microsoft 365 adoption projects fail - a deeper look into corporate mental models, organizational structures, and patterns in working behavior
 ms.collection: M365Community
 ---
-
 
 # Why Microsoft 365 adoption projects fail
 
@@ -155,7 +154,7 @@ This over time leads to a healthy understanding of productivity with some very b
 
 The million dollar question now is, what needs to be done at Level 4 so that we see the right effect on Level 1? As consultans we will of course say "it depends", but we identified some core concepts, which of course represent our iceberg:
 
-* corporate culture - mental model
+### corporate culture - mental model
 
 Rather than stating, that people need to have the *right* mindset, we will need to focus on organizational change, which means that it is not sufficient to write down some fancy leadership principles, but to actually work on which behavior we show. At the end of the day, people don't do what we tell them to do, but we show them. It is time to consciously reflect on corporate values an how there are filled with life in the organization. As an example: You can *tell* that you have a good culture of being allowed to make mistakes, but if everyone is cc-ing everyone massively to share responsibility / cover themselves, then it is very clear, that the good culture only existed on paper. Therefore we will need to question ourselves about our values and how they resonate for employees, partners, customers. Without doing this heavy lifting, all approaches to roll out tools, to do champions programs, use case shopping and enduser training will only scratch the surface and come to nothing or won't stay sustainibly, which means that we will see perhaps some quick wins, but no long term change. 
 
@@ -166,17 +165,38 @@ Some questions to ask could be:
 * Do we encourage people to learn and share? Which restrictions prevent employess to actively do so and how much time is reserved for that?
 * Do we have an organizational purpose? How is this *why* communicated to employees? Is this only one-way communication or a vivid discussion in which everyone's voice matters? 
 
-* structure
+### structure
 
 As the fixed hierarchy in organizations seems to be one of the main drivers to prevent purposeful collaboration within an organization, it's deconstruction will be a powerful step towards a modern organization. Based on the answers from above, we will need to ask:
 
 * Do we need to stick to the inherited chain of commands or can we experiment with other leadership approaches like holocracy?
 * Can we institutionalize learning, failing, sharing and make this part of our DNA?
 * How can we ensure that information silos no longer exist?
+* How would permissions, access to data and tools, ownership and responsibilities look like when we work with Microsoft 365?
 
-* patterns and trends 
+### patterns and trends 
+
+Patterns and trends we can observe once we ensured to work towards a structure that is aligned with our organizational purpose and reflects its values are, for example: 
+
+* Servant and shared leadership will result in employees feeling more included into decision making processes and taking responsility
+* Embracing diversity leads to better products
+* Breaking down information silos will lead to serendiptious connections
+* a #LearnItAll mindset will grant future readiness
+
+### events
+
+Climbing up our iceberg we will now reach its visible tip, the events that everyone notices. We 
+Of course, we will need: 
+
+* advocates, who explain, evangelize and discuss openly change with their peers. It is important to include people rather than giving the impression that ongoing change would be already a fait accompli. Good communication is key. Just sending an email or printing some posters won't light a fire in an organization. Explain the big picture and elaborate on the why of this enterprise. This makes sure, that all stakeholder will have a good understanding to drive change even further.
+
+* some persistence. Rome wasn't built in a day and we first need to unlearn the practices from old world. This is pretty challenging as we easily fall back into old role patterns. The path would be to be patient and to make it easier to follow a new approach. Gamification can help a lot here, but yet again- if we only work on this level, the effects will quickly fizzle out. 
 
 
+
+
+
+Sustain
 
 
 Luise & Michael
