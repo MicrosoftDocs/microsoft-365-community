@@ -46,7 +46,7 @@ We've build organizations around structures and processes that were invented to 
 
 So ultimately, we need a new way of thinking about organizations and the way we work. We need new guidelines and principles, that fit the challenges we're facing right now, that fit this new world.
 
-In other word, this new world comes with a need to transform: 
+In other words, this new world comes with a need to transform: 
 
 ### Profit -> Purpose
 Maximising profit was the main driver for successful businesses for a long time. Yet within a connected world full of information that isn't the only constant that ensures success nowadays. Customers often have enough information to compare different organizations and are able to choose who they're engaging with. That appears to customers and employees to the same extend. Nowadays there are many factors that need to be taken into account for a successful business: work ethics, social responsibility, the ecological factor, and so on. Those things often come, when an organization has a clear purpose, a WHY. Organisations that know why there are doing something, rather than relying on the how have a far better standing in the markets than others. And you know what the trick is? With purpose come profit, but it doesn't work the other way around. Customers and partners have a pretty good idea who they want to deal with and that's what differs a successful organization from a unsuccessful.
@@ -67,7 +67,6 @@ Do you know where you know this principle from? That's right, from every agile a
 Digitalization needs to be the accelerator on that, but can never be the main driver. We need a new approach to think about work in general.
 
 Microsoft 365 can be one step to achieve transformation, but is not a goal by itself. Just rolling out Microsoft 365 (or a subset of its tools and services) won't solve our Vuca problems. We need to see the bigger picture to figure out with which part of it Microsoft 365 can help, because we won't solve any problem with assigning licenses to users. 
-
 
 ## The Iceberg Model
 
@@ -120,7 +119,6 @@ Typical organizations look like a pyramide, with a  few decision-makers at the t
 
 ![iceberg of ignorance](https://github.com/LuiseFreese/blog/blob/main/media/icebergignorance.jpg)
 
-[source](https://corporate-rebels.com/iceberg-of-ignorance/)
 
 Leadership, who doesn't understand issues and a workforce, that can not regularly connect to their leadership team lead to processes which do not reflect the work that needs to be done, structures that cement the status quo and decisions about tools and working methods that serve old principles privacy, planning and controlling. 
  
@@ -137,26 +135,31 @@ Because in the end, we are confusing cause and effect. If we only focus on the c
 
 To give you a little guidance, here is a quick walkthrough of the iceberg model of the desired new world:
 
+* Level 4: Mental Model
 
-Luise: 
-* level 4
-Sharing is caring
-we dont compete, we are on the same journey together, its easier to solve complex problems together, everyone's voice matters
-* level 3
-cross departmental teams, communities, tools that support collaboration, processes that work
-* level 2
-* level 1
+Our core beliefs are a representation of the Sharing is caring - mindset. We don't compete against each other, but value and listen to every voice. We are convinced, that we can face challenges better together and that Learning, experimenting and sharing failure and success is important. 
+
+* Level 3: Structures
+
+This will automatically lead to organizations which enable work in cross functional teams, facilitate open communities so that people can connect beyond their filter bubble (which makes serendiptous coincidences possioble), support tools that foster collaboration and processes that work towards a common understanding and shared vision of organizational purpose. 
+
+* Level 2: Patterns and Trends
+
+ With this background, people will don't abuse tools anymore and don't need to work around processes anymore. They notice, that work actually works and find a good rythm of collaboration, connecting and focused work.  
+
+* Level 1: Events
+
+This over time leads to a healthy understanding of productivity with some very beneficial implications: Awareness of mental load, sovereignity of priorities, Connectiveness in the broader organization. As a result, we can see that people make good use of their time and do not need to face obstacles that are usually in the way. 
+
+### How do we change? 
+
+The million dollar question now is, what needs to be done at Level 4 so that we see the right effect on Level 1? As consultans we will of course say "it depends", but we identified some core concepts: 
+
+* corporate culture
+
+Rather than stating, that people need to have the *right* mindset, we will need to focus on organizational change, which means that it is not sufficient to write down some fancy leadership principles, but to actually work on which behavior we show. At the end of the day, people don't do what we tell them to do, but we show them. It is time to consciously reflect on corporate values an how there are filled with life in the organization. As an example: You can *tell* that you have a good culture of being allowed to make mistakes, but if everyone is cc-ing everyone massively to share responsibility / cover themselves, then it is very clear, that the good culture only existed on paper. Therefore we will need to question ourselves about our values and how they resonate for employees, partners, customers. 
 
 
-### what would we need to change? 
-
-
-Luise & Michael
-What needs to happen? What needs to be done/achieved on level 4 so that visible behavior in level 1 is desired new behavior?
-
-* collective consciousness, not individual responsibility
-* corporate culture, if we not only commit to our values but also live and breath and work by them
-* walk the talk
 
 
 Luise & Michael
