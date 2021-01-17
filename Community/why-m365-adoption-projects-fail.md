@@ -133,7 +133,7 @@ What can we now do about it? Make people aware of the broken system that doesn't
 You see what happens here, right? When we approach a modern workstyle mindset as we usually do, we barely go to the root of the problem at all. We're barely scratching the surface of it. And that is all fair and square but we also know that when we're fixing the symptons of the problem, our solutions won't sustain. 
 Because in the end, we are confusing cause and effect. If we only focus on the cause and just try to fix the symptoms, we barely fix the underlying issue at all. We need to work on the cause, to end up with a different effect in the end. What we really want to achieve in the first place, is a sustainable change of habits towards a better work environment and a healthy mindset. If we want to change people's behavior, which we see in level 1, we will need to change our core beliefs and mental models of level 4. 
 
-To give you a little guidance, here is a quick walkthrough of the iceberg model of the desired new world:
+To give you a little guidance, we will turn the iceberg upside down and start at the bottom: 
 
 * Level 4: Mental Model
 
@@ -151,13 +151,30 @@ This will automatically lead to organizations which enable work in cross functio
 
 This over time leads to a healthy understanding of productivity with some very beneficial implications: Awareness of mental load, sovereignity of priorities, Connectiveness in the broader organization. As a result, we can see that people make good use of their time and do not need to face obstacles that are usually in the way. 
 
-### How do we change? 
+## How do we change? 
 
-The million dollar question now is, what needs to be done at Level 4 so that we see the right effect on Level 1? As consultans we will of course say "it depends", but we identified some core concepts: 
+The million dollar question now is, what needs to be done at Level 4 so that we see the right effect on Level 1? As consultans we will of course say "it depends", but we identified some core concepts, which of course represent our iceberg:
 
-* corporate culture
+* corporate culture - mental model
 
-Rather than stating, that people need to have the *right* mindset, we will need to focus on organizational change, which means that it is not sufficient to write down some fancy leadership principles, but to actually work on which behavior we show. At the end of the day, people don't do what we tell them to do, but we show them. It is time to consciously reflect on corporate values an how there are filled with life in the organization. As an example: You can *tell* that you have a good culture of being allowed to make mistakes, but if everyone is cc-ing everyone massively to share responsibility / cover themselves, then it is very clear, that the good culture only existed on paper. Therefore we will need to question ourselves about our values and how they resonate for employees, partners, customers. 
+Rather than stating, that people need to have the *right* mindset, we will need to focus on organizational change, which means that it is not sufficient to write down some fancy leadership principles, but to actually work on which behavior we show. At the end of the day, people don't do what we tell them to do, but we show them. It is time to consciously reflect on corporate values an how there are filled with life in the organization. As an example: You can *tell* that you have a good culture of being allowed to make mistakes, but if everyone is cc-ing everyone massively to share responsibility / cover themselves, then it is very clear, that the good culture only existed on paper. Therefore we will need to question ourselves about our values and how they resonate for employees, partners, customers. Without doing this heavy lifting, all approaches to roll out tools, to do champions programs, use case shopping and enduser training will only scratch the surface and come to nothing or won't stay sustainibly, which means that we will see perhaps some quick wins, but no long term change. 
+
+Some questions to ask could be: 
+
+* Do we trust our employees and to which extent? How many control mechanisms, that are also interfere with people's productivity and frustrate them do we have in place? 
+* Do we foster transparency? Which structures and processes did we follow to rather promote information silos and prevent people from connecting dots?
+* Do we encourage people to learn and share? Which restrictions prevent employess to actively do so and how much time is reserved for that?
+* Do we have an organizational purpose? How is this *why* communicated to employees? Is this only one-way communication or a vivid discussion in which everyone's voice matters? 
+
+* structure
+
+As the fixed hierarchy in organizations seems to be one of the main drivers to prevent purposeful collaboration within an organization, it's deconstruction will be a powerful step towards a modern organization. Based on the answers from above, we will need to ask:
+
+* Do we need to stick to the inherited chain of commands or can we experiment with other leadership approaches like holocracy?
+* Can we institutionalize learning, failing, sharing and make this part of our DNA?
+* How can we ensure that information silos no longer exist?
+
+* patterns and trends 
 
 
 
