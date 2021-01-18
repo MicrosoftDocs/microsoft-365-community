@@ -119,7 +119,7 @@ People abuse tools, work around dysfunctional processes, communication patterns,
 
 Typical organizations look like a pyramid, with a  few decision-makers at the top (leadership) and the rest of the workforce at the bottom, resulting from the approach to design companies like military institutions with a defined chain of command compartmentalized structures. This led to departments, which don't communicate well and are now rather information silos. The given structure leads to processes that ensure that this structure stays as it is - which conflicts directly with the need to convert from privacy to transparency, from planning to experimentation, and from controlling to empowering. But segmentation of organization is not only an issue across departments (horizontally), but also in the hierarchy (vertically), which leads us to another iceberg, that is responsible for lack of understanding of problems of workforce by leadership: 
 
-![iceberg of ignorance](https://github.com/LuiseFreese/blog/blob/main/media/icebergignorance.jpg)
+![iceberg of ignorance](https://github.com/LuiseFreese/microsoft-365-community/blob/patch-3/Community/media/why-m365-adoption-projects-fail/iceberg-ignorance.png)
 
 Leadership, who doesn't understand issues and a workforce that can not regularly connect to their leadership team lead to processes that do not reflect the work that needs to be done, structures that cement the status quo, and decisions about tools and working methods that serve old principles privacy, planning and controlling. 
  
