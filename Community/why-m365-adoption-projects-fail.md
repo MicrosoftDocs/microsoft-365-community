@@ -80,7 +80,7 @@ Before we can change how we do a Microsoft 365 project to solve our old world pr
 
 ### What is the iceberg model
 
-![iceberg model of visible events and invisible patterns, systems and mental models](https://github.com/LuiseFreese/blog/blob/main/media/iceberg.jpg "The iceberg model - a tool to get the bigger picture")
+![iceberg model of visible events and invisible patterns, systems and mental models](https://github.com/LuiseFreese/microsoft-365-community/blob/patch-3/Community/media/why-m365-adoption-projects-fail/iceberg%20tool.png)
 
 As we know, an iceberg shows only its tip above the water and that most of it is hidden underneath it; it works as a good metaphor for things that are not visible obviously to us. The iceberg model introduces us to 4 different stages, which we will uncover now: 
 
