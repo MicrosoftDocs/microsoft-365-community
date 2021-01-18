@@ -84,22 +84,22 @@ Before we can change how we do a Microsoft 365 project to solve our old world pr
 
 As we know, an iceberg shows only its tip above the water and that most of it is hidden underneath it; it works as a good metaphor for things that are not visible obviously to us. The iceberg model introduces us to 4 different stages, which we will uncover now: 
 
-* Level 1: Events
+#### Level 1: Events
 
 Very visibly, we will find events. An event is the answer to the question *What is happening right now?*
 On this level, people only *react* to what just happened and then stop to think about it. For example: "I caught a cold."
 
-* Level 2: Patterns
+#### Level 2: Patterns
 
 Already underneath the surface, we will find patterns: *What has been happening over time? What are the trends?* 
 On this level, people think about what led to the visible event and try to connect the dots, for example: "I caught a cold more often in the past when I slept less."
  
-* Level 3: Structures
+#### Level 3: Structures
 
 Digging one level deeper, we will see which system supports and influences these patterns: * What affects these patterns? Where are the connections between practices?* 
 On this level, people think about what influences these patterns and try to understand the *Why*, for example: "Working crazy hours, worrying about problems at work, and eating late at night affected my quality of sleep." 
 
-* Level 4: Mental models
+#### Level 4: Mental models
 
 Finally, we will *investigate *what values, beliefs, or assumptions shape the system and keep it in place?* People now dig into which thinking generated the structures that are in place, for example: "Our belief of "work is the most important thing, even more important than health and the more I do, the more valuable I am" led to my behavior (which seemed to be expected, because everyone did that) which resulted in a physical manifestation of unhealthy work ethics that showed as catching colds quickly."
 
@@ -107,15 +107,15 @@ Let's have a look at how this works in the "old world."
 
 ### iceberg of the old world
 
-* Level 1: Events - what just happened
+#### Level 1: Events - what just happened
 
 People can't focus, experience both a lack of efficiency AND effectiveness, waste their time with tasks they shouldn't do, and are instead busy than productive.
 
-* Level 2: Patterns - what was happening over time? 
+#### Level 2: Patterns - what was happening over time? 
 
 People abuse tools, work around dysfunctional processes, communication patterns, and organizational structures. They are not familiar with the art of collaboration, feel to be under pressure to be always available, and react to everything instantaneously. High frequency of task-switching while working instead next to each other than together is challenging and exhausting. 
 
-* Level 3: Structure- What is influencing these patterns? 
+#### Level 3: Structure- What is influencing these patterns? 
 
 Typical organizations look like a pyramid, with a  few decision-makers at the top (leadership) and the rest of the workforce at the bottom, resulting from the approach to design companies like military institutions with a defined chain of command compartmentalized structures. This led to departments, which don't communicate well and are now rather information silos. The given structure leads to processes that ensure that this structure stays as it is - which conflicts directly with the need to convert from privacy to transparency, from planning to experimentation, and from controlling to empowering. But segmentation of organization is not only an issue across departments (horizontally), but also in the hierarchy (vertically), which leads us to another iceberg, that is responsible for lack of understanding of problems of workforce by leadership: 
 
@@ -123,7 +123,7 @@ Typical organizations look like a pyramid, with a  few decision-makers at the to
 
 Leadership, who doesn't understand issues and a workforce that can not regularly connect to their leadership team lead to processes that do not reflect the work that needs to be done, structures that cement the status quo, and decisions about tools and working methods that serve old principles privacy, planning and controlling. 
  
-* Level 4 Mental Models
+#### Level 4 Mental Models
 
 Let's look at which collective beliefs in our culture (which is then only reflected in corporate cultures and way too often reduced to "individual mindset": What do we people believe in, that they design organizations like this? Of course, redesigning takes a tremendous amount of energy (and money), and indeed it is easier to keep the status quo than to change. But why is this status quo, this broken system, still om place? Because we (or at least enough of us in critical positions) believe in "knowledge is power" instead of "Sharing is Caring." The "command and control" approach looks as if it also provides security and predictability, and although we already know better, we stick to this *ego-system* instead of an *eco system*. 
 
@@ -136,19 +136,19 @@ Because in the end, we are confusing cause and effect. If we only focus on the r
 
 To give you a little guidance, we will turn the iceberg upside down and start at the bottom: 
 
-* Level 4: Mental Model
+#### Level 4: Mental Model
 
 Our core beliefs are a representation of the Sharing is caring - mindset. We don't compete against each other but value and listen to every voice. We are convinced that we can face challenges better together and that Learning, experimenting, and sharing failure and success are essential. 
 
-* Level 3: Structures
+#### Level 3: Structures
 
 This will automatically lead to organizations that enable work in cross-functional teams, facilitate open communities so that people can connect beyond their filter bubble (which makes serendipitous coincidences possible), support tools that foster collaboration and processes that work towards a shared understanding and shared vision of organizational purpose. 
 
-* Level 2: Patterns and Trends
+#### Level 2: Patterns and Trends
 
  With this background, people will don't abuse tools anymore and don't need to work around processes anymore. They notice that work works and find a good rhythm of collaboration, connecting, and focused work.  
 
-* Level 1: Events
+#### Level 1: Events
 
 Over time, this leads to a healthy understanding of productivity with some very beneficial implications: Awareness of mental load, sovereignty of priorities, Connectiveness in the broader organization. As a result, we can see that people make fair use of their time and do not need to face obstacles that are usually in the way. 
 
