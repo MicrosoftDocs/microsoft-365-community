@@ -38,8 +38,6 @@ Creating a column sets the following:
 - Internal name - system reference to the column
 - Multilingual alternatives for your display names.
 
- > [!NOTE]
- > If you add a column directly to a document library, the internal name is used in the column URL. If you add the column to the List content type, and then add the column to the document library, the display name is used in the column URL.
 
 ### Display Names
 
