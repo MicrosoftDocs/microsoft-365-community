@@ -2,7 +2,7 @@
 title: "Making Good Technology Decisions" Establishing Decision Criteria"
 ms.date: 1/20/2021
 author: sympmarc
-ms.reviwer: efrene
+ms.reviewer: efrene
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 
@@ -12,7 +12,7 @@ ms.collection: M365Community
 
 # Making Good Technology Decisions: Establishing Decision Criteria
 
-* Part 1: Microsoft 365 - Making Good Technology Decisions: Establishing Decision Criteria
+* Part 1: Microsoft 365 - Making Good Technology Decisions: Establishing Decision Criteria (this article)
 * Part 2: Microsoft 365 - Making Good Technology Decisions: Data Storage
 * Part 3: Microsoft 365 - Making Good Technology Decisions: Front End
 
@@ -84,7 +84,7 @@ Saying you expect to generate gigabytes of data over the next five years is diff
 
 How important is the content you will be generating? This is usually the driver for security needs. Many organizations try to use a one-size-fits-all approach to security – everything is equally important and requires the same high-water mark of security – but this simply isn’t realistic. Understanding the actual security needs for the specific solution is extremely important.
 
-Usually the most important factors are statutory or regulatory requirements, then organizational policies, then common sense – in that order. Be sure you don’t allow the security folks to apply the one-size-fits all rule. There is also a vast volume of material about the certifications and security features for Microsoft 365 available in the Trust Center. Don’t try to reinvent the wheel by trying to prove that the platform is secure. Mine that vast trove of content for the specific proof you need and reference it with your security folks. Almost more importantly, if the solution you’re proposing simply doesn’t need to be secure – sports league signups? – then acknowledge that right up front.
+Usually the most important factors are statutory or regulatory requirements, then organizational policies, then common sense – in that order. Be sure you don’t allow the security folks to apply the one-size-fits all rule. There is also a vast volume of material about the certifications and security features for Microsoft 365 available in the Trust Center. Don’t try to reinvent the wheel by trying to prove that the platform is secure. Mine that vast trove of content for the specific proof you need and reference it with your security folks. Almost more importantly, if the solution you’re proposing simply doesn’t need to be secure – sports league sign ups? – then acknowledge that right up front.
 
 ## Requirements
 

@@ -1,25 +1,24 @@
 ---
-title: howtodeployteamsapptemplatesmd
-ms.date: 1/15/2021
+title: How to deploy Teams App templates into your tenant
+ms.date: 1/20/2021
 author: LuiseFreese
-ms.reviwer: efrene
+ms.reviewer: efrene
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 
-description: "Microsoft Teams app templates are ready to production, easy to deploy apps that extend Teams to your needs- this is a guide how to deply them"
+description: "Microsoft Teams app templates are ready to production, easy to deploy apps that extend Teams to your needs- this is a guide how to deploy them"
 ms.collection: M365Community
 ---
 
-
 # How to deploy Teams App templates into your tenant
 
+## Introduction
 
-## intro
 This blog post shall guide you through the process of App deployments with Microsoft Teams App templates.
 
-Microsoft Teams is an excellent hub for collaboration, and the most fantastic thing about it is its extensibility. Custom development can close some gaps between out of the box features and specific business needs. But we do not always need to reinvent the wheel completely. You can find amazing ready-to-deploy app-templates. Of course, as a developer, you may want to tweak those templates, but they are ready to use in production and, of course, great to understand how deployment works in Azure. 
+Microsoft Teams is an excellent hub for collaboration, and the most fantastic thing about it is its extensibility. Custom development can close some gaps between out of the box features and specific business needs. But we do not always need to reinvent the wheel completely. You can find amazing ready-to-deploy app-templates. Of course, as a developer, you may want to tweak those templates, but they are ready to use in production and, of course, great to understand how deployment works in Azure.
 
-⚡ Please don’t test in your production environment. If you are new to this, get a free Microsoft 365 developer tenant, it’s way safer for you. 
+⚡ Please don’t test in your production environment. If you are new to this, get a free Microsoft 365 developer tenant, it’s way safer for you.
 
 As an example, I will use the [Groups Activity App](https://docs.microsoft.com/microsoftteams/platform/samples/app-template) to show the steps that we usually need to do to deploy an app in our tenant.
 
@@ -31,9 +30,9 @@ First, you will need to register an Application in Azure AD, create an app secre
 
 Remember to save your App secret immediately after creating it – you won’t be able to read or copy it as soon as you click on something else in Azure Portal.
 To know which permissions you need, read the documentation of the app template.
-Don’t forget to grant admin consent for the permissions. 
+Don’t forget to grant admin consent for the permissions.
 
-![Step 1: Register app in AD](https://github.com/LuiseFreese/microsoft-365-community/blob/patch-2/Community/media/how-to-deploy-teams-app-templates/1registeraapp.gif)
+![Step 1: Register app in AD](media/how-to-deploy-teams-app-templates/1registeraapp.gif)
 
 ## Deploy template
 
@@ -43,13 +42,13 @@ create a new resource group
 paste Tenant ID, AppID, App Secret into the form,
 be a little bit patient. It can take a while. You don’t need to stay on that site. You can check later on as well.
 
-![deploy template](https://github.com/LuiseFreese/microsoft-365-community/blob/patch-2/Community/media/how-to-deploy-teams-app-templates/2deploy.gif)
+![Step 2: Deploy template](media/how-to-deploy-teams-app-templates/2deploy.gif)
 
 ## Add authentication
 
 Azure AD can easily manage authentication, connect our bot with it, and set the scope as in our app registration.
 
-![add authentication](https://github.com/LuiseFreese/microsoft-365-community/blob/patch-2/Community/media/how-to-deploy-teams-app-templates/3addauthentication.gif)
+![Step 3: Add authentication](media/how-to-deploy-teams-app-templates/3addauthentication.gif)
 
 ## Package App
 
@@ -68,7 +67,8 @@ In the manifest.json we will replace placeholders for
 and zip this `manifest.json` with `outline.png` and `color.png` from GitHub repo in a `GroupActivities.zip` file.
 
 ⚡ Watch out, sometimes the `outline.png` provided on GitHub are not transparent, and then your app won’t pass App validation. If this is the case for you, make it transparent, add it again to your .zip file.
-![package your app](https://github.com/LuiseFreese/microsoft-365-community/blob/patch-2/Community/media/how-to-deploy-teams-app-templates/4package.gif)
+
+![package your app](media/how-to-deploy-teams-app-templates/4package.gif)
 
 ## Publish
 
@@ -78,8 +78,12 @@ If you choose App Studio, upload your .zip file and select publish and then app 
 
 If you choose Teams Toolkit, you can see potential error even before trying to publish, and the error/warning notifications give you more detail about what was wrong, while App Studio just returns a ‘Something went wrong.’
 
-![publish](https://github.com/LuiseFreese/microsoft-365-community/blob/patch-2/Community/media/how-to-deploy-teams-app-templates/6publish.gif)
+![publish](media/how-to-deploy-teams-app-templates/6publish.gif)
 
 Time for a happy dance!
 
+---
 
+**Principal author**: [LuiseFreese](http://www.linkedin.com/in/LuiseFreese)
+
+---
