@@ -23,7 +23,7 @@ Social media also give you direct access to expertise. Use one of the help tags 
 > [!TIP]
 > Combine a product tag with a help tag to target your audience.
 >
-> Example: "What is the maximum number of flows a user can create on Microsoft 365? #PowerHelp #PowerAutomate"
+> Example: "How many complex columns can I show in one view of a SharePoint list? #SPHelp #SharePoint"
 >
 
 > [!TIP]
@@ -113,15 +113,14 @@ If you're having general issues with Microsoft 365, be sure to check the [Micros
 
 ## Development
 
-> [!IMPORTANT]
-> Seeking help on PnP? Include **[#PnPhelp](https://twitter.com/hashtag/PnPhelp)** in your tweet.
-
 |Hashtag|Official Account|
 |---|---|
 |[#SPFx](https://twitter.com/hashtag/SPFx)|[@Microsoft365Dev](https://twitter.com/Microsoft365Dev)|
 |[#MicrosoftGraph](https://twitter.com/hashtag/MicrosoftGraph)|[@Microsoft365Dev](https://twitter.com/Microsoft365Dev)|
 |[#PnPPowerShell](https://twitter.com/hashtag/PnPPowerShell)|[@m365pnp](https://twitter.com/m365pnp)|
 |[#PnPjs](https://twitter.com/hashtag/PnPjs)|[@m365pnp](https://twitter.com/m365pnp)|
+|[#M365PnP](https://twitter.com/hashtag/M365PnP)|[@m365pnp](https://twitter.com/m365pnp)|
+|[#CLIMicrosoft365](https://twitter.com/hashtag/CLIMicrosoftM365)|[@CLIMicrosoft](https://twitter.com/climicrosoft365)|
 
 ## Security
 
