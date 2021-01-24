@@ -28,7 +28,7 @@ The necessity of understanding the real challenge isn't that new: In the '90s, t
 
 ### Volatility
 
-The world is changing faster than ever before, BUT the world will never change as slowly as it is right now. New challenges, competitors, and different unpredictable factors are something we have to deal with. That means that long term planning and the reliability of this planning won't be sufficient for modern organizations.
+The world is changing faster than ever before, BUT the world will never change as slowly as it is right now. In other words, the pace of changbe will continue to increase. New challenges, competitors, and different unpredictable factors are something we have to deal with. That means that long term planning and the reliability of this planning won't be sufficient for modern organizations.
 
 ### Uncertainty
 
@@ -197,10 +197,10 @@ As the fixed hierarchy in organizations seems to be one of the main drivers to p
 
 Patterns and trends we can observe once we ensure we are working toward a structure that is aligned with our organizational purpose and reflects its values are, for example:
 
-* Servant and shared leadership will result in employees feeling more included in decision-making processes and taking responsibility
+* [Servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) will result in employees feeling more included in decision-making processes and taking responsibility
 * Embracing diversity leads to better products
 * Breaking down information silos will lead to serendipitous connections
-* A #LearnItAll mindset will grant future-readiness
+* A [#LearnItAll](https://www.linkedin.com/pulse/satya-nadella-growth-mindsets-learn-it-all-does-better-jessi-hempel/) mindset will grant future-readiness
 * Democratizing access to corporate assets (knowledge, tools, roles) will impact how people feel about their employer
 * A respectful climate towards everyone results in consciousness and thoughtfulness
 
@@ -234,6 +234,12 @@ To see the bigger picture of adoption and how Microsoft 365 can support our digi
 
 ## Useful resources
 
+### Iceberg Models
+* [Involved in transformation? People love this model](http://glowconsulting.com/wp-content/uploads/2018/04/Iceberg-model_Glow_Mar18.pdf)
+* [The Systems Thinking Playbook by Linda Booth Sweeney and Dennis Meadows](https://amzn.to/3qHmKpc)
+
+### Other
+* [Satya Nadella on growth mindsets: “The learn-it-all does better than the know-it-all.”](https://www.linkedin.com/pulse/satya-nadella-growth-mindsets-learn-it-all-does-better-jessi-hempel/)
 * [Microsoft 365 Maturity model](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
 * [Microsoft 365 Adoption guide](https://adoption.microsoft.com)
 

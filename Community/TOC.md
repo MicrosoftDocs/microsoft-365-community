@@ -7,6 +7,7 @@
 ### [Groups in Microsoft 365 and Azure, and Which is Right for You](all-about-groups.md)
 ## Microsoft 365 Better Practices
 ### [OneDrive PC Folder Backup Benefits for End Users](known-folder-move-benefits-for-enduser.md)
+### [Why Microsoft 365 adoption projects fail](why-m365-adoption-projects-fail.md)
 ## Maturity Model for Microsoft 365
 ### [Introduction](microsoft365-maturity-model--intro.md)
 ### [Collaboration Competency](microsoft365-maturity-model--collaboration.md)

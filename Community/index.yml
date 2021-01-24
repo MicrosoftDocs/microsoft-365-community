@@ -44,6 +44,8 @@ landingContent:
         links:
           - text: OneDrive PC Folder Backup Benefits for End Users
             url:  known-folder-move-benefits-for-enduser.md
+          - text: Why Microsoft 365 adoption projects fail
+            url: why-m365-adoption-projects-fail.md
 
   # Card (optional)
   - title: Maturity Model for Microsoft 365
