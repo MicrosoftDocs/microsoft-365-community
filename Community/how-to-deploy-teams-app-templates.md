@@ -16,21 +16,19 @@ ms.collection: M365Community
 
 This blog post shall guide you through the process of App deployments with Microsoft Teams App templates.
 
-Microsoft Teams is an excellent hub for collaboration, and the most fantastic thing about it is its extensibility. Custom development can close some gaps between out of the box features and specific business needs. But we do not always need to reinvent the wheel completely. You can find amazing ready-to-deploy app-templates. Of course, as a developer, you may want to tweak those templates, but they are ready to use in production and, of course, great to understand how deployment works in Azure.
+Microsoft Teams is an excellent hub for collaboration, and the most fantastic thing about it is its extensibility. Custom development can close some gaps between out of the box features and specific business needs. But we do not always need to reinvent the wheel completely. You can find amazing ready-to-deploy app templates. Of course, as a developer, you may want to tweak those templates, but they are ready to use in production and, of course, it's great to understand how deployment works in Azure.
 
-⚡ Please don’t test in your production environment. If you are new to this, get a free Microsoft 365 developer tenant, it’s way safer for you.
+⚡ Please don’t test in your production environment. If you are new to this, get a free Microsoft 365 developer tenant: it’s way safer for you for testing.
 
-As an example, I will use the [Groups Activity App](https://docs.microsoft.com/microsoftteams/platform/samples/app-template) to show the steps that we usually need to do to deploy an app in our tenant.
+As an example, I will use the [Group Activities App](https://docs.microsoft.com/microsoftteams/platform/samples/app-templates#group-activities) to show the steps that we usually need to do to deploy an app in our tenant.
 
-You can get the complete documentation, including all files, deployment guides, and architecture overview on [GitHub](https://github.com/OfficeDev/microsoft-teams-apps-groupactivities). In this article, I will make you aware of some essential steps, which you might forget or give you some context.
+You can get the complete documentation, including all files, deployment guides, and architecture overview on [GitHub](https://github.com/OfficeDev/microsoft-teams-apps-groupactivities).
 
 ## Register an App in Azure AD
 
-First, you will need to register an Application in Azure AD, create an app secret and enable GRAPH API permissions.
+First, you will need to register an Application in Azure AD, create an app secret and enable Graph API permissions.
 
-Remember to save your App secret immediately after creating it – you won’t be able to read or copy it as soon as you click on something else in Azure Portal.
-To know which permissions you need, read the documentation of the app template.
-Don’t forget to grant admin consent for the permissions.
+Remember to save your App secret immediately after creating it – you won’t be able to read or copy it once you click on something else in the Azure Portal. To understand which permissions you need, read the documentation for the specific app template. Don’t forget to grant admin consent for the permissions.
 
 ![Step 1: Register app in AD](media/how-to-deploy-teams-app-templates/1registeraapp.gif)
 
