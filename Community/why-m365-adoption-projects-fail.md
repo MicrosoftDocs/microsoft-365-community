@@ -235,10 +235,12 @@ To see the bigger picture of adoption and how Microsoft 365 can support our digi
 ## Useful resources
 
 ### Iceberg Models
+
 * [Involved in transformation? People love this model](http://glowconsulting.com/wp-content/uploads/2018/04/Iceberg-model_Glow_Mar18.pdf)
 * [The Systems Thinking Playbook by Linda Booth Sweeney and Dennis Meadows](https://amzn.to/3qHmKpc)
 
 ### Other
+
 * [Satya Nadella on growth mindsets: “The learn-it-all does better than the know-it-all.”](https://www.linkedin.com/pulse/satya-nadella-growth-mindsets-learn-it-all-does-better-jessi-hempel/)
 * [Microsoft 365 Maturity model](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
 * [Microsoft 365 Adoption guide](https://adoption.microsoft.com)
