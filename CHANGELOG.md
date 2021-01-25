@@ -12,7 +12,7 @@ Note: Changelog started in January, 2021
 
 | Article | Primary Author |
 |---|---|
-|[Why Microsoft 365 adoption projects fail](community/why-m365-adoption-projects-fail.md)|[Luise Freese, MVP](http://www.linkedin.com/in/LuiseFreese)|
+|[Why Microsoft 365 adoption projects fail](./community/why-m365-adoption-projects-fail.md)|[Luise Freese, MVP](http://www.linkedin.com/in/LuiseFreese)|
 |[Making Good Technology Decisions: Establishing Decision Criteria](community/making-good-technology-decisions--establishing-decision-criteria.md)|[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)|
 | [Making Good Technology Decisions: Data Storage](community/making-good-technology-decisions--data-storage.md) |[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)|
 | [Making Good Technology Decisions: Front End](community/making-good-technology-decisions--front-end.md)|[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)|
