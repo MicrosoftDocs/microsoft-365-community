@@ -56,9 +56,9 @@
 ### [Defining a Power Platform Environment Strategy](defining-a-power-platform-environment-strategy.md)
 ### [Power Automate vs Logic Apps](power-automate-vs-logic-apps.md)
 ### Making Good Technology Decisions
-### [Making Good Technology Decisions: Establishing Decision Criteria](making-good-technology-decisions--establishing-decision-criteria.md)
-### [Making Good Technology Decisions: Data Storage](making-good-technology-decisions--data-storage.md)
-### [Making Good Technology Decisions: Front End](making-good-technology-decisions--front-end.md)
+#### [Making Good Technology Decisions: Establishing Decision Criteria](making-good-technology-decisions--establishing-decision-criteria.md)
+#### [Making Good Technology Decisions: Data Storage](making-good-technology-decisions--data-storage.md)
+#### [Making Good Technology Decisions: Front End](making-good-technology-decisions--front-end.md)
 ## Useful Scenarios
 ### [Library Scenarios](library-scenarios.md)
 ### [Using Site Designs to Manage Project Life Cycles](site-design-life-cycle.md)
