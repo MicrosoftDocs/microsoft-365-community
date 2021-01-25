@@ -7,6 +7,7 @@
 ### [Groups in Microsoft 365 and Azure, and Which is Right for You](all-about-groups.md)
 ## Microsoft 365 Better Practices
 ### [OneDrive PC Folder Backup Benefits for End Users](known-folder-move-benefits-for-enduser.md)
+### [Why Microsoft 365 adoption projects fail](why-m365-adoption-projects-fail.md)
 ## Maturity Model for Microsoft 365
 ### [Introduction](microsoft365-maturity-model--intro.md)
 ### [Collaboration Competency](microsoft365-maturity-model--collaboration.md)
@@ -54,6 +55,10 @@
 ### [Should I store my files in Microsoft Teams or in SharePoint?](should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md)
 ### [Defining a Power Platform Environment Strategy](defining-a-power-platform-environment-strategy.md)
 ### [Power Automate vs Logic Apps](power-automate-vs-logic-apps.md)
+### Making Good Technology Decisions
+### [Making Good Technology Decisions: Establishing Decision Criteria](making-good-technology-decisions--establishing-decision-criteria.md)
+### [Making Good Technology Decisions: Data Storage](making-good-technology-decisions--data-storage.md)
+### [Making Good Technology Decisions: Front End](making-good-technology-decisions--front-end.md)
 ## Useful Scenarios
 ### [Library Scenarios](library-scenarios.md)
 ### [Using Site Designs to Manage Project Life Cycles](site-design-life-cycle.md)

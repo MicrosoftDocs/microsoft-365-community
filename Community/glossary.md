@@ -38,6 +38,10 @@ Set of standards and processes to analyze, design, build, test and deploy a soft
 
 A cloud solution that supports labeling of documents and emails to classify and protect information. Labeled items can be protected by encryption, marked with a watermark or restricted to specific actions or users and is bound to the item. This cloud based solution relies on Azure Rights Management Service (RMS) for enforcing restrictions.
 
+### Azure Active Directory (AAD)
+
+Azure Active Directory is the Microsoft 365 source for all identity management, and much more. For example, Microsoft 365 Groups and applications permissions are stored in AAD.
+
 ## B
 
 ### Business Data Services (BDS)
