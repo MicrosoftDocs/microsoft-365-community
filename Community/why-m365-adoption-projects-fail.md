@@ -28,7 +28,7 @@ The necessity of understanding the real challenge isn't that new: In the '90s, t
 
 ### Volatility
 
-The world is changing faster than ever before, BUT the world will never change as slowly as it is right now. In other words, the pace of changbe will continue to increase. New challenges, competitors, and different unpredictable factors are something we have to deal with. That means that long term planning and the reliability of this planning won't be sufficient for modern organizations.
+The world is changing faster than ever before, BUT the world will never change as slowly as it is right now. In other words, the pace of change will continue to increase. New challenges, competitors, and different unpredictable factors are something we have to deal with. That means that long term planning and the reliability of this planning won't be sufficient for modern organizations.
 
 ### Uncertainty
 
