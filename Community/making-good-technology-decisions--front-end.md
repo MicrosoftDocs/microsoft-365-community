@@ -13,7 +13,7 @@ ms.collection: M365Community
 # Making Good Technology Decisions: Front End
 
 * Part 1: [Microsoft 365 - Making Good Technology Decisions: Establishing Decision Criteria](making-good-technology-decisions--establishing-decision-criteria.md)
-* Part 2: [Microsoft 365 - Making Good Technology Decisions: Data Storage](Community\making-good-technology-decisions--data-storage.md)
+* Part 2: [Microsoft 365 - Making Good Technology Decisions: Data Storage](making-good-technology-decisions--data-storage.md)
 * Part 3: Microsoft 365 - Making Good Technology Decisions: Front End (this article)
 
 In the prior two articles in this series, I’ve gone over how to evaluate your organizational readiness and what criteria to use to make decisions [Decision Criteria] as well as where to store the underlying data for your solution [Data Storage]. In this installment, I will go through some of the front-end options available to you, providing some of the plusses and minuses for each.
