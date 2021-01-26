@@ -9,7 +9,7 @@ localization_priority:
 description: template for creating content
 ms.collection: M365Community
 ---
-
+ 
 # Main title
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
