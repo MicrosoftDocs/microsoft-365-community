@@ -1,5 +1,5 @@
 ---
-title: "Making Good Technology Decisions" Establishing Decision Criteria"
+title: "Making Good Technology Decisions Establishing Decision Criteria"
 ms.date: 1/20/2021
 author: sympmarc
 ms.reviewer: efrene
