@@ -27,6 +27,9 @@ Taking a holistic view of the technology and gaining an understanding of current
 - Identify the budget and resources needed to move ahead
 - Establish a baseline to show improvement over time
 
+
+[![](media/microsoft365-maturity-model--intro/introducton-to-the-microsoft-365-maturity-model.jpg)](https://www.youtube.com/watch?v=1nqgohquH4w "")
+
 ## The SharePoint Maturity Model (SPMM)
 
 Around the time SharePoint 2010 was released, [Sadie Van Buren](https://www.linkedin.com/in/sadalit/) developed a powerful set of concepts embodied in the SharePoint Maturity Model (SPMM). The basic idea was to give people working with the platform ways to:
