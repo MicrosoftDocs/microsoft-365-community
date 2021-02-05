@@ -15,9 +15,9 @@ Note: Changelog started in January, 2021
 
 ### Updated Articles
 
-| Article | Principal Author |
+| Article | Updated By |
 |---|---|
-|[Maturity Model for Microsoft 365 - Introduction](./Community/microsoft365-maturity-model--intro.md)||
+|[Maturity Model for Microsoft 365 - Introduction](./Community/microsoft365-maturity-model--intro.md)|[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)|
 
 ### New Contributors
 
