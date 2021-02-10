@@ -2,7 +2,7 @@
 title:  "Managing SharePoint Online Security: A Team Effort"
 ms.date: 6/27/2020
 author: veronicageek
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 

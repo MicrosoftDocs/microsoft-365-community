@@ -2,7 +2,7 @@
 title: Identifying Your SharePoint Champions
 ms.date: 3/22/2020
 author: eemancini
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 

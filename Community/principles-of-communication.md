@@ -2,7 +2,7 @@
 title: The Principles of Communication – supporting the Microsoft 365 MaturityModel
 ms.date: 7/28/2020
 author: SimonJHudson
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority:

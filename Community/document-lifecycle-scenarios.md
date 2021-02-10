@@ -2,7 +2,7 @@
 title: Document Lifecycle Scenarios
 ms.date: 8/11/2020
 author: sympmarc
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 

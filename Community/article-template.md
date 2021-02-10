@@ -2,7 +2,7 @@
 title: Template
 ms.date: 9/02/2020
 author: sympmarc
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 

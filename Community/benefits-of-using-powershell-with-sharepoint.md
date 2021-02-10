@@ -2,7 +2,7 @@
 title: Benefits of using PowerShell with SharePoint
 ms.date: 3/3/2020
 author: veronicageek
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.service: sharepoint-powershell
 localization_priority: 

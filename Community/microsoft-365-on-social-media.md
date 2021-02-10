@@ -2,7 +2,7 @@
 title: Follow Microsoft 365 on Social Media
 ms.date: 8/23/2020
 author: PathToSharePoint
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 

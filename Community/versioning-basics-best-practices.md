@@ -2,7 +2,7 @@
 title: Versioning in SharePoint
 ms.date: 7/01/2020
 author: PatD
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 

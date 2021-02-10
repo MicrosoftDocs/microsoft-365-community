@@ -2,7 +2,7 @@
 title: Document Sets for Fast Legacy Process Automation
 ms.date: 11/21/2020
 author: PatD
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority:
