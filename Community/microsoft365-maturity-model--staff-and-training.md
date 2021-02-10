@@ -168,7 +168,7 @@ Providing solutions to existing problems will generate higher interest across th
 ---
 Principal author:
 
-- [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini/)
+- [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
 Contributing authors:
 

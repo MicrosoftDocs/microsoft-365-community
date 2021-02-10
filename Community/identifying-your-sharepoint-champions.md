@@ -65,6 +65,6 @@ In the Admin Portal there are [Usage Reports](https://admin.microsoft.com/Adminp
 
 ---
 
-**Principal author**:[Emily Mancini, UXC](http://www.linkedin.com/in/eemancini)
+**Principal author**:[Emily Mancini, MVP, UXMC](http://www.linkedin.com/in/eemancini)
 
 ---

@@ -125,6 +125,6 @@ To make your org-wide communications more effective, engaging, and actionable, c
 
 ---
 
-**Principal author**: [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini/)
+**Principal author**: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
 ---

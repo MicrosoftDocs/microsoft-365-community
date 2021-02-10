@@ -113,6 +113,6 @@ Overall, providing solutions to existing problems will generate higher interest 
 
 ---
 
-Principal author: [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini/)
+Principal author: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
 ---
