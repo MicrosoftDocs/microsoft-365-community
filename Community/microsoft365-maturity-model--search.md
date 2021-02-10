@@ -328,5 +328,5 @@ Principal authors:
 Contributing authors:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
-- [Emily Mancini](https://www.linkedin.com/in/eemancini)
+- [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit)

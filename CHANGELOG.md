@@ -49,7 +49,7 @@ Note: Changelog started in January, 2021
 | [How Do Site Columns Become Managed Properties - Thus Available for Search?](./Community/how-do-site-columns-become-managed-properties-thus-available-for-search) | [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
 | [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
 [Simon Doy](https://www.linkedin.com/in/simondoy/) |
-| [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) | [Emily Mancini](https://www.linkedin.com/in/eemancini/) |
+| [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [Document Sets for Fast Legacy Process Automation](./Community/document-sets-are-magic) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
 
 ### Updated Articles
@@ -73,16 +73,16 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 | --- | --- |
-| [Elevating Staff and Training](./Community/microsoft-maturity-model-how-to-staff-and-training) | [Emily Mancini](https://www.linkedin.com/in/eemancini/) |
+| [Elevating Staff and Training](./Community/microsoft-maturity-model-how-to-staff-and-training) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps) | [Paul Bullock](https://www.linkedin.com/in/pkbullock/) |
 | [How Do Site Columns Become Managed Properties - Thus Available for Search?](./Community/how-do-site-columns-become-managed-properties-thus-available-for-search) | [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
 | [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) and [Simon Doy](https://www.linkedin.com/in/simondoy/) |
-| [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) | [Emily Mancini](https://www.linkedin.com/in/eemancini/) |
+| [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 
 ### Updated Articles 
 
 | Article | Upddates by |
 | --- | --- |
-| [Maturity Model for Microsoft 365 - Introduction](./Community/microsoft365-maturity-model--intro) | [Emily Mancini](https://www.linkedin.com/in/eemancini/) |
+| [Maturity Model for Microsoft 365 - Introduction](./Community/microsoft365-maturity-model--intro) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media) | [Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/) |
-| [Maturity Model for Microsoft 365 - Staff &amp; Training Competency](./Community/microsoft365-maturity-model--staff-and-training) | [Emily Mancini](https://www.linkedin.com/in/eemancini/) |
+| [Maturity Model for Microsoft 365 - Staff &amp; Training Competency](./Community/microsoft365-maturity-model--staff-and-training) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
