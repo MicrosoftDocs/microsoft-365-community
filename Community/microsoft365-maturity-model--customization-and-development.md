@@ -18,7 +18,7 @@ Traditionally, there has been a reliance on "deep" development to build business
 
 Over the years, as platforms have evolved, it became increasingly possible for viable business applications to be delivered without code. Today there is a continuum from out of the box, through configuration (No Code), to citizen developer (Low Code) and finally "proper" development (Pro Code). The separation between these stages can be highly porous; artificially segregating them is frequently meaningless and often counter-productive. Management tools traditionally associated with Pro Code development are gradually providing an opportunity to wrap development rigor around the No Code and Low Code approaches and to introduce many of the effective development operations (Dev ops) techniques and tools.
 
-![Development Spectrum](media/microsoft365-maturity-model--customization-and-development\development-spectrum.png)
+![Development Spectrum](media/microsoft365-maturity-model--customization-and-development/development-spectrum.png)
 
 At the same time, even nominally out-of-the-box products and services often support options for customization and extension. The ways of achieving this vary widely, including interaction via APIs, "overlay" coding of UI, deep configuration, Add-ins and more.
 
