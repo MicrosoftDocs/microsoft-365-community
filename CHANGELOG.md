@@ -83,7 +83,7 @@ Note: Changelog started in January, 2021
 | [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) and [Simon Doy](https://www.linkedin.com/in/simondoy/) |
 | [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 
-### Updated Articles 
+### Updated Articles
 
 | Article | Upddates by |
 | --- | --- |
