@@ -24,7 +24,7 @@ Microsoft 365 is also a highly extensible development platform. All the informat
 
 Thinking about building apps on Microsoft 365, you can distinguish between two types of apps: standalone apps and apps that extend Microsoft 365.
 
-:::image type="content" source="media/type-of-apps-microsoft-365/microsoft-365-types-apps.png" alt-text="Types of apps that you can build on Microsoft 365 grouped into extensions and custom apps":::
+![Types of apps that you can build on Microsoft 365 grouped into extensions and custom apps](media/type-of-apps-microsoft-365/microsoft-365-types-apps.png)
 
 ### Custom apps: build your experience
 
@@ -44,11 +44,11 @@ Microsoft 365 offers many extension points to bring your app where your users ar
 
 First of all, you can [build conversational bots](https://docs.microsoft.com/microsoftteams/platform/bots/what-are-bots?WT.mc_id=m365-16324-wmastyka). Bots help people complete tasks through conversations. They're a great way to expose relevant features of your app and guide users through the scenario like a personal assistant.
 
-:::image type="content" source="media/type-of-apps-microsoft-365/microsoft-365-teams-bot.png" alt-text="Custom bot integrated in Microsoft Teams":::
+![Custom bot integrated in Microsoft Teams](media/type-of-apps-microsoft-365/microsoft-365-teams-bot.png)
 
 Another way to expose your app in a Teams conversation is through [messaging extensions](https://docs.microsoft.com/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions?WT.mc_id=m365-16324-wmastyka). Messaging extensions help people complete tasks in a visually-compelling way. They're similar to bots but are more visually oriented and ideal for showing rich data
 
-:::image type="content" source="media/type-of-apps-microsoft-365/microsoft-365-teams-messaging-extension.png" alt-text="Custom messaging extension integrated in Microsoft Teams":::
+![Custom messaging extension integrated in Microsoft Teams](media/type-of-apps-microsoft-365/microsoft-365-teams-messaging-extension.png)
 
 Finally, you can [send notifications](https://docs.microsoft.com/microsoftteams/platform/webhooks-and-connectors/what-are-webhooks-and-connectors?WT.mc_id=m365-16324-wmastyka) from your app to conversations via webhooks. By using [adaptive cards](https://docs.microsoft.com/adaptive-cards/?WT.mc_id=m365-16324-wmastyka), you can show the data in a rich and actionable way.
 
@@ -56,7 +56,7 @@ Finally, you can [send notifications](https://docs.microsoft.com/microsoftteams/
 
 Many organizations that use Microsoft 365 use [portals](https://lookbook.microsoft.com/?WT.mc_id=m365-16324-wmastyka) to facilitate communication and manage knowledge. Using rich pages, they publish content and build interactive dashboards. These pages consist of reusable building blocks - web parts, that end-users put together.
 
-:::image type="content" source="media/type-of-apps-microsoft-365/full-layout-thelanding.jpg" alt-text="Custom SharePoint portal on Microsoft 365":::
+![Custom SharePoint portal on Microsoft 365](media/type-of-apps-microsoft-365/full-layout-thelanding.jpg)
 
 You can extend portals on Microsoft 365 in two ways. First, you can build widgets, called [web parts](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/overview-client-side-web-parts?WT.mc_id=m365-16324-wmastyka). Users, who create pages, can put your web parts on pages to enrich the content. Your web parts can show data from Microsoft 365 as well as any other API.
 
@@ -66,11 +66,11 @@ Another way to extend portals is by building [extensions](https://docs.microsoft
 
 When creating documents on Microsoft 365, users can [enrich them with interactive elements](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins?WT.mc_id=m365-16324-wmastyka), like maps or charts. These elements can be connected to APIs and make documents interactive and present data that is always up-to-date.
 
-:::image type="content" source="media/type-of-apps-microsoft-365/about-addins-contentaddin.png" alt-text="Conceptual image showing a content add-in for Microsoft Office":::
+![Conceptual image showing a content add-in for Microsoft Office](media/type-of-apps-microsoft-365/about-addins-contentaddin.png)
 
 You can also build [task pane extensions](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins?WT.mc_id=m365-16324-wmastyka) for Microsoft Office applications that help users work with their documents. A task pane could help people lookup their customer information when writing contracts or order information when creating invoices.
 
-:::image type="content" source="media/type-of-apps-microsoft-365/about-addins-taskpane.png" alt-text="Conceptual image showing a task pane add-in for Microsoft Office":::
+![Conceptual image showing a task pane add-in for Microsoft Office](media/type-of-apps-microsoft-365/about-addins-taskpane.png)
 
 ## Connect your application to Microsoft 365
 
