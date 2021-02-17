@@ -1,11 +1,11 @@
 ---
 title: The Microsoft 365 Maturity Model – Customization and Development Competency
-ms.date: 2/11/2021
+ms.date: 2/16/2021
 author: simondoy
 ms.reviewer: efrene
 ms.author: efrene
 ms.prod: microsoft-365
-localization\_priority:
+localization_priority:
 description: The Microsoft 365 Maturity Model - Customization and Development Competency
 ms.collection: SPCommunity
 ---
@@ -30,13 +30,13 @@ This competency considers the management and governance processes required for d
 
 The concepts of customization and development have evolved over the lifespan of Microsoft 365 and the IT landscape in general. In the early days of SharePoint, for example, almost all organizations found themselves developing Pro Code solutions to make the platform work well for them. Fast forward to today, and Microsoft 365 offers a wide variety of apps and services that meet many needs right out of the box.
 
-Our ability to extend the platform has changed significantly as well. Rather than writing server-side code, almost all custom development for Microsoft 365 is done using client-side tools. The SharePoint Framework allows us to build solutions for SharePoint and now Microsoft Teams. The toolsets to build extensions on the Office applications use similar approaches.
+Our ability to extend the platform has changed significantly as well. Rather than writing server-side code, almost all custom development for Microsoft 365 is done using client-side tools. The SharePoint Framework allows us to build solutions for SharePoint and now Microsoft Teams. The tool sets to build extensions on the Office applications use similar approaches.
 
 These days, the question is as much \*whether\* to customize as it is \*how\* to customize. Custom coding absolutely has its place in Microsoft 365, but in many case the platform provides robust tools which only require some configuration to meet your needs.
 
-The reality is that there has always been a dynamic equilibrium between what can be delivered with different technologies by people with a range of skill sets. Perhaps unexpectedly, increasing maturity is less about a progression from Out-of-the-box &amp; No Code through to Pro Code; it is more about how organizations coordinate and integrate this continuum.
+The reality is that there has always been a dynamic equilibrium between what can be delivered with different technologies by people with a range of skill sets. Perhaps unexpectedly, increasing maturity is less about a progression from Out-of-the-box & No Code through to Pro Code; it is more about how organizations coordinate and integrate this continuum.
 
-## Common Microsoft 365 Toolsets
+## Common Microsoft 365 Tool Sets
 
 - Microsoft Graph
 - Microsoft Azure
@@ -80,7 +80,7 @@ Customizable products and services
 
 _This is the starting level for a new or untried process. As with all 100 level characteristics, practices may be somewhat effective, but they don"t take advantage of the power of the platform, nor do they take into account the multiple use cases which exist in even the smallest and simplest organization. Typically, they are undocumented and in a state of dynamic change, tending to be driven in an ad hoc, uncontrolled and reactive manner by users or events. This provides a chaotic or unstable environment for the processes._
 
-The customization and development continuum is poorly understood, unmanages and chaotic. Staff are frustrated with poor functionality but have no mechanism for requesting or implementing change. Development is characterized by _build to live_
+The customization and development continuum is poorly understood, unmanaged and chaotic. Staff are frustrated with poor functionality but have no mechanism for requesting or implementing change. Development is characterized by _build to live_
 
 **Initial level**** Customization and Development** characteristics include:
 
@@ -88,7 +88,7 @@ The customization and development continuum is poorly understood, unmanages and 
 
 - Configurable platforms and products are generally used in their default state
 - There is little appreciation of the capabilities of platforms to meet business needs more closely
-- There is no systematic review of platform capabilities, feature roadmap and application of features sets to unaddressed business needs
+- There is no systematic review of platform capabilities, feature road map and application of features sets to unaddressed business needs
 
 #### Low Code
 
@@ -109,7 +109,7 @@ The customization and development continuum is poorly understood, unmanages and 
 - Systems are developed which use Microsoft 365 services as a data store but the user interface is held outside of Microsoft 365.
 - Systems are designed and built with little thought, on the Microsoft 365 services that can be glued together to deliver the system.
 
-#### Management &amp; Governance
+#### Management & Governance
 
 - There are no agreed development platforms, tools, languages, etc.
 - There is a lack of ownership of developments on behalf of the organization as a whole
@@ -154,7 +154,7 @@ Staff are frustrated with poor functionality but have no mechanism for requestin
 - Solutions tend to be built "on-the fly", without a clear deliverable and specification. There is no documentation around the design and build process.
 - Users are shown how to use the system and core documentation may exist, within the process or procedure documents.
 - Updates and changes are ad-hoc. There is no equivalent of source control.
-- A small number of people have some expertise with configuring the platform. Maintenance and support of the solutions are dependent on the availability of these people. The "experts" maintain their knowledge of platform capabilities, roadmap etc. out of personal interest.
+- A small number of people have some expertise with configuring the platform. Maintenance and support of the solutions are dependent on the availability of these people. The "experts" maintain their knowledge of platform capabilities, road map etc. out of personal interest.
 
 #### Low Code
 
@@ -168,7 +168,7 @@ Staff are frustrated with poor functionality but have no mechanism for requestin
 - Projects start to use Microsoft 365 components when delivering systems.
 - Development approaches and best practice start to be understood and are adopted by members of the project team. However, they are not enforced.
 
-#### Management &amp; Governance
+#### Management & Governance
 
 - Developers don"t know the platform, so write code instead of using native features.
 - Some projects deliver systems with user guides and administration guides.
@@ -202,7 +202,7 @@ _The process is well defined and agreed as a standard business process. There ar
 - Updates and enhancement should be scheduled, planned and executed, but exceptions to this are frequent.
 - User documentation and training is appropriate to the system, though tends to lag updates.
 - Solutions considered important to the business are recognized and some level of support has been implemented. Support staff are skilled up to maintain the platform and any solutions, reducing the reliance on "solution experts".
-- There is some consolidation of no-code platforms; roadmaps and updates for standard platforms are actively tracked.
+- There is some consolidation of no-code platforms; road maps and updates for standard platforms are actively tracked.
 - Customization of live platforms is only carried out after consideration of impact on staff and other systems.
 
 #### Low Code
@@ -220,7 +220,7 @@ _The process is well defined and agreed as a standard business process. There ar
 - Continuous Integration and Continuous Deployment may be introduced alongside other approaches.
 - Pro Code developers appreciate when not to develop solutions, only writing code when it is necessary and can make a difference. They begin to hand off to Low Code and configuration alternatives.
 
-#### Management &amp; Governance
+#### Management & Governance
 
 - There is an appreciation of the limits of the no-code approach and low-code and pro-code approaches. Needs to that trigger a transition from one approach to another are often identified and options for delivering extended needs/features with pro code etc are understood.
 - Some elements and solutions are created as scripts, under basic source control. This is generally retrospective: build –\&gt; deploy –\&gt; define and document.
@@ -277,7 +277,7 @@ T_he process is actively managed in accordance with agreed processes and has tra
 - Solution design is carefully considered; constraints are understood and approaches to avoid or mitigate these are implemented.
 - Low code solutions make use of source control to help manage the release process. The release process includes metrics which can be shared within the organization to show the benefit of the low code solutions.
 - Low code solutions use metrics from tools such as Application Insights to measure adoption. This allows decisions to be made as to where to focus effort on successful applications and cancel or rework unsuccessful applications. These metrics are published and shared within the organization.
-- There is an active process for testing and for user evaluation and feedback, which is used to drive a roadmap for ongoing enhancements.
+- There is an active process for testing and for user evaluation and feedback, which is used to drive a road map for ongoing enhancements.
 - Lifecycle of the solutions is anticipated, and the solution considered.
 - Standardized User-Centric-Design processes are to ensure that the solution meets the needs of the users and is designed appropriately for the audience.
 - The organization continues to invest in Training for the Citizen developers and in the tools to support them.
@@ -290,9 +290,9 @@ T_he process is actively managed in accordance with agreed processes and has tra
 - Pro code solutions make use of source control to help manage the release process. The release process includes metrics which be shared within the organization to show the benefit of the pro code solutions.
 - Pro code solutions use metrics from tools such as Application Insights to show many users/applications are using them each day. This allows decisions to be made on the success of an application. A decision can be made as to which applications should be focused on. These metrics are shared within the organization.
 - Lessons learnt from the development of Pro code solutions are shared within the organization.
-- APIs are proactively developed to allow No Code and Low Code to easily access sophisticated data sources, functions and business automations.
+- APIs are proactively developed to allow No Code and Low Code to easily access sophisticated data sources, functions, and business automation.
 
-#### Management &amp; Governance
+#### Management & Governance
 
 - Application usage is measured using tooling such as Application Insights.
 - Applications are instrumented to detect errors and events using tools such as Application Insights.
@@ -331,19 +331,19 @@ _Management of the process includes deliberate and systematic process improvemen
 #### Pro Code
 
 - A Package Management feed such as internal NuGet or NPM feed for managing and promoting the reuse of components and patterns.
-- Pro code develops extension points and components for No code/Low code citizen developers to use. Examples include custom connectors for Power Platform or SPFX web parts for SharePoint and Teams.
-- Analytics on the use of APIs for data sources, functions and business automations is used to optimize their use and performance.
+- Pro code develops extension points and components for No code/Low code citizen developers to use. Examples include custom connectors for Power Platform or SPFx web parts for SharePoint and Teams.
+- Analytics on the use of APIs for data sources, functions, and business automation is used to optimize their use and performance.
 
-#### Management &amp; Governance
+#### Management & Governance
 
-- Development is proactively managed across the code-continuum; a dynamic equilibrium is maintained between the different code approaches, shifting to take advantage of changes in the technology and platform landscape. Active monitoring of the source technologies allows these changes to be anticipated and included in the development roadmaps.
+- Development is proactively managed across the code-continuum; a dynamic equilibrium is maintained between the different code approaches, shifting to take advantage of changes in the technology and platform landscape. Active monitoring of the source technologies allows these changes to be anticipated and included in the development road maps.
 - There is granular insight into the developed solution estate and code-continuum, with understanding of origination costs, technical debt, support costs and benefits. These are integrated with user metrics. These are used to direct development strategies and investments.
 - Application Insights metrics are used to measure adoption and are shared with the organization.
 - Application insights funnels, user flows used to see how people are behaving and using the solutions.
 - A2B Testing using metrics to work out usability and make improvements.
 - Source control provides robust and highly automated testing, CI/CD.
-- A Centre of Excellence and Steering Committee is established to help build a roadmap to guide the extensibility points built with Pro code for the No/Low code citizen developers.
-- Designing and publishing solutions into the Organisation"s App Stores such as SharePoint and Microsoft Teams.
+- A Centre of Excellence and Steering Committee is established to help build a road map to guide the extensibility points built with Pro code for the No/Low code citizen developers.
+- Designing and publishing solutions into the Organization's App Stores, such as SharePoint and Microsoft Teams.
 
 #### Impacts
 
@@ -365,7 +365,7 @@ At this level you can expect the following:
 - A manufacturer can produce the required certificates and documentation to support the release of a new product in a managed way.
 - Using Machine Learning to improve the efficiency in how a logistics company routes its delivery drivers.
 
-## Cost &amp; benefit
+## Cost & benefit
 
 When we talk about benefits of customization and development, it is easier to see the benefit and the ROI. Often the time savings are used to quantify the ROI. When development enables a new capability within a business then the revenue that is realized with the new capability can be used to for ROI.
 
@@ -404,6 +404,9 @@ Principal authors:
 
 - [Simon Doy](https://www.linkedin.com/in/simondoy)
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+
+Contributing Authors:
+
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)

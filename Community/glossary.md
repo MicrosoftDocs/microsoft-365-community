@@ -102,6 +102,10 @@ Improving specific aspects of SharePoint functionality by changing settings thro
 
 A set of policies for identifying, alerting and securing sensitive information types found in content across the Microsoft 365 platform.
 
+### Development Operations (DevOps)
+
+DevOps generally refers to both the automation of recurring processes and the improvement of those processes over time.
+
 ### Disaster Recovery (DR)
 
 The planning and practice of ensuring systems are available when a disaster occurs or that they can be restored as quickly as possible.
@@ -341,7 +345,7 @@ More complex roll ups are also possible using the [Highlighted Content Web Part]
 
 ### Root Site
 
-The base address in a web application or tenant for the first SharePoint Site collection. Typically, defined without use of managed paths ("/sites/" or "/teams/"), for example https://mytenant.sharepoint.com or http://sharepoint
+The base address in a web application or tenant for the first SharePoint Site collection. Typically, defined without use of managed paths ("/sites/" or "/teams/"), for example https://mytenant.sharepoint.com. In an on-site installation, there may be a vanity URL in place, such as http://sharepoint or https://intranet.
 
 ## S
 

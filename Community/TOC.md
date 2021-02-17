@@ -5,13 +5,16 @@
 ### [What is a Site Column?](what-is-site-column.md)
 ### [What is a Content Type?](what-is-content-type.md)
 ### [Groups in Microsoft 365 and Azure, and Which is Right for You](all-about-groups.md)
+### [What kind of apps can you build on Microsoft 365?](type-of-apps-microsoft-365.md)
 ## Microsoft 365 Better Practices
 ### [OneDrive PC Folder Backup Benefits for End Users](known-folder-move-benefits-for-enduser.md)
 ### [Why Microsoft 365 adoption projects fail](why-m365-adoption-projects-fail.md)
 ## Maturity Model for Microsoft 365
 ### [Introduction](microsoft365-maturity-model--intro.md)
 ### [Collaboration Competency](microsoft365-maturity-model--collaboration.md)
-### [Communication Competency](microsoft365-maturity-model--communication.md)
+### Communication Competency
+#### [Communication Competency](microsoft365-maturity-model--communication.md)
+#### [Elevating Communication](microsoft365-maturity-model--how-to-elevate-communication.md)
 ### People and Communities
 #### [People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
 #### [Elevating People and Communities](microsoft-maturity-model-how-to-people-communities.md)
@@ -65,6 +68,7 @@
 ### [Working with Cascading Lists in SharePoint and Power Apps](working-with-cascading-lists-in-sharepoint-and-powerapps.md)
 ### [Document Lifecycle Scenarios](document-lifecycle-scenarios.md)
 ### [Power Automate - Send SharePoint files as attachments](power-automate-send-sharepoint-files-as-attachments.md)
+### [How can I use Learning Pathways in my organization?](how-can-i-use-learning-pathways-in-my-organization.md)
 ## Automation
 ### [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
 ### [Should everyone create Teams? A Low Code Provisioning solution](should-everyone-create-teams.md)

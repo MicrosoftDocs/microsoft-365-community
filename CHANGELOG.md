@@ -12,6 +12,9 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
+| [What kind of apps can you build on Microsoft 365?](./Community/type-of-apps-microsoft-365.md) | [Waldek Mastykarz](https://blog.mastykarz.nl) |
+| [Elevating Communication](./Community/microsoft365-maturity-model--how-to-elevate-communication.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
+| [How can I use Learning Pathways in my organization?](./Community/how-can-i-use-learning-pathways-in-my-organization.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 
 ### Updated Articles
 
@@ -24,6 +27,7 @@ Note: Changelog started in January, 2021
 ### New Contributors
 
 - [Ganesh Sanap](https://www.linkedin.com/in/ganeshsanap/)
+- [Waldek Mastykarz](https://blog.mastykarz.nl)
 
 ## January, 2021
 
