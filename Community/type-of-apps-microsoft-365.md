@@ -20,7 +20,7 @@ Microsoft 365, previously known as Office 365, is Microsoft's productivity cloud
 
 Microsoft 365 is also a highly extensible development platform. All the information about its users as well as the content they create is stored in Microsoft 365 and, bearing the necessary permissions, available for you to interact with in your applications.
 
-## What kind of apps can you build on Microsoft 365?
+## Different types of apps on Microsoft 365
 
 Thinking about building apps on Microsoft 365, you can distinguish between two types of apps: standalone apps and apps that extend Microsoft 365.
 
