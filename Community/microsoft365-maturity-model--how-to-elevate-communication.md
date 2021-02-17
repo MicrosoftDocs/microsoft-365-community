@@ -10,12 +10,13 @@ description: Maturity Model for Microsoft 365 – How to Elevate Communication
 ms.collection: M365Community
 ---
 
-# Maturity Model for Microsoft 365 - How to Elevate Communication
+# Maturity Model for Microsoft 365 - Elevating Communication
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
 ![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
 
+# Introduction
 The [Communication Competency article](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--communication) provides an overview of communication concepts within Microsoft 365 and details for each of the five maturity levels from Initial to Optimizing (100 through 500). It adopts a broadly technology-agnostic approach to the business characteristics of communication plus the expected benefits.
 This article explores how organizations at any level could use the Microsoft 365 suite (and associated technologies) to reach a higher maturity level.
 
@@ -63,7 +64,8 @@ At the 400 level of Communications, users have a high degree of trust in organiz
 *	Communication leads and the steering committee identify the period of lowest engagement from employees on all communication channels to create dedicated focus time for work deliverables that is strongly protected across the organization.
   -	For example, company-wide news is never shared on Monday mornings unless urgent and business critical to that day’s tasks. Monday mornings are reserved for team-wide news to ensure each group can focus on their deliverables for the week before focusing on higher-level goals across the organization.
 *	Employee feedback and usage data are applied to communication formats. In addition to the user research and interviews conducted previously for feedback on communications, begin [A-B testing](https://www.nngroup.com/articles/putting-ab-testing-in-its-place/) communication iterations to gather quantitative data on which format best supports engagement, understanding, and action.
-Conclusion
+
+# Conclusion
 Organizational communication is much broader than email and newsletters. Effective communication is highly sophisticated, enabling many types of corporate communications using a range of technologies to provide the right message to the right people in the best format at the right time. By utilizing different communication channels for their best use cases and focusing messaging to specific audiences, organizations can improve engagement and gain more understanding of the business. Great communications incorporate feedback, enable action and organizational change, and develop the culture whilst ensuring compliance and addressing risk.
 
 # Resources
