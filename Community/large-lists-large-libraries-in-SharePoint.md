@@ -2,7 +2,7 @@
 title: Living Large with Large Lists and Large Libraries
 ms.date: 7/16/2020
 author: PatD
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority:

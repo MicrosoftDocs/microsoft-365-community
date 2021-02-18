@@ -2,7 +2,7 @@
 title: How to Share Org-Wide Communications in Microsoft 365
 ms.date: 8/13/2020 
 author: eemancini
-ms.reviwer: efrene
+ms.reviewer: efrene
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority:  
@@ -36,7 +36,7 @@ In a company that values transparency, updates come from multiple levels of the 
 
 #### SharePoint News
 
-Sharing company updates through [SharePoint news](https://support.microsoft.com/office/create-and-share-news-on-your-sharepoint-sites-495f8f1a-3bef-4045-b33a-55e5abe7aed7) offers the ability to have many different contributors (based on Site Owner and Member permissions) across the organization. Since SharePoint news is a SharePoint page under the covers, you get all the benefits of a rich layout, ability to embed content from other Microsoft 365 apps, and discoverabilty within Microsoft Search.
+Sharing company updates through [SharePoint news](https://support.microsoft.com/office/create-and-share-news-on-your-sharepoint-sites-495f8f1a-3bef-4045-b33a-55e5abe7aed7) offers the ability to have many different contributors (based on Site Owner and Member permissions) across the organization. Since SharePoint news is a SharePoint page under the covers, you get all the benefits of a rich layout, ability to embed content from other Microsoft 365 apps, and discoverability within Microsoft Search.
 
 Each department can share updates through SharePoint news on their own site. The intranet homepage can have a web part showing all news rolled up from all sites, increasing the visibility of these essential departmental updates and removing Corporate Communications or IT as the roadblock to post on the intranet homepage. Site owners benefit from decentralized content ownership with immediate access to share updates, and employees benefit from this centralization of updates by having one trusted place to check on the intranet homepage - just like they had when it was an email in their inbox. The news can also appear on each site’s homepage providing different ways to consume the content.
 
@@ -44,7 +44,7 @@ By default, comments are turned on for SharePoint news posts, inviting all emplo
 
 #### Yammer
 
-[Yammer](https://support.microsoft.com/yammer) excels at supporting serendipitous connections across your organization and creating communities for knowledge sharing, special interest groups, or communities of practice in an informal setting. Yammer communities are self-service and most successful when run independently by interested parties. In an organization with open communication, Yammer is an excellent place to socialize, crowdsource ideas and solutions, informally share updates, increase communication between executives and employees, and break down silos initiating cross-department collaboration.
+[Yammer](https://support.microsoft.com/yammer) excels at supporting serendipitous connections across your organization and creating communities for knowledge sharing, special interest groups, or communities of practice in an informal setting. Yammer communities are self-service and most successful when run independently by interested parties. In an organization with open communication, Yammer is an excellent place to socialize, crowd source ideas and solutions, informally share updates, increase communication between executives and employees, and break down silos initiating cross-department collaboration.
 
 ### Restricted Communication
 
@@ -125,6 +125,6 @@ To make your org-wide communications more effective, engaging, and actionable, c
 
 ---
 
-**Principal author**: [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini/)
+**Principal author**: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
 ---

@@ -2,7 +2,7 @@
 title: How to Elevate People and Communities – supporting the Microsoft 365 Maturity Model
 ms.date: 11/10/2020
 author: eemancini
-ms.reviwer: efrene
+ms.reviewer: efrene
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 
@@ -154,6 +154,6 @@ Improving your People and Communities maturity means rethinking your processes a
 
 ---
 
-Principal author: [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini/)
+Principal author: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
 ---

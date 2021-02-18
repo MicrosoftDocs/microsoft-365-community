@@ -2,7 +2,7 @@
 title: Identifying Your SharePoint Champions
 ms.date: 3/22/2020
 author: eemancini
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 
@@ -65,6 +65,6 @@ In the Admin Portal there are [Usage Reports](https://admin.microsoft.com/Adminp
 
 ---
 
-**Principal author**:[Emily Mancini, UXC](http://www.linkedin.com/in/eemancini)
+**Principal author**:[Emily Mancini, MVP, UXMC](http://www.linkedin.com/in/eemancini)
 
 ---

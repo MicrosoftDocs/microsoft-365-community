@@ -2,7 +2,7 @@
 title:  Maturity Model for Microsoft 365 - Introduction
 ms.date: 6/12/2020
 author: sympmarc
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 
@@ -26,6 +26,9 @@ Taking a holistic view of the technology and gaining an understanding of current
 - Focus time, energy, and resources on the right priorities
 - Identify the budget and resources needed to move ahead
 - Establish a baseline to show improvement over time
+
+
+[![](media/microsoft365-maturity-model--intro/introducton-to-the-microsoft-365-maturity-model.jpg)](https://www.youtube.com/watch?v=1nqgohquH4w "")
 
 ## The SharePoint Maturity Model (SPMM)
 
@@ -169,5 +172,5 @@ Principal authors:
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy](https://www.linkedin.com/in/simondoy)
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson)
-- [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini)
+- [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit)

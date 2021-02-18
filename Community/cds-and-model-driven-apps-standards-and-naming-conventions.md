@@ -2,7 +2,7 @@
 title: CDS and Model-Driven Apps Standards and Naming Conventions
 ms.date: 4/21/2020
 author:  sympmarc
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.service: commondataservice
 localization_priority: 

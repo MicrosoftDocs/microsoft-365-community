@@ -2,7 +2,7 @@
 title: Follow Microsoft 365 on Social Media
 ms.date: 8/23/2020
 author: PathToSharePoint
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 
@@ -30,7 +30,7 @@ Social media also give you direct access to expertise. Use one of the help tags 
 > Use a Power Automate template to track tweets related to your topics of interest.
 
 >[!NOTE]
->Note: references to Azure and Dynamics 365 are beyond the scope of this document.
+>References to Azure and Dynamics 365 are beyond the scope of this document.
 
 ## General
 
@@ -90,7 +90,7 @@ If you're having general issues with Microsoft 365, be sure to check the [Micros
 |Hashtag|Official Account|
 |---|---|
 |[#PowerPlatform](https://twitter.com/hashtag/PowerPlatform)|[@MSPowerPlat](https://twitter.com/MSPowerPlat)|
-|[#PowerApps](https://twitter.com/hashtag/PowerApps)|[@PowerApps](https://twitter.com/PowerApps)|
+|[#PowerApps](https://twitter.com/hashtag/PowerApps)|[@MSPowerApps](https://twitter.com/MSPowerApps)|
 |[#PowerAutomate](https://twitter.com/hashtag/PowerAutomate)|[@MSPowerAutomate](https://twitter.com/MSPowerAutomate)|
 |[#PowerBI](https://twitter.com/hashtag/PowerBI), [#DAX](https://twitter.com/hashtag/DAX), [#PowerQuery](https://twitter.com/hashtag/PowerQuery)|[@MSPowerBI](https://twitter.com/MSPowerBI)|
 |[#PowerVirtualAgents](https://twitter.com/hashtag/PowerVirtualAgents)|[@MSPowerVirtual](https://twitter.com/MSPowerVirtual)|
@@ -152,11 +152,11 @@ The following tags are used in combination with product tags to identify informa
 
 ## Notable Twitter Accounts
 
-Below a list of twitter accounts that often post about Microsoft 365 and can be considered authoritative.
+Below is a list of twitter accounts that often post about Microsoft 365 and can be considered authoritative.
 
 ### Microsoft
 
-- [@DonaSarkar](https://twitter.com/DonaSakar)
+- [@DonaSarkar](https://twitter.com/donasarkar)
 - [@JeffTeper](https://twitter.com/jeffteper)
 - [@MKashman](https://twitter.com/mkashman)
 

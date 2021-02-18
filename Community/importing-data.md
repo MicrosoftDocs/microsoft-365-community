@@ -2,7 +2,7 @@
 title:  Importing data into SharePoint
 ms.date: 4/30/2020
 author: nyoung30
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 

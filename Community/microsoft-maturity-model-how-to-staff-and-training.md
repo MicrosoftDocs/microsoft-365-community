@@ -2,7 +2,7 @@
 title: How to Elevate Staff and Training – supporting the Microsoft 365 Maturity Model
 ms.date: 10/1/2020
 author: eemancini
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 
@@ -113,6 +113,6 @@ Overall, providing solutions to existing problems will generate higher interest 
 
 ---
 
-Principal author: [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini/)
+Principal author: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
 ---

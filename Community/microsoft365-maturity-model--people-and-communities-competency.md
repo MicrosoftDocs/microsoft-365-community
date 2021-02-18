@@ -2,7 +2,7 @@
 title: Maturity Model for Microsoft 365 – People and Communities Competency
 ms.date: 8/5/2020
 author: eemancini
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority:
@@ -188,5 +188,5 @@ Principal authors:
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy](https://www.linkedin.com/in/simondoy)
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson)
-- [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini)
+- [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit)

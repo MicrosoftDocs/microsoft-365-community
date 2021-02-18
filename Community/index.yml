@@ -36,6 +36,8 @@ landingContent:
             url:  what-is-content-type.md
           - text: Groups in Microsoft 365 and Azure, and Which is Right for You
             url: all-about-groups.md
+          - text: What kind of apps can you build on Microsoft 365?
+            url: type-of-apps-microsoft-365.md
 
   # Card (optional)
   - title: Microsoft 365 Better Practices
@@ -71,6 +73,8 @@ landingContent:
 
       - linkListType: how-to-guide
         links:
+          - text: Elevating Communication
+            url: microsoft365-maturity-model--how-to-elevate-communication.md
           - text: Elevating Staff and Training
             url: microsoft-maturity-model-how-to-staff-and-training.md
           - text: Elevating People and Communities
@@ -173,6 +177,8 @@ landingContent:
             url: document-lifecycle-scenarios.md
           - text: Power Automate - Send SharePoint files as attachments
             url: power-automate-send-sharepoint-files-as-attachments.md
+          - text: How can I use Learning Pathways in my organization?
+            url: how-can-i-use-learning-pathways-in-my-organization.md
 
   # Card (optional)
   - title: Automation

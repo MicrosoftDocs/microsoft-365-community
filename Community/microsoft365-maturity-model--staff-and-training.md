@@ -2,7 +2,7 @@
 title:  Maturity Model for Microsoft 365 – Staff & Training Competency
 ms.date: 8/31/2020
 author: eemancini
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority:
@@ -168,7 +168,7 @@ Providing solutions to existing problems will generate higher interest across th
 ---
 Principal author:
 
-- [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini/)
+- [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
 Contributing authors:
 

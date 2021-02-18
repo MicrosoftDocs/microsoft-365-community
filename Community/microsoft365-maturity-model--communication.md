@@ -2,7 +2,7 @@
 title: Maturity Model for Microsoft 365 – Communication Competency
 ms.date: 8/5/2020
 author: sympmarc
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.service: o365-solutions
 localization_priority:
@@ -93,9 +93,9 @@ Processes are documented or managed by a central group to enable (but not enforc
 
 #### Governance & Security
 
-- Nominated functions for reviewing/creating/releasing some classes of communications, i.e. nominated communications roles
-- A policy is available to guide users on appropriate communications and there are mechanisms to support them
-- Example ‘tone of voice’ guidance, reinforcement of company values and phrases (including mission statements)
+- Nominated functions for reviewing/creating/releasing some classes of communications, i.e. nominated communications roles.
+- A policy is available to guide users on appropriate communications and there are mechanisms to support them.
+- Example ‘tone of voice’ guidance, reinforcement of company values and phrases (including mission statements).
 
 #### Information Architecture
 
@@ -231,7 +231,7 @@ At this level, the ROI to the organization is demonstrable, and all users feel t
 
 ### Campaigns
 
-- Changing work practices during unusual circumstances are announced and updated on a rolling basis, with confirmation from staff that they understand and will comply oor adjust
+- Changing work practices during unusual circumstances are announced and updated on a rolling basis, with confirmation from staff that they understand and will comply or adjust
 
 ### Newsletters
 
@@ -277,5 +277,5 @@ Principal authors:
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy](https://www.linkedin.com/in/simondoy/)
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
-- [Emily Mancini](https://www.linkedin.com/in/eemancini/)
+- [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)

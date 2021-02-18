@@ -2,7 +2,7 @@
 title:  Maturity Model for Microsoft 365 – Management of Content Competency
 ms.date: 11/10/2020
 author: simonjhudson
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority:
@@ -22,14 +22,14 @@ Content and its management are a large topic area, with many decades of technolo
 
 ## Definition of this competency
 
-Content covers a wide variety of different types of digital items, including files, snippets of information, emails, media content such as audio and video and many other things . Often these are discreet files such as office documents, but equally they can be web pages, list items 4 content records in a database. A key characteristic of these many types of content is it but they have a life cycle which includes their creation use and ultimately their disposal, they typically require storing somewhere, need to be described in some way, presented in such a way that people can find and use them when required and made available in a format suitable for their intended use which may include Bing machine readable and all interpretable by people.
+Content covers a wide variety of different types of digital items, including files, snippets of information, emails, media content such as audio and video and many other things . Often these are discreet files such as office documents, but equally they can be web pages, list items, or content records in a database. A key characteristic of these many types of content is it but they have a life cycle which includes their creation use and ultimately their disposal, they typically require storing somewhere, need to be described in some way, presented in such a way that people can find and use them when required and made available in a format suitable for their intended use which may include Bing machine readable and all interpretable by people.
 
-This competency focuses on many aspects with management of content, including presentation, life cycle, identification and classification and storage. For the sake of clarity and relative brevity, it does not cover management of &#39;content containers&#39; such as SharePoint libraries and sites, Teams Areas, Planner plans etc. It does cover:
+This competency focuses on many aspects with management of content, including presentation, life cycle, identification and classification and storage. For the sake of clarity and relative brevity, it does not cover management of 'content containers' such as SharePoint libraries and sites, Teams Areas, Planner plans etc. It does cover:
 
 ### Types of content
 
 - Documents
-- Web pages &amp; News
+- Web pages & News
 - Conversations
 - Items (e.g. snippets of information, FAQs, tasks, contacts, notifications, list items)
 - Email
@@ -432,6 +432,6 @@ Principal authors:
 
 Contributing authors:
 
-- [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini/)
+- [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)

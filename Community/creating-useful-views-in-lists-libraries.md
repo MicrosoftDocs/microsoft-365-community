@@ -2,7 +2,7 @@
 title: Creating Useful Views for Lists & Libraries
 ms.date: 7/10/2020
 author: PatD
-ms.reviwer: efrene
+ms.ms-reviewer: efrene
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority:
