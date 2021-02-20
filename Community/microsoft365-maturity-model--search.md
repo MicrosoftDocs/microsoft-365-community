@@ -2,8 +2,8 @@
 title: Maturity Model for Microsoft 365 – Search Competency
 ms.date: 9/3/2020
 author: simonjhudson
-ms.author: jhendr
-ms.reviewer: jhendr
+ms.author: efrene
+ms.ms-reviewer: efrene
 ms.prod: microsoft-365
 localization_priority:
 description: Maturity Model for Microsoft 365 - Search Competency
@@ -328,5 +328,5 @@ Principal authors:
 Contributing authors:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
-- [Emily Mancini](https://www.linkedin.com/in/eemancini)
-- [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit)
+- [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
+- [Sadie Van Buren](https://www.linkedin.com/in/sadalit)

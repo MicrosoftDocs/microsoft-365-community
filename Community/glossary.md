@@ -2,8 +2,8 @@
 title: SharePoint Usage Glossary
 ms.date: 9/2/2020
 author: sympmarc
-ms.reviewer: jhendr
-ms.author: jhendr
+ms.ms-reviewer: efrene
+ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 
 description: "SharePoint Usage Glossary"
@@ -37,6 +37,10 @@ Set of standards and processes to analyze, design, build, test and deploy a soft
 ### Azure Information Protection (AIP)
 
 A cloud solution that supports labeling of documents and emails to classify and protect information. Labeled items can be protected by encryption, marked with a watermark or restricted to specific actions or users and is bound to the item. This cloud based solution relies on Azure Rights Management Service (RMS) for enforcing restrictions.
+
+### Azure Active Directory (AAD)
+
+Azure Active Directory is the Microsoft 365 source for all identity management, and much more. For example, Microsoft 365 Groups and applications permissions are stored in AAD.
 
 ## B
 
@@ -72,9 +76,9 @@ Some columns types, like Date and Choice, include ready made design templates. A
 
 See [SharePoint Framework](#sharepoint-framework)
 
-### Common Data Service
+### Microsoft Dataverse
 
-[Microsoft Common Data Service](https://powerplatform.microsoft.com/common-data-service/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Common Data Service enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
+[Microsoft Microsoft Dataverse](https://powerplatform.microsoft.com/common-data-service/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Microsoft Dataverse enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
 
 ### Communication Site
 
@@ -97,6 +101,10 @@ Improving specific aspects of SharePoint functionality by changing settings thro
 ### Data Loss Prevention (DLP)
 
 A set of policies for identifying, alerting and securing sensitive information types found in content across the Microsoft 365 platform.
+
+### Development Operations (DevOps)
+
+DevOps generally refers to both the automation of recurring processes and the improvement of those processes over time.
 
 ### Disaster Recovery (DR)
 
@@ -276,7 +284,7 @@ See [Patterns and Practices](#patterns-and-practices-pnp)
 
 PowerApps is a low-code/no-code development platform that provides a means for both Citizen Developers and Pro-Developers to build custom apps for your business needs.
 
-Using PowerApps, you can quickly build custom business apps that connect to your business data stored either in the underlying data platform (Common Data Service) or in various online and on-premises data sources (SharePoint, Excel, Microsoft 365, Dynamics 365, SQL Server).
+Using PowerApps, you can quickly build custom business apps that connect to your business data stored either in the underlying data platform (Microsoft Dataverse) or in various online and on-premises data sources (SharePoint, Excel, Microsoft 365, Dynamics 365, SQL Server).
 
 ### Power Automate
 
@@ -316,11 +324,11 @@ Using Power Virtual Agents, you can:
 * Reduce costs by easily automating common inquiries and freeing human agent time to deal with more complex issues.
 * Improve customer satisfaction by allowing customers to self-help and resolve issues quickly 24/7 using rich personalized bot conversations.
 
-### Project Oakdale
+### Microsoft Dataverse for Teams
 
-[Project Oakdale](https://powerapps.microsoft.com/blog/introducing-microsoft-dataflex-a-new-low-code-data-platform-for-microsoft-teams/) is a built-in, low-code data platform for Microsoft Teams, and provides relational data storage, rich data types, enterprise grade governance, and one-click solution deployment for Power App solutions built for, and within Microsoft Teams.
+[Microsoft Dataverse for Teams](https://powerapps.microsoft.com/blog/introducing-microsoft-dataflex-a-new-low-code-data-platform-for-microsoft-teams/) is a built-in, low-code data platform for Microsoft Teams, and provides relational data storage, rich data types, enterprise grade governance, and one-click solution deployment for Power App solutions built for, and within Microsoft Teams.
 
-Project Oakdale is built upon Common Data Service, and provides a 'lite' version equivalent, for free, under the existing licensing requirements of Microsoft 365.
+**Microsoft Dataverse for Teams** is built upon Microsoft Dataverse, and provides a 'lite' version equivalent, for free, under the existing licensing requirements of Microsoft 365.
 
 ## Q
 
@@ -337,7 +345,7 @@ More complex roll ups are also possible using the [Highlighted Content Web Part]
 
 ### Root Site
 
-The base address in a web application or tenant for the first SharePoint Site collection. Typically, defined without use of managed paths ("/sites/" or "/teams/"), for example https://mytenant.sharepoint.com or http://sharepoint
+The base address in a web application or tenant for the first SharePoint Site collection. Typically, defined without use of managed paths ("/sites/" or "/teams/"), for example https://mytenant.sharepoint.com. In an on-site installation, there may be a vanity URL in place, such as http://sharepoint or https://intranet.
 
 ## S
 

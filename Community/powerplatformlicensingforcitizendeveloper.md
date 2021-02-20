@@ -2,8 +2,8 @@
 title: Understanding Power Platform Licensing
 ms.date: 3/16/2020
 author: bigpix2000
-ms.reviewer: jhendr
-ms.author: jhendr
+ms.ms-reviewer: efrene
+ms.author: efrene
 ms.service: power-platform
 localization_priority: 
 description: "Understanding Power Platform Licensing"

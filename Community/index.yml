@@ -11,7 +11,7 @@ metadata:
   ms.topic: landing-page # Required
   ms.collection: M365-collaboration
   author: jhendr #Required; your GitHub user alias, with correct capitalization.
-  ms.author: jhendr #Required; microsoft alias of author; optional team alias.
+  ms.author: efrene #Required; microsoft alias of author; optional team alias.
   ms.date: 10/28/2020 #Required; mm/dd/yyyy format
   localization_priority: Priority
 
@@ -36,6 +36,8 @@ landingContent:
             url:  what-is-content-type.md
           - text: Groups in Microsoft 365 and Azure, and Which is Right for You
             url: all-about-groups.md
+          - text: What kind of apps can you build on Microsoft 365?
+            url: type-of-apps-microsoft-365.md
 
   # Card (optional)
   - title: Microsoft 365 Better Practices
@@ -44,6 +46,8 @@ landingContent:
         links:
           - text: OneDrive PC Folder Backup Benefits for End Users
             url:  known-folder-move-benefits-for-enduser.md
+          - text: Why Microsoft 365 adoption projects fail
+            url: why-m365-adoption-projects-fail.md
 
   # Card (optional)
   - title: Maturity Model for Microsoft 365
@@ -64,10 +68,17 @@ landingContent:
             url: microsoft365-maturity-model--staff-and-training.md
           - text: Business Process Competency
             url: microsoft365-maturity-model--business-process.md
+          - text: Management of Content Competency
+            url: microsoft365-maturity-model--management-of-content.md
+
       - linkListType: how-to-guide
         links:
+          - text: Elevating Communication
+            url: microsoft365-maturity-model--how-to-elevate-communication.md
           - text: Elevating Staff and Training
             url: microsoft-maturity-model-how-to-staff-and-training.md
+          - text: Elevating People and Communities
+            url: microsoft-maturity-model-how-to-people-communities.md
 
   # Card (optional)
   - title: SharePoint Better Practices
@@ -106,6 +117,10 @@ landingContent:
             url: large-lists-large-libraries-in-SharePoint.md
           - text: Creating Useful Views for Lists & Libraries
             url: creating-useful-views-in-lists-libraries.md
+          - text: How Do Site Columns Become Managed Properties - Thus Available for Search?
+            url: how-do-site-columns-become-managed-properties-thus-available-for-search.md
+          - text: Document Sets for Fast Legacy Process Automation
+            url: document-sets-are-magic.md
 
   # Card (optional)
   - title: Effective Communication
@@ -162,6 +177,8 @@ landingContent:
             url: document-lifecycle-scenarios.md
           - text: Power Automate - Send SharePoint files as attachments
             url: power-automate-send-sharepoint-files-as-attachments.md
+          - text: How can I use Learning Pathways in my organization?
+            url: how-can-i-use-learning-pathways-in-my-organization.md
 
   # Card (optional)
   - title: Automation

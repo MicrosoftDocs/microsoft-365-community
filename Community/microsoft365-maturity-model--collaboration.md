@@ -2,8 +2,8 @@
 title: Maturity Model for Microsoft 365 – Collaboration Competency
 ms.date: 8/4/2020
 author: sympmarc
-ms.reviewer: jhendr
-ms.author: jhendr
+ms.ms-reviewer: efrene
+ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 
 description: Maturity Model for Microsoft 365 - Collaboration Competency
@@ -279,5 +279,5 @@ Principal authors:
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy](https://www.linkedin.com/in/simondoy/)
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
-- [Emily Mancini](https://www.linkedin.com/in/eemancini/)
-- [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit/)
+- [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
+- [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)

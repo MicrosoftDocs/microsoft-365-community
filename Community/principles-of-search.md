@@ -3,8 +3,8 @@
 title: The Principles of Search – supporting the Microsoft 365 Maturity Model
 ms.date: 8/25/2020
 author: SimonJHudson
-ms.reviewer: jhendr
-ms.author: jhendr
+ms.ms-reviewer: efrene
+ms.author: efrene
 ms.service: mssearch
 localization\_priority:
 description: Principles of Search as used to inform the Search Competency within the Microsoft 365 Maturity Model

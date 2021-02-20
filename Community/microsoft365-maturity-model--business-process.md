@@ -2,8 +2,8 @@
 title: Maturity Model for Microsoft 365 – Business Process Competency
 ms.date: 9/9/2020
 author: svanburen
-ms.reviewer: jhendr
-ms.author: jhendr
+ms.ms-reviewer: efrene
+ms.author: efrene
 ms.prod: microsoft-365
 localization_priority:
 description: Maturity Model for Microsoft 365 - Business Process Competency
@@ -30,7 +30,7 @@ The Business Process competency focuses on how users in an organization perform 
 - Project Online
 - MSFT Lists
 - Power Automate
-- Common Data Service
+- Common Data Service (now Dataverse)
 - Microsoft Forms
 - Power Apps
 - Power Virtual Agents
@@ -42,19 +42,19 @@ See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-
 
 ### Level 100 - Initial
 
-Organizations at this level are running their business processes in a manual, ad-hoc, "just do what it takes to get it done" manner. Their systems are not supporting them because there has been no investment in automation. There is widespread frustration and a sense that "we could be doing better" but there is no particular group or individual leading the charge to use technology to make improvements.
+Organizations at this level are running their business processes in a manual, ad-hoc, "just do what it takes to get it done" manner. Their systems are not supporting them because there has been no investment in automation. There is widespread frustration and a sense that "we could be doing better" but there is no particular group or individual (e.g. certified Continuous Process Improvement expert) leading the charge to use technology to make improvements. 
 
 **Initial level** characteristics include:
 
-- Business process is undefined or only loosely defined through user experience.
-- Processes are mostly undocumented and lack any form of governance, control or oversight
+- Business processes are undefined or only loosely defined through user experience.
+- Processes are mostly undocumented and lack any form of governance, control or oversight such as an Integrated Project Team (IPT).
 - Changes to the process are untested or tested in concept only.
 - Exceptions and failures are not captured, tracked and addressed
 - There may be no use of process technology, instead relying on paper-based process and legacy technology such as email for notifications, hand-offs and approvals.
 - Users of the system rely on institutional knowledge to get things done ("I know who can help me with this") rather than agreed-upon roles and business logic.
-- Processes have evolved from prior approaches. New needs and exceptions have been bolted on rather than engineered in
-- Exceptions cause long delays (e.g. a key resource is out of the office, or the first time a new situation is encountered there is no method for defining what should happen)
-- Tracking of the state of the process or status of an activity within a process is not possible or not done. Reporting or analytics are absent
+- Processes have evolved from prior approaches. New needs and exceptions have been bolted on rather than engineered in.
+- Exceptions cause long delays (e.g. a key resource is out of the office, or the first time a new situation is encountered there is no method for defining what should happen).
+- Tracking of the state of the process or status of an activity within a process is not possible or not done. Reporting or analytics are absent.
 
 #### Impacts
 
@@ -64,7 +64,8 @@ At this level you can expect the following:
 - It's not possible for anyone to see the status of a particular request. Activities can stall or remain incomplete indefinitely.
 - Transactions are very costly in terms of time spent and user frustration.
 - Compliance issues are a risk when processes are not done according to established business rules.
-- Staff (and clients / customers) have limited confidence in the quality or timeliness of the process output
+- Staff (and clients / customers) have limited confidence in the quality or timeliness of the process output.
+- The team looses credibility and will be hard to get future buy in of new processes.
 - Activity owners invest their time in pushing activities through the process. Activity prioritization is ad hoc and not driven by business priority or objective value/risk
 - Exceptions and priorities, troubleshooting and remedial intervention become a drain on resources and pose a risk to business outcomes.
 - Basic questions can't be answered because there is no reliable data (e.g. "How long does it take us to process a typical invoice?")
@@ -77,7 +78,7 @@ Organizations at this level are evaluating or implementing technology to help au
 
 **Repeatable level** characteristics include:
 
-- Business processes are documented / defined at the department level and communicated to the organization.Process maps exist for many processes but adopted technology solutions are weakly documented.
+- Business processes are documented / defined at the department level and communicated to the organization. Process maps exist for many processes but adopted technology solutions are weakly documented.
 - Out of the box SharePoint workflows (approval, collect feedback) might be leveraged sporadically.
 - A document library or list provides a central base of operations.
 - Workflows tend to be document-centric or task-centric vs. application-centric.
@@ -111,7 +112,7 @@ Organizations at this level are using M365 to manage business process across mul
 
 - A process is considered as a whole, rather than as an automation of discrete tasks. Process maps for the end to end process have been created and are maintained. Associated solution documentation is developed.
 - Individuals have transitioned from procedural document workflow to orchestration of dynamic business process.
-- A business process automation technology platform has been selected and is the basis for new BP activities, though legacy solutions remain in use. Third party tools and/or custom Business Process Management tools are integrated to support more complex business rules and legacy systems.
+- A business process automation technology platform has been selected and is the basis for new Business Process activities, though legacy solutions remain in use. Third party tools and/or custom Business Process Management tools are integrated to support more complex business rules and legacy systems.
 - The organization has begun to develop business process skills, often in a central team and including process re-engineering and technical platform specialists. Training is available to both specialists and citizen developers
 - There is a recognition of the pros and cons of citizen development and attempts are made to allow and manage these approaches
 - There is minimal inconsistency between the documented process and the deployed process.
@@ -131,6 +132,7 @@ At this level you can expect the following:
 - Productivity / efficiency gains are observable if not yet fully measurable.
 - Increased transparency supports better productivity and planning, and lowers user stress.
 - There is increasing employee confidence in following the processes because they provide better results than prior manual processes.
+- The credibility of the team is improved, that helps user acceptance for new processes.
 
 ### Level 400 - Managed
 
@@ -229,11 +231,11 @@ Improving your Business Process maturity requires an investment in business proc
 
 Principal authors:
 
-- [Sadie Van Buren (Microsoft)](https://www.linkedin.com/in/sadalit/)
+- [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
 
 Contributing authors:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy](https://www.linkedin.com/in/simondoy)
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson)
-- [Emily Mancini, UXC](https://www.linkedin.com/in/eemancini)
+- [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)

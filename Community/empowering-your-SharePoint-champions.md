@@ -2,8 +2,8 @@
 title: Empowering Your SharePoint Champions
 ms.date: 3/22/2020
 author: eemancini
-ms.reviewer: jhendr
-ms.author: jhendr
+ms.ms-reviewer: efrene
+ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 
 description: How to support a SharePoint champions group in your organization. A follow up to Identifying Your SharePoint Champions.
@@ -54,6 +54,6 @@ Microsoft is continually releasing new features, your governance plan is changin
 
 ---
 
-**Principal author**: [Emily Mancini, UXC](http://www.linkedin.com/in/eemancini)
+**Principal author**: [Emily Mancini, MVP, UXMC](http://www.linkedin.com/in/eemancini)
 
 ---
