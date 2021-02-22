@@ -21,9 +21,9 @@ Given the pace of change in the Microsoft 365 universe, social media have become
 Social media also give you direct access to expertise. Use one of the help tags listed below to get the attention of community experts.
 
 > [!TIP]
-> Combine a product tag with a help tag to target your audience.
+> Combine product tag with help tag to target your audience.
 >
-> Example: "What is the maximum number of flows a user can create on Microsoft 365? #PowerHelp #PowerAutomate"
+> Example: "Folks who customize #SharePoint list forms with #PowerApps: how do you back up your customization? #SPhelp"
 >
 
 > [!TIP]
@@ -74,6 +74,7 @@ If you're having general issues with Microsoft 365, be sure to check the [Micros
 |[#MicrosoftLists](https://twitter.com/hashtag/MicrosoftLists), [#ProjectNucleus](https://twitter.com/hashtag/ProjectNucleus)|[@SharePoint](https://twitter.com/SharePoint)|
 |[#OneDrive](https://twitter.com/hashtag/OneDrive)|[@OneDrive](https://twitter.com/onedrive)|
 |[#MicrosoftStream](https://twitter.com/hashtag/MicrosoftStream)|[@MicrosoftStream](https://twitter.com/MicrosoftStream)|
+|[#MSFTViva](https://twitter.com/hashtag/MSFTViva)||
 
 ## Office Suite
 
@@ -112,9 +113,6 @@ If you're having general issues with Microsoft 365, be sure to check the [Micros
 ||[@MicrosoftToDo](https://twitter.com/MicrosoftToDo)|
 
 ## Development
-
-> [!IMPORTANT]
-> Seeking help on PnP? Include **[#PnPhelp](https://twitter.com/hashtag/PnPhelp)** in your tweet.
 
 |Hashtag|Official Account|
 |---|---|
