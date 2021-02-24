@@ -60,7 +60,7 @@ Historically, versioning is not enabled by default at the creation of a list or 
 
 |What| Online| On-Premises|
 |:------| :-----| :-----|
-|Lists| Not enabled at creation| Not enabled at creation |
+|Lists| Enabled at creation (and set to 50 versions)| Not enabled at creation |
 |Libraries|Enabled at creation (and set to 500 versions)|Not enabled at creation|
 
 > [!Note]
