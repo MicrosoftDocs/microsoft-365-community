@@ -151,12 +151,12 @@ The current target is to deliver:
 - [Staff & Training](microsoft365-maturity-model--staff-and-training.md)
 - [Business Process](microsoft365-maturity-model--business-process.md)
 - [Management of Content](microsoft365-maturity-model--management-of-content.md)
+- [Customization & Development](microsoft365-maturity-model--customization-and-development.md)
 
 ### In progress
 
 - Data & Analytics
 - Infrastructure
-- Customization & Development
 
 ## Related Articles
 
