@@ -15,6 +15,8 @@ Note: Changelog started in January, 2021
 | [What kind of apps can you build on Microsoft 365?](./Community/type-of-apps-microsoft-365.md) | [Waldek Mastykarz](https://blog.mastykarz.nl) |
 | [Elevating Communication](./Community/microsoft365-maturity-model--how-to-elevate-communication.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [How can I use Learning Pathways in my organization?](./Community/how-can-i-use-learning-pathways-in-my-organization.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
+| [Customization and Development Competency](./Community/microsoft365-maturity-model--customization-and-development.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) <br/>[Simon Doy](https://www.linkedin.com/in/simondoy/) |
+
 
 ### Updated Articles
 
@@ -55,7 +57,7 @@ Note: Changelog started in January, 2021
 | Article | Principal Author |
 | --- | --- |
 | [How Do Site Columns Become Managed Properties - Thus Available for Search?](./Community/how-do-site-columns-become-managed-properties-thus-available-for-search) | [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
-| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) <br/>
 [Simon Doy](https://www.linkedin.com/in/simondoy/) |
 | [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [Document Sets for Fast Legacy Process Automation](./Community/document-sets-are-magic) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |

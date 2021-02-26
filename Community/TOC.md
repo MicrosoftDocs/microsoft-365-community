@@ -24,6 +24,7 @@
 #### [Elevating Staff and Training](microsoft-maturity-model-how-to-staff-and-training.md)
 ### [Business Process Competency](microsoft365-maturity-model--business-process.md)
 ### [Management of Content Competency](microsoft365-maturity-model--management-of-content.md)
+### [Customization and Development Competency](microsoft365-maturity-model--customization-and-development.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
 ### [Versioning in SharePoint](versioning-basics-best-practices.md)

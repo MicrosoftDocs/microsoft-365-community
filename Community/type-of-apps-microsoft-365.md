@@ -25,7 +25,6 @@ Microsoft 365 is also a highly extensible development platform. All the informat
 Thinking about building apps on Microsoft 365, you can distinguish between two types of apps: standalone apps and apps that extend Microsoft 365.
 
 ![Types of apps that you can build on Microsoft 365 grouped into extensions and custom apps](media/type-of-apps-microsoft-365/microsoft-365-types-apps.png)
-:::image type="content" source="media/type-of-apps-microsoft-365/microsoft-365-types-apps.png" alt-text="Types of apps":::
 
 ### Custom apps: build your experience
 
