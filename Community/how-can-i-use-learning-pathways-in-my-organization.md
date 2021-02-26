@@ -46,7 +46,7 @@ For example, Contoso has decided to begin self-service SharePoint site creation.
 
 ### Consultant supporting an organization new to Microsoft 365
 
- When organizations work with external consultants for a Microsoft 365 implementation, they may find themselves drinking from a firehose with the volume of information that is shared throughout the project process. Consultants can better support these new organization by capturing all recommendations, newly established governance, and training is one playlist for the Microsoft 365 product owners. The organization now has ne place to look for all historical information as they continue on the intranet development journey after the engagement has ended. Since the content is in Learning Pathways with all other training content, even the power users have only one place to look for everything they need whether it is a basic action in SharePoint or custom development to an SPFx web part.
+ When organizations work with external consultants for a Microsoft 365 implementation, they may find themselves drinking from a firehose with the volume of information that is shared throughout the project process. Consultants can better support these new organization by capturing all recommendations, newly established governance, and training is one playlist for the Microsoft 365 product owners. The organization now has one place to look for all historical information as they continue on the intranet development journey after the engagement has ended. Since the content is in Learning Pathways with all other training content, even the power users have only one place to look for everything they need whether it is a basic action in SharePoint or custom development to an SPFx web part.
 
 ## Conclusion
 
