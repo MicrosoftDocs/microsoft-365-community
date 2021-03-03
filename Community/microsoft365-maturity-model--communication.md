@@ -260,7 +260,7 @@ Some examples of communication ROI include:
 Costs are driven by the need to deploy and support the communication technologies, up-skill staff in their use and, most importantly, by investing in best practice and policy adherence.
 
 ## Resources to learn more
-
+- [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Every month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focus on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions may also include a brief presentation about the Maturity Model including recent updates.
 - [International Association of Business Communicators](https://www.iabc.com/)
 - [Example style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
 
