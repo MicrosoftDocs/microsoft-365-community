@@ -162,8 +162,8 @@ Providing solutions to existing problems will generate higher interest across th
 - [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Every month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focus on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions may also include a brief presentation about the Maturity Model including recent updates.
 - [The Microsoft 365 Maturity Model – Introduction](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
 - [Why SharePoint Training is Important](https://docs.microsoft.com/microsoft-365/community/why-sharepoint-training-is-important)
-- [Identifying Your SharePoint Champions](https://docs.microsoft.com/microsoft-365/community/identifying-your-sharepoint-champions)
-- [Empowering Your SharePoint Champions](https://docs.microsoft.com/microsoft-365/community/empowering-your-sharepoint-champions)
+- [Identifying Your Microsoft 365 Champions](https://docs.microsoft.com/microsoft-365/community/identifying-your-sharepoint-champions)
+- [Empowering Your Microsoft 365 Champions](https://docs.microsoft.com/microsoft-365/community/empowering-your-sharepoint-champions)
 
 ---
 Principal author:
