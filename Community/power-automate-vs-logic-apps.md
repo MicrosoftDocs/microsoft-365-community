@@ -64,9 +64,7 @@ Since both tools have this, learning Power Automate can be easily transferrable 
 **Azure Logic Apps - web based designer**
 ![Mobile view of Power Automate](media\power-automate-vs-logic-apps\azure-logic-app-example.png)
 
-**Did you know you can export from Power Automate into Azure Logic Apps?** Yes, you can. If you are working with the Azure Portal it will require some knowledge of JSON, or for a friendlier experience using Visual Studio, check out the docs to consider your approach: [https://docs.microsoft.com/azure/logic-apps/export-from-microsoft-flow-logic-app-template](https://docs.microsoft.com/azure/logic-apps/export-from-microsoft-flow-logic-app-template)
-
-This is a great feature - giving you more flexibility - if your Flow evolves overtime or you realise that you need more integration options or a different licensing approach, you can port over to Azure Logic Apps.
+Power Automate flows created before September 2020 can be exported to Logic Apps. If you are working with the Azure Portal it will require some knowledge of JSON, or for a friendlier experience using Visual Studio, check out the docs to consider your approach: [https://docs.microsoft.com/azure/logic-apps/export-from-microsoft-flow-logic-app-template](https://docs.microsoft.com/azure/logic-apps/export-from-microsoft-flow-logic-app-template)
 
 ### Mobile App
 
