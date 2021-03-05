@@ -42,10 +42,10 @@ Microsoft also created a [module for SharePoint Online](https://www.microsoft.co
 
 That's a big drop from the on-premises version, isn't it? But when you think about it, it makes sense. With SharePoint Online, as you may know, there's a lot Microsoft is taking care of, therefore there's no need for us to manage databases, Service Applications, or even Web Applications as a few examples.
 
-### SharePoint PowerShell PnP (Patterns & Practices)
+### PnP PowerShell (Patterns & Practices)
 
-[SharePoint PowerShell PnP](https://github.com/SharePoint/PnP-PowerShell) is a Community initiative/effort and is available on Github.
-It combines complex CSOM cmdlets in the background, and gives us the look and feel of native PowerShell that we are familiar with.
+[PnP PowerShell](https://github.com/pnp/powershell) is a Community initiative/effort and is available on Github.
+It combines complex CSOM cmdlets in the background, and gives us the look and feel of native PowerShell that we are familiar with. PnP.PowerShell (latest version) supports SharePoint Online only. For those using on-premises SharePoint, [PnP-PowerShell](https://github.com/pnp/PnP-PowerShell) (legacy version) works with SharePoint 2013, 2016, 2019 and SharePoint Online but is no longer being maintained.
 
 Currently (late 2019), and depending on the SharePoint version, there are approx. 400 cmdlets, and 4 modules available for:
 

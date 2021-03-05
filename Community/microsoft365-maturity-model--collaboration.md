@@ -272,6 +272,8 @@ Leveling up your collaboration maturity means you are rethinking processes.  Thi
 
 With collaboration at its core, the Microsoft 365 platform can be an incredible enabler of better practices. This can only be realized if your organization continues to learn, grow, and evolve its practices, striving for improved collaboration.
 
+## Resources
+- [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Every month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focus on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions may also include a brief presentation about the Maturity Model including recent updates.
 ---
 
 Principal authors:

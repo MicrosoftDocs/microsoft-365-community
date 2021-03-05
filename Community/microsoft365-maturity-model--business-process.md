@@ -221,7 +221,7 @@ Business Process is one area where hard metrics are relatively easy to capture, 
 Improving your Business Process maturity requires an investment in business process mapping, as well as an understanding of M365's functionality and how it can support your business processes. This investment in defining and educating will be repaid in clear, measurable ROI for the business processes that you modernize and automate on the M365 platform. This ROI can take the form of bottom-line cost and time savings, as well as more top-line advantages in terms of competitiveness and customer and employee satisfaction.
 
 ## Resources to learn more
-
+- [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Every month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focus on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions may also include a brief presentation about the Maturity Model including recent updates.
 - [Business process flows overview](https://docs.microsoft.com/power-automate/business-process-flows-overview)
 - [Understanding Power Platform Licensing](https://docs.microsoft.com/microsoft-365/community/powerplatformlicensingforcitizendeveloper )
 - [Defining a Power Platform Environment Strategy](https://docs.microsoft.com/microsoft-365/community/defining-a-power-platform-environment-strategy)
