@@ -9,6 +9,7 @@ localization_priority:
 description: "Benefits of using PowerShell with SharePoint"
 ms.collection: M365Community
 ---
+
 # Benefits of using PowerShell with SharePoint
 
 ## What is PowerShell?
