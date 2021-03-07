@@ -6,6 +6,24 @@
 
 Note: Changelog started in January, 2021
 
+## March, 2021
+
+### New Articles
+
+| Article | Principal Author |
+|---|---|
+| [Customization and Development Competency](./Community/microsoft365-maturity-model--customization-and-development.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) <br/>[Simon Doy](https://www.linkedin.com/in/simondoy/) |
+
+### Updated Articles
+
+| Article | Updated By |
+|---|---|
+|||
+
+### New Contributors
+
+- [Callum Crowley]()
+
 ## February, 2021
 
 ### New Articles
@@ -15,8 +33,6 @@ Note: Changelog started in January, 2021
 | [What kind of apps can you build on Microsoft 365?](./Community/type-of-apps-microsoft-365.md) | [Waldek Mastykarz](https://blog.mastykarz.nl) |
 | [Elevating Communication](./Community/microsoft365-maturity-model--how-to-elevate-communication.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [How can I use Learning Pathways in my organization?](./Community/how-can-i-use-learning-pathways-in-my-organization.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
-| [Customization and Development Competency](./Community/microsoft365-maturity-model--customization-and-development.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) <br/>[Simon Doy](https://www.linkedin.com/in/simondoy/) |
-
 
 ### Updated Articles
 
