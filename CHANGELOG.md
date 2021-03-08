@@ -18,12 +18,12 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
-| [Benefits of using PowerShell with SharePoint](./Community/benefits-of-using-powershell-with-sharepoint.md) |  [Callum Crowley]() }
-| [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps) | [Callum Crowley]() |
+| [Benefits of using PowerShell with SharePoint](./Community/benefits-of-using-powershell-with-sharepoint.md) |  [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/) |
+| [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps) | [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/) |
 
 ### New Contributors
 
-- [Callum Crowley]()
+- [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/)
 
 ## February, 2021
 
