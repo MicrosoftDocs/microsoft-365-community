@@ -53,7 +53,7 @@ These three high-level distinctions are levels of capability we in the practitio
 
 SPMM was based on  the [Capability Maturity Model (CMM)](https://en.wikipedia.org/wiki/Capability_Maturity_Model), which originally came out of work at Carnegie Mellon University in 1986 and focused on software development. The premise was if you could measure yourself against a clear set of standards to identify where your practices and capabilities stood, you could take concrete steps to progress to the next level. The model defined a 5 point scale, representing the levels:
 
-### Initial
+### Level 100 - Initial
 
 This is the starting level for a new or untried process. Practices may be somewhat effective, but they don’t take advantage of the power of the platform, nor do they take into account the multiple use cases which exist in even the smallest and simplest organization. Typically, they are undocumented and in a state of dynamic change, tending to be driven in an ad hoc, uncontrolled and reactive manner by users or events. This provides a chaotic or unstable environment for the processes.
 
