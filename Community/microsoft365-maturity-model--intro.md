@@ -57,19 +57,19 @@ SPMM was based on  the [Capability Maturity Model (CMM)](https://en.wikipedia.or
 
 This is the starting level for a new or untried process. Practices may be somewhat effective, but they don’t take advantage of the power of the platform, nor do they take into account the multiple use cases which exist in even the smallest and simplest organization. Typically, they are undocumented and in a state of dynamic change, tending to be driven in an ad hoc, uncontrolled and reactive manner by users or events. This provides a chaotic or unstable environment for the processes.
 
-### Repeatable
+### Level 200 - Repeatable
 
 Processes are documented or managed by a central group to enable (but not enforce) the preferred ways of doing them. Some processes are repeatable, possibly with consistent results. Process discipline is unlikely to be rigorous, but where it exists it may help to ensure that existing processes are maintained during times of stress.  
 
-### Defined
+### Level 300 - Defined
 
 The process is well defined and agreed as a standard business process. There are sets of defined and documented standard processes established, signed off and subject to some degree of improvement over time. These standard processes are in place. The processes may not have been systematically or repeatedly used to the extent needed for their users to become fully competent or the process to be validated in a range of situations. This could be considered a developmental stage - with use in a wider range of conditions and user competence development the process can develop to next level of maturity.  
 
-### Managed (Capable)
+### Level 400 - Managed (Capable)
 
 The process is quantitatively managed in accordance with agreed-upon metrics. Effective achievement of the process objectives can be evidenced (using metrics) across a range of operational conditions. The suitability of the process in multiple environments has been tested and the process refined and adapted. Process users have experienced the process in multiple and varied conditions and are able to demonstrate competence. The process maturity enables adaptions to particular projects without measurable losses of quality or deviations from specifications. Process Capability is established from this level.
 
-### Optimizing (Efficient)
+### Level 500 - Optimizing (Efficient)
 
 Process management includes deliberate process optimization/improvement. The focus is on continually improving process performance through both incremental and innovative technological changes/improvements. Processes are concerned with addressing statistical common causes of process variation and changing the process (for example, to shift the mean of the process performance) to improve process performance. This would be done at the same time as maintaining the likelihood of achieving the established quantitative process-improvement objectives.
 
