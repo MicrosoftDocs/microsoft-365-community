@@ -20,10 +20,14 @@ Note: Changelog started in January, 2021
 |---|---|
 | [Benefits of using PowerShell with SharePoint](./Community/benefits-of-using-powershell-with-sharepoint.md) |  [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/) |
 | [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps) | [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/) |
+|[Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)|[Ganesh Sanap](https://www.linkedin.com/in/ganeshsanap/) <br/> [Leon Armston](https://www.linkedin.com/in/leonarmston/)|
+|[Should everyone create Teams? A Low Code Provisioning solution](./Community/should-everyone-create-teams.md)|[Trevor Seward, MVP](https://www.linkedin.com/in/trevorseward/)|
 
 ### New Contributors
 
 - [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/)
+- [Leon Armston](https://www.linkedin.com/in/leonarmston/)
+- [Trevor Seward, MVP](https://www.linkedin.com/in/trevorseward/)
 
 ## February, 2021
 
