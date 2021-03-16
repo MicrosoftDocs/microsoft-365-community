@@ -2,7 +2,9 @@
 title: Defining a Power Platform Environment Strategy
 ms.date: 8/10/2020
 author: aaronrendell
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen
+ms.topic: article
 ms.author: efrene
 ms.service: power-platform
 localization_priority: 

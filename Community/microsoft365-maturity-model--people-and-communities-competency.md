@@ -2,7 +2,9 @@
 title: Maturity Model for Microsoft 365 – People and Communities Competency
 ms.date: 8/5/2020
 author: eemancini
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen
+ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority:

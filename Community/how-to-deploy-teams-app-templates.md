@@ -3,6 +3,8 @@ title: How to deploy Teams App templates into your tenant
 ms.date: 1/20/2021
 author: LuiseFreese
 ms.reviewer: efrene
+manager: pamgreen
+ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 

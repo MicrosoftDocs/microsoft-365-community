@@ -3,6 +3,8 @@ title: The Microsoft 365 Maturity Model – Customization and Development Compet
 ms.date: 2/25/2021
 author: simondoy
 ms.reviewer: efrene
+manager: pamgreen
+ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority:

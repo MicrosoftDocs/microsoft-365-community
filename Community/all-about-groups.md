@@ -2,7 +2,9 @@
 title: Groups in Microsoft 365 and Azure, and Which is Right for You
 ms.date: 8/31/2020
 author: ToddKlindt
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen
+ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 

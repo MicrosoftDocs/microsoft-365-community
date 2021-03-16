@@ -2,7 +2,9 @@
 title: Empowering Your Microsoft 365 Champions
 ms.date: 3/22/2020
 author: eemancini
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen
+ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 

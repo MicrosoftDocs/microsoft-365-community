@@ -1,12 +1,14 @@
 ---
-title: Template
-ms.date: 9/02/2020
+title: Name of article
+ms.date: 3/15/2022
 author: sympmarc
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen
+ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 
-description: template for creating content
+description: Template for creating content
 ms.collection: M365Community
 ---
 
@@ -19,7 +21,6 @@ Replace the following values in the metadata section above:
 - title: [The Title of Your Article]
 - author: [your GitHub handle]
 - description: [The Title of Your Article and/or a little more detail - one line]
-
 
 ## Subtitle
 

@@ -2,7 +2,9 @@
 title: Maturity Model for Microsoft 365 – Collaboration Competency
 ms.date: 8/4/2020
 author: sympmarc
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen
+ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 

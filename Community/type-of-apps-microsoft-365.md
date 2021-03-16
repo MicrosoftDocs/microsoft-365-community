@@ -2,7 +2,9 @@
 title: What kind of apps can you build on Microsoft 365?
 ms.date: 2/17/2021
 author: waldekmastykarz
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen
+ms.topic: article
 ms.author: wmastyka
 ms.prod: microsoft-365
 localization_priority: 

@@ -2,7 +2,9 @@
 title: SharePoint Usage Glossary
 ms.date: 9/2/2020
 author: sympmarc
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen
+ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 
