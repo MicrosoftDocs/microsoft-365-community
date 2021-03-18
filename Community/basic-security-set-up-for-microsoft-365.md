@@ -139,7 +139,7 @@ There are two options for disabling expiration of passwords:
 1. Disable password expiration either on a per-user or for the organization within Azure Active Directory
 2. Sync passwords from On-premises Active Directory using Azure AD Connect. This sync includes password policies
 
-**How:** Learn how to [set your organization's password expiration policy](https://docs.microsoft.com/en-us/microsoft-365/admin/manage/set-password-expiration-policy) or [set an individual's password to never expire](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire).
+**How:** Learn how to [set your organization's password expiration policy](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy) or [set an individual's password to never expire](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire).
 
 ### Banned Password List
 
