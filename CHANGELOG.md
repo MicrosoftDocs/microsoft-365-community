@@ -22,6 +22,8 @@ Note: Changelog started in January, 2021
 | [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps) | [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/) |
 | [Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)|[Leon Armston](https://www.linkedin.com/in/leonarmston/)|
 |[Should everyone create Teams? A Low Code Provisioning solution](./Community/should-everyone-create-teams.md)|[Trevor Seward, MVP](https://www.linkedin.com/in/trevorseward/)|
+| [Basic Security Set Up for Microsoft 365](./Community/basic-security-set-up-for-microsoft-365.md) | [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/) <br/> [Liam Cleary](https://www.linkedin.com/in/liamcleary)|
+
 
 ### New Contributors
 

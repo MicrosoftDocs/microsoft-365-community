@@ -141,8 +141,8 @@ There are two options for disabling expiration of passwords:
 
 **How:** Learn how to implement password expiration policies using the links below.
 
-* [Set the password expiration policy for your organization](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy?view=o365-worldwide)
-* [Set an individual user's password to never expire](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire?view=o365-worldwide)]
+* [Set the password expiration policy for your organization](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+* [Set an individual user's password to never expire](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
 ### Banned Password List
 
