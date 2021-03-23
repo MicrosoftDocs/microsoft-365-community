@@ -3,7 +3,7 @@ title: Why Microsoft 365 adoption projects fail
 ms.date: 01/20/2021
 author: LuiseFreese
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365

@@ -4,7 +4,7 @@ ms.date: 10/28/2020
 author: pkbullock
 ms.author: efrene
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.service: power-platform
 localization_priority: 

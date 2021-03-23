@@ -3,7 +3,7 @@ title:  Maturity Model for Microsoft 365 - Introduction
 ms.date: 6/12/2020
 author: sympmarc
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365

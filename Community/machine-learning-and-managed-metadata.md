@@ -3,7 +3,7 @@ title: Can Machine Learning be used to assign managed metadata attributes for it
 ms.date: 3/3/2020
 author: bhall999
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.service: machine-learning

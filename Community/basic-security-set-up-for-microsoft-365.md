@@ -3,7 +3,7 @@ title: Basic Security Set Up for Microsoft 365
 ms.date: 7/9/2020
 author: helloitsliam
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.service: security

@@ -3,7 +3,7 @@ title: Document Lifecycle Scenarios
 ms.date: 8/11/2020
 author: sympmarc
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online

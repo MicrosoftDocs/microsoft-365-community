@@ -3,7 +3,7 @@ title: What is a site column?
 ms.date: 3/3/2020
 author: sympmarc
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online

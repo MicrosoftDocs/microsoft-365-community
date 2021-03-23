@@ -3,7 +3,7 @@ title: Changing Microsoft Teams from Private to Public, what to expect in ShareP
 ms.date: 3/3/2020
 author: veronicageek
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.service: msteams

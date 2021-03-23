@@ -3,7 +3,7 @@ title: The Evolution of Company-wide Email Communication to SharePoint News
 ms.date: 8/7/2020
 author: eemancini
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online

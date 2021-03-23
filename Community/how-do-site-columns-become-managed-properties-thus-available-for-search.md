@@ -3,7 +3,7 @@ title: How Do Site Columns Become Managed Properties - Thus Available for Search
 ms.date: 11/1/2020
 author: JimmyHang
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.service: search

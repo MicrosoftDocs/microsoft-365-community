@@ -3,7 +3,7 @@ title: Versioning in SharePoint
 ms.date: 7/01/2020
 author: PatD
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online

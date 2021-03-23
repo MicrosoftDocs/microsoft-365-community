@@ -3,7 +3,7 @@ title: Managing External Guests in SharePoint vs Teams
 ms.date: 7/31/2020
 author: jimmyhang
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online

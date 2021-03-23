@@ -3,7 +3,7 @@ title: A Guided Tour Designed to Help You Select an Effective Navigation Strateg
 ms.date: 7/31/2020
 author: skaggej
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online

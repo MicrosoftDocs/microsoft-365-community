@@ -3,7 +3,7 @@ title: SharePoint Naming Guidelines
 ms.date: 3/3/2020
 author: pkbullock
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online
