@@ -26,7 +26,6 @@ SharePoint Lists items (data) and Library documents (files) have the ability to 
 
 Versioning creates a historical record of all changes, with the date/time and indication of the user who made the change, on a per-file/list item basis. The end user can view, delete, and restore a version if they have the correct permissions in the library or list.
 
-
 | To do this… | I need this permission… |
 |:-----|:-----|
 | View version history | Full Control, Contribute, Read |

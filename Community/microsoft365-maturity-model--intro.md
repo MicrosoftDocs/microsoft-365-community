@@ -29,8 +29,7 @@ Taking a holistic view of the technology and gaining an understanding of current
 - Identify the budget and resources needed to move ahead
 - Establish a baseline to show improvement over time
 
-
-[![](media/microsoft365-maturity-model--intro/introducton-to-the-microsoft-365-maturity-model.jpg)](https://www.youtube.com/watch?v=1nqgohquH4w "")
+[![Introduction to the Maturity Model for Microsoft 365](media/microsoft365-maturity-model--intro/introduction-to-the-microsoft-365-maturity-model.jpg)](https://www.youtube.com/watch?v=1nqgohquH4w)
 
 ## The SharePoint Maturity Model (SPMM)
 
@@ -80,60 +79,71 @@ Management of the processes includes deliberate and systematic process improveme
 Not every organization needs to be at the top level. NASA or Airbus have different goals, constraints, and risks to manage than a small marketing or retail organization. Not every department, team or function needs to be at the same level; Operations often needs to function with higher levels of maturity than, for example, Sales and this is reflected in their respective technology strategy and investment. As with any organizational capability, the organization should decide if the capability should be a strategic differentiator or simply a basic operational capability based on the organizational strategy. The former may require optimized and foolproof capabilities, where the latter only requires relative efficiency.
 
 ## Maturity Model for Microsoft 365 summary
-The Microsoft 365 platform is vast and changes rapidly, but business needs are common and slower. The Maturity Model for Microsoft 365 attemtps to concentrate on defining a set of business competencies, that resonate with Microsoft 365 yet underpin real business activities. Together, the documents create a set of tools, not just information. These should allow organisations to figure out where they are in any function or department and what ‘better’ entails. Not only should the Maturity Model for Microsoft 365 not be about features, but it shouldn't be just about IT either; so we it uses common language that all sorts of business roles can understand so that everyone can use the model.
+
+The Microsoft 365 platform is vast and changes rapidly, but business needs are common and slower. The Maturity Model for Microsoft 365 attempts to concentrate on defining a set of business competencies, that resonate with Microsoft 365 yet underpin real business activities. Together, the documents create a set of tools, not just information. These should allow organizations to figure out where they are in any function or department and what ‘better’ entails. Not only should the Maturity Model for Microsoft 365 not be about features, but it shouldn't be just about IT either; so we it uses common language that all sorts of business roles can understand so that everyone can use the model.
 
 In developing a maturity model for Microsoft 365 we aimed to create a toolkit which follows a set of principles:
-* Non-partisan, i.e. infomraed by but not driven by today’s features in any specific platform
-* Led by business needs rather than technology features
-* Identifies key business *and* technical competencies 
-* Enables organisations to evaluates the current state in a systemtic and consistent way
-* Applicable to various roles in the organization
 
+- Non-partisan, i.e. informed by but not driven by today’s features in any specific platform
+- Led by business needs rather than technology features
+- Identifies key business *and- technical competencies
+- Enables organizations to evaluates the current state in a systematic and consistent way
+- Applicable to various roles in the organization
 
 A short version of the 5 levels can be described as:
 
-### Level 500 - Optimizing
-* Deliberate and systematic process improvement/optimization
-* Focus is on continually improving process performance 
-* Management of the processes are concerned with addressing statistical common causes of process variation and changing the process to improve process performance
+### Level 500 - Optimizing (Efficient)
 
-#### Keywords
+- Deliberate and systematic process improvement/optimization
+- Focus is on continually improving process performance
+- Management of the processes are concerned with addressing statistical common causes of process variation and changing the process to improve process performance
+
+#### Level 500 - Keywords
+
 Optimal, systematic, statistical, improvement-focus, automated, assured, proactive
 
-### Level 400 - Predictable
-* Actively managed in accordance with agreed processes and has tracked metrics
-* Effective achievement can be evidenced across a range of operational conditions
-* Process has been tested and refined 
-* Process users demonstrate competence
+### Level 400 - Managed (Capable)
 
-#### Keywords
-Productive, interactive, responsive, enhanced, effective, adaptable, quality 
+- Actively managed in accordance with agreed processes and has tracked metrics
+- Effective achievement can be evidenced across a range of operational conditions
+- Process has been tested and refined
+- Process users demonstrate competence
+
+#### Level 400 - Keywords
+
+Productive, interactive, responsive, enhanced, effective, adaptable, quality
 
 ### Level 300 - Defined
-* Defined and standardized
-* Signed off, managed process 
-* Limited validation of effectiveness, doesn’t include edge cases
-* Process users demonstrate familiarity
+
+- Defined and standardized
+- Signed off, managed process
+- Limited validation of effectiveness, doesn’t include edge cases
+- Process users demonstrate familiarity
   
-#### Keywords
+#### Level 300 - Keywords
+
 Documented, policy-driven, planned, controlled, stable
 
 ### Level 200 - Managed
-* Key processes defined but not standardized, uniformly or strongly applied
-* Some ability to demonstrate  consistent outcomes 
-* Limited buy-in from staff and management
-* Widespread inconsistency and resistance
 
-#### Keywords
+- Key processes defined but not standardized, uniformly or strongly applied
+- Some ability to demonstrate  consistent outcomes
+- Limited buy-in from staff and management
+- Widespread inconsistency and resistance
+
+#### Level 200 - Keywords
+
 Routine, legacy, fire-fighting, variable, personally managed
 
 ### Level 100 - Initial
-* Default, starting/exploratory state
-* People driven processes, lacking documentation and discipline
-* Many ways of doing the same thing (with variable results)
-* Characterised by inefficient legacy approaches and pockets of unmanaged innovation
 
-#### Keywords
+- Default, starting/exploratory state
+- People driven processes, lacking documentation and discipline
+- Many ways of doing the same thing (with variable results)
+- Characterized by inefficient legacy approaches and pockets of un-managed innovation
+
+#### Level 100 - Keywords
+
 Ad hoc, reactive, uncontrolled, chaotic, unstable
 
 ## What's Next?
@@ -161,6 +171,7 @@ The current target is to deliver:
 - Infrastructure
 
 ## Resources
+
 - [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Every month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focus on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions may also include a brief presentation about the Maturity Model including recent updates.
 
 ## Related Articles
