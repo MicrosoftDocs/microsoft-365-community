@@ -2,7 +2,9 @@
 title: Creating Useful Views for Lists & Libraries
 ms.date: 7/10/2020
 author: PatD
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority:
@@ -129,6 +131,6 @@ Sometimes little-to-no UX research will be done, and sometimes you won't know ho
 
 **Principal author**:
 
-[Patrick M. Doran](http://www.linkedin.com/in/PatrickDoran)
+[Patrick M. Doran](https://www.linkedin.com/in/PatrickDoran)
 
 ---

@@ -3,6 +3,8 @@ title: The Microsoft 365 Maturity Model – Customization and Development Compet
 ms.date: 2/25/2021
 author: simondoy
 ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority:
@@ -374,7 +376,7 @@ The cost of development is expensive and can be controlled by only embarking on 
 ## Resources to Learn More
 
 - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view: [Refactoring UI](https://refactoringui.com/)
-- [Microsoft Developer Portal](http://developer.microsoft.com/)
+- [Microsoft Developer Portal](https://developer.microsoft.com/)
 - [Power Platform Centre of Excellence (CoE) Kit](https://docs.microsoft.com/power-platform/guidance/coe/starter-kit)
 
 ## Conclusion

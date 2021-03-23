@@ -2,7 +2,9 @@
 title: How Do Site Columns Become Managed Properties - Thus Available for Search?
 ms.date: 11/1/2020
 author: JimmyHang
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.service: search
 localization_priority: 

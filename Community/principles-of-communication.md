@@ -2,7 +2,9 @@
 title: The Principles of Communication – supporting the Microsoft 365 MaturityModel
 ms.date: 7/28/2020
 author: SimonJHudson
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority:
@@ -95,7 +97,7 @@ It is likely that external comms needs to be built into the strategy alongside a
 Explained!](https://www.yourarticlelibrary.com/management/communication/7-principles-of-communication-explained)
 - [The Seven C’s Of Effective
 Communication](https://www.proofhub.com/articles/effective-communication#The_Seven_C8217s_Of_Effective_Communication)
-- Duncan Thorne, [Thorne PR Ltd](http://www.thornepr.co.uk)
+- Duncan Thorne, [Thorne PR Ltd](https://www.thornepr.co.uk)
 
 ---
 

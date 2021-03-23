@@ -2,7 +2,9 @@
 title: Information Architecture - Site Topology
 ms.date: 3/3/2020
 author: hugoabernier
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 
@@ -120,4 +122,4 @@ To find out more about Group naming policies, and to learn to define them, visit
 
 ---
 
-**Principal author**: [Hugo Bernier](http://www.linkedin.com/in/bernierh)
+**Principal author**: [Hugo Bernier](https://www.linkedin.com/in/bernierh)

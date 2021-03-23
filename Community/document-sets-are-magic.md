@@ -2,7 +2,9 @@
 title: Document Sets for Fast Legacy Process Automation
 ms.date: 11/21/2020
 author: PatD
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority:
@@ -127,6 +129,6 @@ Document Sets enable easy out-of-the-box file organization and automatic classif
 
 ---
 
-**Principal author**: [Patrick M. Doran](http://www.linkedin.com/in/PatrickDoran)
+**Principal author**: [Patrick M. Doran](https://www.linkedin.com/in/PatrickDoran)
 
 ---

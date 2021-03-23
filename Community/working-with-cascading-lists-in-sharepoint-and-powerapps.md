@@ -1,7 +1,9 @@
 ---
 title: Working with Cascading Lists in SharePoint and Power Apps
 author: yllemo
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 
@@ -49,7 +51,7 @@ Finally, paste the URL into the JSON formatting (see code below). Remove the las
 
 ``` json
 {
-  "$schema": "http://columnformatting.sharepointpnp.com/columnFormattingSchema.json",
+  "$schema": "https://columnformatting.sharepointpnp.com/columnFormattingSchema.json",
   "elmType": "div",
   "style": {
     "display": "inline-block",

@@ -2,7 +2,9 @@
 title: Versioning in SharePoint
 ms.date: 7/01/2020
 author: PatD
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 
@@ -23,7 +25,6 @@ Emotionally, it reinforces the idea that SharePoint is a good place to store you
 SharePoint Lists items (data) and Library documents (files) have the ability to store, track, and *restore* the previous state of the item or document to how it was before a user changed it.
 
 Versioning creates a historical record of all changes, with the date/time and indication of the user who made the change, on a per-file/list item basis. The end user can view, delete, and restore a version if they have the correct permissions in the library or list.
-
 
 | To do this… | I need this permission… |
 |:-----|:-----|
@@ -74,7 +75,7 @@ Libraries can have both Major versions, which are represented with whole numbers
 Lists usually only have Major versions.
 
 > [!NOTE]
-> When you create a new version of a document, [the incremental changes are stored in SQL Server](https://docs.microsoft.com/sql/relational-databases/track-changes/about-change-data-capture-sql-server?view=sql-server-2017), rather than a completely new copy of the document. This provides the most efficient storage and helps reduce overall storage requirements.
+> When you create a new version of a document, [the incremental changes are stored in SQL Server](https://docs.microsoft.com/sql/relational-databases/track-changes/about-change-data-capture-sql-server), rather than a completely new copy of the document. This provides the most efficient storage and helps reduce overall storage requirements.
 
 ## Best Practices and Versioning Trivia
 

@@ -2,7 +2,9 @@
 title: Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces
 ms.date:  9/16/2020
 author: LuiseFreese
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.prod: outlook
 localization_priority:

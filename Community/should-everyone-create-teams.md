@@ -2,7 +2,9 @@
 title: Should everyone create Teams - Low Code Provisioning solution
 ms.date:  9/02/2020
 author: LuiseFreese
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.service: msteams
 localization_priority:
@@ -214,7 +216,7 @@ Licensing for this solution isn't covered by Microsoft 365 E3 or E5 subscription
 
 * The HTTP connector is a Premium conector and requires therefore a Power Automate Standalone Plan, [more info here](https://docs.microsoft.com/power-platform/admin/powerapps-flow-licensing-faq)
 * Power Virtual Agents needs to be purchased separately, [more info here](https://powervirtualagents.microsoft.com/pricing/)
-* If you use instead of Power Virtual Agents a Power Apps Canvas App, you will still need a Standalone Licence because of the HTTP connector
+* If you use a Power Apps Canvas App instead of Power Virtual Agents, you will still need a Standalone Licence because of the HTTP connector
 
 ---
 

@@ -2,7 +2,9 @@
 title: The Evolution of Company-wide Email Communication to SharePoint News
 ms.date: 8/7/2020
 author: eemancini
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 
@@ -78,6 +80,6 @@ Embracing the capabilities in SharePoint news instead of traditional emails to s
 
 ---
 
-**Principal author**: [Emily Mancini, MVP, UXMC](http://www.linkedin.com/in/eemancini)
+**Principal author**: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
 
 ---

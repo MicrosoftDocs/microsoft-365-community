@@ -2,7 +2,9 @@
 title: Team Site vs. Communication Site -  Which one should I choose?
 ms.date: 5/1/2020
 author: SusanHanley
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 
@@ -85,5 +87,5 @@ When they are ready to _share_, the HR team moves the document to or writes the 
 
 ---
 
-**Principal author**: [Susan Hanley, MVP](http://www.linkedin.com/in/susanhanley)
+**Principal author**: [Susan Hanley, MVP](https://www.linkedin.com/in/susanhanley)
 

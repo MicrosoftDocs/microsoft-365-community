@@ -2,13 +2,16 @@
 title: Benefits of using PowerShell with SharePoint
 ms.date: 3/3/2020
 author: veronicageek
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-powershell
 localization_priority: 
 description: "Benefits of using PowerShell with SharePoint"
 ms.collection: M365Community
 ---
+
 # Benefits of using PowerShell with SharePoint
 
 ## What is PowerShell?
@@ -22,7 +25,7 @@ The version that ships on Windows devices is called **Windows PowerShell**, and 
 
 ## PowerShell for SharePoint
 
-In the SharePoint world, we have multiple [modules](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_modules?view=powershell-6) available, and which one to use mostly depends on your SharePoint infrastructure. Is it SharePoint on-premises? Is it SharePoint Online?
+In the SharePoint world, we have multiple [modules](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_modules) available, and which one to use mostly depends on your SharePoint infrastructure. Is it SharePoint on-premises? Is it SharePoint Online?
 
 Let's have a look at all the different modules currently available for SharePoint.
 

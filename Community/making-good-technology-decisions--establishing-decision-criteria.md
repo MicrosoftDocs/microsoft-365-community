@@ -3,6 +3,8 @@ title: "Making Good Technology Decisions Establishing Decision Criteria"
 ms.date: 1/20/2021
 author: sympmarc
 ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 

@@ -1,12 +1,14 @@
 ---
-title: Template
-ms.date: 9/02/2020
+title: Name of article
+ms.date: 3/15/2021
 author: sympmarc
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 
-description: template for creating content
+description: Template for creating content
 ms.collection: M365Community
 ---
 
@@ -20,7 +22,6 @@ Replace the following values in the metadata section above:
 - author: [your GitHub handle]
 - description: [The Title of Your Article and/or a little more detail - one line]
 
-
 ## Subtitle
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dignissim erat…
@@ -31,6 +32,6 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 ---
 
-**Principal author**: [Your Name Here](http://www.linkedin.com/in/YourProfileLink)
+**Principal author**: [Your Name Here](https://www.linkedin.com/in/YourProfileLink)
 
 ---

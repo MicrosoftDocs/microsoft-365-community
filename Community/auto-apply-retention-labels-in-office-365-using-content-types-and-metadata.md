@@ -2,7 +2,9 @@
 title: Auto Apply Retention Labels in Office 365 Using Content Types and Metadata
 author: joannecklein
 ms.date: 3/3/2020
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.service: O365-seccomp
 localization_priority: 

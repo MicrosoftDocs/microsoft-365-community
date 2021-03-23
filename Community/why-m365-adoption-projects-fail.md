@@ -3,6 +3,8 @@ title: Why Microsoft 365 adoption projects fail
 ms.date: 01/20/2021
 author: LuiseFreese
 ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 
@@ -236,7 +238,7 @@ To see the bigger picture of adoption and how Microsoft 365 can support our digi
 
 ### Iceberg Models
 
-* [Involved in transformation? People love this model](http://glowconsulting.com/wp-content/uploads/2018/04/Iceberg-model_Glow_Mar18.pdf)
+* [Involved in transformation? People love this model](https://glowconsulting.com/wp-content/uploads/2018/04/Iceberg-model_Glow_Mar18.pdf)
 * [The Systems Thinking Playbook by Linda Booth Sweeney and Dennis Meadows](https://amzn.to/3qHmKpc)
 
 ### Other
@@ -247,6 +249,6 @@ To see the bigger picture of adoption and how Microsoft 365 can support our digi
 
 ---
 
-**Principal author**: [Luise Freese, MVP](http://www.linkedin.com/in/LuiseFreese)
+**Principal author**: [Luise Freese, MVP](https://www.linkedin.com/in/LuiseFreese)
 
 ---

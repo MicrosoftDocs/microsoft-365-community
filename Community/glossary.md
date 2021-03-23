@@ -2,7 +2,9 @@
 title: SharePoint Usage Glossary
 ms.date: 9/2/2020
 author: sympmarc
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365
 localization_priority: 
@@ -347,7 +349,7 @@ More complex roll ups are also possible using the [Highlighted Content Web Part]
 
 ### Root Site
 
-The base address in a web application or tenant for the first SharePoint Site collection. Typically, defined without use of managed paths ("/sites/" or "/teams/"), for example https://mytenant.sharepoint.com. In an on-site installation, there may be a vanity URL in place, such as http://sharepoint or https://intranet.
+The base address in a web application or tenant for the first SharePoint Site collection. Typically, defined without use of managed paths ("/sites/" or "/teams/"), for example https://mytenant.sharepoint.com. In an on-site installation, there may be a vanity URL in place, such as https://sharepoint or https://intranet.
 
 ## S
 

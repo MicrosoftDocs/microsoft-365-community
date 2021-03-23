@@ -2,7 +2,9 @@
 title: Designing your solution for scale
 ms.date: 3/3/2020
 author: pkbullock
-ms.ms-reviewer: efrene
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online
 localization_priority: 
@@ -138,4 +140,4 @@ Many related articles are in the works to go into each section in more detail. W
 
 ---
 
-**Principal author**: [Paul Bullock](http://www.linkedin.com/in/pkbullock)
+**Principal author**: [Paul Bullock](https://www.linkedin.com/in/pkbullock)
