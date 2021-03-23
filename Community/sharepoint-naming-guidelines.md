@@ -98,4 +98,4 @@ When naming your libraries, points to consider:
 
 ---
 
-**Principal author**: [Paul Bullock](http://www.linkedin.com/in/pkbullock)
+**Principal author**: [Paul Bullock](https://www.linkedin.com/in/pkbullock)

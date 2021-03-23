@@ -122,4 +122,4 @@ To find out more about Group naming policies, and to learn to define them, visit
 
 ---
 
-**Principal author**: [Hugo Bernier](http://www.linkedin.com/in/bernierh)
+**Principal author**: [Hugo Bernier](https://www.linkedin.com/in/bernierh)

@@ -46,7 +46,7 @@ Note: Changelog started in January, 2021
 | Article | Updated By |
 |---|---|
 |[Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)|[Ganesh Sanap](https://www.linkedin.com/in/ganeshsanap/) <br/> [Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/)|
-|[Should everyone create Teams? A Low Code Provisioning solution](./Community/should-everyone-create-teams.md)|[Luise Freese, MVP](http://www.linkedin.com/in/LuiseFreese)|
+|[Should everyone create Teams? A Low Code Provisioning solution](./Community/should-everyone-create-teams.md)|[Luise Freese, MVP](https://www.linkedin.com/in/LuiseFreese)|
 |[Maturity Model for Microsoft 365 - Introduction](./Community/microsoft365-maturity-model--intro.md)|[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)|
 
 ### New Contributors
@@ -60,7 +60,7 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
-|[Why Microsoft 365 adoption projects fail](./Community/why-m365-adoption-projects-fail.md)|[Luise Freese, MVP](http://www.linkedin.com/in/LuiseFreese)|
+|[Why Microsoft 365 adoption projects fail](./Community/why-m365-adoption-projects-fail.md)|[Luise Freese, MVP](https://www.linkedin.com/in/LuiseFreese)|
 |[Making Good Technology Decisions: Establishing Decision Criteria](./Community/making-good-technology-decisions--establishing-decision-criteria.md)|[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)|
 | [Making Good Technology Decisions: Data Storage](./Community/making-good-technology-decisions--data-storage.md) |[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)|
 | [Making Good Technology Decisions: Front End](./Community/making-good-technology-decisions--front-end.md)|[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)|
@@ -69,7 +69,7 @@ Note: Changelog started in January, 2021
 
 | Article | Updates By |
 |---|---|
-|[Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)| [Luise Freese, MVP](http://www.linkedin.com/in/LuiseFreese) |
+|[Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)| [Luise Freese, MVP](https://www.linkedin.com/in/LuiseFreese) |
 
 ### New Contributors
 

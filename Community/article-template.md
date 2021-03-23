@@ -32,6 +32,6 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 ---
 
-**Principal author**: [Your Name Here](http://www.linkedin.com/in/YourProfileLink)
+**Principal author**: [Your Name Here](https://www.linkedin.com/in/YourProfileLink)
 
 ---

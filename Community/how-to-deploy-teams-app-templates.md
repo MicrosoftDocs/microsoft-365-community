@@ -84,6 +84,6 @@ Time for a happy dance!
 
 ---
 
-**Principal author**: [LuiseFreese](http://www.linkedin.com/in/LuiseFreese)
+**Principal author**: [LuiseFreese](https://www.linkedin.com/in/LuiseFreese)
 
 ---

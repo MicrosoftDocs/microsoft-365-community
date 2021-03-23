@@ -131,6 +131,6 @@ Sometimes little-to-no UX research will be done, and sometimes you won't know ho
 
 **Principal author**:
 
-[Patrick M. Doran](http://www.linkedin.com/in/PatrickDoran)
+[Patrick M. Doran](https://www.linkedin.com/in/PatrickDoran)
 
 ---

@@ -129,6 +129,6 @@ Document Sets enable easy out-of-the-box file organization and automatic classif
 
 ---
 
-**Principal author**: [Patrick M. Doran](http://www.linkedin.com/in/PatrickDoran)
+**Principal author**: [Patrick M. Doran](https://www.linkedin.com/in/PatrickDoran)
 
 ---

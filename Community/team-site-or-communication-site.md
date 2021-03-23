@@ -87,5 +87,5 @@ When they are ready to _share_, the HR team moves the document to or writes the 
 
 ---
 
-**Principal author**: [Susan Hanley, MVP](http://www.linkedin.com/in/susanhanley)
+**Principal author**: [Susan Hanley, MVP](https://www.linkedin.com/in/susanhanley)
 

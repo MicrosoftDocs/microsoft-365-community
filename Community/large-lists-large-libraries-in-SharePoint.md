@@ -197,6 +197,6 @@ The model will work great for years.  Each folder acts as sort of a reset on the
   
 ---
 
-**Principal author**: [Patrick M. Doran](http://www.linkedin.com/in/PatrickDoran)
+**Principal author**: [Patrick M. Doran](https://www.linkedin.com/in/PatrickDoran)
 
 ---
