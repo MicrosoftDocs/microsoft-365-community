@@ -64,7 +64,7 @@ These states align roughly with the levels below.
 
 In many cases, the first move into Microsoft 365 is a simple migration of shared folders on a file server into SharePoint. (This usually follows a migration of email hosting from an on-premises Exchange server to Exchange Online. While this is extremely important, the average end user may not even realize it has happened.) At this level, most collaboration occurs in an unstructured way, unsupported by specific technologies. Task and document collaboration together with knowledge exchange in conversations take place via email or phone, or in person in physical meetings. There is minimal tracking, and an over-reliance on real-time, co-located, in person working.
 
-**[Initial level](microsoft365-maturity-model--intro.md#initial)** characteristics include:
+**[Initial level](microsoft365-maturity-model--intro.md#level-100--initial)** characteristics include:
 
 #### Governance & Security
 
