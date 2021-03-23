@@ -25,7 +25,7 @@ The version that ships on Windows devices is called **Windows PowerShell**, and 
 
 ## PowerShell for SharePoint
 
-In the SharePoint world, we have multiple [modules](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_modules?view=powershell-6) available, and which one to use mostly depends on your SharePoint infrastructure. Is it SharePoint on-premises? Is it SharePoint Online?
+In the SharePoint world, we have multiple [modules](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_modules) available, and which one to use mostly depends on your SharePoint infrastructure. Is it SharePoint on-premises? Is it SharePoint Online?
 
 Let's have a look at all the different modules currently available for SharePoint.
 

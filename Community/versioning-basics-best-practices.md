@@ -76,7 +76,7 @@ Libraries can have both Major versions, which are represented with whole numbers
 Lists usually only have Major versions.
 
 > [!NOTE]
-> When you create a new version of a document, [the incremental changes are stored in SQL Server](https://docs.microsoft.com/sql/relational-databases/track-changes/about-change-data-capture-sql-server?view=sql-server-2017), rather than a completely new copy of the document. This provides the most efficient storage and helps reduce overall storage requirements.
+> When you create a new version of a document, [the incremental changes are stored in SQL Server](https://docs.microsoft.com/sql/relational-databases/track-changes/about-change-data-capture-sql-server), rather than a completely new copy of the document. This provides the most efficient storage and helps reduce overall storage requirements.
 
 ## Best Practices and Versioning Trivia
 
