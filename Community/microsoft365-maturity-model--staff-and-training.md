@@ -3,7 +3,7 @@ title:  Maturity Model for Microsoft 365 – Staff & Training Competency
 ms.date: 8/31/2020
 author: eemancini
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365

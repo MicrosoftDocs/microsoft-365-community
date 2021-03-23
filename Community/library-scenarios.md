@@ -3,7 +3,7 @@ title: Library scenarios
 ms.date: 3/3/2020
 author: nyoung30
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online

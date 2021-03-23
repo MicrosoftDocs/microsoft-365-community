@@ -3,7 +3,7 @@ title: Yet another Tool? Why you will probably love Project Moca aka Outlook Spa
 ms.date:  9/16/2020
 author: LuiseFreese
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.prod: outlook

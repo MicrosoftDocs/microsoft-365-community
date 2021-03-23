@@ -4,7 +4,7 @@ ms.date: 9/3/2020
 author: simonjhudson
 ms.author: efrene
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.prod: microsoft-365
 localization_priority:

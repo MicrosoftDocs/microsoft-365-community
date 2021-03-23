@@ -3,7 +3,7 @@ title: CDS and Model-Driven Apps Standards and Naming Conventions
 ms.date: 4/21/2020
 author:  sympmarc
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.service: commondataservice

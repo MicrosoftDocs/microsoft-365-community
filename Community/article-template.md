@@ -3,7 +3,7 @@ title: Name of article
 ms.date: 3/15/2022
 author: sympmarc
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365

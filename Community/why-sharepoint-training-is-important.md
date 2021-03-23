@@ -2,7 +2,7 @@
 title: Why SharePoint Training is Important
 author: veronicageek
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.service: sharepoint-online

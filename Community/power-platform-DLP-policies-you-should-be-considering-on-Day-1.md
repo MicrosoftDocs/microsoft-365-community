@@ -3,7 +3,7 @@ title: The Power Platform DLP policies you should be considering on Day 1
 ms.date: 8/17/2020
 author: aaronrendell
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.service: power-platform

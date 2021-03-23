@@ -3,7 +3,7 @@ title: The Principles of Communication – supporting the Microsoft 365 Maturity
 ms.date: 7/28/2020
 author: SimonJHudson
 ms.reviewer: efrene
-manager: pamgreen
+manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
 ms.prod: microsoft-365
