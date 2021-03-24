@@ -78,7 +78,7 @@ Search relies heavily on several other competencies including Collaboration and 
 
 ### Level 100 - Initial
 
-**[Initial level](microsoft365-maturity-model--intro.md#initial)** characteristics include:
+**[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
 #### Governance & Security
 
@@ -128,7 +128,7 @@ Productivity is compromised; compliance activities are weak; organizational and 
 
 ### Level 200 - Repeatable
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#repeatable)** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
 #### Governance & Security
 
@@ -167,7 +167,7 @@ Productivity and compliance remain compromised; and frustration at the inability
 
 ### Level 300 - Defined
 
-**[Defined level](microsoft365-maturity-model--intro.md#defined)** characteristics include:
+**[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 #### Governance & Security
 
@@ -198,7 +198,7 @@ At this level, Search becomes an asset to the organization. This has been recogn
 
 ### Level 400 - Managed
 
-**[Managed level](microsoft365-maturity-model--intro.md#managed-capable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
 
 #### Governance & Security
 
@@ -243,7 +243,7 @@ Search results can be relied on; the current versions are reliably returned; ina
 
 ### Level 500 - Optimizing
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
 
 Search is part of everyday life for an employee at the organization. New innovative ways of exposing content are investigated. Search metrics are used to analyze user behavior and understand gaps in the information that is being returned.
 
