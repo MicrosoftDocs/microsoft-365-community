@@ -70,7 +70,7 @@ Customizable products and services
 
 The customization and development continuum are poorly understood, unmanaged and chaotic. Staff are frustrated with poor functionality but have no mechanism for requesting or implementing change. Development is characterized by building in live without going through a release process where development is tested before being put live.
 
-**Initial level**** Customization and Development** characteristics include:
+**[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
 #### No Code
 
@@ -130,7 +130,7 @@ Staff are frustrated with poor functionality but have no mechanism for requestin
 
 - Development is characterized by _build to live, though there may be some testing and control within that environment._
 
-**Repeatable level**** Customization and Development** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
 #### No Code
 
@@ -181,7 +181,7 @@ There is an appreciation of the limits of the no-code approach, low-code and pro
 
 Staff are generally satisfied with functionality but struggle to consistently get non-critical feature gaps, inconsistencies and updates rolled out. Support is generally available.
 
-**Defined level**** Customization and Development** characteristics include:
+**[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 #### No Code
 
@@ -241,7 +241,7 @@ There are clear processes and decision support for solution design and road-mapp
 
 Staff are able to work efficiently across the spectrum of solutions and adopt new solutions readily due to their consistency and interoperability. Support-driven insights are used to proactively feedback to solution teams to drive improvements. Upcoming changes are communicated clearly and well in advance.
 
-**Managed level**** Customization and Development** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
 
 #### No Code
 
@@ -303,7 +303,7 @@ Design decisions are routinely reviewed for effectiveness and learning is applie
 
 The effectiveness of solutions is continually assessed via a range of metrics to optimize staff productivity and to ensure agility for changing needs.
 
-**Optimizing level**** Customization and Development** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
 
 #### No Code
 
