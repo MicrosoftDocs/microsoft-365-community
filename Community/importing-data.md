@@ -130,11 +130,11 @@ The **“Move to”** feature will copy the files / folders to the new location 
 
 - Click the URL to view the new SharePoint list. Click “OK” to exit the export wizard.
 
-![Successful Excel export](media/importing-data/excel-export-ok.png)
+![Successful Excel export ok screen](media/importing-data/excel-export-ok.png)
 
 - Example exported list shown below:
 
-![Successful Excel export](media/importing-data/excel-export-list.png)
+![Successful Excel export list view](media/importing-data/excel-export-list.png)
 
 ## Lists – Import Spreadsheet to SharePoint (Power user)
 
