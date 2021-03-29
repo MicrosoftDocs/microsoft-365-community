@@ -142,7 +142,8 @@ To advance to the 500 level, consider the following activities:
 Improving your People and Communities maturity means rethinking your processes and decentralizing communication from one channel to multiple areas which best support the topics and tasks at hand. Embracing different levels of persistence and types of interaction with communication in these channels supports end users' ability to be more focused and deeply engaged in conversation, achieving better results. Empowering your end users to manage their own communities enables IT professionals to focus on a higher strategic level and reduce friction with end users.
 
 ## Resources
-- [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Every month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focus on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Session may also include a brief presentation about the Maturity Model including recent updates.
+
+[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
 
 ## Related documents
 
@@ -159,6 +160,6 @@ Improving your People and Communities maturity means rethinking your processes a
 
 ---
 
-Principal author: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
+**Principal author**: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
 ---

@@ -176,8 +176,12 @@ Some examples of collaboration ROI include:
 
 Improving your People and Communities maturity means rethinking your processes and decentralizing communication from one channel to multiple areas which best support the topics and tasks at hand. Embracing different levels of persistence and types of interaction with communication in these channels supports end users’ ability to be more focused and deeply engaged in conversation, achieving better results. Empowering your end users to manage their own communities enables IT professionals to focus on a higher strategic level and reduce friction with end users.
 
-## Resources to Learn More
-- [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Every month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focus on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions may also include a brief presentation about the Maturity Model including recent updates.
+## Resources
+
+[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
+
+## Related documents
+
 - [How to Share Org-Wide Communication in Microsoft 365](https://docs.microsoft.com/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
 - [Join and create a community in Yammer](https://support.microsoft.com/office/join-and-create-a-community-in-yammer-56aaf591-1fbc-4160-ba26-0c4723c23fd6)
 - [Manage Dynamic Distribution Groups](https://docs.microsoft.com/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups)
@@ -185,7 +189,7 @@ Improving your People and Communities maturity means rethinking your processes a
 
 ---
 
-Principal authors:
+**Principal authors**:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy](https://www.linkedin.com/in/simondoy)

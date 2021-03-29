@@ -107,7 +107,10 @@ Maintaining a focus on training, at any level, enables employees to use the syst
 Overall, providing solutions to existing problems will generate higher interest across the organization and justification for employees’ time spent learning how to use them. Having a clear business process for feedback and transparency in the decision-making process will build trust with the organization, supporting the time and effort they are spending to understand the new systems. Developing these deep, trusted relationships with the business changes the focus of the conversations from specific technical requests to open dialogue around challenges or opportunities for innovation.
 
 ## Resources
-- [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Every month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focus on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions may also include a brief presentation about the Maturity Model including recent updates.
+[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
+
+## Related documents
+
 - [Maturity Model for Microsoft 365 – Introduction](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
 - [Maturity Model for Microsoft 365 – Staff & Training Competency](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--staff-and-training)
 - [Identifying Your SharePoint Champions](https://docs.microsoft.com/microsoft-365/community/identifying-your-sharepoint-champions)
@@ -115,6 +118,6 @@ Overall, providing solutions to existing problems will generate higher interest 
 
 ---
 
-Principal author: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
+**Principal author**: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
 ---

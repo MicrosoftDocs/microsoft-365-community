@@ -321,15 +321,17 @@ Search enhances the other competencies and is a great way to begin reaping rewar
 Organizations should capture success stories to provide examples of the benefits to ensure that this essential service gets the attention and resources that is required for it to be a successful resource.
 
 ## Resources
-- [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Every month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focus on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions may also include a brief presentation about the Maturity Model including recent updates.
+
+[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
+
 ---
 
-Principal authors:
+**Principal authors**:
 
 - [Simon Doy](https://www.linkedin.com/in/simondoy)
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson)
 
-Contributing authors:
+**Contributing authors**:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
