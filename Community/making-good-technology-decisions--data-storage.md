@@ -1,6 +1,6 @@
 ---
 title: "Making Good Technology Decisions: Data Storage"
-ms.date: 1/20/2021
+ms.date: 3/29/2021
 author: sympmarc
 ms.reviewer: efrene
 manager: pamgreen-msft
@@ -17,6 +17,8 @@ ms.collection: M365Community
 * Part 1: [Microsoft 365 - Making Good Technology Decisions: Establishing Decision Criteria](making-good-technology-decisions--establishing-decision-criteria.md)
 * Part 2: Microsoft 365 - Making Good Technology Decisions: Data Storage (this article)
 * Part 3: [Microsoft 365 - Making Good Technology Decisions: Front End](making-good-technology-decisions--front-end.md)
+
+[!INCLUDE [cc-data-platform-banner](includes/cc-data-platform-banner.md)]
 
 Once you’ve thought through the decision criteria for your specific solution (as covered in part 1) – which ought to fit into the broader decision criteria for your portfolio of solutions – you can turn to the technical specifics. The next few parts of the series are probably where people argue the most about purity and “best fit”. Sometimes the best fit isn’t just a technical fit: you need to take those other criteria into account. The best technical solution isn’t always the same one for everyone. If you frame the technical decisions based on the decision criteria, you’ll be likely to make technical choices which have a higher potential for success. You may even find yourself arriving at different choices than you might otherwise expect.
 
@@ -90,17 +92,17 @@ Each of the lists within our solution can have enhancements added to them, wheth
 
 It’s worth reiterating, however, that SharePoint lists are not database tables and SharePoint is not a database. The content in SharePoint lists ends up in a SQL database somewhere, but that doesn’t mean that the lists themselves are database tables. This is a common misconception about SharePoint, especially when technical people start working with it for the first time. Just because there’s an instance of SQL running somewhere, it doesn’t mean that you’re working with a database. We are separated from the underlying SQL databases by a layer of Application Programming Interfaces (APIs), and with Office 365 we cannot touch the SQL database directly.
 
-### Common Data Service (CDS) aka Microsoft Dataverse
+### Microsoft Dataverse
 
-The Common Data Service (CDS) is a part of the Power Platform. It also has a different licensing model then SharePoint does within Microsoft 365.
+The Dataverse is a part of the Power Platform. It also has a different licensing model then SharePoint does within Microsoft 365.
 
-What CDS gives us is the ability to manage entities in a more sophisticated way. In the multiple SharePoint list section above, that’s essentially what we we’re doing, but we don’t have as many sophisticated capabilities we can bring to bear. For example, CDS allows us to create real references between entities, business rules, forms, views within and across entities, and more. CDS is in fact a layer of abstraction on top of SQL databases, so you get some of that sophistication without having understand how to design and maintain a database directly.
+What Dataverse gives us is the ability to manage entities in a more sophisticated way. In the multiple SharePoint list section above, that’s essentially what we we’re doing, but we don’t have as many sophisticated capabilities we can bring to bear. For example, Dataverse allows us to create real references between entities, business rules, forms, views within and across entities, and more. Dataverse is in fact a layer of abstraction on top of SQL databases, so you get some of that sophistication without having understand how to design and maintain a database directly.
 
-When we build entities in CDS and add relationships between them, we need to be more careful up front. Generally, the more sophisticated the data storage mechanism, the more up-front planning is required, as large-scale changes are difficult after the fact. Not impossible – just more difficult.
+When we build entities in Dataverse and add relationships between them, we need to be more careful up front. Generally, the more sophisticated the data storage mechanism, the more up-front planning is required, as large-scale changes are difficult after the fact. Not impossible – just more difficult.
 
 ### Azure Tables
 
-Azure Tables are like CDS in that they give us the ability to manage a set of entities, but the underlying technology is NoSQL. Choosing Azure Tables over CDS may well be driven by your available skills or determined by comparing licensing costs.
+Azure Tables are like Dataverse in that they give us the ability to manage a set of entities, but the underlying technology is NoSQL. Choosing Azure Tables over Dataverse may well be driven by your available skills or determined by comparing licensing costs.
 
 In many organizations, the fact that we even mention the word Azure means we need to interact with a different set of technical people in order to obtain access. This means that Azure Tables – while they may seem to hold more appeal from a technical perspective – may be out of reach in a larger organization, often due to security concerns.
 
