@@ -108,7 +108,7 @@ This competency focuses on many aspects with management of content, including pr
 
 ### Level 100
 
-**Initial level** Management of Content - characteristics include:
+**[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
 #### Lifecycle Management
 
@@ -167,7 +167,7 @@ At this level you can expect the following:
 
 ### Level 200
 
-**Repeatable level**** Management of Content** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
 #### Lifecycle Management
 
@@ -227,7 +227,7 @@ At this level you can expect the following:
 
 ### Level 300
 
-**Defined level**** Management of Content** characteristics include:
+**[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 #### Lifecycle Management
 
@@ -281,7 +281,7 @@ At this level you can expect the following:
 
 ### Level 400
 
-**Managed level**** Management of Content** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
 
 #### Lifecycle Management
 
@@ -340,7 +340,7 @@ At this level you can expect the following:
 
 ### Level 500
 
-**Optimizing level**** Management of Content** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
 
 #### Lifecycle Management
 
@@ -427,15 +427,17 @@ Equally, many organizations invest in file storage technologies that provide per
 Burgeoning automation and AI make achieving high levels of maturity realistic for most organizations; however, the fundamentals need to be put in place before these can be effectively deployed.
 
 ## Resources
-- [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Every month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focus on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions may also include a brief presentation about the Maturity Model including recent updates.
+
+[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
 
 ---
-Principal authors:
+
+**Principal authors**:
 
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
 - [Simon Doy](https://www.linkedin.com/in/simondoy/)
 
-Contributing authors:
+**Contributing authors**:
 
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)

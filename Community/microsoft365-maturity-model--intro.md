@@ -172,9 +172,9 @@ The current target is to deliver:
 
 ## Resources
 
-- [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Every month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focus on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions may also include a brief presentation about the Maturity Model including recent updates.
+[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
 
-## Related Articles
+## Related documents
 
 - [Principles of Communication](principles-of-communication.md)
 - [Principles of Search](principles-of-search.md)
@@ -183,7 +183,7 @@ The current target is to deliver:
 
 ---
 
-Principal authors:
+**Principal authors**:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy](https://www.linkedin.com/in/simondoy)

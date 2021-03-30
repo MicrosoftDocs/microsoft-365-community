@@ -54,7 +54,7 @@ See the Maturity [Model for Microsoft 365 - Introduction](microsoft365-maturity-
 
 This is the starting level for a new or untried process. As with all 100 level characteristics, practices may be somewhat effective, but they don’t take advantage of the power of the platform, nor do they take into account the multiple use cases which exist in even the smallest and simplest organization. Typically, they are undocumented and in a state of dynamic change, tending to be driven in an ad hoc, uncontrolled, and reactive manner by users or events. This provides a chaotic or unstable environment for the processes.
 
-**[Initial level](microsoft365-maturity-model--intro.md#initial)** characteristics include:
+**[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
 #### Governance & Security
 
@@ -91,7 +91,7 @@ At this level you can expect the following:
 
 Processes are documented or managed by a central group to enable (but not enforce) the preferred ways of communicating. Some processes are repeatable, possibly with consistent results. Process discipline is unlikely to be rigorous, but where it exists it may help to ensure that existing processes are maintained during times of stress.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#repeatable)** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
 #### Governance & Security
 
@@ -121,7 +121,7 @@ At this level, communications often don’t follow expected layouts, style, and 
 
 The process is well defined and agreed as a standard business process. There are sets of defined and documented standard processes established, signed off, and subject to some degree of improvement over time. The processes may not have been systematically or repeatedly used to the extent needed for their users to become fully competent or the process to be validated in a range of situations. This could be considered a developmental stage - with use in a wider range of conditions and user competence development the process can develop to next level of maturity.
 
-**[Defined level](microsoft365-maturity-model--intro.md#defined)** characteristics include:
+**[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 #### Governance & Security
 
@@ -154,7 +154,7 @@ Users experience  consistency in core communication and know where to go for spe
 
 The communication process is actively managed in accordance with agreed processes, and the governance is well-defined, widely understood, and followed. Metrics are in place to track communication effectiveness.
 
-**[Managed level](microsoft365-maturity-model--intro.md#managed-capable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
 
 #### Governance & Security
 
@@ -186,7 +186,7 @@ At this level, users have a high degree of trust in organizational communication
 
 Management of the communication process includes deliberate and systematic process improvement and optimization. There is a focus on continually improving communications through both incremental and innovative technological changes or improvements. Level 500 is likely to include automation, reduction in manual tasks and associated variability, strong governance and compliance interventions, as well as optimization for user interactions and productivity.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
 
 #### Governance & Security
 
@@ -261,20 +261,24 @@ Some examples of communication ROI include:
 
 Costs are driven by the need to deploy and support the communication technologies, up-skill staff in their use and, most importantly, by investing in best practice and policy adherence.
 
-## Resources to learn more
-- [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Every month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focus on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions may also include a brief presentation about the Maturity Model including recent updates.
-- [International Association of Business Communicators](https://www.iabc.com/)
-- [Example style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
-
 ## Conclusion
 
 Organization communication is much broader than email and newsletters. Effective communication is highly sophisticated, enabling many types of corporate communications using a range of technologies in order to provide the right message to the right people in the best format at the right time. Great communications incorporate feedback, enable action and organizational change, and develop the culture whilst ensuring compliance and addressing risk.
 
 Organizations should define their desired maturity, based on their needs, circumstances and capabilities. They should recognize that embedding good communication is more than implementing a range of technology solutions.
 
+## Resources
+
+[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
+
+## Related documents
+
+- [International Association of Business Communicators](https://www.iabc.com/)
+- [Example style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
+
 ---
 
-Principal authors:
+**Principal authors**:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy](https://www.linkedin.com/in/simondoy/)

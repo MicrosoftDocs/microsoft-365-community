@@ -1,6 +1,6 @@
 ---
 title: "Making Good Technology Decisions Establishing Decision Criteria"
-ms.date: 1/20/2021
+ms.date: 3/29/2021
 author: sympmarc
 ms.reviewer: efrene
 manager: pamgreen-msft
@@ -18,7 +18,9 @@ ms.collection: M365Community
 * Part 2: [Microsoft 365 - Making Good Technology Decisions: Data Storage](making-good-technology-decisions--data-storage.md)
 * Part 3: [Microsoft 365 - Making Good Technology Decisions: Front End](making-good-technology-decisions--front-end.md)
 
-The longer I work in technology, the more I realize that few things are absolute. In fact, I often say “All absolute statements are wrong.” When people think about building solutions in the Microsoft 365 ecosystem, they tend to think about the ways they’ve solved problems in the past. If you’re a SharePoint person, you’re likely to think about using a bunch of SharePoint lists. If you’re a Dynamics person you’re going to think about using CDS. If you’re an old school database developer, you might think about using SQL. The point isn’t that any one of those is wrong, it’s that it’s important to consider the various options you have available to you within the Microsoft ecosystem. The requirements for the thing you are trying to build should drive your decision-making, not just what you already know.
+[!INCLUDE [cc-data-platform-banner](includes/cc-data-platform-banner.md)]
+
+The longer I work in technology, the more I realize that few things are absolute. In fact, I often say “All absolute statements are wrong.” When people think about building solutions in the Microsoft 365 ecosystem, they tend to think about the ways they’ve solved problems in the past. If you’re a SharePoint person, you’re likely to think about using a bunch of SharePoint lists. If you’re a Dynamics person you’re going to think about using Dataverse. If you’re an old school database developer, you might think about using SQL. The point isn’t that any one of those is wrong, it’s that it’s important to consider the various options you have available to you within the Microsoft ecosystem. The requirements for the thing you are trying to build should drive your decision-making, not just what you already know.
 
 But beyond the technical choices, there are many different criteria that are important to consider when you plan to build a solution. Reading through these criteria, it may sound a bit like the classic “it depends” that comes from many consultants, but the reason many consultants use that phrase is because it’s true. In the list below I attempt to provide a list of some of the important factors a technical architect should consider when planning a solution.
 

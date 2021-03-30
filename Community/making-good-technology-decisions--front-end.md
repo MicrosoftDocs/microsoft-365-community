@@ -1,6 +1,6 @@
 ---
 title: "Making Good Technology Decisions: Front End"
-ms.date: 1/20/2021
+ms.date: 3/29/2021
 author: sympmarc
 ms.reviewer: efrene
 manager: pamgreen-msft
@@ -17,6 +17,8 @@ ms.collection: M365Community
 * Part 1: [Microsoft 365 - Making Good Technology Decisions: Establishing Decision Criteria](making-good-technology-decisions--establishing-decision-criteria.md)
 * Part 2: [Microsoft 365 - Making Good Technology Decisions: Data Storage](making-good-technology-decisions--data-storage.md)
 * Part 3: Microsoft 365 - Making Good Technology Decisions: Front End (this article)
+
+[!INCLUDE [cc-data-platform-banner](includes/cc-data-platform-banner.md)]
 
 In the prior two articles in this series, I’ve gone over how to evaluate your organizational readiness and what criteria to use to make decisions [Decision Criteria] as well as where to store the underlying data for your solution [Data Storage]. In this installment, I will go through some of the front-end options available to you, providing some of the plusses and minuses for each.
 
@@ -38,15 +40,15 @@ Power Apps are billed as end user tools, but still require the right mindset to 
 
 Embedding canvas apps in the context of a single list is often just the ticket, but in other cases, you want an app which stands separate from the data storage mechanisms. Standalone canvas apps are one way to do this. Contrary to what I believed for quite some time; this also falls under your Microsoft 365 licensing.
 
-With a standalone canvas app, you might have two or more underlying SharePoint lists for data storage, or even the Common Data Service (CDS) or some other storage mechanisms. By moving to this level of abstraction, your end users really do not know where the data lives, nor do they need to. The data is somewhere, and the app you build provides the ways to interact with it and perhaps the entirety of the ways to review and report on it.
+With a standalone canvas app, you might have two or more underlying SharePoint lists for data storage, or even Dataverse or some other storage mechanisms. By moving to this level of abstraction, your end users really do not know where the data lives, nor do they need to. The data is somewhere, and the app you build provides the ways to interact with it and perhaps the entirety of the ways to review and report on it.
 
 Using canvas apps this way, you can use the Microsoft Power Apps (Preview) Web Part to embed the app right in any SharePoint page (where there is ample page real estate for it realistically to live). Alternatively, you can send your users via a link (perhaps a Quick Link) to the Power Apps environment where your app is hosted. Again, they do not need to know where the app lives, just how to get to it.
 
 ## Power Apps (Model Driven)
 
-If you have decided to use CDS (Microsoft Dataverse) for your data storage, you can choose to use canvas apps (via a premium connector, thus with a licensing cost) or model driven apps. To say that Power Apps have two flavors (canvas apps and model driven apps) is rather disingenuous. The two types of Power Apps could not be more different to build or to use. Because both tool sets were built by the Dynamics 365 folks, they are under the same marketing name, but the skills to build with them are quite different.
+If you have decided to use Dataverse for your data storage, you can choose to use canvas apps (via a premium connector, thus with a licensing cost) or model driven apps. To say that Power Apps have two flavors (canvas apps and model driven apps) is rather disingenuous. The two types of Power Apps could not be more different to build or to use. Because both tool sets were built by the Dynamics 365 folks, they are under the same marketing name, but the skills to build with them are quite different.
 
-Model driven apps provide a very different way to think about app building. With model driven apps, the data structures – entities in CDS, primarily – determine most of the possibilities for the front end. This is not a bad thing, but it can feel stranger than canvas driven apps, where it feels more comfortable taking an iterative app building approach. Note that my prior article was about data storage: I’ve found over the years that getting your data model right up front (the 80/20 rule applies) makes building solutions on top of it much easier, anyway. Model driven apps take that a step further, requiring the data model first. Iteration is possible, but the further down the path you go, the harder it is to change your data model.
+Model driven apps provide a very different way to think about app building. With model driven apps, the data structures – entities in Dataverse, primarily – determine most of the possibilities for the front end. This is not a bad thing, but it can feel stranger than canvas driven apps, where it feels more comfortable taking an iterative app building approach. Note that my prior article was about data storage: I’ve found over the years that getting your data model right up front (the 80/20 rule applies) makes building solutions on top of it much easier, anyway. Model driven apps take that a step further, requiring the data model first. Iteration is possible, but the further down the path you go, the harder it is to change your data model.
 
 ## SharePoint Framework (SPFx) Solution
 

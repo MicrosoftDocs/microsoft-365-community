@@ -80,7 +80,10 @@ Organizational communication is much broader than email and newsletters. Effecti
 
 ## Resources
 
-* [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Every month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focus on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions may also include a brief presentation about the Maturity Model including recent updates.
+[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
+
+## Related documents
+
 * [Introduction to the Microsoft 365 Maturity Model](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model—intro)
 * [Communication Competency* Maturity Model for Microsoft 365](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model—communication)
 * [The Principles of Communication](https://docs.microsoft.com/microsoft-365/community/principles-of-communication)
@@ -89,9 +92,9 @@ Organizational communication is much broader than email and newsletters. Effecti
 
 ---
 
-Principal author: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
+**Principal author**: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
-Contributing authors:
+**Contributing authors**:
 
 * [Simon Doy](https://www.linkedin.com/in/simondoy/)
 * [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)

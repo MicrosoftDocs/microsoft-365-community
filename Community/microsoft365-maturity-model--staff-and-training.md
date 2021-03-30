@@ -43,7 +43,7 @@ See the Maturity [Model for Microsoft 365 - Introduction](microsoft365-maturity-
 
 Organizations at the 100 level give more precedence to launching the solution than focusing on why the solution is launched. Typically there is a bottom-line problem to be solved (e.g. platform migration due to a merger) which takes top priority. User and training needs have not been defined, evaluated, or documented. This leaves end users to develop their own methods for working with the new solutions. As a result, they may miss out on core benefits of the solution. We often refer to this level as the “Wild West Adoption Model.”
 
-**[Initial level](microsoft365-maturity-model--intro.md#initial)** characteristics include:
+**[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
 - System is launched without training or guidance.
 - No information is available on who to reach out to for help or support with the system.
@@ -62,7 +62,7 @@ At this level, the focus is on improving the break/fix (tier 1) support by docum
 
 As the system is growing in usage, some of the end users who are responsible for their own content have received one-off training. Training is focused on power users using the solutions and has not been launched to the entire organization yet. Some level of departmental or functional expertise begins to develop, and people start to know who the experts are to turn to.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#repeatable)** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
 - Support and build mainly done by individual or small group.
 - IT Help Desk is available for break/fix support only.
@@ -78,7 +78,7 @@ Content owners may begin to share the message of positive impacts of the solutio
 
 The organization is actively using the solution(s) with a training plan in place for all new and existing employees. The training is focused on how to use the system specific to interacting with the interface and accomplishing basic tasks. This training helps raise the technical literacy of the organization as users begin consistently using the solution as intended. The established training also reduces silo solutioning with unsupported products, or misuse of the solution.
 
-**[Defined level](microsoft365-maturity-model--intro.md#defined)** characteristics include:
+**[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 - An end-user training plan is in place.
 - Onboarding and off-boarding is addressed in the training plans.
@@ -100,7 +100,7 @@ The training plan for Microsoft 365 and the related solutions is viewed as a sui
 
 Now that the IT support staff has expanded, there are opportunities for the business to receive coaching, guidance, and innovation on their existing business processes in partnership with the IT department. The IT support staff have begun to proactively share updates and changes coming in the system to better involve business need in their strategic decisions. This involvement with the business reflects increased understanding in the platform and the organizational importance of developing business processes with the available enterprise solutions.
 
-**[Managed level](microsoft365-maturity-model--intro.md#managed-capable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
 
 - IT has more than one resource knowledgeable on the system.
 - Requests for new functionality are tracked and prioritized.
@@ -123,7 +123,7 @@ Business involvement in the Microsoft 365 platform and solutions has grown well 
 
 The most common support scripts and training content are developed with Chatbot and AI technology, allowing IT staff to focus on escalations, proactive initiatives, and reducing the amount of time spent on break/fix. Support ticket analytics are reviewed on a scheduled cadence to identify and prioritize closure of training gaps, minimizing employee downtime, and increasing organizational productivity.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
 
 - Dedicated system support includes strategic guidance, business analysis, training staff, and help desk support from IT. System support also includes members outside of IT, typically key stakeholders from other departments to inform strategy and road map.
 - Centers of Excellence or Communities of Practice exist around effective digital workplace implementations and transformation opportunities.
@@ -160,19 +160,24 @@ Launching a system without full support or training risks a lost investment in t
 
 Providing solutions to existing problems will generate higher interest across the organization and justification for employees’ time spent learning how to use them. Having a clear business process for feedback and transparency in the decision-making process will build trust with the organization, supporting the time and effort they are spending to understand the new systems. Developing these deep, trusted relationships with the business changes the focus of the conversations from specific technical requests to open dialogue around challenges or opportunities for innovation.
 
-## Resources to learn more
-- [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Every month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focus on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions may also include a brief presentation about the Maturity Model including recent updates.
+## Resources
+
+[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
+
+## Related documents
+
 - [The Microsoft 365 Maturity Model – Introduction](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
 - [Why SharePoint Training is Important](https://docs.microsoft.com/microsoft-365/community/why-sharepoint-training-is-important)
 - [Identifying Your Microsoft 365 Champions](https://docs.microsoft.com/microsoft-365/community/identifying-your-sharepoint-champions)
 - [Empowering Your Microsoft 365 Champions](https://docs.microsoft.com/microsoft-365/community/empowering-your-sharepoint-champions)
 
 ---
-Principal author:
+
+**Principal author**:
 
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
-Contributing authors:
+**Contributing authors**:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy](https://www.linkedin.com/in/simondoy/)

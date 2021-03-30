@@ -58,7 +58,7 @@ Systems may exist to support identifying who works in the organization and in wh
 
 There is little company guidance or recommendation on where to have different types of conversations to be most effective. This leads to most people feeling that, while much information is coming at them, little is what they need to know or actionable. No processes or tools exist to discover whether colleagues have specific skills, areas of expertise, or common interests and values. In project-based environments, it’s difficult to find out who worked on past projects. Communities of interest are serendipitous and do not take place digitally. Most conversations use email as the only communication channel.
 
-**[Initial level](microsoft365-maturity-model--intro.md#initial)** characteristics include:
+**[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
 - There is, at best, basic profile data. This is inconsistent across different systems (e.g. Active Directory, Human Resources Information Systems, etc.).
 - Staff profiles, accessible to colleagues, are absent or largely unmaintained; there is no expectation that profiles are completed and updated. Any that do exist are likely to be limited to identifying who works in the organization and in which department (with contact information). Hard copy staff directories may be in use.
@@ -81,7 +81,7 @@ There is little reinforcement of organizational culture and vision. Limited inte
 
 At this level, the focus tends to be on creating communication channels for the inner loop. This represents groups of people working together on projects - the organizations usual units of work. Each team may decide how to communicate internally, but there is no enterprise-level guidance on which solution to use based on the project goal. There may be pilots for capturing outer loop conversations (corporate communications, CEO town halls, employee interest groups) in another communication channel.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#repeatable)** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
 - There are likely to be multiple directories, often managed at the department or project level. These may be effective and maintained in some instances, but there is little aggregation, standardization or control. Some of these may draw on definitive sources, such as Active Directory, but without consistency. Centralized directories and people cards may be piloted but have not replaced local versions.
 - Staff profile technology is available, which can capture skills and other information, not just contact details. Use is encouraged in some teams, but not enforced. Terminology is not standardized; quality and completion is variable. It is possible to find people and skills across the organization, but this is neither efficient nor assured.
@@ -106,7 +106,7 @@ Commonality across teams starts to drive where communities are created and set u
 
 People profiles have additional information populated for skills, expertise, and past projects which can maintained by each individual. People begin using search to identify subject matter experts in the organization instead of emailing multiple people across the organization because they can find better results with people profiles.
 
-**[Defined level](microsoft365-maturity-model--intro.md#defined)** characteristics include:
+**[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 - Processes exist to create and populate staff profiles in appropriate systems in response to trigger events (new starter, role change, leaver). Compliance with maintaining profiles is a matter for line management.
 - Staff have the ability to update elements of their profile and request updates to other attributes.
@@ -125,7 +125,7 @@ End users begin to see the ROI for completing their profiles as they can more ea
 
 A strategic view of all communication channels including email, Yammer Communities, Teams (backed by Microsoft 365 Groups), distribution lists, and security groups increases engagement in the respective communities. These opportunities lead to serendipitous connections between people who might not have previously collaborated. There is an increased focus on self-service for end users to apply solutions and technologies to their work so they can manage their own membership. Manually maintained distribution lists are uncommon having been replaced by dynamic distribution lists and groups, based upon employee characteristics for all company communication, Microsoft 365 Groups for teamwork conversations, and Yammer for company-wide and cultural communication.
 
-**[Managed level](microsoft365-maturity-model--intro.md#managed-capable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
 
 - Profile fields may integrate with Line of Business data.
 - Communities flourish under governance.
@@ -141,7 +141,7 @@ Users rely on different communication channels to stay informed for their day-to
 
 People are connected across the organization based on their skills, interests, and work. Innovative collaborations arise without formal structures. End users use people cards to find more than just organization structure and expand the usage to seeing common documents to spur further collaboration. MyAnalytics helps inform end users on how they are spending their time working with different people and empowering them to keep stronger connections across the organization.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
 
 - Users can maintain important profile data that writes back to Active Directory or Human Resources Information Systems.
 - Communities and conversations extend to external participants when it makes a process more effective.
@@ -176,8 +176,12 @@ Some examples of collaboration ROI include:
 
 Improving your People and Communities maturity means rethinking your processes and decentralizing communication from one channel to multiple areas which best support the topics and tasks at hand. Embracing different levels of persistence and types of interaction with communication in these channels supports end users’ ability to be more focused and deeply engaged in conversation, achieving better results. Empowering your end users to manage their own communities enables IT professionals to focus on a higher strategic level and reduce friction with end users.
 
-## Resources to Learn More
-- [Join the Maturity Model Practitioners](https://symp.info/MM4M365Practitioners): Every month we host sessions exploring the value and use of the Microsoft 365 Maturity Model and how you can successfully develop your organization using Microsoft 365. Each of these sessions focus on building a community of practitioners in a safe space to hone your pitch, test your thoughts, or decide how to promote your use of the Maturity Model. Sessions may also include a brief presentation about the Maturity Model including recent updates.
+## Resources
+
+[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
+
+## Related documents
+
 - [How to Share Org-Wide Communication in Microsoft 365](https://docs.microsoft.com/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
 - [Join and create a community in Yammer](https://support.microsoft.com/office/join-and-create-a-community-in-yammer-56aaf591-1fbc-4160-ba26-0c4723c23fd6)
 - [Manage Dynamic Distribution Groups](https://docs.microsoft.com/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups)
@@ -185,7 +189,7 @@ Improving your People and Communities maturity means rethinking your processes a
 
 ---
 
-Principal authors:
+**Principal authors**:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy](https://www.linkedin.com/in/simondoy)

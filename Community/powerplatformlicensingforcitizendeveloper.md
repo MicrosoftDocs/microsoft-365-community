@@ -1,6 +1,6 @@
 ---
 title: Understanding Power Platform Licensing
-ms.date: 3/16/2020
+ms.date: 3/29/2021
 author: bigpix2000
 ms.reviewer: efrene
 manager: pamgreen-msft
@@ -16,6 +16,8 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
+[!INCLUDE [cc-data-platform-banner](includes/cc-data-platform-banner.md)]
+
 ## Overview
 
 ### About this article
@@ -24,7 +26,7 @@ In October 2019 and just before Ignite, Microsoft initiated changes to the licen
 
 ### Scope of this article
 
-The information covered here summarizes the information found in the official and definitive Licensing Guidance found here: [https://go.microsoft.com/fwlink/?linkid=2085130](https://go.microsoft.com/fwlink/?linkid=2085130).  The guide addresses Power Apps Power Automate and Power Virtual Agents and not nuances based on organizational or regional Enterprise Agreements (EA&#39;s) or contracts. It also does not cover pricing for Azure, Office 365 or Dynamics 365 products and services but it will discuss the effects of those services regarding understanding the topics included here.
+The information covered here summarizes the information found in the official and definitive Licensing Guidance found here: [https://go.microsoft.com/fwlink/?linkid=2085130](https://go.microsoft.com/fwlink/?linkid=2085130).  The guide addresses Power Apps Power Automate and Power Virtual Agents and not nuances based on organizational or regional Enterprise Agreements (EAs) or contracts. It also does not cover pricing for Azure, Office 365 or Dynamics 365 products and services but it will discuss the effects of those services regarding understanding the topics included here.
 
 ### Importance of Licensing Information
 
@@ -57,7 +59,7 @@ You may be asked to sign into your tenant or live.com account to view the inform
 
 The localized version of the licensing guide shown earlier in this article will be available as links from those pages.
 
-Before moving into detail, it is important to keep in mind that it may be a combination of circumstances from the combination of apps with flow and in context with Office 365 or Dynamics to determine either the price or the choices available. Features such as Connectors, the Common Data Service (CDS), the AI builder and Dynamics entities will be discussed after the platforms.
+Before moving into detail, it is important to keep in mind that it may be a combination of circumstances from the combination of apps with flow and in context with Office 365 or Dynamics to determine either the price or the choices available. Features such as Connectors, Dataverse, the AI builder, and Dynamics entities will be discussed after the platforms.
 
 ## Licensing by Platform
 
@@ -76,8 +78,8 @@ The following set of points discuss the license differences:
   - Access to 1 custom portal for each user
   - Access to on premises resources via a data gateway
   - Read Access to Dynamics 365 restricted entities
-  - 50 MB CDS DB capacity
-  - 400 MB CDS File capacity
+  - 50 MB Dataverse DB capacity
+  - 400 MB Dataverse File capacity
   - 1000 Daily API Requests
 
 - &quot;Run Unlimited Apps&quot; – Per User/Per Month (e.g. US$ 40)
@@ -88,8 +90,8 @@ The following set of points discuss the license differences:
   - Unlimited Access to the (single) tenant portal
   - Access to on premises resources via a data gateway
   - Read Access to Dynamics 365 restricted entities
-  - 250 MB CDS DB capacity shared with the tenant
-  - 2 GB CDS File capacity shared with the tenant
+  - 250 MB Dataverse DB capacity shared with the tenant
+  - 2 GB Dataverse File capacity shared with the tenant
 
 - Seeded Power Apps
   - Bundled with Office 365 and Dynamics 365
@@ -97,23 +99,23 @@ The following set of points discuss the license differences:
   - Office 365 specific abilities\limitations:
     - Includes Standard connectors but not Premium Connectors
     - Includes access to Office 365 features such as SharePoint directly but not via HTTP which is considered a Premium connector
-    - Does not include CDS capacity
+    - Does not include Dataverse capacity
     - Does not include access to on premises services via the data gateway
     - Data API limited to 2000 requests per day
     - No model driven custom apps
     - No Power Apps portal access
   - Dynamics 365 specific abilities\limitations:
     - Create, read, update Delete Access to Dynamics 365 restricted entities limited to 15 in basic Dynamics 365
-    - CDS use and capacity included with Dynamics 365
+    - Dataverse use and capacity included with Dynamics 365
     - Run custom apps (canvas/model driven) in Dynamics 365 Enterprise Applications only
     - Create and Access custom entities (limited to 15 in non Dynamics 365 Enterprise Applications)
-    - Dynamics 365 restricted entity use rights (create, read, updated and delete)
+    - Dynamics 365 restricted table use rights (create, read, updated and delete)
     - Power Apps Portal only in context of Dynamics 365 Enterprise Applications
     - May use prebuilt Standard and Premium Connectors
   - Apps typically created to customize or extend Office 365 and Dynamics 365 features
     - e.g. Provisioning SharePoint Online Sites or Lists
 
-The guide shows in various tables the details of for each of these plans along with footnotes providing specific detail or caveats.  For Power Apps, there is one note referring to &quot;Appendix B&quot; which is about Premium Connectors recently added.  The context for that information is not just to allow comparison against the old plan but to show what may have originally been considered standard as well as new items recently introduced.  A major item that is common to applications build by people familiar and comfortable with T-SQL and SQL Server for data as opposed to SharePoint lists or the CDS, is the SQL Connector which is noted now as Premium.  Appendix B should be consulted if you are seeing whether you need a license for an existing app.
+The guide shows in various tables the details of for each of these plans along with footnotes providing specific detail or caveats.  For Power Apps, there is one note referring to &quot;Appendix B&quot; which is about Premium Connectors recently added.  The context for that information is not just to allow comparison against the old plan but to show what may have originally been considered standard as well as new items recently introduced.  A major item that is common to applications build by people familiar and comfortable with T-SQL and SQL Server for data as opposed to SharePoint lists or the Dataverse, is the SQL Connector which is noted now as Premium.  Appendix B should be consulted if you are seeing whether you need a license for an existing app.
 
 The Power Apps Portal is discussed later in this article.
 
@@ -134,9 +136,9 @@ The following set of points discuss the license differences:
   - May execute workflows and business process flows
   - May use Standard, Premium and Connectors
   - Access to on premises data gateway
-  - CDS included with Power Apps license
-  - 50 MB CDS DB Capacity per user when separate from Power Apps
-  - 200 MB CDS File Capacity per user when separate from Power Apps)
+  - Dataverse included with Power Apps license
+  - 50 MB Dataverse DB Capacity per user when separate from Power Apps
+  - 200 MB Dataverse File Capacity per user when separate from Power Apps)
   
 - &quot;Per User Plan with attended RPA &quot; – Per User/Per Month (e.g. US $40)
   - Individual users create and run unlimited flows
@@ -145,9 +147,9 @@ The following set of points discuss the license differences:
   - May execute workflows and business process flows
   - May use Standard, Premium and Connectors
   - Access to on premises data gateway
-  - CDS included with Power Apps license
-  - 50 MB CDS DB Capacity per user when separate from Power Apps
-  - 200 MB CDS File Capacity per user when separate from Power Apps)
+  - Dataverse included with Power Apps license
+  - 50 MB Dataverse DB Capacity per user when separate from Power Apps
+  - 200 MB Dataverse File Capacity per user when separate from Power Apps)
   - 1 attended RPA bot (unattended bot is still a separate cost)
   - 5000 AI Builder Service Credits
   
@@ -160,16 +162,16 @@ The following set of points discuss the license differences:
   - May execute workflows and business process flows
   - May use Standard, Premium and Custom Connectors
   - Access to on premises data gateway
-  - CDS included with Power Apps license
-  - 50 MB CDS DB Capacity per flow instance when separate from Power Apps
-  - 200 MB CDS File Capacity per flow instance when separate from Power Apps
+  - Dataverse included with Power Apps license
+  - 50 MB Dataverse DB Capacity per flow instance when separate from Power Apps
+  - 200 MB Dataverse File Capacity per flow instance when separate from Power Apps
 
 - Seeded Power Automate
   - Bundled with Office 365 and Dynamics 365
   - Limits for Office 365
     - Office 365 includes Standard connectors but not Premium Connectors
     - Office 365 include access to Office 365 features such as SharePoint directly but not via HTTP which is considered a Premium connector
-    - Office 365 does not include CDS capacity
+    - Office 365 does not include Dataverse capacity
     - Office 365 does not include access to on premises services via the data gateway
     - Office 365 Data API limited to 2000 requests per day
   - Flows typically created to customize or extend Office 365 and Dynamics 365 features
@@ -178,7 +180,7 @@ The following set of points discuss the license differences:
   - Standard and Premium Connectors included only when in context of Office 365 or Dynamics
   - Access to on premises resources via a data gateway for Dynamics 365 only
   - Access to Dynamics 365 restricted entities related to Power Apps and Dynamics license in play
-  - CDS use and capacity included with Dynamics 365
+  - Dataverse use and capacity included with Dynamics 365
   
 ### Power Virtual Agents
 
@@ -191,22 +193,22 @@ The licensing guidance document defines the session:
 - A session is an interaction between the customer (essentially the user) and the bot
 - A session represents one unit of consumption.
 - A session begins when an authored topic is triggered.
-- A session meeting the criteria is referred to as a &#39;billed session&#39; in the product.
+- A session meeting the criteria is referred to as a 'billed session' in the product.
 - Sessions units are deducted for both testing and production usage.
 - A session ends in one of the following scenarios:
-  - When all the customer&#39;s questions are answered
+  - When all the customer's questions are answered
   - When a customer intentionally ends or closes a chat session
   - When a bot is unable to answer adequately, and the interaction is escalated to a live agent
 
 There are some very important aspects to the pricing that should be considered:
 
 - Cost per month is for the minimum amount whether it is used or not.
-- Flows called by PVA&#39;s do not count towards licensing restrictions in the Power Automate platform but integrations from Power Automate to Power Virtual Agents do
+- Flows called by PVA's do not count towards licensing restrictions in the Power Automate platform but integrations from Power Automate to Power Virtual Agents do
 - Each license grants 2000 sessions as the way to add capacity
 - Other entitlements given to the tenant for each license include:
-  - 10 GB CDS DB Capacity
-  - 20 GB CDS File Capacity
-  - 2 GB CDS Log Capacity
+  - 10 GB Dataverse DB Capacity
+  - 20 GB Dataverse File Capacity
+  - 2 GB Dataverse Log Capacity
 
 Unlike the ability for a citizen developer to quickly create and deploy Power Apps or Power Automate Flows, the tenant administrator is required to enable the service. Once the service is on, there is no current limit to how many virtual agents can be created and used by how ever many people.  This means that the governance must be communicated broadly as there are yet as of this writing limited sets of reporting and auditing capabilities requiring an explicit effort by administrators and stakeholders.
 
@@ -230,17 +232,17 @@ The following items can be added to Power Apps:
   - [https://powerapps.microsoft.com/ai-builder/](https://powerapps.microsoft.com/ai-builder/)
   - Base Unit = 1 million service credits per month (e.g. US $500)
 
-An important note about service credits for the AI builder which applies also to Power Automate is that they are used at different rates depending on the type of activity they are doing such as prediction or forms processing.  Unfortunately, there is not currently a &quot;rate sheet&quot; published.  For now, the guidance is to audit the month&#39;s service credit rate burn down activity and correlate it against the activity types together.  Doing this over several months will at least allow for some capacity requirements prediction.  Potentially, very specific activities can be measured against the same burn down to elicit a rate, but this is not guaranteed to stay consistent from month to month or even with the same activity over time.  Citizen developers should work closely with tenant administrators and other stakeholders when leveraging this very powerful add-on.
+An important note about service credits for the AI builder which applies also to Power Automate is that they are used at different rates depending on the type of activity they are doing such as prediction or forms processing.  Unfortunately, there is not currently a &quot;rate sheet&quot; published.  For now, the guidance is to audit the month's service credit rate burn down activity and correlate it against the activity types together.  Doing this over several months will at least allow for some capacity requirements prediction.  Potentially, very specific activities can be measured against the same burn down to elicit a rate, but this is not guaranteed to stay consistent from month to month or even with the same activity over time.  Citizen developers should work closely with tenant administrators and other stakeholders when leveraging this very powerful add-on.
 
 #### Common Data Services Capacity Add-ons
 
-Common data services are the backbone of Dynamics 365 and are also a resource for Power Apps and Power Automate as alternatives to SharePoint lists or explicit SQL Server database or other Data repository systems.  A premium connector is required to access CDS unless the connection is related to Dynamics 365 where it is included.  In various cases, the capacity included with the different plans are either tied to a specific entity such as the app or flow user or the Office 365 tenant.
+Common data services are the backbone of Dynamics 365 and are also a resource for Power Apps and Power Automate as alternatives to SharePoint lists or explicit SQL Server database or other Data repository systems.  A premium connector is required to access Dataverse unless the connection is related to Dynamics 365 where it is included.  In various cases, the capacity included with the different plans are either tied to a specific table such as the app or flow user or the Office 365 tenant.
 
 Regardless of what base level is granted for each license, capacity can be added at 1 GB increments for each of three aspects:
 
-- CDS DB e.g. US $40 per month per 1 GB
-- CDS File e.g. US $2 per month per 1 GB
-- CDS Log e.g. US $10 per month per 1 GB
+- Dataverse DB e.g. US $40 per month per 1 GB
+- Dataverse File e.g. US $2 per month per 1 GB
+- Dataverse Log e.g. US $10 per month per 1 GB
 
 These can only be added by tenant administrators with the licensing role.
 
@@ -273,7 +275,7 @@ There are two types of triggers that affect usage:
 
 - Automated Flow
 
-A flow that is triggered by some sort of webhook or polling event is called an **Automated Trigger Flow**. This includes SharePoint created/updated, Exchange email received. When a flow is running with an automated trigger it can only access the flow owner's connections, so premium licenses required would be associated with that owner's account. In this mode flows run like Azure LogicApps. The &#39;HTTP Request trigger&#39; also is considered an automated trigger.
+A flow that is triggered by some sort of webhook or polling event is called an **Automated Trigger Flow**. This includes SharePoint created/updated, Exchange email received. When a flow is running with an automated trigger it can only access the flow owner's connections, so premium licenses required would be associated with that owner's account. In this mode flows run like Azure LogicApps. The 'HTTP Request trigger' also is considered an automated trigger.
 
 - Instant Flow
 
@@ -293,7 +295,7 @@ With this information in context, the usage type may dictate the license require
 
 #### Nuances affecting the choices
 
-It is important to understand that Flow is based on Azure LogicApps as alluded to earlier in this section.  Flow is &#39;consumption based&#39; but priced in a per-user basis while it also must bridge between the serverless products and other Cognitive based, cost/user systems like CDS.  
+It is important to understand that Flow is based on Azure LogicApps as alluded to earlier in this section.  Flow is 'consumption based' but priced in a per-user basis while it also must bridge between the serverless products and other Cognitive based, cost/user systems like Dataverse.  
 
 As Office 365 is per user based, the license considerations for Flow runs are vastly simplified thanks to the Seeded License described earlier.  Dynamics 365 licenses, for example, includes all premium connectors by virtue of its high per user costs effectively covering any remaining services not covered with Office 365.  
 
@@ -309,7 +311,7 @@ One premium flow license per month packs a lot more value than running multiple 
 
 There are other bigger reasons to get more premium flows. In the case AI Builder, for example, the bundle price may be appealing. When high numbers of flow runs are used API limits may be hit and the purchase of additional API capacity may be required. A best practice in a developer/test/production environment set is to use service accounts with premium licenses used by those flows.
 
-Another important situation is for per-user license pieces such as CDS outside of Dynamics 365.  The Licensing Guide document mentions the concept of &#39;multiplexing&#39; which applies in the same manner as traditional licensing in SQL Server scenarios. So while technically 1 premium license could be used to write to CDS, it would be a multiplexing violation of the CDS license. Other products do not have this requirement.
+Another important situation is for per-user license pieces such as Dataverse outside of Dynamics 365.  The Licensing Guide document mentions the concept of "multiplexing" which applies in the same manner as traditional licensing in SQL Server scenarios. So while technically 1 premium license could be used to write to Dataverse, it would be a multiplexing violation of the Dataverse license. Other products do not have this requirement.
 
 In one more example, given that a citizen developer creates two Flows (Flow 1 and Flow 2) in an Office 365 E3 environment using a SharePoint form to trigger the first flow (Flow 1) and given that the flow uses the HTTP connector to trigger the second flow (Flow 2 e.g. Graph API REST call) where there are 10 users with permissions to run the form, **only the author** of the flow needs to have the premium\full license rather than a license for each of the 10 SharePoint form users.  If this was an approval workflow where a step included approvals, the people approving would also not need licenses as the flow is considered a single instance through its completion and is, in effect, already paid for.  
 
@@ -317,7 +319,7 @@ In one more example, given that a citizen developer creates two Flows (Flow 1 an
 
 For the citizen developer, awareness of all aspects can make a big difference when creating and even justifying a solution in the same manner as for a regular developer or solutions architect.  As the saying goes, &quot;Nothing is for free&quot; but deep understanding in this case can at least mitigate much of those costs or at least help put a definitive price tag on those benefits derived from the effort.  It follows from this point and based on recent experience that one must keep up with changes in this area on the same level as changes in capability and functionality within the Power Platform suite.  Tenant administrators get the benefit of notification through the message system in their administration application while others would benefit from setting up alerts or reminders to the Power Platform docs and blogs here and in the community.
 
-As a final note, recall early when it was noted that prices may vary from region to region as well as agreement to agreement.  Variations notwithstanding, the final arbiter of the price will be Microsoft and with that comes the opportunity to confirm arrangements with them directly or through your IT&#39;s Microsoft contact or representative. When dealing with Microsoft do consider that the major change between the older licensing scheme and the current one is that the customer is rewarded for using the system more that those who create the odd Power App or flow very infrequently.  It is the case of buying a car to only use it to bring the beloved pet to the Pet hospital once a quarter for their checkup or to go to work every day – on the latter, there may be wear and tear on the vehicle but there is also very measurable and significant return on investment for the benefit it brings to the household salary.
+As a final note, recall early when it was noted that prices may vary from region to region as well as agreement to agreement.  Variations notwithstanding, the final arbiter of the price will be Microsoft and with that comes the opportunity to confirm arrangements with them directly or through your IT's Microsoft contact or representative. When dealing with Microsoft do consider that the major change between the older licensing scheme and the current one is that the customer is rewarded for using the system more that those who create the odd Power App or flow very infrequently.  It is the case of buying a car to only use it to bring the beloved pet to the Pet hospital once a quarter for their checkup or to go to work every day – on the latter, there may be wear and tear on the vehicle but there is also very measurable and significant return on investment for the benefit it brings to the household salary.
 
 ## Credits
 
