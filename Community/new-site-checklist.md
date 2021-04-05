@@ -21,8 +21,9 @@ The purpose of this guide is to help document the initial setup of a site and pr
 
 - [ ] Site build
     - [ ] Site information
+    - [ ] Site Ownership
     - [ ] Site permissions
-    - [ ] Site settings
+    - [ ] Site features
     - [ ] Document libraries
     - [ ] Lists
     - [ ] Apps
@@ -42,13 +43,13 @@ The purpose of this guide is to help document the initial setup of a site and pr
 - Teams enabled (Yes/No):
 - Description:
 - Hub site (Yes/No):
-- Joined to Hub site (Yes/No) :
+- Joined to Hub site (Yes/No):
     - HUB site name:
 
-### Ownership
-Content Owner 1:
-Content Owner 2:
-Technical Owner: 
+### Site Ownership
+- Content Owner 1:
+- Content Owner 2:
+- Technical Owner: 
 
 ### Site permissions
 
