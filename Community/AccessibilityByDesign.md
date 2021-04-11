@@ -61,12 +61,12 @@ Let us have a look at some examples, what we can do.
 
 Do we want to do more than just realizing that there is a need? Here are three simple steps we all can do right now:
 1. Let's take the [Accessibility fundamentals learning path](https://docs.microsoft.com/learn/paths/accessibility-fundamentals/) provided by [Microsoft Learn](https://docs.microsoft.com/learn/).
-2. Let's start using the accessibility tools like the [Accessability Checker](https://support.microsoft.comtopic/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) or [descriptive text for pictures](https://support.microsoft.com/topic/everything-you-need-to-know-to-write-effective-alt-text-df98f884-ca3d-456c-807b-1a1fa82f5dc2).
+2. Let's start using the accessibility tools like the [Accessibility Checker](https://support.microsoft.comtopic/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) or [descriptive text for pictures](https://support.microsoft.com/topic/everything-you-need-to-know-to-write-effective-alt-text-df98f884-ca3d-456c-807b-1a1fa82f5dc2).
 3. We can switch the grammar settings in Word for inclusiveness to become more aware of the language we are using. ![Showing the grammar settings in Word for inclusiveness](/media/AccessabilityByDesign/Word%20Options.png)
 
 This shows us that a first step requires little effort. And perhaps we can already simplify people's lives significantly. We can also make it possible for people to work with our product in the first place. 
 
-Once we started, we can include the thought of accessibility in more areas of our work life. Get inspiration from the article [10 Habits to create accessible content](https://blogs.microsoft.com/accessibility/10-habits-to-create-accessible-content/) or include the idea of accessible content in our company by discussing the [Accessability Evolution Model](https://blogs.microsoft.com/accessibility/accessibility-evolution-model/).
+Once we started, we can include the thought of accessibility in more areas of our work life. Get inspiration from the article [10 Habits to create accessible content](https://blogs.microsoft.com/accessibility/10-habits-to-create-accessible-content/) or include the idea of accessible content in our company by discussing the [Accessibility Evolution Model](https://blogs.microsoft.com/accessibility/accessibility-evolution-model/).
 
 Many people assume that the effort is huge, because we are used to orienting ourselves to familiar patterns. As already explained, it is difficult to look for solutions when you do not even recognize the problem. The first step is not to build ramps and bigger doors or to ask ourselves how we can include deaf people. In reality, the first steps look like this:
 
