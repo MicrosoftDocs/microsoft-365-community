@@ -6,7 +6,7 @@ ms.reviewer: efrene
 manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
-ms.service: microsoft-365
+ms.service: Microsoft-365
 localization_priority: 
 description: "How to foster accessibility by design"
 ms.collection: M365Community
@@ -60,8 +60,8 @@ The right arguments can follow as soon as we have the right mindset; instead of 
 Let us have a look at some examples, what we can do.
 
 Do we want to do more than just realizing that there is a need? Here are three simple steps we all can do right now:
-1. Let's take the [Accessibility fundamentals learning path](https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/) provided by [Microsoft Learn](https://docs.microsoft.com/en-us/learn/).
-2. Let's start using the accessibility tools like the [Accessability Checker](https://support.microsoft.com/en-us/topic/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) or [descriptive text for pictures](https://support.microsoft.com/en-us/topic/everything-you-need-to-know-to-write-effective-alt-text-df98f884-ca3d-456c-807b-1a1fa82f5dc2).
+1. Let's take the [Accessibility fundamentals learning path](https://docs.microsoft.com/learn/paths/accessibility-fundamentals/) provided by [Microsoft Learn](https://docs.microsoft.com/learn/).
+2. Let's start using the accessibility tools like the [Accessability Checker](https://support.microsoft.comtopic/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) or [descriptive text for pictures](https://support.microsoft.com/topic/everything-you-need-to-know-to-write-effective-alt-text-df98f884-ca3d-456c-807b-1a1fa82f5dc2).
 3. We can switch the grammar settings in Word for inclusiveness to become more aware of the language we are using. ![Showing the grammar settings in Word for inclusiveness](Word%20Options.png)
 
 This shows us that a first step requires little effort. And perhaps we can already simplify people's lives significantly. We can also make it possible for people to work with our product in the first place. 
@@ -84,7 +84,7 @@ Apart from that, we are making a better product. If it's an app, a piece of code
 And that means more people can buy or use our product. That in turn leads to us getting more and better feedback, which makes our product better as a whole.
 
 ## Iceberg model
-Well-known slogans that convey values include "Sharing is Caring" or "Include Everybody." Many people are driven by these values, which are anchored in their mental model. Instead of telling other people how to behave, it can be helpful to start with the mental model. When that mental model is closely linked to an accessibility thought, change can happen much more easily. There is the possibility to use the iceberg model for that [explanation of the iceberg model](https://docs.microsoft.com/en-us/microsoft-365/community/why-m365-adoption-projects-fail#the-iceberg-model), and it might be beneficial to analyze accessibility by design with that model as a next step to get a clearer picture of what is happening right now.
+Well-known slogans that convey values include "Sharing is Caring" or "Include Everybody." Many people are driven by these values, which are anchored in their mental model. Instead of telling other people how to behave, it can be helpful to start with the mental model. When that mental model is closely linked to an accessibility thought, change can happen much more easily. There is the possibility to use the iceberg model for that [explanation of the iceberg model](https://docs.microsoft.com/microsoft-365/community/why-m365-adoption-projects-fail#the-iceberg-model), and it might be beneficial to analyze accessibility by design with that model as a next step to get a clearer picture of what is happening right now.
 
 ## Conclusion
 The first step of using accessible design is to recognize that there is a need to. Period.
@@ -92,6 +92,6 @@ Once there is realization, progress can occur because exclusion often happens un
 If we want to give more people a sense of community and belonging, we need to start thinking about accessibility. Then we can get people to contribute their knowledge and skills. That's how we grow as a community and as individuals.
 
 ## Additional Ressources
-- [Accessibility terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)- Write in a way that puts people first.
-- [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication).
-- The Microsoft [Accessibility Blog](https://www.microsoft.com/en-us/accessibility?rtc=1).
+- [Accessibility terms](https://docs.microsoft.com/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)- Write in a way that puts people first.
+- [Bias-free communication](https://docs.microsoft.com/style-guide/bias-free-communication).
+- The Microsoft [Accessibility Blog](https://www.microsoft.com/accessibility?rtc=1).
