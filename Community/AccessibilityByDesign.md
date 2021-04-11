@@ -62,7 +62,7 @@ Let us have a look at some examples, what we can do.
 Do we want to do more than just realizing that there is a need? Here are three simple steps we all can do right now:
 1. Let's take the [Accessibility fundamentals learning path](https://docs.microsoft.com/learn/paths/accessibility-fundamentals/) provided by [Microsoft Learn](https://docs.microsoft.com/learn/).
 2. Let's start using the accessibility tools like the [Accessability Checker](https://support.microsoft.comtopic/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) or [descriptive text for pictures](https://support.microsoft.com/topic/everything-you-need-to-know-to-write-effective-alt-text-df98f884-ca3d-456c-807b-1a1fa82f5dc2).
-3. We can switch the grammar settings in Word for inclusiveness to become more aware of the language we are using. ![Showing the grammar settings in Word for inclusiveness](Word%20Options.png)
+3. We can switch the grammar settings in Word for inclusiveness to become more aware of the language we are using. ![Showing the grammar settings in Word for inclusiveness](/media/AccessabilityByDesign/Word%20Options.png)
 
 This shows us that a first step requires little effort. And perhaps we can already simplify people's lives significantly. We can also make it possible for people to work with our product in the first place. 
 
