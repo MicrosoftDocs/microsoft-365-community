@@ -1,3 +1,17 @@
+---
+title: Accessibility by design
+author: Gezeitenbrand
+ms.date: 4/11/2021
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.service: microsoft-365
+localization_priority: 
+description: "How to foster accessibility by design"
+ms.collection: M365Community
+---
+
 # Accessibility by design
 
 ## Introduction
