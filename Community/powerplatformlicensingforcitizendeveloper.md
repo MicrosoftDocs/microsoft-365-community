@@ -1,4 +1,18 @@
 
+---
+title: Understanding Power Platform Licensing
+ms.date: 3/29/2021
+author: bigpix2000
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.service: power-platform
+localization_priority: 
+description: "Understanding Power Platform Licensing"
+ms.collection: M365Community
+---
+
 # Understanding Power Platform Licensing
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
@@ -89,6 +103,7 @@ Microsoft has recognized this blocker and has chosen to leverage Microsoft Teams
 
 There is a major distinction in Power Automate over Power Apps when looking at the licensing unit.  Where Apps look at usage in all cases, Flow licenses are split between the permission to CREATE unlimited flows per use or to Implement specific flows to SERVE unlimited users.  These are two very different bases where the first effectively gives a single user the "All you can Eat" power for the main licence while the other is the case of a SET of Flows packaged for the organization to be used anywhere and in any and all context.
 
+
 The manner of how a Flow is TRIGGERED potentially makes the decision.  Flows triggered from a Power App are included in all cases as it assumes the premium connector will be part of the app itself.  Flows that do not touch premium connectors or who are triggered from non premium sources such as SharePoint lists and MS Forms will also not count for extra cost.  If none of these conditions apply, it is now a case of the person who created the flow as the designated licensee where the act of getting licensed effectively allows that user to create any number of flows they wish assuming the flows only serve the purpose of the user and is not shared with others.
 
 A common question is if a Flow is created for a SharePoint List and many users interact with that list, will there be a cost for all the users.  The answer is if the flow does not use a premium connector such as call Dataverse in the full production environment and not the teams environment, the cost of the flow must either be for each user or a per flow license is used so that all users of the list may be serviced by it.  
@@ -164,6 +179,7 @@ The following key links will redirect to the top-level pricing summary for the t
 - For Power Virtual Agents (new!)
   - [https://powervirtualagents.microsoft.com/](https://powervirtualagents.microsoft.com/)
 
+
 You may be asked to sign into your tenant or live.com account to view the information which will reflect your region.
 
 ## Scenarios from the Field
@@ -207,7 +223,6 @@ The main take away from this example is that flows can be modularized rather tha
 For Apps or flows that require participation by users beyond the creator of the app or flow, would there be additional licenses required?  The general answer is no if the approval activity involves Power Automate flows which considers the activity as "standard" no matter how fancy the approval response request is.  Again, the regular triggers for a license such as a premium connector, come into play here and the nuance would be additional costs incured by a third party system that may be part of the activity such as SAP or SQL Server.
 
 As a point of guidance as of this writing, there are approval features now included with MS Teams that mitigate the need to even design these type of workflows and their inclusion with teams is more likely to end up with no additional licensing costs.
-
 ---
 
 **Principal author**: [Ralph Rivas](https://www.linkedin.com/in/ralphrivas/)

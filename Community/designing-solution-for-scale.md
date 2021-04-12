@@ -2,16 +2,22 @@
 title: Designing your solution for scale
 ms.date: 3/3/2020
 author: pkbullock
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.service: sharepoint-online
 localization_priority: 
 description: "Designing your solution for scale"
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 # Designing your solution for scale
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
 ## Introduction
 
-This article refers to design considerations of scaling your solutions, for example, in this scenario - you have built your solution and tested on a site or library, you have demoed to your boss, they are very happy and then he goes "Hey now, great solution, can you get this out to 1,000 sites please?".
+This article refers to design considerations of scaling your solutions, for example, in this scenario - you have built your solution and tested on a site or library, you have demoed to your boss, they are very happy and then he goes "Hey now, great solution, can you get this out to 1,000 sites please?"
 
 The requirement has changed - to note, it is best to ask this question early. So you can plan for this and determine what kinds of points do you think about, when building your solution on this scale.
 
@@ -23,7 +29,7 @@ You now have your solution, so lets go through the kind of aspects of the soluti
 
 First question to ask yourself, do you need to deploy this solution 1,000 times or can you place a navigation link on 1000 sites referring to a single location? The decision on your approach can be determined by the following points:
 
-- Initial deployment, where do my assets live? How many times do I need to repeat the steps for deployment? The approach depends variances for each department or instance for example, can you get away with a settings file instead? 
+- Initial deployment, where do my assets live? How many times do I need to repeat the steps for deployment? The approach depends variances for each department or instance for example, can you get away with a settings file instead?
 - Maintainability, as changes occur, you may need to repeat deployment?
 - Security, is there a solid reason to keep the solution separate?
 - Technical limits of the product, will SharePoint allow you to centralise?
@@ -64,13 +70,13 @@ There is a separate article coming soon for naming conventions.
 
 What level do you define columns and content types e.g. list, web, site, enterprise. The goal should be to keep things simple and use inheritance where possible. Although, modern SharePoint makes it very easy to break from this model.
 
-There is a great article about the types of column: [List column or Site Column - Which one to choose](/Community/list-column-or-site-column-which-one-to-choose.md)
+There is a great article about the types of column: [List column or Site Column - Which one to choose](list-column-or-site-column-which-one-to-choose.md)
 
 ### Sites
 
 How you structure your sites, does your solution require lots of subsites? Typically, Microsoft is driving a flat architectural model and you should consider using multiple site collections grouped locally by hub sites.
 
-There is more detail on site typology in this article: [Information architecture - site topology](/Community/information-architecture-site-topology.md)
+There is more detail on site typology in this article: [Information architecture - site topology](information-architecture-site-topology.md)
 
 ## Security
 
@@ -88,17 +94,17 @@ Multiple environments such as separate site collection, web application (on-prem
 
 - Does your solution need to involve training users? Ideally having a separate environment to contain the "test" data that will be introduced during these. Filling up production with test data, may reduce search effectiveness if the test content contains enough keywords in be prominent in the results.
 
-- Development isolation from live data. In development, certain aspects maybe required elevated permissions to setup or create the solution. You may outsource the development to a 3rd party in which you want to limit the access to the data in the tenant. I always recommend a developer tenant where possible, they can be obtained easily from [https://dev.office.com](https://dev.office.com) if a developer inadvertently causes problems in the tenant, it is contained away from production.
+- Development isolation from live data. In development, certain aspects maybe required elevated permissions to setup or create the solution. You may outsource the development to a 3rd party in which you want to limit the access to the data in the tenant. I always recommend a developer tenant where possible, they can be obtained easily from [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) if a developer inadvertently causes problems in the tenant, it is contained away from production.
 
 - Do you need a UAT or test environment? Allowing the business owners or stakeholders to review the work and play with it. This ideally should be a almost realistic version of production with similar configuration, this will allow you to assess solution impact, test any downtime and your deployment strategies.
 
-The number of environments is up to you, there are additional overheads with having multiple tenants but if you weigh up the cost organisationally against an incident on production it will be worth the effort.
+The number of environments is up to you, there are additional overheads with having multiple tenants but if you weigh up the cost for your organisation against an incident on production it will be worth the effort.
 
 ## Maintainability
 
 Maintainability refers to the ease of making changes to your app, updates or cleanup aspects of your solution - how easy this is to achieve.
 
-Consider your solution - you have deployed to 1000 sites and you boss goes, "Great app, but can you add a column to each list, I really need this." You now need to figure out updates to each of the 1000 sites. 
+Consider your solution - you have deployed to 1000 sites and you boss goes, "Great app, but can you add a column to each list, I really need this." You now need to figure out updates to each of the 1000 sites.
 
 ## Manual vs Deployment
 
@@ -122,7 +128,7 @@ If you prefer manual, there are some ways to reduce time to manually deploy your
 
 For scripting, I highly recommend looking into PnP PowerShell library, there a lot of cmdlets design to work online and on-premises, there is plenty of blogs, examples or community members that can help you to get you started.
 
-Please refer to this article for more detail [/Community/benefits-of-using-powershell-with-sharepoint.md](/Community/benefits-of-using-powershell-with-sharepoint.md)
+Please refer to this article for more detail [Benefits of using PowerShell with SharePoint](benefits-of-using-powershell-with-sharepoint.md)
 
 ### Site Designs
 
@@ -134,4 +140,4 @@ Many related articles are in the works to go into each section in more detail. W
 
 ---
 
-**Principal author**: [Paul Bullock](http://www.linkedin.com/in/pkbullock)
+**Principal author**: [Paul Bullock](https://www.linkedin.com/in/pkbullock)

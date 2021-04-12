@@ -2,12 +2,19 @@
 title: Information Architecture - Site Topology
 ms.date: 3/3/2020
 author: hugoabernier
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.service: sharepoint-online
 localization_priority: 
 description: "Information Architecture - Site Topology"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
+
 # Information Architecture - Site Topology
+
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
 With the advent of modern pages in SharePoint Online, the classic top-down site topology, as we know it, has evolved to a flat structure that is designed to adapt to your changing organizational structure and content.
 
@@ -115,4 +122,4 @@ To find out more about Group naming policies, and to learn to define them, visit
 
 ---
 
-**Principal author**: [Hugo Bernier](http://www.linkedin.com/in/bernierh)
+**Principal author**: [Hugo Bernier](https://www.linkedin.com/in/bernierh)

@@ -1,21 +1,30 @@
 ---
 title:  Importing data into SharePoint
-ms.date: 3/3/2020
+ms.date: 4/30/2020
 author: nyoung30
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.service: sharepoint-online
 localization_priority: 
 description: Importing data into SharePoint
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
+
 # Importing data into SharePoint
+
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
 This guide will help users understand the various options available to import files and data into SharePoint. We cover several different approaches:
 
 | Method | Type of User |
 | ------ | ------------ |
 | [Document Libraries – Drag and drop files and folders](#document-libraries--drag-and-drop-files-and-folders-user)| End user|
-| [Document Libraries – SharePoint Migration Tool](#document-libraries--upload-files-and-folders-user) | Power user |
-| [Lists – Export Spreadsheet to SharePoint](#lists--export-spreadsheet-to-sharepointpower-user) | Power user |
+| [Document Libraries – Upload files and folders](#document-libraries--upload-files-and-folders-user) | Power user |
+| [Document Libraries – Copy to and Move to](#document-libraries--copy-to-and-move-to-power-user) | Power user |
+| [Lists – Export Spreadsheet to SharePoint](#lists--export-spreadsheet-to-sharepoint-power-user) | Power user |
+| [Lists – Import Spreadsheet to SharePoint](#lists--import-spreadsheet-to-sharepoint-power-user) | Power user |
 | [Document Libraries – SharePoint Migration Tool](#document-libraries--sharepoint-migration-tool-power-user) | Power user |
 | [Document Libraries – Sync](#document-libraries--sync-power-user) | Power user |
 
@@ -48,6 +57,7 @@ Like the *drag and drop* of files and folders, SharePoint document libraries als
 - Click “Upload” and select “Files” or “Folder”.
 
 ![Upload of files and folders from computer to site](media/importing-data/upload-files-folders.png)
+
 The **“Files”** option does not allow the uploading of folders. Similarly, the **“Folder”** option does not allow files.
 
 - Select the source files / folders and click “Open”.
@@ -102,7 +112,7 @@ The **“Move to”** feature will copy the files / folders to the new location 
 
 ![“Show progress” button](media/importing-data/move-to-show-progress.png)
 
-## Lists – Export Spreadsheet to SharePoint(Power user)
+## Lists – Export Spreadsheet to SharePoint (Power user)
 
 *Microsoft Excel* supports the exporting of “Tables” from spreadsheets to new SharePoint lists. With the source spreadsheet open:
 
@@ -122,11 +132,29 @@ The **“Move to”** feature will copy the files / folders to the new location 
 
 - Click the URL to view the new SharePoint list. Click “OK” to exit the export wizard.
 
-![Successful Excel export](media/importing-data/excel-export-ok.png)
+![Successful Excel export ok screen](media/importing-data/excel-export-ok.png)
 
 - Example exported list shown below:
 
-![Successful Excel export](media/importing-data/excel-export-list.png)
+![Successful Excel export list view](media/importing-data/excel-export-list.png)
+
+## Lists – Import Spreadsheet to SharePoint (Power user)
+
+*SharePoint* supports the importing of “Tables” from spreadsheets to new SharePoint lists. From "Site contents":
+
+- Click “New” and click "List".
+
+- Click “From Excel”; provide a list name; upload a new spreadsheet or select an existing one and click "Next"
+
+![Step 1 of 2](media/importing-data/excel-import-wizard-step1.png)
+
+- Select the target "Table" from the spreadsheet; set the column types ("Single line of text", "Multiple lines of text", "Choice", "Title" or "Do not import") and click "Create"
+
+![Step 2 of 2](media/importing-data/excel-import-wizard-step2.png)
+
+- Example imported list shown below:
+
+![Successful Excel import](media/importing-data/excel-import-list.png)
 
 ## Document Libraries – SharePoint Migration Tool (Power user)
 
@@ -134,7 +162,8 @@ The *SharePoint Migration Tool (SPMT)* can be used to import files into SharePoi
 Detailed information about *SPMT* can be found on the [Download and install the SharePoint Migration Tool](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool) page.
 
 From your *SPMT* computer:
-- Open the “SharePoint Migration Tool”.<br>
+
+- Open the “SharePoint Migration Tool”.
 ![Open the SharePoint Migration Tool](media/importing-data/spmt-windows-search.png)
 
 - Click “Start your first migration”.
@@ -174,28 +203,36 @@ Detailed information about OneDrive can be found on the [Sync SharePoint files w
 
 With the target site and document library open:
 
-- Click “Sync”.<br>
+- Click “Sync”.
+
 ![Document library sync](media/importing-data/onedrive-sync.png)
 
-- Click “Open” to the “Getting ready to sync...” prompt.<br>
+- Click “Open” to the “Getting ready to sync...” prompt.
+
 ![Getting ready to sync...](media/importing-data/onedrive-getting-ready.png)
 
-- Confirm you login account name and click “Sign in”.<br>
+- Confirm you login account name and click “Sign in”.
+
 ![Sign in](media/importing-data/onedrive-signin.png)
 
-- Click “Next”.<br>
+- Click “Next”.
+
 ![Your folder](media/importing-data/onedrive-your-folder.png)
 
-- Click through the “Welcome to OneDrive” screen and then click “Open my OneDrive folder”.<br>
+- Click through the “Welcome to OneDrive” screen and then click “Open my OneDrive folder”.
+
 ![Welcome to OneDrive](media/importing-data/onedrive-welcome.png)
 
 Using Windows Explorer, open the source documents folder:
+
 - Select the source files / folders.
 
-- Drag to the destination sync document library and release.<br>
+- Drag to the destination sync document library and release.
+
 ![Drag and drop files and folders](media/importing-data/onedrive-drag-file-folders.png)
 
-- Source folder and target document library will become synchronized.<br>
+- Source folder and target document library will become synchronized.
+
 ![Source and target synchronized](media/importing-data/onedrive-synchronized-files-folders.png)
 
 - See the OneDrive sync app in the system tray to view progress and any sync messages.
