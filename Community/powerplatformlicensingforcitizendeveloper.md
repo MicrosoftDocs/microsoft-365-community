@@ -1,21 +1,4 @@
-
----
-title: Understanding Power Platform Licensing
-ms.date: 3/29/2021
-author: bigpix2000
-ms.reviewer: efrene
-manager: pamgreen-msft
-ms.topic: article
-ms.author: efrene
-ms.service: power-platform
-localization_priority: 
-description: "Understanding Power Platform Licensing"
-ms.collection: M365Community
----
-
 # Understanding Power Platform Licensing
-
-[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
 ## Overview
 
