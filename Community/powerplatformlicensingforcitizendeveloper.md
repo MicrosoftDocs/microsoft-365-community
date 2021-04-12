@@ -1,50 +1,157 @@
----
-title: Understanding Power Platform Licensing
-ms.date: 3/29/2021
-author: bigpix2000
-ms.reviewer: efrene
-manager: pamgreen-msft
-ms.topic: article
-ms.author: efrene
-ms.service: power-platform
-localization_priority: 
-description: "Understanding Power Platform Licensing"
-ms.collection: M365Community
----
-
 # Understanding Power Platform Licensing
-
-[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
-
-[!INCLUDE [cc-data-platform-banner](includes/cc-data-platform-banner.md)]
 
 ## Overview
 
-### About this article
+This article shall give a direct and easy to understand overview about licensing/pricing in Power Apps, Power Automate and Power Virtual Agents along with the key features and services associated with them. It won't replace all other material posted across docs.microsoft.com but gives you, the reader, a solid understanding as which licenses apply to your solutions. This article focuses on Core Licensing Concepts and Levers along with guidance and licensing scenarios. The goal is to provide the citizen developer with the bulk of the information to make decisions on the spot or mitigate the research effort and time to confirm nuance cases or specialized use cases.  
 
-In October 2019 and just before Ignite, Microsoft initiated changes to the licensing plans for the systems known as the Power Platform applications.  The action led to some confusion among the community with administrators and users in Office 365 tenants even as those changes were not going to be immediate for many.  Understanding the full implications for many scenarios required in depth looks into the documentation that came along side it and in that time, there were few people outside of Microsoft who understood things enough to allay fears that the changes were going to up end usage or increase bills suddenly and significantly.  This article seeks to address that gap from the power user (usually referred to as the Citizen Developer) point of view.
+Please note that the scope of this article excludes Azure, Office 365 and Dynamics 365 products as well as other licensing associated with third party connectors or services.
 
-### Scope of this article
+## Core Concepts
 
-The information covered here summarizes the information found in the official and definitive Licensing Guidance found here: [https://go.microsoft.com/fwlink/?linkid=2085130](https://go.microsoft.com/fwlink/?linkid=2085130).  The guide addresses Power Apps Power Automate and Power Virtual Agents and not nuances based on organizational or regional Enterprise Agreements (EAs) or contracts. It also does not cover pricing for Azure, Office 365 or Dynamics 365 products and services but it will discuss the effects of those services regarding understanding the topics included here.
+The last iteration of this article attempted to break down the original licensing guide into key concepts where important topics ended up being separated into the main applications in the same manner as the document itself and effectively duplicating information that was subject to frequent changes.  Rather than repeat published documentation, this section imparts initial guidance based on topics that span the three main Power Platform systems diving into some detail where they have impact on the others.  
 
-### Importance of Licensing Information
+There are key levers that are covered in this document that point to whether or not payment for a license is required or if use is included with something else as well as points where costs would be incurred such as for additional capacity. 
 
-From the point of view of the citizen developer or organization power user creating applications, flows or virtual agents, the cost of service could affect what they are able to do and to what extent.  Work with these systems occurs in the tenant shared with others and whether the solutions being built are for individual or broad use, it is important to understand the complete impact of operations in the same vein as performance or net benefits.
+The Core Concepts are as follows:
 
-Unless the developer also has tenant administration access rights, they may have to request explicit permission to use things like premium connectors which may or may not entail license purchases depending on the context of their implementation.   Knowing these ahead of time makes it easier to make the request and justify it as well.
+### Main Levers for licensing
 
-In the end, the goal of the developers work is to provide a solution that satisfies a requirement or need and just as selecting the appropriate elements and configuration settings, so too is selecting or requesting the appropriate license so that the solution can be implemented and utilized.
+The following summarize the main areas where licensing kicks in:
 
-## Licensing Core information
+- Use of a Premium Connector:  Generally, any use of a premium connector triggers the need for a license based on the product being used but there are notable exceptions such as the use of dataverse in the context of a Microsoft Team.
+- How a Flow is triggered: Flows with a premium connector have various launching options which are called triggers.  Flows launched from Power Apps will use the Power Apps license required in that case but will otherwise look for the applicable Power Automate license needed
+- Use of Dynamics 365 Premium option or a Third Party paid service: Beyond the license fees are additional feels that come with the use of premium products from Microsoft or Third-Parties which will usually require additional analysis specific to those services.  The caveat for Dynamics 365 Premium services is that the costs may also infer additional capacity or abilities that would normally require a separate license for Power Apps or Power Automate.
+- Use of additional services:  This one is a straight forward lever that tends to affect the tenant as a whole versus the individual user in that taking on the monthly subscription cost for the feature such as AI Builder or additional Dataverse capacity, adds to the cost for the organization and should be analyzed by breaking down the value over utilization amongst the apps and flow creators along with the users.
+- Trials Expirations:  Another clear area is when there is a specific trial for a service such that the costs begin when those are finished.  Although M365 features are diligent with notifications, it is the responsibility of the administrators to keep close track of this.
+- Individual versus "Bulk" usage:  The cost to do more generally comes with a premium but the common theme is that one would get a lot more when moving from one level to another (e.g. in Power Apps, going from two Apps on a basic use license to unlimited apps for a price point about 4 times the basic level)  
 
-### Preface to the information
+### Review the definitive licensing guide published monthly
 
-It may appear counter intuitive for the licensing guide not to include prices but the main reason behind that is to provide a common set of information that is not associated with a specific region, EA license arrangement or individual contract. Prices will differ from region to region if at least with the default currency. Availability can also be an issue for certain agreement types such as Government or Education in addition to regions.  Though this guide will give a certain starting point using US dollars as the reference, it is recommended that the Power app, flow or virtual agent creator discuss first with tenant administration and the applicable stakeholders the licensing issues as part of appropriate governance procedures.
+Before going through the guidance, it is important to refer to the ultimate authority on licensing which has been updated on a monthly basis for several years now.  The licensing document may be download via links in Power Apps, Power Automate and Power Virtual agents' main pages and have maintained the following URL to point to the most current version for your language or region:
 
-A major difference from before the change in October 2019 is how Data API Request limits were handled.  The old licensing model had monthly caps albeit allowing the purchase of additional capacity.  The new one no longer has monthly limits but instead caps daily use at numbers per day higher than the old monthly limits in some cases.  The ability to purchase capacity for the requests and for data storage is still available.
+- <https://go.microsoft.com/fwlink/?linkid=2085130>
 
-### Key links
+There are two important things to note in that PDF download.  
+
+First is that changes from the previous versions will be noted in an appendix (currently appendix c) and should be the first point of reference after reading through articles such as this one or asking questions related to Apps, Flow or Bot changes since their implementation.  
+
+The second item to note is that one will never see prices here as those will always be region specific in addition to being subject to specific customer licenses in general and directly with Microsoft or through a third party vendor. Prices and changes in prices will always reflect the underlying information contained in the download but be aware that not all tenants' Billing administrations screens will have a clear association as those screens may, for various reasons, contain important references to previous or depracated products.
+
+### Seeded vs Standalone
+
+The most important concept that potentially simplified most licensing questions is the one of "Is it included with my Office 365/Dynamics 365 License?".
+
+"Seeded" in this case relates specifically for "inclusion" to another license type even though, tecnically, Power Platform systems will always run in context of an Office 365 tenant and have "limited use rights" which is a specification of what may be done at that level.  "Standalone" in this case means the license is not reliant on the other license type and it typically infers access to many more services that what is included with the main tenant.  
+
+Since the rules for the temamt license type may change, it is recommended that a monthly review of Appendix B in the latest version of the license guide should be checked.  On that note, guidance offered as of this publication is that there has not been a significant change in the license types that are counted for inclusion and as of March 2021, the following license types are the main exceptions for general,limited use rights:
+
+- Microsoft 365 F1
+- Windows 10 Pro
+- Windows Enterprise E3
+- Windows Enteroruse E5
+
+Dynamics 365 licenses, as a rule, have always counted for at least "limited use rights" while more premium services where noted in the guide are more powerful and inclusive of some but not all premium features.
+
+The biggest and most significant change in 2020 was the introduction of Dataverse (formerly Common Data Service or CDS) in Microsoft Teams as a separate and size limited environment where its use is considered included with the Seeded license rather than a Premium service requiring the Standalone license or premium Dynamics 365 seat.  This change is made even more significant because now Power Virtual Agents, a service that requires the use of Dataverse, now has a scenario free of additional charge outside of its monthly, capacity based cost.  
+
+ The conclusion of this core concept is that answering the "is it Seeded" question is one where at a glance, the cost for use may be immediately clear especially if usage revolves around Microsoft Teams.  From here, the levers for determination become a case of applying layers of nuance from the specific seat licenses, to ways of running the solutions and then through more direct elements such as capacity and features.
+
+### Standard versus Premium Data Connectors
+
+If there is a main point of guidance that may be delivered at this stage, it is the one recommending the design of solutions to "make the most" of what comes out of box or included with Office 365 or the basic level of Dynamics 365 which includes considering Microsoft Teams as the lynchpin application.  This may mean making compromises for some usability or conveninience but consider that the "cost" for avoiding the financial obligation for the organization or the users.
+
+With that noted, business requirements and necessity will always drive the solution that is eventually used and the next question after the decision to use a Premium Connector will become the next nuance group around the scale of use by the specific Power Platform component. Also, keep in mind that some premium connectors, especially to third parties, may include their own costs for subscriptions or access.
+
+### Power Apps "per app" versus "per user"
+
+The question of scale in Power Apps is the difference of accomodating a single user to utilize a single app or unlimited apps. In the United States, the price point difference on a monthly basis is 4 times ($10/month/"one" app  versus $40/month/unlimited apps). Although there is a capactity limited which will be discussed later, the main nuance is that a "one app" package is actually two apps in any combination of canvas or model applications. This can make a major difference as one would be counting pairs of application for each license and certainly sway a decision where there are only a few applications actually required.  
+
+The case of the "per user" license, sometimes called the "All you can eat Buffet" plan, now becomes a question whether the user will be one requiring more than 6 applications or if there is a need for more capacity or services such as the ability to access an "unlimited number" of custom portals or having more Dataverse space and make more API requests in a day.  The latest licensing guide will always clarify those differences as well as any new included features.  It is important to remember that per app or per user does not limit the number of premium connectors that may be used but costs specific to those connectors will still apply.
+
+### Power App with Power Automate
+
+In the original introduction of the new licensing and as a consequence of the older model, it was thought that a separate license would be required for a Power App to use A Power Automate Flow when, in fact, it is only the cost of the Power App that will apply even if the Premium connector is only accessed via the flow.  The key guidance here is to understand the use case of the flow itself whether it is created to service the app or if it is the type that is expected to be shared or used outside of the application as it will then be a case of selecting the appropriate Power Automate license.
+
+### Dataverse
+
+Dataverse (previously known as Common Data Services / CDS) is one of the Premium connectors that is not seeded in Microsoft 365 licenses and requires a Power Apps or Power Automate Standalone license. Dataverse is also required when using Power Virtual Agents as well as data features in Dynamics 365 and, is in fact, originally the data storage solution introduced with Dynamics.  
+
+Dataverse was intended to fulfill many requirements behind the support of business data with minimal data developer interaction.  Dataverse tables come with built in fields and automated processes supported by Microsoft to alleviate may of the day to day Database Admininstrator (DBA) duties one would find in an organization using MS SQL Server or other database platform.  In its orginal form, it came ready to support the productivity and business information in Dynamics and may now be used by the organization for their own data requirements.  It's use was considered PREMIUM in the same manner as connecting to a SQL Server connector due to the power afforded by the access.
+
+The Premium connector designation resulted in a barrier when it came to power platform design decisions for data access. The seeded license aspect tended to drive data to SharePoint Lists or Excel Files which did not support data management best practices in the manner of a true database platform. SharePoint Lists could not be linked and joined in relationships as natively as a database table and data in Excel are potentially locked when being accessed by an application or process. The difference was not just a case of paying for convenience but also in accommodating critical business requirements in appropriate and performant ways. In those cases, the choice to not use the Power Platform over another custom solution because of cost was quite common.
+
+Microsoft has recognized this blocker and has chosen to leverage Microsoft Teams as their own "starter" environments to promote usage and to consequently further adoption and perhaps innovation as the entry point for implementation now aligns with the same entry point for other Power Apps and Power Automate solutions even bringing in Power Virtual Agents which itself starts at a fairly steep monthly charge.  This core concept becomes important because not only can guidance now point to more appropriate solutions but because adoption will certainly drive the need to handle cases where more capacity and scale will be required but this time in the same context as other storage and capacity decisions covered here.
+
+### Power Automate "per flow" versus "per user"
+
+There is a major distinction in Power Automate over Power Apps when looking at the licensing unit.  Where Apps look at usage in all cases, Flow licenses are split between the permission to CREATE unlimited flows per use or to Implement specific flows to SERVE unlimited users.  These are two very different bases where the first effectively gives a single user the "All you can Eat" power for the main licence while the other is the case of a SET of Flows packaged for the organization to be used anywhere and in any and all context.
+
+
+The manner of how a Flow is TRIGGERED potentially makes the decision.  Flows triggered from a Power App are included in all cases as it assumes the premium connector will be part of the app itself.  Flows that do not touch premium connectors or who are triggered from non premium sources such as SharePoint lists and MS Forms will also not count for extra cost.  If none of these conditions apply, it is now a case of the person who created the flow as the designated licensee where the act of getting licensed effectively allows that user to create any number of flows they wish assuming the flows only serve the purpose of the user and is not shared with others.
+
+A common question is if a Flow is created for a SharePoint List and many users interact with that list, will there be a cost for all the users.  The answer is if the flow does not use a premium connector such as call Dataverse in the full production environment and not the teams environment, the cost of the flow must either be for each user or a per flow license is used so that all users of the list may be serviced by it.  
+
+As a guidance for the "per flow" cases, remember that the initial license starts with 5 flows and may be increase one flow at a time at a cost about 7 times to cost for an individual license.  The expectation is that larger organizations or solutions that affect many will benefit from the fixed monthly cost versus a comparable per use cost in a pure Azure function.
+
+### Additional Power Automate Flow licensing guidance
+
+1. Use Standard connectors in Office 365 licenses when possible in all cases.  
+
+2. For Automated Triggers - buy a full license for the Flow Owner (Flow Bundle or User) and watch number of runs in case additional API run capacity needs to be purchased. A goal here is to potentially limit the requires licenses to one or two at most.
+
+3. For Instant Triggers - buy a full license for each user that will invoke the specific flow if it requires a connector not included with the seeded applications (Office 365, Dynamics) or is premium. The choice point of per user versus Bundle flow will be the cost per flow. This can be the more complex decision as considerations must be made against the cost per user running up against the cost for Flow Bundles which start at 5 and increment by 1.  
+
+4. In the case of the Power Apps Trigger (a type of Instant Trigger) - the most common Instant Trigger is the **Power Apps trigger**, but any Power App that calls a Power Apps Trigger must have premium license for the premium connector used in the Flow and the Power Apps premium license for the end user includes premium flows used as part of that Power App. In this particular case additional purchases of flow licensing are not necessary, since it must be included in the Power Apps premium license.
+
+### Purchasing Capacity and Storage
+
+The Power Platform is made very viable through the option of "the Add-in" where storage and capacity may be purchased to fill gaps in those areas.  The main difference for this type of A la Carte service over platforms like Azure is that the extras are purchased as a package rather than a case of "pay as you go" or as usage charges.  Power Virtual Agents provide capacity in the same block as its initial monthly license cost.  Power Apps and Power Automate are optimized by preset support expectations such as a daily limit on API calls or a reserved storage area.
+
+This concept is the impetus for guidance recommending the reviewing usage and capacity from the Power Platform administration areas and to be at least familiar with the reports and dasboards if not adding the review to the regular course of operations.
+
+Storage and Capacity are considered tenant wide resources and when deciding cost impact, they should be considered in those terms as they can make a difference if the user case is to support a single user's application versus one for the larger organization. On that point, add ins such as AI Builder work in the same way where the ability is added at the tenant level and where the benefit could be seen as one for the wole organization being served or for the organization to serve a specific need.  
+
+### Trials and Free Services
+
+A question that has arisen for users who want to evaluate or learn elements of the Power Platform is how much that effort may cost and it may sometimes be a hindrance to those outside the people specifically licensed.  It is important to note that there are always trials and services provided by Microsoft to mitigate this from direct 30 day trials using the Power Platform to implenting a personal environment via the technical community resources as well as to obtaining a personal Developer Tenant where the user has nearly all the power as an E5 tenant level organization.  The ability to move what has been learned or separately developed into the production organization is being enhanced constantly by Microsoft and the community, the latter of which provides not just samples but process knowledge and guidance. Checking in with a community contributor on whether a solution has a license impact is a good way to fast track decision making in this regard especially if significant time has passed since the contribution.
+
+The important piece to note in this concept is that although there will always be ways to "try things out", those ways will have limitations, the least being time.  A Developer tenant user will still need to pay for the use of Power Platform after the specific trial period is over and even though the current policy for the tenant may be an automatic 90 day reneway based on usage.  Taking advantage of "free" services is certainly recommended but it is good to keep a close eye on articles like this to be prepared for costs that may have to be incurred.  
+
+See the guidance section below on more information using the Community Plan.
+
+### The Power Virtual Agent Subscription
+
+Outside of MS Teams, a major concept in Power Platform is the one of the subscription which is similar to storage, capacity and Add-ins in that they are at a tenant level billed to the organization as a whole and not by individual.  Just like storage and capacity, there is a limit to usage where going over can be accommodated by purchasing capactity or another license which stacks on to the original.  There is some uncertainty, however, for Power Virtual Agents as to the exact manner it uses that capacity and although the licensing guide is very clear on the units of use, there is no current map or list that directly assigns an activity by the underlying AI system to a specific number of units.  It is because of that that usage analysis is very important especially at the end of a trial or single month but, at least for this time, on an on going, monthly basis with an eye on the bot solutions themselves.
+
+Guidance at this stage reiterates implementation via MS Teams if that is the appropriate delivery host but if it is not, guidance calls for making the most of the enabled feature to being down the ROI costs.  Refer to the guidance section here for more on cost comparisons.
+
+Finally on this concept, when looking at the information in the licensing document, note that there are storage and capacity assumptions when implementing this in either production or in a MS Teams environment so be sure to include that information in design decisions.  
+
+## Guidance
+
+Some guidance has been covered as part of the Core Concepts discussions of the previous sessions.  This section covers additional as well as contributed guidance notes that underscore or clarify key points for decisions based on licensing.
+
+### Do your Apps/flows in Teams wherever possible to be able to use Dataverse with no additional cost
+
+If you need Dataverse, let your Power Automate flows and Power Apps live in Microsoft Teams, because this way you can use the power of Dataverse as Dataverse for Teams which means that the license is included in your Microsoft 365 license. You should pick Dataverse for Teams over other other premium connectors, especially in enterprise-scale applications, because it is the preferred way to store your data, see also [Considerations for optimized performance in Power Apps](https://powerapps.microsoft.com/de-de/blog/considerations-for-optimized-performance-in-power-apps/). When you are very experienced in Microsoft 365, you will probably consider to store data in SharePoint lists, also as SharePoint is a standadrd connector, which means that you don't need a Power Apps Standalone license, but Dataverse has more capability, is faster and doesn't have issues like "only 12 complex columns in one view", 5000 items threshold and more.
+
+### To learn Power Platform, use the Community Plan
+
+There is a [free Community Plan to learn Power Platform](https://powerapps.microsoft.com/en-us/communityplan/). You are not allowed to use it in production, but can try out things and have access to all premium connectors. You can use this free community plan also in a free [Microsoft 365 developer tenant](https://developer.microsoft.com/en-us/microsoft-365/dev-program).
+
+### Think Governance early with COE
+
+The Center Of Excellence (COE) Solution available from Microsoft and support with input from the community is an excellent way to control and manage not just the solutions but the costs related to licensing.  It ironically requires a license to run since it uses and needs Dataverse outside of Microsoft Teams and although it could modified to mitigate the cost, the strong recommendation is use it as it is designed if your organization anticipates adoption beyond a few power users or key developers.  
+
+### Deciding to use Premium Connectors over Standard Connectors - Pricing your solution
+
+As noted earlier, all efforts to work within the Standard Connector list or within Teams in the context of Dataverse is highly recommended but as highlighted by the change Microsoft itself made to make Dataverse more accessible via teams, there will be use cases where the work around is more painful and potentially more expensive through added user effort (their time is money) or delicate processes where small errors or lost time can affect diret financial impact.  
+
+A case in point would be a case where the act of avoiding the premium HTTP API connector to get critical information from a third party service just to avoid the per user or per app fee when creating the custom application to put the information into a dashboard in teams or SharePoint might cost more to develop and maintain or even to run as a "pay as you go" service in Azure.  With that hypothetical scenario, the key point is to know how to price the competing solutions.  The Licensing guidance for Power Platform is direct at giving cost for the organization while tools such as the Azure Calculator will help pin down infrastructure level costs. The Wild card is now the development cost for either creating the Power Platform solution with rapid development tools and lower developer cost or the enterprise developer team using premium tooling and techniques that would need separate Service Level Agreements that are part of the Power Platform licenses.
+
+In this last point, guidance calls for looking at the complete picture and not just the license effect of a single implementation and a note that the tools to do so are readily available.
+
+## Other Important Licensing Links
 
 The following key links will redirect to the top-level pricing summary for the three licensing groups:
 
@@ -55,280 +162,63 @@ The following key links will redirect to the top-level pricing summary for the t
 - For Power Virtual Agents (new!)
   - [https://powervirtualagents.microsoft.com/](https://powervirtualagents.microsoft.com/)
 
-You may be asked to sign into your tenant or live.com account to view the information which will reflect your region e.g. [https://powerapps.microsoft.com/pricing/](https://powerapps.microsoft.com/pricing/) for the USA.
 
-The localized version of the licensing guide shown earlier in this article will be available as links from those pages.
+You may be asked to sign into your tenant or live.com account to view the information which will reflect your region.
 
-Before moving into detail, it is important to keep in mind that it may be a combination of circumstances from the combination of apps with flow and in context with Office 365 or Dynamics to determine either the price or the choices available. Features such as Connectors, Dataverse, the AI builder, and Dynamics entities will be discussed after the platforms.
+## Scenarios from the Field
 
-## Licensing by Platform
+This article is meant to be a living and growing document that includes contributions of the community to help with decisions and understanding.  Sometimes, inspite of core concepts and guidance, there are nuances that may be used to either drive home knowledge or give pause and provide additional even if nuanced factors for consideration. We welcome your contributions to help fill out this section while adding a last piece of guidance to return here as often as you need to update the main licensing document to stay ahead and on top of this topic.
 
-### Power Apps
+### Practical Application from the field - The case of a SharePoint List and a Flow that uses a premium connector
 
-The core attribute of a Power Apps license is the &quot;run&quot; as in the cost to run the Power App.  The pricing comes in two main choices – Run Single Apps and Run Unlimited Apps. This distinction becomes pronounced when we discuss Power Automate.
+SharePoint Lists online are very inviting to users who would automate work based on activity in the list but the worry tends to be whether or not licenses will be need to all the users who interact with the list or for the individual who created the flow.  
 
-For Licensing purposes, the pricing is affected by the concept of the &quot;Seeded&quot; app where its run in bundled or part of an activity involving Office 365 or Dynamics 365.
-
-The following set of points discuss the license differences:
-
-- &quot;Run Single Apps&quot; – Per User/Per App/Per Month (e.g.  US$ 10)
-  - User with a license runs up to **two** specific apps
-  - Sometimes referred to as the &quot;Per App&quot; Plan
-  - Standard, Premium and Custom Connectors included
-  - Access to 1 custom portal for each user
-  - Access to on premises resources via a data gateway
-  - Read Access to Dynamics 365 restricted entities
-  - 50 MB Dataverse DB capacity
-  - 400 MB Dataverse File capacity
-  - 1000 Daily API Requests
-
-- &quot;Run Unlimited Apps&quot; – Per User/Per Month (e.g. US$ 40)
-  - User with a license can run unlimited number of apps
-  - Also known simply as the &quot;Per User Plan&quot;
-  - Standard, Premium and Custom Connectors included
-  - Standard and Premium Connectors included
-  - Unlimited Access to the (single) tenant portal
-  - Access to on premises resources via a data gateway
-  - Read Access to Dynamics 365 restricted entities
-  - 250 MB Dataverse DB capacity shared with the tenant
-  - 2 GB Dataverse File capacity shared with the tenant
-
-- Seeded Power Apps
-  - Bundled with Office 365 and Dynamics 365
-  - Does not require a Per User/Per App or Unlimited Apps plan but there are limits on the with Office 365 and Power Automate side
-  - Office 365 specific abilities\limitations:
-    - Includes Standard connectors but not Premium Connectors
-    - Includes access to Office 365 features such as SharePoint directly but not via HTTP which is considered a Premium connector
-    - Does not include Dataverse capacity
-    - Does not include access to on premises services via the data gateway
-    - Data API limited to 2000 requests per day
-    - No model driven custom apps
-    - No Power Apps portal access
-  - Dynamics 365 specific abilities\limitations:
-    - Create, read, update Delete Access to Dynamics 365 restricted entities limited to 15 in basic Dynamics 365
-    - Dataverse use and capacity included with Dynamics 365
-    - Run custom apps (canvas/model driven) in Dynamics 365 Enterprise Applications only
-    - Create and Access custom entities (limited to 15 in non Dynamics 365 Enterprise Applications)
-    - Dynamics 365 restricted table use rights (create, read, updated and delete)
-    - Power Apps Portal only in context of Dynamics 365 Enterprise Applications
-    - May use prebuilt Standard and Premium Connectors
-  - Apps typically created to customize or extend Office 365 and Dynamics 365 features
-    - e.g. Provisioning SharePoint Online Sites or Lists
-
-The guide shows in various tables the details of for each of these plans along with footnotes providing specific detail or caveats.  For Power Apps, there is one note referring to &quot;Appendix B&quot; which is about Premium Connectors recently added.  The context for that information is not just to allow comparison against the old plan but to show what may have originally been considered standard as well as new items recently introduced.  A major item that is common to applications build by people familiar and comfortable with T-SQL and SQL Server for data as opposed to SharePoint lists or the Dataverse, is the SQL Connector which is noted now as Premium.  Appendix B should be consulted if you are seeing whether you need a license for an existing app.
-
-The Power Apps Portal is discussed later in this article.
-
-### Power Automate
-
-Power Automate has two main concepts that determine pricing. The first is the ability to **Create** flows where the first main package allows an individual user to create and run unlimited flows for themselves. The second is the ability to **Implement** flows such as in the second pricing block allow for &quot;implementation&quot; of flows to serve unlimited users with the base bundle starting at 5 flows whether they are implemented or not.
-
-The change from October 2019 insofar as API request limits has extra significance with Power Automate as the new pricing rewards heavy use over casual or limited implementation.  Power Automate also includes a Seeded App option in addition to the two main pricing packages. AI Builder was introduced along with Power Virtual Agents and in April 2020 attended RPA (Remote Processing Automation) was introduced as part of the Power Automate functionality adding an additional per user\per month level. Other plans can also use this functionality but would pay for them separately though all of them would still pay separately for unattended operations.
-
-An important concept is that of the &quot;child flow&quot; where one flow may call upon another as part of its business process.  Child flows do not count against flow capacity limits.
-
-The following set of points discuss the license differences:
-
-- &quot;Per User Plan&quot; – Per User/Per Month (e.g. US $15)
-  - Individual users create and run unlimited flows
-  - Considered a &quot;Standalone&quot; license
-  - 5000 Daily API Requests for all flows (e.g. if there are 100 flows and assume all were running in a day, they would each be limited to 50 Daily API requests)
-  - May execute workflows and business process flows
-  - May use Standard, Premium and Connectors
-  - Access to on premises data gateway
-  - Dataverse included with Power Apps license
-  - 50 MB Dataverse DB Capacity per user when separate from Power Apps
-  - 200 MB Dataverse File Capacity per user when separate from Power Apps)
-  
-- &quot;Per User Plan with attended RPA &quot; – Per User/Per Month (e.g. US $40)
-  - Individual users create and run unlimited flows
-  - Considered a &quot;Standalone&quot; license
-  - 5000 Daily API Requests for all flows (e.g. if there are 100 flows and assume all were running in a day, they would each be limited to 50 Daily API requests)
-  - May execute workflows and business process flows
-  - May use Standard, Premium and Connectors
-  - Access to on premises data gateway
-  - Dataverse included with Power Apps license
-  - 50 MB Dataverse DB Capacity per user when separate from Power Apps
-  - 200 MB Dataverse File Capacity per user when separate from Power Apps)
-  - 1 attended RPA bot (unattended bot is still a separate cost)
-  - 5000 AI Builder Service Credits
-  
-- &quot;Per Flow Plan&quot; – 5 Flows Per Month (e.g. US $500 and US $100 for each additional Flow.)
-  - Implement Flows with reserved capacity
-  - Serve unlimited users
-  - Also considered a &quot;Standalone&quot; license
-  - 5 flows minimum
-  - 15000 Daily API requests per flow
-  - May execute workflows and business process flows
-  - May use Standard, Premium and Custom Connectors
-  - Access to on premises data gateway
-  - Dataverse included with Power Apps license
-  - 50 MB Dataverse DB Capacity per flow instance when separate from Power Apps
-  - 200 MB Dataverse File Capacity per flow instance when separate from Power Apps
-
-- Seeded Power Automate
-  - Bundled with Office 365 and Dynamics 365
-  - Limits for Office 365
-    - Office 365 includes Standard connectors but not Premium Connectors
-    - Office 365 include access to Office 365 features such as SharePoint directly but not via HTTP which is considered a Premium connector
-    - Office 365 does not include Dataverse capacity
-    - Office 365 does not include access to on premises services via the data gateway
-    - Office 365 Data API limited to 2000 requests per day
-  - Flows typically created to customize or extend Office 365 and Dynamics 365 features
-    - e.g. Provisioning SharePoint Online Sites or Lists
-    - Unlimited Flows may be created and implemented for these if they do not directly or indirectly affect other systems requiring premium or custom connectors
-  - Standard and Premium Connectors included only when in context of Office 365 or Dynamics
-  - Access to on premises resources via a data gateway for Dynamics 365 only
-  - Access to Dynamics 365 restricted entities related to Power Apps and Dynamics license in play
-  - Dataverse use and capacity included with Dynamics 365
-  
-### Power Virtual Agents
-
-Power Virtual Agents was just released at the start of the year as the latest Power Platform tool that the citizen developer can use to stand up AI chat bot solutions with no code.  As of this article, there are various solutions to integrate them into the Power Apps Portal, Power Automate flow but as far as licensing is concerned, the interaction does not have the same direct impact as the two previously discussed platforms with each other and the Office or Dynamics platform.  This should not be confused with AI Builder which is a separate add in covered in the next section.
-
-The licensing comes in a single pricing model – 2000 session buckets per month (e.g. US $1000)
-
-The licensing guidance document defines the session:
-
-- A session is an interaction between the customer (essentially the user) and the bot
-- A session represents one unit of consumption.
-- A session begins when an authored topic is triggered.
-- A session meeting the criteria is referred to as a 'billed session' in the product.
-- Sessions units are deducted for both testing and production usage.
-- A session ends in one of the following scenarios:
-  - When all the customer's questions are answered
-  - When a customer intentionally ends or closes a chat session
-  - When a bot is unable to answer adequately, and the interaction is escalated to a live agent
-
-There are some very important aspects to the pricing that should be considered:
-
-- Cost per month is for the minimum amount whether it is used or not.
-- Flows called by PVA's do not count towards licensing restrictions in the Power Automate platform but integrations from Power Automate to Power Virtual Agents do
-- Each license grants 2000 sessions as the way to add capacity
-- Other entitlements given to the tenant for each license include:
-  - 10 GB Dataverse DB Capacity
-  - 20 GB Dataverse File Capacity
-  - 2 GB Dataverse Log Capacity
-
-Unlike the ability for a citizen developer to quickly create and deploy Power Apps or Power Automate Flows, the tenant administrator is required to enable the service. Once the service is on, there is no current limit to how many virtual agents can be created and used by how ever many people.  This means that the governance must be communicated broadly as there are yet as of this writing limited sets of reporting and auditing capabilities requiring an explicit effort by administrators and stakeholders.
-
-### Add-ons and Additional Capacity
-
-To complete the picture, it is important to understand that there are several additional features along with ways to increase capacity that will affect the cost.  They are discussed in this section.
-
-#### Power Apps and Add-ons and Capacity
-
-The following items can be added to Power Apps:
-
-- Portal Login
-  - The base limit starting at 100 logins per month for each portal site which do not carry over
-  - Additional capacity can be purchased at groups of 100 logins (e.g.  US $200 for each additional set over 100)
-- Portal Page Views
-  - The base limit starts at 100,000 Page views per month for each portal site which also does not carry over
-  - Additional capacity can be purchased at groups of 100,000 page views (e.g.   US $100 for each additional set over 100,000)
-- AI Builder
-  - new helper add-on that falls outside the Connector or App paradigms of the Power Platform systems
-  - Not included with any combination and must be licensed separately
-  - [https://powerapps.microsoft.com/ai-builder/](https://powerapps.microsoft.com/ai-builder/)
-  - Base Unit = 1 million service credits per month (e.g. US $500)
-
-An important note about service credits for the AI builder which applies also to Power Automate is that they are used at different rates depending on the type of activity they are doing such as prediction or forms processing.  Unfortunately, there is not currently a &quot;rate sheet&quot; published.  For now, the guidance is to audit the month's service credit rate burn down activity and correlate it against the activity types together.  Doing this over several months will at least allow for some capacity requirements prediction.  Potentially, very specific activities can be measured against the same burn down to elicit a rate, but this is not guaranteed to stay consistent from month to month or even with the same activity over time.  Citizen developers should work closely with tenant administrators and other stakeholders when leveraging this very powerful add-on.
-
-#### Common Data Services Capacity Add-ons
-
-Common data services are the backbone of Dynamics 365 and are also a resource for Power Apps and Power Automate as alternatives to SharePoint lists or explicit SQL Server database or other Data repository systems.  A premium connector is required to access Dataverse unless the connection is related to Dynamics 365 where it is included.  In various cases, the capacity included with the different plans are either tied to a specific table such as the app or flow user or the Office 365 tenant.
-
-Regardless of what base level is granted for each license, capacity can be added at 1 GB increments for each of three aspects:
-
-- Dataverse DB e.g. US $40 per month per 1 GB
-- Dataverse File e.g. US $2 per month per 1 GB
-- Dataverse Log e.g. US $10 per month per 1 GB
-
-These can only be added by tenant administrators with the licensing role.
-
-#### RPA and AI Builder
-
-An important distinction of the additional services is the integration with AI services and RPA.  AI Builder was noted as an Add-on for any service but Microsoft has included an opportunity to consolidate costs for this service by creating a license group on Power Automate that includes 5000 AI Builder credits as well as a attended bot.  It is important to understand the distinction between attended and unattended bots to determine the cost implications as well as to potentially drive the architecture choice for its use.  The definition in the license guide is included here for quick reference:
-
-- Attended bot
-  - Triggered by an explicit user action on their workstation, i.e. a local or remote desktop
-  - Must operate concurrently with the user on the same workstation
-  - Can run more than one discrete process, but each process must be serialized to run sequentially
-- Unattended bot
-  - Runs autonomously without requiring user actuation o Can be deployed on a local or remote desktop, or other virtualized environment
-  - Can run more than one discrete process, but each process must be serialized to run sequentially
-  - Concurrent instances of a singular process require an additional unattended bot for each instance
-
-In Power Automate, 5,000 personal (as in tied to the flow) service credits are included which is actually a small fraction of the additional capacity bundles which start at 1,000,000 credits for $500 a month at the tenant level (shared with the organization).
-
-The alternative to the solutions using RPA or AI builder items are programs developed directly in Azure using the underlying systems behind these features.  The cost may need to potentially be weighed against direct development efforts especially if there is already those projects in production.  Because the "rate" the service credits are used is not published or is likely to change, the best way to control or manage costs will involve observations over time leveraging the Power Platform Admin reports and adjusting capacity or license assignments based on that.  The new individual option makes for a cheaper "entry" point to make this determination of whether to go for tenant wide blocks of a million or individual blocks of 5 thousand.  
-
-## Next Steps
-
-### Practical considerations for licensing selections for Power Apps and Power Automate
-
-Taken at face value, there has been a tendency to believe that the changes lead to significantly higher costs or loss of functionality should previously selected connectors fail to operate. Guidance in this area requires that the aspects behind Flows in Power Automate are understood in context of usage especially how a Flow is triggered.
-
-#### Trigger Types
-
-There are two types of triggers that affect usage:
-
-- Automated Flow
-
-A flow that is triggered by some sort of webhook or polling event is called an **Automated Trigger Flow**. This includes SharePoint created/updated, Exchange email received. When a flow is running with an automated trigger it can only access the flow owner's connections, so premium licenses required would be associated with that owner's account. In this mode flows run like Azure LogicApps. The 'HTTP Request trigger' also is considered an automated trigger.
-
-- Instant Flow
-
-A flow that's triggered by the end user directly is called an **Instant Trigger Flow**. It runs in the context of the current user. This includes triggers such as "Flow Button", "Power Apps Trigger" and "SharePoint for selected item". When a new user first runs these flows, the dialog appears to ask the user to authenticate connections before running. This auth may be silent if pre-granted by administrator. This flow runs exclusively in that user's context.
-
-With this information in context, the usage type may dictate the license required and/or most cost effective.
-
-#### Flow Licensing guidance
-
-1. Use Standard connectors in Office 365 licenses when possible in all cases.  
-
-2. For Automated Triggers - buy a full license for the Flow Owner (Flow Bundle or User) and watch number of runs in case additional API run capacity needs to be purchased. A goal here is to potentially limit the requires licenses to one or two at most.
-
-3. For Instant Triggers - buy a full license for each user that will invoke the specific flow if it requires a connector not included with the seeded applications (Office 365, Dynamics) or is premium. The choice point of per user versus Bundle flow will be the cost per flow. This can be the more complex decision as considerations must be made against the cost per user running up against the cost for Flow Bundles which start at 5 and increment by 1.  
-
-4. In the case of the Power Apps Trigger (a type of Instant Trigger) - the most common Instant Trigger is the **Power Apps trigger**, but any Power App that calls a Power Apps Trigger must have premium license for the premium connector used in the Flow and the Power Apps premium license for the end user includes premium flows used as part of that Power App. In this particular case additional purchases of flow licensing are not necessary, since it must be included in the Power Apps premium license.
-
-#### Nuances affecting the choices
-
-It is important to understand that Flow is based on Azure LogicApps as alluded to earlier in this section.  Flow is 'consumption based' but priced in a per-user basis while it also must bridge between the serverless products and other Cognitive based, cost/user systems like Dataverse.  
-
-As Office 365 is per user based, the license considerations for Flow runs are vastly simplified thanks to the Seeded License described earlier.  Dynamics 365 licenses, for example, includes all premium connectors by virtue of its high per user costs effectively covering any remaining services not covered with Office 365.  
-
-#### Practical application
-
-A simple discussion of flow licensing without practical examples tends to over inflate flow licensing costs. In reality, flow license purchases should be based on specific environment needs as it will typically be a handful of premium accounts required to run the premium automated flows.
+The first trigger is whether or not the flow touches a premium connector and, in this case we have agreed that one is being used.  The next trigger is the fact that the SharePoint list activity is the reason behind the run.  Looking at our guidance, we should see that running from the flow from SharePoint would not cost the users but the flow itself as created by the individual would require one as it touches a premium connector item.
 
 Simply put, if 5000 people write to a SharePoint list and there is a SharePoint automated trigger that runs a premium flow license, only 1 premium license is required on that flow.
 
-#### The case for the Full/Premium License in Power Automate versus LogicApps
+Taking this a step further, we take that user who created the single flow for that single list, do similar things to other SharePoint lists.  The guidance shows that once a user gets a license to create flows, they can make as many as they want for that single cost.
 
-One premium flow license per month packs a lot more value than running multiple LogicApps that do the same thing. Automated trigger check polling of SharePoint lists is free in Flow but costs a small amount in LogicApps per trigger check.
+If that user shared their flow with another user who then leveraged it to make their own flow, then that new user would require a license.
 
-There are other bigger reasons to get more premium flows. In the case AI Builder, for example, the bundle price may be appealing. When high numbers of flow runs are used API limits may be hit and the purchase of additional API capacity may be required. A best practice in a developer/test/production environment set is to use service accounts with premium licenses used by those flows.
+If you were to analyze this versus the cost for a Logic App in Azure, consider that the trigger itself will already start incuring usage charges albeit in small amounts but will certainly add up each and every time the SharePoint list activity prompts the app whether or not the app "decision" mores things forward or not.  
 
-Another important situation is for per-user license pieces such as Dataverse outside of Dynamics 365.  The Licensing Guide document mentions the concept of "multiplexing" which applies in the same manner as traditional licensing in SQL Server scenarios. So while technically 1 premium license could be used to write to Dataverse, it would be a multiplexing violation of the Dataverse license. Other products do not have this requirement.
+A warning on this example is if the premium service in question talks to a system such as SQL server in a data center or "on-premise", the use of the single license may save money there but the organization would still need licenses for all the users likely to make the updates in a situation that is covered by multiplexing rules.  
 
-In one more example, given that a citizen developer creates two Flows (Flow 1 and Flow 2) in an Office 365 E3 environment using a SharePoint form to trigger the first flow (Flow 1) and given that the flow uses the HTTP connector to trigger the second flow (Flow 2 e.g. Graph API REST call) where there are 10 users with permissions to run the form, **only the author** of the flow needs to have the premium\full license rather than a license for each of the 10 SharePoint form users.  If this was an approval workflow where a step included approvals, the people approving would also not need licenses as the flow is considered a single instance through its completion and is, in effect, already paid for.  
+The lessons we take away from this example are as follows:
 
-### Additional considerations
+- Keep things simple
+- Avoid premium connectors if possible
+- Limit Flow creation to one, a few users or a "service account" type user.
+- Avoid multiplexing situations
+- Logic Apps may not be cheaper
 
-For the citizen developer, awareness of all aspects can make a big difference when creating and even justifying a solution in the same manner as for a regular developer or solutions architect.  As the saying goes, &quot;Nothing is for free&quot; but deep understanding in this case can at least mitigate much of those costs or at least help put a definitive price tag on those benefits derived from the effort.  It follows from this point and based on recent experience that one must keep up with changes in this area on the same level as changes in capability and functionality within the Power Platform suite.  Tenant administrators get the benefit of notification through the message system in their administration application while others would benefit from setting up alerts or reminders to the Power Platform docs and blogs here and in the community.
+### The Case of the Power Automate Flow that calls another Flow
 
-As a final note, recall early when it was noted that prices may vary from region to region as well as agreement to agreement.  Variations notwithstanding, the final arbiter of the price will be Microsoft and with that comes the opportunity to confirm arrangements with them directly or through your IT's Microsoft contact or representative. When dealing with Microsoft do consider that the major change between the older licensing scheme and the current one is that the customer is rewarded for using the system more that those who create the odd Power App or flow very infrequently.  It is the case of buying a car to only use it to bring the beloved pet to the Pet hospital once a quarter for their checkup or to go to work every day – on the latter, there may be wear and tear on the vehicle but there is also very measurable and significant return on investment for the benefit it brings to the household salary.
+In this case, a user who creates a flow, needs to call another flow and does so via a HTTP connector. As the Premium Connector trigger comes in, the question may be whether the second flow that may not be created by the initial user, will require an additional license for that user and, in this case, there is a nuance in the licensing document that states that a "flow" counts as a single unit no matter how many times it hops from one to another. Essentially, the complete action is the flow and therefore the "single" activity.  
 
-## Credits
+This scenario underscores the case where an organization may purchase a Flow pack for unlimited use by all or if they will be fine with the single user license.
 
-Much of the information is based on various Ignite sessions as well as the key licensing document noted earlier.  Additional contributions include John Liu for putting into context they key guidance details that should always accompany any formal discussion of this topic as well as Charles Lamanna (@clamanna) Microsoft CVP for his confirmation response to @singhgurd used in the second example.
+The main take away from this example is that flows can be modularized rather than created as overly large and difficult to maintain projects just to save on license costs
 
-This is living documentation with all updates, confirmations, clarifications, objections and sample scenario contributions welcome!
+### Approvals
+ 
+For Apps or flows that require participation by users beyond the creator of the app or flow, would there be additional licenses required?  The general answer is no if the approval activity involves Power Automate flows which considers the activity as "standard" no matter how fancy the approval response request is.  Again, the regular triggers for a license such as a premium connector, come into play here and the nuance would be additional costs incured by a third party system that may be part of the activity such as SAP or SQL Server.
 
+As a point of guidance as of this writing, there are approval features now included with MS Teams that mitigate the need to even design these type of workflows and their inclusion with teams is more likely to end up with no additional licensing costs.
+
+---
+title: Understanding Power Platform Licensing
+author: bigpix2000
+date: today
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.service: power-platform
+description: "Understanding Power Platform Licensing"
+ms.collection: M365Community
 ---
 
 **Principal author**: [Ralph Rivas](https://www.linkedin.com/in/ralphrivas/)
 
-**Principal contributor**: [John Liu](https://www.linkedin.com/in/johnnliu/)
+**Principal contributor**: [Luise Freese](https://www.linkedin.com/in/luisefreese/)
