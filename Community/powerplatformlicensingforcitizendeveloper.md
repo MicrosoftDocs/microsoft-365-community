@@ -209,7 +209,7 @@ As a point of guidance as of this writing, there are approval features now inclu
 
 ---
 title: Understanding Power Platform Licensing
-author: Ralph Rivas
+author: bigpix2000
 date: today
 manager: pamgreen-msft
 ms.topic: article
