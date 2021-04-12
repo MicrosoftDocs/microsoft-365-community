@@ -220,3 +220,5 @@ ms.collection: M365Community
 ---
 
 **Principal author**: [Ralph Rivas](https://www.linkedin.com/in/ralphrivas/)
+
+**Principal contributor**: [Luise Freese](https://www.linkedin.com/in/luisefreese/)
