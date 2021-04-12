@@ -206,6 +206,17 @@ The main take away from this example is that flows can be modularized rather tha
 For Apps or flows that require participation by users beyond the creator of the app or flow, would there be additional licenses required?  The general answer is no if the approval activity involves Power Automate flows which considers the activity as "standard" no matter how fancy the approval response request is.  Again, the regular triggers for a license such as a premium connector, come into play here and the nuance would be additional costs incured by a third party system that may be part of the activity such as SAP or SQL Server.
 
 As a point of guidance as of this writing, there are approval features now included with MS Teams that mitigate the need to even design these type of workflows and their inclusion with teams is more likely to end up with no additional licensing costs.
+
+---
+title: Understanding Power Platform Licensing
+author: Ralph Rivas
+date: today
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.service: power-platform
+description: "Understanding Power Platform Licensing"
+ms.collection: M365Community
 ---
 
 **Principal author**: [Ralph Rivas](https://www.linkedin.com/in/ralphrivas/)
