@@ -48,7 +48,8 @@ landingContent:
             url:  known-folder-move-benefits-for-enduser.md
           - text: Why Microsoft 365 adoption projects fail
             url: why-m365-adoption-projects-fail.md
-
+          - text: Accessibility by Design
+            url: accessibility-by-design.md
   # Card (optional)
   - title: Maturity Model for Microsoft 365
     linkLists:
@@ -75,6 +76,8 @@ landingContent:
 
       - linkListType: how-to-guide
         links:
+          - text: Elevating Collaboration
+            url: microsoft365-maturity-model--how-to-elevate-collaboration.md
           - text: Elevating Communication
             url: microsoft365-maturity-model--how-to-elevate-communication.md
           - text: Elevating Staff and Training
