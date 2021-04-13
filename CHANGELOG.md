@@ -6,6 +6,25 @@
 
 Note: Changelog started in January, 2021
 
+## April, 2021
+
+### New Articles
+
+| Article | Principal Author |
+|---|---|
+| [Accessibility by Design](./Community/accessibility-by-design.md) | [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/) |
+| [Elevating Collaboration](./Community/microsoft365-maturity-model--how-to-elevate-collaboration.md) |[Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
+
+### Updated Articles
+
+| Article | Updated By |
+|---|---|
+| [Understanding Power Platform Licensing](./Community/powerplatformlicensingforcitizendeveloper.md) | [Ralph Rivas](https://www.linkedin.com/in/ralphrivas/) |
+
+### New Contributors
+
+- [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/)
+
 ## March, 2021
 
 ### New Articles
@@ -23,7 +42,6 @@ Note: Changelog started in January, 2021
 | [Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)|[Leon Armston](https://www.linkedin.com/in/leonarmston/)|
 |[Should everyone create Teams? A Low Code Provisioning solution](./Community/should-everyone-create-teams.md)|[Trevor Seward, MVP](https://www.linkedin.com/in/trevorseward/)|
 | [Basic Security Set Up for Microsoft 365](./Community/basic-security-set-up-for-microsoft-365.md) | [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/) <br/> [Liam Cleary](https://www.linkedin.com/in/liamcleary)|
-
 
 ### New Contributors
 
