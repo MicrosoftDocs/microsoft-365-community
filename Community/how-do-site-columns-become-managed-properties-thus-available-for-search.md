@@ -132,7 +132,7 @@ After this you will need to wait for the search index to be refreshed with the n
 
 To make sure that the index maps your Site Column and its content in the next search crawl, you can navigate back to your site, and in Site Settings, choose "Search and offline availability".
 
-![Search and offline availability](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch14.png)
+![Search and offline availability menu item](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch14.png)
 
 Click **Reindex site** then OK, then wait… [Insert patience here]
 
@@ -140,9 +140,9 @@ Click **Reindex site** then OK, then wait… [Insert patience here]
 
 When the index has been updated you will be able to search for content that has your Site Column metadata as shown below.
 
-![Search by using your new managed property](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch16.png)
+![Search by using your new managed property 1](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch16.png)
 
-![Search by using your new managed property](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch17.png)
+![Search by using your new managed property 2](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch17.png)
 
 ---
 
