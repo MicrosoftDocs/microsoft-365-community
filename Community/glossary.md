@@ -90,6 +90,10 @@ A Communication Site is generally used to communicate from a smaller group to a 
 
 The Content Query Web Part (CQWP) is a web part available in Classic SharePoint that allows rolling up of content across lists and sub sites. The content returned is limited to only the site collection the web part is in. This web part has been replaced by the Highlighted Content web part in Modern SharePoint which gets around the site collection limitation.
 
+### Content Type
+
+See: [What is a Content Type?](what-is-content-type.md)
+
 ### Content Type Gallery
 
 The Content Type Gallery is the modernized view of the [Content Type Hub](#content-type-hub) in the SharePoint Admin Center's Content Services [Content type gallery](#content-type-gallery). It provides a modern view of the [Content Types](#content-type) defined there, and will eventually provide more sophisticated content management tools.
@@ -367,7 +371,7 @@ More complex roll ups are also possible using the [Highlighted Content Web Part]
 
 ### Root Site
 
-The base address in a web application or tenant for the first SharePoint Site collection. Typically, defined without use of managed paths ("/sites/" or "/teams/"), for example https://mytenant.sharepoint.com. In an on-site installation, there may be a vanity URL in place, such as https://sharepoint or https://intranet.
+The base address in a web application or tenant for the first SharePoint Site collection. Typically, defined without use of managed paths ("/sites/" or "/teams/"), for example <https://mytenant.sharepoint.com>. In an on-site installation, there may be a vanity URL in place, such as <https://sharepoint> or <https://intranet>.
 
 ## S
 
@@ -388,6 +392,8 @@ To developers, a "Site" is a [Site Collection](#site-collection), whereas a "web
 ### Site Column
 
 A Site Column is a metadata column that has been defined at the [site](#site) level. Site Columns are available for use in any list or library in the site where it is defined. Site Columns also become Crawled Properties (See: [How Do Site Columns Become Managed Properties - Thus Available for Search](how-do-site-columns-become-managed-properties-thus-available-for-search.md)) which can be used to improve search effectiveness.
+
+Also see: See: [What is a CSite Column?](what-is-site-column.md)
 
 ### SharePoint Home Page
 
