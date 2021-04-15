@@ -90,6 +90,14 @@ A Communication Site is generally used to communicate from a smaller group to a 
 
 The Content Query Web Part (CQWP) is a web part available in Classic SharePoint that allows rolling up of content across lists and sub sites. The content returned is limited to only the site collection the web part is in. This web part has been replaced by the Highlighted Content web part in Modern SharePoint which gets around the site collection limitation.
 
+### Content Type Gallery
+
+The Content Type Gallery is the modernized view of the [Content Type Hub](#content-type-hub) in the SharePoint Admin Center's Content Services [Content type gallery](#content-type-gallery). It provides a modern view of the [Content Types](#content-type) defined there, and will eventually provide more sophisticated content management tools.
+
+### Content Type Hub
+
+The Content Type Hub is a Site Collection where you can manage [Content Types](#content-type) and [Site Columns](#site-column) which should be available across your entire tenant. The Content Type Hub is older technology and generally is used less than in the past, primarily because it is slow to publish and it published to all [Site Collections](#site-collection) in the tenant. There is a modernized view of the Content Type Hub in the SharePoint Admin Center's Content Services [Content Type Gallery](#content-type-gallery).
+
 ### Crawled Property
 
 A Crawled Property is one of the basic units of the Search Schema. They are created automatically by the SharePoint Search Indexer (or Crawler) when it is discovering content that can be searched. The information stored in Crawled Properties is made available in queries by mapping them to Managed Properties.
@@ -111,6 +119,12 @@ DevOps generally refers to both the automation of recurring processes and the im
 ### Disaster Recovery (DR)
 
 The planning and practice of ensuring systems are available when a disaster occurs or that they can be restored as quickly as possible.
+
+### Document Library
+
+Document Libraries are a primary storage location in SharePoint and Microsoft Teams. A Document Library is a special type of [list](#list) where documents or other files are added as items, but no further file attachments can be added. Other files are added as separate entries in the library.
+
+By default, every file uploaded to a Document Library is created with a [Content Type](#content-type) of Document.
 
 ## E
 
@@ -206,7 +220,7 @@ Known Folder Move (KFM) allows you to automatically backup/redirect your Windows
 
 ### Library
 
-A library, typically used as a Document Library is a type of list where documents or other files are added as items, but no further file attachments can be added to the document item. Other files are added as separate entries in the library.
+See: [Document library](#document-library)
 
 ### Licensing
 
@@ -221,6 +235,10 @@ An item in a list can have multiple file attachments added. This is useful if yo
 A library is a type of list where documents or other files are added as items, but no further file attachments can be added.
 
 ## M
+
+### Metadata
+
+Generically, metadata means information about something else. In SharePoint metadata is additional information applied to documents, pages, or list items. We use metadata all the time in our lives, but rarely think of it as metadata. For example, the information we write on a file we put into a filing cabinet or the way we organize spices in the kitchen is driven by metadata.
 
 ### Managed Metadata
 
@@ -366,6 +384,10 @@ A defined pattern of data that can be identified in order to be protected by DLP
 In modern SharePoint, a site refers to a modern site. (In classic SharePoint, the term was often used for both sites and sub-sites.)
 
 To developers, a "Site" is a [Site Collection](#site-collection), whereas a "web" is a site. Confusing!
+
+### Site Column
+
+A Site Column is a metadata column that has been defined at the [site](#site) level. Site Columns are available for use in any list or library in the site where it is defined. Site Columns also become Crawled Properties (See: [How Do Site Columns Become Managed Properties - Thus Available for Search](how-do-site-columns-become-managed-properties-thus-available-for-search.md)) which can be used to improve search effectiveness.
 
 ### SharePoint Home Page
 
