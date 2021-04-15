@@ -92,7 +92,7 @@ Next, you need to wait for SharePoint Online to do its magic. This magic takes t
 >
 > * You have created content using the Site Column. Just defining the Site Column is not sufficient; there must be content to crawl.
 > * If the site is a Communication Site, the Site Columns should then become Crawled Properties.
-> * If you are creating Site Columns in a modern Team Site (which has an associated Microsoft 365 Group), you must be a Site Collection Administrator *explicitly* for this to happen. This means adding yourself as an *individual* to the Site Collection Administrators. It is *not* sufficient to be an Owner of the Team Site (and thus of the underlying Microsoft 365 Group).
+> * If you are creating Site Columns in a modern Team Site (which has an associated Microsoft 365 Group), you must be a Site Collection Administrator *explicitly* for the crawled and managed properties to appear in the schema admin UX. The properties do exist and work for search, but makes it hard to do custom mapping. This means adding yourself as an *individual* to the Site Collection Administrators. It is *not* sufficient to be an Owner of the Team Site (and thus of the underlying Microsoft 365 Group).
 
 In the meantime you can navigate to your tenant's Search Administration page: **SharePoint Admin Center** / **More features** / **Search** / **Manage search schema** (https://[TenantName]-admin.sharepoint.com/_layouts/15/searchadmin/TA_SearchAdministration.aspx) page to review the current settings. You will need the **SharePoint Administrator** role to be able to access this page.
 
