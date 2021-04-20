@@ -55,7 +55,7 @@ The most important concept that potentially simplified most licensing questions 
 
 "Seeded" in this case relates specifically for "inclusion" to another license type even though, technically, Power Platform systems will always run in context of an Office 365 tenant and have "limited use rights" which is a specification of what may be done at that level.  "Standalone" in this case means the license is not reliant on the other license type and it typically infers access to many more services that what is included with the main tenant.  
 
-Since the rules for the temant license type may change, it is recommended that a monthly review of Appendix B in the latest version of the license guide should be checked.  On that note, guidance offered as of this publication is that there has not been a significant change in the license types that are counted for inclusion and as of March 2021, the following license types are the main exceptions for general, limited use rights:
+Since the rules for the tenant license type may change, it is recommended that a monthly review of Appendix B in the latest version of the license guide should be checked.  On that note, guidance offered as of this publication is that there has not been a significant change in the license types that are counted for inclusion and as of March 2021, the following license types are the main exceptions for general, limited use rights:
 
 - Microsoft 365 F1
 - Windows 10 Pro

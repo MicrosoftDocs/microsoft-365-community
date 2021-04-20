@@ -20,6 +20,8 @@ Note: Changelog started in January, 2021
 | Article | Updated By |
 |---|---|
 | [Understanding Power Platform Licensing](./Community/powerplatformlicensingforcitizendeveloper.md) | [Ralph Rivas](https://www.linkedin.com/in/ralphrivas/) |
+| [How Do Site Columns Become Managed Properties - Thus Available for Search](./Community/how-do-site-columns-become-managed-properties-thus-available-for-search.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+| [Glossary](./Community/glossary.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 
 ### New Contributors
 
