@@ -6,16 +6,30 @@
 
 Note: Changelog started in January, 2021
 
+## May, 2021
+
+### New Articles - May, 2021
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - May, 2021
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - May, 2021
+
 ## April, 2021
 
-### New Articles
+### New Articles - April, 2021
 
 | Article | Principal Author |
 |---|---|
 | [Accessibility by Design](./Community/accessibility-by-design.md) | [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/) |
 | [Elevating Collaboration](./Community/microsoft365-maturity-model--how-to-elevate-collaboration.md) |[Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 
-### Updated Articles
+### Updated Articles - April, 2021
 
 | Article | Updated By |
 |---|---|
@@ -23,19 +37,19 @@ Note: Changelog started in January, 2021
 | [How Do Site Columns Become Managed Properties - Thus Available for Search](./Community/how-do-site-columns-become-managed-properties-thus-available-for-search.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 | [Glossary](./Community/glossary.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 
-### New Contributors
+### New Contributors - April, 2021
 
 - [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/)
 
 ## March, 2021
 
-### New Articles
+### New Articles - March, 2021
 
 | Article | Principal Author |
 |---|---|
 | [Customization and Development Competency](./Community/microsoft365-maturity-model--customization-and-development.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) <br/>[Simon Doy](https://www.linkedin.com/in/simondoy/) |
 
-### Updated Articles
+### Updated Articles - March, 2021
 
 | Article | Updated By |
 |---|---|
@@ -45,7 +59,7 @@ Note: Changelog started in January, 2021
 |[Should everyone create Teams? A Low Code Provisioning solution](./Community/should-everyone-create-teams.md)|[Trevor Seward, MVP](https://www.linkedin.com/in/trevorseward/)|
 | [Basic Security Set Up for Microsoft 365](./Community/basic-security-set-up-for-microsoft-365.md) | [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/) <br/> [Liam Cleary](https://www.linkedin.com/in/liamcleary)|
 
-### New Contributors
+### New Contributors - March, 2021
 
 - [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/)
 - [Leon Armston](https://www.linkedin.com/in/leonarmston/)
@@ -53,7 +67,7 @@ Note: Changelog started in January, 2021
 
 ## February, 2021
 
-### New Articles
+### New Articles - February, 2021
 
 | Article | Principal Author |
 |---|---|
@@ -61,7 +75,7 @@ Note: Changelog started in January, 2021
 | [Elevating Communication](./Community/microsoft365-maturity-model--how-to-elevate-communication.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [How can I use Learning Pathways in my organization?](./Community/how-can-i-use-learning-pathways-in-my-organization.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 
-### Updated Articles
+### Updated Articles - February, 2021
 
 | Article | Updated By |
 |---|---|
@@ -69,14 +83,14 @@ Note: Changelog started in January, 2021
 |[Should everyone create Teams? A Low Code Provisioning solution](./Community/should-everyone-create-teams.md)|[Luise Freese, MVP](https://www.linkedin.com/in/LuiseFreese)|
 |[Maturity Model for Microsoft 365 - Introduction](./Community/microsoft365-maturity-model--intro.md)|[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)|
 
-### New Contributors
+### New Contributors - February, 2021
 
 - [Ganesh Sanap](https://www.linkedin.com/in/ganeshsanap/)
 - [Waldek Mastykarz](https://blog.mastykarz.nl)
 
 ## January, 2021
 
-### New Articles
+### New Articles - January, 2021
 
 | Article | Principal Author |
 |---|---|
@@ -85,17 +99,17 @@ Note: Changelog started in January, 2021
 | [Making Good Technology Decisions: Data Storage](./Community/making-good-technology-decisions--data-storage.md) |[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)|
 | [Making Good Technology Decisions: Front End](./Community/making-good-technology-decisions--front-end.md)|[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)|
 
-### Updated Articles
+### Updated Articles - January, 2021
 
 | Article | Updates By |
 |---|---|
 |[Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)| [Luise Freese, MVP](https://www.linkedin.com/in/LuiseFreese) |
 
-### New Contributors
+### New Contributors - January, 2021
 
 ## November, 2020
 
-### New Articles
+### New Articles - November, 2020
 
 | Article | Principal Author |
 | --- | --- |
@@ -105,7 +119,7 @@ Note: Changelog started in January, 2021
 | [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [Document Sets for Fast Legacy Process Automation](./Community/document-sets-are-magic) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
 
-### Updated Articles
+### Updated Articles - November, 2020
 
 | Article | Updates By |
 | --- | --- |
@@ -114,7 +128,7 @@ Note: Changelog started in January, 2021
 | [Site Builder/Owner - New Site Checklist](./Community/new-site-checklist) | [Marijn Somers](https://www.linkedin.com/in/marijnsomers/) |
 | [Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media) | [Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/) |
 
-### New contributors
+### New contributors - November, 2020
 
 - [Kathy Boilek](https://www.linkedin.com/in/kathleen-boilek/)
 - [Dan Myhre](https://www.linkedin.com/in/danmyhre/)
@@ -122,7 +136,7 @@ Note: Changelog started in January, 2021
 
 ## October, 2020
 
-### New Articles
+### New Articles - October, 2020
 
 | Article | Principal Author |
 | --- | --- |
@@ -132,7 +146,7 @@ Note: Changelog started in January, 2021
 | [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) <br/> [Simon Doy](https://www.linkedin.com/in/simondoy/) |
 | [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 
-### Updated Articles
+### Updated Articles - October, 2020
 
 | Article | Upddates by |
 | --- | --- |
