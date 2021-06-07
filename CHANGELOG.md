@@ -17,12 +17,12 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
-| [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | [rekamath](https://github.com/rekamath) |
+| [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | [Reetu Kamath](https://www.linkedin.com/in/reetukamath/) |
 | [Can Machine Learning be used to assign managed metadata attributes for items?](./Community/machine-learning-and-managed-metadata.md) | [Mike Duffy](https://www.linkedin.com/in/duffymike/) |
 
 ### New Contributors - June, 2021
 
-* [rekamath](https://github.com/rekamath)
+* [Reetu Kamath](https://www.linkedin.com/in/reetukamath/)
 * [Mike Duffy](https://www.linkedin.com/in/duffymike/)
 
 ## May, 2021
