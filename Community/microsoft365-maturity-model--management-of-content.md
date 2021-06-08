@@ -309,7 +309,8 @@ At this level you can expect the following:
 - Content classes are developed based on the agreed schema.
 
 :::image type="content" source="media/microsoft365-maturity-model--management-of-content/lifecycle-management-level-400a.jpg" alt-text="Lifecycle Management - Level 400a":::
-:::image type="content" source="media/microsoft365-maturity-model--management-of-content/lifecycle-management-level-400b.jpg" alt-text="Lifecycle Management - Level 400a":::
+
+:::image type="content" source="media/microsoft365-maturity-model--management-of-content/lifecycle-management-level-400b.jpg" alt-text="Lifecycle Management - Level 400b":::
 
 ##### Identification
 
@@ -427,7 +428,7 @@ To be added
 
 ## Resources to learn more
 
-There are a variety of helpful documents on lists, libraries, information architecture, plus related competencies such as search, communication and collaboration on the [Microsoft Docs](https://docs.microsoft.com/microsoft-365/community/principles-of-search) site.
+There are a variety of helpful documents on lists, libraries, information architecture, plus related competencies such as [search](principles-of-search.md), communication and collaboration on this site.
 
 ## Conclusion
 
@@ -438,6 +439,8 @@ Equally, many organizations invest in file storage technologies that provide per
 Burgeoning automation and AI make achieving high levels of maturity realistic for most organizations; however, the fundamentals need to be put in place before these can be effectively deployed.
 
 ## Resources
+
+- The slides we've used in this article are available on Github as 
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
 
