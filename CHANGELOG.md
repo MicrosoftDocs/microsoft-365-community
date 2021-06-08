@@ -6,19 +6,29 @@
 
 Note: Changelog started in January, 2021
 
-## May, 2021
+## June, 2021
 
-### New Articles - May, 2021
+### New Articles - June, 2021
 
 | Article | Principal Author |
 |---|---|
 
-### Updated Articles - May, 2021
+### Updated Articles - June, 2021
 
 | Article | Updated By |
 |---|---|
+| [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | [Reetu Kamath](https://www.linkedin.com/in/reetukamath/) |
+| [Can Machine Learning be used to assign managed metadata attributes for items?](./Community/machine-learning-and-managed-metadata.md) | [Mike Duffy](https://www.linkedin.com/in/duffymike/) |
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)|
 
-### New Contributors - May, 2021
+### New Contributors - June, 2021
+
+* [Reetu Kamath](https://www.linkedin.com/in/reetukamath/)
+* [Mike Duffy](https://www.linkedin.com/in/duffymike/)
+
+## May, 2021
+
+No significant changes.
 
 ## April, 2021
 
@@ -39,7 +49,7 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - April, 2021
 
-- [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/)
+* [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/)
 
 ## March, 2021
 
@@ -61,9 +71,9 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - March, 2021
 
-- [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/)
-- [Leon Armston](https://www.linkedin.com/in/leonarmston/)
-- [Trevor Seward, MVP](https://www.linkedin.com/in/trevorseward/)
+* [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/)
+* [Leon Armston](https://www.linkedin.com/in/leonarmston/)
+* [Trevor Seward, MVP](https://www.linkedin.com/in/trevorseward/)
 
 ## February, 2021
 
@@ -85,8 +95,8 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - February, 2021
 
-- [Ganesh Sanap](https://www.linkedin.com/in/ganeshsanap/)
-- [Waldek Mastykarz](https://blog.mastykarz.nl)
+* [Ganesh Sanap](https://www.linkedin.com/in/ganeshsanap/)
+* [Waldek Mastykarz](https://blog.mastykarz.nl)
 
 ## January, 2021
 
@@ -130,9 +140,9 @@ Note: Changelog started in January, 2021
 
 ### New contributors - November, 2020
 
-- [Kathy Boilek](https://www.linkedin.com/in/kathleen-boilek/)
-- [Dan Myhre](https://www.linkedin.com/in/danmyhre/)
-- [Marijn Somers](https://www.linkedin.com/in/marijnsomers/)
+* [Kathy Boilek](https://www.linkedin.com/in/kathleen-boilek/)
+* [Dan Myhre](https://www.linkedin.com/in/danmyhre/)
+* [Marijn Somers](https://www.linkedin.com/in/marijnsomers/)
 
 ## October, 2020
 

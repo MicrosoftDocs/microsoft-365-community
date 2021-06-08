@@ -85,6 +85,7 @@ Lists usually only have Major versions.
 * A deleted and then restored file/list item maintains its old versions.
 * In a list with versioning enabled, attachment changes are not versioned.
 * Limiting the number of versions is generally a good practice. It means you can conserve space on the server and reduce clutter for users. But, if your organization is required to save all versions for legal or other reasons, don’t apply any limits.
+* As best practice PST files should not be uploaded on OneDrive for Business and SharePoint Online team site document libraries due to the impact on storage. If PST files are uploaded the service will retain versions for 30 days.
 
 ### Further Reading
 
