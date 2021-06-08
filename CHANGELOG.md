@@ -19,6 +19,7 @@ Note: Changelog started in January, 2021
 |---|---|
 | [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | [Reetu Kamath](https://www.linkedin.com/in/reetukamath/) |
 | [Can Machine Learning be used to assign managed metadata attributes for items?](./Community/machine-learning-and-managed-metadata.md) | [Mike Duffy](https://www.linkedin.com/in/duffymike/) |
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)|
 
 ### New Contributors - June, 2021
 
