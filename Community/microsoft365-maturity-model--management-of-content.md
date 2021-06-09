@@ -1,6 +1,6 @@
 ---
 title:  Maturity Model for Microsoft 365 – Management of Content Competency
-ms.date: 11/10/2020
+ms.date: 06/09/2020
 author: simonjhudson
 ms.reviewer: efrene
 manager: pamgreen-msft
@@ -422,14 +422,6 @@ Marketing want to ensure all internal and external documents use the new company
 
 Staff need to know where to store the product specification information, QA reports and analysis data for a new product. They also need to update the new product pipeline overview for the sales and marketing teams.
 
-## Cost & benefit
-
-To be added
-
-## Resources to learn more
-
-There are a variety of helpful documents on lists, libraries, information architecture, plus related competencies such as [search](principles-of-search.md), communication and collaboration on this site.
-
 ## Conclusion
 
 Management of Content remains a challengingly broad and deep competency for organizations to address. It is vital that the broad concept of content is incorporated into any content strategies, to ensure that approaches are not limited to just documents.
@@ -440,7 +432,8 @@ Burgeoning automation and AI make achieving high levels of maturity realistic fo
 
 ## Resources
 
-- The slides we've used in this article are available on Github as 
+- There are a variety of helpful documents on lists, libraries, information architecture, plus related competencies such as [search](principles-of-search.md), communication and collaboration on this site.
+- The slides we've used in this article are available in the backing repo on Github as [Management of Content - Content Lifecycle](https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/Community/media/microsoft365-maturity-model--management-of-content/Management%20of%20Content%20-%20Content%20Lifecycle.pptx?raw=true)
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
 
