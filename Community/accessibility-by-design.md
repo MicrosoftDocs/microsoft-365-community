@@ -99,7 +99,7 @@ And that means more people can buy or use our product. That in turn leads to us 
 
 Well-known slogans that convey values include "Sharing is Caring" or "Include Everybody." Many people are driven by these values, which are anchored in their mental model. Instead of telling other people how to behave, it can be helpful to start with the mental model. When that mental model is closely linked to an accessibility thought, change can happen much more easily.
 
-There is the possibility to use the iceberg model for that [explanation of the iceberg model](https://docs.microsoft.com/microsoft-365/community/why-m365-adoption-projects-fail#the-iceberg-model), and it might be beneficial to analyze accessibility by design with that model as a next step to get a clearer picture of what is happening right now.
+There is the possibility to use the iceberg model for that [explanation of the iceberg model](why-m365-adoption-projects-fail#the-iceberg-model), and it might be beneficial to analyze accessibility by design with that model as a next step to get a clearer picture of what is happening right now.
 
 ## Conclusion
 
