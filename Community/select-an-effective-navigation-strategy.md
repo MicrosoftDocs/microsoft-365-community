@@ -24,7 +24,7 @@ A modern site is either a team site or a communication site. Each has its own op
 
 ### Team Site Navigation Notes
 
-- Top link bar customizable via ~siteUrl/layouts/15/topnav.aspx
+- Top link bar customizable via ~siteUrl/_layouts/15/topnav.aspx
   - Hidden from the UI team site connected to an Office 365 Group
 - Left navigation supports up to 2 levels
 - Header can be standard or compact
@@ -45,23 +45,23 @@ The modern header has two states: standard (default) and compact. The difference
 
 ### Header Options
 
-![TeamHeaderOptions](media/select-an-effective-navigation-strategy/TeamHeaderOptions.png)
+![Team Header Options](media/select-an-effective-navigation-strategy/TeamHeaderOptions.png)
 
 ### Team Site with a Standard Header
 
-![TeamHeaderStandard](media/select-an-effective-navigation-strategy/TeamHeaderStandard.png)
+![Team Header Standard](media/select-an-effective-navigation-strategy/TeamHeaderStandard.png)
 
 ### Team Site with a Compact Header
 
-![TeamHeaderCompact](media/select-an-effective-navigation-strategy/TeamHeaderCompact.png)
+![Team Header Compact](media/select-an-effective-navigation-strategy/TeamHeaderCompact.png)
 
 ### Communication Site with a Standard Header
 
-![CommunicationHeaderStandard](media/select-an-effective-navigation-strategy/CommunicationHeaderStandard.png)
+![Communication Header Standard](media/select-an-effective-navigation-strategy/CommunicationHeaderStandard.png)
 
 ### Communication Site with a Compact Header
 
-![CommunicationHeaderCompact](media/select-an-effective-navigation-strategy/CommunicationHeaderCompact.png)
+![Communication Header Compact](media/select-an-effective-navigation-strategy/CommunicationHeaderCompact.png)
 
 ## Top Link Bar (applies only to Team sites)
 
@@ -73,11 +73,11 @@ Navigate to the Top Link Bar page (/_layouts/15/topnav.aspx) in your Team Site's
 
 ### Team Site with a Standard Header and the Top Link Bar
 
-![TeamHeaderStandardTopLinkBar](media/select-an-effective-navigation-strategy/TeamHeaderStandardTopLinkBar.png)
+![Team Header Standard Top Link Bar](media/select-an-effective-navigation-strategy/TeamHeaderStandardTopLinkBar.png)
 
 ### Team Site with a Compact Header and the Top Link Bar
 
-![TeamHeaderCompactTopLinkBar](media/select-an-effective-navigation-strategy/TeamHeaderCompactTopLinkBar.png)
+![Team Header Compact Top Link Bar](media/select-an-effective-navigation-strategy/TeamHeaderCompactTopLinkBar.png)
 
 ## Site Navigation (applies only to Communication sites)
 
@@ -86,23 +86,23 @@ Communication sites offer the following options for navigation:
 - Cascading
 - Mega Menu
 
-![CommunicationNavigationOptions](media/select-an-effective-navigation-strategy/CommunicationNavigationOptions.png)
+![Communication Navigation Options](media/select-an-effective-navigation-strategy/CommunicationNavigationOptions.png)
 
 ### Communication Site with a Standard Header and Cascading Navigation
 
-![CommunicationHeaderStandardCascadingNav](media/select-an-effective-navigation-strategy/CommunicationHeaderStandardCascadingNav.png)
+![Communication Header Standard Cascading Nav](media/select-an-effective-navigation-strategy/CommunicationHeaderStandardCascadingNav.png)
 
 ### Communication Site with a Standard Header and Mega Menu Navigation
 
-![CommunicationHeaderStandardMegaMenuNav](media/select-an-effective-navigation-strategy/CommunicationHeaderStandardMegaMenuNav.png)
+![Communication Header Standard Mega Menu Nav](media/select-an-effective-navigation-strategy/CommunicationHeaderStandardMegaMenuNav.png)
 
 ### Communication Site with a Compact Header and Cascading Navigation
 
-![CommunicationHeaderCompactCascadingNav](media/select-an-effective-navigation-strategy/CommunicationHeaderCompactCascadingNav.png)
+![Communication Header Compact Cascading Nav](media/select-an-effective-navigation-strategy/CommunicationHeaderCompactCascadingNav.png)
 
 ### Communication Site with a Compact Header and Mega Menu Navigation
 
-![CommunicationHeaderCompactMegaMenuNav](media/select-an-effective-navigation-strategy/CommunicationHeaderCompactMegaMenuNav.png)
+![Communication Header Compact Mega Menu Nav](media/select-an-effective-navigation-strategy/CommunicationHeaderCompactMegaMenuNav.png)
 
 ---
 
