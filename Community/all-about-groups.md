@@ -56,7 +56,7 @@ By default, any user in a tenant can create a Microsoft 365 Group by creating a 
 
 ### How do they manage them?
 
-Group Owners can manage Group membership in any of the Group supported applications. For instance, they can add a member to a Group from the SharePoint site, Outlook, Outlook Online, the Teams app, and so on. Changes to the Group made in any app are reflected in all of the apps that Group supports. The management experience is not the same between apps, so an Owner may have to go to a specific app for a specific task. For instance, to change a Group's Privacy policy you have to use Outlook or Outlook online. That setting can't be changed in SharePoint. Users that have the appropriate administrative roles can also create Microsoft 365 Groups from the Azure Portal or PowerShell. They can also manage Group membership and settings from those same interfaces.
+Group Owners can manage Group membership in any of the Group supported applications. For instance, they can add a member to a Group from the SharePoint site, Outlook, Outlook Online, the Teams app, and so on. Changes to the Group made in any app are reflected in all of the apps that Group supports. The management experience is not the same between apps, so an Owner may have to go to a specific app for a specific task. For instance, to add guest users to office 365 group(both private and public) use Outlook or Outlook online. This setting is not present in SharePoint. Users that have the appropriate administrative roles can also create Microsoft 365 Groups from the Azure Portal or PowerShell. They can also manage Group membership and settings from those same interfaces.
 
 ### How are they used?
 
