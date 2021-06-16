@@ -23,8 +23,9 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - June, 2021
 
-* [Reetu Kamath](https://www.linkedin.com/in/reetukamath/)
-* [Mike Duffy](https://www.linkedin.com/in/duffymike/)
+- [Reetu Kamath](https://www.linkedin.com/in/reetukamath/)
+- [Mike Duffy](https://www.linkedin.com/in/duffymike/)
+- [Rene Modery](https://www.linkedin.com/in/modery/)
 
 ## May, 2021
 
@@ -49,7 +50,7 @@ No significant changes.
 
 ### New Contributors - April, 2021
 
-* [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/)
+- [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/)
 
 ## March, 2021
 
@@ -71,9 +72,9 @@ No significant changes.
 
 ### New Contributors - March, 2021
 
-* [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/)
-* [Leon Armston](https://www.linkedin.com/in/leonarmston/)
-* [Trevor Seward, MVP](https://www.linkedin.com/in/trevorseward/)
+- [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/)
+- [Leon Armston](https://www.linkedin.com/in/leonarmston/)
+- [Trevor Seward, MVP](https://www.linkedin.com/in/trevorseward/)
 
 ## February, 2021
 
@@ -95,8 +96,8 @@ No significant changes.
 
 ### New Contributors - February, 2021
 
-* [Ganesh Sanap](https://www.linkedin.com/in/ganeshsanap/)
-* [Waldek Mastykarz](https://blog.mastykarz.nl)
+- [Ganesh Sanap](https://www.linkedin.com/in/ganeshsanap/)
+- [Waldek Mastykarz](https://blog.mastykarz.nl)
 
 ## January, 2021
 
@@ -140,9 +141,9 @@ No significant changes.
 
 ### New contributors - November, 2020
 
-* [Kathy Boilek](https://www.linkedin.com/in/kathleen-boilek/)
-* [Dan Myhre](https://www.linkedin.com/in/danmyhre/)
-* [Marijn Somers](https://www.linkedin.com/in/marijnsomers/)
+- [Kathy Boilek](https://www.linkedin.com/in/kathleen-boilek/)
+- [Dan Myhre](https://www.linkedin.com/in/danmyhre/)
+- [Marijn Somers](https://www.linkedin.com/in/marijnsomers/)
 
 ## October, 2020
 
