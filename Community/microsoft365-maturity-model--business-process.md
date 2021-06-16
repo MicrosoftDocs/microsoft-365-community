@@ -30,7 +30,7 @@ The Business Process competency focuses on how users in an organization perform 
 
 - Planner
 - Project Online
-- MSFT Lists
+- Microsoft Lists
 - Power Automate
 - Common Data Service (now Dataverse)
 - Microsoft Forms
@@ -112,7 +112,7 @@ Organizations at this level are using M365 to manage business process across mul
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
-- A process is considered as a whole, rather than as an automation of discrete tasks. Process maps for the end to end process have been created and are maintained. Associated solution documentation is developed.
+- A process is considered as a whole, rather than as an automation of discrete tasks. Process maps for the end-to-end process have been created and are maintained. Associated solution documentation is developed.
 - Individuals have transitioned from procedural document workflow to orchestration of dynamic business process.
 - A business process automation technology platform has been selected and is the basis for new Business Process activities, though legacy solutions remain in use. Third party tools and/or custom Business Process Management tools are integrated to support more complex business rules and legacy systems.
 - The organization has begun to develop business process skills, often in a central team and including process re-engineering and technical platform specialists. Training is available to both specialists and citizen developers
@@ -122,8 +122,8 @@ Organizations at this level are using M365 to manage business process across mul
 - There is a method for dealing with exceptions, or the automation is explicitly scoped to meet the majority of situations.
 - There are processes for identifying new automations and for modify existing solutions, though exceptions and 'shadow' development remain.
 - There is recognition that different solutions are associated with different risk and compliance profiles and can be designed and managed accordingly
-- Whole system approaches are attempted and common-data sets and sources begin to be established.
-- Quality Systems incorporate key business process solutions and the solutions are tested for compliance for processes that impact quality
+- Whole system approaches are attempted, and common-data sets and sources begin to be established.
+- Quality Systems incorporate key business process solutions, and the solutions are tested for compliance for processes that impact quality
 - New solutions are designed with tracking, performance metrics and out of bounds notifications
 
 #### Impacts
@@ -132,7 +132,7 @@ At this level you can expect the following:
 
 - Management and users can begin to feel confidence that processes and activities are compliant.
 - Productivity / efficiency gains are observable if not yet fully measurable.
-- Increased transparency supports better productivity and planning, and lowers user stress.
+- Increased transparency supports better productivity and planning and lowers user stress.
 - There is increasing employee confidence in following the processes because they provide better results than prior manual processes.
 - The credibility of the team is improved, that helps user acceptance for new processes.
 
