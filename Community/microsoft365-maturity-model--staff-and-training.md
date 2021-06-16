@@ -37,7 +37,7 @@ Note: In this article, we refer to IT as the primarily responsible department fo
 
 ## Evolution of this competency
 
-See the Maturity [Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
+See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
 
 ### Level 100
 

@@ -24,7 +24,7 @@ This article explores how organizations at any level could use the Microsoft 365
 
 ## How to move from Initial to Repeatable (Level 100 to 200)
 
-Organizations at the 100 level give more precedence to launching the solution than focusing on why the solution is launched, as the primary focus is a bottom-line problem. User and training needs are not been defined, evaluated, or documented.
+Organizations at the 100 level give more precedence to launching the solution than focusing on why the solution is launched, as the primary focus is a bottom-line problem. User and training needs are not defined, evaluated, or documented.
 
 To advance to the 200 level, consider the following activities:
 
