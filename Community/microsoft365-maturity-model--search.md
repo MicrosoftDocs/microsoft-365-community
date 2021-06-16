@@ -116,7 +116,7 @@ Users rarely rely on search; accessing known documents in known places (which ar
 
 Most users turn to external search engines to search for information that probably exists in the organization.
 
-In many instances Microsoft 365 usage is primarily focused on use of Email. This content is unstructured, has minimal and frequently inaccurate document metadata beyond the filename and the content. User expectations are of a 'Google' search without context, scope, or organizational awareness.
+In many instances Microsoft 365 usage is primarily focused on use of email. This content is unstructured, has minimal and frequently inaccurate document metadata beyond the filename and the content. User expectations are of a 'Google' search without context, scope, or organizational awareness.
 
 At this level, the organization is using the out of box search experience which gives varied results and often leaves the user with difficulty finding the content that they are looking for. The search corpus is small with only a fraction of the organization's content being made searchable.
 

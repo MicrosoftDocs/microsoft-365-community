@@ -61,7 +61,7 @@ This might include adding Status and Categorization columns and grouping and fil
 ### General
 
 - Reinforce the benefits of using the recommended tools and approaches. Call out successes and share stories of issues and near misses associated with level 100 characteristics. At this stage, anecdotes are critical.
-- Encourage good practice, discourage older approaches. Consider incentives and disincentives for these. It may take a while to get these incentives into place; generally at a higher maturity level.
+- Encourage good practice, discourage older approaches. Consider incentives and disincentives for these. It may take a while to get these incentives into place, generally at a higher maturity level.
 
 ## How to move from Repeatable to Defined (Level 200 to 300)
 
@@ -85,7 +85,7 @@ For example, the file naming conventions might still apply except for tracking d
 For example, if your organization has a list of products, this list should be in the Term Store to ensure all sites using a list for “Products” is consistent.
 - Identify the methods for sites to access the common metadata. If site columns should be automatically applied to all sites, this can be achieved through the [Content Type Hub](https://support.microsoft.com/office/publish-a-content-type-from-a-content-publishing-hub-58081155-118d-4e7a-9cc5-d43b5dbb7d02). If sites should opt into adding the metadata to their sites, this can be achieved through creating term sets in the [Term Store](https://docs.microsoft.com/sharepoint/create-and-manage-terms) or creating [Site Designs](https://docs.microsoft.com/sharepoint/dev/declarative-customization/get-started-create-site-design) for self-service application of common information architecture.
 For example, you may want each department to manage their own company policies and have all policies appear on one page based on search based off the content type. The content type of “Policy” can be created in the Content Type Hub (for automatic application to the site) or as a Site Design (for self-service application to the site) with columns for “Effective Date” and “Expiration Date.”
-- Group sets of collaboration activity together using Hub Sites in SharePoint and  Channels in Teams.
+- Group sets of collaboration activity together using Hub Sites in SharePoint and Channels in Teams.
 
 ### Content
 
