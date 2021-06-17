@@ -120,3 +120,13 @@ If we want to give more people a sense of community and belonging, we need to st
 **Principal author**: [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/)
 
 ---
+
+**Testing - please ignore**
+
+*Full path to docs articles*
+
+ Let's take the [Accessibility fundamentals learning path](https://docs.microsoft.com/learn/paths/accessibility-fundamentals/) provided by [Microsoft Learn](https://docs.microsoft.com/learn/).
+
+*Relative paths to docs articles*
+
+ Let's take the [Accessibility fundamentals learning path](/learn/paths/accessibility-fundamentals/) provided by [Microsoft Learn](/learn/).
