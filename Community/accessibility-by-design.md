@@ -70,7 +70,7 @@ Let us have a look at some examples: what we can do.
 
 Do we want to do more than just realize there is a need? Here are three simple steps we all can do right now:
 
-1. Let's take the [Accessibility fundamentals learning path](/learn/paths/accessibility-fundamentals/) provided by [Microsoft Learn](https://docs.microsoft.com/learn/).
+1. Let's take the [Accessibility fundamentals learning path](/learn/paths/accessibility-fundamentals/) provided by [Microsoft Learn](/learn/).
 2. Let's start using the accessibility tools like the [Accessibility Checker](https://support.microsoft.comtopic/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) or [descriptive text for pictures](https://support.microsoft.com/topic/everything-you-need-to-know-to-write-effective-alt-text-df98f884-ca3d-456c-807b-1a1fa82f5dc2).
 3. We can switch the grammar settings in Word for inclusiveness to become more aware of the language we are using.
 
@@ -110,8 +110,8 @@ If we want to give more people a sense of community and belonging, we need to st
 
 ## Additional Resources
 
-- [Accessibility terms](https://docs.microsoft.com/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)- Write in a way that puts people first.
-- [Bias-free communication](https://docs.microsoft.com/style-guide/bias-free-communication).
+- [Accessibility terms](/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)- Write in a way that puts people first.
+- [Bias-free communication](/style-guide/bias-free-communication).
 - The Microsoft [Accessibility Blog](https://www.microsoft.com/accessibility).
 - More details about the iceberg model in [Why Microsoft 365 adoption projects fail](why-m365-adoption-projects-fail.md)
 
