@@ -1,6 +1,6 @@
 ---
 title: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
-ms.date: 3/3/2020
+ms.date: 07/07/2021
 author: sympmarc
 ms.reviewer:  Joanne Hendrickson
 localization_priority: 
@@ -19,14 +19,14 @@ A modern site is either a team site or a communication site. Each has its own op
 
 ### Team Site Navigation Notes
 
-- Top link bar customizable via ~siteUrl/layouts/15/topnav.aspx
+- Top link bar customizable via ~siteUrl/_layouts/15/topnav.aspx
   - Hidden from the UI team site connected to an Office 365 Group
 - Left navigation supports up to 2 levels
 - Header can be standard or compact
 
 ### Communication Site Navigation Notes
 
-- Page at ~sitecollection/layouts/15/topnav.aspx has no effect
+- Page at ~sitecollection/_layouts/15/topnav.aspx has no effect
 - Top navigation supports up to 3 levels
 - Top navigation can be configured as cascading drop-downs or as a mega menu
 - No left navigation
