@@ -2,11 +2,16 @@
 title:  Importing data into SharePoint
 ms.date: 4/30/2020
 author: nyoung30
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.service: sharepoint-online
 localization_priority: 
 description: Importing data into SharePoint
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
+
 # Importing data into SharePoint
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
@@ -52,6 +57,7 @@ Like the *drag and drop* of files and folders, SharePoint document libraries als
 - Click “Upload” and select “Files” or “Folder”.
 
 ![Upload of files and folders from computer to site](media/importing-data/upload-files-folders.png)
+
 The **“Files”** option does not allow the uploading of folders. Similarly, the **“Folder”** option does not allow files.
 
 - Select the source files / folders and click “Open”.
@@ -126,11 +132,11 @@ The **“Move to”** feature will copy the files / folders to the new location 
 
 - Click the URL to view the new SharePoint list. Click “OK” to exit the export wizard.
 
-![Successful Excel export](media/importing-data/excel-export-ok.png)
+![Successful Excel export ok screen](media/importing-data/excel-export-ok.png)
 
 - Example exported list shown below:
 
-![Successful Excel export](media/importing-data/excel-export-list.png)
+![Successful Excel export list view](media/importing-data/excel-export-list.png)
 
 ## Lists – Import Spreadsheet to SharePoint (Power user)
 
@@ -197,28 +203,36 @@ Detailed information about OneDrive can be found on the [Sync SharePoint files w
 
 With the target site and document library open:
 
-- Click “Sync”.<br>
+- Click “Sync”.
+
 ![Document library sync](media/importing-data/onedrive-sync.png)
 
-- Click “Open” to the “Getting ready to sync...” prompt.<br>
+- Click “Open” to the “Getting ready to sync...” prompt.
+
 ![Getting ready to sync...](media/importing-data/onedrive-getting-ready.png)
 
-- Confirm you login account name and click “Sign in”.<br>
+- Confirm you login account name and click “Sign in”.
+
 ![Sign in](media/importing-data/onedrive-signin.png)
 
-- Click “Next”.<br>
+- Click “Next”.
+
 ![Your folder](media/importing-data/onedrive-your-folder.png)
 
-- Click through the “Welcome to OneDrive” screen and then click “Open my OneDrive folder”.<br>
+- Click through the “Welcome to OneDrive” screen and then click “Open my OneDrive folder”.
+
 ![Welcome to OneDrive](media/importing-data/onedrive-welcome.png)
 
 Using Windows Explorer, open the source documents folder:
+
 - Select the source files / folders.
 
-- Drag to the destination sync document library and release.<br>
+- Drag to the destination sync document library and release.
+
 ![Drag and drop files and folders](media/importing-data/onedrive-drag-file-folders.png)
 
-- Source folder and target document library will become synchronized.<br>
+- Source folder and target document library will become synchronized.
+
 ![Source and target synchronized](media/importing-data/onedrive-synchronized-files-folders.png)
 
 - See the OneDrive sync app in the system tray to view progress and any sync messages.

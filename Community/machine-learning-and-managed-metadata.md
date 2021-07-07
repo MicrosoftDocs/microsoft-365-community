@@ -2,11 +2,16 @@
 title: Can Machine Learning be used to assign managed metadata attributes for items?
 ms.date: 3/3/2020
 author: bhall999
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.service: machine-learning
 localization_priority: 
 description: "Can Machine Learning be used to assign managed metadata attributes for items?"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
+
 # Can Machine Learning be used to assign managed metadata attributes for items?
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
@@ -95,10 +100,11 @@ Your Schema is your metadata organization model, it is the language of your busi
 
 Businesses should focus on developing a schema that is complete and accurately represents all aspects of the business.  Applying that schema to items with managed metadata selections is a human-based activity.  It may be possible for advanced techniques in machine learning to reduce the choices of longer selection lists, however human action is required.
 
-While this article has focused on technical capabilities, the information outlined does align with statements Microsoft has published about their strategic position for AI.  The following is from their AI product page.  (emphasis is mine) While this article has focused on technical capabilities, the information outlined does align with statements Microsoft has published about their strategic position for AI.  The following is from their AI product page.  (**emphasis is mine**)
+While this article has focused on technical capabilities, the information outlined does align with statements Microsoft has published about their strategic position for AI.  The following is from their AI product page.  (**emphasis is mine**)
   *"We believe that, **when designed with people at the center, AI can extend your capabilities**, free you up for more creative and strategic endeavors, and help you or your organization achieve more."*
   
  ---
 
 Principal author: [Beth Hall](https://www.linkedin.com/in/beth-hall-stm)
 
+---

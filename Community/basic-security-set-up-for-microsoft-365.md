@@ -2,10 +2,14 @@
 title: Basic Security Set Up for Microsoft 365
 ms.date: 7/9/2020
 author: helloitsliam
-ms.reviewer:  jhendr
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.service: security
 localization_priority: 
 description: Basic Security Set Up for Microsoft 365
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # Basic Security Set Up for Microsoft 365
@@ -20,7 +24,7 @@ Security within Microsoft 365 is not just about enabling features and controls; 
 
 ## Security Licensing
 
-With all of the Microsoft 365 services, many-core security components come with the standard licensing. Features, such as the **Security Defaults**, are included in core licenses; however, most advanced Security capabilities are not. These features are either available as separate add-on licenses or bundled into the either the **Enterprise Mobility + Security E3/A3/G3**, **Enterprise Mobility + Security E5/A5/G5**, **Microsoft 365 E3/A3/G3**, **Microsoft 365 E5/A5/G5**, and **Microsoft 365 E5/A5/G5 Security**.
+With all of the Microsoft 365 services, many-core security components come with the standard licensing. Features, such as the **Security Defaults**, are included in core licenses; however, most advanced Security capabilities are not. These features are either available as separate add-on licenses or bundled into the either the **Enterprise Mobility + Security E3/A3/G3**, **Enterprise Mobility + Security E5/A5/G5**, **Microsoft 365 E3/A3/G3**, **Microsoft 365 E5/A5/G5**, **Microsoft 365 E5/A5/G5 Security**, and **Microsoft 365 Business Premium**.
 
 ## Enabling the Security Defaults
 
@@ -103,7 +107,7 @@ Users will be signed out from all Microsoft 365 services with a time specified, 
 * *Exchange ActiveSync*
 * *Exchange Online PowerShell*
 * *Exchange Web Services*
-* *IMPA4*
+* *IMAP4*
 * *MAPI over HTTP (used by Outlook 2010 and later)*
 * *Offline Address Book*
 * *Outlook Anywhere (RPC over HTTP)*
@@ -135,7 +139,10 @@ There are two options for disabling expiration of passwords:
 1. Disable password expiration either on a per-user or for the organization within Azure Active Directory
 2. Sync passwords from On-premises Active Directory using Azure AD Connect. This sync includes password policies
 
-**How:** Learn how to [implement a password expiration policy](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire?view=o365-worldwide)
+**How:** Learn how to implement password expiration policies using the links below.
+
+* [Set the password expiration policy for your organization](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+* [Set an individual user's password to never expire](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
 ### Banned Password List
 

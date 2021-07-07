@@ -2,11 +2,16 @@
 title: What is a site column?
 ms.date: 3/3/2020
 author: sympmarc
-ms.reviewer: Joanne Hendrickson
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.service: sharepoint-online
 localization_priority: 
 description: "What is a site column?"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
+
 # What is a Site Column?
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]

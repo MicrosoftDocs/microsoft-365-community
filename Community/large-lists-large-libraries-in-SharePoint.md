@@ -2,10 +2,14 @@
 title: Living Large with Large Lists and Large Libraries
 ms.date: 7/16/2020
 author: PatD
-ms.reviewer: jhendr
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.service: sharepoint-online
 localization_priority:
 description: Best practices and strategies for building and operating large SharePoint Lists and Libraries well above the 5000 item threshold.
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
 
 # Living Large with Large Lists and Large Libraries
@@ -78,7 +82,7 @@ You can, and that's an option to consider, especially if you can work in Content
 >**Lookup Columns and Calculated Columns**
 >If your List or Library has Calculated columns (which can't be indexed) or Lookup Columns, you may want to consider the multiple List/Library route.  A List will struggle to reference a data in a Lookup column when the number of rows is over the threshold.
 
-If it's a Document Library, consider using the [SharePoint Content Organizer](https://support.office.com/en-us/article/Configure-the-Content-Organizer-to-route-documents-B0875658-69BC-4F48-ADDB-E3C5F01F2D9A) to route your documents (based on a condition) to different libraries with the same metadata.
+If it's a Document Library, consider using the [SharePoint Content Organizer](https://support.office.com/article/Configure-the-Content-Organizer-to-route-documents-B0875658-69BC-4F48-ADDB-E3C5F01F2D9A) to route your documents (based on a condition) to different libraries with the same metadata.
 
 But is that what your customers *want* from a user experience perspective? Does it feel similar to having to update multiple spreadsheets? What if they want to do reporting on this data, and they have to deal with multiple Lists?  This scenario shouldn't be your first choice if you can avoid it.
 
@@ -185,14 +189,14 @@ The model will work great for years.  Each folder acts as sort of a reset on the
 
 ### Further Reading
 
-- Microsoft: [Adding an index to a SharePoint column](https://support.microsoft.com/en-us/office/add-an-index-to-a-sharepoint-column-f3f00554-b7dc-44d1-a2ed-d477eac463b0)
-- Microsoft: [Manage large lists and libraries in SharePoint](https://support.office.com/en-us/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
+- Microsoft: [Adding an index to a SharePoint column](https://support.microsoft.com/office/add-an-index-to-a-sharepoint-column-f3f00554-b7dc-44d1-a2ed-d477eac463b0)
+- Microsoft: [Manage large lists and libraries in SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
 - Blog: [SharePoint Online List View Threshold](https://joannecklein.com/2017/07/25/sharepoint-online-list-view-threshold/)
 - Blog: [Deleting a Very Large SharePoint List](https://sympmarc.com/2017/03/27/deleting-a-very-large-sharepoint-list/)
 - Blog: [Predictive Indexing Comes to SharePoint](https://sympmarc.com/2017/11/08/predictive-indexing-comes-to-office-365-lists-and-libraries/)  
   
 ---
 
-**Principal author**: [Patrick M. Doran](http://www.linkedin.com/in/PatrickDoran)
+**Principal author**: [Patrick M. Doran](https://www.linkedin.com/in/PatrickDoran)
 
 ---

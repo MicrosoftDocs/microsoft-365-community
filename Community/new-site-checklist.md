@@ -2,10 +2,14 @@
 title: Site Builder/Owner - New Site Checklist
 ms.date: 3/3/2020
 author: nyoung30
-ms.reviewer: Joanne Hendrickson
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.service: sharepoint-online
 localization_priority: 
 description: "Site Builder/Owner: New Site Checklist"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 # Site Builder/Owner: New Site Checklist
 
@@ -17,8 +21,9 @@ The purpose of this guide is to help document the initial setup of a site and pr
 
 - [ ] Site build
     - [ ] Site information
+    - [ ] Site Ownership
     - [ ] Site permissions
-    - [ ] Site settings
+    - [ ] Site features
     - [ ] Document libraries
     - [ ] Lists
     - [ ] Apps
@@ -34,10 +39,17 @@ The purpose of this guide is to help document the initial setup of a site and pr
 - Title:
 - URL:
 - Type (Communication/Team):
+- Group enabled (Yes/No):
+- Teams enabled (Yes/No):
 - Description:
 - Hub site (Yes/No):
-- Joined to Hub site (Yes/No) :
+- Joined to Hub site (Yes/No):
     - HUB site name:
+
+### Site Ownership
+- Content Owner 1:
+- Content Owner 2:
+- Technical Owner: 
 
 ### Site permissions
 
@@ -82,15 +94,15 @@ The purpose of this guide is to help document the initial setup of a site and pr
 
 ### Document Libraries
 
-| Name        | Description   | Retention label applied | Sensitivity label applied |
-|-------------|---------------|-------------------------|---------------------------|
-| *New entry* | *Description* | *Retention label name*  | *Sensitivity label name*  |
+| Name        | Description   | Retention label applied | Sensitivity label applied | Content Types used  | Power Automate flow used  |
+|-------------|---------------|-------------------------|---------------------------|---------------------|---------------------------|
+| *New entry* | *Description* | *Retention label name*  | *Sensitivity label name*  | *Content type name* | *Workflow name* *trigger* |
 
 ### Lists
 
-| Name        | Description   |
-|-------------|---------------|
-| *New entry* | *Description* |
+| Name        | Description   | Content Types used  | Power Automate flow used  |
+|-------------|---------------|---------------------|---------------------------|
+| *New entry* | *Description* | *Content type name* | *Workflow name* *trigger* |
 
 ### Apps
 

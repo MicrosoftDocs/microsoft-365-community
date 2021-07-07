@@ -34,7 +34,9 @@ While we want the content in this repository to be extremely useful, it doesn't 
 
 ## Contributing
 
-This repository is sanctioned by Microsoft and therefore there are some contribution guidelines to follow. If you want to contribute directly, you need to have a Github account. But we know not all of you know how to use Github or want to learn. If you have ideas and would like to submit them outside Github, we will be coming up with mechanisms to cover those situations.
+This repository is sanctioned by Microsoft and therefore there are some contribution guidelines to follow. If you want to contribute directly, you need to have a Github account. But we know not all of you know how to use GitHub or want to learn. If you have ideas and would like to submit them outside GitHub, add a post to the [Discussions](https://github.com/MicrosoftDocs/microsoft-365-community/discussions) and we can work together to get your contribution into the repo. Check out the [Wiki articles](https://github.com/MicrosoftDocs/microsoft-365-community/wiki) for more details on the mechanics of contributing.
+
+---
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.microsoft.com.
 

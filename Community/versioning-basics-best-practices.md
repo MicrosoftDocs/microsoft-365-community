@@ -2,11 +2,16 @@
 title: Versioning in SharePoint
 ms.date: 7/01/2020
 author: PatD
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.service: sharepoint-online
 localization_priority: 
 description: "Versioning in SharePoint"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
+
 # Versioning in SharePoint
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
@@ -20,7 +25,6 @@ Emotionally, it reinforces the idea that SharePoint is a good place to store you
 SharePoint Lists items (data) and Library documents (files) have the ability to store, track, and *restore* the previous state of the item or document to how it was before a user changed it.
 
 Versioning creates a historical record of all changes, with the date/time and indication of the user who made the change, on a per-file/list item basis. The end user can view, delete, and restore a version if they have the correct permissions in the library or list.
-
 
 | To do this… | I need this permission… |
 |:-----|:-----|
@@ -55,10 +59,10 @@ In both products, Version History opens in a modal dialog box, with options to V
 
 Historically, versioning is not enabled by default at the creation of a list or library.  Recently, SharePoint Online has started enabling it by default in libraries when they're created.
 
-|            | Online                 | On-Premises             |
-| ----------| ---------------------- | ---------------------- |
-| Lists     | Not enabled at creation | Not enabled at creation |
-| Libraries  | Enabled at creation (and set to 500 versions)   | Not enabled at creation |
+|What| Online| On-Premises|
+|:------| :-----| :-----|
+|Lists| Enabled at creation (and set to 50 versions)| Not enabled at creation |
+|Libraries|Enabled at creation (and set to 500 versions)|Not enabled at creation|
 
 > [!Note]
 > **A Cautionary Tale:**
@@ -71,7 +75,7 @@ Libraries can have both Major versions, which are represented with whole numbers
 Lists usually only have Major versions.
 
 > [!NOTE]
-> When you create a new version of a document, [the incremental changes are stored in SQL Server](https://docs.microsoft.com/sql/relational-databases/track-changes/about-change-data-capture-sql-server?view=sql-server-2017), rather than a completely new copy of the document. This provides the most efficient storage and helps reduce overall storage requirements.
+> When you create a new version of a document, [the incremental changes are stored in SQL Server](https://docs.microsoft.com/sql/relational-databases/track-changes/about-change-data-capture-sql-server), rather than a completely new copy of the document. This provides the most efficient storage and helps reduce overall storage requirements.
 
 ## Best Practices and Versioning Trivia
 
@@ -81,6 +85,7 @@ Lists usually only have Major versions.
 * A deleted and then restored file/list item maintains its old versions.
 * In a list with versioning enabled, attachment changes are not versioned.
 * Limiting the number of versions is generally a good practice. It means you can conserve space on the server and reduce clutter for users. But, if your organization is required to save all versions for legal or other reasons, don’t apply any limits.
+* As best practice PST files should not be uploaded on OneDrive for Business and SharePoint Online team site document libraries due to the impact on storage. If PST files are uploaded the service will retain versions for 30 days.
 
 ### Further Reading
 

@@ -1,12 +1,17 @@
 ---
 title: SharePoint Usage Glossary
-ms.date:  3/3/2020
+ms.date: 9/2/2020
 author: sympmarc
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.prod: microsoft-365
 localization_priority: 
 description: "SharePoint Usage Glossary"
-ms.collection: SPCommunity
+ms.collection: M365Community
 ---
+
 # Microsoft 365 Glossary
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
@@ -27,7 +32,21 @@ An App is a term in SharePoint that means a packaged extension or customization 
 
 See [SharePoint Framework](#sharepoint-framework)
 
+### Application Lifecycle Management (ALM)
+
+Set of standards and processes to analyze, design, build, test and deploy a software solution. Modern ALM typically is an iterative process which allows for the incremental improvement and development and implementation of application features.
+
+### Azure Information Protection (AIP)
+
+A cloud solution that supports labeling of documents and emails to classify and protect information. Labeled items can be protected by encryption, marked with a watermark or restricted to specific actions or users and is bound to the item. This cloud based solution relies on Azure Rights Management Service (RMS) for enforcing restrictions.
+
+### Azure Active Directory (AAD)
+
+Azure Active Directory is the Microsoft 365 source for all identity management, and much more. For example, Microsoft 365 Groups and applications permissions are stored in AAD.
+
 ## B
+
+### Business Data Services (BDS)
 
 ## C
 
@@ -59,6 +78,10 @@ Some columns types, like Date and Choice, include ready made design templates. A
 
 See [SharePoint Framework](#sharepoint-framework)
 
+### Microsoft Dataverse
+
+[Microsoft Microsoft Dataverse](https://powerplatform.microsoft.com/common-data-service/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Microsoft Dataverse enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
+
 ### Communication Site
 
 A Communication Site is generally used to communicate from a smaller group to a larger group. For this reason, Communication Sites are often used in Intranets.
@@ -66,6 +89,18 @@ A Communication Site is generally used to communicate from a smaller group to a 
 ### Content Query Web Part
 
 The Content Query Web Part (CQWP) is a web part available in Classic SharePoint that allows rolling up of content across lists and sub sites. The content returned is limited to only the site collection the web part is in. This web part has been replaced by the Highlighted Content web part in Modern SharePoint which gets around the site collection limitation.
+
+### Content Type
+
+See: [What is a Content Type?](what-is-content-type.md)
+
+### Content Type Gallery
+
+The Content Type Gallery is the modernized view of the [Content Type Hub](#content-type-hub) in the SharePoint Admin Center's Content Services [Content type gallery](#content-type-gallery). It provides a modern view of the [Content Types](#content-type) defined there, and will eventually provide more sophisticated content management tools.
+
+### Content Type Hub
+
+The Content Type Hub is a Site Collection where you can manage [Content Types](#content-type) and [Site Columns](#site-column) which should be available across your entire tenant. The Content Type Hub is older technology and generally is used less than in the past, primarily because it is slow to publish and it published to all [Site Collections](#site-collection) in the tenant. There is a modernized view of the Content Type Hub in the SharePoint Admin Center's Content Services [Content Type Gallery](#content-type-gallery).
 
 ### Crawled Property
 
@@ -77,11 +112,27 @@ Improving specific aspects of SharePoint functionality by changing settings thro
 
 ## D
 
+### Data Loss Prevention (DLP)
+
+A set of policies for identifying, alerting and securing sensitive information types found in content across the Microsoft 365 platform.
+
+### Development Operations (DevOps)
+
+DevOps generally refers to both the automation of recurring processes and the improvement of those processes over time.
+
 ### Disaster Recovery (DR)
 
 The planning and practice of ensuring systems are available when a disaster occurs or that they can be restored as quickly as possible.
 
+### Document Library
+
+Document Libraries are a primary storage location in SharePoint and Microsoft Teams. A Document Library is a special type of [list](#list) where documents or other files are added as items, but no further file attachments can be added. Other files are added as separate entries in the library.
+
+By default, every file uploaded to a Document Library is created with a [Content Type](#content-type) of Document.
+
 ## E
+
+### eDiscovery
 
 ### Enterprise Content Types
 
@@ -113,11 +164,13 @@ A Group in SharePoint can generally refer to one of three things. It may mean:
 
 #### SharePoint Group
 
-  A container to organize users and other security groups. A SharePoint group can be assigned permission levels on an object such as a site, a library or library, a folder or a document (or page, or item). Generally only a Site Owner can manage who is in a SharePoint Group.
+  A container to organize users and other security groups. A SharePoint group can be assigned permission levels on an object such as a site, a list or library, a folder or a document (or page, or item). Generally only a Site Owner can manage who is in a SharePoint Group.
 
-#### Office Group
+#### Microsoft 365 Group
+  
+A Microsoft 365 Groups is a concept which lets the members of the Group easily collaborate. It provides a collection of resources such as a shared Outlook mailbox including a shared calendar, a SharePoint [Team site](#team-site) with a document library and a Notebook, as well as a Planner Board, a Power BI workspace and a Stream Video portal.
 
-  An Office 365 Group is a concept within Office 365 that allows users can be members of, which has it's own e-mail address, and can be associated to a Microsoft Teams team, or a SharePoint Site. A Microsoft Teams Team automatically creates an Office 365 Group. These can be public where anyone can join, or Private when you need to be invited or given a code to join. Permissions are simplified to only "Owners" or "Members".
+A Group is the foundation of a Microsoft Teams Team. A Team gives users within that Group channels to collaborate in the context that is relevant to their work and the ability to have scheduled and ad-hoc meetings. Teams can be public (they can be accessed by everyone inside of the organization), private (users need to be invited explicitly) or org-wide (everyone in the organization is automatically a member of this team). Roles and permissions are simplified to Owner (create, delete, manage memberships), Member (collaborate, create channels and add tabs) and Guest. Guests are outside of the organization and need to be added explicitly as an External User, otherwise they can't see nor access a Team. They can only work in the structure provided to them, which means they can't add tabs, apps or channels.
   
 #### Security Group
 
@@ -133,13 +186,15 @@ As with all web parts in SharePoint, this we part will only display content whic
 
 ### Home Site
 
-A Home Site is a special type of [Hub Site](#hub-site) with a few extra superpowers:
+A Home site is the top site of your intranet. It is a [Communication Site](#communication-site) with a few extra superpowers:
 
 * The Home Site is the destination for the home icon in the SharePoint mobile app.
 
-* The Home Site  provides an enterprise-wide search scope, making ALL content in your tenant findable.
+* The Home Site  provides an organization-wide search scope, making ALL content in your tenant findable.
 
-Home sites are intended for use as the landing page for your organization. There is only one Home Site per tenant allowed.
+* The Home Site  is set up as an [organization news site](https://docs.microsoft.com/sharepoint/organization-news-site).
+
+Home sites are intended for use as the landing page for your organization. There is only one Home Site per tenant allowed and [its set using PowerShell](https://docs.microsoft.com/SharePoint/home-site)
 
 ### Hub Site
 
@@ -153,7 +208,7 @@ In a development sense, idempotent means that code you run more than once with t
 
 ### Inheritance
 
-Inheritance refers to the cascading of default site permission levels (i.e. Owner, Member and Visitor) to site Document Libraries, Lists, Site Pages etc. 
+Inheritance refers to the cascading of default site permission levels (i.e. Owner, Member and Visitor) to site Document Libraries, Lists, Site Pages etc.
 
 Inheritance can be "broken" to allow for [unique permissions](#unique-permissions).
 
@@ -163,17 +218,17 @@ Inheritance can be "broken" to allow for [unique permissions](#unique-permission
 
 ### Known Folder Move (KFM)
 
-Known Folder Move (KFM) allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost.
+Known Folder Move (KFM) allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost. Known Folder Move is now known as [OneDrive PC Folder Backup](#onedrive-pc-folder-backup).
 
 ## L
 
 ### Library
 
-A library, typically used as a Document Library is a type of list where documents or other files are added as items, but no further file attachments can be added to the document item. Other files are added as separate entries in the library.
+See: [Document library](#document-library)
 
 ### Licensing
 
-Office 365 offers multiple licensing options (Kiosk, F1, E1, etc.), each of which turns on a different basket of capabilities for the user to whom the license is assigned.
+Microsoft 365 offers multiple licensing options (Kiosk, F1, E1, etc.), each of which turns on a different basket of capabilities for the user to whom the license is assigned.
 
 ### List
 
@@ -184,6 +239,10 @@ An item in a list can have multiple file attachments added. This is useful if yo
 A library is a type of list where documents or other files are added as items, but no further file attachments can be added.
 
 ## M
+
+### Metadata
+
+Generically, metadata means information about something else. In SharePoint metadata is additional information applied to documents, pages, or list items. We use metadata all the time in our lives, but rarely think of it as metadata. For example, the information we write on a file we put into a filing cabinet or the way we organize spices in the kitchen is driven by metadata.
 
 ### Managed Metadata
 
@@ -217,6 +276,10 @@ In programming, namespaces can be far more complex - like List.Fields within Mic
 
 On premises refers to running servers yourself, whether they are in your physical building, a data center where you rent space, or at a hosting company that runs servers specifically for you.
 
+### OneDrive PC Folder Backup
+
+This capability was originally called [Known Folder Move (KFM)](#known-folder-move-kfm). It allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost.
+
 ### Out of the box
 
 Capabilities included with SharePoint without writing any code or doing heavy lifting. Depending on who you talk to, this definition probably includes a level of [customization](#customization) including things like creating new sites, lists, and libraries.
@@ -243,11 +306,55 @@ Custom Permission Levels can be created for business-specific scenarios, such as
 
 See [Patterns and Practices](#patterns-and-practices-pnp)
 
+### Power Apps
+
+PowerApps is a low-code/no-code development platform that provides a means for both Citizen Developers and Pro-Developers to build custom apps for your business needs.
+
+Using PowerApps, you can quickly build custom business apps that connect to your business data stored either in the underlying data platform (Microsoft Dataverse) or in various online and on-premises data sources (SharePoint, Excel, Microsoft 365, Dynamics 365, SQL Server).
+
+### Power Automate
+
+Power Automate is a low-code/no-code workflow platform that helps you create automated workflows between your favorite apps and services to synchronize files, get notifications, collect data and more.
+
+Power Automate provides a means to quickly automate your workflows, enable business logic to simplify app building, and model your processes across connected data sources and services.
+
+### Power BI
+
+Power BI is Microsoft's Business Intelligence and Reporting application. It allows you to connect and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that’s easy to use and helps you gain deeper data insight.
+
+Power BI provides a simple, intuitive, easy to use experience for end users to create their own reports and dashboards.
+
+### Power Platform Data Loss Prevention
+
+A set of policies that can be applied to the Power Platform tenant or environment to prevent data leakage by grouping connectors deemed for business or personal use to be used together. Additionally, connectors can be blocked from any use and new connectors can be added by default to the business, personal, or blocked group as needed. Custom connectors can also be classified at the environment level.
+
 ### PowerShell
 
 [PowerShell](https://docs.microsoft.com/windows-server/administration/windows-commands/powershell) is an automation scripting language from Microsoft, which was originally only available on Windows devices, and built on top of the .NET Framework. Since 2016, we also have [PowerShell Core](https://github.com/PowerShell/PowerShell) which is open-source, cross-platform, and built on top of .NET Core.
 
 The version that ships on Windows devices is called Windows PowerShell, and the cross-platform version is called PowerShell Core, and is also available on Windows.
+
+### Power Platform Environment
+
+A Power Platform Environment is a container that administrators can use to manage apps, automations, connections, and other assets; along with permissions to allow organizational users to use the resources.
+
+There are multiple types of environments that an organization can create (Developer, Sandbox, Production). The type indicates the purpose of the environment and determines its characteristics.
+
+### Power Virtual Agents (PVA)
+
+Power Virtual Agents (PVA) empowers organizations to create powerful bots using a guided, no-code graphical interface without the need for data scientists or developers.
+
+Using Power Virtual Agents, you can:
+
+* Empower your teams by allowing them to easily build bots themselves without needing intermediaries, or coding or AI expertise.
+* Reduce costs by easily automating common inquiries and freeing human agent time to deal with more complex issues.
+* Improve customer satisfaction by allowing customers to self-help and resolve issues quickly 24/7 using rich personalized bot conversations.
+
+### Microsoft Dataverse for Teams
+
+[Microsoft Dataverse for Teams](https://powerapps.microsoft.com/blog/introducing-microsoft-dataflex-a-new-low-code-data-platform-for-microsoft-teams/) is a built-in, low-code data platform for Microsoft Teams, and provides relational data storage, rich data types, enterprise grade governance, and one-click solution deployment for Power App solutions built for, and within Microsoft Teams.
+
+**Microsoft Dataverse for Teams** is built upon Microsoft Dataverse, and provides a 'lite' version equivalent, for free, under the existing licensing requirements of Microsoft 365.
 
 ## Q
 
@@ -264,7 +371,7 @@ More complex roll ups are also possible using the [Highlighted Content Web Part]
 
 ### Root Site
 
-The base address in a web application or tenant for the first SharePoint Site collection. Typically, defined without use of managed paths ("/sites/" or "/teams/"), for example https://mytenant.sharepoint.com or http://sharepoint
+The base address in a web application or tenant for the first SharePoint Site collection. Typically, defined without use of managed paths ("/sites/" or "/teams/"), for example <https://mytenant.sharepoint.com>. In an on-site installation, there may be a vanity URL in place, such as <https://sharepoint> or <https://intranet>.
 
 ## S
 
@@ -272,11 +379,21 @@ The base address in a web application or tenant for the first SharePoint Site co
 
 The Search Schema refers to the customizable data dictionary used by SharePoint Search to allow users to query for and return specific information from SharePoint using the available Search tools, such as the Search Results web part in Classic SharePoint or the Search REST API.
 
+### Sensitive information type
+
+A defined pattern of data that can be identified in order to be protected by DLP or sensitivity labels. Common examples include social security numbers, credit card numbers but can also include any type of data considered sensitive by the organization that matches a pattern.
+
 ### Site
 
 In modern SharePoint, a site refers to a modern site. (In classic SharePoint, the term was often used for both sites and sub-sites.)
 
 To developers, a "Site" is a [Site Collection](#site-collection), whereas a "web" is a site. Confusing!
+
+### Site Column
+
+A Site Column is a metadata column that has been defined at the [site](#site) level. Site Columns are available for use in any list or library in the site where it is defined. Site Columns also become Crawled Properties (See: [How Do Site Columns Become Managed Properties - Thus Available for Search](how-do-site-columns-become-managed-properties-thus-available-for-search.md)) which can be used to improve search effectiveness.
+
+Also see: See: [What is a CSite Column?](what-is-site-column.md)
 
 ### SharePoint Home Page
 
@@ -378,7 +495,7 @@ The most common settings we use in views allow us to:
 
 ### View Formatting
 
-View Formatting is a SharePoint feature that allows users to customize the display of rows in Lists using JSON code. Like [Column Formatting](#column-formatting), colors, icons, images and other elements are used to highlight content and improve the user experience. 
+View Formatting is a SharePoint feature that allows users to customize the display of rows in Lists using JSON code. Like [Column Formatting](#column-formatting), colors, icons, images and other elements are used to highlight content and improve the user experience.
 
 ## W
 

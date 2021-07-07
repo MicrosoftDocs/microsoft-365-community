@@ -2,29 +2,33 @@
 title: SharePoint Naming Guidelines
 ms.date: 3/3/2020
 author: pkbullock
-ms.reviewer:  Joanne Hendrickson
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.service: sharepoint-online
 localization_priority: 
 description: "SharePoint Naming Guidelines"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
 
 # SharePoint Naming Guidelines
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-This article describes some useful guidance in naming artefacts such as sites, lists, columns and content types; this helps to avoid issues later with either technical limits, adoption and best practice.
+This article describes some useful guidance in naming artifacts such as sites, lists, columns and content types; this helps to avoid issues later with either technical limits, adoption and best practice.
 
 The article uses an example: an HR department requiring a SharePoint site with a set of libraries and metadata; from this, a set of examples uses this scenario.
 
 ## Basics
 
-### Avoid highly generalised words
+### Avoid highly generalized words
 
-When naming artefacts, it is most helpful to be descriptive to the content that the artefact that is referring to on creation - this help users know what the site is for, what data they are expecting to populate, for example, avoid terms that are too generalised like "stuff", "other", "information". These words don't mean anything to the user because it lacks specific meaning and invites users to overuse or place unexpected content into the artefact.
+When naming artifacts, it is most helpful to be descriptive to the content that the artefact that is referring to on creation - this help users know what the site is for, what data they are expecting to populate, for example, avoid terms that are too generalized like "stuff", "other", "information". These words don't mean anything to the user because it lacks specific meaning and invites users to overuse or place unexpected content into the artefact.
 
 ### Use descriptions
 
-For artefacts, there is the option to include a description; this can provide the users with more information about the location they are storing data and the type of data you require them to complete.
+For artifacts, there is the option to include a description; this can provide the users with more information about the location they are storing data and the type of data you require them to complete.
 
 It might sound obvious, but this not often done, if the type of metadata isn't immediately apparent what kinds of information that might be stored, then these provide guidance to aid users to understand what this is for and what you expect them to complete - if possible provide an example.
 
@@ -35,6 +39,7 @@ Creating a column sets the following:
 - Display name - when you enter a name, this is your input.
 - Internal name - system reference to the column
 - Multilingual alternatives for your display names.
+
 
 ### Display Names
 
@@ -89,8 +94,8 @@ When naming your libraries, points to consider:
 - Using short names or setting titles with characters and spaces in mind: **finance-hr-combined-strategic-team-collaboration-area**
 - Remove any unnecessary or noise words such as area, team, combined; this keeps the URL shorter: **finance-hr-strategic-collaboration**
 - Once created, you can rename the title to be in the originally descriptive manner with a clean URL.
-- URL length is a premium, your tenant organisation name, site URL, library URL all lower the amount of URL space remaining for folders and document titles.
+- URL length is a premium, your tenant organization name, site URL, library URL all lower the amount of URL space remaining for folders and document titles.
 
 ---
 
-**Principal author**: [Paul Bullock](http://www.linkedin.com/in/pkbullock)
+**Principal author**: [Paul Bullock](https://www.linkedin.com/in/pkbullock)

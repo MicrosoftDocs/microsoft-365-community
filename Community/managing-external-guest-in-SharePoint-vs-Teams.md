@@ -1,12 +1,17 @@
 ---
 title: Managing External Guests in SharePoint vs Teams
-ms.date: 3/3/2020
-author: sympmarc
-ms.reviewer: Joanne Hendrickson
+ms.date: 7/31/2020
+author: jimmyhang
+ms.reviewer: efrene
+manager: pamgreen-msft
+ms.topic: article
+ms.author: efrene
+ms.service: sharepoint-online
 localization_priority: 
 description: "Managing External Guests in SharePoint vs Teams"
-ms.collection:  SPCommunity
+ms.collection: M365Community
 ---
+
 # Managing External Guests in SharePoint vs Teams
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
@@ -110,22 +115,21 @@ Imagine you have a "Private Project Team", that is restricted to members, and yo
 
 ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest09.png)
 
+## Block guest access to certain Teams
 
-## Block guest access to certain Teams 
 Now and then you will need to make sure that Guest users can't be invited to a certain Team by accident, for example the HR or Finance Team. 
 
 Follow the guide below to achieve this, as pr. my knowledge you will need Global administrator right to achieve this.
 
-
 * [Block guest access to Team](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide#block-guest-users-from-a-specific-group)
-
 
 ## Useful resources
 
 * [Manage guest access in Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 * [Adding guests to Office 365 Groups](https://support.office.com/article/adding-guests-to-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-------
+---
 
 **Principal author**: [Jimmy Hang, MCT, MCSE: Productivity](https://www.linkedin.com/in/jimmyhang)
 
+---
