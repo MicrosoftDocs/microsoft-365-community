@@ -1,7 +1,7 @@
 ---
 title: Understanding Power Platform Licensing
 author: bigpix2000
-date: 4/12/2021
+date: 7/9/2021
 manager: pamgreen-msft
 ms.topic: article
 ms.author: efrene
@@ -45,7 +45,7 @@ Before going through the guidance, it is important to refer to the ultimate auth
 
 There are two important things to note in that PDF download.  
 
-First is that changes from the previous versions will be noted in an appendix (currently appendix c) and should be the first point of reference after reading through articles such as this one or asking questions related to Apps, Flow or Bot changes since their implementation.  
+First is that changes from the previous versions will be noted in Appendix C, the Change Log, and should be the first point of reference after reading through articles such as this one or asking questions related to Apps, Flow or Bot changes since their implementation.  
 
 The second item to note is that one will never see prices here as those will always be region specific in addition to being subject to specific customer licenses in general and directly with Microsoft or through a third party vendor. Prices and changes in prices will always reflect the underlying information contained in the download but be aware that not all tenants' Billing administrations screens will have a clear association as those screens may, for various reasons, contain important references to previous or deprecated products.
 
@@ -53,7 +53,7 @@ The second item to note is that one will never see prices here as those will alw
 
 The most important concept that potentially simplified most licensing questions is the one of "Is it included with my Office 365/Dynamics 365 License?".
 
-"Seeded" in this case relates specifically for "inclusion" to another license type even though, technically, Power Platform systems will always run in context of an Office 365 tenant and have "limited use rights" which is a specification of what may be done at that level.  "Standalone" in this case means the license is not reliant on the other license type and it typically infers access to many more services that what is included with the main tenant.  
+"Seeded" in this case relates specifically for "inclusion" to another license type even though, technically, Power Platform systems will always run in context of a Microsoft 365 tenant and have "limited use rights" which is a specification of what may be done at that level.  "Standalone" in this case means the license is not reliant on the other license type and it typically infers access to many more services that what is included with the main tenant.  
 
 Since the rules for the tenant license type may change, it is recommended that a monthly review of Appendix B in the latest version of the license guide should be checked.  On that note, guidance offered as of this publication is that there has not been a significant change in the license types that are counted for inclusion and as of March 2021, the following license types are the main exceptions for general, limited use rights:
 
@@ -76,13 +76,15 @@ With that noted, business requirements and necessity will always drive the solut
 
 ### Power Apps "per app" versus "per user"
 
-The question of scale in Power Apps is the difference of accommodating a single user to utilize a single app or unlimited apps. In the United States, the price point difference on a monthly basis is 4 times ($10/month/"one" app  versus $40/month/unlimited apps). Although there is a capacity limited which will be discussed later, the main nuance is that a "one app" package is actually two apps in any combination of canvas or model applications. This can make a major difference as one would be counting pairs of application for each license and certainly sway a decision where there are only a few applications actually required.  
+The question of scale in Power Apps is the difference of accommodating a single user to utilize a single app or unlimited apps. In the United States, the price point difference on a monthly basis is 4 times ($10/month/"one" app  versus $40/month/unlimited apps before October 2021 and $5/month/single app  versus $20/month/unlimited apps volume discounts notwithstanding). Although there is a capacity limited which will be discussed later, there is a key nuance that will be eliminated after October 2021 which is the case of "one app" package being two apps in any combination of canvas or model applications for the "single app" per use license. 
 
-The case of the "per user" license, sometimes called the "All you can eat Buffet" plan, now becomes a question whether the user will be one requiring more than 6 applications or if there is a need for more capacity or services such as the ability to access an "unlimited number" of custom portals or having more Dataverse space and make more API requests in a day.  The latest licensing guide will always clarify those differences as well as any new included features.  It is important to remember that per app or per user does not limit the number of premium connectors that may be used but costs specific to those connectors will still apply.
+Although technically the price change reflects the same price for the single app, they key change to consider is that the unlimited version implies a signigicant price decrease when scaling out the usage and even for small groups to implement features such as the Center of Excellent Start Kit in its proper, non-trial form.  The choice of per app per user versus umlimited per user becomes easier to distinguish when the nuance is removed and limits the rest of the choices to decisions about capacity or services such as being able to access an "unlimited number" of custom portals or having more Dataverse space and make more API requests in a day.  The latest licensing guide will always clarify those differences as well as any new included features.  
+
+It is important to remember that per app or per user does not limit the number of premium connectors that may be used but costs specific to those connectors will still apply.
 
 ### Power App with Power Automate
 
-In the original introduction of the new licensing and as a consequence of the older model, it was thought that a separate license would be required for a Power App to use A Power Automate Flow when, in fact, it is only the cost of the Power App that will apply even if the Premium connector is only accessed via the flow.  The key guidance here is to understand the use case of the flow itself whether it is created to service the app or if it is the type that is expected to be shared or used outside of the application as it will then be a case of selecting the appropriate Power Automate license.
+In the original introduction of the new licensing and as a consequence of the older model, it was thought that a separate license would be required for a Power App to use a Power Automate Flow when, in fact, it is only the cost of the Power App that will apply even if the Premium connector is only accessed via the flow.  The key guidance here is to understand the use case of the flow itself whether it is created to service the app or if it is the type that is expected to be shared or used outside of the application as it will then be a case of selecting the appropriate Power Automate license.
 
 ### Dataverse
 
@@ -124,11 +126,11 @@ Storage and Capacity are considered tenant wide resources and when deciding cost
 
 ### Trials and Free Services
 
-A question that has arisen for users who want to evaluate or learn elements of the Power Platform is how much that effort may cost and it may sometimes be a hindrance to those outside the people specifically licensed.  It is important to note that there are always trials and services provided by Microsoft to mitigate this from direct 30 day trials using the Power Platform to implementing a personal environment via the technical community resources as well as to obtaining a personal Developer Tenant where the user has nearly all the power as an E5 tenant level organization.  The ability to move what has been learned or separately developed into the production organization is being enhanced constantly by Microsoft and the community, the latter of which provides not just samples but process knowledge and guidance. Checking in with a community contributor on whether a solution has a license impact is a good way to fast track decision making in this regard especially if significant time has passed since the contribution.
+A question that has arisen for users who want to evaluate or learn elements of the Power Platform is how much that effort may cost and it may sometimes be a hindrance to those outside the people specifically licensed.  It is important to note that there are always trials and services provided by Microsoft to mitigate this from direct 30 day trials using the Power Platform to implementing a development environment via the technical community resources as well as to obtaining a personal Developer Tenant where the user has nearly all the power as an E5 tenant level organization.  The ability to move what has been learned or separately developed into the production organization is being enhanced constantly by Microsoft and the community, the latter of which provides not just samples but process knowledge and guidance. Checking in with a community contributor on whether a solution has a license impact is a good way to fast track decision making in this regard especially if significant time has passed since the contribution.
 
 The important piece to note in this concept is that although there will always be ways to "try things out", those ways will have limitations, the least being time.  A Developer tenant user will still need to pay for the use of Power Platform after the specific trial period is over and even though the current policy for the tenant may be an automatic 90 day renewal based on usage.  Taking advantage of "free" services is certainly recommended but it is good to keep a close eye on articles like this to be prepared for costs that may have to be incurred.  
 
-See the guidance section below on more information using the Community Plan.
+See the guidance section below on more information using the Developer Plan.
 
 ### The Power Virtual Agent Subscription
 
@@ -146,13 +148,19 @@ Some guidance has been covered as part of the Core Concepts discussions of the p
 
 If you need Dataverse, let your Power Automate flows and Power Apps live in Microsoft Teams, because this way you can use the power of Dataverse as Dataverse for Teams which means that the license is included in your Microsoft 365 license. You should pick Dataverse for Teams over other other premium connectors, especially in enterprise-scale applications, because it is the preferred way to store your data, see also [Considerations for optimized performance in Power Apps](https://powerapps.microsoft.com/blog/considerations-for-optimized-performance-in-power-apps/). When you are very experienced in Microsoft 365, you will probably consider to store data in SharePoint lists, also as SharePoint is a standard connector, which means that you don't need a Power Apps Standalone license, but Dataverse has more capability, is faster and doesn't have issues like "only 12 complex columns in one view", 5000 items threshold and more.
 
-### To learn Power Platform, use the Community Plan
+### To learn Power Platform, use the Developer Plan
 
-There is a [free Community Plan to learn Power Platform](https://powerapps.microsoft.com/communityplan/). You are not allowed to use it in production, but can try out things and have access to all premium connectors. You can use this free community plan also in a free [Microsoft 365 developer tenant](https://developer.microsoft.com/microsoft-365/dev-program).
+There is a [free Developer Plan to learn Power Platform](https://powerapps.microsoft.com/developerplan/). This was formerly a community plan that was limited to personal use with the updated version geared to work with a small team albeit not allowed for use in production. With it, premium connectors are available but there will be specific limitations especially with capacity. This is demonstrated in attempts to install the Center of Excellence Starter Kit into an environment created with the developer plan where required starter flows will fail to run as the Power Apps licence, either as a true trial or as production will be required.  
 
-### Think Governance early with COE
+Please note that you can use this plan in a free [Microsoft 365 developer tenant](https://developer.microsoft.com/microsoft-365/dev-program) but the caveats of capacity may require at least one paid license.
 
-The Center Of Excellence (COE) Solution available from Microsoft and support with input from the community is an excellent way to control and manage not just the solutions but the costs related to licensing.  It ironically requires a license to run since it uses and needs Dataverse outside of Microsoft Teams and although it could modified to mitigate the cost, the strong recommendation is use it as it is designed if your organization anticipates adoption beyond a few power users or key developers.  
+### Think Governance early with Center of Excellent Starter Kit (CoE)
+
+The [Center Of Excellence (CoE)](https://powerapps.microsoft.com/en-us/developerplan/) Solution available from Microsoft and supported by the community is an excellent way to control and manage not just the solutions but the costs related to licensing.  As stated earlier, it requires a license to run because many of its functions exceed the limitations allowed by the "free" version of dataverse in teams or a developer plan environment. The features go well beyond tracking and management especially in medium to large organizations that want to mature in the use of the technology through adoption, fusion development and solution reusability. 
+
+For the purposes of licensing guidance, key reports included specifically note active and inactive environmentments, applications, flows and license seats and the ability for admininstrators to quickly maintain things at the tenant level. Using the kit to the full potential or a similar system from the markateplace is highly recommended.  
+
+For the purposes of learning the Power Platform in a Developer tenant by an individual, the license cost could be considered a very important decision.  Guidance suggests groups team up on a tenant to spread the cost or else weigh the current situation that a trial will give you only 30 days to work with the kit in a "live" environment.  Beyond that, it is a case of the more advanced Power Platform developer to leverage the kit's source code available in GitHub and make the changes to mitigate as much of the functionality as possible, e.g. changing data sources from Dataverse to SharePoint or throttling the data gathering purposely to fall within capacity limits.     
 
 ### Deciding to use Premium Connectors over Standard Connectors - Pricing your solution
 

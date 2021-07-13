@@ -107,7 +107,7 @@ Users will be signed out from all Microsoft 365 services with a time specified, 
 * *Exchange ActiveSync*
 * *Exchange Online PowerShell*
 * *Exchange Web Services*
-* *IMPA4*
+* *IMAP4*
 * *MAPI over HTTP (used by Outlook 2010 and later)*
 * *Offline Address Book*
 * *Outlook Anywhere (RPC over HTTP)*
