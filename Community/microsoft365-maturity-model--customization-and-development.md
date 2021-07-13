@@ -32,7 +32,7 @@ This competency considers the management and governance processes required for d
 
 The concepts of customization and development have evolved over the lifespan of Microsoft 365 and the IT landscape in general. In the early days of SharePoint, for example, almost all organizations found themselves developing Pro Code solutions to make the platform work well for them. Fast forward to today, and Microsoft 365 offers a wide variety of apps and services that meet many needs right out of the box or with minimal configuration.
 
-Our ability to extend the platform has changed significantly as well. Rather than writing code that is packaged and deployed to the server, almost all custom development for Microsoft 365 is done using client-side scripting, extensions via SaaS platforms like Microsoft Azure, or some combination. The SharePoint Framework (SPFx) allows us to build solutions for SharePoint, Microsoft Teams, Microsoft Outlook, and potentially other products in the future, potentially extending to other products in the Microsoft stack. Further the Office Add-In model also uses client-side scripting methods to extend Office applications. And finally the Microsoft Graph gives us an API layer that exposes much of the Microsoft 365 landscape to help build robust and integrated solutions across the workloads.
+Our ability to extend the platform has changed significantly as well. Rather than writing code that is packaged and deployed to the server, almost all custom development for Microsoft 365 is done using client-side scripting, extensions via SaaS platforms like Microsoft Azure, or some combination. The SharePoint Framework (SPFx) allows us to build solutions for SharePoint, Microsoft Teams, Microsoft Outlook, and potentially other products in the future, potentially extending to other products in the Microsoft stack. Further the Office Add-In model also uses client-side scripting methods to extend Office applications. And finally, the Microsoft Graph gives us an API layer that exposes much of the Microsoft 365 landscape to help build robust and integrated solutions across the workloads.
 
 These days, the question is as much *whether* to customize as it is *how* to customize. Custom coding absolutely has its place in Microsoft 365, but in many cases the platform provides robust tools which only require some configuration to meet your needs.
 
@@ -128,7 +128,7 @@ Different types of development are recognized as occurring, but there are tensio
 
 Staff are frustrated with poor functionality but have no mechanism for requesting or implementing change.
 
-- Development is characterized by _build to live, though there may be some testing and control within that environment._
+Development is characterized by _build to live, though there may be some testing and control within that environment._
 
 **[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
@@ -172,7 +172,7 @@ At this level you can expect the following:
 
 - Money is wasted on development when other approaches using low-code or no-code could be used to achieve similar results.
 - Inconsistent delivery approaches.
-- The quality of developed solutions is low and those solutions struggle for adoption.
+- The quality of developed solutions is low, and those solutions struggle for adoption.
 - There are issues when deployments occur as deployments are not repeatable and cannot be practiced.
 
 ### Level 300
@@ -213,7 +213,7 @@ Staff are generally satisfied with functionality but struggle to consistently ge
 
 - There is an appreciation of the limits of the no-code approach, low-code, and pro-code approaches. Needs that trigger a transition from one approach to another are often identified and options for delivering extended needs or features with pro code are understood. This is often based on business need with measurable return on investment.
 - Good practice is understood by a core of experts and is used to guide solution development. There is a recognition of the roles of no-code and low-code alongside pro-code approaches. The 80/20 rule is increasingly applied, using out of the box functionality that is good enough to provide utility, often adapting a process to accommodate Out of the Box (OOTB) functionality rather than build customer solutions.
-- Build is focused on solutions that represent the organization's &quot;special sauce,&quot; delivering the highest impact.
+- Build is focused on solutions that represent the organization's &quot;special sauce&quot;, delivering the highest impact.
 - There is understanding around technical debt and how to service it.
 - Systems are delivered which are documented and can be managed, maintained, and supported.
 - The pro development team and citizen developer community understand how to build solutions on the Microsoft 365 platform. Resources from Microsoft and the community are used to enhancing their knowledge. Pro developers and citizen developers support each other.
@@ -294,7 +294,7 @@ Staff are able to work efficiently across the spectrum of solutions and adopt ne
 At this level you can expect the following:
 
 - Higher quality applications and systems are delivered.
-- Design standards mean that users can pick up the application more easily,boosting adoption.
+- Design standards mean that users can pick up the application more easily, boosting adoption.
 - Applications meet the needs of their users due to the user centered design approach.
 
 ### Level 500
@@ -368,7 +368,7 @@ Examples of benefit include:
 - Improving consistency when delivering content to customers.
 - Enabling innovation within the organization.
 - Increased employee satisfaction (employees get to work on the tasks that provide the most value that computers cannot deliver).
-- Decreased &quot;time to productivity' with new systems: reduced training costs and faster cycle times.
+- Decreased &quot;time to productivity&quot; with new systems: reduced training costs and faster cycle times.
 - Reducing corporate risk.
 
 The cost of development is expensive and can be controlled by only embarking on projects that really need it and provide value. Additionally, moving development from pro code to low code when appropriate will help increase the value and innovation.
@@ -385,7 +385,7 @@ Customization and Development is an essential ingredient to get the most value f
 
 Organizations should minimize customization and development unless it provides accompanying value. It should be used for essential business functions where the platform does not provide the required feature set. The activity should be measured and ensure that it provides significant return on investment.
 
-Traditionally, organizations have treated no code and low code approaches as 'second class citizens' to pro code. In maturing organizations, however, each approach has a part to play and the right blend can create an integrated approach to addressing business using a code-continuum. As silos and 'code-snobbery' are reduced, opportunities to improve standardization, development efficiency/assurance and to provide increased rapidity or cadence on delivery of solutions to the business improve.
+Traditionally, organizations have treated no code and low code approaches as 'second class citizens' to pro code. In maturing organizations, however, each approach has a part to play, and the right blend can create an integrated approach to addressing business using a code-continuum. As silos and 'code-snobbery' are reduced, opportunities to improve standardization, development efficiency/assurance and to provide increased rapidity or cadence on delivery of solutions to the business improve.
 
 When development is performed it needs to be done in a way which reduces the risk to the organization. So, implementing source code repositories to backup code and ensure that the developers are productive. This is important as too often there are stories where an organization has a solution which is used but they have lost the source code.
 

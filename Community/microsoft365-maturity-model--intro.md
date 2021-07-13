@@ -40,7 +40,7 @@ Around the time SharePoint 2010 was released, [Sadie Van Buren](https://www.link
 - Improve their capabilities in tangible ways by progressing to the next level
 - Compare their organization to their peers based on quantified surveys
 
-The SPMM was, of course, focused squarely on SharePoint. At the time, SharePoint was exclusively an on premises product and generally stood alone, unless you did a lot of work to change things. The *principles*, however, remain valid.
+The SPMM was, of course, focused squarely on SharePoint. At the time, SharePoint was exclusively an on-premises product and generally stood alone, unless you did a lot of work to change things. The *principles*, however, remain valid.
 
 The tools have changed, but we still see similar levels of capability when using Document Libraries:
 
@@ -76,7 +76,7 @@ Process management includes deliberate process optimization/improvement. The foc
 
 Management of the processes includes deliberate and systematic process improvement/optimization. There is focus is on continual improvement through both incremental and innovative technological changes/improvements. The Optimizing level is likely to include automation, reduction in manual tasks and associated variability, strong governance and compliance interventions as well as optimization for user interactions and productivity.  
 
-Not every organization needs to be at the top level. NASA or Airbus have different goals, constraints, and risks to manage than a small marketing or retail organization. Not every department, team or function needs to be at the same level; Operations often needs to function with higher levels of maturity than, for example, Sales and this is reflected in their respective technology strategy and investment. As with any organizational capability, the organization should decide if the capability should be a strategic differentiator or simply a basic operational capability based on the organizational strategy. The former may require optimized and foolproof capabilities, where the latter only requires relative efficiency.
+Not every organization needs to be at the top level. NASA or Airbus have different goals, constraints, and risks to manage than a small marketing or retail organization. Not every department, team or function needs to be at the same level; Operations often needs to function with higher levels of maturity than, for example, Sales and this is reflected in their respective technology strategy and investment. As with any organizational capability, the organization should decide if the capability should be a strategic differentiator or simply a basic operational capability based on the organizational strategy. The former may require optimized and fool proof capabilities, where the latter only requires relative efficiency.
 
 ## Maturity Model for Microsoft 365 summary
 
@@ -87,7 +87,7 @@ In developing a maturity model for Microsoft 365 we aimed to create a toolkit wh
 - Non-partisan, i.e. informed by but not driven by today’s features in any specific platform
 - Led by business needs rather than technology features
 - Identifies key business *and- technical competencies
-- Enables organizations to evaluates the current state in a systematic and consistent way
+- Enables organizations to evaluate the current state in a systematic and consistent way
 - Applicable to various roles in the organization
 
 A short version of the 5 levels can be described as:
@@ -133,7 +133,7 @@ Documented, policy-driven, planned, controlled, stable
 
 #### Level 200 - Keywords
 
-Routine, legacy, fire-fighting, variable, personally managed
+Routine, legacy, firefighting, variable, personally managed
 
 ### Level 100 - Initial
 

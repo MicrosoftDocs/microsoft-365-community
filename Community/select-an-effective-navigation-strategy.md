@@ -1,6 +1,6 @@
 ---
 title: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
-ms.date: 7/31/2020
+ms.date: 07/07/2021
 author: skaggej
 ms.reviewer: efrene
 manager: pamgreen-msft
@@ -31,7 +31,7 @@ A modern site is either a team site or a communication site. Each has its own op
 
 ### Communication Site Navigation Notes
 
-- Page at ~sitecollection/layouts/15/topnav.aspx has no effect
+- Page at ~sitecollection/_layouts/15/topnav.aspx has no effect
 - Top navigation supports up to 3 levels
 - Top navigation can be configured as cascading drop-downs or as a mega menu
 - No left navigation

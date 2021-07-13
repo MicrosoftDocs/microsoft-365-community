@@ -48,7 +48,7 @@ The solution for which channels to use can vary depending on the size of your or
 
 ## Evolution of this competency
 
-See the Maturity [Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
+See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
 
 ### Level 100
 

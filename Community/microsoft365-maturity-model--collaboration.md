@@ -46,7 +46,7 @@ Every organization can choose how best to use the Microsoft 365 platform for col
 
 ## Evolution of this competency
 
-See the Maturity [Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
+See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
 
 From the days of a knowledge management focus - from which much of the current thinking about collaboration has sprung - we have the paradigm of data turning into information, then into knowledge, then into insight, then into wisdom. Some organizations were able to move along that path, and others were not.
 
@@ -249,7 +249,7 @@ At this level, many transactional actions are automated to ensure consistency an
 - There is specific focus on optimizing collaborative activity to enhance productivity, minimize cost and risk.
 - Collaborative work is a strategic element of the organization’s culture.
 - External partners are supported in adopting collaborative approaches.
-- Legacy ways of working are actively replaced or removed through a active continuous improvement.
+- Legacy ways of working are actively replaced or removed through an active continuous improvement.
 
 #### Impacts
 

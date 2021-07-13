@@ -48,7 +48,7 @@ Every organization can choose how best to use the Microsoft 365 platform for com
 
 ## Evolution of this competency
 
-See the Maturity [Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
+See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
 
 ### Level 100
 
@@ -84,7 +84,7 @@ At this level you can expect the following:
 - Lack of consistency
 - Inability to meet compliance requirements if any are in place
 - Poor communication reach, limited engagement, and low levels of awareness.
-- Gaps in coverage - not everyone who needs to sees all relevant content.
+- Gaps in coverage - not everyone who needs to see all relevant content.
 - Poorly considered, incorrect and misleading communications
 
 ### Level 200
@@ -134,7 +134,7 @@ The process is well defined and agreed as a standard business process. There are
 
 - Different communication mechanisms/channels are understood at an organizational level and often used effectively by staff
 - The purpose of different types of communication are considered and understood and appropriate strategies are defined for different categories and constraints.
-- The portfolio of communication options is broader and a clear set of rules determine which to use for specific content types
+- The portfolio of communication options is broader, and a clear set of rules determine which to use for specific content types
 - Mechanisms exist for sharing localized messages with other parts of the organization; these are based on author judgement
 
 #### Content
@@ -148,7 +148,7 @@ The process is well defined and agreed as a standard business process. There are
 
 At this level, there is a stated strategy for communication that is understood and supported at executive level. This encompasses the many types of communication, with different purposes, approaches, and audiences.  Communication is widely accessed and is broadly effective. There are mechanisms with agreed processes for centrally delivering the common communications needs using images and templated layouts.
 
-Users experience  consistency in core communication and know where to go for specific information. They can use feedback mechanisms, and most people can access what they need regardless of device, location etc.  Less common scenarios are somewhat overlooked, ad hoc or lacking consistency. Higher priority/importance communications can be prioritized, so that they are not lost in the ‘noise’. It is possible to sequence communications, allowing planned campaigns and timed release of information.
+Users experience consistency in core communication and know where to go for specific information. They can use feedback mechanisms, and most people can access what they need regardless of device, location etc.  Less common scenarios are somewhat overlooked, ad hoc or lacking consistency. Higher priority/importance communications can be prioritized, so that they are not lost in the ‘noise’. It is possible to sequence communications, allowing planned campaigns and timed release of information.
 
 ### Level 400
 
@@ -210,7 +210,7 @@ Management of the communication process includes deliberate and systematic proce
 
 #### Impacts
 
-At this level, the ROI to the organization is demonstrable, and all users feel they have a voice through feedback mechanisms and content submission channels.  The system supports communication governance so users don’t need to remember the rules, making interactions more intuitive and lightweight.
+At this level, the ROI to the organization is demonstrable, and all users feel they have a voice through feedback mechanisms and content submission channels.  The system supports communication governance, so users don’t need to remember the rules, making interactions more intuitive and lightweight.
 
 ## Scenarios
 
