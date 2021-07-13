@@ -6,6 +6,23 @@
 
 Note: Changelog started in January, 2021
 
+## July, 2021
+
+### New Articles - July, 2021
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - July, 2021
+
+| Article | Updated By |
+|---|---|
+| [Team Site vs. Communication Site: Which one should I choose?](./Community/team-site-or-communication-site.md) | [Susan Hanley](https://www.linkedin.com/in/susanhanley/) |
+| [A Guided Tour Designed to Help You Select an Effective Navigation Strategy?](./Community/select-an-effective-navigation-strategy.md) | [Prasad Kasireddy](https://www.linkedin.com/in/prasadkasireddy/) |
+| [Understanding Power Platform Licensing](./Community/powerplatformlicensingforcitizendeveloper.md) | [Ralph Rivas](https://www.linkedin.com/in/ralphrivas/) |
+
+### New Contributors - July, 2021
+
 ## June, 2021
 
 ### New Articles - June, 2021
