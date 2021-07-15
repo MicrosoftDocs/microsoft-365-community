@@ -21,6 +21,8 @@ Note: Changelog started in January, 2021
 | [A Guided Tour Designed to Help You Select an Effective Navigation Strategy?](./Community/select-an-effective-navigation-strategy.md) | [Prasad Kasireddy](https://www.linkedin.com/in/prasadkasireddy/) |
 | [Understanding Power Platform Licensing](./Community/powerplatformlicensingforcitizendeveloper.md) | [Ralph Rivas](https://www.linkedin.com/in/ralphrivas/) |
 | [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+| [Glossary](./Community/glossary.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 
 ### New Contributors - July, 2021
 

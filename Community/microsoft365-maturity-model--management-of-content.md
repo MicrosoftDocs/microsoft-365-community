@@ -99,7 +99,7 @@ This competency focuses on many aspects with management of content, including pr
 - Structure
 - Platforms and tools
 - Information Architecture
-- "Putability"
+- ["Putability"](glossary.md#putability)
 - Duplicate management
 - Costs
 - Offline and sync
@@ -117,7 +117,7 @@ This competency focuses on many aspects with management of content, including pr
 - Documents are created on an ad hoc basis either from a blank copy or by re-using a previous version (without clearing previous metadata).
 - File formats for newly created content are not standardized and out of date or unexpected formats are in use.
 - Content creation tools are not standardized, may uses use older versions of software or tools from different companies, creating further content inconsistencies.
-- Templates may exist, but they are &#39;lost&#39; in the folder hierarchy and infrequently used; templates are not integrated into the into the ‘New Document’ setting
+- Templates may exist, but they are "lost" in the folder hierarchy and infrequently used; templates are not integrated into the into the ‘New Document’ setting
 ![Personal Templates](media/microsoft365-maturity-model--management-of-content/personal-templates.jpg)
 
 - Editing, updates and reviews are largely serial activities or conducted in parallel via email which results in multiple versions which must be manually reassembled.
@@ -212,8 +212,8 @@ At this level you can expect the following:
 - Users remain uncertain where to save documents and content; frequently creating multiple copies in different places. No deduplication process exists.
 
 - Multiple file management strategies exist, often with overlap. File server storage is the predominant approach, with local storage on hard drives or removable devices discouraged or disallowed.
-- There is often an attempt to create structure within the storage solution, especially at department or project levels; however, the limitations of hierarchical approaches is poorly understood and largely unaddressed. Folder/directory structures inconsistent across different parts of the organization and rely on &#39;local&#39; knowledge to navigate. Where content management platforms are used, storage strategy replicates directory structures.
-- Access permissions are applied at the directory or &#39;drive&#39; level and some attempt is made to manage these; however, the lack of a robust process results in inconsistencies and out of date permissions.
+- There is often an attempt to create structure within the storage solution, especially at department or project levels; however, the limitations of hierarchical approaches is poorly understood and largely unaddressed. Folder/directory structures inconsistent across different parts of the organization and rely on "local" knowledge to navigate. Where content management platforms are used, storage strategy replicates directory structures.
+- Access permissions are applied at the directory or "drive" level and some attempt is made to manage these; however, the lack of a robust process results in inconsistencies and out of date permissions.
 
 #### Impacts
 
@@ -253,11 +253,11 @@ At this level you can expect the following:
 
 - There are standard content categories, and these are frequently used to group and tag content, aiding in search and productivity. A standard set of consistent content statuses have been developed (e.g. Not Started, In Progress, Ready for Review, Complete), however there is no consistency across the organization.
 - Naming conventions are in place for many classes of content, including items, files, media and these are often enforced using technical or process measures.
-- Some areas are experimenting with &#39;content classes&#39; that describe organization-wide document and items, however this is not widely adopted nor comprehensively designed.
+- Some areas are experimenting with "content classes" that describe organization-wide document and items, however this is not widely adopted nor comprehensively designed.
 
 ##### Presentation of content
 
-- Routine processes have well defined and maintained templates which are accessible from withing the process and are mandated and adopted for those processes. Templates are generally &#39;on-brand&#39;, fit for purpose and have been reviewed for quality. These have reasonably consistent styling and branding. Re-use of previous documents is avoided, though prior content is often copied into the new documents. Some staff have added general templates to their default location to make it easier to access and there may be efforts to implement this across the organization.
+- Routine processes have well defined and maintained templates which are accessible from withing the process and are mandated and adopted for those processes. Templates are generally "on-brand", fit for purpose and have been reviewed for quality. These have reasonably consistent styling and branding. Re-use of previous documents is avoided, though prior content is often copied into the new documents. Some staff have added general templates to their default location to make it easier to access and there may be efforts to implement this across the organization.
 - Emails have automated footers.
 - Templates and many ad hoc documents are developed using Headings and other presentation and layout formats; some effort has been put into creating company-wide document styles. Content tends to meet basic accessibility guidelines by default. There are some management processes to drive adoption of this practice and to drive improvements.
 - Basic content skills are provided through training or self-learning as well as through on the job mentoring and feedback.
@@ -299,7 +299,7 @@ At this level you can expect the following:
   - Publication and removal schedules are applied to web pages and news items. Retained web pages are regularly reviewed to ensure they remain up to date and useful/relevant. They are actively linked to related content, with these links dynamically updating as the related content changes, is created or removed.
 - Document management capabilities are designed into repositories to be compliant with lifecycle policies. Most content is based on managed content types; these include definitions of the template, identification metadata, lifecycle and disposition markers, status and other policies by default.
 - File servers and local file systems are not in general use except where there is a documented need.
-- There is active, managed removal of content from managed content areas in accordance with policies and staff are responsible for ongoing &#39;decluttering&#39; and organization of collaboration and personal content. Controls and monitoring are in place and used to review these activities, though typically without automation or strong enforcement.
+- There is active, managed removal of content from managed content areas in accordance with policies and staff are responsible for ongoing "decluttering" and organization of collaboration and personal content. Controls and monitoring are in place and used to review these activities, though typically without automation or strong enforcement.
 
 - Multi-author content creation and editing is the norm and extends beyond organization boundaries to incorporate suppliers, partners and clients where appropriate and with well understood and monitored security and governance (such as use of time windows for editability). Use of email attachments is the exception within the company and is in decline with external content sharing.
 - Duplication of content is actively avoided and there are periodic checks to identify unnecessary duplicates. There is good understanding of version control and version history, and these are appropriately used.
@@ -315,7 +315,7 @@ At this level you can expect the following:
 ##### Identification
 
 - There are standard content categories and these are widely used to group and tag content, aiding in search and productivity. A standard set of consistent content statuses, classifications and other business wide approaches to naming and identifying content are in place. There is some automation of tagging and classification.
-- &#39;Content classes&#39; are widely in use and there are processes for creating new classes as needed.
+- "Content classes" are widely in use and there are processes for creating new classes as needed.
 
 ##### Presentation of content
 
@@ -324,7 +324,7 @@ At this level you can expect the following:
 - Documents are carefully structured, with consistent use of semantic elements such as headings, default styling, insertable standard content and images. They are designed to support appropriate and effective presentation of content (i.e. the purpose of the document defines the style of the document) while supporting accessibility guidelines, effective search and other busines needs. Staff are well versed in use of these and use them consistently.
 - Staff are familiar with best practice across a wide range of content creation. Presentation and management and actively skilled for the needs within their role.
 - Regionalization is actively addressed and implemented through templates, configuration and policy. There are processes for identifying errors and inconsistencies and flagging these for action
-- Custom and industry dictionaries are deployed to users&#39; computers. There is a process for correcting and updating these.
+- Custom and industry dictionaries are deployed to users" computers. There is a process for correcting and updating these.
 - Standard media and content libraries are commonly used; there is centralized management of core tags and information architecture used for identification, classification and management.
 - Tagging and topics allow systems to recommend content to users.
 - Lists employ dynamic formatting, layouts and views to highlight important insights and to aid both item level and aggregated use, comprehension and insights.
@@ -332,7 +332,7 @@ At this level you can expect the following:
 
 ##### Storage
 
-- There is a comprehensive storage strategy supported by a well-designed platform for almost all forms of enterprise content. This encompasses &#39;business-personal&#39;, collaborative, operational and corporate content as well as the continuum from ad hoc and temporary content to persistent or long-term content. Strong signposting, guidance, and automation aid staff in how to adhere to the strategy and therefore put content in the right &#39;place&#39; n the right way. Content management strategies are well understood and are robust, with staff understanding and compliance monitored. File Server are employed for very specific purposes and not for general content use.
+- There is a comprehensive storage strategy supported by a well-designed platform for almost all forms of enterprise content. This encompasses "business-personal", collaborative, operational and corporate content as well as the continuum from ad hoc and temporary content to persistent or long-term content. Strong signposting, guidance, and automation aid staff in how to adhere to the strategy and therefore put content in the right "place" n the right way. Content management strategies are well understood and are robust, with staff understanding and compliance monitored. File Server are employed for very specific purposes and not for general content use.
 - Centralized storage areas are carefully structured, providing rapid and clear access to managed assets, publication and resource areas across the organization; permissions and security are strongly managed and monitored without limiting productivity. Folder use is rare and appropriate.
 - Access permissions are as granular as needed, applying to entire content repositories and/or to individual items and often extend outside the organization to accommodate suppliers, partners and clients with the same level of fidelity and control.
 - Email storage growth has plateaued.
@@ -342,7 +342,7 @@ At this level you can expect the following:
 At this level you can expect the following:
 
 - Content is strongly managed across business applications and processes, feels largely seamless to users and is easy for them to recognize value in and adopt. Staff focus on task completion, contributing to content management consistently, recognizing that their contributions benefit other parts of the system.
-- In many cases, content storage is a function of the type of content and not at the discretion of staff; &#39;putability&#39; decisions are driven by well-established principles that staff are fluent at applying.
+- In many cases, content storage is a function of the type of content and not at the discretion of staff; ["putability"](glossary.md#putability) decisions are driven by well-established principles that staff are fluent at applying.
 - Productivity is consistently high and metrics are in place to identify and act on exceptions. Rework and errors are rare.
 - Staff intuitively use definitive reference content; they know how to validate that they are using appropriate information and are collectively confident of decisions based on their sources.
 - Content driven systems are routinely improved; feedback and monitoring mechanisms at granular and aggregate level continuously identify areas for improvement and enable programs of work to maintain productivity as the business landscape evolves.
@@ -355,7 +355,7 @@ At this level you can expect the following:
 #### Lifecycle Management
 
 - Content Lifecycle Management operates at most levels of the organization, is optimized, tracked and reviewed for effectiveness and actively drives quality, productivity and risk reduction – this may be reflected in certifications, standards and reduced insurance costs. It remains consistent as it spans different types of content and platform.
-- Most content is created based on well-defined and managed &#39;content classes or content types. There is visibility of use of content types across the organization and an understanding of the content type schema and inheritance.
+- Most content is created based on well-defined and managed "content classes or content types. There is visibility of use of content types across the organization and an understanding of the content type schema and inheritance.
 - Linkages between types of content are respected, retaining referential integrity, to ensure that changes at a granular (item, file or document) level do not cause a degradation to sets or collections of content.
 
 - Content tagging for classification, access, sensitivity, status and retention is widely automated as are relationships between content.
@@ -366,7 +366,7 @@ At this level you can expect the following:
 - Highly efficient, flexible and productive approaches to the entire content lifecycle are the norm and encompass almost all the organizations actions and interactions.
 - External organizations are actively assisted in achieving robust levels of maturity. Email attachments are rare.
 - Proactive deduplication is in place. Potential duplicates are identified at the point of content creation.
-- Role-based access, governance and protection are deeply embedded in processes and are designed with minimal &#39;friction&#39; for the task or process.
+- Role-based access, governance and protection are deeply embedded in processes and are designed with minimal "friction" for the task or process.
 - Live, multi-author use of content via links, active discovery and graph-based personalization is the norm, ensuring content remains live, up to date and relevant.
  
 :::image type="content" source="media/microsoft365-maturity-model--management-of-content/lifecycle-management-level-500.jpg" alt-text="Lifecycle Management - Level 500":::
@@ -374,12 +374,12 @@ At this level you can expect the following:
 ##### Identification
 
 - Content categorization is largely automated; existing content is analyzed on an ongoing basis to apply tagging and labelling in order to ensure that new context, topics, classes and policies are applied dynamically as these emerge in the business.
-- Images, other media and related content are automatically suggested for inclusion based on tags, context and insights from &#39;the graph&#39; of the organization.
-- &#39;Content classes&#39; are the norm for almost all content. Externally sourced content is likewise assigned to a class and tagged.
+- Images, other media and related content are automatically suggested for inclusion based on tags, context and insights from "the graph" of the organization.
+- "Content classes" are the norm for almost all content. Externally sourced content is likewise assigned to a class and tagged.
 
 ##### Presentation of content
 
-- Content creation is based on full managed, automated templates, with significant degrees of automatic content completion, content suggestions, AI assistance or a &#39;wizard&#39; based creation process.
+- Content creation is based on full managed, automated templates, with significant degrees of automatic content completion, content suggestions, AI assistance or a "wizard" based creation process.
 - Emails have dynamic, role, risk and context driven footers.
 - Fully semantic documents are in widespread use, with quality control and testing. Poorly structured and presented documents are identified and addressed. Accessibility is strongly supported, and documents are frequently optimized to support other automated processes, little human input. Automatic content review checks for style, consistency, grammar and tone of voice, sentiment and possible data loss.
 - Media and other elements are strongly standardized, classified and published. Images are automatically tagged for accessibility. AI automation may suggest suitable media for insertion into content.
@@ -390,8 +390,8 @@ At this level you can expect the following:
 
 ##### Storage
 
-- There is a wide reaching, flexible and inclusive strategy for storage of all types of content which ensures everything is available to staff and partners who need it, regardless of location, device, region etc. &#39;Putability&#39; is actively guided or fully automated, based on AI classifiers.
-- Storage is largely &#39;invisible&#39; to staff. Content is created, stored and accessed without a need to learn the storage structures.
+- There is a wide reaching, flexible and inclusive strategy for storage of all types of content which ensures everything is available to staff and partners who need it, regardless of location, device, region etc. ["Putability"](glossary.md#putability) is actively guided or fully automated, based on AI classifiers.
+- Storage is largely "invisible" to staff. Content is created, stored and accessed without a need to learn the storage structures.
 - There are effectively no limits to the volume of storage or type of content that can be stored and accessed.
 
 #### Impacts
