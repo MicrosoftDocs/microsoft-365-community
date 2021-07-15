@@ -116,6 +116,12 @@ Improving specific aspects of SharePoint functionality by changing settings thro
 
 A set of policies for identifying, alerting and securing sensitive information types found in content across the Microsoft 365 platform.
 
+### Microsoft Dataverse for Teams
+
+[Microsoft Dataverse for Teams](https://powerapps.microsoft.com/blog/introducing-microsoft-dataflex-a-new-low-code-data-platform-for-microsoft-teams/) is a built-in, low-code data platform for Microsoft Teams, and provides relational data storage, rich data types, enterprise grade governance, and one-click solution deployment for Power App solutions built for, and within Microsoft Teams.
+
+**Microsoft Dataverse for Teams** is built upon Microsoft Dataverse, and provides a 'lite' version equivalent, for free, under the existing licensing requirements of Microsoft 365.
+
 ### Development Operations (DevOps)
 
 DevOps generally refers to both the automation of recurring processes and the improvement of those processes over time.
@@ -350,11 +356,9 @@ Using Power Virtual Agents, you can:
 * Reduce costs by easily automating common inquiries and freeing human agent time to deal with more complex issues.
 * Improve customer satisfaction by allowing customers to self-help and resolve issues quickly 24/7 using rich personalized bot conversations.
 
-### Microsoft Dataverse for Teams
+### Putability
 
-[Microsoft Dataverse for Teams](https://powerapps.microsoft.com/blog/introducing-microsoft-dataflex-a-new-low-code-data-platform-for-microsoft-teams/) is a built-in, low-code data platform for Microsoft Teams, and provides relational data storage, rich data types, enterprise grade governance, and one-click solution deployment for Power App solutions built for, and within Microsoft Teams.
-
-**Microsoft Dataverse for Teams** is built upon Microsoft Dataverse, and provides a 'lite' version equivalent, for free, under the existing licensing requirements of Microsoft 365.
+The term 'putability' is the complement to the term 'findability'; it is a measure of how easy and obvious it is for content creators to know where to store or create files or other information in a system. It is linked to elements of UI and UX design, leaning on information architecture, signposting, and navigation.
 
 ## Q
 
