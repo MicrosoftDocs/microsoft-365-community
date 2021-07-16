@@ -2,10 +2,10 @@
 title: Empowering Your Microsoft 365 Champions
 ms.date: 3/22/2020
 author: eemancini
-ms.reviewer: efrene
+ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfeller
 ms.service: sharepoint-online
 localization_priority: 
 description: How to support a Microsoft 365 champions group in your organization. A follow up to Identifying Your Microsoft 365 Champions.

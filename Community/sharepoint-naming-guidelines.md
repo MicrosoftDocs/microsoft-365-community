@@ -2,10 +2,10 @@
 title: SharePoint Naming Guidelines
 ms.date: 3/3/2020
 author: pkbullock
-ms.reviewer: efrene
+ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfeller
 ms.service: sharepoint-online
 localization_priority: 
 description: "SharePoint Naming Guidelines"

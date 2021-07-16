@@ -2,10 +2,10 @@
 title: Document Sets for Fast Legacy Process Automation
 ms.date: 11/21/2020
 author: PatD
-ms.reviewer: efrene
+ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfeller
 ms.service: sharepoint-online
 localization_priority:
 description: A proven strategy for content classification in SharePoint libraries with the magic of no-code all-configuration content Document Sets.

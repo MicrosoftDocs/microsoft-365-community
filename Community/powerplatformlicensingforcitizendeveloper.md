@@ -4,7 +4,7 @@ author: bigpix2000
 date: 7/9/2021
 manager: pamgreen-msft
 ms.topic: article
-ms.author: daisyfeller
+ms.author: daisyfellerer
 ms.service: power-platform
 description: "Understanding Power Platform Licensing"
 ms.collection: M365Community
