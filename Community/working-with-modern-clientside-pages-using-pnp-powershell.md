@@ -2,10 +2,10 @@
 title: Working with modern client-side pages using PnP PowerShell
 ms.date: 03/04/2020
 author: JimmyHang
-ms.reviewer: daisyfell
+ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
-ms.author: daisyfell
+ms.author: daisyfeller
 ms.service: sharepoint-online
 localization_priority: 
 description: "Working with modern client-side pages using PnP PowerShell"

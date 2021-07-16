@@ -2,10 +2,10 @@
 title: Maturity Model for Microsoft 365 – How to Elevate Communication
 ms.date: 2/17/2021
 author: eemancini
-ms.reviewer: daisyfell
+ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
-ms.author: daisyfell
+ms.author: daisyfeller
 ms.service: o365-solutions
 localization_priority:
 description: Maturity Model for Microsoft 365 – How to Elevate Communication

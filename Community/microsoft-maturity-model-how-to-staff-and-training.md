@@ -2,10 +2,10 @@
 title: How to Elevate Staff and Training – supporting the Microsoft 365 Maturity Model
 ms.date: 10/1/2020
 author: eemancini
-ms.reviewer: daisyfell
+ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
-ms.author: daisyfell
+ms.author: daisyfeller
 ms.prod: microsoft-365
 localization_priority: 
 description: Elevate your organization through the Staff and Training Competency maturity levels 

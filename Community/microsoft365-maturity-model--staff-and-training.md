@@ -2,10 +2,10 @@
 title:  Maturity Model for Microsoft 365 – Staff & Training Competency
 ms.date: 8/31/2020
 author: eemancini
-ms.reviewer: daisyfell
+ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
-ms.author: daisyfell
+ms.author: daisyfeller
 ms.prod: microsoft-365
 localization_priority:
 description:  Maturity Model for Microsoft 365 - Staff & Training Competency

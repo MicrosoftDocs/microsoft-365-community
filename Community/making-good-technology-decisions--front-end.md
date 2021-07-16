@@ -2,10 +2,10 @@
 title: "Making Good Technology Decisions: Front End"
 ms.date: 3/29/2021
 author: sympmarc
-ms.reviewer: daisyfell
+ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
-ms.author: daisyfell
+ms.author: daisyfeller
 ms.prod: microsoft-365
 localization_priority: 
 description: "Making Good Technology Decisions: Front End"

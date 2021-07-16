@@ -2,10 +2,10 @@
 title: How can I use Learning Pathways in my organization?
 ms.date: 2/17/2021
 author: eemancini
-ms.reviewer: daisyfell
+ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
-ms.author: daisyfell
+ms.author: daisyfeller
 ms.prod: microsoft-365
 localization_priority:
 description: How can I use Learning Pathways in my organization?
