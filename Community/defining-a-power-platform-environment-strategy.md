@@ -2,10 +2,10 @@
 title: Defining a Power Platform Environment Strategy
 ms.date: 8/10/2020
 author: aaronrendell
-ms.reviewer: efrene
+ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfeller
 ms.service: power-platform
 localization_priority: 
 description: "Defining a Power Platform Environment Strategy"

@@ -2,10 +2,10 @@
 title: "Making Good Technology Decisions: Data Storage"
 ms.date: 3/29/2021
 author: sympmarc
-ms.reviewer: efrene
+ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfeller
 ms.prod: microsoft-365
 localization_priority: 
 description: "Making Good Technology Decisions: Data Storage"

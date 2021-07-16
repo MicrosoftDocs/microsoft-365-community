@@ -2,10 +2,10 @@
 title: Accessibility by design
 author: MichaelRoth42
 ms.date: 4/11/2021
-ms.reviewer: efrene
+ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfeller
 ms.prod: microsoft-365
 localization_priority: 
 description: "How to foster accessibility by design"

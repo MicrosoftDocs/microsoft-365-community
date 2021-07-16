@@ -2,10 +2,10 @@
 title: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
 ms.date: 07/07/2021
 author: skaggej
-ms.reviewer: efrene
+ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfeller
 ms.service: sharepoint-online
 localization_priority: 
 description: "A Guided Tour Designed to Help You Select an Effective Navigation Strategy"
