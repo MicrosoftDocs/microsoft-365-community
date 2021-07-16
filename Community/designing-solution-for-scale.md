@@ -2,10 +2,10 @@
 title: Designing your solution for scale
 ms.date: 3/3/2020
 author: pkbullock
-ms.reviewer: efrene
+ms.reviewer: daisyfell
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfell
 ms.service: sharepoint-online
 localization_priority: 
 description: "Designing your solution for scale"

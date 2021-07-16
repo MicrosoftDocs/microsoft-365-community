@@ -1,10 +1,10 @@
 ---
 title: Why SharePoint Training is Important
 author: veronicageek
-ms.reviewer: efrene
+ms.reviewer: daisyfell
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfell
 ms.service: sharepoint-online
 localization_priority: 
 description: "Why SharePoint Training is Important"

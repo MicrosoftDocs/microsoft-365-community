@@ -2,10 +2,10 @@
 title: Information Architecture - Site Topology
 ms.date: 3/3/2020
 author: hugoabernier
-ms.reviewer: efrene
+ms.reviewer: daisyfell
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfell
 ms.service: sharepoint-online
 localization_priority: 
 description: "Information Architecture - Site Topology"

@@ -2,10 +2,10 @@
 title: Dataverse and Model-Driven Apps Standards and Naming Conventions
 ms.date: 3/29/2021
 author:  sympmarc
-ms.reviewer: efrene
+ms.reviewer: daisyfell
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfell
 ms.service: commondataservice
 localization_priority: 
 description: "Dataverse and Model-Driven Apps Standards and Naming Conventions"

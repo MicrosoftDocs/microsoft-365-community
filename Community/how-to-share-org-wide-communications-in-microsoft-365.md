@@ -2,10 +2,10 @@
 title: How to Share Org-Wide Communications in Microsoft 365
 ms.date: 8/13/2020 
 author: eemancini
-ms.reviewer: efrene
+ms.reviewer: daisyfell
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfell
 ms.service: sharepoint-online
 localization_priority:  
 description: How to Share Org-Wide Communications in Microsoft 365

@@ -2,10 +2,10 @@
 title: How to Elevate People and Communities – supporting the Microsoft 365 Maturity Model
 ms.date: 11/10/2020
 author: eemancini
-ms.reviewer: efrene
+ms.reviewer: daisyfell
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfell
 ms.prod: microsoft-365
 localization_priority: 
 description: Elevate your organization through the People and Communities Competency maturity levels 

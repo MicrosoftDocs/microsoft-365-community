@@ -2,10 +2,10 @@
 title: Maturity Model for Microsoft 365 – Business Process Competency
 ms.date: 9/9/2020
 author: sadalit
-ms.reviewer: efrene
+ms.reviewer: daisyfell
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfell
 ms.prod: microsoft-365
 localization_priority:
 description: Maturity Model for Microsoft 365 - Business Process Competency

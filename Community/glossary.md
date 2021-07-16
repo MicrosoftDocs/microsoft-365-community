@@ -2,10 +2,10 @@
 title: SharePoint Usage Glossary
 ms.date: 9/2/2020
 author: sympmarc
-ms.reviewer: efrene
+ms.reviewer: daisyfell
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfell
 ms.prod: microsoft-365
 localization_priority: 
 description: "SharePoint Usage Glossary"

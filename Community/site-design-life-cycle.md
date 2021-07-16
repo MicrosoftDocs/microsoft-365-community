@@ -2,10 +2,10 @@
 title: Using Site Designs to Manage Project Life Cycles
 ms.date: 3/3/2020
 author: sympmarc
-ms.reviewer: efrene
+ms.reviewer: daisyfell
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfell
 ms.service: sharepoint-online
 localization_priority: 
 description: "Using Site Designs to Manage Project Life Cycles"

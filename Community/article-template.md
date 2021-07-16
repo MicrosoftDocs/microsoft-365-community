@@ -2,10 +2,10 @@
 title: Name of article
 ms.date: 3/15/2021
 author: sympmarc
-ms.reviewer: efrene
+ms.reviewer: daisyfell
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfell
 ms.prod: microsoft-365
 localization_priority: 
 description: Template for creating content

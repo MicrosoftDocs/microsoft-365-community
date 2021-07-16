@@ -2,10 +2,10 @@
 title: Creating Useful Views for Lists & Libraries
 ms.date: 7/10/2020
 author: PatD
-ms.reviewer: efrene
+ms.reviewer: daisyfell
 manager: pamgreen-msft
 ms.topic: article
-ms.author: efrene
+ms.author: daisyfell
 ms.service: sharepoint-online
 localization_priority:
 description: Support your end users by creating effiicent and effective Views
