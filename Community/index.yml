@@ -160,8 +160,6 @@ landingContent:
             url: machine-learning-and-managed-metadata.md
           - text: Designing your solution for scale
             url: designing-solution-for-scale.md
-          - text: Understanding Power Platform Licensing
-            url: powerplatformlicensingforcitizendeveloper.md
           - text: Should I store my files in Microsoft Teams or in SharePoint?
             url: should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md
           - text: Defining a Power Platform Environment Strategy
