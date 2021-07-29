@@ -127,9 +127,9 @@ TBD
 
 ## Events and User Groups
 
-|Hashtag| Account |Date|
+| Hashtag | Account | Date |
 |---|---|---|
-|[#SPSEvents](https://twitter.com/hashtag/SPSEvents)|[@SPS_Events](https://twitter.com/SPS_Events)| Saturdays, globally ||
+|[#SPSEvents](https://twitter.com/hashtag/SPSEvents)|[@SPS_Events](https://twitter.com/SPS_Events)| Saturdays, globally |
 |[#MSBizAppsSummit](https://twitter.com/hashtag/MSBizAppsSummit)||Spring|
 |[#MSInspire](https://twitter.com/hashtag/MSInspire)||May|
 |[#MSBuild](https://twitter.com/hashtag/MSBuild)||May|
