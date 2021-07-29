@@ -23,6 +23,8 @@ Note: Changelog started in January, 2021
 | [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 | [Glossary](./Community/glossary.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 | [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+|[Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)|[Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/)|
+
 
 ### New Contributors - July, 2021
 
