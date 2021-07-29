@@ -58,7 +58,6 @@
 ### [Auto Apply Retention Labels in Office 365 Using Content Types and Metadata](auto-apply-retention-labels-in-office-365-using-content-types-and-metadata.md)
 ### [Can Machine Learning be used to assign managed metadata attributes for items?](machine-learning-and-managed-metadata.md)
 ### [Designing your solution for scale](designing-solution-for-scale.md)
-### [Understanding Power Platform Licensing](powerplatformlicensingforcitizendeveloper.md)
 ### [Should I store my files in Microsoft Teams or in SharePoint?](should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md)
 ### [Defining a Power Platform Environment Strategy](defining-a-power-platform-environment-strategy.md)
 ### [Power Automate vs Logic Apps](power-automate-vs-logic-apps.md)

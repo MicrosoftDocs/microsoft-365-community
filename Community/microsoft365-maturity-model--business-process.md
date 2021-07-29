@@ -229,7 +229,6 @@ Improving your Business Process maturity requires an investment in business proc
 ## Related documents
 
 - [Business process flows overview](https://docs.microsoft.com/power-automate/business-process-flows-overview)
-- [Understanding Power Platform Licensing](powerplatformlicensingforcitizendeveloper.md)
 - [Defining a Power Platform Environment Strategy](defining-a-power-platform-environment-strategy.md)
 - [The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1](power-platform-dlp-policies-you-should-be-considering-on-day-1.md)
 

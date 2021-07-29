@@ -27,10 +27,6 @@ Social media also give you direct access to expertise. Use one of the help tags 
 >
 > Example: "Folks who customize #SharePoint list forms with #PowerApps: how do you back up your customization? #SPhelp"
 
-
-> [!TIP]
-> Use a Power Automate template to track tweets related to your topics of interest.
-
 >[!NOTE]
 >References to Azure and Dynamics 365 are beyond the scope of this document.
 
@@ -131,9 +127,9 @@ TBD
 
 ## Events and User Groups
 
-|Hashtag| Account |Date|
+| Hashtag | Account | Date |
 |---|---|---|
-|[#SPSEvents](https://twitter.com/hashtag/SPSEvents)|[@SPS_Events](https://twitter.com/SPS_Events)| Saturdays, globally ||
+|[#SPSEvents](https://twitter.com/hashtag/SPSEvents)|[@SPS_Events](https://twitter.com/SPS_Events)| Saturdays, globally |
 |[#MSBizAppsSummit](https://twitter.com/hashtag/MSBizAppsSummit)||Spring|
 |[#MSInspire](https://twitter.com/hashtag/MSInspire)||May|
 |[#MSBuild](https://twitter.com/hashtag/MSBuild)||May|
@@ -152,20 +148,6 @@ The following tags are used in combination with product tags to identify informa
 |[#GCCH](https://twitter.com/hashtag/GCCH)|
 |[#DoD](https://twitter.com/hashtag/DoD)|
 |[#TeamsForGov](https://twitter.com/hashtag/TeamsForGov)|
-
-## Notable Twitter Accounts
-
-Below is a list of twitter accounts that often post about Microsoft 365 and can be considered authoritative.
-
-### Microsoft
-
-- [@DonaSarkar](https://twitter.com/donasarkar)
-- [@JeffTeper](https://twitter.com/jeffteper)
-- [@MKashman](https://twitter.com/mkashman)
-
-### Other
-
-- [@maryjofoley](https://twitter.com/maryjofoley)
 
 ---
 
