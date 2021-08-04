@@ -132,10 +132,10 @@ As before, use these to refine the action plan, redirect focus onto new areas of
 
 ## Resources
 
-* [Workbook - MM4M365 workshop tool - Content Set](media\microsoft365-maturity-model--run-workshop\Workbook%20-%20MM4M365%20workshop%20tool%20-%20Content%20Set.xlsx)
-* [Workbook - MM4M365 workshop tool - Hardcore Set](media\microsoft365-maturity-model--run-workshop\Workbook%20-%20MM4M365%20workshop%20tool%20-%20Hardcore%20Set.xlsx)
-* [Workbook - MM4M365 workshop tool - People Set](media\microsoft365-maturity-model--run-workshop\Workbook%20-%20MM4M365%20workshop%20tool%20-%20People%20Set.xlsx)
-* [Workbook - MM4M365 workshop tool - Quick Assessment](media\microsoft365-maturity-model--run-workshop\Workbook%20-%20MM4M365%20workshop%20tool%20-%20Quick%20assessment.xlsx)
+* [Workbook - MM4M365 workshop tool - Content Set](media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20Content%20Set.xlsx)
+* [Workbook - MM4M365 workshop tool - Hardcore Set](media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20Hardcore%20Set.xlsx)
+* [Workbook - MM4M365 workshop tool - People Set](media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20People%20Set.xlsx)
+* [Workbook - MM4M365 workshop tool - Quick Assessment](media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20Quick%20assessment.xlsx)
 
 ---
 
