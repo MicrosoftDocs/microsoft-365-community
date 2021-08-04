@@ -11,6 +11,10 @@ ms.collection: SPCommunity
 
 # How to run a Maturity Model for Microsoft 365 workshop
 
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
+
+![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
+
 ## Introduction
 
 The Maturity Model for Microsoft 365 offers a wide set of tools, approaches and insights into the platform, allowing organizations to:
