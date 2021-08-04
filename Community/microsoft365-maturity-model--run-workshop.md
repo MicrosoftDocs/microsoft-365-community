@@ -47,7 +47,10 @@ There are probably others…
 The suggested approach is to gain executive support for doing something, then run a few of simple, rapid, qualitative assessment workshops to confirm where the biggest needs are and the quickest benefits. Follow these up with deep dive workshops targeting specific competencies in particular parts of the organization. It can be helpful to think of these like an Agile sprint, where you do an assessment and action the findings, review and either repeat or move on to a different workload (a different competency or area). Where resources allow, you can run parallel 'sprints'. Keep these going until you run out of resources (or have achieved everything you desire!).
 
 Six or 12 months later, review progress and set new goals by running some of the process again.
+
 The diagram provides and overview and some further detail.
+
+:::image type="content" source="media/microsoft365-maturity-model--run-workshop/workship-diagram.png" alt-text="Workshop Overview":::
 
 ### Get approval and buy-in
 
@@ -59,7 +62,9 @@ Some thoughts on getting that important executive support and key stakeholder su
   * Emphasize how it makes life better for individuals in the company, how it removes the 'grit in the machine' and how it protects the organization (and thereby the execs) from financial, compliance and legal risks.
   * Carefully review the MM4M365 Introduction and the definitions of each competency. Now ensure you understand what each Competency Level signifies.
 
-## Run investigative workshops to develop an action plan
+:::image type="content" source="media/microsoft365-maturity-model--run-workshop/mm4m365-levels.png" alt-text="MM4M365 Levels":::
+
+### Run investigative workshops to develop an action plan
 
 The workshop process should start with a few quick sessions across the company, using the Quick Assessment tool.
 
@@ -81,7 +86,7 @@ Aim to have between 5 and 10 people in each group.
 * Think about who you want at the sessions. There is no right or wrong approach; a blend is frequently helpful.
 * Set the expectations for attendees. You want everyone to participate and be open; impress on them that there are no wrong answers or views, that it's about consensus not seniority and that you aren't promising to fix everything all at once.
 
-## Overview Workshops
+### Overview Workshops
 
 These workshops are about getting a representative group of staff to say what maturity level they think the organization is at for each Competency. It is based on the judgement of participants rather than detailed analysis if individual characteristics in each competency (as that would take far too long), and should provide a 'helicopter' or 'fifty thousand fot' view of the organization that can be used to prioritize next steps.
 
@@ -105,7 +110,7 @@ You could even run something similar with suppliers and clients if you can get t
 
 When it is complete you should do some analysis and prepare an executive summary highlighting issues, opportunities, quick wins and any insights or concerns that arise. You should give some thought to how the M365 platform could be used to address these and be ready to offer an Action Plan that could include Deep Dive workshops that might be needed.
 
-## Deep Dive Workshops
+### Deep Dive Workshops
 
 These workshops are far more intense than the Overview workshops and are about getting very specific insights into a narrow-focused team or competency. It is impractical to run them for every competency across the entire organization.
 
@@ -117,7 +122,7 @@ There are a set of workbooks that include 4 thematically related competencies ea
 
 As before, outliers and comments should be captured and fed into an Action plan and report.
 
-## Progress Workshops
+### Progress Workshops
 
 It is very useful to review progress of the Action Plan and confirm that it is having the desired effect of shifting the Maturity Level. This can be done by repeating the Overview or Deep Dive workshops after an appropriate period of time, using the same workbook tools. There are radar charts that will allow progress to be visualized.
 
@@ -127,10 +132,10 @@ As before, use these to refine the action plan, redirect focus onto new areas of
 
 ## Resources
 
-* [Workbook - MM4M365 workshop tool - Content Set](media\microsoft365-maturity-model--run-workshop\Workbook%20-%20MM4M365%20workshop%20tool%20-%20Content%20Set.xlsx)
-* [Workbook - MM4M365 workshop tool - Hardcore Set](media\microsoft365-maturity-model--run-workshop\Workbook%20-%20MM4M365%20workshop%20tool%20-%20Hardcore%20Set.xlsx)
-* [Workbook - MM4M365 workshop tool - People Set](media\microsoft365-maturity-model--run-workshop\Workbook%20-%20MM4M365%20workshop%20tool%20-%20People%20Set.xlsx)
-* [Workbook - MM4M365 workshop tool - Quick Assessment](media\microsoft365-maturity-model--run-workshop\Workbook%20-%20MM4M365%20workshop%20tool%20-%20Quick%20assessment.xlsx)
+* [Workbook - MM4M365 workshop tool - Content Set](media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20Content%20Set.xlsx)
+* [Workbook - MM4M365 workshop tool - Hardcore Set](media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20Hardcore%20Set.xlsx)
+* [Workbook - MM4M365 workshop tool - People Set](media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20People%20Set.xlsx)
+* [Workbook - MM4M365 workshop tool - Quick Assessment](media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20Quick%20assessment.xlsx)
 
 ---
 
