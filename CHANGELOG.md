@@ -6,6 +6,25 @@
 
 Note: Changelog started in January, 2021
 
+## August, 2021
+
+### New Articles - August, 2021
+
+| Article | Principal Author |
+|---|---|
+| [Maturity Model for Microsoft 365 - How to run a Maturity Model for Microsoft 365 workshop](./Community/microsoft365-maturity-model--run-workshop.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
+
+### Updated Articles - August, 2021
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Collaboration Competency](./Community/microsoft365-maturity-model--collaboration.md) | [Hilton Giesenow](https://www.linkedin.com/in/hiltongiesenow/) |
+
+### New Contributors - August, 2021
+
+- [Hilton Giesenow](https://www.linkedin.com/in/hiltongiesenow/)
+
+
 ## July, 2021
 
 ### New Articles - July, 2021
@@ -24,7 +43,6 @@ Note: Changelog started in January, 2021
 | [Glossary](./Community/glossary.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 | [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 |[Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)|[Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/)|
-
 
 ### New Contributors - July, 2021
 

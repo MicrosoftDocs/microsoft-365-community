@@ -4,6 +4,9 @@ ms.date: 08/04/2021
 author: simonjhudson
 ms.reviewer: daisyfeller
 manager: pamgreen-msft
+ms.topic: article
+ms.author: daisyfeller
+ms.service: o365-solutions
 localization_priority:  
 description: Maturity Model for Microsoft 365 -  How to run a Maturity Model for Microsoft 365 workshop
 ms.collection: SPCommunity
@@ -106,7 +109,7 @@ The approach is to:
   * Typically, this will take a while!
 * Once you have completed the 'current status' for the full set of competencies, take the workshop group through it again, but this time get them to agree where the organization should be this time next year (or some other time scale if you prefer) for each Competency. Limit them to the proper levels (100, 200, 300, 400, 500); no in between scores are allowed, but it is OK to call out specific areas that should be different from the general target.
 
-The [Workbook - MM4M365 workshop tool (Quick assessment) Excel tool](media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20Quick%20assessment.xlsx?raw=true) includes the definitions and links to the Competency documents. The Data Capture tab allows you to capture the consensus scores for each competency and allows you to run the workshop with different groups and/or focus on specific teams. It takes care of presenting the data in a set of 'radar' charts and highlights high and low performers. It also highlights and maturity improvements that should be addressed in a couple of phases. It includes further instructions on using the tool.
+The [Workbook - MM4M365 workshop tool (Quick assessment) Excel tool](https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/Community/media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20Quick%20assessment.xlsx?raw=true) includes the definitions and links to the Competency documents. The Data Capture tab allows you to capture the consensus scores for each competency and allows you to run the workshop with different groups and/or focus on specific teams. It takes care of presenting the data in a set of 'radar' charts and highlights high and low performers. It also highlights and maturity improvements that should be addressed in a couple of phases. It includes further instructions on using the tool.
 
 Take care, as the facilitator, not to impose your view on the discussion, be impartial and support the group in reaching a consensus even if it isn't one you agree with (you can comment on that in the report/action plan).
 
@@ -136,10 +139,10 @@ As before, use these to refine the action plan, redirect focus onto new areas of
 
 ## Resources
 
-* [Workbook - MM4M365 workshop tool - Content Set](media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20Content%20Set.xlsx?raw=true)
-* [Workbook - MM4M365 workshop tool - Hardcore Set](media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20Hardcore%20Set.xlsx?raw=true)
-* [Workbook - MM4M365 workshop tool - People Set](media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20People%20Set.xlsx?raw=true)
-* [Workbook - MM4M365 workshop tool - Quick Assessment](media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20Quick%20assessment.xlsx?raw=true)
+* [Workbook - MM4M365 workshop tool - Content Set](https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/Community/media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20Content%20Set.xlsx?raw=true)
+* [Workbook - MM4M365 workshop tool - Hardcore Set](https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/Community/media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20Hardcore%20Set.xlsx?raw=true)
+* [Workbook - MM4M365 workshop tool - People Set](https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/Community/media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20People%20Set.xlsx?raw=true)
+* [Workbook - MM4M365 workshop tool - Quick Assessment](https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/Community/media/microsoft365-maturity-model--run-workshop/Workbook%20-%20MM4M365%20workshop%20tool%20-%20Quick%20assessment.xlsx?raw=true)
 
 ---
 
