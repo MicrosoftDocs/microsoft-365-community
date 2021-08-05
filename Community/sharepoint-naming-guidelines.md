@@ -40,7 +40,6 @@ Creating a column sets the following:
 - Internal name - system reference to the column
 - Multilingual alternatives for your display names.
 
-
 ### Display Names
 
 Display names are the visual name that users see when working with list items or documents via forms and views. When working with these columns, on top of the basic recommendations list above, consider the following:
@@ -55,13 +54,13 @@ In SharePoint columns, typically have multiple representations of their name, ty
 
 Internal names are set once at the point of creation; you cannot change them later. Additionally, Internal names encode special characters in your display name including spaces not in the same way as URLs, they use a combination of underscores and x0 numbers to represent the character, for example:
 
-**__x00<Hex Code of ASCII>__ e.g _x0020_ for " " or _x003a_ for ":")**
+e.g **\_x0020\_** for " " or **\_x003a\_** for ":"
 
 For example, "HR Department" would encode to "HR_x0020_Department". While this isn't necessarily essential for the end-user to know, it is essential to bear in mind when working with CAML or making API calls, as most often these are used to reference fields.
 
 You can easily find out the internal name by editing an existing column and viewing the last parameter for the URL, e.g. &Field=the_x0020_quick_x0020_brown_x0020_fox...
 
-![mmd](media/sharepoint-naming-guidelines/finding-internal-field.png)
+![Finding internal field](media/sharepoint-naming-guidelines/finding-internal-field.png)
 
 In classic interfaces, I often create the column without spaces and special characters to avoid the encoding, then rename to a friendly format. On creating lookup fields, there are some unavoidable encoding for the colon and spaces between the field
 
@@ -75,7 +74,7 @@ Multilingual display names are stored as title resources within the field. Under
 
 If you change your language preference by using the user profile service, to specify your preferred language and then rename the column, this sets this for that language. For example, in English Payroll ID becomes "ID y gyflogres" in Welsh, or "ID de paie" in French. Note: Bing Translator for illustration.
 
-![mmd](media/sharepoint-naming-guidelines/multilingual-fields.png)
+![Multilingual display names](media/sharepoint-naming-guidelines/multilingual-fields.png)
 
 ## List and Library Naming
 
@@ -87,7 +86,7 @@ With naming lists or libraries in the modern interface, be aware of the titles y
 
 *https://test.sharepoint.com/sites/Tean/Finance%20HR%20combined%20strategic%20team%20collaboration%20a/Forms/AllItems.aspx*
 
-![mmd](media/sharepoint-naming-guidelines/naming-libraries.png)
+![List and library names](media/sharepoint-naming-guidelines/naming-libraries.png)
 
 When naming your libraries, points to consider:
 
