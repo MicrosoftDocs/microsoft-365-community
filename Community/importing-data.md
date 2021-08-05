@@ -6,7 +6,6 @@ ms.reviewer: daisyfeller
 ms.author: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
-ms.author: daisyfeller
 ms.service: sharepoint-online
 localization_priority: 
 description: Importing data into SharePoint
@@ -41,7 +40,7 @@ SharePoint document libraries support the *drag and drop* of files and folders f
 
 - The upload status can be monitored using the “Show progress” button on the document library menu.
 
-![“Show progress” button](media/importing-data/drag-drop-show-progress.png)
+![“Show progress” button while uploading](media/importing-data/drag-drop-show-progress.png)
 
 - The “Show progress” button will notify you of any errors and when possible provide an intervention.
 
@@ -67,7 +66,7 @@ The **“Files”** option does not allow the uploading of folders. Similarly, t
 
 - The “Show progress” button will notify you of any errors and when possible provide an intervention.
 
-![“Show progress” button](media/importing-data/upload-files-folders-show-progress.png)
+![“Show progress” button while copying](media/importing-data/upload-files-folders-show-progress.png)
 
 ## Document Libraries – Copy to and Move to (Power user)
 
@@ -77,11 +76,11 @@ The **“Copy to”** feature will copy the files / folders to the new location 
 
 - Select the source files / folders and click “Copy to”.
 
-![Source files](media/importing-data/copy-to-files.png)
+![Select the source files](media/importing-data/copy-to-files.png)
 
 - Select the target location (i.e. “Your OneDrive”).
 
-![Target location](media/importing-data/copy-to-files-target-location.png)
+![Select the target location](media/importing-data/copy-to-files-target-location.png)
 
 - Click “Copy here” to complete the file / folder copy.
 
@@ -89,7 +88,7 @@ The **“Copy to”** feature will copy the files / folders to the new location 
 
 - The “Show progress” button will notify you of any errors and when possible provide an intervention.
 
-![“Show progress” button](media/importing-data/copy-to-files-show-progress.png)
+![“Show progress” button copying files](media/importing-data/copy-to-files-show-progress.png)
 
 The **“Move to”** feature will copy the files / folders to the new location and will move the source files / folders to the site “Recycle bin”. With the target site and document library open:
 
@@ -99,7 +98,7 @@ The **“Move to”** feature will copy the files / folders to the new location 
 
 - Select the target location (i.e. “Planning” document library).
 
-![Target location](media/importing-data/move-to-folder-target-location.png)
+![Target location moving files](media/importing-data/move-to-folder-target-location.png)
 
 - Click the target site (i.e. “Human Resources” site) and then click the target document library (i.e. “Planning”).
 
@@ -111,7 +110,7 @@ The **“Move to”** feature will copy the files / folders to the new location 
 
 - The “Show progress” button can also be used to view the progress of a copy or upload operation.
 
-![“Show progress” button](media/importing-data/move-to-show-progress.png)
+![“Show progress” progress bar](media/importing-data/move-to-show-progress.png)
 
 ## Lists – Export Spreadsheet to SharePoint (Power user)
 
@@ -125,11 +124,11 @@ The **“Move to”** feature will copy the files / folders to the new location 
 
 - Enter the target “Address”; provide a list name and click “Next”.
 
-![Step 1 of 2](media/importing-data/excel-export-step1.png)
+![Step 1 of 2 - Excel export](media/importing-data/excel-export-step1.png)
 
 - Review the list design and click “Finish”.
 
-![Step 2 of 2](media/importing-data/excel-export-step2.png)
+![Step 2 of 2 - Excel export](media/importing-data/excel-export-step2.png)
 
 - Click the URL to view the new SharePoint list. Click “OK” to exit the export wizard.
 
@@ -147,11 +146,11 @@ The **“Move to”** feature will copy the files / folders to the new location 
 
 - Click “From Excel”; provide a list name; upload a new spreadsheet or select an existing one and click "Next"
 
-![Step 1 of 2](media/importing-data/excel-import-wizard-step1.png)
+![Step 1 of 2 - Excel import](media/importing-data/excel-import-wizard-step1.png)
 
 - Select the target "Table" from the spreadsheet; set the column types ("Single line of text", "Multiple lines of text", "Choice", "Title" or "Do not import") and click "Create"
 
-![Step 2 of 2](media/importing-data/excel-import-wizard-step2.png)
+![Step 2 of 2 - Excel import](media/importing-data/excel-import-wizard-step2.png)
 
 - Example imported list shown below:
 
@@ -192,10 +191,10 @@ From your *SPMT* computer:
 ![Choose your settings screen](media/importing-data/spmt-settings.png)
 
 - Click “Save” to store the migration or click “No thanks” to continue.
-![Choose your settings screen](media/importing-data/spmt-save-migration.png)
+![Save or no thanks](media/importing-data/spmt-save-migration.png)
 
 - The summary screen will provide migration details and reports.
-![Choose your settings screen](media/importing-data/spmt-summary.png)
+![Migration details](media/importing-data/spmt-summary.png)
 
 ## Document Libraries – Sync (Power user)
 

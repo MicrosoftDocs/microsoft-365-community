@@ -34,7 +34,7 @@ Machine learning is an emerging service where much advancement and evolution are
 
 ### Metadata Schema
 
-Your Schema is your metadata organization model, it is the language of your business.  It is the lists and terms needed, what you’ll call them, their hierarchy and what the options are.  The Schema allows you to identify relationships between an item and the organization. 
+Your Schema is your metadata organization model, it is the language of your business.  It is the lists and terms needed, what you’ll call them, their hierarchy and what the options are.  The Schema allows you to identify relationships between an item and the organization.
 
 Our Managed Metadata Schema allows us to describe how these entities are connected, and to define their properties. It is a map of the business that gets applied to information, so people know the context of what they’re looking at.
 
