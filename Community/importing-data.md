@@ -3,6 +3,7 @@ title:  Importing data into SharePoint
 ms.date: 4/30/2020
 author: nyoung30
 ms.reviewer: daisyfeller
+ms.author: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller

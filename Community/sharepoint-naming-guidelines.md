@@ -55,7 +55,7 @@ In SharePoint columns, typically have multiple representations of their name, ty
 
 Internal names are set once at the point of creation; you cannot change them later. Additionally, Internal names encode special characters in your display name including spaces not in the same way as URLs, they use a combination of underscores and x0 numbers to represent the character, for example:
 
-**__x00<Hex Code of ASCII>__ e.g _x0020_ for " " or _x003a_ for ":")**
+e.g **\_x0020\_** for " " or **\_x003a\_** for ":"
 
 For example, "HR Department" would encode to "HR_x0020_Department". While this isn't necessarily essential for the end-user to know, it is essential to bear in mind when working with CAML or making API calls, as most often these are used to reference fields.
 
