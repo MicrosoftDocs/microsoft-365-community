@@ -84,6 +84,8 @@ landingContent:
             url: microsoft-maturity-model-how-to-staff-and-training.md
           - text: Elevating People and Communities
             url: microsoft-maturity-model-how-to-people-communities.md
+          - text: How to run a Maturity Model for Microsoft 365 workshop
+            url: microsoft365-maturity-model--run-workshop.md
 
   # Card (optional)
   - title: SharePoint Better Practices
