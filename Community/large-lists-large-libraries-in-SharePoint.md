@@ -18,7 +18,7 @@ ms.collection: M365Community
 
 Best practices and strategies for building and operating large SharePoint Lists and Libraries well above the item limit threshold
 
-## tl;dr
+## Summary
 
 - List or Library above 5000 items is indeed possible with planning and some filtering/sorting compromises.
 - If you can make it modern, you should. The modern experience improves over time; classic does not.
