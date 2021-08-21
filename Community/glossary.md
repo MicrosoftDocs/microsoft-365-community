@@ -314,9 +314,9 @@ See [Patterns and Practices](#patterns-and-practices-pnp)
 
 ### Power Apps
 
-PowerApps is a low-code/no-code development platform that provides a means for both Citizen Developers and Pro-Developers to build custom apps for your business needs.
+Power Apps is a low-code/no-code development platform that provides a means for both Citizen Developers and Pro-Developers to build custom apps for your business needs.
 
-Using PowerApps, you can quickly build custom business apps that connect to your business data stored either in the underlying data platform (Microsoft Dataverse) or in various online and on-premises data sources (SharePoint, Excel, Microsoft 365, Dynamics 365, SQL Server).
+Using Power Apps, you can quickly build custom business apps that connect to your business data stored either in the underlying data platform (Microsoft Dataverse) or in various online and on-premises data sources (SharePoint, Excel, Microsoft 365, Dynamics 365, SQL Server).
 
 ### Power Automate
 

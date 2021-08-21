@@ -88,7 +88,7 @@ Managed Metadata columns depend on the SharePoint Taxonomy service for syndicati
 
 * There is no single way of doing things in SharePoint. It all depends on the use cases.
 * I normally use Managed Metadata when dealing with cross site publishing or global search-related metadata. Because the metadata values are normally managed by a few people and used widely across all sites in SharePoint, we get more consistency and converge on a common understanding. This is especially true when building Document Management solutions or Intranet News publishing.
-* I use Lookup columns, when I'm building solutions that are locally related to a site, and the lookup data is from multiple lists already in the site. For example, when building custom apps with PowerApps and I'm using SharePoint lists as data sources.  
+* I use Lookup columns, when I'm building solutions that are locally related to a site, and the lookup data is from multiple lists already in the site. For example, when building custom apps with Power Apps and I'm using SharePoint lists as data sources.  
 
 ---
 

@@ -84,8 +84,8 @@ Organizational communication is much broader than email and newsletters. Effecti
 
 ## Related documents
 
-* [Introduction to the Microsoft 365 Maturity Model](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model—intro)
-* [Communication Competency* Maturity Model for Microsoft 365](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model—communication)
+* [Introduction to the Microsoft 365 Maturity Model](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
+* [Communication Competency* Maturity Model for Microsoft 365](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--communication)
 * [The Principles of Communication](https://docs.microsoft.com/microsoft-365/community/principles-of-communication)
 * [How to Share Org-Wide Communication in Microsoft 365]( https://docs.microsoft.com/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
 * [The Evolution of Company-Wide Email Communication to SharePoint News](https://docs.microsoft.com/microsoft-365/community/evolution-of-company-wide-email-communication-to-sharepoint-news)

@@ -34,7 +34,7 @@ The default environment is created in the region closest to the default region o
 There is specific guidance for the Default environment to call out because of its unique nature:
 
 - It’s automatically created with the first user in the region closest to the Azure AD tenant
-- New users that sign up for PowerApps are automatically added to the Maker role
+- New users that sign up for Power Apps are automatically added to the Maker role
 - Users are not automatically added to the Environment Admin role
 - The default environment can’t be deleted, but you can rename it – e.g., Personal Productivity (do it now, if you haven't!)
 
@@ -85,7 +85,7 @@ Based on successful experience with other customer engagements, below is a list 
 - Provision a new Production environment for non-personal apps/flows
 - Define and implement your DLP policies for your environments
 - When establishing a DLP strategy, you may need multiple environments for the same department
-- When establishing your Power Platform environment strategy, based upon your licensing, you may find that you need to provision environments without a Common Data Service database and also use DLP policies to restrict the user of premium connectors.
+- When establishing your Power Platform environment strategy, based upon your licensing, you may find that you need to provision environments without a Dataverse (previously called Common Data Service) database and also use DLP policies to restrict the user of premium connectors.
 - Establish a process for requesting access or creation of environments
 - Dev/Test/Production environments for specific business groups or application
 - Individual-use environments for Proof of Concepts and training workshops
