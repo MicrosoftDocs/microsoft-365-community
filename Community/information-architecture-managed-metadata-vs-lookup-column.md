@@ -38,9 +38,9 @@ Example: I have a document library where our company stores our vendor agreement
 * In the Vendor Agreements library, create a new column and choose lookup for the data type. Choose the Vendor list and the Title column, and include any extra data you might need from the vendor list. Note: not all data types are supported.
 * After the lookup column is added you can use it to tag any document you have in the library
 
-![lookupcolumn](media/information-architecture-managed-metadata-vs-lookup-column/lookup01.png)
+![lookupcolumn1](media/information-architecture-managed-metadata-vs-lookup-column/lookup01.png)
 
-![lookupcolumn](media/information-architecture-managed-metadata-vs-lookup-column/lookup02.png)
+![lookupcolumn2](media/information-architecture-managed-metadata-vs-lookup-column/lookup02.png)
 
 ## Pros of Lookup columns
 
@@ -63,13 +63,13 @@ Managed Metadata columns depend on the SharePoint Taxonomy service for syndicati
 * I'm adding this term set as a column to the Vendor Agreement library above
 * I'm using this column to track the approval of the documents we have in the library
 
-![mmd](media/information-architecture-managed-metadata-vs-lookup-column/mmd01.png)
+![mmd1](media/information-architecture-managed-metadata-vs-lookup-column/mmd01.png)
 
-![mmd](media/information-architecture-managed-metadata-vs-lookup-column/mmd02.png)
+![mmd2](media/information-architecture-managed-metadata-vs-lookup-column/mmd02.png)
 
-![mmd](media/information-architecture-managed-metadata-vs-lookup-column/mmd03.png)
+![mmd3](media/information-architecture-managed-metadata-vs-lookup-column/mmd03.png)
 
-![mmd](media/information-architecture-managed-metadata-vs-lookup-column/mmd04.png)
+![mmd4](media/information-architecture-managed-metadata-vs-lookup-column/mmd04.png)
 
 ## Pros of Managed Metadata columns
 
