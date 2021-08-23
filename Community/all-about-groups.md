@@ -30,7 +30,7 @@ Azure AD Security Groups are analogous to Security Groups in on-prem Windows Act
 
 There are several groups of people that can manage Azure AD Security Groups. If the group is synced from on premises Windows AD they cannot be managed in Azure AD. They must be managed on-prem with tools like the Active Directory Users and Computers. Changes made there will sync up to Azure AD with Azure AD Connect. In the Azure AD Portal synced Security Groups will have a Source of "Windows server AD."
 
-Azure AD Security Groups that are cloud-only can be managed by users in the tenant that have the appropriate [admin roles](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#available-roles). This includes, but is not limited to, Global Administrator, Directory Writers, Groups Administrator, Privileged Role Administrator, SharePoint Administrator, and User Administrator.
+Azure AD Security Groups that are cloud-only can be managed by users in the tenant that have the appropriate [admin roles](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles). This includes, but is not limited to, Global Administrator, Directory Writers, Groups Administrator, Privileged Role Administrator, SharePoint Administrator, and User Administrator.
 
 ### How do they manage them?
 
