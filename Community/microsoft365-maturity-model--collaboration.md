@@ -206,6 +206,10 @@ Rather than focusing on specific point solutions, a more strategic view of platf
 - There are tools and processes in place to protect individuals’ time from interruptions.
 - Diary management is well-established, and availability for collaborative work is managed (including real-time presence and ‘focus’ time slots).
 - Mobile, remote, and office scenarios are equally supported.
+- Asynchronous collaboration is facilitated by features (e.g. @mentions) that signpost colleagues to content and actions, ensuring notifications are productive rather than interruptions.
+- Productivity and other collaboration metrics provide insights.
+
+
 
 #### Impacts
 
