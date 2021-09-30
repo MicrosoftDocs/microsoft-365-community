@@ -119,7 +119,7 @@ If you're having general issues with Microsoft 365, be sure to check the [Micros
 |[#PnPPowerShell](https://twitter.com/hashtag/PnPPowerShell)|[@PnpPowershell](https://twitter.com/PnpPowershell)|
 |[#PnPjs](https://twitter.com/hashtag/PnPjs)|[@m365pnpjs](https://twitter.com/m365pnpjs)|
 |[#M365PnP](https://twitter.com/hashtag/M365PnP)|[@m365pnp](https://twitter.com/m365pnp)|
-|[#CLIMicrosoft365](https://twitter.com/hashtag/CLIMicrosoftM365)|[@CLIMicrosoft](https://twitter.com/climicrosoft365)|
+|[#CLIMicrosoft365](https://twitter.com/hashtag/CLIMicrosoftM365)|[@climicrosoft365](https://twitter.com/climicrosoft365)|
 
 ## Security
 
