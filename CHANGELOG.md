@@ -18,7 +18,7 @@ Note: Changelog started in January, 2021
 | Article | Updated By |
 |---|---|
 | [Maturity Model for Microsoft 365 - Collaboration Competency](./Community/microsoft365-maturity-model--collaboration.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)  |
-| [Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md) | [Michaël Maillot]() |
+| [Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md) | [Michaël Maillot](https://twitter.com/michael_maillot) |
 
 ### New Contributors - September, 2021
 
