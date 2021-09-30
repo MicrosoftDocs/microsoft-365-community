@@ -177,7 +177,7 @@ With collaboration at its core, the Microsoft 365 platform can be an incredible 
 
 ## Related documents
 
-- [Introduction to the Microsoft 365 Maturity Model](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model—intro)
+- [Introduction to the Microsoft 365 Maturity Model](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
 - [Maturity Model for Microsoft 365 - Collaboration Competency](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--collaboration)
 
 ---

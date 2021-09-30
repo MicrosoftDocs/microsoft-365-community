@@ -208,7 +208,7 @@ This is our result as a gif:
 
 The goal is to enable users and to give them great powers! We now have an easily maintainable solution for IT and a very lean process for the business side of a company to request common asks. We are more efficient as we only need to involve human working time if needed. We don't need to spend lots of time to make users adopt this system as the interface is easy to understand even for users who are not that tech-savvy, plus we have a good chance to narrow the historical gap between business and IT. It's a #BetterTogether story.
 
-If you don't like the chatbot approach, you can also work with a request form in Microsoft Forms or with a PowerApps if you prefer another UI.
+If you don't like the chatbot approach, you can also work with a request form in Microsoft Forms or with Power Apps if you prefer another UI.
 
 ## A few words on licensing
 

@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "Community/powerplatformlicensingforcitizendeveloper.md",
+      "redirect_url": "/power-platform/admin/pricing-billing-skus",
+      "redirect_document_id": false
+    }
+  ] 
+}
