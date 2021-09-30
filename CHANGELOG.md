@@ -6,6 +6,24 @@
 
 Note: Changelog started in January, 2021
 
+## September, 2021
+
+### New Articles - September, 2021
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - September, 2021
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Collaboration Competency](./Community/microsoft365-maturity-model--collaboration.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)  |
+| [Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md) | [Michaël Maillot]() |
+
+### New Contributors - September, 2021
+
+- [Hilton Giesenow](https://www.linkedin.com/in/hiltongiesenow/)
+
 ## August, 2021
 
 ### New Articles - August, 2021
@@ -23,7 +41,6 @@ Note: Changelog started in January, 2021
 ### New Contributors - August, 2021
 
 - [Hilton Giesenow](https://www.linkedin.com/in/hiltongiesenow/)
-
 
 ## July, 2021
 
