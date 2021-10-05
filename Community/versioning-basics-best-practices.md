@@ -75,7 +75,7 @@ Libraries can have both Major versions, which are represented with whole numbers
 Lists usually only have Major versions.
 
 > [!NOTE]
-> When you create a new version of a document, [the incremental changes are stored in SQL Server](https://docs.microsoft.com/sql/relational-databases/track-changes/about-change-data-capture-sql-server), rather than a completely new copy of the document. This provides the most efficient storage and helps reduce overall storage requirements on the platform. However, the SharePoint storage quota is consumed by all data stored, including multiple document versions, files in the recycle bins, and files preserved due to retention policies.
+> All versions count against your SharePoint storage usage, as do files in the recycle bins and files preserved due to retention policies.
 
 ## Best Practices and Versioning Trivia
 
@@ -89,7 +89,7 @@ Lists usually only have Major versions.
 
 ### Further Reading
 
-* Microsoft: [Planning Versioning, Content Approval](https://docs.microsoft.com/sharepoint/governance/versioning-content-approval-and-check-out-planning) & [How does versioning work in a SharePoint list or library](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
+* Microsoft: [Planning Versioning, Content Approval](/sharepoint/governance/versioning-content-approval-and-check-out-planning) & [How does versioning work in a SharePoint list or library](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
 * Blog: [SharePoint Maven on Versioning](https://sharepointmaven.com/5-ways-users-can-benefit-versioning-sharepoint/)
 * Blog: [ShareGate: SharePoint Version Control to the Rescue](https://sharegate.com/blog/sharepoint-version-control)
 
