@@ -6,6 +6,23 @@
 
 Note: Changelog started in January, 2021
 
+## October, 2021
+
+### New Articles - October, 2021
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - October, 2021
+
+| Article | Updated By |
+|---|---|
+| [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | [Kaarin Shumate (Microsoft)](https://www.linkedin.com/in/kaarin-shumate/)  |
+
+### New Contributors - October, 2021
+
+- [Kaarin Shumate (Microsoft)](https://www.linkedin.com/in/kaarin-shumate/)
+
 ## September, 2021
 
 ### New Articles - September, 2021
