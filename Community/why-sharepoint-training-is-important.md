@@ -46,7 +46,7 @@ And we're only scratching the surface!
 
 ## Integration with other apps
 
-If you're using Microsoft 365, you've surely heard about [Microsoft Teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software), [PowerApps](https://powerapps.microsoft.com/), [Power Automate](https://flow.microsoft.com/), etc... Well, they all integrate with SharePoint. So you can imagine the extent of the possibilities. 🙂
+If you're using Microsoft 365, you've surely heard about [Microsoft Teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software), [Power Apps](https://powerapps.microsoft.com/), [Power Automate](https://flow.microsoft.com/), etc... Well, they all integrate with SharePoint. So you can imagine the extent of the possibilities. 🙂
 
 That being said, we also don't want to scare users. The **goal** is to allow them to work efficiently, taking into consideration that 'The Cloud' is likely a new way of working for most of them, with a product that the higher management decided to go for.
 
@@ -123,7 +123,7 @@ Advanced training _could_ include the following:
 - Enabling or disabling site features (_depending on permissions_)
 - Introduce [Microsoft 365 Groups](https://support.office.com/article/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) (_renamed from Office 365 Groups_) and other integrated apps
 
-Those items are a good starting point, but maybe you'll be asked to customize a SharePoint form using [PowerApps](https://powerapps.microsoft.com)? Who knows! 😉
+Those items are a good starting point, but maybe you'll be asked to customize a SharePoint form using [Power Apps](https://powerapps.microsoft.com)? Who knows! 😉
 
 ## Is it really worth it?
 

@@ -92,7 +92,7 @@ Finally, paste the URL into the JSON formatting (see code below). Remove the las
 
 ## 3. Power Apps (Filter, Choices)
 
-Now we will customize the form for the Innovations list by opening Power Apps in a browser. In the Innovations list, create a new list item and choose "Edit form" then "Customize with PowerApps". This may look different depending on your specific environment. If so, read the article [Customize a SharePoint list or library form by using Power Apps](https://docs.microsoft.com/powerapps/maker/canvas-apps/customize-list-form) for additional information.
+Now we will customize the form for the Innovations list by opening Power Apps in a browser. In the Innovations list, create a new list item and choose "Edit form" then "Customize with Power Apps". This may look different depending on your specific environment. If so, read the article [Customize a SharePoint list or library form by using Power Apps](https://docs.microsoft.com/powerapps/maker/canvas-apps/customize-list-form) for additional information.
 
 ![Demo Cascading Power Apps 1](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-powerapps-1.png)
 

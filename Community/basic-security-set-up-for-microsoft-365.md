@@ -48,7 +48,7 @@ To enable the Security Defaults within your Microsoft 365 directory:
 4. Set the **Enable Security Defaults** toggle to **Yes**
 5. Select **Save**
 
-You can also choose to disable these features and create your own set of security rules and controls, by either not enabling the Security Defaults or if they are enabled setting the Enable Security Defaults toggle to No. Learn more about the [Security Defaults provided out of the box](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults.).
+You can also choose to disable these features and create your own set of security rules and controls, by either not enabling the Security Defaults or if they are enabled setting the Enable Security Defaults toggle to No. Learn more about the [Security Defaults provided out of the box](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults).
 
 ## Custom Security Configuration
 
@@ -214,7 +214,7 @@ Users can consent to all apps - This option allows all end-users to consent to a
 
 **How:** Learn how to manage end-user and administrator app consent, use the links below.
 
-* [Configure how end-users consent to applications](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent#configure-user-consent-settings-from-the-azure-portal)
+* [Configure how end-users consent to applications](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent)
 * [Configure the admin consent workflow](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow#enable-the-admin-consent-workflow)
 
 ## Security Considerations
