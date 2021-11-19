@@ -57,7 +57,7 @@ Document Sets **are not folders** (though they inherit from the Folder Content T
 
 ## What Document Sets Are
 
-Document Sets are a _Content Type_, and you should read [What Is a Content Type?](https://docs.microsoft.com/microsoft-365/community/what-is-content-type) to understand Content Types if you don't already. Content Types have metadata, inheritance, and can be set to show up in the [+New] menus within SharePoint and Teams tabs.
+Document Sets are a _Content Type_, and you should read [What Is a Content Type?](/microsoft-365/community/what-is-content-type) to understand Content Types if you don't already. Content Types have metadata, inheritance, and can be set to show up in the [+New] menus within SharePoint and Teams tabs.
 
 What's fundamentally different about the Document Set Content Type is that you can put another file inside the Document Set. The user experience is very similar to a folder (but it is certainly not a folder). Your user can easily make a new Document Set and drag and drop documents into it. They'll get it on the first try, just like they with folders.
 
@@ -92,16 +92,16 @@ It may be better to use the _Website_ tab in Teams for Document Set use. That wi
 In the use case above, this was how Contoso Insurance set up their Document Set solution. No code was written, everything was configured by the site owner:
   
 1. A new SharePoint Library called "Claims Auditing" created.
-1. Major Versioning enabled. Minor versioning disabled. Check In/Out disabled. _New Folders_ disabled.
-1. Library configured to support Content Types in Library Settings, under Advanced Settings
-1. In the site collection Site Settings, the _Document Set_ feature was enabled.
-1. The _Document Set_ Content Type was added to the new _Claims Auditing_ library, under Library Settings
+2. Major Versioning enabled. Minor versioning disabled. Check In/Out disabled. _New Folders_ disabled.
+3. Library configured to support Content Types in Library Settings, under Advanced Settings
+4. In the site collection Site Settings, the _Document Set_ feature was enabled.
+5. The _Document Set_ Content Type was added to the new _Claims Auditing_ library, under Library Settings
 
-  > So far so good. At this point, we've got a SharePoint Library with Document Sets, but we don't have the real value of it yet. Keep reading:
+    > So far so good. At this point, we've got a SharePoint Library with Document Sets, but we don't have the real value of it yet. Keep reading:
 
 6. Add two new columns to the library, _Date of Claim_ (a date column) and _High-Risk Customer_ (a Y/N choice column). Set the _Date of Claim_ column to default to today's date, and _High-Risk Customer_ to default to _No._
 
-> At this stage, these 2 new columns are available in both the Document Set and the documents uploaded in the Sets.
+    > At this stage, these 2 new columns are available in both the Document Set and the documents uploaded in the Sets.
 
 7. Add another column called _Assigned Reviewer_ (person column) to the library.
 8. In the Library Settings, under Content Type, choose 'Document Set', and then _Document Set Settings._ From here, under Shared Columns, check _Date of Claim_ and _High-Risk Customer._ But **not** _Assigned Reviewer._
@@ -125,7 +125,7 @@ Document Sets enable easy out-of-the-box file organization and automatic classif
 - Blog: SharePoint Maven: [Document sets – the hidden gem of SharePoint](https://sharepointmaven.com/document-sets-hidden-gem-sharepoint/)
 - Blog: Marc Anderson: [A love for SharePoint Document Sets](https://sympmarc.com/2017/07/12/wherein-in-profess-my-love-for-document-sets-my-hatred-of-the-5000-item-limit-and-some-tips/)
 - Blog: Ben Prins [Power Automate Flow and Document Sets](https://www.benprins.net/2020/07/10/power-automate-creating-and-updating-a-document-set-in-sharepoint/)
-- Microsoft PnP: [Adding a Document Set with PnP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/add-pnpdocumentset)
+- Microsoft PnP: [Adding a Document Set with PnP](/powershell/module/sharepoint-pnp/add-pnpdocumentset)
 
 ---
 

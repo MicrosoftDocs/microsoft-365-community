@@ -198,9 +198,9 @@ A Home site is the top site of your intranet. It is a [Communication Site](#comm
 
 * The Home Site  provides an organization-wide search scope, making ALL content in your tenant findable.
 
-* The Home Site  is set up as an [organization news site](https://docs.microsoft.com/sharepoint/organization-news-site).
+* The Home Site  is set up as an [organization news site](/sharepoint/organization-news-site).
 
-Home sites are intended for use as the landing page for your organization. There is only one Home Site per tenant allowed and [its set using PowerShell](https://docs.microsoft.com/SharePoint/home-site)
+Home sites are intended for use as the landing page for your organization. There is only one Home Site per tenant allowed and [its set using PowerShell](/SharePoint/home-site)
 
 ### Hub Site
 
@@ -336,7 +336,7 @@ A set of policies that can be applied to the Power Platform tenant or environmen
 
 ### PowerShell
 
-[PowerShell](https://docs.microsoft.com/windows-server/administration/windows-commands/powershell) is an automation scripting language from Microsoft, which was originally only available on Windows devices, and built on top of the .NET Framework. Since 2016, we also have [PowerShell Core](https://github.com/PowerShell/PowerShell) which is open-source, cross-platform, and built on top of .NET Core.
+[PowerShell](/windows-server/administration/windows-commands/powershell) is an automation scripting language from Microsoft, which was originally only available on Windows devices, and built on top of the .NET Framework. Since 2016, we also have [PowerShell Core](https://github.com/PowerShell/PowerShell) which is open-source, cross-platform, and built on top of .NET Core.
 
 The version that ships on Windows devices is called Windows PowerShell, and the cross-platform version is called PowerShell Core, and is also available on Windows.
 

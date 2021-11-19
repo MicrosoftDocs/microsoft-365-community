@@ -23,7 +23,7 @@ Before we jump to the topic at hand, a little recap of the terminology involved:
 * [Crawled Property](glossary.md#crawled-property): A crawled property is content and metadata that is extracted from an item, such as a document or a URL, during a crawl.
 * [Managed Property](glossary.md#managed-property): Is a list of useful content and metadata included in the search index, we normally map useful crawled properties to managed properties to make search more easy.
 
-For more details about the SharePoint search schema visit [official documentation](https://docs.microsoft.com/sharepoint/manage-search-schema) to learn more.
+For more details about the SharePoint search schema visit [Microsoft official documentation](/sharepoint/manage-search-schema) to learn more.
 
 Also head over here to read more about [PnP Modern Search Solution](https://microsoft-search.github.io/pnp-modern-search/), I will be using this to show a quick usage of Site Columns in Search.
 
@@ -52,38 +52,38 @@ There are a lot of tools you can use to create a Site Column
 
 In SharePoint, navigate to your Site Settings and choose Site Columns. The Site Columns page will contain all the metadata columns currently available in your site, except for hidden system columns.
 
-![Site settings page](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch01.png)
+![Site settings page.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch01.png)
 
 Choose **Create**
 
-![Create new site column](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch02.png)
+![Create new site column.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch02.png)
 
 A Site Column can be created for many different information types, including: Single line of text, Number, Date and Time, etc. In fact, all the same column types you might add directly to a list or library are available to you.
 
-![New site column creation](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch03.png)
+![New site column creation.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch03.png)
 
 When you are done with the settings for you new Site Column, scroll down to the bottom of the page and choose **OK**. The new Site Column will be created and listed in the Site Columns page in the Group you have chosen.
 
 > [!TIP]
 > By putting your custom Site Columns into a group (or groups) preceded by "_" or ".", you'll see your own Site Columns at the top of the listing page.
 
-![Site column group](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch04.png)
+![Site column group.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch04.png)
 
 ### Where to use Site Columns
 
-Site Columns, are normally used in [Document Libraries](glossary.md#document-library) or [list](glossary.md#list).
+Site Columns, are normally used in [Document Libraries](glossary.md#document-library) or [lists](glossary.md#list).
 
 Locate your list or library and navigate to **List settings** or **Library settings**.
 
-![Navigate to library settings](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch05.png)
+![Navigate to library settings.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch05.png)
 
 In the column section, choose to add a column from an existing Site Column.
 
-![Add site column to library](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch06.png)
+![Add site column to library.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch06.png)
 
 The Site Column is now ready to be used in the library, and you can now add values to the column in the list or library.
 
-![Site column available in the library view](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch07.png)
+![Site column available in the library view.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch07.png)
 
 Next, you need to wait for SharePoint Online to do its magic. This magic takes the form of the search crawler indexing the column and its values. This generally takes only a few minutes in SharePoint Online, though it can take longer.
 
@@ -96,14 +96,14 @@ Next, you need to wait for SharePoint Online to do its magic. This magic takes t
 
 In the meantime you can navigate to your tenant's Search Administration page: **SharePoint Admin Center** / **More features** / **Search** / **Manage search schema** (https://[TenantName]-admin.sharepoint.com/_layouts/15/searchadmin/TA_SearchAdministration.aspx) page to review the current settings. You will need the **SharePoint Administrator** role to be able to access this page.
 
-![Search administration page](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch08.png)
+![Search administration page.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch08.png)
 
 Navigate to **Crawled properties** and search for your custom column, if the search crawl has done it's job, you should see your site column as a crawled property.
 
 > [!NOTE]
 > Crawled Property names don't match the Site Column names exactly. Often, the Crawled Property will look like `ows_[SiteColumnInternalName]`, for example, `ows_MyCustomColumnForSearch`. Different column types will have different naming. Searching for a significant fragment of the Site Column's name should help you find it, such as "MyCustom" or "ForSearch" for the column above.
 
-![Crawled search page](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch09.png)
+![Crawled search page.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch09.png)
 
 You may then find one or more crawled properties:
 
@@ -116,48 +116,48 @@ In SharePoint Online, we're not allowed to create new Managed Properties in the 
 
 In the managed properties page, search for "refinablestring" or "refinabledate". For example, use "refinabledate" if your Site Column is a Date and Time type column.
 
-![Refinable string search](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch10.png)
+![Refinable string search.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch10.png)
 
 Pick a RefinableString Managed Property which is available, meaning not already mapped to other Crawled Properties, for example "RefinableString01". These Managed Properties have been pre-defined with everything turned on: Query, Refine, etc.
 
-![RefinableString01 settings](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch11.png)
+![RefinableString01 settings.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch11.png)
 
 Scroll down to the bottom of the page, and map the Crawled Property to the Managed Property. You may also want to add an Alias to help you identify things in the Managed Property listing. For example: **MyCustomColumnForSearchRefinable**. These aliases don't show up in many places, but they can help you stay organized. Click **OK**.
 
-![Mapping of crawled properties to mapped properties](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch12.png)
+![Mapping of crawled properties to mapped properties.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch12.png)
 
-![RefinableString01 mapped to crawled property](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch13.png)
+![RefinableString01 mapped to crawled property.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch13.png)
 
 After this you will need to wait for the search index to be refreshed with the new Managed Property. Search crawls in Microsoft 365 are frequent, and this usually takes less than one hour, often only a few minutes.
 
 To make sure that the index maps your Site Column and its content in the next search crawl, you can navigate back to your site, and in Site Settings, choose "Search and offline availability".
 
-![Search and offline availability menu item](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch14.png)
+![Search and offline availability menu item.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch14.png)
 
 Click **Reindex site** then OK, then wait… [Insert patience here]
 
-![Search and offline availability](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch15.png)
+![Search and offline availability.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch15.png)
 
 When the index has been updated you will be able to search for content that has your Site Column metadata as shown below.
 
-![Search by using your new managed property 1](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch16.png)
+![Search by using your new managed property 1.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch16.png)
 
-![Search by using your new managed property 2](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch17.png)
+![Search by using your new managed property 2.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch17.png)
 
 ---
 
-To extend the search experience you can use the [PnP Modern Search Web Parts](https://microsoft-search.github.io/pnp-modern-search/) solution to build custom search page(s) with its powerful Web Parts:
+To extend the search experience you can use the [PnP Modern Search Web Parts.](https://microsoft-search.github.io/pnp-modern-search/) solution to build custom search page(s) with its powerful Web Parts:
 
 * Search Box Web Part
 * Search Vertical Web Part
 * Search Refiner Web Part
 * Search Results Web Part
 
-![PnP Modern Search web part](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch18.png)
+![PnP Modern Search web part.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch18.png)
 
-You can also embed a SharePoint search page in Teams as a personal app by following [this guide](https://docs.microsoft.com/sharepoint/dev/features/embed-pages-to-teams)  
+You can also embed a SharePoint search page in Teams as a personal app by following [this guide](/sharepoint/dev/features/embed-pages-to-teams)  
 
-![PnP Modern Search page in Teams](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch19.png)
+![PnP Modern Search page in Teams.](media/how-do-site-columns-become-managed-properties-thus-available-for-search/sposearch19.png)
 
 ## Conclusion
 
