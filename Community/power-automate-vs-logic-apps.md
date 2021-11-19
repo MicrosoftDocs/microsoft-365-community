@@ -18,7 +18,7 @@ ms.collection:  SPCommunity
 
 ## What are these services
 
-Power Automate and Azure Logic Apps are workflow services that can automate your processes business or system and integrate with Microsoft and 3rd party services with over 300 connectors. These powerful services are designed to get you going quickly, building the workflow between business services providing that familiarity without having the steep learning curve.
+Power Automate and Azure Logic Apps are workflow services that can automate your processes, business, or system and integrate with Microsoft and 3rd party services with over 300 connectors. These powerful services are designed to get you going quickly, building the workflow between business services providing that familiarity without having the steep learning curve.
 
 **Power Automate** provides a user-friendly and focused experience within Office 365 that can easy to get end-users going once assigned an appropriate license.
 
