@@ -18,7 +18,7 @@ ms.collection: SPCommunity
 
 ## Introduction
 
-Learning Pathways is a [customizable](https://docs.microsoft.com/office365/customlearning/custom_accessadmin), on-demand learning solution in Microsoft 365. Learning Pathways offers a fully customizable SharePoint Online communication site (that may be used as a training portal), easy provisioning from the [SharePoint Look Book](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239?source=default), the ability to make your own [training playlists with custom assets](https://docs.microsoft.com/office365/customlearning/custom_addassets), [a custom web part](https://docs.microsoft.com/office365/customlearning/custom_whereiswebpart) to surface training content across your SharePoint site collections, and up-to-date Microsoft documentation for Microsoft 365 solutions.
+Learning Pathways is a [customizable](/office365/customlearning/custom_accessadmin), on-demand learning solution in Microsoft 365. Learning Pathways offers a fully customizable SharePoint Online communication site (that may be used as a training portal), easy provisioning from the [SharePoint Look Book](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239?source=default), the ability to make your own [training playlists with custom assets](/office365/customlearning/custom_addassets), [a custom web part](/office365/customlearning/custom_whereiswebpart) to surface training content across your SharePoint site collections, and up-to-date Microsoft documentation for Microsoft 365 solutions.
 
 ## Use Cases
 
@@ -34,11 +34,11 @@ For example, there is training content on the LMS for how to click through a pro
 
 ### Raising the technical literacy of the organization
 
-Whether it is training for a brand-new Microsoft 365 launch, supporting your [SharePoint Champions]( https://docs.microsoft.com/microsoft-365/community/empowering-your-sharepoint-champions) or advancing the finance department’s Excel skills, Learning Pathways supports creating self-service learning opportunities through curated playlists.
+Whether it is training for a brand-new Microsoft 365 launch, supporting your [SharePoint Champions](/microsoft-365/community/empowering-your-sharepoint-champions) or advancing the finance department’s Excel skills, Learning Pathways supports creating self-service learning opportunities through curated playlists.
 
 Each playlist offers dropdown menus for “Level” and “Audience,” helping end users determine where to begin. The order of the playlist can match which pieces are most important to the organization or follow a logical progression increasing in difficulty. Breaking training content into bite-sized chunks may also support your end users as they try to fit learning into already busy days.
 
-![Learning Pathways Admin View of Playlist Metadata](media/how-can-i-use-learning-pathways-in-my-organization/LPMetadata.PNG)
+![Learning Pathways Admin View of Playlist Metadata.](media/how-can-i-use-learning-pathways-in-my-organization/LPMetadata.PNG)
 
 For example, Contoso has decided to begin self-service SharePoint site creation. There are different types of governance for collaboration and communication sites. This governance exists in the intranet on the Information Technology site collection. The governance can now be added to a playlist for “Team Site Owners” and “Communication Site Owners” to ensure they are not only learning how to use the technology, but also following the better practices that supports a consistent user experience across Contoso’s environment as well as keeping content secure.
 
