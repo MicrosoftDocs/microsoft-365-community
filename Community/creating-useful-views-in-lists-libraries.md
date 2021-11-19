@@ -21,18 +21,17 @@ ms.collection: M365Community
 
 As a SharePoint Site Owner, you benefit directly by having users who find the product _useful_ with a good _user experience._ Some things you have control over  - navigation structure, page structure, content types, and List/Library Views. If you totally ignore what you have influence over, your users might perceive SharePoint as _something IT imposed on us_. If you lend a hand as Site Owner, you can change that perception. You can be the one who makes Lists/Libraries a joy to work in, a _useful_ thing to work in.
 
->##### Note: *Microsoft Lists*
-> At the time of this writing, _[Microsoft 365 Lists](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-lists-begins-general-availability-roll-out-to/ba-p/1524768)_ -  as a standalone product - is on the way. Much of the thinking here should apply the _Lists_ the tool as well. Good usability crosses product lines.
+> [!NOTE]
+> Microsoft Lists is available both in SharePoint and on its own as the Lists app.
 
 You should lend a hand to your users by making List/Library default Views meaningful and useful from the start. Users can make their own Views, of course, but by showing them what a good View is like, you can empower them to work efficiently.
 
->##### Note: *On language*
+>[!NOTE]
 >This article is left-to-right language focused - and should **not** be considered best practice for right-to-left languages (like Arabic or Hebrew).
-> * [Get involved and improve this open source article](https://github.com/MicrosoftDocs/microsoft-365-community) 
->
-> * [Multilingual SharePoint guidance from Microsoft](https://docs.microsoft.com/sharepoint/sites/plan-for-multilingual-sites)
->
-> * [SharePoint Online Communication Sites and Pages](https://support.microsoft.com/office/create-multilingual-communication-sites-pages-and-news-2bb7d610-5453-41c6-a0e8-6f40b3ed750c)
+
+- [Get involved and improve this open source article](https://github.com/MicrosoftDocs/microsoft-365-community)
+- [Multilingual SharePoint guidance from Microsoft](/sharepoint/sites/plan-for-multilingual-sites)
+- [SharePoint Online Communication Sites and Pages](https://support.microsoft.com/office/create-multilingual-communication-sites-pages-and-news-2bb7d610-5453-41c6-a0e8-6f40b3ed750c)
   
 ## How to make a great default View
 
@@ -54,8 +53,8 @@ As a site owner, get yourself up to speed on [SharePoint List/Library View featu
 
 You should also learn concepts like item/document View metadata filtering and grouping content.
 
-* [Microsoft has an overview of View creation](https://support.microsoft.com/office/edit-a-list-view-in-sharepoint-15916903-e79a-423f-b4e2-02d37e1ff372)
-* [List Column and Site column usage](https://docs.microsoft.com/microsoft-365/community/list-column-or-site-column-which-one-to-choose)
+- [Overview of View creation](https://support.microsoft.com/office/edit-a-list-view-in-sharepoint-15916903-e79a-423f-b4e2-02d37e1ff372)
+- [List Column and Site column usage](/microsoft-365/community/list-column-or-site-column-which-one-to-choose)
 
 ## How will your users _use_ this View?
 
@@ -67,7 +66,7 @@ By taking a beat and thinking about the _tasks_ your users will perform, you'll 
 
 It can be tough to know the answer to this up front, but once you've been a Site Owner for a few years, you'll get a feel for it. This question lends itself to thinking about performance, pagination in Classic (i.e., _1-30 of 3000 items_), folders in Libraries, Grouping content in a View, and data-driven views.
 
-Check the guide to handling Views where there is a lot of content: [Living Large with Large Lists and Large Libraries](https://docs.microsoft.com/microsoft-365/community/large-lists-large-libraries-in-sharepoint)
+Check the guide to handling Views where there is a lot of content: [Living Large with Large Lists and Large Libraries](/microsoft-365/community/large-lists-large-libraries-in-sharepoint)
 
 ## Where are you users accessing this View?
 
@@ -81,21 +80,22 @@ Of which there are many, and it's better to think of this as a spectrum rather t
 
 Think about:
 
-* **Effective Visual Hierarchy** - A View is mostly rows and columns, so hierarchy might not be the first thing that comes to mind. But it's there - left-to-right reading, column order (more important columns on the left) and relationship to the filters pane.
+- **Effective Visual Hierarchy** - A View is mostly rows and columns, so hierarchy might not be the first thing that comes to mind. But it's there - left-to-right reading, column order (more important columns on the left) and relationship to the filters pane.
 
-Read more about hierarchy: [https://xd.adobe.com/ideas/process/information-architecture/visual-hierarchy-in-ux-design/](https://xd.adobe.com/ideas/process/information-architecture/visual-hierarchy-in-ux-design/)
+Read more about hierarchy: [Visual hierarchy in ux design](https://xd.adobe.com/ideas/process/information-architecture/visual-hierarchy-in-ux-design/)
 
-* **Use of color** - With Column Formatting and View Formatting there are real opportunities to apply a plethora of color, icon, and font treatments to your default View. Use _sparingly_ to deliver the most impact. If every column and row is colored in, the user can feel overwhelmed instead of informed.
+- **Use of color** - With Column Formatting and View Formatting there are real opportunities to apply a plethora of color, icon, and font treatments to your default View. Use _sparingly_ to deliver the most impact. If every column and row is colored in, the user can feel overwhelmed instead of informed.
 
 Coloring in rows of data delivers the most impact when its tied to a business goal and provides actionable information to your List/Library user.
 
 Read more about this:
-- [https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting](https://docs.microsoft.com/sharepoint/dev/declarative-customization/column-formatting)
-- [https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting](https://docs.microsoft.com/sharepoint/dev/declarative-customization/view-formatting)
 
-* **The F-shaped pattern** is another classic User Experience principal that directly applies to List/Library Views. The most important, most actionable columns in your default View should be on the left and sorted by what-needs-attention towards the top. If you imagine a large letter F superimposed on the page, this will help you visualize it. User Experience Researchers have used eye tracking to record this phenomenon. Users are reading left-to-right and scanning quickly to find the information they need. Does your View support this?
+- [Column formatting](/sharepoint/dev/declarative-customization/column-formatting)
+- [View formatting](/sharepoint/dev/declarative-customization/view-formatting)
 
-Read more: [https://uxplanet.org/f-shaped-pattern-for-reading-content-80af79cd3394](https://uxplanet.org/f-shaped-pattern-for-reading-content-80af79cd3394)
+- **The F-shaped pattern** is another classic User Experience principal that directly applies to List/Library Views. The most important, most actionable columns in your default View should be on the left and sorted by what-needs-attention towards the top. If you imagine a large letter F superimposed on the page, this will help you visualize it. User Experience Researchers have used eye tracking to record this phenomenon. Users are reading left-to-right and scanning quickly to find the information they need. Does your View support this?
+
+Read more: [F-shaped pattern for reading content](https://uxplanet.org/f-shaped-pattern-for-reading-content-80af79cd3394)
 
 Here's how this eye-tracking might apply to a View. This graphic simulates the output of eye-tracking heatmap results. Red areas are scanned more thoroughly by your user than green.
 
@@ -111,21 +111,21 @@ As the Site Owner, you're doing your users a service by _pinning_ choice and dat
 
 Sometimes little-to-no UX research will be done, and sometimes you won't know how or where your List/Library will be used. These tips will help you establish a good default View that applies in most cases:
 
-* **Title column on the left** side of the view (same with _Name_, if it's a Library). Maybe the most left you can, but not in the middle or the right. Give users a target to click on where they're looking.
+- **Title column on the left** side of the view (same with _Name_, if it's a Library). Maybe the most left you can, but not in the middle or the right. Give users a target to click on where they're looking.
 
-* **In a browser, zero percent of users want to scroll horizontally** even though it's super easy to three-finger horizontal swipe on your brand-new state-of-the-art developer-grade laptop trackpad. Use the Filters Pane instead. Or create a secondary View that shows more columns.
+- **In a browser, zero percent of users want to scroll horizontally** even though it's super easy to three-finger horizontal swipe on your brand-new state-of-the-art developer-grade laptop trackpad. Use the Filters Pane instead. Or create a secondary View that shows more columns.
 
-* **In a Modern View, Item Count (Pagination) is often ignored** in favor of infinite scrolling. This comes at performance tradeoff at your user's expense. Additional rows are loaded and rendered dynamically as the user scrolls. Displaying _fewer_ columns in your View can increase perceived scrolling speed. Smooth scrolling is what your users want in a View. Let the filters pane work for you.
+- **In a Modern View, Item Count (Pagination) is often ignored** in favor of infinite scrolling. This comes at performance tradeoff at your user's expense. Additional rows are loaded and rendered dynamically as the user scrolls. Displaying _fewer_ columns in your View can increase perceived scrolling speed. Smooth scrolling is what your users want in a View. Let the filters pane work for you.
 
-* **Sort Modified date descending** and display the Modified date column. This provides the context of _freshness_ for a given List/Library's View. In many cases, the user's needs to act on the most recent item in the list, like approving a travel expense or reviewing a document update.
+- **Sort Modified date descending** and display the Modified date column. This provides the context of _freshness_ for a given List/Library's View. In many cases, the user's needs to act on the most recent item in the list, like approving a travel expense or reviewing a document update.
 
-* **Default view probably doesn't need a Group-By** because it makes sorting/filtering weird. Easy for the user to lose context to _where_ they are in the View, especially in Modern. Advise against Folders and Group-By _together_ in nearly all cases.
+- **Default view probably doesn't need a Group-By** because it makes sorting/filtering weird. Easy for the user to lose context to _where_ they are in the View, especially in Modern. Advise against Folders and Group-By _together_ in nearly all cases.
 
-* **Display 1 or 2 extra metadata columns for the default View** but more than that may be a higher cognitive load than what your users can handle. And more columns could lead to horizontal scrolling.
+- **Display 1 or 2 extra metadata columns for the default View** but more than that may be a higher cognitive load than what your users can handle. And more columns could lead to horizontal scrolling.
 
-* **You almost never need a Multiline column in a default View** as it breaks up the flow of rows in your list by adding different heights of text. This can slow down your user's reading/scanning of content in the View.
+- **You almost never need a Multiline column in a default View** as it breaks up the flow of rows in your list by adding different heights of text. This can slow down your user's reading/scanning of content in the View.
 
-* **Maybe, consider setting the List/Library to Classic** if performance is an issue with your user's machines or connection. Classic won't work forever, but it still works now. In Classic, the View is rendered _server side_ and takes the load off the browser having to do the heavy lifting. Modern List/Library Views do _all_ the lifting in the browser now. If your machine isn't great, you're _waiting_ instead of working in Modern. Know your customer's gear.
+- **Maybe, consider setting the List/Library to Classic** if performance is an issue with your user's machines or connection. Classic won't work forever, but it still works now. In Classic, the View is rendered _server side_ and takes the load off the browser having to do the heavy lifting. Modern List/Library Views do _all_ the lifting in the browser now. If your machine isn't great, you're _waiting_ instead of working in Modern. Know your customer's gear.
 
 ---
 

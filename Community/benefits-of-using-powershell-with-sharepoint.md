@@ -18,14 +18,14 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-[PowerShell](https://docs.microsoft.com/windows-server/administration/windows-commands/powershell) is an automation scripting language from Microsoft, which was originally only available on Windows devices, and built on top of the .NET Framework.
+[PowerShell](/windows-server/administration/windows-commands/powershell) is an automation scripting language from Microsoft, which was originally only available on Windows devices, and built on top of the .NET Framework.
 Since 2016, we also have [PowerShell Core](https://github.com/PowerShell/PowerShell) which is open-source, cross-platform, and built on top of .NET Core.
 
 The version that ships on Windows devices is called **Windows PowerShell**, and the cross-platform version is called **PowerShell Core** and is also available on Windows.
 
 ## PowerShell for SharePoint
 
-In the SharePoint world, we have multiple [modules](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_modules) available, and which one to use mostly depends on your SharePoint infrastructure. Is it SharePoint on-premises? Is it SharePoint Online?
+In the SharePoint world, we have multiple [modules](/powershell/module/microsoft.powershell.core/about/about_modules) available, and which one to use mostly depends on your SharePoint infrastructure. Is it SharePoint on-premises? Is it SharePoint Online?
 
 Let's have a look at all the different modules currently available for SharePoint.
 
@@ -85,8 +85,8 @@ Other than creating things, you can change/remove them all at once on multiple s
 
 More examples where PowerShell is used:
 
-- [Site Scripts & Site Designs](https://docs.microsoft.com/sharepoint/dev/declarative-customization/site-design-overview)
-- [WPF Applications](https://docs.microsoft.com/dotnet/framework/wpf/getting-started/) (Graphical User Interfaces)
+- [Site Scripts & Site Designs](/sharepoint/dev/declarative-customization/site-design-overview)
+- [WPF Applications](/dotnet/framework/wpf/getting-started/) (Graphical User Interfaces)
 - [Reports on Site Collection Inventory](https://veronicageek.com/sharepoint/sharepoint-2013/get-nested-folders-files-count-folder-size-and-more-in-spo-document-libraries-using-powershell-pnp/2019/09/)
 
 ## Who should know PowerShell?
