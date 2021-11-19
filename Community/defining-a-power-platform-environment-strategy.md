@@ -18,17 +18,17 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-The Power Platform is Microsoft’s answer to the growing need in business for a way to build and customise professional-grade business solutions quickly, with the ability to connect to over 200 data sources including, SharePoint Online, Azure SQL, Twitter and more.
+The Power Platform is Microsoft’s answer to the growing need in business for a way to build and customize professional-grade business solutions quickly, with the ability to connect to over 200 data sources including, SharePoint Online, Azure SQL, Twitter and more.
 
 ## What type of environments are there?
 
-Environments are containers that administrators can use to manage apps, automations, connections, and other assets; along with permissions to allow organisation users to use the resources.
+Environments are containers that administrators can use to manage apps, automation, connections, and other assets; along with permissions to allow organization users to use the resources.
 
 There are multiple types of environments. The type indicates the purpose of the environment and determines its characteristics.
 
 ## Why is the Default Environment special?
 
-A single default environment is automatically created by Power Apps for each tenant and shared by all users in that tenant. Whenever a new user signs up for Power Apps, they're automatically added to the Maker role of the default environment. 
+A single default environment is automatically created by Power Apps for each tenant and shared by all users in that tenant. Whenever a new user signs up for Power Apps, they're automatically added to the Maker role of the default environment.
 
 The default environment is created in the region closest to the default region of the Azure AD tenant.
 There is specific guidance for the Default environment to call out because of its unique nature:
@@ -53,25 +53,25 @@ If you want to follow application lifecycle management (ALM) principles, you'll 
 
 ### Scenario 1 – Personal Productivity (default environment)
 
-![Personal Productivity Approach](media/defining-a-power-platform-environment-strategy/Scenario01-Personal-Productivity.png)
+![Personal Productivity Approach.](media/defining-a-power-platform-environment-strategy/Scenario01-Personal-Productivity.png)
 
 Uses include: Personal Productivity Apps and Flows, Custom SharePoint Lists and Library forms.
 
 ### Scenario 2 – Departmental
 
-![Departmental Approach](media/defining-a-power-platform-environment-strategy/Scenario02-DepartmentEnvironments.png)
+![Departmental Approach.](media/defining-a-power-platform-environment-strategy/Scenario02-DepartmentEnvironments.png)
 
 Uses include: Personal Productivity Apps and Flows, Custom SharePoint Lists and Library forms and dedicated department environments.
 
 ### Scenario 3 – Departmental and Application
 
-![Departmental and Application Approach](media/defining-a-power-platform-environment-strategy/Scenario03-ApplicationEnvironments.png)
+![Departmental and Application Approach.](media/defining-a-power-platform-environment-strategy/Scenario03-ApplicationEnvironments.png)
 
 Uses include: Default environment, dedicated department environments and a dedicated environment(s) for a single application.
 
 ### Scenario 4 – Multi-Tenant ALM Approach
 
-![Multi-Tenant ALM Approach](media/defining-a-power-platform-environment-strategy/Scenario04-Multi-Tenant.png)
+![Multi-Tenant ALM Approach.](media/defining-a-power-platform-environment-strategy/Scenario04-Multi-Tenant.png)
 
 Uses include: Separating Power Platform environments across physical tenants. Could be used to separate Production, Staging and Development environments, or could be used for geo-location reasons.
 
@@ -95,7 +95,7 @@ Based on successful experience with other customer engagements, below is a list 
 
 ## Further Reading
 
-- Microsoft: https://docs.microsoft.com/power-platform/admin/environments-overview
+[Microsoft documentation](/power-platform/admin/environments-overview)
 
 ---
 
