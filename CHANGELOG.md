@@ -6,6 +6,23 @@
 
 Note: Changelog started in January, 2021
 
+## November, 2021
+
+### New Articles - November, 2021
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - November, 2021
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Simon Doy](https://www.linkedin.com/in/simondoy/) |
+| [Power Automate vs Logic Apps](./power-automate-vs-logic-apps.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
+| Various - Markdown cleanup and content edits | [Daisy Feller](https://www.linkedin.com/in/daisy-feller/) |
+
+### New Contributors - November, 2021
+
 ## October, 2021
 
 ### New Articles - October, 2021
