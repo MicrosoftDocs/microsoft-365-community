@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365 Search Technologies
 ms.date: 12/07/2021
-author: ToddKlindt
+author: davemehr
 ms.reviewer: 
 manager: 
 ms.topic: article
