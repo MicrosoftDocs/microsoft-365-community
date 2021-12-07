@@ -1,4 +1,20 @@
+---
+title: Microsoft 365 Search Technologies
+ms.date: 12/07/2021
+author: ToddKlindt
+ms.reviewer: 
+manager: 
+ms.topic: article
+ms.author: 
+ms.prod: microsoft-365
+localization_priority: 
+description: "In Microsoft 365, content can be searched for using various search technologies. The existing variants are based on the same search index, but differ in usage and configuration."
+ms.collection: M365Community
+---
+
 # Microsoft 365 Search Technologies
+
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
 In Microsoft 365, content can be searched for using various search technologies. The existing variants are based on the same search index, but differ in usage and configuration.
 
@@ -66,3 +82,10 @@ Classic search can be used on on-premises farms to implement enterprise-wide sea
 - Microsoft Search: In M365 for a cross-M365 application search
 - SharePoint Search (PnP Modern search Web Parts): Customized SharePoint Search Center in M365 or SharePoint On-Premises
 - SharePoint Search (classic): Customized SharePoint Search Center on SharePoint On-Premises
+
+
+---
+
+**Principal author**: [David Mehr](https://www.linkedin.com/in/david-mehr-055b46181/)
+
+---
