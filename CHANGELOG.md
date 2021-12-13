@@ -6,6 +6,21 @@
 
 Note: Changelog started in January, 2021
 
+## December, 2021
+
+### New Articles - December, 2021
+
+| Article | Principal Author |
+|---|---|
+| [Building great content for your Intranet](./Community/intranet-content-sources.md) | [Paul Bullock](https://www.linkedin.com/in/pkbullock/)|
+
+### Updated Articles - December, 2021
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - December, 2021
+
 ## November, 2021
 
 ### New Articles - November, 2021
