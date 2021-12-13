@@ -37,6 +37,7 @@
 ### [Benefits of using PowerShell with SharePoint](benefits-of-using-powershell-with-sharepoint.md)
 ### [SharePoint Naming Guidelines](sharepoint-naming-guidelines.md)
 ### [Why SharePoint Training is Important](why-sharepoint-training-is-important.md)
+### [Building great content for your Intranet](intranet-content-sources.md)
 ### [Identifying Your SharePoint Champions](identifying-your-sharepoint-champions.md)
 ### [Empowering Your SharePoint Champions](empowering-your-SharePoint-champions.md)
 ## Information Architecture
