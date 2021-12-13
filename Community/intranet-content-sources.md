@@ -13,7 +13,7 @@ ms.collection: M365Community
 
 # Building great content for your Intranet
 
-Build a new Intranet from scratch, major uplift introducing a significant adjustment or want to fill out one of those awesome look book designs with your own content - but struggling for ideas and possible sources of content to include. This article will go through the possible sources of content, content patterns and ideas to get you started.
+Building a new Intranet from scratch? Doing a major uplift introducing a significant adjustment or want to fill out one of those awesome look book designs with your own content - but struggling for ideas and possible sources of content to include? This article will go through the possible sources of content, content patterns and ideas to get you started.
 
 ## Content Sources and Ideas
 
