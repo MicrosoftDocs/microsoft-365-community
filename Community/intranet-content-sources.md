@@ -73,17 +73,11 @@ There are times in which you need to provide people with reference material (con
 Examples include:
 
 - **Policies** - These are your corporate policies and outlined processes for core principles, business operations, and functions e.g. privacy, expenses, holiday, IT, data handling, social media, client engagement, escalation processes, exception handling.
-
 - **Public People Profiles** - For those organizations that have people meeting customers, a summary profile about that person.
-
 - **Public People Pictures** - Images of employees for brochures, literature, newsletters, articles, highlighting that person.
-
 - **Brochure and Marketing Content** - Content you provide your customers when people meet them, this would be accessible to all people in your organization to have access to approved content to share with customers.
-
 - **Service Descriptions and Offerings** - Content related to what you offer as an organization, to promote your services, easily accessible for employees to share with customers. In some cases, these are on a website, so the content would best as links in your intranet to share with employees highlighting that resource.
-
 - **Technical Manuals or Procedures** - Resources related to technical information or procedural information, standard operating procedures, as an open resource for employees to utilize and reference. This content may also list out areas of subscriptions to third-party or external resources that your organization subscribes to.
-
 - **Reference Resources** - Central library of references and resources that people can refer to, useful in reducing duplicate costs for similar subscriptions as well as useful resource of what is available to use.
 
 ### Landing Pages
@@ -104,19 +98,20 @@ Consider this as your shop window to your team. How can you help your readers?
 Finally, external sources of information, where this may be a variety of content on the internet such as:
 
 - **Professional Bodies** - Listing out the organizational relevant content
-- **External Mews** - This may include your website, if you directly publish content. Internalizing it will promote this to people.
+- **External News** - This may include your website, if you directly publish content. Internalizing it will promote this to people.
 - **External Websites and References** - Listing out those common areas of reference to external content, consider providing a way for people to search, suggest new references, remove old ones if links break (although this could be automated).
 - **Partners** - Describe the partnerships you have with other organizations, how to engage with them, what types of services or products can they offer.
 
 ## Conclusion
 
-These resources are ideas and suggestions to use if you struggle with thinking about what to write about. They are potential ideas to grow your content and keep it fresh for staff. 
-
+These resources are ideas and suggestions to use if you struggle with thinking about what to write about. They are potential ideas to grow your content and keep it fresh for staff.
 
 ## You can help
+
 This article is intended as a guide, however if you have suggestions or content ideas that you would like to add, consider submitting a pull request to include your insights into this article.
 
 ## Resources
+
 [Plan your SharePoint communication site](https://support.microsoft.com/office/plan-your-sharepoint-communication-site-35d9adfe-d5cc-462f-a63a-bae7f2529182)
 
 ---
