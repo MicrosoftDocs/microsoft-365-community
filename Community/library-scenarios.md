@@ -30,7 +30,7 @@ Using the example of a *Benefits* and *Pay and Compensation* groups within a *Hu
 
 Example image shown below:
 
-![Functional group document libraries](media/library-scenarios/functional-group-scenario-01.png)
+![Image of a functional group document library.](media/library-scenarios/functional-group-scenario-01.png)
 
 ## Subject matter scenario
 
@@ -43,13 +43,13 @@ Using the example of *project plans* and *governance documents*, we would plan f
 
 Example image shown below:
 
-![Subject matter document libraries](media/library-scenarios/subject-matter-scenario-01.png)
+![Image of a subject matter document library.](media/library-scenarios/subject-matter-scenario-01.png)
 
 In some cases, high value content is limited in quantity, and additional document libraries add complexity to user navigation. In these situations, highlight the high value content by [pinning it to the top of the document library](https://support.office.com/article/Highlight-a-file-folder-or-link-in-a-document-library-9c5f46de-f0f4-4cf1-bd5e-b4ebc7a8b31c). When you pin an item, a thumbnail image will appear at the top of the document library page making it easier for users to find it.
 
 Example image shown below:
 
-![Pinned folder in document library](media/library-scenarios/subject-matter-scenario-02.png)
+![Image of a pinned folder in document library.](media/library-scenarios/subject-matter-scenario-02.png)
 
 ## Sensitivity scenario
 
@@ -59,11 +59,11 @@ Using the example of *employee reports*, we would plan for a "Confidential" secu
 
 Example image below of the "Confidential" security group:
 
-![Custom security group](media/library-scenarios/sensitivity-scenario-01.png)
+![Image of a custom security group.](media/library-scenarios/sensitivity-scenario-01.png)
 
 Example image below of the "Confidential" document library unique permissions:
 
-![Document library unique permissions](media/library-scenarios/sensitivity-scenario-02.png)
+![Image of a document library with unique permissions.](media/library-scenarios/sensitivity-scenario-02.png)
 
 >Custom security groups and document libraries with unique permissions add complexity to ongoing site management. Before implementing consider moving sensitive content to its own site collection.
 
@@ -80,13 +80,13 @@ Using the example of *branding* and *marketing materials*, we would plan for:
 
 Example image shown below:
 
-![Multimedia document libraries](media/library-scenarios/multimedia-scenario-01.png)
+![Image of a multimedia document library for marketing materials.](media/library-scenarios/multimedia-scenario-01.png)
 
 Multimedia document libraries can be designated as an [Organization Asset Library](/sharepoint/organization-assets-library) making image files available to users for site and page creation.
 
 Example image shown below:
 
-![Multimedia document libraries](media/library-scenarios/multimedia-scenario-02.png)
+![Image of a multimedia document library used as an organization asset library.](media/library-scenarios/multimedia-scenario-02.png)
 
 >Video files intended for streaming use should be hosted in [Microsoft Stream](/stream/overview).
 

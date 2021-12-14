@@ -118,7 +118,7 @@ You can use custom blocked words to "reserve" keywords and prevent multiple user
 
 The Office 365 Global Administrator and a few other administrator roles are exempted from these restrictions.  You can potentially apply the policies to prevent users from creating sites with blocked words without affecting your ability to create the site topology your organization needs.
 
-To find out more about Group naming policies, and to learn to define them, visit the [Office 365 Groups naming policies documentation](/office365/admin/create-groups/groups-naming-policy?view=o365-worldwide).
+To find out more about Group naming policies, and to learn to define them, visit the [Office 365 Groups naming policies documentation](/office365/admin/create-groups/groups-naming-policy).
 
 ---
 
