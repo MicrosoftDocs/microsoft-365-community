@@ -116,6 +116,9 @@ These resources are ideas and suggestions to use if you struggle with thinking a
 ## You can help
 This article is intended as a guide, however if you have suggestions or content ideas that you would like to add, consider submitting a pull request to include your insights into this article.
 
+## Resources
+[Plan your SharePoint communication site](https://support.microsoft.com/office/plan-your-sharepoint-communication-site-35d9adfe-d5cc-462f-a63a-bae7f2529182)
+
 ---
 
 **Principal author**: [Paul Bullock](https://www.linkedin.com/in/pkbullock)

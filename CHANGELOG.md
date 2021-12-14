@@ -13,7 +13,7 @@ Note: Changelog started in January, 2021
 | Article | Principal Author |
 |---|---|
 | [Building great content for your Intranet](./Community/intranet-content-sources.md) | [Paul Bullock](https://www.linkedin.com/in/pkbullock/)|
-
+| [Microsoft 365 Search Technologies](./Community/microsoft-365-search-technologies.md) | [Dave Mehr](https://www.linkedin.com/in/david-mehr-055b46181/)|
 ### Updated Articles - December, 2021
 
 | Article | Updated By |
@@ -21,6 +21,7 @@ Note: Changelog started in January, 2021
 | [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps.md) | [Richard Astbury](https://www.linkedin.com/in/richardastbury/) |
 
 ### New Contributors - December, 2021
+- [Dave Mehr](https://www.linkedin.com/in/david-mehr-055b46181/)
 
 - [Richard Astbury](https://www.linkedin.com/in/richardastbury/)
 
