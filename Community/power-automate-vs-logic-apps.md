@@ -39,7 +39,7 @@ Whilst Power Automate is built on top of Azure Logic Apps, there are differences
 |Error Handling| Flow Checker - providing a list of errors within the Flow | Save Failed - highlighting errors  |
 |Trigger Types | Automated, Instant, Scheduled, UI Flow, Business Process  | HTTP (Automated), WebHook, Scheduled, HTTP Call (Manual)  |
 
->> *Check out the license plan details for each of the services, this article only serves as a guide not pricing information.  
+> *Check out the license plan details for each of the services, this article only serves as a guide not pricing information.  
 
 For a detailed comparison, check out: [https://docs.microsoft.com/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs](https://docs.microsoft.com/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs#compare-microsoft-power-automate-and-azure-logic-apps)
 

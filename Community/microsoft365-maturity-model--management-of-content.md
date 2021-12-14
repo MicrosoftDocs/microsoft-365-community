@@ -54,7 +54,7 @@ This competency focuses on many aspects with management of content, including pr
 - Stream
 - SharePoint Syntex
 - Power Automate
-- Project Cortex
+- Viva Topics
 
 ### Aspects of content that can be managed
 

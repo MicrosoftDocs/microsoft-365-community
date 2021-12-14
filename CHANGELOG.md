@@ -6,6 +6,42 @@
 
 Note: Changelog started in January, 2021
 
+## December, 2021
+
+### New Articles - December, 2021
+
+| Article | Principal Author |
+|---|---|
+| [Building great content for your Intranet](./Community/intranet-content-sources.md) | [Paul Bullock](https://www.linkedin.com/in/pkbullock/)|
+| [Microsoft 365 Search Technologies](./Community/microsoft-365-search-technologies.md) | [Dave Mehr](https://www.linkedin.com/in/david-mehr-055b46181/)|
+### Updated Articles - December, 2021
+
+| Article | Updated By |
+|---|---|
+| [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps.md) | [Richard Astbury](https://www.linkedin.com/in/richardastbury/) |
+
+### New Contributors - December, 2021
+- [Dave Mehr](https://www.linkedin.com/in/david-mehr-055b46181/)
+
+- [Richard Astbury](https://www.linkedin.com/in/richardastbury/)
+
+## November, 2021
+
+### New Articles - November, 2021
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - November, 2021
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Simon Doy](https://www.linkedin.com/in/simondoy/) |
+| [Power Automate vs Logic Apps](./power-automate-vs-logic-apps.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
+| Various - Markdown cleanup and content edits | [Daisy Feller](https://www.linkedin.com/in/daisy-feller/) |
+
+### New Contributors - November, 2021
+
 ## October, 2021
 
 ### New Articles - October, 2021
