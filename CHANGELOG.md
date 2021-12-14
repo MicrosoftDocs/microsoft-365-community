@@ -18,8 +18,11 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
+| [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps.md) | [Richard Astbury](https://www.linkedin.com/in/richardastbury/) |
 
 ### New Contributors - December, 2021
+
+- [Richard Astbury](https://www.linkedin.com/in/richardastbury/)
 
 ## November, 2021
 
