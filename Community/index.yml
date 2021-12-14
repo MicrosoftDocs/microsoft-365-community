@@ -30,6 +30,8 @@ landingContent:
             url: glossary.md
           - text: Follow Microsoft 365 on Social Media
             url: microsoft-365-on-social-media.md
+          - text: Microsoft 365 Search Technologies
+            url: microsoft-365-search-technologies.md
           - text: What is a Site Column?
             url:  what-is-site-column.md
           - text: What is a Content Type?
