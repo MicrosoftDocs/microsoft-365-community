@@ -82,13 +82,13 @@ Example image shown below:
 
 ![Multimedia document libraries](media/library-scenarios/multimedia-scenario-01.png)
 
-Multimedia document libraries can be designated as an [Organization Asset Library](https://docs.microsoft.com/sharepoint/organization-assets-library) making image files available to users for site and page creation.
+Multimedia document libraries can be designated as an [Organization Asset Library](/sharepoint/organization-assets-library) making image files available to users for site and page creation.
 
 Example image shown below:
 
 ![Multimedia document libraries](media/library-scenarios/multimedia-scenario-02.png)
 
->Video files intended for streaming use should be hosted in [Microsoft Stream](https://docs.microsoft.com/stream/overview).
+>Video files intended for streaming use should be hosted in [Microsoft Stream](/stream/overview).
 
 ---
 
