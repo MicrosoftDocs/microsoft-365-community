@@ -60,8 +60,8 @@ Differences when in use
 * In SharePoint, a guest can be promoted to Owner of the site
 * In SharePoint (Groups) you can't add an external guest as a member of the O365 Group, this has to be done through the Outlook Web App (OWA), but you can share the SharePoint site only
 
-    ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest05.png)
-    ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest07.png)
+    ![Image of error message that occurs when you try to add an external guest as a member of an O365 Group in SharePoint.](media/managing-external-guest-in-SharePoint-vs-Teams/guest05.png)
+    ![Image of the site permissions pane.](media/managing-external-guest-in-SharePoint-vs-Teams/guest07.png)
 
 What about "Permission Inheritance"
 
@@ -121,11 +121,11 @@ Now and then you will need to make sure that Guest users can't be invited to a c
 
 Follow the guide below to achieve this, as pr. my knowledge you will need Global administrator right to achieve this.
 
-* [Block guest access to Team](/microsoft-365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide#block-guest-users-from-a-specific-group)
+* [Block guest access to Team](/microsoft-365/admin/create-groups/manage-guest-access-in-groups#block-guest-users-from-a-specific-group)
 
 ## Useful resources
 
-* [Manage guest access in Office 365 Groups](/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+* [Manage guest access in Office 365 Groups](/office365/admin/create-groups/manage-guest-access-in-groups)
 * [Adding guests to Office 365 Groups](https://support.office.com/article/adding-guests-to-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
 ---
