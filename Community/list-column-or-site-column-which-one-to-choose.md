@@ -31,7 +31,7 @@ If we take the example of SharePoint Online, we can now [create a column in a li
 
 But by doing that, the column will only be created at the list/library level, and therefore, be of type _List column_.
   
-#### What does this mean?
+### What does list column mean?
 
 It means that your column will only be available to that particular list/library, and _not_ outside that boundary. If you wish to use that column outside of that list/library, you will have to recreate it at the new location.
 
@@ -43,7 +43,7 @@ As we've seen above, list columns are easy to create, but live in a "container" 
 
 _Site columns_ on the other hand, are created at the site level, and available to reuse _from_ the site they're created in (as the starting point).  
 
-#### What does this mean?
+### What does site column mean?
 
 Well, this means that if you create a site column at the root of your site collection, the column will be available throughout the entire site collection. <br>
 If you create a site column at the subsite level, this column will only be available for the subsite itself, and every other subsite(s) underneath. But not above.
@@ -59,7 +59,7 @@ If you're looking for reusability across list/library boundaries, then create a 
 To be Search aware, another aspect to consider in your decision is, whether you are going to use Search to find existing content in the created column or, additionally, use the column in Search queries to find content.<br>
 Creating a _site column_ will create a Search managed property (MP) automatically which you can use to Search for content. While with a _list column_ it won't create a MP, but you will still be able to Search for column contents.<br>
 
-Say that _site column_ is MySiteColumn of type single line of text. After you add content to it, a new MP will be created with name MySiteColumnOWSTEXT ([How site columns become managed properties](https://docs.microsoft.com/sharepoint/technical-reference/automatically-created-managed-properties-in-sharepoint)) which you can use to retrieve content in a Search query, like for example:
+Say that _site column_ is MySiteColumn of type single line of text. After you add content to it, a new MP will be created with name MySiteColumnOWSTEXT ([How site columns become managed properties](/sharepoint/technical-reference/automatically-created-managed-properties-in-sharepoint)) which you can use to retrieve content in a Search query, like for example:
 
 MySiteColumnOWSTEXT:contoso
 

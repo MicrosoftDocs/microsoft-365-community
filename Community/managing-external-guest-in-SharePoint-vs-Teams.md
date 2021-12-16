@@ -26,17 +26,17 @@ Guest User -> a user outside of your Office 365 organization.
 
 In the Office 365 Central Administration center:
 
-1. Verify that Sharing is enabled for the tenant in the tenant Admin Center
+1. Verify that Sharing is enabled for the tenant in the tenant Admin Center.
 
-    ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest01.png)
+    ![Image of the checkbox to let users add new guests to the organization.](media/managing-external-guest-in-SharePoint-vs-Teams/guest01.png)
 
-2. Verify the Office 365 Group allows users to invite guest
+2. Verify the Office 365 Group allows users to invite guests by checking the boxes to let group members outside your organization access group content and let group owners add people outside your organization to groups.
 
-    ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest02.png)
+    ![Image of the Office 365 Groups checkboxes.](media/managing-external-guest-in-SharePoint-vs-Teams/guest02.png)
 
-3. Verify in SharePoint Admin Center guest sharing is on and set the way your governance dictates
+3. Verify in the SharePoint Admin Center that guest sharing is on and set the way your governance dictates
 
-    ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest03.png)
+    ![Image of the SharePoint sharing settings.](media/managing-external-guest-in-SharePoint-vs-Teams/guest03.png)
 
 ## What is the differences in Permissions and Sharing
 
@@ -87,7 +87,7 @@ Imagine you have a "Private Project Team", that is restricted to members:
 * You need owners and members, this can easily be managed by Teams
 * If you have Guests that are members of the project, you can easily invite them to your Team
 
-    ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest04.png)
+    ![Image of the field to add members to a team.](media/managing-external-guest-in-SharePoint-vs-Teams/guest04.png)
 
 ### Use case #2
 
@@ -96,7 +96,7 @@ Imagine you have a "Private Project Team", that is restricted to members but hav
 * You use Teams to add/remove members as needed to your project, including guest users
 * You then use SharePoint to share any content to any other users who are not a member, both internal and guest
 
-    ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest08.png)
+    ![Image of documents in SharePoint.](media/managing-external-guest-in-SharePoint-vs-Teams/guest08.png)
 
 ### Use case #3
 
@@ -106,26 +106,26 @@ Imagine you have a "Private Project Team", that is restricted to members, and yo
 * You then invite the "others" external guest to the SharePoint site only as members
 * You can, of course, share the SharePoint site with visitors to allow read-only access to all content
 
-    ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest07.png)
+    ![Image of the Invite people button in SharePoint.](media/managing-external-guest-in-SharePoint-vs-Teams/guest07.png)
 
 ## How to check if you have a lot of external users
 
 * In Teams, just look at the members list, everyone with (Guest) is external
 * In SharePoint, use the new "External user report" in Site Analytics to verify
 
-![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest09.png)
+![Image of the external user report in SharePoint.](media/managing-external-guest-in-SharePoint-vs-Teams/guest09.png)
 
 ## Block guest access to certain Teams
 
-Now and then you will need to make sure that Guest users can't be invited to a certain Team by accident, for example the HR or Finance Team. 
+Now and then you will need to make sure that Guest users can't be invited to a certain Team by accident, for example the HR or Finance Team.
 
 Follow the guide below to achieve this, as pr. my knowledge you will need Global administrator right to achieve this.
 
-* [Block guest access to Team](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide#block-guest-users-from-a-specific-group)
+* [Block guest access to Team](/microsoft-365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide#block-guest-users-from-a-specific-group)
 
 ## Useful resources
 
-* [Manage guest access in Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+* [Manage guest access in Office 365 Groups](/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 * [Adding guests to Office 365 Groups](https://support.office.com/article/adding-guests-to-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
 ---
