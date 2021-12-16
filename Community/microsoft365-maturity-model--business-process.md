@@ -58,7 +58,7 @@ Organizations at this level are running their business processes in a manual, ad
 - Exceptions cause long delays (e.g. a key resource is out of the office, or the first time a new situation is encountered there is no method for defining what should happen).
 - Tracking of the state of the process or status of an activity within a process is not possible or not done. Reporting or analytics are absent.
 
-#### Impacts
+#### Level 100 Impacts
 
 At this level you can expect the following:
 
@@ -97,7 +97,7 @@ Organizations at this level are evaluating or implementing technology to help au
 - No strategy around automation, including standardization of technology platform and approach has been developed. Automation tasks are approached in different ways.
 - There is often inconsistency between the documented process and the deployed process.
 
-#### Impacts
+#### Level 200 Impacts
 
 At this level you can expect the following:
 
@@ -126,7 +126,7 @@ Organizations at this level are using M365 to manage business process across mul
 - Quality Systems incorporate key business process solutions, and the solutions are tested for compliance for processes that impact quality
 - New solutions are designed with tracking, performance metrics and out of bounds notifications
 
-#### Impacts
+#### Level 300 Impacts
 
 At this level you can expect the following:
 
@@ -160,7 +160,7 @@ Organizations at this level have set goals for the process, such as reduced time
 - Process outputs and metrics data are collected and used for business intelligence reporting
 - All processes have clear ownership. Changes in staff and expertise are considered and processes are resilient to these changes
 
-#### Impacts
+#### Level 400 Impacts
 
 At this level you can expect the following:
 
@@ -191,7 +191,7 @@ Organizations at this level are using the M365 platform optimally to automate th
 - Processes reach outside the organization, to interact efficiently with 3rd parties including suppliers, clients and regulators
 - Innovative approaches are taken to automation of tasks; as new technologies and techniques emerge these are proactively introduced, freeing up time for staff to deal with complex cases and 'out of bounds' scenarios.
 
-#### Impacts
+#### Level 500 Impacts
 
 At this level you can expect the following:
 
@@ -228,7 +228,7 @@ Improving your Business Process maturity requires an investment in business proc
 
 ## Related documents
 
-- [Business process flows overview](https://docs.microsoft.com/power-automate/business-process-flows-overview)
+- [Business process flows overview](/power-automate/business-process-flows-overview)
 - [Defining a Power Platform Environment Strategy](defining-a-power-platform-environment-strategy.md)
 - [The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1](power-platform-dlp-policies-you-should-be-considering-on-day-1.md)
 
