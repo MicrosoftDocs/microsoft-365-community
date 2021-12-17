@@ -16,7 +16,7 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
+![Image of the Maturity Model for Microsoft 365 logo.](media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview of the Concepts [tl;dr]
 
@@ -69,7 +69,7 @@ There is little company guidance or recommendation on where to have different ty
 - No process exists for discovering whether colleagues have particular skills, areas of expertise, or common interests and values. Communities of interest are serendipitous and do not take place digitally. They are effectively invisible to the organization.
 - Personal contact, telephone, and email are the primary means of communication.
 
-#### Impacts
+#### 100 Impacts
 
 At this maturity level, many end users don’t know much about their colleagues and are unclear on how they should engage with them or reach out for help with projects and activities; this is also reflected in the amount of untargeted communications. Team building is based on personal knowledge and has little scope. Many staff feel left out or under-utilized for their skillsets. Expertise in different locations is rarely leveraged. Insights and support are often a matter of luck or chance.
 
@@ -90,7 +90,7 @@ At this level, the focus tends to be on creating communication channels for the 
 - The focus tends to be on creating communication within known groups of people working on projects (the inner loop).
 - Policies and guidance on aspects of People and Communities exist, but this is not tracked, lacks metrics and is not strongly advocated for within the management process. Each team may decide how to act on the guidance based on the project goal and their team preference.
 
-#### Impacts
+#### 200 Impacts
 
 Staff productivity is reduced due to the time spent trying engage the right people in activities, source knowledge and expertise. The attempts to provide technology to support people, groups, and the company culture are compromised by poor data quality, inconsistent approaches, and a lack of commitment at all levels. Staff and management are equally frustrated by this but lack outlets for addressing the issue.
 
@@ -117,7 +117,7 @@ People profiles have additional information populated for skills, expertise, and
 - Local directories are in the process of being eliminated.
 - Staff know how to identify groups, distribution lists and other groupings for communication and engagement.
 
-#### Impacts
+#### 300 Impacts
 
 End users begin to see the ROI for completing their profiles as they can more easily identify who-does-what across the organization. Working teams and employee interest groups experience an increase in engagement and productivity as they connect in communication channels specific to their goals. In order to solve problems in daily work, employees frequently reach across organizational boundaries based on content ownership, and subject matter expertise they recognize as useful.
 
@@ -133,7 +133,7 @@ A strategic view of all communication channels including email, Yammer Communiti
 - Dynamic organization charts are available based on up-to-date data about each employee.
 - Staff photos are updated across multiple systems and profiles from definitive, managed source. Photography style is defined.
 
-#### Impacts
+#### 400 Impacts
 
 Users rely on different communication channels to stay informed for their day-to-day work as well as for special interest areas that contribute to company culture. They understand and follow governance best practices to share knowledge in these separate channels, with a high degree of trust in the platform getting their message to the right people. Communication in separate communities is fluid and largely frictionless, allowing easy access to inner loops and outer loops, when useful. Organization charts are no longer manually created as end users use the dynamic organization chart in people cards to identify company structure.
 
@@ -147,7 +147,7 @@ People are connected across the organization based on their skills, interests, a
 - Communities and conversations extend to external participants when it makes a process more effective.
 - Employees are finding opportunities to innovate within the company spurred by new connections.
 
-#### Impacts
+#### 500 Impacts
 
 At this level, business leaders and platform administrators implement continuous improvements based on user activities and feedback. Users are proud of the communities they have built and can show real ROI for increased engagement over the way they previously communicated. Senior leadership is actively engaged across the organization, walking the walk and talking the talk.
 
@@ -182,10 +182,10 @@ Improving your People and Communities maturity means rethinking your processes a
 
 ## Related documents
 
-- [How to Share Org-Wide Communication in Microsoft 365](https://docs.microsoft.com/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
+- [How to Share Org-Wide Communication in Microsoft 365](/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
 - [Join and create a community in Yammer](https://support.microsoft.com/office/join-and-create-a-community-in-yammer-56aaf591-1fbc-4160-ba26-0c4723c23fd6)
-- [Manage Dynamic Distribution Groups](https://docs.microsoft.com/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups)
-- [Principles of Communication](https://docs.microsoft.com/microsoft-365/community/principles-of-communication)
+- [Manage Dynamic Distribution Groups](/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups)
+- [Principles of Communication](/microsoft-365/community/principles-of-communication)
 
 ---
 

@@ -16,8 +16,7 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-
-![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
+![Image of the Maturity Model for Microsoft 365 logo.](media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview of the Concepts [tl;dr]
 
@@ -52,7 +51,7 @@ Search is about enabling people to find the authoritative information within the
 
 ## Evolution of this competency
 
-See the [Maturity Model for Microsoft 365 - Introduction](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro) for definitions of the Maturity Model levels.
+See the [Maturity Model for Microsoft 365 - Introduction](/microsoft-365/community/microsoft365-maturity-model--intro) for definitions of the Maturity Model levels.
 
 People search for many reasons:
 
@@ -65,7 +64,7 @@ People search for many reasons:
 
 The evolution of Search starts from the basic 'index card' concept, which tells you where to find the document etc. you are looking for, epitomized by the Dewey Decimal system found in libraries. As technology developed, it become possible to search limited metadata (filename) in file repositories, then other attributes and eventually search engines were able to index contents (Semantic analysis), file properties and metadata/tags across multiple repositories. In parallel, the user experience of the search, especially for creating the query and presenting results has improved from basic or cluttered to strongly structured with previews and interaction points, plus post-search filtering or refinement. In parallel, the technologies have become aware of security and governance, reporting and feedback, content weighting and relevance (e.g. headings are more important than text), context, relevancy and 'freshness' (more recent content is likely to be more useful) and can deal with advanced content management technologies.
 
-Search provides two 'experiences' within Microsoft 365 – [classic and modern](https://docs.microsoft.com/sharepoint/differences-classic-modern-search) - both of which use the same Search Index.
+Search provides two 'experiences' within Microsoft 365 – [classic and modern](/sharepoint/differences-classic-modern-search) - both of which use the same Search Index.
 
 - Classic search, which is configured via the SharePoint Admin Centre and available through SharePoint Online.
 - Modern search, which is also known as Microsoft Search.
@@ -80,7 +79,7 @@ Search relies heavily on several other competencies including Collaboration and 
 
 **[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
-#### Governance & Security
+#### 100 Governance & Security
 
 - Out of the box search experience, the quality of results varies wildly with users often unable to find what they are looking without knowing the terms to search for.
 - No formal process to curate search results or analyze search patterns.
@@ -88,7 +87,7 @@ Search relies heavily on several other competencies including Collaboration and 
 - The danger of search finding inappropriate content is not well understood.
 - Search often does not respect user privileges and access rights.
 
-#### Search Technology
+#### 100 Search Technology
 
 - Search may be restricted to File System search and a few specific applications.
 - Default out of the box configuration is in place; often with very limited capabilities (filename, title, date).
@@ -98,7 +97,7 @@ Search relies heavily on several other competencies including Collaboration and 
 - No enhancements are made to the search experience to aid the user.
 - Configuration of authoritative data sources have not been configured to help relevance ranking.
 
-#### User Experience
+#### 100 User Experience
 
 - The user experience is basic.
 - User's may not always find content that they want without knowing the right search terms.
@@ -110,7 +109,7 @@ Search relies heavily on several other competencies including Collaboration and 
 - Search requires users to know how to ask the right question, possibly with very specific syntax, query structure and case sensitivity.
 - Users turn to search by default because the information architecture (navigation, site topology, taxonomy, etc.) don't assist them to find relevant content.
 
-#### Impact
+#### 100 Impact
 
 Users rarely rely on search; accessing known documents in known places (which are potentially superseded); they rely on browsing rather than search (failing to find the correct document); asking colleagues (consuming their time and attention) or creating new versions of content that already exists. Users frequently make copies of documents so that they 'know' where they are.
 
@@ -130,7 +129,7 @@ Productivity is compromised; compliance activities are weak; organizational and 
 
 **[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
-#### Governance & Security
+#### 200 Governance & Security
 
 - Some search tools respect user access rights, but inconsistencies exist, and inappropriate content may be surfaced.
 - Some effort is made to promote or identify current or authoritative versions, but with limited consistency.
@@ -139,7 +138,7 @@ Productivity is compromised; compliance activities are weak; organizational and 
 - Users are not encouraged to use Search instead of legacy approaches.
 - No role defined to administer and refine search experience.
 
-#### Search Technology
+#### 200 Search Technology
 
 - There are some search-based point solutions which have enhanced configuration to improve user experience.
 - Some custom specific organization search results have been configured.
@@ -148,7 +147,7 @@ Productivity is compromised; compliance activities are weak; organizational and 
 - Re-indexing is automated and typically occurs overnight. As such new content isn't initially findable.
 - Different search syntax exists between applications.
 
-#### User Experience
+#### 200 User Experience
 
 - Users have basic awareness of search, do use it for some tasks and in some systems, but rely on other methods of finding the majority of what they need. Most users are unaware of advanced search features or even the availability of search in some applications.
 - Results layouts are somewhat consistent but lack refinements and high value content is not promoted to the top of the results. Result layout and features do vary between applications.
@@ -157,7 +156,7 @@ Productivity is compromised; compliance activities are weak; organizational and 
 - Users frequently cannot find the content they need and fall back to other methods to confirm that they are using the correct document etc.
 - Some signposting is in place, i.e. there are visual or text devices to assist the user to navigate to the correct content or location.
 
-#### Impact
+#### 200 Impact
 
 At this level, search usage is not ubiquitously or consistently present throughout the organization but is more popular as employees see the benefits of being able to find content. However, the search experience differs depending on where the search takes place. There may have been the migration of file content from file servers into SharePoint; it becomes possible to search across all content stored in platforms, such as Microsoft 365.
 
@@ -169,11 +168,11 @@ Productivity and compliance remain compromised; and frustration at the inability
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
-#### Governance & Security
+#### 300 Governance & Security
 
 - User access rights are consistently applied, and processes exist to manage access.
 
-#### Search Technology
+#### 300 Search Technology
 
 - Commonly searched keywords are configured with tailored results.
 - An enterprise search exists that is connected to other file repositories and line of business applications to break down information silos and allow search across the enterprise. (This could be hybrid, Salesforce etc.). This may not be consistently available nor address all the needs of users, however.
@@ -184,13 +183,13 @@ Productivity and compliance remain compromised; and frustration at the inability
 - The business is using modern search web parts to enhance the user interface and search experience.
 - People are understood as information assets. Skills and expertise are captured and returned in response to search queries.
 
-#### User Experience
+#### 300 User Experience
 
 - Users are educated on search and how to make best use of it.
 - Search boxes are presented consistently and provide guidance.
 - Search results are consistently laid out and provide content summaries and previews.
 
-#### Impact
+#### 300 Impact
 
 Search actively adds value to organizations, releasing staff time, improving compliance, and creating confidence that correct versions of documents, etc. are in use. Staff can locate some physical assets, skills.
 
@@ -200,7 +199,7 @@ At this level, Search becomes an asset to the organization. This has been recogn
 
 **[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
 
-#### Governance & Security
+#### 400 Governance & Security
 
 - A role exists in the organization to manage enterprise search, to review keywords, feedback and search metrics with a view to ensuring effectiveness.
 - Processes are in place to ensure staff maintain their profiles, including skills and expertise.
@@ -210,7 +209,7 @@ At this level, Search becomes an asset to the organization. This has been recogn
 - Search is be used to assist compliance processes such as subject access request and, legal eDiscovery.
 - There are tools and processes to ensure staff maintain their profiles and update content to improve findability.
 
-#### Search Technology
+#### 400 Search Technology
 
 - Search usage is analyzed and used to improve search results.
 - Contextual search is embedded in line of business systems.
@@ -223,17 +222,17 @@ At this level, Search becomes an asset to the organization. This has been recogn
 - Advanced queries can be created using a defined query language.
 - Frequency of content indexing is appropriate to the periodicity (&quot;freshness&quot;) of change of different repositories and business processes.
 
-#### User Experience
+#### 400 User Experience
 
 - Users are skilled at discovery of content, information, and skills across the organization.
 - Search results provide previews across most content types; offer interaction (such as email, save for later), and display useful information dependent on content.
 - Users can access search from most applications and elements of their digital workspace, including mobile.
 - Common queries can be saved by users and notifications relating to new results are possible.
-- Recommended content and [common bookmarks](https://docs.microsoft.com/microsoftsearch/manage-bookmarks) to standard or 'best bet' results are proactively published by the organization.
+- Recommended content and [common bookmarks](/microsoftsearch/manage-bookmarks) to standard or 'best bet' results are proactively published by the organization.
 - Users are frequently unaware that search is used to retrieve information within their workspace.
 - External and public domain content is included in content activities, such as finding appropriate images.
 
-#### Impact
+#### 400 Impact
 
 This level sees Search being managed throughout the organization. Processes are in place to add new content, search verticals and search result layouts and Microsoft Search configuration.
 
@@ -247,7 +246,7 @@ Search results can be relied on; the current versions are reliably returned; ina
 
 Search is part of everyday life for an employee at the organization. New innovative ways of exposing content are investigated. Search metrics are used to analyze user behavior and understand gaps in the information that is being returned.
 
-#### Governance & Security
+#### 500 Governance & Security
 
 - The organization seeks to continually enhance all aspects of the search process and experience; extending scopes, optimizing results and linking related information based on continual feedback
 - Advanced analytics are used to understand search usage and this provides further insights into activities across the company
@@ -255,7 +254,7 @@ Search is part of everyday life for an employee at the organization. New innovat
 - Automated tagging and other metadata are in use
 - Context (staff profiles, locations etc.) is integrated with source processes such as Joiners-Leavers, in order to maintain high quality of data
 
-#### Search Technology
+#### 500 Search Technology
 
 - The search corpus is broadened with search being available across bespoke and line of business systems.
 - The search corpus is used to enhance knowledge management tools such as Project Cortex.
@@ -268,7 +267,7 @@ Search is part of everyday life for an employee at the organization. New innovat
 - Automated classifiers are used to add tags to all content types, including image, audio and video, in order to ensure it is discoverable.
 - SEO approaches are applied to content.
 
-#### User Experience
+#### 500 User Experience
 
 - Custom Search Results are created to augment key information in the search results to support improved discovery and findability. These are monitored and a process exists for updating search scopes, presentation, filters etc. as the business needs evolve.
 - Search is ubiquitous; users can access search consistently from all applications and locations within their digital workspace, including mobile and voice.
@@ -276,7 +275,7 @@ Search is part of everyday life for an employee at the organization. New innovat
 - AI is used to enhance search based on deeper knowledge of the user context and business activity.
 - Search experiences are embedded in business processes and in many cases, users aren't even aware that search is supporting their work.
 
-#### Impact
+#### 500 Impact
 
 Search technologies are considered critical business systems, carefully managed with designed-in resilience. They are a key tool for ensuring compliance; it also unpins staff and process effectiveness.
 
@@ -307,9 +306,9 @@ Benefits are found in sharing stories, knowledge and understanding but are diffi
 
 ## Resources to learn more
 
-- [Classic vs Modern Microsoft Search](https://docs.microsoft.com/sharepoint/differences-classic-modern-search)
+- [Classic vs Modern Microsoft Search](/sharepoint/differences-classic-modern-search)
 - [Building Custom Microsoft Search Connectors](https://github.com/microsoftgraph/msgraph-search-connector-sample/tree/master/PartsInventoryConnector)
-- [Search bookmarks](https://docs.microsoft.com/microsoftsearch/manage-bookmarks)
+- [Search bookmarks](/microsoftsearch/manage-bookmarks)
 - [Creating custom search results pages in SharePoint Online](https://techcommunity.microsoft.com/t5/microsoft-search-blog/creating-custom-search-results-pages-in-sharepoint-online/ba-p/1141515)
 
 ## Conclusion
