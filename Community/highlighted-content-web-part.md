@@ -1,5 +1,5 @@
 ---
-title: Real World Highlighted Content Web Part
+title: Level Up Your Highlighted Content Web Parts
 ms.date: 12/01/2021
 author: PatD
 ms.reviewer: 
@@ -12,188 +12,376 @@ description: Advanced level querying and filtering scenarios for Highlighted Con
 ms.collection: M365Community
 ---
 
-# Real World Highlighted Content Web Part
+# Level Up Your Highlighted Content Web Parts
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-Best practices and strategies for building and operating large SharePoint Lists and Libraries well above the item limit threshold
+## Highlighted Content Web Part - tl;dr
 
-## Summary
+- The Highlighted Content Web Part (HCWP) is used for displaying content from one or more _buckets_ – more than one list, library, or data source in a single place on a page.
+- It&#39;s an out of the box web part, so style options are _Grid, List, Carousel,_ and _Filmstrip._ This article assumes you&#39;re a site owner and not looking to custom code your own solutions.
+- The type of content - and where you query it from – change your HCWP configuration and filtering choices.
+- HCWP filtering capabilities are more complex than most other web parts. You can use **KQL** , **CAML** , and/or **Managed Properties** to filter and display very specific results. We&#39;ll cover examples of that here.
 
-- List or Library above 5000 items is indeed possible with planning and some filtering/sorting compromises.
-- If you can make it modern, you should. The modern experience improves over time; classic does not.
-- Apply remedies *before* you hit 5000 items, though in some cases, you can make it to 20000. Procrastination will hurt you!
-- **Your users don't care about this limitation one bit.**  Word doesn't limit you to 500 words. Excel doesn't limit you to 50 columns. As site owner, you need to be on top of this.
-- If your List or Library is at 3500 items, fair chance it'll hit 5001 when you're on vacation.
-  
-## SharePoint Myths
+---
 
-There are couple of myths floating around in the world of SharePoint Lists and Libraries. One is that you shouldn't treat a List like a database (untrue - it is just fine for a power user to create a database). The other is that Lists and Libraries with more than 5000 items just won't work. Both of these are false. Here is guidance on how to own and operate a list or library from 5001 - 30 million items.
+ As a site owner making pages for SharePoint or Teams, you understand the benefits of rolling up content from multiple lists, libraries, and sites and displaying them on a page. Using built-in List or Library web parts work fine, but your end users never put things in _just one_ place. They&#39;re empowered to self-organize their content across multiple sites! The Highlighted Content Web Part can help here, automatically showing users the right content, regardless of its actual location.
 
-> **A Cautionary Tale:**
-> As site owner, your end-users and power-users **will** hit this wall without careful planning and some monitoring. To them, the List/Library will appear broken and will reflect badly on you and the tool. They'll be given almost no warning that they're exceeding the threshold.
+## Modern pages, modern Web Parts
 
-## What is the List View Threshold?
+Site Owners _of a certain age_ will remember Classic web part pages and the content rollup web parts. The Highlighted Content Web Part is maybe the successor to the _Content Query_ and _Content Search_ web parts. The mental model of HCWPs is similar. HCWPs require Modern pages.
 
-When the number of items or documents is so high that SharePoint displays an error instead of the content. For many years this was *5000*.
+## What Should I Learn?
 
-Behind the scenes. SharePoint is querying data from a database.  It, like all systems, can do but so much at a time, and the *Item Limit Threshold* is that limit of items that are displayed in a given view.  
+To dig into the real power of the HCWP you&#39;ll need to increase your knowledge in some specific SharePoint areas and technologies. Here&#39;s the learning path you should traverse:
 
-If you've operated sites with SharePoint Lists or Libraries for any amount of time, you or one of your customers will trigger the Item Limit Threshold in a List or Library. Either they've published a 300,000 row Excel spreadsheet as a new List, or they decided Friday afternoon right-before-quitting-time is the perfect time to upload the entire network drive's contents to a single Library. Views break. Sorting and filtering (especially on-premises) fall apart. Users report *broken* sites and missing data.  
+1. HCWP Fundamentals
+2. Managed Properties in SharePoint Search
+3. KQL
+4. CAML (But maybe you don&#39;t have to?)
 
-> **The Limit is only the View**
-> As a Site Owner, keep in mind that when the threshold is exceeded, it's a problem with presenting the *View* and not the List/Library contents. All the data is still there, it just can't be displayed. Mentally, separate the (Items, Documents) from the presentation (Views) to help you pick the best solution.
+### HCWP Fundamentals
 
-It's easy to check the number of items or documents in a List or Library.  Either look in *Site Contents*, or look in the List/Library Settings.  A blue bar will appear there if the List/Library is getting close to the limit. 
+If you&#39;re new to the Highlighted Content Web Part start by reading Microsoft&#39;s documentation. In fact, even if you _have_ used the HCWP before, this existing documentation is a must a read. This Community Docs article won&#39;t rehash what&#39;s already covered there.
 
-## How can I predict which Libraries and Lists will exceed the threshold?
+[https://support.microsoft.com/office/use-the-highlighted-content-web-part-e34199b0-ff1a-47fb-8f4d-dbcaed329efd](https://support.microsoft.com/office/use-the-highlighted-content-web-part-e34199b0-ff1a-47fb-8f4d-dbcaed329efd)
 
-With experience, you'll be able to smell a List that'll grow to exceed the limit before the List is even created. This prediction experience comes from knowing your customers and their business processes. Generally, these are the smells for future threshold-busting Lists and Libraries:
+### Managed Properties
 
-- If the List or Library is considered to be an automation of a manual process, there's a good chance in time it'll go over the limit. Especially if the process has been in place for years when you bring it in to SharePoint. Always consider the lifecycle of the list or library.
-- If it's a network-drive-to-SharePoint migration scenario, there's a good chance it'll go over the limit (but folders may make this a non-issue).
-- If you're in a meeting and the customer says "*I have this Access database and...*"
-- If the List is tied to a Flow, Workflow, or Timer Job - any scenario where the list is not updated by humans.  
+Beyond the basic Filter options of the HCWP (things like &quot;Title includes&quot; or &quot;content includes&quot; or dates) this web part allows more advanced filtering and sorting by a _Managed Property_. A _Managed Property_ is something you might need to configure, through SharePoint Search, maybe with a Site Column (that has been crawled, and you&#39;ve made searchable). Once you&#39;ve set it up, you can filter and sort your data with Managed Properties.
 
-> **Monitoring tools**
-Your workplace may have some sort of fancy third-party monitoring tools to report on item/document totals.  If you're not so lucky, you as a Site Owner can set weekly Email Alert Notifications on the List/Library to keep an eye on things.  It's not true reporting, but you'll be able to see trends in Lists.
+_Site Columns_
+ To make your column something you can filter it by in a HCWP, this is the sequence:
 
-## Differences in the threshold between Modern versus Classic Lists/Libraries
+Make a Site Column -\&gt; Make sure it&#39;s in use -\&gt; That site columns is a Crawled Property you need to map to a Managed Property -\&gt; Available in HCWP
 
-They are different. Let's compare:
+Start your _Site Column_ learning with these Microsoft Community Docs articles:
 
-|Platform| Threshold | Can I change threshold? | Automatic Indexing | Modern Experience | Threshold-free Hours
-|--|--|--| --| --| --|
-| Online |  5000 | No | Yes | Default | No
-| On Prem 2019 | 5000 | Yes* | Yes | Available | Available**
-| On Prem 2016 | 5000 | Yes* | Yes | No | Available**
-| On Prem 2013 | 5000 | Yes* | No | No | No
+[https://docs.microsoft.com/en-us/microsoft-365/community/what-is-site-column](https://docs.microsoft.com/en-us/microsoft-365/community/what-is-site-column)
 
-\* *Someone with Central Admin access is needed to change this. And when you ask them to, you'll be given reasons why it's a bad idea.  That's their role - keep the databases performing well and sites up and running.  The smart play is to ask them to increase the limit for a very short amount time so you can fix your List/Library, and then return to the default threshold limit*.
+[https://docs.microsoft.com/en-us/microsoft-365/community/list-column-or-site-column-which-one-to-choose](https://docs.microsoft.com/en-us/microsoft-365/community/list-column-or-site-column-which-one-to-choose)
 
- \** *Your admins can schedule a time when the threshold is lifted on a schedule- generally after hours.  Doing this during business hours will frustrate your users by created a mixed experience.*
+Start your _Managed Property_ learning with this [Microsoft Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/) article: [https://docs.microsoft.com/en-us/microsoft-365/community/how-do-site-columns-become-managed-properties-thus-available-for-search](https://docs.microsoft.com/en-us/microsoft-365/community/how-do-site-columns-become-managed-properties-thus-available-for-search)
 
-The most fundamental difference is that Modern will, over time, get new feature improvements to improve the experience of over-threshold Lists/Libraries.  Classic will stay the same.
-  
-## Should I build this probably-large List/Library into multiple Lists/Libraries?
+And more here with Microsoft&#39;s documentation [https://docs.microsoft.com/en-us/sharepoint/manage-search-schema](https://docs.microsoft.com/en-us/sharepoint/manage-search-schema)
 
-You can, and that's an option to consider, especially if you can work in Content Types and Site Columns for data consistency.
 
->**Lookup Columns and Calculated Columns**
->If your List or Library has Calculated columns (which can't be indexed) or Lookup Columns, you may want to consider the multiple List/Library route.  A List will struggle to reference a data in a Lookup column when the number of rows is over the threshold.
+_Pro Managed Property Tips:_
 
-If it's a Document Library, consider using the [SharePoint Content Organizer](https://support.office.com/article/Configure-the-Content-Organizer-to-route-documents-B0875658-69BC-4F48-ADDB-E3C5F01F2D9A) to route your documents (based on a condition) to different libraries with the same metadata.
+- Impatient? Is your Managed Property ready for HCWP use yet? In SharePoint Online, sometimes it takes _an hour_ once you&#39;ve mapped the Crawled Property to the Managed Property. While you&#39;re waiting, test it out with regular SharePoint Search first. If you can search for results by a Managed Property there, you can filter content in your HCWP.
 
-But is that what your customers *want* from a user experience perspective? Does it feel similar to having to update multiple spreadsheets? What if they want to do reporting on this data, and they have to deal with multiple Lists?  This scenario shouldn't be your first choice if you can avoid it.
 
-## Can Search Help me?
+- It is fast and easy to make a new list – but if there&#39;s _any_ chance you think you might need to filter by it via a HCWP, make a column a real _Site Column_ first. (Taking an existing list&#39;s columns and converting them to a Site Column is a lot of manual work.)
 
-Depending on your scenario, absolutely. Search doesn't care about the List View Item Threshold. If you're building a large Library or List and don't need custom views or complex filtering/sorting  - Search can be used to give your users access to the items/documents they need.
+ Learn all about Site Columns from this [Microsoft Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/) article: [https://docs.microsoft.com/en-us/microsoft-365/community/what-is-site-column](https://docs.microsoft.com/en-us/microsoft-365/community/what-is-site-column)
 
-> **Search-Only Example:**
-> The article author currently manages a folderless SharePoint Library with 450,000 PDF files in it. Those files are uploaded to the library through an external process. Each file has a meaningful file name, and the customer uses Search to find just the document they need instantly. They'll never sort or filter the library, or edit the documents, so this scenario works just fine. No columns are indexed. 
+### Using KQL to query, filter, and sort
 
-## Can Grouped-By Filtered Views help me here?
+Once you&#39;ve added a HCWP to a page, you&#39;ll have to tell the web part _where_ to look, and _what_ to display. At first, the web part&#39;s basic Filter and sort options seem like they should cover most situations. But as you progress further into more complex projects (and your customers realize the capability having very specific content on a page) you, site owner, will find yourself needing build out HCWP with Custom Queries with KQL.
 
-This one gets complex real fast - especially with views for Document Libraries with folders. Read Joanne Klein's excellent [deep-dive](https://joannecklein.com/2017/07/25/sharepoint-online-list-view-threshold/) into this for more information.
-  
-## All my internet research keeps pointing to Indexed Columns - what's that all about?
+Good thing you set up all those Managed Properties from Site Columns already.
 
-Indexing columns - *before the threshold limit is broken* - is the most effective way to mitigate View threshold pain. In an ideal situation, where the user knows the List or Library will be large, you'd index any and all columns you can.
+**KQL** (Keyword Query Language) runs a search over a specific area of content and return result in your HCWP.
 
-A View that's over the threshold will generally only display if it's filtered by an indexed column *first* in the view, and that filter returns no more than 5000 unique values.
+ A very basic KQL query in a HCWP might look like:
+author:&quot;Patrick Doran&quot;
 
-This is done by going to the List or Library settings, choosing the Indexed Columns link, and indexing the columns one by one. You can add up to 20 indexes to a list or library. Choose wisely - what columns would you or your users want to base a view on?
+While a more complex one might look like:
+LastModifiedTime\&gt;=2021-06-01 AND LastModifiedTime\&lt;=2022-04-26
 
-> **Automatic Indexing:**
-> SharePoint lists/libraries in SharePoint Online now have the capability to index columns automatically. But like all automated processes, it may not index the *right* column for your users, and will not automatically create indexes for lists/libraries with more than 20,000 items. Don't count on this to save you. Plan ahead.
+(This should include items modified between June 6th, 2021 until April 26th, 2022.)
 
-It's important to take this action early - SharePoint on-premises (2013) won't let you create an Index past 5000 items. It is uncertain if there is a hard limit in SharePoint Online, but once you cross those lines, it is difficult to correct. You have to delete lists items to get back down below the limit, and then index the columns. 
+_Learn about KQL_
 
-For the best user experience you should be proactively ensuring the appropriate columns for your lists/libraries are indexed, based on the columns used most frequently in views and/or filtered by your users. You can add indexes on up to 20 columns on a list or library.
+Start learning by reading Microsoft&#39;s reference for KQL: [https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference)
 
-### Column types that can be Indexed
+#### KQL Pro Tips:
 
-- Single line of text
-- Choice (single value)
-- Number
-- Currency
-- Date and Time
-- Yes/No
-- Lookup (Lookup)
-- Person or Group (single value) (Lookup)
-- Managed Metadata (Lookup)
+- **Spacing counts** – A space between a colon and a &quot; might return a very different result.
 
-### Column types that cannot be Indexed
+- **You Path to find things** – The Path property is built in and can quickly narrow down scope if you know the list(s) and library(s) you want to get data from.
 
-- Multiple lines of text
-- Choice (multi-valued)
-- Calculated
-- Hyperlink or Picture
-- Custom Columns
-- Person or Group (multi-valued) (Lookup)
-- External data
-  
-## But *why* are we indexing columns?
+Path:&quot;https://\&lt;mytenantname\&gt;.sharepoint.com/sites/HumanResources/Enrollment/&quot;
 
-We index columns because those indexed columns can then be used to define Views that *do work* in Lists/Libraries above the threshold.
+Narrow it down further with the built-in Filetype property:
 
-In fact, if the columns displayed in your List/Library View are *all* indexed columns, the View will function almost like a regular list/library view.
+Path:&quot;https://\&lt;mytenantname\&gt;.sharepoint.com/sites/HumanResources/Enrollment/&quot; AND Filetype:&quot;XLSX&quot;
 
-### Indexed columns pair well with a Filtered View
+- **Many conditions** – If you have a lot of conditions, wrap statements in parentheses to make readability easier and enforce what should be AND versus OR.
 
-Your default view in this large List or Library should ideally be composed of only Indexed columns.  If not, it should be filtered first by an Indexed column.  
+(author:&quot;Patrick Doran&quot; OR &quot;Sally SharePoint&quot;) AND (filetype:xlsx OR docx)
 
-> **Pro Indexing Tip**
-> If you can, always index by Title, Modified, Created, Modified By, and Created By columns.  You can piece together a viable view with this, and so can your users.
+####
 
-### Example Scenario 1: Indexing  for a Simple list
+ Helpful Built In Managed Properties
 
-*Sorted by Created, Descending. Batches of 100.*
+So now you understand Managed Properties and KQL. Below are examples of helpful KQL are all built into SharePoint Online, and probably there for your SharePoint 2019 farm. They&#39;re always-on, reliable, and save a lot of time on many HCWP scenarios.
 
-| Column | Type | Indexed | In Default View
-|--|--|--|--|
-| Title | Single Line | Yes| Yes |
-| Favorite Sport | Choice (single) | Yes | Yes |
-| Likes Cats | Yes/No | Yes | Yes |
-| Biography | Multiline | No, can't | No |
-| Created | Date | Yes | Yes |
-| Created By | Person | Yes | Yes |
+| Managed Property Name | Type | Note | Example |
+| --- | --- | --- | --- |
+| IsDocument | True or False | A document is something in a document or pages library. Everything else is not. | IsDocument:&quot;True&quot; |
+| Author | Someone&#39;s name, or the SharePoint property for the current user | This more or less equates to the SharePoint &#39;Created By&#39; field. | Author:&quot;Vallerie Viva&quot;
+Author:{User.Name} |
+| ContentType | Text |
+ |
+ |
+| ContentClass | A search content type | An older way to search for things by type, but it checks out. Might be &quot;STS\_List&quot; or &quot;STS\_ListItem&quot;, &quot;STS\_Site&quot;, &quot;STS\_Web&quot; | ContentClass:STS\_ListItem
 
-In this scenario, we've created a SharePoint List or Library that will work right to 30 million items.  Default view is bullet-proof in Classic or Modern. 
+ ContentClass:STS\_ListItem\_Events
+ContentClass: STS\_ListItem\_Tasks |
+| FileType | File extension | An extension, like XLSX or DOCX or PDF | filetype:xlsx |
+| Path | A URL | Might be a URL of a specific list, library, or everything in the whole tenant. | Path:https://\&lt;mytenant\&gt;.sharepoint.com/sites/demosite/Lists/ |
 
-- Your users can create Personal Views that show just their Created By
-   entries.  Business analysts can create reports based on *Likes Cats*
-   preference.  
-- The *Biography* column - best case - isn't displayed in any views.  Only viewed/edited when the user interacts with the item.
-- It may be worth also indexing *Modified* here for **Power Automate Flow** users running the trigger for when SharePoint Items are Created or Modified.
+###
 
-### Example 2: Indexing Scenario for a Large Library
+ Using CAML to query and filter
 
-*Sorted by Created, Descending. Batches of 100.*
-This library has 25,000 documents in it.  Each day a **folder** is created and seven regional sales reports are added to it.   The business has solemnly-sworn to follow this model.
+If your HCWP is displaying content from a _specific document or pages library_, you can use CAML. If you&#39;ve ever seen an XML file or RSS feed, CAML looks a lot like that.
 
-| Column | Type | Index it?
-|--|--|--|
-| Title | Single Line | Yes|
-| Name | File Name | No |
-| Sales Region  | Choice (single) | Yes |
-| Likes Dogs | Yes/No | Yes |
-| Created | Date | Yes
-| Created By | Person | Yes
+An example CAML statement to filter data in a HCWP might look like:
 
-The model will work great for years.  Each folder acts as sort of a reset on the Item Limit Threshold for the default view. New folderless flat-Views can easily be created using the columns you've indexed.
+\&lt;Query\&gt;
+ \&lt;Where\&gt;
 
-> **Folders, Document Sets**
->Remember, folders count as items when calculating the threshold.
+\&lt;Geq\&gt;
 
-### Further Reading
+\&lt;FieldRef Name=&quot;Expires&quot;/\&gt;
 
-- Microsoft: [Adding an index to a SharePoint column](https://support.microsoft.com/office/add-an-index-to-a-sharepoint-column-f3f00554-b7dc-44d1-a2ed-d477eac463b0)
-- Microsoft: [Manage large lists and libraries in SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-- Blog: [SharePoint Online List View Threshold](https://joannecklein.com/2017/07/25/sharepoint-online-list-view-threshold/)
-- Blog: [Deleting a Very Large SharePoint List](https://sympmarc.com/2017/03/27/deleting-a-very-large-sharepoint-list/)
-- Blog: [Predictive Indexing Comes to SharePoint](https://sympmarc.com/2017/11/08/predictive-indexing-comes-to-office-365-lists-and-libraries/)  
+\&lt;Value Type=&quot;DateTime&quot;\&gt;
+
+\&lt;Today/\&gt;
+
+\&lt;/Value\&gt;
+
+\&lt;/Geq\&gt;
+
+\&lt;/Where\&gt;
+
+\&lt;OrderBy\&gt;
+
+\&lt;FieldRef Name=&quot;Modified&quot;/\&gt;
+
+\&lt;/OrderBy\&gt;
+
+\&lt;/Query\&gt;
+
+This is looking for a column called _Expires_, where the value is equal to _today or after_ and it&#39;s sort order is by Modified date.
+
+ Start learning CAML via Microsoft&#39;s documentation: [https://docs.microsoft.com/en-us/sharepoint/dev/schema/query-schema](https://docs.microsoft.com/en-us/sharepoint/dev/schema/query-schema)
+
+### CAML vs KQL: Which one do I use?
+
+With two Custom filter options, picking one comes down to the type of data you&#39;re filtering. A HCWP scoped to a Document/Pages library only lets you filter with CAML, while others let you filter with KQL.
+
+ In many scenarios, KQL _might be able to do everything you need,_ and may be easier to read/write versus long, complex nested CAML queries.
+
+## Real-world examples
+
+The rest of this article will provide scenarios and tested examples to show you some possibilities. Since it is part of the [Microsoft Community Docs](https://github.com/MicrosoftDocs/microsoft-365-community), you&#39;re encouraged to contribute your own! [Thank you Emily Mancini for some of these!]
+
+### Scenario 1: Contract documents across siloed departments
+
+In your organization, a new contract process required documents from different departments. The vendor qualification document sat in the _Quality_ team, the contract review doc was with _Legal_, and the vendor initiation worksheet was with _Purchasing_. These documents rightfully sat in each department&#39;s own separate Communications Sites but needed to be presented in on a single page.
+
+[https://3zccvt.sharepoint.com/sites/Legal](https://3zccvt.sharepoint.com/sites/Legal)
+
+[https://3zccvt.sharepoint.com/sites/Quality](https://3zccvt.sharepoint.com/sites/Quality)
+
+[https://3zccvt.sharepoint.com/sites/Purchasing](https://3zccvt.sharepoint.com/sites/Purchasing)
+
+As the person setting up the HCWP:
+
+- You&#39;ll be using a HCWP to retrieve documents from 3 different sites in the same tenant. Each document will use a shared Site Column with a value applied. The HCWP&#39;s job is to return any documents with a matching value for this Site Column.
+
+ In our example we&#39;ll call our Site Column &quot;_Contracts_&quot; and will be looking for a value of _Legal, Purchasing,_ or _Qualifications_
+
+
+- Making sure the same **Site Column** was available in all three sites.
+ This is probably easiest if you can access the SharePoint Admin Center and add a Content Type and Site Column there first. Don&#39;t forget to publish it!
+
+ You&#39;ll spend some time _waiting_ for the site columns to publish to the libraries, and then a little more time for search to pick them up as managed properties.
+
+
+#### Setting up with regular Filtering (not a Custom Query)
+
+
+Set your Content Source to be _All Sites_ or maybe a _Hub Site_ if you&#39;re using one. You could also pick &#39;Selected Sites&#39; if are sure these will only come from _Legal, Quality,_ and _Purchasing._ Leave the _Type_ as _Documents_ and _Document Type_ as _Any_.
+
+ Under Filter, you could pick _Title includes the words_ and add one filter each for _Legal, Quality,_ and _Purchasing_ as long as those are the file titles. This option is a little riskier because someone could upload another file with those words in the title and they&#39;d also appear in the web part.
+
+Probably the right call here is to use SharePoint metadata. Since you&#39;ve already added the _Contracts_ column as a Site Column, and flagged each file as wither _Purchasing, Legal,_ or _Qualification, let&#39;s use that instead._
+
+In Site Settings, check to see if this column is already a Managed Property with a Crawled Property associated with it.
+
+_Setting up with KQL_
+
+Assuming you&#39;ve set up Managed and Crawled properties for the _Contracts_ column in SharePoint Administration, you should now have a property like _ContractsOWSCHCS …_ though yours might be named differently.
+
+In your HCWP, choose &#39;Custom Query&#39; instead of &#39;Filter&#39; and set the Source to be &#39;All Sites&#39; or &#39;Hub Site&#39; if you have it. Now enter this in the Query text (KQL) field, and click Apply
+
+isDocument=true AND (ContractsOWSCHCS: Legal OR ContractsOWSCHCS: Purchasing OR ContractsOWSCHCS: Qualification)
+
+ The _isDocument=true_ is a built-in Managed Property, and will exclude list items that share the Site Column _Contracts_.
+
+#### Setting up with CAML
+
+CAML wouldn&#39;t work in this scenario, since we&#39;re looking for documents across multiple sites. CAML only shows up as a HCWP option when you select &#39;A document library in this site&#39; or &#39;A page library in this site&#39; for the Query source
+
+### Scenario 2: Showing the right content at the right time
+
+Another common scenario might be Human Resources documents on an Intranet Communication Site. There are many supporting documents for medical, dental, vision, wellness, life insurance, etc that an employee might need to access. These benefits documents are changed each year at a very specific go-live date for open enrollment, but the structure of the Benefits site generally stays the same.
+
+ There is a short period of time where the current year and future year documents need to both be accessible as well.
+
+Using metadata columns in libraries to indicate benefit type and year - paired with a HCWP - make for easy transitions as the HCWP query just needs to be updated.
+
+ In this scenario we&#39;ll assume:
+
+- Our single HCWP will appear on a page in a communications site.
+- A single SharePoint Document Library with two columns – a date one for year, and a choice one for benefit type.
+- Since this is a formal process, we&#39;ll make a new Content Type and Site Columns up front
+
+Library setup:
+
+- Create a library
+- Create Content Type
+- Create site columns for _Year_ and _Benefit Type_ columnsand add to your Content Type
+- Add the new Content Type to library. This should also add your site columns.
+- In Site Collection search, map the Crawled Properties to Managed Properties for both site columns.
+- Go get a coffee or a tea and wait for SharePoint Search to do its thing with your columns.
+
+| **Name** | **Year** | **Benefit Type** | **Content Type** |
+| --- | --- | --- | --- |
+| Dental Doc for Annual Enrollment.pdf | 1/1/2023 | Dental | Enrollment |
+| Life Insurance Enrollment Document.pdf | 1/1/2022 | Life Insurance | Enrollment |
+| Medical Health Insurance Enrollment Form.pdf | 1/1/2023 | Medical | Enrollment |
+| Vision Enrollment Employee Form.pdf | 1/1/2023 | Vision | Enrollment |
+| Wellness Worksheet for Enrollment.xlsx | 1/1/2022 | Wellness | Enrollment |
+
+#### Setting up with regular Filtering (not a Custom Query)
+
+Add your HCWP to the page, pick Filter instead of Custom query, and set your source to be the document library with your content type and site columns.
+
+Under Filter, pick Filtering by _Year_ which is a column you added. And because it&#39;s a date/time column, the HCWP will ask you to specify a range of time to filter. Before, After, or Between.
+
+In this case – set _Year_ between 01/01/22 and 12/12/22. The HCWP will show only documents from that library for 2022.
+
+_Setting up with KQL_
+
+Add your HCWP and pick Custom Query, and set your source to be the entire Site. (If you select Document Library, the HCWP will default to CAML).
+
+Find out the Managed Property name for the _Year_ column (it might be YearOWSDATE).
+
+NOTE: DATE COLUMN FOR KQL
+
+#### Setting up with CAML
+
+\&lt;Query\&gt;
+ \&lt;Where\&gt;
+
+\&lt;Geq\&gt;
+
+\&lt;FieldRef Name=&quot;Expires&quot;/\&gt;
+
+\&lt;Value Type=&quot;DateTime&quot;\&gt;
+
+\&lt;Today/\&gt;
+
+\&lt;/Value\&gt;
+
+\&lt;/Geq\&gt;
+
+\&lt;/Where\&gt;
+
+\&lt;OrderBy\&gt;
+
+\&lt;FieldRef Name=&quot;Modified&quot;/\&gt;
+
+\&lt;/OrderBy\&gt;
+
+\&lt;/Query\&gt;
+
+### Scenario 3: Showing very specific, contextual list items
+
+Often in SharePoint you&#39;ll have a list that becomes a database – a source of truth for many users. Often there is some criteria – &quot;top 10 highest grants this month&quot; or &quot;All the grants issued in Hawaii&quot; – that really matter. Those can be put in a page using a HCWP.
+
+For our scenario, we have a large list (10k items) of grant applications that was imported from a spreadsheet. Customer wants to see cards on a page with just ones they&#39;ve updated and just ones from their home territory of Idaho.
+
+#### Setting up with regular Filtering (not a Custom Query)
+
+This is probably the easiest approach. We&#39;ll use three filters to meet this customer&#39;s needs.
+
+Set source to _All Sites._ First filter with be using the built-in Managed Property of _Path_.
+
+![](RackMultipart20211224-4-1a6d1mj_html_fccbace099aed813.png)
+
+![](RackMultipart20211224-4-1a6d1mj_html_768b4570c64e8ca2.png)
+
+![](RackMultipart20211224-4-1a6d1mj_html_174d31aa03a8f6fd.png)
+
+####
+
+#### Setting up with CAML
+
+CAML is off the table here – it only works for documents and pages.
+
+####
+
+ Setting up with KQL
+
+(Path:https://3zccvt.sharepoint.com/sites/DemoSite/Lists/Demo%20Grant%20List AND &quot;Idaho&quot; AND Author:{User.Name} AND IsDocument:&quot;False&quot; AND contentclass:STS\_ListItem)
+
+## Pro HCWP Tips
+
+
+- The built-in Managed Property _&quot;Path:&quot;_ has real power. It lets you specify scope all the way from a single list item to an entire tenant. No configuration required. With some wildcards and a little time, could can build some real specific KQL to bring back content you want.
+
+
+- If you _can_ configure your Managed and Crawled Properties in the SharePoint admin center, you should.
+
+
+- Once you get proficient at HCWPs, you might rely exclusively on Custom Queries with KQL for filtering. But if you _can_ use the built-in filters under _Filter and Sort_, maybe you should? The next person coming along to update your web part might not have read this article and built-in filters are a little easier to read if you&#39;re new.
+
+
+- The built-in filtering guidance in Microsoft&#39;s documentation is worth remembering: _&quot;When you use multiple filters, your results will be based on OR operations for filters of the same type, and AND operations for filters of different types.&quot;_
+
+
+- The _Trending_ sort and filter pulls from OneDrive, too. That may/may not be what you want.
+
+
+- If you want to enable Audience Targeting in your HCWP, you need to also enable it in the list/library first.
+
+## Further Reading
+
+- [Modern SharePoint Web Parts: Highlighted Content Web Part](https://lightningtools.com/blog/modern-sharepoint-web-parts-highlighted-content-web-part) from Lightning Tools
+- [Highlighted Content Web Part Custom Query](https://lightningtools.com/sharepoint/highlighted-content-web-part-kql-caml) from Lighting Tools
+- [Managed Properties in SharePoint Online](https://sharepointmaven.com/6-ways-to-benefit-from-managed-properties-in-sharepoint-online/) and [Crawled vs Managed Properties in SharePoint Online](https://sharepointmaven.com/crawled-vs-managed-properties-in-sharepoint-online/) from SharePoint Maven
+- [SharePoint Online Highlighted Content Web Part](https://www.spguides.com/sharepoint-online-highlighted-content/) – Deep dive from SPGuides.com
+- [CAML Query Examples in SharePoint](https://www.spguides.com/caml-query-builder/) - from SPGuides.com
+- [How Do Site Columns Become Managed Properties - Thus Available for Search](https://docs.microsoft.com/en-us/microsoft-365/community/how-do-site-columns-become-managed-properties-thus-available-for-search) – From Microsoft Community Docs
+- [Crawled and Managed Properties Overview](https://docs.microsoft.com/en-us/sharepoint/technical-reference/crawled-and-managed-properties-overview) - Microsoft
+- [How to Display a list of sites on a Modern Web Part page](https://social.technet.microsoft.com/wiki/contents/articles/53252.sharepoint-how-to-display-a-list-of-sub-sites-on-a-modern-site-page.aspx) - TechNet
+- [KQL Basics in SharePoint](https://www.techmikael.com/2014/03/s15e01-kql-basics.html) – from Mikael Svenson
+- [CAML Query Syntax](https://www.sharepointcafe.net/2015/06/caml-query-in-sharepoint.html) – from SharePoint Cafe
+
+Working:
+
+Grant site
+
+[https://3zccvt.sharepoint.com/sites/DemoSite/Lists/Demo%20Grant%20List/AllItems.aspx](https://3zccvt.sharepoint.com/sites/DemoSite/Lists/Demo%20Grant%20List/AllItems.aspx)
+
+[https://3zccvt.sharepoint.com/sites/DemoSite/\_layouts/15/listmanagedproperties.aspx?level=sitecol](https://3zccvt.sharepoint.com/sites/DemoSite/_layouts/15/listmanagedproperties.aspx?level=sitecol)
+
+[https://3zccvt.sharepoint.com/sites/DemoSite/SitePages/Highlighted-Content-Web-Parts.aspx](https://3zccvt.sharepoint.com/sites/DemoSite/SitePages/Highlighted-Content-Web-Parts.aspx)
+
+[https://3zccvt.sharepoint.com/sites/DemoSite/\_layouts/15/search.aspx/siteall?q=GranteeCountyNameOWSTEXT%3A%20Polk](https://3zccvt.sharepoint.com/sites/DemoSite/_layouts/15/search.aspx/siteall?q=GranteeCountyNameOWSTEXT%3A%20Polk)
+
+[https://admin.microsoft.com/Adminportal/Home?source=applauncher#/homepage](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/homepage)
+
+Legal Docs
+[https://3zccvt.sharepoint.com/\_layouts/15/search.aspx/sitefiles?q=ContractsOWSCHCS%3A%20Qualification](https://3zccvt.sharepoint.com/_layouts/15/search.aspx/sitefiles?q=ContractsOWSCHCS%3A%20Qualification)
+
+[https://3zccvt.sharepoint.com/sites/Quality/Shared%20Documents/Forms/AllItems.aspx](https://3zccvt.sharepoint.com/sites/Quality/Shared%20Documents/Forms/AllItems.aspx)
   
 ---
 
