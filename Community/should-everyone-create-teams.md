@@ -29,7 +29,7 @@ The key therefore is to balance these extremes.
 
 ## Solution Overview
 
-![solution overview](media/should-everyone-create-teams/solution-overview.png)
+![Solution overview chart containing the information found in the following paragraph.](media/should-everyone-create-teams/solution-overview.png)
 
 A user asks a chatbot for a new Team in natural language. A Power Automate flow picks up this information and checks if the user is already in an Azure AD security group called Educated Users. If the owner to be is already a member in this Educated Users security group, a second Power Automate flow gets the manager's approval and provisions the team. If the user is not a member of this group, the user will be invited for training and testing.
 
@@ -60,7 +60,7 @@ Go to forms.microsoft.com and set up a form to ask which training sessions the u
 
 Go to flow.microsoft.com and create a new flow without a template. Use the "When a new response is submitted" trigger from Forms, then the  "Get the response details" of the form add a filter query to get the right event from the calendar, then update the event by adding the user to it.
 
-![flow session invitation](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-session-invitation.png)
+![Image of session invitation flow.](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-session-invitation.png)
 
 ### Form to test users
 
@@ -70,11 +70,28 @@ Forms is able to do surveys (there are no correct answers) and quizzes (there AR
 
 Create a new list in SharePoint with these columns:
 
-![SP List columns](media/should-everyone-create-teams/demo-answers-to-quiz.png)
+![SP List columns.](media/should-everyone-create-teams/demo-answers-to-quiz.png)
 
-For the calculated columns:
+- Title
+- Given answer 1
+- Correct answer 1
+- Given answer 2
+- Correct answer 2
+- is answer 1 correct
+- is answer 2 correct
+- Total score
+- Result
 
-![SP List results](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-SP-List-results.png)
+For the calculated columns enter the following information in the **Formula** box.
+
+![SP List results.](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-SP-List-results.png)
+
+- **is answer 1 correct:** =IF([Given answer 1])=[Correct answer 1],"5","0")
+- **is answer 2 correct:** =IF([Given answer 2])=[Correct answer 2],"5","0")
+- **Total score:** =[is answer 1 correct]+[is answer 2 correct]
+- **Result:** =IF[Total score]<10,"not educated","educated")
+
+Choose **Number** as the data type for the first three, and **Single line of text** as the data type for Result.
 
 ### Flow to log tests in a SharePoint list
 
@@ -95,7 +112,7 @@ We will now:
 
 ### Create a Bot in Power Virtual Agent
 
-Go to powerva.microsoft.com to create a new bot. Create a new topic and enter some trigger phrases. Don't try to be too formal: the chatbot supports natural language understanding powered by LUIS.
+Go to [Power Virtual Agents](https://powerva.microsoft.com) to create a new bot. Create a new topic and enter some trigger phrases. Don't try to be too formal: the chatbot supports natural language understanding powered by LUIS.
 
 Outline the conversation in the Authoring Canvas. Ask all the questions we need to have answered to provision a Team like: team name, description, owner, and visibility. You can also ask for the first members or channel names. Save all inputs as Variables and give them easily recognizable names like VarOwner or VarTeamName.
 
@@ -127,7 +144,7 @@ If the user is still in the Uneducated Group, we need to invite him/her to a tra
 
 ![flow invite](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-invite.png)
 
-To invite the user to the training and link him/her to the test, we can use Adaptive Cards. If you never used Adaptive Cards before, just go to [https://adaptivecards.io/designer](https://adaptivecards.io/designer), select MICROSOFT TEAMS as host applications and replace the text of one of the samples with your text in the visual editor. Below, the Designer auto generates some JSON for you — copy-paste this into a POST YOUR OWN ADAPTIVE CARD AS A FLOW BOT TO A USER action.
+To invite the user to the training and link him/her to the test, we can use Adaptive Cards. If you never used Adaptive Cards before, just go to [Adaptive Cards](https://adaptivecards.io/designer), select MICROSOFT TEAMS as host applications and replace the text of one of the samples with your text in the visual editor. Below, the Designer auto generates some JSON for you — copy-paste this into a POST YOUR OWN ADAPTIVE CARD AS A FLOW BOT TO A USER action.
 
 This is how our card looks then:
 
@@ -145,7 +162,7 @@ If the user passes the test, he/she will be added to the Educated Group and we l
 
 ### Create a 2nd flow to provision a Team based on the information we got out of the first flow
 
-![provisioningflow](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-provisioningflow.png)
+![provisioning flow](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-provisioningflow.png)
 
 **Microsoft Graph**
 Power Automate doesn't provide an action "Create a Team". Therefore, we will call Microsoft Graph to create teams, add members, create channels, and a lot more, but we first need to authenticate to make this magic happen.
@@ -212,11 +229,11 @@ If you don't like the chatbot approach, you can also work with a request form in
 
 ## A few words on licensing
 
-Licensing for this solution isn't covered by Microsoft 365 E3 or E5 subscription: 
+Licensing for this solution isn't covered by Microsoft 365 E3 or E5 subscription:
 
-* The HTTP connector is a Premium conector and requires therefore a Power Automate Standalone Plan, [more info here](https://docs.microsoft.com/power-platform/admin/powerapps-flow-licensing-faq)
-* Power Virtual Agents needs to be purchased separately, [more info here](https://powervirtualagents.microsoft.com/pricing/)
-* If you use a Power Apps Canvas App instead of Power Virtual Agents, you will still need a Standalone Licence because of the HTTP connector
+- The HTTP connector is a Premium connector and requires therefore a Power Automate Standalone Plan [Learn more about Power Platform licensing.](/power-platform/admin/powerapps-flow-licensing-faq)
+- Power Virtual Agents needs to be purchased separately, [more info here](https://powervirtualagents.microsoft.com/pricing/)
+- If you use a Power Apps Canvas App instead of Power Virtual Agents, you will still need a Standalone License because of the HTTP connector.
 
 ---
 

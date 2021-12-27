@@ -22,12 +22,12 @@ We have a library with a number of folders, and each of the folders contains mul
 
 ## What do you need
 
-* Power Automate, standard M365 licence
+* Power Automate, standard M365 license
 * SharePoint library - this could of course be a Teams connected library
 * Mailbox in Exchange Online
 
 > [!NOTE]
-> If you are new to Power Automate head over to the [official documentation](https://docs.microsoft.com/power-automate/) to learn more.
+> If you are new to Power Automate head over to the [official documentation](/power-automate/) to learn more.
 
 ## The Steps
 
@@ -95,7 +95,7 @@ As of this writing, the bast way to append SharePoint files to an attachment arr
 The final action is the "Send email (V2)" action. You will need to populate the action with the following inputs:
 
 * Recipient email | user input
-* Reipient name | user input
+* Recipient name | user input
 * AttachmentArray | attachments form previous step
 * From (send as) | user who started the flow
 

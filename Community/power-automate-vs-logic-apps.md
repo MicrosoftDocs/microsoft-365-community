@@ -35,13 +35,13 @@ Whilst Power Automate is built on top of Azure Logic Apps, there are differences
 | Focus    | End Users and Makers in Office 365   | IT Pros, Developers, Admins using Office 365 and Azure Services |
 | Licensing Model* | Per-User License in Office 365 | Consumption-Based or Fixed Pricing Model via an Azure Subscription |
 | Flow Creation | Web-Based Designer, Web and Mobile UI | Visual Studio, JSON Definition and Web-Based Designer |
-| Restricting Connectors | [Data Loss Prevention](https://docs.microsoft.com/power-platform/admin/wp-data-loss-prevention) | [Azure Policy](https://docs.microsoft.com/azure/logic-apps/block-connections-connectors) |
+| Restricting Connectors | [Data Loss Prevention](/power-platform/admin/wp-data-loss-prevention) | [Azure Policy](/azure/logic-apps/block-connections-connectors) |
 |Error Handling| Flow Checker - providing a list of errors within the Flow | Save Failed - highlighting errors  |
 |Trigger Types | Automated, Instant, Scheduled, UI Flow, Business Process  | HTTP (Automated), WebHook, Scheduled, HTTP Call (Manual)  |
 
 > *Check out the license plan details for each of the services, this article only serves as a guide not pricing information.  
 
-For a detailed comparison, check out: [https://docs.microsoft.com/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs](https://docs.microsoft.com/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs#compare-microsoft-power-automate-and-azure-logic-apps)
+For a detailed comparison, check out: [Compare Power Automate and Azure Logic Apps](/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs#compare-microsoft-power-automate-and-azure-logic-apps)
 
 ## What tools you can use to build each of them
 
@@ -61,12 +61,12 @@ Both tools have a rich web-based design tool to author the Flows, connect to ser
 Since both tools have this, learning Power Automate can be easily transferrable to Logic Apps if your requirements are better suited in the other product.
 
 **Power Automate - web based designer**
-![Power Automate Web Designer](media\power-automate-vs-logic-apps\power-automate-example.png)
+![Power Automate Web Designer.](media\power-automate-vs-logic-apps\power-automate-example.png)
 
 **Azure Logic Apps - web based designer**
-![Mobile view of Power Automate](media\power-automate-vs-logic-apps\azure-logic-app-example.png)
+![Mobile view of Power Automate.](media\power-automate-vs-logic-apps\azure-logic-app-example.png)
 
-Power Automate flows created before September 2020 can be exported to Logic Apps. If you are working with the Azure Portal it will require some knowledge of JSON, or for a friendlier experience using Visual Studio, check out the docs to consider your approach: [https://docs.microsoft.com/azure/logic-apps/export-from-microsoft-flow-logic-app-template](https://docs.microsoft.com/azure/logic-apps/export-from-microsoft-flow-logic-app-template)
+Power Automate flows created before September 2020 can be exported to Logic Apps. If you are working with the Azure Portal it will require some knowledge of JSON, or for a friendlier experience using Visual Studio, check out the docs to consider your approach: [Export flows from Power Automate and deploy to Azure Logic Apps](/azure/logic-apps/export-from-microsoft-flow-logic-app-template)
 
 ### Mobile App
 
@@ -79,7 +79,7 @@ For iOS and Android, there is a Power Automate app that can allow you to build F
 * manage existing flows - if you want to quickly create a Flow on the move
 * there isn't an expression builder or the ability to add parallel branches.
 
-![Mobile view of Power Automate](media\power-automate-vs-logic-apps\mobile.jpg)
+![Mobile view of Power Automate.](media\power-automate-vs-logic-apps\mobile.jpg)
 
 ### Visual Studio
 
@@ -89,7 +89,7 @@ Visual Studio is an enterprise grade integrated development environment that all
 
 Visual Studio supports working with Azure solutions, including Logic Apps, that allows you to connect to a subscription and provides a logic app editor experience.
 
-For further information on editing Logic apps with Visual Studio, please refer to [https://docs.microsoft.com/azure/logic-apps/manage-logic-apps-with-visual-studio](https://docs.microsoft.com/azure/logic-apps/manage-logic-apps-with-visual-studio)
+For further information on editing Logic apps with Visual Studio, please refer to [Manage logic apps with Visual Studio](/azure/logic-apps/manage-logic-apps-with-visual-studio).
 
 ### Visual Studio Code
 
@@ -97,9 +97,9 @@ Applies to: **Logic Apps**
 
 Visual Studio Code is a free and open-source code editor with wide-range support for programming languages with IntelliSense, extensions to select the tools you work with extending the functionality of the tool as best fits the project you are working on.
 
-![Visual Studio Code](media\power-automate-vs-logic-apps\example-visual-studio-code.png)
+![Visual Studio Code.](media\power-automate-vs-logic-apps\example-visual-studio-code.png)
 
-You can install the extension (Azure Logic Apps for Visual Studio Code) from the market place - [https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-logicapps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-logicapps)
+You can install the extension (Azure Logic Apps for Visual Studio Code) from the Marketplace - [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-logicapps)
 
 ### Visio
 
@@ -107,7 +107,7 @@ Applies to: **Power Automate**
 
 Visio Plan 2 offers the feature to create a Business Process Model and Notation (BPMN) diagrams and export for Power Automate.
 
-For more details of this feature, visit the Power Automate announcement for more information [https://flow.microsoft.com/blog/export-visio-diagrams-to-microsoft-flow-is-now-generally-available/](https://flow.microsoft.com/blog/export-visio-diagrams-to-microsoft-flow-is-now-generally-available/)
+For more details of this feature, visit the Power Automate announcement for more information [Export Visio diagrams to Microsoft Flow is now generally available](https://flow.microsoft.com/blog/export-visio-diagrams-to-microsoft-flow-is-now-generally-available/)
 
 ## Getting started and points to consider
 
@@ -117,11 +117,11 @@ When considering Power Automate and Logic Apps, who will create them? Is this in
 
 #### Learning Power Automate
 
-For users and staff, there is a set of courses on [Microsoft Learn](https://docs.microsoft.com/learn/browse/?terms=Automate&products=power-platform) if you want to know more about building flows to gain more in-depth knowledge about the usage of the services.
+For users and staff, there is a set of courses on [Microsoft Learn](/learn/browse/?terms=Automate&products=power-platform) if you want to know more about building flows to gain more in-depth knowledge about the usage of the services.
 
 #### Learning Azure Logic Apps
 
-For ICT or SME users looking to improve their knowledge, there is a set of courses on [Microsoft Learn](https://docs.microsoft.com/learn/browse/?products=azure&terms=Logic%20Apps) if you want to know more about Logic Apps to gain a deeper understanding about the usage of the services and how they can integrate with a range of connectors.
+For ICT or SME users looking to improve their knowledge, there is a set of courses on [Microsoft Learn](/learn/browse/?products=azure&terms=Logic%20Apps) if you want to know more about Logic Apps to gain a deeper understanding about the usage of the services and how they can integrate with a range of connectors.
 
 ### Consider the cost of connectors
 
