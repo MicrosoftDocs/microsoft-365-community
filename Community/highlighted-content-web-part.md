@@ -11,7 +11,6 @@ localization_priority:
 description: Advanced level querying and filtering scenarios for Highlighted Content Web Parts, with KQL, CAML and Managed Properties.
 ms.collection: M365Community
 ---
-
   
 # Level Up Your Highlighted Content Web Parts
 
@@ -27,82 +26,63 @@ ms.collection: M365Community
 
 -  <abbr title="Highlighted Content Web Part">HCWP</abbr> filtering capabilities are more complex than most other web parts. You can use **<abbr  title="Keyword Query Language">KQL</abbr>** , **<abbr title="# Collaborative Application Markup Language">CAML</abbr>** , and/or **Managed Properties** to filter and display very specific results. We'll cover examples of that here.
 ---
-As a site owner making pages for SharePoint or Teams, you understand the benefits of rolling up content from multiple lists, libraries, and sites and displaying them on a page. Using built-in List or Library web parts work fine, but your end users never put things in _just one_ place. They're empowered to self-organize their content across multiple sites! The Highlighted Content Web Part can help here, automatically showing users the right content, regardless of its actual location.
+As a site owner making pages for SharePoint or Teams, you understand the value of automatically rolling up content from multiple lists, libraries, and sites and displaying them on a page. Using built-in List or Library web parts work fine... but your end users never put things in _just one place_. They're empowered to self-organize their content across multiple sites! The Highlighted Content Web Part can help here, automatically showing users the right content, regardless of its actual location.
 
->  #### Modern pages, modern Web Parts
-> Site Owners _of a certain age_ will remember Classic web part pages and the content rollup web parts. The Highlighted Content Web Part is maybe the successor to the _Content Query_ and _Content Search_ web parts. The mental model of <abbr title="Highlighted Content Web Part">HCWP</abbr>s is similar. <abbr title="Highlighted Content Web Part">HCWP</abbr>s require Modern pages.
+>  #### Modern pages, modern web parts
+> Site Owners of _a certain age_ will remember Classic web part pages and their content rollup web parts. The Highlighted Content Web Part is maybe the successor to the _Content Query_ and _Content Search_ web parts. The mental model is very similar.
+> <abbr title="Highlighted Content Web Part">HCWP</abbr>s require Modern pages.
 
 ## What Should I Learn?
-To dig into the real power of the <abbr  title="Highlighted Content Web Part">HCWP</abbr> you'll need to increase your knowledge in some specific SharePoint areas and technologies. Here's the learning path you should traverse:
+To dig into the real power of the <abbr  title="Highlighted Content Web Part">HCWP</abbr> you'll need to increase your knowledge in key SharePoint areas and technologies. Here's the learning path you should traverse:
 
-1.  <abbr title="Highlighted Content Web Part">HCWP</abbr> Fundamentals
-2. Managed Properties in SharePoint Search
+1.  <abbr title="Highlighted Content Web Part">HCWP</abbr> fundamentals
+2. Managed Properties and SharePoint Search
 3.  <abbr  title="Keyword Query Language">KQL</abbr>
-4. CAML (But maybe you don't have to?)
+4. Maybe CAML (But, maybe you don't have to?)
 
-### Fundamentals
-If you're new to the Highlighted Content Web Part start by reading Microsoft's documentation. In fact, even if you _have_ used the <abbr title="Highlighted Content Web Part">HCWP</abbr> before, this existing documentation is a must a read. This Community Docs article won't rehash what's already covered there:
+### 1. Fundamentals
+If you're new to the Highlighted Content Web Part start by reading Microsoft's documentation. In fact, even if you _have_ used the <abbr title="Highlighted Content Web Part">HCWP</abbr> before, this existing documentation is a must a read.
+
 [https://support.microsoft.com/office/use-the-highlighted-content-web-part-e34199b0-ff1a-47fb-8f4d-dbcaed329efd](https://support.microsoft.com/office/use-the-highlighted-content-web-part-e34199b0-ff1a-47fb-8f4d-dbcaed329efd)
+ 
+ (This Community Docs article won't rehash what's already covered there.)
 
-### Managed Properties
-Beyond the basic Filter options of the <abbr title="Highlighted Content Web Part">HCWP</abbr> (things like "Title includes" or "content includes" or dates) this web part allows more advanced filtering and sorting by a _Managed Property_. A _Managed Property_ is something you might need to configure, through SharePoint Search, maybe with a Site Column (that has been crawled, and you've made searchable). Once you've set it up, you can filter and sort your data with Managed Properties.
+### 2. Managed Properties
+Beyond the basic Filter options of the  (things like "Title includes" or "content includes" or dates) this web part allows more advanced filtering and sorting by a _Managed Property_.
 
-  
+For the <abbr title="Highlighted Content Web Part">HCWP</abbr>s, the Managed Property is one of two things:
 
-**Site Columns**
-To make your column something you can filter it by in a <abbr  title="Highlighted Content Web Part">HCWP</abbr>, this is the sequence:
+1. A built in property, no configuration requried. `IsDocument` is an exmaple - this one lets you include/exclude Documents in a query. Another built in Managed Property is `Author` which query content based on a M365 user.
+2. A Site Column derived Managed Property - where a List/Library column is made available through Search as a Managed Property. 
 
-Make a Site Column --> Make sure it's in use -> That site columns is a Crawled Property you need to map to a Managed Property -\&gt; Available in <abbr  title="Highlighted Content Web Part">HCWP</abbr>
+Managed Properties are available to filter and sort in <abbr title="Highlighted Content Web Part">HCWP</abbr>s either through the regular Filter interface or via the more customizable KQL interface.  More on that later on.
 
-  
-
+#####Learn about Site Columns
 Start your _Site Column_ learning with these Microsoft Community Docs articles:
 
-  
-
-[https://docs.microsoft.com/en-us/microsoft-365/community/what-is-site-column](https://docs.microsoft.com/en-us/microsoft-365/community/what-is-site-column)
-
-  
-
-[https://docs.microsoft.com/en-us/microsoft-365/community/list-column-or-site-column-which-one-to-choose](https://docs.microsoft.com/en-us/microsoft-365/community/list-column-or-site-column-which-one-to-choose)
+  * [What is a Site Column](https://docs.microsoft.com/en-us/microsoft-365/community/what-is-site-column)
+  * [List Colum or Site Columns - Which one to choose?](https://docs.microsoft.com/en-us/microsoft-365/community/list-column-or-site-column-which-one-to-choose)
 
   
+#####   Learn about Managed Properties
+Start your _Managed Property_ learning with this [Microsoft Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/) article: 
+* [How do Site Columns Become Managed Properties for Search?](https://docs.microsoft.com/en-us/microsoft-365/community/how-do-site-columns-become-managed-properties-thus-available-for-search)
 
-Start your _Managed Property_ learning with this [Microsoft Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/) article: [https://docs.microsoft.com/en-us/microsoft-365/community/how-do-site-columns-become-managed-properties-thus-available-for-search](https://docs.microsoft.com/en-us/microsoft-365/community/how-do-site-columns-become-managed-properties-thus-available-for-search)
-
+And more here with Microsoft's documentation:
+* [Manage the search schema in SharePoint](https://docs.microsoft.com/en-us/sharepoint/manage-search-schema)
   
+> [TIP!]
+- Impatient? Is your _Managed Property_ ready for <abbr  title="Highlighted Content Web Part">HCWP</abbr> use yet? In SharePoint Online, sometimes it takes an hour once you've mapped the Crawled Property to the Managed Property. While you're waiting, test availability via regular SharePoint Search first. If you can search for results by a Managed Property there, you can filter content by that same Proeprty in your <abbr  title="Highlighted Content Web Part">HCWP</abbr>.
+- It is fast and easy to make a new list – but if there's a chance you think you might need to filter by it via a <abbr  title="Highlighted Content Web Part">HCWP</abbr>, make that List Column into a _Site Column_ first. Taking an existing List Columns and converting them to a Site Column is a lot of manual work.
 
-And more here with Microsoft's documentation [https://docs.microsoft.com/en-us/sharepoint/manage-search-schema](https://docs.microsoft.com/en-us/sharepoint/manage-search-schema)
-
-  
-  
-
-_Pro Managed Property Tips:_
 
   
 
-- Impatient? Is your Managed Property ready for <abbr  title="Highlighted Content Web Part">HCWP</abbr> use yet? In SharePoint Online, sometimes it takes _an hour_ once you've mapped the Crawled Property to the Managed Property. While you're waiting, test it out with regular SharePoint Search first. If you can search for results by a Managed Property there, you can filter content in your <abbr  title="Highlighted Content Web Part">HCWP</abbr>.
+### 3. Using <abbr title="Keyword Query Language">KQL</abbr> to query, filter, and sort
 
-  
-  
+Once you've added a <abbr  title="Highlighted Content Web Part">HCWP</abbr> to a page, you'll have to tell the web part _where_ to look, and _what_ to display. At first, the web part's basic filter and sort options seem like they should cover most situations. But as you progress further into more complex projects (and your customers realize the capability displaying very specific content on a page) you, site owner, will find yourself needing build out <abbr  title="Highlighted Content Web Part">HCWP</abbr>s with Custom Queries with <abbr  title="Keyword Query Language">KQL</abbr>.
 
-- It is fast and easy to make a new list – but if there's _any_ chance you think you might need to filter by it via a <abbr  title="Highlighted Content Web Part">HCWP</abbr>, make a column a real _Site Column_ first. (Taking an existing list's columns and converting them to a Site Column is a lot of manual work.)
-
-  
-
-Learn all about Site Columns from this [Microsoft Community Docs](https://docs.microsoft.com/en-us/microsoft-365/community/) article: [https://docs.microsoft.com/en-us/microsoft-365/community/what-is-site-column](https://docs.microsoft.com/en-us/microsoft-365/community/what-is-site-column)
-
-  
-
-### Using <abbr title="Keyword Query Language">KQL</abbr> to query, filter, and sort
-
-  
-
-Once you've added a <abbr  title="Highlighted Content Web Part">HCWP</abbr> to a page, you'll have to tell the web part _where_ to look, and _what_ to display. At first, the web part's basic Filter and sort options seem like they should cover most situations. But as you progress further into more complex projects (and your customers realize the capability having very specific content on a page) you, site owner, will find yourself needing build out <abbr  title="Highlighted Content Web Part">HCWP</abbr> with Custom Queries with <abbr  title="Keyword Query Language">KQL</abbr>.
-
-  
-
-Good thing you set up all those Managed Properties from Site Columns already.
+Good thing you set up all those _Managed Properties_ from _Site Columns_ already.  KQL is the payoff for that work.
 
   
 
@@ -130,7 +110,8 @@ _Learn about <abbr  title="Keyword Query Language">KQL</abbr>_
 
   
 
-Start learning by reading Microsoft's reference for <abbr  title="Keyword Query Language">KQL</abbr>: [https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-<abbr  title="Keyword Query Language">KQL</abbr>-syntax-reference](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-<abbr  title="Keyword Query Language">KQL</abbr>-syntax-reference)
+Start learning by reading Microsoft's reference for <abbr  title="Keyword Query Language">KQL</abbr>: 
+[KQL Syntax Reference](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-KQL-syntax-reference)
 
   
 
@@ -603,47 +584,20 @@ Setting up with <abbr  title="Keyword Query Language">KQL</abbr>
 
   
 
-## Pro <abbr title="Highlighted Content Web Part">HCWP</abbr> Tips
-
-  
-  
-
+### Pro <abbr title="Highlighted Content Web Part">HCWP</abbr> Tips
 - The built-in Managed Property _&quot;Path:&quot;_ has real power. It lets you specify scope all the way from a single list item to an entire tenant. No configuration required. With some wildcards and a little time, could can build some real specific <abbr  title="Keyword Query Language">KQL</abbr> to bring back content you want.
-
-  
-  
-
 - If you _can_ configure your Managed and Crawled Properties in the SharePoint admin center, you should.
-
-  
-  
-
 - Once you get proficient at <abbr  title="Highlighted Content Web Part">HCWP</abbr>s, you might rely exclusively on Custom Queries with <abbr  title="Keyword Query Language">KQL</abbr> for filtering. But if you _can_ use the built-in filters under _Filter and Sort_, maybe you should? The next person coming along to update your web part might not have read this article and built-in filters are a little easier to read if you're new.
-
-  
-  
-
-- The built-in filtering guidance in Microsoft's documentation is worth remembering: _&quot;When you use multiple filters, your results will be based on OR operations for filters of the same type, and AND operations for filters of different types.&quot;_
-
-  
-  
-
+- The built-in filtering guidance in Microsoft's documentation is worth remembering: "When you use multiple filters, your results will be based on OR operations for filters of the same type, and AND operations for filters of different types."_
 - The _Trending_ sort and filter pulls from OneDrive, too. That may/may not be what you want.
-
-  
-  
-
 - If you want to enable Audience Targeting in your <abbr  title="Highlighted Content Web Part">HCWP</abbr>, you need to also enable it in the list/library first.
 
   
 
 ## Further Reading
-
-  
-
 -  [Modern SharePoint Web Parts: Highlighted Content Web Part](https://lightningtools.com/blog/modern-sharepoint-web-parts-highlighted-content-web-part) from Lightning Tools
 
-- [Highlighted Content Web Part Custom Query](https://lightningtools.com/sharepoint/highlighted-content-web-part-<abbr  title="Keyword Query Language">KQL</abbr>-caml) from Lighting Tools
+- [Highlighted Content Web Part Custom Query](https://lightningtools.com/sharepoint/highlighted-content-web-part-KQL-caml) from Lighting Tools
 
 -  [Managed Properties in SharePoint Online](https://sharepointmaven.com/6-ways-to-benefit-from-managed-properties-in-sharepoint-online/) and [Crawled vs Managed Properties in SharePoint Online](https://sharepointmaven.com/crawled-vs-managed-properties-in-sharepoint-online/) from SharePoint Maven
 
@@ -657,47 +611,11 @@ Setting up with <abbr  title="Keyword Query Language">KQL</abbr>
 
 -  [How to Display a list of sites on a Modern Web Part page](https://social.technet.microsoft.com/wiki/contents/articles/53252.sharepoint-how-to-display-a-list-of-sub-sites-on-a-modern-site-page.aspx) - TechNet
 
-- [<abbr  title="Keyword Query Language">KQL</abbr> Basics in SharePoint](https://www.techmikael.com/2014/03/s15e01-<abbr  title="Keyword Query Language">KQL</abbr>-basics.html) – from Mikael Svenson
+- [KQL Basics in SharePoint](https://www.techmikael.com/2014/03/s15e01-kql-basics.html) – from Mikael Svenson
 
 -  [CAML Query Syntax](https://www.sharepointcafe.net/2015/06/caml-query-in-sharepoint.html) – from SharePoint Cafe
 
   
-
-Working:
-
-  
-
-Grant site
-
-  
-
-[https://3zccvt.sharepoint.com/sites/DemoSite/Lists/Demo%20Grant%20List/AllItems.aspx](https://3zccvt.sharepoint.com/sites/DemoSite/Lists/Demo%20Grant%20List/AllItems.aspx)
-
-  
-
-[https://3zccvt.sharepoint.com/sites/DemoSite/\_layouts/15/listmanagedproperties.aspx?level=sitecol](https://3zccvt.sharepoint.com/sites/DemoSite/_layouts/15/listmanagedproperties.aspx?level=sitecol)
-
-  
-
-[https://3zccvt.sharepoint.com/sites/DemoSite/SitePages/Highlighted-Content-Web-Parts.aspx](https://3zccvt.sharepoint.com/sites/DemoSite/SitePages/Highlighted-Content-Web-Parts.aspx)
-
-  
-
-[https://3zccvt.sharepoint.com/sites/DemoSite/\_layouts/15/search.aspx/siteall?q=GranteeCountyNameOWSTEXT%3A%20Polk](https://3zccvt.sharepoint.com/sites/DemoSite/_layouts/15/search.aspx/siteall?q=GranteeCountyNameOWSTEXT%3A%20Polk)
-
-  
-
-[https://admin.microsoft.com/Adminportal/Home?source=applauncher#/homepage](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/homepage)
-
-  
-
-Legal Docs
-
-[https://3zccvt.sharepoint.com/\_layouts/15/search.aspx/sitefiles?q=ContractsOWSCHCS%3A%20Qualification](https://3zccvt.sharepoint.com/_layouts/15/search.aspx/sitefiles?q=ContractsOWSCHCS%3A%20Qualification)
-
-  
-
-[https://3zccvt.sharepoint.com/sites/Quality/Shared%20Documents/Forms/AllItems.aspx](https://3zccvt.sharepoint.com/sites/Quality/Shared%20Documents/Forms/AllItems.aspx)
 
 ---
 
