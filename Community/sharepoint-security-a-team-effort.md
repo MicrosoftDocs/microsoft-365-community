@@ -37,7 +37,7 @@ The first thing that should make your heart beat faster at this stage is the sli
 
 So unless you're absolutely sure that you want to keep it that way, slide down one level immediately!
 
-![mmd](media\managing-sharepoint-online-security-a-team-effort\external-sharing-settings-default.png)
+![Image of the SharePoint sharing settings slider for SharePoint and OneDrive.](media\managing-sharepoint-online-security-a-team-effort\external-sharing-settings-default.png)
 
 >_Note: You don't even need to know the exact company policy for OneDrive for Business at this point. The slider will also follow the SharePoint setting down one level. That's because you can't have a more permissive sharing policy for OneDrive for Business than you have for SharePoint._
 
@@ -45,7 +45,7 @@ When you know what the company policy is, you can choose the appropriate sharing
 
 - New and existing guests
 - Existing guests
-- Only people in your organisation
+- Only people in your organization
 
 ### More external sharing settings
 
@@ -57,13 +57,13 @@ Again, we have a few options available to help securing a bit more if necessary.
 
 **Allow only users in specific Security Groups to share externally**: If selected, members of the security group(s) will be the only ones capable of sharing externally.
 
->_Note: This option is only available if your sharing settings (tenant) are set to "New and Existing Guests" or "Anyone". For more information, please refer to the official Microsoft documentation: [Manage Security Groups](https://docs.microsoft.com/sharepoint/manage-security-groups)._
+>_Note: This option is only available if your sharing settings (tenant) are set to "New and Existing Guests" or "Anyone". For more information, please refer to the official Microsoft documentation: [Manage Security Groups](/sharepoint/manage-security-groups)._
 
 **Guests must sign in using the same account to which sharing invitations are sent**: This adds an extra layer of security to make sure that the user accessing the file(s) is the one you expect to. Selecting this option is highly recommended when possible.
 
 **People who use a verification code must reauthenticate after this many days [number of days]**: New method where guests will authenticate using a one-time passcode for the number of days you configured.
 
-For more information about this feature, please refer to the official Microsoft documentation: [Secure external sharing recipient experience](https://docs.microsoft.com/sharepoint/what-s-new-in-sharing-in-targeted-release).
+For more information about this feature, please refer to the official Microsoft documentation: [Secure external sharing recipient experience](/sharepoint/what-s-new-in-sharing-in-targeted-release).
 
 ## Site settings
 
@@ -83,7 +83,7 @@ Each (built-in) group has a _permission level_ assigned to it. Use those ones fi
 
 You can copy a permission level, and select or deselect options for your requirements.
 
-> _Best Practice: If necessary, create your own SharePoint group and permission level, and avoid modifying or deleting the built-in groups. For more information, please refer to the official Microsoft documentation about the [Default SharePoint Groups](https://docs.microsoft.com/sharepoint/default-sharepoint-groups)._
+> _Best Practice: If necessary, create your own SharePoint group and permission level, and avoid modifying or deleting the built-in groups. For more information, please refer to the official Microsoft documentation about the [Default SharePoint Groups](/sharepoint/default-sharepoint-groups)._
 
 ### Active Directory (AD) Groups
 
@@ -112,7 +112,7 @@ Site sharing will differ if your site is connected to a Microsoft 365 Group or n
 
 If your site is _not_ connected to a group, then not much has changed really. Despite the modern interface, SharePoint aficionados will still recognize how to share a site, or be familiar with the _Advanced Permissions Settings_.
 
-![mmd](media\managing-sharepoint-online-security-a-team-effort\share-site-not-connected.png)
+![Image of the Share site button on the Permissions pane.](media\managing-sharepoint-online-security-a-team-effort\share-site-not-connected.png)
 
 #### Sites _connected_ to Microsoft 365 groups
 
@@ -120,7 +120,7 @@ When connected to a group, you still have the possibility to **share the _Site O
 
 If however, you wish to share the site as well as including the user(s) within all the resources provisioned with the Microsoft 365 group, then you need to select **Invite people** >> **Add members to group**. The choice is yours! 😉
 
-![mmd](media\managing-sharepoint-online-security-a-team-effort\sharing-site-connected-to-group.png)
+![Image of the Invite people button on the SharePoint permissions pane with options to Add members to group or Share site only.](media\managing-sharepoint-online-security-a-team-effort\sharing-site-connected-to-group.png)
 
 #### Change how members can share
 
@@ -138,7 +138,7 @@ While the 3rd bullet point is self explanatory, we can imagine that it might pre
 
 This option could be used if your users are new to SharePoint, pending training for them to be more confident in sharing, or simply because you really want to prevent them from sharing.
 
-![mmd](media\managing-sharepoint-online-security-a-team-effort\how-members-can-share.png)
+![Image of the Site sharing settings pane.](media\managing-sharepoint-online-security-a-team-effort\how-members-can-share.png)
 
 ### Access Requests
 
@@ -170,15 +170,15 @@ Should I _manage and create_ those as a SharePoint Administrator? Probably not. 
 
 Ideally, this should be directed by company requirements, thoughtfully planned, and carefully implemented.
 
->_Note: Depending on your current Microsoft 365 licensing subscription(s), and the way features evolve quickly, please refer to the official Microsoft documentation: [Microsoft 365 compliance](https://docs.microsoft.com/microsoft-365/compliance/?view=o365-worldwide)_.
+>_Note: Depending on your current Microsoft 365 licensing subscription(s), and the way features evolve quickly, please refer to the official Microsoft documentation: [Microsoft 365 compliance](/microsoft-365/compliance/?view=o365-worldwide)_.
 
 ### Devices Accessing SharePoint Data
 
 More options are available within the SharePoint Online Admin Center, but may rely on an Azure subscription.
 
-![mmd](media\managing-sharepoint-online-security-a-team-effort\access-control.png)
+![Image of the Access control settings.](media\managing-sharepoint-online-security-a-team-effort\access-control.png)
 
-The following documentation is very interesting to help understand how Microsoft is protecting the SharePoint and OneDrive for Business data, as well as providing other links for your reference: [How SharePoint and OneDrive safeguard your data in the cloud](https://docs.microsoft.com/sharepoint/safeguarding-your-data).
+The following documentation is very interesting to help understand how Microsoft is protecting the SharePoint and OneDrive for Business data, as well as providing other links for your reference: [How SharePoint and OneDrive safeguard your data in the cloud](/sharepoint/safeguarding-your-data).
 
 ## Conclusion
 

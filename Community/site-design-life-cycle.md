@@ -16,7 +16,7 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-One possible use for Site Designs is to manage the life cycle of a unit of work. Site Designs allow us to do such things as create lists and libraries, apply a theme, install an add-in or solution, set permissions, etc. (See: [Site design JSON schema](https://docs.microsoft.com/sharepoint/dev/declarative-customization/site-design-json-schema))
+One possible use for Site Designs is to manage the life cycle of a unit of work. Site Designs allow us to do such things as create lists and libraries, apply a theme, install an add-in or solution, set permissions, etc. (See: [Site design JSON schema](/sharepoint/dev/declarative-customization/site-design-json-schema))
 
 ![Project Lifecycle](media/site-design-life-cycle/Lifecycle.png)
 
@@ -47,4 +47,3 @@ In other words, if you have a business process you want to support, Site Designs
 ---
 
 Principal author: [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson/)
-

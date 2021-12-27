@@ -40,11 +40,11 @@ As you can see above, a site is created to store your documents. Meaning that ea
 
 The exact location depends on which Team channel you share(d) them in. By default, there's a _General_ channel (which can't be deleted), and the files shared in this channel will be stored in the SharePoint site, in the _Documents_ library, within the _General_ folder. If you create a Team channel called "Project A", files shared in this channel will be stored in SharePoint under the folder called "Project A", and so on...
 
-_This applies to 'Standard' channels. Private channels have a different architecture which consists in having a separate site with different permissions from the Team. More information is available on the official Microsoft documentation: [Private Channels in Microsoft Teams](https://docs.microsoft.com/microsoftteams/private-channels)_.
+_This applies to 'Standard' channels. Private channels have a different architecture which consists in having a separate site with different permissions from the Team. More information is available on the official Microsoft documentation: [Private Channels in Microsoft Teams](/microsoftteams/private-channels)_.
 
-![mmd](media/should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes/TeamsGeneral.png)
+![Image of the General channel in a Microsoft Teams team.](media/should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes/TeamsGeneral.png)
 
-![mmd](media/should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes/SPOGeneral.png)
+![Image of the General folder in a SharePoint group.](media/should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes/SPOGeneral.png)
 
 >_Terminology is also important. A **channel name** in Microsoft Teams will have the same **folder name** in the associated SharePoint site under the 'Documents' library_.
 

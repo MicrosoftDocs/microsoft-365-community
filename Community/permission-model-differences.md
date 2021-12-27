@@ -29,9 +29,9 @@ If it is associated with a Group, the permission model you're used to is going t
 
 As a SharePoint Site Owner, you should already be familiar with these permissions concepts:
 
-* [SharePoint Permission Levels](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
-* [Creating and Editing Levels](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
-* [Customizing SharePoint Permissions](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+* [SharePoint Permission Levels](/sharepoint/understanding-permission-levels)
+* [Creating and Editing Levels](/sharepoint/how-to-create-and-edit-permission-levels)
+* [Customizing SharePoint Permissions](/sharepoint/customize-sharepoint-site-permissions)
 
 This has been the model for On-Premises SharePoint Site Collections for some time.
 
@@ -76,7 +76,6 @@ Product names overlap a little, so here are some stories describing common scena
 * [Groups in Microsoft 365 and Azure, and Which is Right for You](all-about-groups.md)
 * [SharePoint Maven on O365 Groups vs SP Site 'Groups'](https://sharepointmaven.com/office-365-groups-or-sharepoint-team-sites/)
 * [SharePoint Maven on Connecting a SP Site to an O365 Group](https://sharepointmaven.com/how-to-connect-a-sharepoint-site-to-an-office-365-group/)
-
 
 ---
 
