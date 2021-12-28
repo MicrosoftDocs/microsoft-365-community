@@ -205,23 +205,35 @@ As the person setting up the HCWP:
 
     The safer call here is to use SharePoint metadata. Since you've already added the _Contracts_ column as a Site Column, and flagged each file as wither _Purchasing, Legal,_ or _Qualification_, let's use that instead.
 
-In Site Settings, check to see if this column is already a Managed Property with a Crawled Property associated with it.
+3. In Site Settings, check to see if this column is already a Managed Property with a Crawled Property associated with it.  Once that's done, head back to your page, edit your HCWP, and set the Filter values based on your Managed Property. You'll find using the  word 'Contract' and the Managed Property Name will display soon. In these screen captures, we've added three filters (of the same type, so the are **OR** not **AND**)
 
-#### Setting up with _KQL_
+  :::row:::
+   :::column span="":::
+:::image type="content" source="media/highlighted-content-web-part/hcwp01.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part, where content is filtered":::
+   :::column-end:::
+     :::column span="":::
+      :::image type="content" source="media/highlighted-content-web-part/hcwp02.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part, where content is filtered":::
+   :::column-end:::
+   :::column span="":::
+      :::image type="content" source="media/highlighted-content-web-part/hcwp03.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part, where content is filtered":::
+   :::column-end:::
+:::row-end:::
 
-Assuming you've set up Managed and Crawled properties for the _Contracts_ column in SharePoint Administration, you should now have a property like _ContractsOWSCHCS …_ though yours might be named differently.
+And that should be all you need to do. If you've uploaded and tagged your documents correctly, you'll see three displaying in the web part.
 
-In your HCWP, choose 'Custom Query' instead of 'Filter' and set the Source to be 'All Sites' or 'Hub Site' if you have it. Now enter this in the Query text (KQL) field, and click Apply
+#### Setup up with _KQL_
+
+Assuming you've set up Managed and Crawled properties for the _Contracts_ column in SharePoint Admin center, you should now have a property like _ContractsOWSCHCS_ (though yours might be named differently).
+
+In your HCWP, choose 'Custom Query' instead of 'Filter' and set the Source to be 'All Sites' or 'Hub Site' if you have it. Now enter this in the Query text (KQL) field, and click Apply:
 
 `isDocument=true AND (ContractsOWSCHCS: Legal OR ContractsOWSCHCS: Purchasing OR ContractsOWSCHCS: Qualification)`
 
 #### Setting up with CAML
 
-CAML wouldn't work in this scenario, since we're looking for documents across multiple sites. CAML only shows up as a HCWP option when you select 'A document library in this site' or 'A page library in this site' for the Query source
+CAML isn't supported in this scenario, since we're looking for documents across multiple sites. CAML only shows up as a HCWP option when you select 'A document library in this site' or 'A page library in this site' for the Query source.
 
 ### Scenario 2: Showing the right content at the right time
-
-  
 
 Another common scenario might be Human Resources documents on an Intranet Communication Site. There are many supporting documents for medical, dental, vision, wellness, life insurance, etc that an employee might need to access. These benefits documents are changed each year at a very specific go-live date for open enrollment, but the structure of the Benefits site generally stays the same.
 
@@ -427,11 +439,12 @@ Setting up with KQL
 
   
 
-### Pro HCWP Tips
-- The built-in Managed Property _&quot;Path:&quot;_ has real power. It lets you specify scope all the way from a single list item to an entire tenant. No configuration required. With some wildcards and a little time, could can build some real specific KQL to bring back content you want.
+## Pro HCWP Tips
+
+- The built-in Managed Property `Path` has real power. It lets you specify scope all the way from a single list item to an entire tenant. No configuration required. With some wildcards and a little time, you can build some useful KQL to bring back content you want.
 - If you _can_ configure your Managed and Crawled Properties in the SharePoint admin center, you should.
-- Once you get proficient at HCWPs, you might rely exclusively on Custom Queries with KQL for filtering. But if you _can_ use the built-in filters under _Filter and Sort_, maybe you should? The next person coming along to update your web part might not have read this article and built-in filters are a little easier to read if you're new.
-- The built-in filtering guidance in Microsoft's documentation is worth remembering: "When you use multiple filters, your results will be based on OR operations for filters of the same type, and AND operations for filters of different types."_
+- Once you get proficient at HCWPs, you might rely exclusively on Custom Queries with KQL for filtering. But if you _can_ use the built-in filters under _Filter and Sort_, maybe you should? The next person coming along to update your web part might not have read this article and HCWP's built-in filters are a little easier to read if you're new.
+- The built-in filtering guidance from Microsoft's documentation is worth remembering: "_When you use multiple filters, your results will be based on **OR** operations for filters of the same type, and **AND** operations for filters of different types._"
 - The _Trending_ sort and filter pulls from OneDrive, too. That may/may not be what you want.
 - If you want to enable Audience Targeting in your HCWP, you need to also enable it in the list/library first.
 
