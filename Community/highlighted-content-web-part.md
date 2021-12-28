@@ -142,157 +142,82 @@ If your HCWP is displaying content from a _specific document or pages library_, 
 
 An example CAML statement to filter data in a HCWP might look like:
 
-  
-
-\&lt;Query\&gt;
-
-\&lt;Where\&gt;
-
-  
-
-\&lt;Geq\&gt;
-
-  
-
-\&lt;FieldRef Name=&quot;Expires&quot;/\&gt;
-
-  
-
-\&lt;Value Type=&quot;DateTime&quot;\&gt;
-
-  
-
-\&lt;Today/\&gt;
-
-  
-
-\&lt;/Value\&gt;
-
-  
-
-\&lt;/Geq\&gt;
-
-  
-
-\&lt;/Where\&gt;
-
-  
-
-\&lt;OrderBy\&gt;
-
-  
-
-\&lt;FieldRef Name=&quot;Modified&quot;/\&gt;
-
-  
-
-\&lt;/OrderBy\&gt;
-
-  
-
-\&lt;/Query\&gt;
-
-  
+```XML
+<Query>
+  <Where>
+    <Geq>
+      <FieldRef Name="Expires"/>
+      <Value Type="DateTime">
+        <Today/>
+      </Value>
+    </Geq>
+  </Where>
+  <OrderBy>
+    <FieldRef Name="Modified"/>
+  </OrderBy>
+</Query>
+```
 
 This is looking for a column called _Expires_, where the value is equal to _today or after_ and it's sort order is by Modified date.
 
-  
+Start learning CAML via Microsoft's documentation:
+[Learn about CAML query schema](https://docs.microsoft.com/sharepoint/dev/schema/query-schema)
 
-Start learning CAML via Microsoft's documentation: [https://docs.microsoft.com/en-us/sharepoint/dev/schema/query-schema](https://docs.microsoft.com/en-us/sharepoint/dev/schema/query-schema)
+>[!NOTE]
+>**CAML vs KQL: Which one do I use?**
+>
+>With two Custom Filter options for a Highlighted Content Web Part, picking one comes down to the type of data you're filtering. A HCWP scoped to a Document/Pages library only lets you filter with CAML, while others let you filter with KQL.
+>
+>In many scenarios, KQL  _might be able to do everything you need,_ and may be easier to read/write versus long, complex nested CAML queries. Just set the query to the site (rather than a particular library) and scope it with the `Path` managed property.
 
-  
-
-### CAML vs KQL: Which one do I use?
-
-  
-
-With two Custom filter options, picking one comes down to the type of data you're filtering. A HCWP scoped to a Document/Pages library only lets you filter with CAML, while others let you filter with KQL.
-
-  
-
-In many scenarios, KQL  _might be able to do everything you need,_ and may be easier to read/write versus long, complex nested CAML queries.
-
-  
+---
 
 ## Real-world examples
 
-The rest of this article will provide scenarios and tested examples to show you some possibilities. Since it is part of the [Microsoft Community Docs](https://github.com/MicrosoftDocs/microsoft-365-community), you're encouraged to contribute your own! [Thank you Emily Mancini for some of these!]
+The rest of this article will provide scenarios and tested examples to show you some possibilities. Since it is part of the [Microsoft Community Docs](https://github.com/MicrosoftDocs/microsoft-365-community), you're encouraged to contribute your own! [_Thank you Emily Mancini for some of these!_]
 
 ### Scenario 1: Contract documents across siloed departments
 
-In your organization, a new contract process required documents from different departments. The vendor qualification document sat in the _Quality_ team, the contract review doc was with _Legal_, and the vendor initiation worksheet was with _Purchasing_. These documents rightfully sat in each department's own separate Communications Sites but needed to be presented in on a single page.
+In your organization, a new contract process required documents from different departments. The vendor qualification document sat in the _Quality_ team, the contract review doc was with _Legal_, and the vendor initiation worksheet was with _Purchasing_. These documents lived in each department's own separate Communications Sites but needed to be presented in on a single page.
 
-  
+This looks like a job for the Highlighted Content Web Part!
 
-[https://3zccvt.sharepoint.com/sites/Legal](https://3zccvt.sharepoint.com/sites/Legal)
+Your libraries:
 
-  
-
-[https://3zccvt.sharepoint.com/sites/Quality](https://3zccvt.sharepoint.com/sites/Quality)
-
-  
-
-[https://3zccvt.sharepoint.com/sites/Purchasing](https://3zccvt.sharepoint.com/sites/Purchasing)
-
-  
+- `https://mytenant.sharepoint.com/sites/Legal/Shared Documents/`
+- `https://mytenant.sharepoint.com/sites/Quality/Shared Documents/`
+- `https://mytenant.sharepoint.com/sites/Purchasing/Shared Documents/`
 
 As the person setting up the HCWP:
 
-- You'll be using a HCWP to retrieve documents from 3 different sites in the same tenant. Each document will use a shared Site Column with a value applied. The HCWP's job is to return any documents with a matching value for this Site Column.
+- You'll use a HCWP to retrieve documents from 3 different sites in the same tenant. Each document will have a shared Site Column with a value applied. The HCWP's job is to return any documents with a matching value for this Site Column.
+- You'll query based off a Site Column called "**Contracts**" and will be looking for a value of _Legal, Purchasing,_ or _Qualifications_
+- You'll make sure the same **Site Column** is available in all three sites, in the three libraries.
 
-In our example we'll call our Site Column &quot;_Contracts_&quot; and will be looking for a value of _Legal, Purchasing,_ or _Qualifications_
+>[!Note]
+>Adding the Site Column is probably easiest if you can do it the SharePoint Admin Center. Don't forget to publish it!
 
-- Making sure the same **Site Column** was available in all three sites.
+#### Setup with regular Filtering (not a Custom Query)
 
-This is probably easiest if you can access the SharePoint Admin Center and add a Content Type and Site Column there first. Don't forget to publish it!
+1. Set your Content Source to be _All Sites_ or maybe a _Hub Site_ if you're using one. You could also pick 'Selected Sites' if are sure the documents you want to show will only come from _Legal, Quality,_ and _Purchasing._ libraries. Leave the _Type_ as _Documents_ and _Document Type_ as _Any_.
 
-You'll spend some time _waiting_ for the site columns to publish to the libraries, and then a little more time for search to pick them up as managed properties.
+2. Under Filter, you could pick _Title includes the words_ and add one filter each for _Legal, Quality,_ and _Purchasing_ as long as those are the file titles. This option is a little riskier because someone could upload another file with those words in the title and they'd also appear in the web part.
 
-#### Setting up with regular Filtering (not a Custom Query)
-
-Set your Content Source to be _All Sites_ or maybe a _Hub Site_ if you're using one. You could also pick 'Selected Sites' if are sure these will only come from _Legal, Quality,_ and _Purchasing._ Leave the _Type_ as _Documents_ and _Document Type_ as _Any_.
-
-  
-
-Under Filter, you could pick _Title includes the words_ and add one filter each for _Legal, Quality,_ and _Purchasing_ as long as those are the file titles. This option is a little riskier because someone could upload another file with those words in the title and they'd also appear in the web part.
-
-  
-
-Probably the right call here is to use SharePoint metadata. Since you've already added the _Contracts_ column as a Site Column, and flagged each file as wither _Purchasing, Legal,_ or _Qualification, let's use that instead._
-
-  
+    The safer call here is to use SharePoint metadata. Since you've already added the _Contracts_ column as a Site Column, and flagged each file as wither _Purchasing, Legal,_ or _Qualification_, let's use that instead.
 
 In Site Settings, check to see if this column is already a Managed Property with a Crawled Property associated with it.
 
-  
-
-_Setting up with KQL_
-
-  
+#### Setting up with _KQL_
 
 Assuming you've set up Managed and Crawled properties for the _Contracts_ column in SharePoint Administration, you should now have a property like _ContractsOWSCHCS …_ though yours might be named differently.
 
-  
-
 In your HCWP, choose 'Custom Query' instead of 'Filter' and set the Source to be 'All Sites' or 'Hub Site' if you have it. Now enter this in the Query text (KQL) field, and click Apply
 
-  
-
-isDocument=true AND (ContractsOWSCHCS: Legal OR ContractsOWSCHCS: Purchasing OR ContractsOWSCHCS: Qualification)
-
-  
-
-The _isDocument=true_ is a built-in Managed Property, and will exclude list items that share the Site Column _Contracts_.
-
-  
+`isDocument=true AND (ContractsOWSCHCS: Legal OR ContractsOWSCHCS: Purchasing OR ContractsOWSCHCS: Qualification)`
 
 #### Setting up with CAML
 
-  
-
 CAML wouldn't work in this scenario, since we're looking for documents across multiple sites. CAML only shows up as a HCWP option when you select 'A document library in this site' or 'A page library in this site' for the Query source
-
-  
 
 ### Scenario 2: Showing the right content at the right time
 
@@ -510,37 +435,29 @@ Setting up with KQL
 - The _Trending_ sort and filter pulls from OneDrive, too. That may/may not be what you want.
 - If you want to enable Audience Targeting in your HCWP, you need to also enable it in the list/library first.
 
-  
-
 ## Further Reading
--  [Modern SharePoint Web Parts: Highlighted Content Web Part](https://lightningtools.com/blog/modern-sharepoint-web-parts-highlighted-content-web-part) from Lightning Tools
+
+The time you invest in learning the HCWP will help you in other areas of the Microsoft 365 platform, especially with SharePoint search. Keep learning:
+
+- [Modern SharePoint Web Parts: Highlighted Content Web Part](https://lightningtools.com/blog/modern-sharepoint-web-parts-highlighted-content-web-part) from Lightning Tools
 
 - [Highlighted Content Web Part Custom Query](https://lightningtools.com/sharepoint/highlighted-content-web-part-KQL-caml) from Lighting Tools
 
--  [Managed Properties in SharePoint Online](https://sharepointmaven.com/6-ways-to-benefit-from-managed-properties-in-sharepoint-online/) and [Crawled vs Managed Properties in SharePoint Online](https://sharepointmaven.com/crawled-vs-managed-properties-in-sharepoint-online/) from SharePoint Maven
+- [Managed Properties in SharePoint Online](https://sharepointmaven.com/6-ways-to-benefit-from-managed-properties-in-sharepoint-online/) and [Crawled vs Managed Properties in SharePoint Online](https://sharepointmaven.com/crawled-vs-managed-properties-in-sharepoint-online/) from SharePoint Maven
 
--  [SharePoint Online Highlighted Content Web Part](https://www.spguides.com/sharepoint-online-highlighted-content/) – Deep dive from SPGuides.com
+- [SharePoint Online Highlighted Content Web Part](https://www.spguides.com/sharepoint-online-highlighted-content/) from SPGuides.com
 
--  [CAML Query Examples in SharePoint](https://www.spguides.com/caml-query-builder/) - from SPGuides.com
+- [CAML Query Examples in SharePoint](https://www.spguides.com/caml-query-builder/) from SPGuides.com
 
--  [How Do Site Columns Become Managed Properties - Thus Available for Search](https://docs.microsoft.com/en-us/microsoft-365/community/how-do-site-columns-become-managed-properties-thus-available-for-search) – From Microsoft Community Docs
+- [How Do Site Columns Become Managed Properties - Thus Available for Search](https://docs.microsoft.com/microsoft-365/community/how-do-site-columns-become-managed-properties-thus-available-for-search) from Microsoft Community Docs
 
--  [Crawled and Managed Properties Overview](https://docs.microsoft.com/en-us/sharepoint/technical-reference/crawled-and-managed-properties-overview) - Microsoft
+- [Crawled and Managed Properties Overview](https://docs.microsoft.com/sharepoint/technical-reference/crawled-and-managed-properties-overview) from Microsoft
 
--  [How to Display a list of sites on a Modern Web Part page](https://social.technet.microsoft.com/wiki/contents/articles/53252.sharepoint-how-to-display-a-list-of-sub-sites-on-a-modern-site-page.aspx) - TechNet
+- [How to Display a list of sites on a Modern Web Part page](https://social.technet.microsoft.com/wiki/contents/articles/53252.sharepoint-how-to-display-a-list-of-sub-sites-on-a-modern-site-page.aspx) - TechNet
 
-- [KQL Basics in SharePoint](https://www.techmikael.com/2014/03/s15e01-kql-basics.html) – from Mikael Svenson
+- [KQL Basics in SharePoint](https://www.techmikael.com/2014/03/s15e01-kql-basics.html) from Mikael Svenson
 
--  [CAML Query Syntax](https://www.sharepointcafe.net/2015/06/caml-query-in-sharepoint.html) – from SharePoint Cafe
-
-  
+- [CAML Query Syntax](https://www.sharepointcafe.net/2015/06/caml-query-in-sharepoint.html) from SharePoint Cafe
 
 ---
-
-  
-
 **Principal author**: [Patrick M. Doran](https://www.linkedin.com/in/PatrickDoran)
-
-  
-
----
