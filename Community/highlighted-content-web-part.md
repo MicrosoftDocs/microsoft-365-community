@@ -23,7 +23,7 @@ ms.collection: M365Community
 - It's an out of the box web part, so style options are _Grid, List, Carousel,_ and _Filmstrip._ This article assumes you're a site owner and not looking to custom code your own solutions.
 
 - The type of content - and where you query it from – change your HCWP configuration and filtering choices.
-- HCWP filtering capabilities are more complex than most other web parts. You can use **KQL** , **CAML** , and/or **Managed Properties** to filter and display very specific results. We'll cover examples of that here.
+- HCWP filtering capabilities are more complex than most other web parts. You can use **KQL**, **CAML**, and/or **Managed Properties** to filter and display very specific results. We'll cover examples of that here.
 
 ---
 As a site owner making pages for SharePoint or Teams, you understand the value of automatically rolling up content from multiple lists, libraries, and sites and displaying them on a page. Using built-in List or Library web parts work fine... but your end users never put things in _just one place_. They're empowered to self-organize their content across multiple sites! The Highlighted Content Web Part can help here, automatically showing users the right content, regardless of its actual location.
@@ -80,9 +80,10 @@ And more here with Microsoft's documentation:
 - [Manage the search schema in SharePoint](https://docs.microsoft.com/sharepoint/manage-search-schema)
   
 > [!TIP]
->
-> - Impatient? Is your _Managed Property_ ready for HCWP use yet? In SharePoint Online, sometimes it takes an hour once you've mapped the Crawled Property to the Managed Property. While you're waiting, test availability via regular SharePoint Search first. If you can search for results by a Managed Property there, you can filter content by that same Property in your HCWP.
-> - It is fast and easy to make a new list – but if there's a chance you think you might need to filter by it via a HCWP, make that List Column into a _Site Column_ first. Taking an existing List Columns and converting them to a Site Column is a lot of manual work.
+> Is your recently-configured _Managed Property_ ready for HCWP use yet? In SharePoint Online, sometimes it takes an hour once you've mapped the Crawled Property to the Managed Property. While you're waiting, test availability via regular SharePoint Search first. If you can search for results by a Managed Property there, you can filter content by that same Property in your HCWP
+
+> [!TIP]
+>It is fast and easy to make a new list – but if there's a chance you think you might need to filter by it via a HCWP, make that List Column into a _Site Column_ first. Taking an existing List Columns and converting them to a Site Column is a lot of manual work.
 
 ### 3. Using KQL to query, filter, and sort
 
@@ -133,26 +134,11 @@ So now you understand Managed Properties and KQL. Below are examples of helpful 
 | `Author` | Someone's name, or the SharePoint property for the current user | This more or less equates to the SharePoint 'Created By' field. | `Author:"Tricia Teams"` or `Author:{User.Name}` |
 | `Path` | A URL, or part of a URL | It might be a URL of a specific list, library, or everything in the whole tenant. | `Path:"https://mytenant.sharepoint.com/sites/demosite/Lists/"` |
 | `ContentType` | Text | | |
-| `ContentClass` | A search content type | An older way to search for things by type, but it checks out. Might be &quot;STS\_List&quot; or &quot;STS\_ListItem&quot;, &quot;STS\_Site&quot;, &quot;STS\_Web&quot; | ContentClass:STS\_ListItem
-
-  
-
-ContentClass:STS\_ListItem\_Events
-
-ContentClass: STS\_ListItem\_Tasks |
-
-
-
-
-  
+| `ContentClass` | A search content type | An older way to search for things by _type_, but it works with HCWPs.  Usually stars with _STS__ like `STS_List`, `STS_ListItem`, `STS_Site`, or `STS_Web` | `ContentClass:STS_ListItem`, `ContentClass:STS_ListItem_Tasks`, `ContentClass:STS_ListItem_Events` |
 
 ### 4. Using CAML to query and filter
 
-  
-
 If your HCWP is displaying content from a _specific document or pages library_, you can use CAML. If you've ever seen an XML file or RSS feed, CAML looks a lot like that.
-
-  
 
 An example CAML statement to filter data in a HCWP might look like:
 
