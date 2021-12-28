@@ -17,7 +17,7 @@ ms.collection: M365Community
 
 ## Share what?
 
-Yes... We hear that often. So first, let's have a _quick_ introduction. SharePoint is a platform. A product. You collaborate and share information across the organisation, quickly and securely. You reduce email traffic, and always have the latest version of a document or file. You can even have a beautiful Intranet!
+Yes... We hear that often. So first, let's have a _quick_ introduction. SharePoint is a platform. A product. You collaborate and share information across the organization, quickly and securely. You reduce email traffic, and always have the latest version of a document or file. You can even have a beautiful Intranet!
 
 There are of course, many features available in SharePoint, and that's probably what makes it 'complex'. It's a complex product, no denying. But so are many other platforms, products, software, when we don't spend a minimum amount of time learning them. 😉
 
@@ -64,7 +64,7 @@ You can't just 'throw users into the wild' and hope for the best, can you? Well,
 Some users may have some SharePoint experience already, likely from a previous role. Identify those users for two main reasons:
 
 - They could be Site Owners for their team or department,
-- They could help with training other users within the organisation.
+- They could help with training other users within the organization.
 
 ## Users and admin roles
 
@@ -95,9 +95,9 @@ Depending on a user's permissions, the following are considered basic operations
 - Create views
 - Restore deleted documents in the user's Recycle Bin
 - Minimum understanding of how Search works
-- Introduce [OneDrive for Business](https://www.microsoft.com/en-gb/microsoft-365/onedrive/onedrive-for-business)
+- Introduce [OneDrive for Business](https://www.microsoft.com/microsoft-365/onedrive/onedrive-for-business)
 
->_Note: Regardless of the sites' architecture, or ways of working specific to the organisation, the above items are really the basics to understand from a SharePoint perspective._
+>_Note: Regardless of the sites' architecture, or ways of working specific to the organization, the above items are really the basics to understand from a SharePoint perspective._
 
 ## Advanced training
 
@@ -138,7 +138,7 @@ Having someone explain 'how' to do things in SharePoint will only put users at e
 
 ## Related Resources
 
-- [Microsoft 365 learning pathways](https://docs.microsoft.com/office365/customlearning/)
+- [Microsoft 365 learning pathways](/office365/customlearning/)
 
 ---
 

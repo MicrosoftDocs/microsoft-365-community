@@ -18,7 +18,7 @@ ms.collection: M365Community
 
 ## Why do I need to consider DLP?
 
-Protecting your organisation's data is a big topic and as you would expect, Microsoft are putting a lot of focus into this area.
+Protecting your organization's data is a big topic and as you would expect, Microsoft is putting a lot of focus into this area.
 
 However, an area that is often overlooked is within the Power Platform.
 
@@ -48,19 +48,19 @@ Note: To create a DLP policy, you need to be a tenant admin or have the Environm
 
 Define which connectors you want to include in your policy.
 
-![DLP Policy Creation Image 01](media/power-platform-DLP-policies-you-should-be-considering-on-Day-1/Image02.png)
+![Image of the Assign connectors page.](media/power-platform-DLP-policies-you-should-be-considering-on-Day-1/Image02.png)
 
 Specify how you want this policy to be deployed. In the scenario of allowing a single business application to use a non-Microsoft connector, you would use the ‘Add multiple environments’ option to allow you to select the specific environment(s).
 
-![DLP Policy Creation Image 02](media/power-platform-DLP-policies-you-should-be-considering-on-Day-1/Image03.png)
+![Image of the new policy page.](media/power-platform-DLP-policies-you-should-be-considering-on-Day-1/Image03.png)
 
 Select the environment(s) you wish your policy to apply to.
 
-![DLP Policy Creation Image 03](media/power-platform-DLP-policies-you-should-be-considering-on-Day-1/Image04.png)
+![Image of the Environments page in a new policy creation.](media/power-platform-DLP-policies-you-should-be-considering-on-Day-1/Image04.png)
 
 Publish your policy.
 
-![DLP Policy Creation Image 04](media/power-platform-DLP-policies-you-should-be-considering-on-Day-1/Image05.png)
+![Image of the Data policies page showing a message that your new policy has been successfully created.](media/power-platform-DLP-policies-you-should-be-considering-on-Day-1/Image05.png)
 
 Note: DLP policies enforce rules for which connectors can be used together by classifying connectors as either Business or Non-Business. If you put a connector in the Business group, it can only be used with other connectors from that group in any given app or flow.
 
@@ -72,7 +72,7 @@ If you want to get clever, then creating DLP policies that are deployed to speci
 
 ## Further Reading
 
-- Microsoft: [Data loss prevention policies](https://docs.microsoft.com/power-platform/admin/wp-data-loss-prevention)
+- Microsoft: [Data loss prevention policies](/power-platform/admin/wp-data-loss-prevention)
 
 ---
 

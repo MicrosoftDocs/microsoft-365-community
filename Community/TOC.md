@@ -2,6 +2,7 @@
 ## Basics and Definitions
 ### [Glossary](glossary.md)
 ### [Follow Microsoft 365 on Social Media](microsoft-365-on-social-media.md)
+### [Microsoft 365 Search Technologies](microsoft-365-search-technologies.md)
 ### [What is a Site Column?](what-is-site-column.md)
 ### [What is a Content Type?](what-is-content-type.md)
 ### [Groups in Microsoft 365 and Azure, and Which is Right for You](all-about-groups.md)
@@ -37,6 +38,7 @@
 ### [Benefits of using PowerShell with SharePoint](benefits-of-using-powershell-with-sharepoint.md)
 ### [SharePoint Naming Guidelines](sharepoint-naming-guidelines.md)
 ### [Why SharePoint Training is Important](why-sharepoint-training-is-important.md)
+### [Building great content for your Intranet](intranet-content-sources.md)
 ### [Identifying Your SharePoint Champions](identifying-your-sharepoint-champions.md)
 ### [Empowering Your SharePoint Champions](empowering-your-SharePoint-champions.md)
 ## Information Architecture
