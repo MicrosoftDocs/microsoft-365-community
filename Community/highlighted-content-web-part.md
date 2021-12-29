@@ -23,6 +23,7 @@ ms.collection: M365Community
 - It's an out of the box web part, so style options are _Grid, List, Carousel,_ and _Filmstrip._ This article assumes you're a site owner and not looking to custom code your own solutions.
 
 - The type of content - and where you query it from – change your HCWP configuration and filtering choices.
+  
 - HCWP filtering capabilities are more complex than most other web parts. You can use **KQL**, **CAML**, and/or **Managed Properties** to filter and display very specific results. We'll cover examples of that here.
 
 ---
@@ -133,8 +134,8 @@ So now you understand Managed Properties and KQL. Below are examples of helpful 
 | `Filetype` | File extension | An extension, like XLSX or DOCX or PDF | `filetype:xlsx` |
 | `Author` | Someone's name, or the SharePoint property for the current user | This more or less equates to the SharePoint 'Created By' field. | `Author:"Tricia Teams"` or `Author:{User.Name}` |
 | `Path` | A URL, or part of a URL | It might be a URL of a specific list, library, or everything in the whole tenant. | `Path:"https://mytenant.sharepoint.com/sites/demosite/Lists/"` |
-| `ContentType` | Text | | |
-| `ContentClass` | A search content type | An older way to search for things by _type_, but it works with HCWPs.  Usually stars with _STS__ like `STS_List`, `STS_ListItem`, `STS_Site`, or `STS_Web` | `ContentClass:STS_ListItem`, `ContentClass:STS_ListItem_Tasks`, `ContentClass:STS_ListItem_Events` |
+| `ContentType` | Text | Any available Content Type that SharePoint Search can access | `ContentType: "Item"` or `ContentType: "EnrollmentDocs` |
+| `ContentClass` | A search content type | An older way to search for things by _type_, but it works with HCWPs.  Usually starts with _STS__ like `STS_List`, `STS_ListItem`, `STS_Site`, or `STS_Web` | `ContentClass:STS_ListItem`, `ContentClass:STS_ListItem_Tasks`, `ContentClass:STS_ListItem_Events` |
 
 ### 4. Using CAML to query and filter
 
@@ -182,7 +183,7 @@ In your organization, a new contract process required documents from different d
 
 This looks like a job for the Highlighted Content Web Part!
 
-Your libraries:
+Your libraries might be like:
 
 - `https://mytenant.sharepoint.com/sites/Legal/Shared Documents/`
 - `https://mytenant.sharepoint.com/sites/Quality/Shared Documents/`
@@ -229,101 +230,69 @@ In your HCWP, choose 'Custom Query' instead of 'Filter' and set the Source to be
 
 `isDocument=true AND (ContractsOWSCHCS: Legal OR ContractsOWSCHCS: Purchasing OR ContractsOWSCHCS: Qualification)`
 
+Your HCWP should show your three documents.  
+
 #### Setting up with CAML
 
-CAML isn't supported in this scenario, since we're looking for documents across multiple sites. CAML only shows up as a HCWP option when you select 'A document library in this site' or 'A page library in this site' for the Query source.
+CAML is not supported in this scenario. As we're looking for documents across multiple sites. CAML only shows up as a HCWP custom filter option when you select 'A document library in this site' or 'A page library in this site' for the Query source.
 
 ### Scenario 2: Showing the right content at the right time
 
-Another common scenario might be Human Resources documents on an Intranet Communication Site. There are many supporting documents for medical, dental, vision, wellness, life insurance, etc that an employee might need to access. These benefits documents are changed each year at a very specific go-live date for open enrollment, but the structure of the Benefits site generally stays the same.
-
-  
+Another common scenario might be displaying Human Resources documents on an Intranet Communication Site during annual enrollment. There are many supporting documents for medical, dental, vision, wellness, life insurance, etc that an employee might need to access. These benefits documents are changed each year at a specific go-live date for open enrollment, but the structure of the Benefits site generally stays the same.
 
 There is a short period of time where the current year and future year documents need to both be accessible as well.
 
-  
-
-Using metadata columns in libraries to indicate benefit type and year - paired with a HCWP - make for easy transitions as the HCWP query just needs to be updated.
-
-  
+Using SharePoint metadata columns in libraries to indicate *benefit type* and *year* - paired with a HCWP - make for easy transitions as the HCWP filtering query just needs to be updated.
 
 In this scenario we'll assume:
 
-  
+- Our single HCWP will appear on a page in a Communications Site.
 
-- Our single HCWP will appear on a page in a communications site.
+- A single SharePoint Document Library with extra two columns – a date one for *year*, and a choice one for *benefit type*.
 
-- A single SharePoint Document Library with two columns – a date one for year, and a choice one for benefit type.
+- Since this is a formal process, you'll make a new Content Type and Site Columns up front.
 
-- Since this is a formal process, we'll make a new Content Type and Site Columns up front
+Scenario library setup:
 
-  
+1. Create a library
 
-Library setup:
+2. Create Content Type
 
-  
+3. Create site columns for _Year_ and _Benefit Type_ columns and add those to your Content Type.
 
-- Create a library
+4. Add the new Content Type to library. This should also add your site columns.
 
-- Create Content Type
+5. In Site Collection search, map the Crawled Properties to Managed Properties for both site columns. Pay special attention to the *Year* column, which needs to be a date/time Managed Property.
 
-- Create site columns for _Year_ and _Benefit Type_ columnsand add to your Content Type
+6. Add documents to the library, and make sure you populate the *Benefit Type* and *Year* values.
 
-- Add the new Content Type to library. This should also add your site columns.
+7. Go get a coffee or tea and wait for SharePoint Search to crawl your library and site columns.
 
-- In Site Collection search, map the Crawled Properties to Managed Properties for both site columns.
-
-- Go get a coffee or a tea and wait for SharePoint Search to do its thing with your columns.
-
-  
-
+Your new library might look like:
 | **Name** | **Year** | **Benefit Type** | **Content Type** |
-
 | --- | --- | --- | --- |
-
-| Dental Doc for Annual Enrollment.pdf | 1/1/2023 | Dental | Enrollment |
-
+| Dental Doc for Annual Enrollment.docx | 1/1/2023 | Dental | Enrollment |
 | Life Insurance Enrollment Document.pdf | 1/1/2022 | Life Insurance | Enrollment |
-
 | Medical Health Insurance Enrollment Form.pdf | 1/1/2023 | Medical | Enrollment |
-
 | Vision Enrollment Employee Form.pdf | 1/1/2023 | Vision | Enrollment |
-
 | Wellness Worksheet for Enrollment.xlsx | 1/1/2022 | Wellness | Enrollment |
-
-  
 
 #### Setting up with regular Filtering (not a Custom Query)
 
-  
+Add your HCWP to the page, pick Filter instead of Custom query, and set your source to be the document library with your Content Type and Site Columns.
 
-Add your HCWP to the page, pick Filter instead of Custom query, and set your source to be the document library with your content type and site columns.
-
-  
-
-Under Filter, pick Filtering by _Year_ which is a column you added. And because it's a date/time column, the HCWP will ask you to specify a range of time to filter. Before, After, or Between.
-
-  
+Under *Filter*, search for the Enrollment Content type you made.  Then add additional filters for _Year_ which is a Site Column you added. And because it's a date/time column, the HCWP will ask you to specify a range of time to filter. Before, After, or Between.
 
 In this case – set _Year_ between 01/01/22 and 12/12/22. The HCWP will show only documents from that library for 2022.
 
-  
+#### Setting up with KQL
 
-_Setting up with KQL_
+Add your HCWP and pick Custom Query, and set your source to be the entire site. (If you select Document Library, the HCWP will default to CAML).
 
-  
+`ContentType: "Enrollment" AND (EnrollmentType: "Vision" OR EnrollmentType: "Dental" OR EnrollmentType: "Medical")`
 
-Add your HCWP and pick Custom Query, and set your source to be the entire Site. (If you select Document Library, the HCWP will default to CAML).
+In this example, `ContentType` is a built in Managed Property that allows you to reference the Content Type you aleady associated with your library. 
 
-  
-
-Find out the Managed Property name for the _Year_ column (it might be YearOWSDATE).
-
-  
-
-NOTE: DATE COLUMN FOR KQL
-
-  
 
 #### Setting up with CAML
 
@@ -448,10 +417,12 @@ Setting up with KQL
 - The _Trending_ sort and filter pulls from OneDrive, too. That may/may not be what you want.
 - If you want to enable Audience Targeting in your HCWP, you need to also enable it in the list/library first.
 
-## Further Reading
+## Keep Reading
 
 The time you invest in learning the HCWP will help you in other areas of the Microsoft 365 platform, especially with SharePoint search. Keep learning:
 
+- [Content Type Filters in Modern SharePoint](https://joannecklein.com/2018/09/12/content-type-filters-in-modern-sharepoint/) from Joanne Klein
+  
 - [Modern SharePoint Web Parts: Highlighted Content Web Part](https://lightningtools.com/blog/modern-sharepoint-web-parts-highlighted-content-web-part) from Lightning Tools
 
 - [Highlighted Content Web Part Custom Query](https://lightningtools.com/sharepoint/highlighted-content-web-part-KQL-caml) from Lighting Tools
@@ -470,7 +441,7 @@ The time you invest in learning the HCWP will help you in other areas of the Mic
 
 - [KQL Basics in SharePoint](https://www.techmikael.com/2014/03/s15e01-kql-basics.html) from Mikael Svenson
 
-- [CAML Query Syntax](https://www.sharepointcafe.net/2015/06/caml-query-in-sharepoint.html) from SharePoint Cafe
+- [CAML Query Syntax in SharePoint](https://www.sharepointcafe.net/2015/06/caml-query-in-sharepoint.html) from SharePoint Cafe
 
 ---
 **Principal author**: [Patrick M. Doran](https://www.linkedin.com/in/PatrickDoran)
