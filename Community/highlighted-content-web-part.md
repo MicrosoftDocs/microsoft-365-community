@@ -74,7 +74,7 @@ For the HCWPs, the Managed Property is one of two things:
 1. A built in property, no configuration required. `IsDocument` is an example - this one lets you include/exclude Documents in a query. Another built in Managed Property is `Author` which query content based on a M365 user.
 2. A Site Column derived Managed Property - where a List/Library column is made available through SharePoint Search as a Managed Property.
 
-Managed Properties are available to filter and sort in HCWPs either through the regular Filter interface or via the more customizable KQL interface.  More on that later on.
+Managed Properties are available to filter and sort in HCWPs either through the regular Filter interface or via the more customizable KQL interface. More on that later on.
 
 Start your _Managed Property_ learning with this [Microsoft Community Docs](https://docs.microsoft.com/microsoft-365/community/) article:
 
@@ -91,7 +91,7 @@ And more here with Microsoft's documentation:
 
 Once you've added a HCWP to a page, you'll have to tell the web part _where_ to look, and _what_ to display. At first, the web part's basic filter and sort options seem like they should cover most situations. But as you progress further into more complex projects (and your customers realize the capability displaying very specific content on a page) you, site owner, will find yourself needing build out HCWPs with Custom Queries with KQL (Keyword Query Language) .
 
-Good thing you set up all those _Managed Properties_ from _Site Columns_ already.  KQL is the payoff for that work.
+Good thing you set up all those _Managed Properties_ from _Site Columns_ already. KQL is the payoff for that work.
 
 KQL runs a search over a specific area of content and return result in your HCWP.
 
@@ -106,7 +106,7 @@ While a more complex one might look like:
 This should include items modified between June 6th, 2021 until April 26th, 2022.
 
 > [!NOTE]
-> **Spacing counts** – A space between a colon and a &quot; might return a very different result.
+> **Spacing counts** – A space between a colon and a " might return a very different result.
 
 Start learning KQL by reading Microsoft's reference:
 
@@ -185,7 +185,11 @@ Start learning CAML via Microsoft's documentation:
 
 ## Real-world examples
 
-The rest of this article will provide scenarios and tested examples to show you some possibilities. Since it is part of the [Microsoft Community Docs](https://github.com/MicrosoftDocs/microsoft-365-community), you're encouraged to contribute your own!
+The rest of this article will provide scenarios and tested examples to show you some possibilities. 
+
+>[!TIP]
+> Since this article is part of the **Microsoft Community Docs**, you're encouraged to contribute your own!
+> Get started contributing here: [Microsoft Community Docs](https://github.com/MicrosoftDocs/microsoft-365-community)
 
 ### Scenario 1: Contract documents across siloed departments
 
@@ -202,7 +206,7 @@ Your libraries might be like:
 As the person setting up the HCWP:
 
 - You'll use a HCWP to retrieve documents from 3 different sites in the same tenant. Each document will have a shared Site Column with a value applied. The HCWP's job is to return any documents with a matching value for this Site Column.
-- You'll query based off a Site Column called "**Contracts**" and will be looking for a value of _Legal, Purchasing,_ or _Qualifications_
+- You'll query based off a Site Column called "Contracts" and will be looking for a value of _Legal, Purchasing,_ or _Qualifications_
 - You'll make sure the same **Site Column** is available in all three sites, in the three libraries.
 
 >[!Note]
@@ -216,7 +220,7 @@ As the person setting up the HCWP:
 
     The safer call here is to use SharePoint metadata. Since you've already added the _Contracts_ column as a Site Column, and flagged each file as wither _Purchasing, Legal,_ or _Qualification_, let's use that instead.
 
-3. In Site Settings, check to see if this column is already a Managed Property with a Crawled Property associated with it.  Once that's done, head back to your page, edit your HCWP, and set the Filter values based on your Managed Property. You'll find using the  word 'Contract' and the Managed Property Name will display soon. In these screen captures, we've added three filters (of the same type, so the are **OR** not **AND**)
+3. In Site Settings, check to see if this column is already a Managed Property with a Crawled Property associated with it. Once that's done, head back to your page, edit your HCWP, and set the Filter values based on your Managed Property. You'll find using the  word 'Contract' and the Managed Property Name will display soon. In these screen captures, we've added three filters (of the same type, so the are **OR** not **AND**)
 
   :::row:::
    :::column span="":::
@@ -240,9 +244,9 @@ In your HCWP, choose 'Custom Query' instead of 'Filter' and set the Source to be
 
 `isDocument=true AND (ContractsOWSCHCS: Legal OR ContractsOWSCHCS: Purchasing OR ContractsOWSCHCS: Qualification)`
 
-Your HCWP should show your three documents.  
+Your HCWP should show your three documents.
 
-#### Setting up with CAML
+#### Setting up with _CAML_
 
 CAML is not supported in this scenario. As we're looking for documents across multiple sites. CAML only shows up as a HCWP custom filter option when you select 'A document library in this site' or 'A page library in this site' for the Query source.
 
@@ -291,7 +295,7 @@ Your new library might look like:
 
 Add your HCWP to the page, pick Filter instead of Custom query, and set your source to be the document library with your Content Type and Site Columns.
 
-Under *Filter*, search for the Enrollment Content type you made.  Then add additional filters for _Year_ which is a Site Column you added. And because it's a date/time column, the HCWP will ask you to specify a range of time to filter. Before, After, or Between.
+Under *Filter*, search for the Enrollment Content type you made. Then add additional filters for _Year_ which is a Site Column you added. And because it's a date/time column, the HCWP will ask you to specify a range of time to filter. Before, After, or Between.
 
 In this case – set _Year_ between 01/01/22 and 12/12/22. The HCWP will show only documents from that library for 2022.
 
@@ -303,94 +307,33 @@ Add your HCWP and pick Custom Query, and set your source to be the entire site. 
 
 In this example, `ContentType` is a built in Managed Property that allows you to reference the Content Type you already associated with your library.
 
-
 #### Setting up with CAML
 
-  
+Add your HCWP and set the scope to be this one document library. When you pick Custom Query, the interface will look a lot like the KQL syntax query, but it will specifically request you input CAML.  
 
-\&lt;Query\&gt;
+### Scenario 3: Showing very specific, personalized list items
 
-\&lt;Where\&gt;
-
-  
-
-\&lt;Geq\&gt;
-
-  
-
-\&lt;FieldRef Name=&quot;Expires&quot;/\&gt;
-
-  
-
-\&lt;Value Type=&quot;DateTime&quot;\&gt;
-
-  
-
-\&lt;Today/\&gt;
-
-  
-
-\&lt;/Value\&gt;
-
-  
-
-\&lt;/Geq\&gt;
-
-  
-
-\&lt;/Where\&gt;
-
-  
-
-\&lt;OrderBy\&gt;
-
-  
-
-\&lt;FieldRef Name=&quot;Modified&quot;/\&gt;
-
-  
-
-\&lt;/OrderBy\&gt;
-
-  
-
-\&lt;/Query\&gt;
-
-  
-
-### Scenario 3: Showing very specific, contextual list items
-
-  
-
-Often in SharePoint you'll have a list that becomes a database – a source of truth for many users. Often there is some criteria – &quot;top 10 highest grants this month&quot; or &quot;All the grants issued in Hawaii&quot; – that really matter. Those can be put in a page using a HCWP.
-
-  
+Often in SharePoint you'll have a list that becomes a database – a source of truth for many users. Often there is some criteria – "top 10 highest grants this month" or "All the grants issued in Hawaii" – that really matter. Those can be put in a page using a HCWP.
 
 For our scenario, we have a large list (10k items) of grant applications that was imported from a spreadsheet. Customer wants to see cards on a page with just ones they've updated and just ones from their home territory of Idaho.
 
-  
-
-#### Setting up with regular Filtering (not a Custom Query)
-
-  
+#### Setting up with regular Filtering
 
 This is probably the easiest approach. We'll use three filters to meet this customer's needs.
 
-  
-
 Set source to _All Sites._ First filter with be using the built-in Managed Property of _Path_.
 
-  
-
-![](RackMultipart20211224-4-1a6d1mj_html_fccbace099aed813.png)
-
-  
-
-![](RackMultipart20211224-4-1a6d1mj_html_768b4570c64e8ca2.png)
-
-  
-
-![](RackMultipart20211224-4-1a6d1mj_html_174d31aa03a8f6fd.png)
+:::row:::
+   :::column span="":::
+:::image type="content" source="media/highlighted-content-web-part/hcwp05.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part, where content is filtered":::
+   :::column-end:::
+     :::column span="":::
+      :::image type="content" source="media/highlighted-content-web-part/hcwp06.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part, where content is filtered":::
+   :::column-end:::
+   :::column span="":::
+      :::image type="content" source="media/highlighted-content-web-part/hcwp07.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part, where content is filtered":::
+   :::column-end:::
+:::row-end:::
 
   
 
@@ -414,9 +357,7 @@ Setting up with KQL
 
   
 
-(Path:https://3zccvt.sharepoint.com/sites/DemoSite/Lists/Demo%20Grant%20List AND &quot;Idaho&quot; AND Author:{User.Name} AND IsDocument:&quot;False&quot; AND contentclass:STS\_ListItem)
-
-  
+(Path:https://3zccvt.sharepoint.com/sites/DemoSite/Lists/Demo%20Grant%20List AND "Idaho" AND Author:{User.Name} AND IsDocument:"False" AND contentclass:STS\_ListItem)
 
 ## Pro HCWP Tips
 
