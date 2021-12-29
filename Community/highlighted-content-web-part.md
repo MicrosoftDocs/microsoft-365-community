@@ -251,7 +251,7 @@ CAML is not supported in this scenario. As we're looking for documents across mu
 
 ### Scenario 2: Showing the right content at the right time
 
-Another common scenario might be displaying Human Resources documents on an Intranet Communication Site during annual enrollment. There are many supporting documents for medical, dental, vision, wellness, life insurance, etc that an employee might need to access. These benefits documents are changed each year at a specific go-live date for open enrollment, but the structure of the Benefits site generally stays the same.
+Another common scenario might be displaying Human Resources documents on an intranet Communication Site during annual enrollment. There are many supporting documents for medical, dental, vision, wellness, life insurance, etc that an employee might need to access. These benefits documents are changed each year at a specific go-live date for open enrollment, but the structure of the Benefits site generally stays the same.
 
 There is a short period of time where the current year and future year documents need to both be accessible as well.
 
@@ -265,6 +265,8 @@ In this scenario we'll assume:
 
 - Since this is a formal process, you'll make a new Content Type and Site Columns up front.
 
+- You, site owner, will manually change the dates in the queries when enrollment season starts and ends.
+
 Scenario library setup:
 
 1. Create a library
@@ -273,9 +275,9 @@ Scenario library setup:
 
 3. Create site columns for _Year_ and _Benefit Type_ columns and add those to your Content Type.
 
-4. Add the new Content Type to library. This should also add your site columns.
+4. Add the new Content Type to library. (This should also add your site columns.)
 
-5. In Site Collection search, map the Crawled Properties to Managed Properties for both site columns. Pay special attention to the *Year* column, which needs to be a date/time Managed Property.
+5. In Site Collection Search, map the Crawled Properties to Managed Properties for both Site Columns. Pay special attention to the *Year* column, which needs to be a date/time Managed Property.
 
 6. Add documents to the library, and make sure you populate the *Benefit Type* and *Year* values.
 
@@ -284,25 +286,27 @@ Scenario library setup:
 Your new library might look like:
 | **Name** | **Year** | **Benefit Type** | **Content Type** |
 | --- | --- | --- | --- |
-| Dental Doc for Annual Enrollment.docx | 1/1/2023 | Dental | Enrollment |
-| Life Insurance Enrollment Document.pdf | 1/1/2022 | Life Insurance | Enrollment |
-| Medical Health Insurance Enrollment Form.pdf | 1/1/2023 | Medical | Enrollment |
-| Vision Enrollment Employee Form.pdf | 1/1/2023 | Vision | Enrollment |
-| Wellness Worksheet for Enrollment.xlsx | 1/1/2022 | Wellness | Enrollment |
+| Dental for Annual Enrollment.docx | 1/1/2023 | Dental | Enrollment |
+| Life Insurance Enrollment.pdf | 1/1/2022 | Life Insurance | Enrollment |
+| Medical Insurance Enrollment Form.pdf | 1/1/2023 | Medical | Enrollment |
+| Vision Enrollment Form.pdf | 1/1/2023 | Vision | Enrollment |
+| Wellness Worksheet.xlsx | 1/1/2022 | Wellness | Enrollment |
 
 #### Setting up with regular Filtering (not a Custom Query)
 
 Add your HCWP to the page, pick Filter instead of Custom query, and set your source to be the document library with your Content Type and Site Columns.
 
-Under *Filter*, search for the Enrollment Content type you made. Then add additional filters for _Year_ which is a Site Column you added. And because it's a date/time column, the HCWP will ask you to specify a range of time to filter. Before, After, or Between.
+Under *Filter*, search for the Enrollment Content type you made. Then add additional Managed Property filters for _Year_ which is a Site Column you added. And because it's a date/time column, the HCWP will ask you to specify a range of time to filter. Before, After, or Between.
 
-In this case – set _Year_ between 01/01/22 and 12/12/22. The HCWP will show only documents from that library for 2022.
+In this case – set _Year_ between 01/01/22 and 12/31/22. The HCWP will show only documents from that library for 2022.
 
 #### Setting up with KQL
 
 Add your HCWP and pick Custom Query, and set your source to be the entire site. (If you select Document Library, the HCWP will default to CAML).
 
-`ContentType: "Enrollment" AND (EnrollmentType: "Vision" OR EnrollmentType: "Dental" OR EnrollmentType: "Medical")`
+Your KQL query will look something like this:
+
+`ContentType: "Enrollment" AND (EnrollmentType: "Vision" OR EnrollmentType: "Dental" OR EnrollmentType: "Medical") AND (Year>=2022-01-01 AND Year<=2022-12-31)`
 
 In this example, `ContentType` is a built in Managed Property that allows you to reference the Content Type you already associated with your library.
 
