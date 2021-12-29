@@ -311,13 +311,16 @@ In this example, `ContentType` is a built in Managed Property that allows you to
 
 Add your HCWP and set the scope to be this one document library. When you pick Custom Query, the interface will look a lot like the KQL syntax query, but it will specifically request you input CAML.  
 
+>[!TIP]
+> Valid CAML Query isn't trivial to write. There are a variety of 3rd party tools and plugins designed to connect with your SharePoint site and help you build out the query that'll work in your environment.
+
 ### Scenario 3: Showing very specific, personalized list items
 
 Often in SharePoint you'll have a list that becomes a database – a source of truth for many users. Often there is some criteria – "top 10 highest grants this month" or "All the grants issued in Hawaii" – that really matter. Those can be put in a page using a HCWP.
 
 For our scenario, we have a large list (10k items) of grant applications that was imported from a spreadsheet. Customer wants to see cards on a page with just ones they've updated and just ones from their home territory of Idaho.
 
-#### Setting up with regular Filtering
+#### Setting up with regular HCWP Filtering
 
 This is probably the easiest approach. We'll use three filters to meet this customer's needs.
 
@@ -325,39 +328,27 @@ Set source to _All Sites._ First filter with be using the built-in Managed Prope
 
 :::row:::
    :::column span="":::
-:::image type="content" source="media/highlighted-content-web-part/hcwp05.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part, where content is filtered":::
+    :::image type="content" source="media/highlighted-content-web-part/hcwp05.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part configuration panel where content is filtered":::
    :::column-end:::
      :::column span="":::
-      :::image type="content" source="media/highlighted-content-web-part/hcwp06.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part, where content is filtered":::
+      :::image type="content" source="media/highlighted-content-web-part/hcwp06.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part, where content is filtered by the content Idaho":::
    :::column-end:::
    :::column span="":::
-      :::image type="content" source="media/highlighted-content-web-part/hcwp07.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part, where content is filtered":::
+      :::image type="content" source="media/highlighted-content-web-part/hcwp07.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part, where content is filtered by user name":::
    :::column-end:::
 :::row-end:::
 
-  
+#### Setting this up with CAML
 
-####
+CAML won't work here – it only works for documents and pages.
 
-  
+#### Setting up this scenario with KQL
 
-#### Setting up with CAML
+Add your HCWP and pick Custom Query, and set your source to be the entire site. You'll now write KQL syntax that scopes the returned list items to the Path of your List, filters by any item that has the word 'Idaho" in it, and only items where you've created or modified:
 
-  
+`(Path:https://mytenant.sharepoint.com/sites/DemoSite/Lists/Demo%20Grant%20List AND "Idaho" AND Author:{User.Name})`
 
-CAML is off the table here – it only works for documents and pages.
-
-  
-
-####
-
-  
-
-Setting up with KQL
-
-  
-
-(Path:https://3zccvt.sharepoint.com/sites/DemoSite/Lists/Demo%20Grant%20List AND "Idaho" AND Author:{User.Name} AND IsDocument:"False" AND contentclass:STS\_ListItem)
+---
 
 ## Pro HCWP Tips
 
