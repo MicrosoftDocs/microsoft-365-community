@@ -321,13 +321,13 @@ Add your HCWP and set the scope to be this one document library. When you pick C
 
 Often in SharePoint you'll have a list that becomes a database – a source of truth for many users. Often there is some criteria – "top 10 highest grants this month" or "All the grants issued in Hawaii" – that really matter. Those can be put in a page using a HCWP.
 
-For our scenario, we have a large list (10k items) of grant applications that was imported from a spreadsheet. Customer wants to see cards on a page with just ones they've updated and just ones from their home territory of Idaho.
+For our scenario, we have a large list (10k items) of grant applications that was imported from a spreadsheet. Customer wants to see cards on a page with just items *they've* created and just ones from their home territory of *Idaho*.
 
 #### Setting up with regular HCWP Filtering
 
 This is probably the easiest approach. We'll use three filters to meet this customer's needs.
 
-Set source to _All Sites._ First filter with be using the built-in Managed Property of _Path_.
+Set source to _All Sites._ First filter with be using the built-in Managed Property of `Path`.
 
 :::row:::
    :::column span="":::
@@ -347,7 +347,7 @@ CAML won't work here – it only works for documents and pages.
 
 #### Setting up this scenario with KQL
 
-Add your HCWP and pick Custom Query, and set your source to be the entire site. You'll now write KQL syntax that scopes the returned list items to the Path of your List, filters by any item that has the word 'Idaho" in it, and only items where you've created or modified:
+Add your HCWP and pick Custom Query and set your source to be the entire site. You'll now write KQL syntax that scopes the returned list items to the Path of your List, filters by any item that has the word 'Idaho" in it, and only items where you've created or modified:
 
 `(Path:https://mytenant.sharepoint.com/sites/DemoSite/Lists/Demo%20Grant%20List AND "Idaho" AND Author:{User.Name})`
 
