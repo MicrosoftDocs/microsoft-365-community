@@ -2,10 +2,9 @@
 title: Advanced Highlighted Content Web Part
 ms.date: 12/29/2021
 author: PatD
-ms.reviewer:
-manager:
+manager:pamgreen-msft
 ms.topic: article
-ms.author:
+ms.author: daisyfeller
 ms.service: sharepoint-online
 localization_priority:
 description: A learning strategy for querying and filtering Highlighted Content Web Parts, with KQL, CAML and Managed Properties. Includes example scenarios
@@ -27,14 +26,14 @@ ms.collection: M365Community
 - HCWP filtering capabilities are more complex than most other modern web parts. You can use **KQL**, **CAML**, and/or **Managed Properties** to filter and display specific results. We'll cover examples of that here.
 
 ---
-As a site owner making pages for SharePoint or Teams, you understand the value of automatically rolling up content from multiple lists, libraries, and sites and displaying them on a page. Using built-in List or Library web parts work fine... but your end users never put things in _just one place_. They're empowered to self-organize their content across multiple sites! The Highlighted Content Web Part can help here, automatically showing users the right content on a page, regardless of its physical location.
+As a site owner making pages for SharePoint or Teams, you understand the value of automatically rolling up content from multiple lists, libraries, and sites to display them on a page. Using built-in list or library web parts work fine... but your end users never put things in _just one place_. They're empowered to self-organize their content across multiple sites! The Highlighted Content Web Part can help here, automatically showing users the right content on a page, regardless of its physical location.
 
 > **Modern pages, modern web parts**
 >
-> Site Owners of _a certain age_ will remember Classic web part pages and their content rollup web parts. The Highlighted Content Web Part is maybe the successor to the _Content Query_ and _Content Search_ web parts. The mental model is very similar.
+> Site Owners of may remember classic web part pages and their content rollup web parts. The Highlighted Content Web Part is the successor to the _Content Query_ and _Content Search_ web parts. The mental model is very similar.
 > HCWPs only work on Modern pages.
 
-## What Should I Learn?
+## What should I learn?
 
 To dig into the real power of the HCWP you'll need to increase your knowledge in key SharePoint areas and technologies. Here's the learning path you should traverse:
 
@@ -67,14 +66,14 @@ Start your _Site Column_ learning with these Microsoft Community Docs articles:
 
 ### 3. Managed Properties
 
-Beyond the basic Filter options of the HCWP (like "Title includes" or "content includes" or dates), the HCWP allows more advanced filtering and sorting by a _Managed Property_.
+Beyond the basic filter options of the HCWP (like "Title includes" or "content includes" or dates), the HCWP allows more advanced filtering and sorting by a _Managed Property_.
 
 For the HCWPs, the Managed Property is one of two things:
 
-1. A built in property, no Search configuration required. `IsDocument` is an example - this one lets you include/exclude Documents in a query. Another built in Managed Property is `Author` which query content based on a M365 user.
-2. A Site Column associated Managed Property - where a Site Column in a List/Library is made available through SharePoint Search as a Managed Property.
+1. A built-in property, no search configuration required. `IsDocument` is an example - this one lets you include/exclude documents in a query. Another built-in Managed Property is `Author` which query content based on a M365 user.
+2. A Site Column associated Managed Property - where a Site Column in a list/library is made available through SharePoint Search as a Managed Property.
 
-Managed Properties are available to filter and sort in HCWPs either through the regular Filter interface or via the more customizable KQL and CAML interfaces. More on that later on.
+Managed Properties are available to filter and sort in HCWPs either through the regular filter interface or via the more customizable KQL and CAML interfaces. More on that later on.
 
 Start your _Managed Property_ learning with this Microsoft Community Docs article:
 
@@ -85,15 +84,15 @@ And more here with Microsoft's documentation:
 - [Manage the search schema in SharePoint](https://docs.microsoft.com/sharepoint/manage-search-schema)
   
 > [!TIP]
-> Is your recently-configured _Managed Property_ ready for HCWP filtering/sorting yet? In SharePoint Online, sometimes it takes an hour once you've mapped the Crawled Property to the Managed Property. While you're waiting, test availability via regular SharePoint Search first. If you can search for results by a Managed Property in Search, you can filter content by that same Property in your HCWP.
+> Is your recently-configured _Managed Property_ ready for HCWP filtering/sorting yet? In SharePoint Online, sometimes it takes an hour once you've mapped the Crawled Property to the Managed Property. While you're waiting, test availability via regular SharePoint Search first. If you can search for results by a Managed Property in Search, you can filter content by that same property in your HCWP.
 
 ### 4. Using KQL to query, filter, and sort
 
-Once you've added a HCWP to a page, you'll have to tell the web part _where_ to look, and _what_ to display. At first, the web part's basic filter and sort options seem like they should cover most situations. But as you progress further into more complex projects (and your customers realize the capability displaying very specific content on a page) you, site owner, may find yourself needing build out HCWPs with Custom Queries with KQL (Keyword Query Language) .
+Once you've added a HCWP to a page, you'll have to tell the web part _where_ to look, and _what_ to display. At first, the web part's basic filter and sort options seem like they should cover most situations. But as you progress further into more complex projects (and your users realize the capability displaying very specific content on a page) you, the site owner, may find yourself needing to build out HCWPs with Custom Queries with KQL (Keyword Query Language) .
 
 Good thing you set up all those _Managed Properties_ from _Site Columns_ already. KQL filtering and sorting is the payoff for that work.
 
-KQL runs a search over a specific area of content and return result in your HCWP.
+KQL runs a search over a specific area of content and returns results in your HCWP.
 
 A very basic KQL query in a HCWP might look like:
 
@@ -112,7 +111,7 @@ Start learning KQL by reading Microsoft's reference:
 
 #### KQL Pro Tips
 
-- **A _Path_ to success** – The _Path_ property is built in and can quickly narrow down scope if you know the list(s) and library(s) you want to get content from.
+- **A _Path_ to success** – The _Path_ property is built -in and can quickly narrow down scope if you know the list(s) and library(s) you want to get content from.
 
   `Path:"https://mytenantname.sharepoint.com/sites/HumanResources/Enrollment"`
 
@@ -122,7 +121,7 @@ Start learning KQL by reading Microsoft's reference:
 
 - **Many conditions** – If you have a lot of conditions, wrap statements in parentheses to make readability easier and enforce what should be AND versus OR.
 
-  `Author:"Patrick Doran" OR Author:"Sally SharePoint") AND (Filetype:xlsx OR Filetype:docx)`
+  `(Author:"Patrick Doran" OR Author:"Sally SharePoint") AND (Filetype:xlsx OR Filetype:docx)`
 
 ### Helpful built in syntax for HCWPs
 
@@ -133,13 +132,13 @@ Use these to filter and sort your content:
 | Managed Property | Type | Note | Example |
 | --- | --- | --- | --- |
 | `IsDocument` | True or False | Identifies if content is a Document or Page. List Items are are false here. | `IsDocument:"True"` |
-| `Filetype` | File extension | An extension, like XLSX or DOCX or PDF | `filetype:xlsx` |
+| `Filetype` | File extension | An extension, like XLSX or DOCX or PDF | `Filetype:xlsx` |
 | `Author` | Someone's name, or the SharePoint property for the current user | This more or less equates to the SharePoint 'Created By' field. | `Author:"Tricia Teams"` or `Author:{User.Name}` |
 | `Path` | A URL, or part of a URL | It might be a URL of a specific list, library, or everything in the whole tenant. | `Path: https://mytenant.sharepoint.com/sites/*` |
 | `ContentType` | Text | Any available Content Type that SharePoint Search can access | `ContentType: Document` or `ContentType: EnrollmentDocs` |
 
 >[!TIP]
->The _Filter a managed property_ search in the HCWP Filter configuration panel will show you some of what's built in versus what's custom:
+>To _Filter a managed property_ search in the HCWP filter configuration panel will show you some of what's built in versus what's custom:
 >:::image type="content" source="media/highlighted-content-web-part/hcwp04.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part user interface, where the user has searched for a managed property in the configuration panel":::
 
 ### 4. Using CAML to query and filter
@@ -265,7 +264,7 @@ In this scenario we'll assume:
 
 - Since this is a formal process, you'll make a new Content Type and Site Columns up front.
 
-- You, site owner, will manually change the dates in the queries when enrollment season starts and ends.
+- You, the site owner, will manually change the dates in the queries when enrollment season starts and ends.
 
 Scenario library setup:
 
@@ -382,7 +381,7 @@ The time you invest in learning the HCWP will help you in other areas of the Mic
 
 - [Crawled and Managed Properties Overview](https://docs.microsoft.com/sharepoint/technical-reference/crawled-and-managed-properties-overview) from Microsoft
 
-- [How to Display a list of sites on a Modern Web Part page](https://social.technet.microsoft.com/wiki/contents/articles/53252.sharepoint-how-to-display-a-list-of-sub-sites-on-a-modern-site-page.aspx) - TechNet
+- [How to Display a list of sites on a Modern Web Part page](https://social.technet.microsoft.com/wiki/contents/articles/53252.sharepoint-how-to-display-a-list-of-sub-sites-on-a-modern-site-page.aspx) from TechNet
 
 - [KQL Basics in SharePoint](https://www.techmikael.com/2014/03/s15e01-kql-basics.html) from Mikael Svenson
 
