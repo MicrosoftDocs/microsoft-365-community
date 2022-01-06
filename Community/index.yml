@@ -188,6 +188,8 @@ landingContent:
             url: power-automate-send-sharepoint-files-as-attachments.md
           - text: How can I use Learning Pathways in my organization?
             url: how-can-i-use-learning-pathways-in-my-organization.md
+          - text: Advanced Highlighted Content Web Part
+            url: highlighted-content-web-part.md
 
   # Card (optional)
   - title: Automation
