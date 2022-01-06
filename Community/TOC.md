@@ -75,6 +75,7 @@
 ### [Document Lifecycle Scenarios](document-lifecycle-scenarios.md)
 ### [Power Automate - Send SharePoint files as attachments](power-automate-send-sharepoint-files-as-attachments.md)
 ### [How can I use Learning Pathways in my organization?](how-can-i-use-learning-pathways-in-my-organization.md)
+### [Advanced Highlighted Content Web Part](highlighted-content-web-part.md)
 ## Automation
 ### [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
 ### [Should everyone create Teams? A Low Code Provisioning solution](should-everyone-create-teams.md)
