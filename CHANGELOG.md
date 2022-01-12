@@ -1,10 +1,26 @@
 # PnP Changelog
 
-*Please do not commit changes to this file, it is maintained by the repo owner.*
+*Please do not commit changes to this file, it is maintained by the repo owners.*
 
 ## Changelog references
 
 Note: Changelog started in January, 2021
+
+## January, 2022
+
+### New Articles - January, 2022
+
+| Article | Principal Author |
+|---|---|
+| [Advanced Highlighted Content Web Part](./Community/highlighted-content-web-part.md) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
+
+### Updated Articles - January, 2022
+
+| Article | Updated By |
+|---|---|
+| | |
+
+### New Contributors - January, 2022
 
 ## December, 2021
 
@@ -14,6 +30,7 @@ Note: Changelog started in January, 2021
 |---|---|
 | [Building great content for your Intranet](./Community/intranet-content-sources.md) | [Paul Bullock](https://www.linkedin.com/in/pkbullock/)|
 | [Microsoft 365 Search Technologies](./Community/microsoft-365-search-technologies.md) | [Dave Mehr](https://www.linkedin.com/in/david-mehr-055b46181/)|
+
 ### Updated Articles - December, 2021
 
 | Article | Updated By |
@@ -21,8 +38,8 @@ Note: Changelog started in January, 2021
 | [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps.md) | [Richard Astbury](https://www.linkedin.com/in/richardastbury/) |
 
 ### New Contributors - December, 2021
-- [Dave Mehr](https://www.linkedin.com/in/david-mehr-055b46181/)
 
+- [Dave Mehr](https://www.linkedin.com/in/david-mehr-055b46181/)
 - [Richard Astbury](https://www.linkedin.com/in/richardastbury/)
 
 ## November, 2021
