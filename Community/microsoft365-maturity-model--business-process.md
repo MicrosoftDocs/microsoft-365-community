@@ -44,7 +44,7 @@ See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-
 
 ### Level 100 - Initial
 
-Organizations at this level are running their business processes in a manual, ad-hoc, "just do what it takes to get it done" manner. Their systems are not supporting them because there has been no investment in automation. There is widespread frustration and a sense that "we could be doing better" but there is no particular group or individual (e.g. certified Continuous Process Improvement expert) leading the charge to use technology to make improvements.
+Organizations at this level are running their business processes in a manual, ad-hoc, "just do what it takes to get it done" manner. Their systems are not supporting them because there has been no investment in automation. There is widespread frustration and a sense that "we could be doing better" but there is no particular group or individual (e.g., certified Continuous Process Improvement expert) leading the charge to use technology to make improvements.
 
 **[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
@@ -55,14 +55,14 @@ Organizations at this level are running their business processes in a manual, ad
 - There may be no use of process technology, instead relying on paper-based process and legacy technology such as email for notifications, hand-offs and approvals.
 - Users of the system rely on institutional knowledge to get things done ("I know who can help me with this") rather than agreed-upon roles and business logic.
 - Processes have evolved from prior approaches. New needs and exceptions have been bolted on rather than engineered in.
-- Exceptions cause long delays (e.g. a key resource is out of the office, or the first time a new situation is encountered there is no method for defining what should happen).
+- Exceptions cause long delays (e.g., a key resource is out of the office, or the first time a new situation is encountered there is no method for defining what should happen).
 - Tracking of the state of the process or status of an activity within a process is not possible or not done. Reporting or analytics are absent.
 
 #### Level 100 Impacts
 
 At this level you can expect the following:
 
-- If there is a known workflow, e.g. for request approvals, there can be long delays between steps because there are no system notifications, no status updates, and no consequences for inaction. This requires the requestor to chase down the person at the next step in the process.
+- If there is a known workflow, e.g., for request approvals, there can be long delays between steps because there are no system notifications, no status updates, and no consequences for inaction. This requires the requestor to chase down the person at the next step in the process.
 - It's not possible for anyone to see the status of a particular request. Activities can stall or remain incomplete indefinitely.
 - Transactions are very costly in terms of time spent and user frustration.
 - Compliance issues are a risk when processes are not done according to established business rules.
@@ -70,7 +70,7 @@ At this level you can expect the following:
 - The team looses credibility and will be hard to get future buy in of new processes.
 - Activity owners invest their time in pushing activities through the process. Activity prioritization is ad hoc and not driven by business priority or objective value/risk
 - Exceptions and priorities, troubleshooting and remedial intervention become a drain on resources and pose a risk to business outcomes.
-- Basic questions can't be answered because there is no reliable data (e.g. "How long does it take us to process a typical invoice?")
+- Basic questions can't be answered because there is no reliable data (e.g., "How long does it take us to process a typical invoice?")
 - People feel stressed due to the lack of ability to plan and estimate how long a process will take.
 - Deadlines are missed or require heroic effort to meet due to lack of transparency in business process.
 
@@ -85,7 +85,7 @@ Organizations at this level are evaluating or implementing technology to help au
 - A document library or list provides a central base of operations.
 - Workflows tend to be document-centric or task-centric vs. application-centric.
 - There is an understanding of the functionality within M365 to support business process automation.
-- Some "no-code" workflows (e.g. Power Automate) may be implemented to handle simple business rules at the department level (decision-based routing).
+- Some "no-code" workflows (e.g., Power Automate) may be implemented to handle simple business rules at the department level (decision-based routing).
 - There may be inconsistency between the documented process and the deployed process, as individuals hold to the way they traditionally completed workflow tasks.
 - Many processes are built solely at the role or department level, by citizen developers in response to business needs. They do not go through formal application development cycles and the development itself is undocumented (though the process may be)
 - Processes lack governance, oversight, testing and control. Changes and improvements are ad hoc or responsive.
@@ -143,8 +143,8 @@ Organizations at this level have set goals for the process, such as reduced time
 **[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
 
 - Workflows on the platform may have connectivity to LOB systems.
-- Users have access to process analytics and audit trails around the workflow. (e.g. a user can report on document approval (person, date and comments).
-- There is greater transparency to the process at the end user level (e.g. a user can see the status of a particular request at any step)
+- Users have access to process analytics and audit trails around the workflow. (e.g., a user can report on document approval (person, date and comments).
+- There is greater transparency to the process at the end user level (e.g., a user can see the status of a particular request at any step)
 - Collaboration happens in the context of a work item as part of a dynamic, nonlinear business process (the "case").
 - There is a well understood continuum from citizen developed small scale, pilot and prototype business process solutions through intermediate to fully developed and managed approaches.
 - The organization has a register of the BP solutions in use, with assessment of their risks, ownership, technology and interactions with other processes and systems.
@@ -166,7 +166,7 @@ At this level you can expect the following:
 
 - Users feel that a particular automated process is stable. They have come to rely on it and shudder at the thought of the "bad old days."
 - The organization is looking for other places to automate processes, asking the question "is this a candidate for automation?"
-- New insights gathered from process analytics support restructuring of business processes for continual process improvement, earlier identification of issues, and data to support additional headcount, where needed. (e.g. for headcount: showing long lead times in SharePoint project requests where the delay is due to limited headcount to build solutions)
+- New insights gathered from process analytics support restructuring of business processes for continual process improvement, earlier identification of issues, and data to support additional headcount, where needed. (e.g., for headcount: showing long lead times in SharePoint project requests where the delay is due to limited headcount to build solutions)
 
 ### Level 500 - Optimizing
 
@@ -196,7 +196,7 @@ Organizations at this level are using the M365 platform optimally to automate th
 At this level you can expect the following:
 
 - It's possible to plan innovations because the baseline of performance is well known and trusted.
-- The organization can adapt its processes with less stress and more agility to respond to changing business conditions (e.g. mergers, acquisitions, new product lines, etc.)
+- The organization can adapt its processes with less stress and more agility to respond to changing business conditions (e.g., mergers, acquisitions, new product lines, etc.)
 - There is increased productivity across the organization as roles and responsibilities are focused on tasks that cannot be automated.
 - There is an increase in employee engagement as mundane, repetitive tasks are automated and viewed as a competitive advantage for how the organization works.
 
