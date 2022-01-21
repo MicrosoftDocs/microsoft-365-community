@@ -18,9 +18,11 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
-| | |
+| [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps.md) | [Clemens Szyperski](https://www.linkedin.com/in/cszyperski/) |
 
 ### New Contributors - January, 2022
+
+- [Clemens Szyperski](https://www.linkedin.com/in/cszyperski/)
 
 ## December, 2021
 
