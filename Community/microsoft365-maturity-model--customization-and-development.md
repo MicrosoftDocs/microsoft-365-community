@@ -14,6 +14,8 @@ ms.collection: SPCommunity
 
 # The Microsoft 365 Maturity Model - Customization and Development Competency
 
+![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
+
 ## Overview of the Concepts [tl;dr]
 
 Traditionally, there has been a reliance on 'deep' or 'pro' development to build business solutions. Any gaps in availability of these skills have commonly been filled by 'shadow IT' approaches and unmanaged applications.

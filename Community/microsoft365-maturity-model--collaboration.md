@@ -131,7 +131,8 @@ At this level, the focus tends to be on document and file collaboration; workspa
 - There is some use of status indicators in documents or metadata.
 - Shared lists allow visibility of activities and task status; interaction with the list is via read-only views or require downloading of a file. There is no aggregated progress overview or reporting within the shared activities; requiring manual reports to be issued.
 
-#### Culture 
+#### Culture
+
 - There is recognition that collaboration needs to happen.
 
 #### Impacts
@@ -147,10 +148,12 @@ The process of collaboration is well defined and agreed as a standard business p
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 #### Process
+
 - Teams are able to determine their own style of collaboration; this is defined in policy and procedure
 - Processes exist to manage site and content lifecycles, external access, document status, ownership, task allocation etc.
 
 #### Culture
+
 - Discussions, meetings and actions are wrapped around collaboration activities. 
 - Collaboration is enabled and encouraged within projects etc.
 
@@ -191,20 +194,21 @@ Rather than focusing on specific point solutions, a more strategic view of platf
 **[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
 
 #### Culture
+
 -Templates are continuously improved based on usage statistics/feedback
+
 - The culture is collaborative – empowerment, trust and permission
 - Tacit knowledge is transferred through departments and roles
 - Collaboration is understood beyond task-based activities
 
-
 #### Process
+
 - Collaboration is governed and compliant
 - Collaboration supports line of business systems.
 - Diary management is well-established, and availability for collaborative work is managed (including real-time presence and ‘focus’ time slots).
 - Asynchronous collaboration is facilitated by features (e.g. @mentions) that signpost colleagues to content and actions, ensuring notifications are productive rather than interruptions.
 - Productivity and other collaboration metrics provide insights.
 - Opportunities for informal conversations are actively created (water-cooler conversations), especially within disciplines
-
 
 #### Governance & Security
 
@@ -240,8 +244,6 @@ Rather than focusing on specific point solutions, a more strategic view of platf
 - Mobile, remote, and office scenarios are equally supported.
 - Asynchronous collaboration is facilitated by features (e.g. @mentions) that signpost colleagues to content and actions, ensuring notifications are productive rather than interruptions.
 - Productivity and other collaboration metrics provide insights.
-
-
 
 #### Impacts
 
