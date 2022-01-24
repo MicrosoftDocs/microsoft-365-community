@@ -335,3 +335,4 @@ With collaboration at its core, the Microsoft 365 platform can be an incredible 
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
+- [Nikki Chapple](https://www.linkedin.com/in/nikkichapple/) 
