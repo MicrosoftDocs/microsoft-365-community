@@ -103,6 +103,7 @@ At this level, the focus tends to be on document and file collaboration; workspa
 **[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
 #### Process
+
 - There is agreement (but not enforcement) not to send attachments.
 - Training and knowledge remain inconsistent.
 
@@ -154,7 +155,7 @@ The process of collaboration is well defined and agreed as a standard business p
 
 #### Culture
 
-- Discussions, meetings and actions are wrapped around collaboration activities. 
+- Discussions, meetings and actions are wrapped around collaboration activities.
 - Collaboration is enabled and encouraged within projects etc.
 
 #### Governance & Security
@@ -256,12 +257,14 @@ At this level, many transactional actions are automated to ensure consistency an
 **[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
 
 #### Culture
+
 - Collaboration is baked into the culture.
-- Staff are expected to do non-traditional/non-task collaboration 
+- Staff are expected to do non-traditional/non-task collaboration
 - Deep collaboration enabled through cross-skilling, placements and multi-disciplinary meetings.
 - Informal and formal knowledge transfer are designed into the organizational culture (water-cooler conversations) across disciplines. No one needs an excuse to collaborate.
 
 #### Process
+
 - Automation enables and protects collaborative efforts, in line with understood policies.
 - Downstream collaboration processes are automated & optimised.
 - Staff are accountable for tasks and commitments; with feedback used to assure productivity.

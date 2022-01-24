@@ -1,7 +1,7 @@
 ---
 title: The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency
 ms.date: 1/24/2022
-author: nikkichapple
+author: nikki-c
 ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
@@ -110,7 +110,8 @@ At level 100 maturity an organization does not believe that governance and compl
 
 Management does not consider investing in the Governance, Risk, and Compliance (GRC) related systems necessary for the overall business strategies. In addition, the organization does not assess the business impact of its vulnerabilities and it does not understand the risks involved due to these vulnerabilities.
 
-Organizations at level 100 maturity pay little attention to compliance and are characterized by the absence of policies and procedures for information/ data compliance of governance. 
+Organizations at level 100 maturity pay little attention to compliance and are characterized by the absence of policies and procedures for information/ data compliance of governance.
+
 The organization addresses compliance in a reactive mode — doing assessments when forced to. There is no ownership or monitoring ofGRC. Management does not invest in a compliance framework, technology controls, or employee training to meet baseline standards for managing risks and remaining compliant with regulations and standards.
 
 **[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
@@ -214,15 +215,15 @@ Processes measured and controlled
 - Risk level is periodically reviewed & updated.
 - Limited information and records available for audit, these are generally specific to the function rather than providing an aggregated or holistic vie.
 - There is limited or misplaced confidence that all governance and compliance risks are known and managed.
-- There are systems, tools and processes for managing the Governance, Risk and Compliance processes. While these vary according to the standards and requirements imposed, they may include: training and knowledge content; risk, issue and status logs; asset and impact lists; action plans; processes for reviews and updates; systematic audits and assessments, staff training and competency logs. 
+- There are systems, tools and processes for managing the Governance, Risk and Compliance processes. While these vary according to the standards and requirements imposed, they may include: training and knowledge content; risk, issue and status logs; asset and impact lists; action plans; processes for reviews and updates; systematic audits and assessments, staff training and competency logs.
 - Strong content management tools and processes that include effective lifecycle management are in place.
 
 #### Technology
 
 - Has a central (digital) system of record for compliance. However, usage varies across the organization and local solutions may be in use.
-- Software solutions are used but typically in a tactical manner, without a thought for a broader set of requirements. This results in multiple systems to manage individual governance, risk and compliance initiatives, each operating in its own silo. 
+- Software solutions are used but typically in a tactical manner, without a thought for a broader set of requirements. This results in multiple systems to manage individual governance, risk and compliance initiatives, each operating in its own silo.
 - Governance, risk and compliance controls are implemented but are reliant on the user to apply the right controls to the right content.
-- Technical controls to manage retention and deletion are in use and are generally effective for recognized classes of content (e.g. finance and HR files). A degree of automation supports this, reducing user burden and driving some level of consistency. 
+- Technical controls to manage retention and deletion are in use and are generally effective for recognized classes of content (e.g. finance and HR files). A degree of automation supports this, reducing user burden and driving some level of consistency.
 - Use of automated tagging, sensitivity labelling and policies is not broadly or well implemented, though it may be being piloted.
 
 #### Impacts
@@ -270,7 +271,7 @@ Proactive rather than reactive
 - Compliance controls are automated and tailored to different usage scenarios.
 - There is a central digital system of record to manage compliance program and to store evidence.
 - There is an auditable history of data activities with an understanding of how it can help support effective Governance, Risk and Compliance.
-- Content can be shared across organizational boundaries enabling efficient and secure collaboration with partners, clients, and other third parties without loss of control or governance. 
+- Content can be shared across organizational boundaries enabling efficient and secure collaboration with partners, clients, and other third parties without loss of control or governance.
 - Compliance specific solutions purchased to manage compliance requirements.
 - Integrated dashboards, balanced scorecards etc. are available to executives and across the organization as needed.
 
@@ -341,9 +342,9 @@ Download the [Microsoft 365 Comparison table](https://go.microsoft.com/fwlink/?l
 
 ## Resources to learn more
 
-- [Microsoft 365 compliance documentation | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/?view=o365-worldwide)
-- [Microsoft 365 guidance for security & compliance - Service Descriptions | Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#advanced-audit)
-- [Get started with the Microsoft Service Trust Portal - Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal?view=o365-worldwide)
+- [Microsoft 365 compliance documentation | Microsoft Docs](/microsoft-365/compliance/)
+- [Microsoft 365 guidance for security & compliance - Service Descriptions | Microsoft Docs](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#advanced-audit)
+- [Get started with the Microsoft Service Trust Portal - Microsoft 365 Compliance | Microsoft Docs](/microsoft-365/compliance/get-started-with-service-trust-portal)
 - [Microsoft 365 Compliance Center](https://compliance.microsoft.com/)
 
 ## Conclusion
