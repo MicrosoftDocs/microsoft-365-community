@@ -163,3 +163,5 @@ Improving your People and Communities maturity means rethinking your processes a
 **Principal author**: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
 ---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

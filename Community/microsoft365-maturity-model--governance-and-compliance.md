@@ -360,3 +360,5 @@ Achieving compliance is not a project. It is an ongoing process that needs embed
 - [Mike Cox](https://www.linkedin.com/in/michaelgeoffreycox/)
 
 ---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]
