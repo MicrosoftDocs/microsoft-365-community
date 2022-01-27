@@ -8,7 +8,7 @@ ms.topic: article
 ms.author: daisyfeller
 ms.prod: microsoft-365
 localization_priority: 
-description: The Microsoft 365 Maturity Model – Governance, Risk, and Compliance
+description: The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency
 ms.collection: SPCommunity
 ---
 
