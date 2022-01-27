@@ -75,6 +75,8 @@ landingContent:
             url: microsoft365-maturity-model--management-of-content.md
           - text: Customization and Development Competency
             url: microsoft365-maturity-model--customization-and-development.md
+          - text: Governance, Risk, and Compliance Competency
+            url: microsoft365-maturity-model--governance-and-compliance.md
 
       - linkListType: how-to-guide
         links:

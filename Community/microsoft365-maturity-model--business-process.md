@@ -244,3 +244,7 @@ Improving your Business Process maturity requires an investment in business proc
 - [Simon Doy](https://www.linkedin.com/in/simondoy)
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson)
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
+
+---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

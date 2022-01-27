@@ -409,3 +409,7 @@ Customization and development can only contribute maximally to the organization 
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
+
+---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

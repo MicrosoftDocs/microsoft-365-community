@@ -191,3 +191,5 @@ With collaboration at its core, the Microsoft 365 platform can be an incredible 
 - [Simon Doy]( https://www.linkedin.com/in/simondoy/)
 
 ---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

@@ -122,3 +122,5 @@ Overall, providing solutions to existing problems will generate higher interest 
 **Principal author**: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
 ---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]
