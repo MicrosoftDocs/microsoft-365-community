@@ -22,7 +22,7 @@ Organizations face increasing complexity and change in regulatory environments, 
 
 The Governance, Risk, and Compliance Competency is focused on helping an organization reduce risk and improve compliance effectiveness by implementing a framework for compliance and risk management.
 
-## Governance, Risk and Compliance framework
+### Governance, Risk and Compliance framework
 
 :::image type="content" source="media/microsoft365-maturity-model--governance-and-compliance/grc-framework.png" alt-text="Governance, Risk and Compliance framework":::
 
@@ -54,49 +54,48 @@ To address the gap between compliance and security many organizations also follo
 
 Organizations have different compliance needs depending on the national, regional and industry-specific standards they need to comply with.
 Microsoft 365 provides a set of integrated capabilities that you can use to help you manage end-to-end compliance scenarios.
-The compliance and risk management capabilities include:
+The compliance and risk management capabilities, based on E3 licensing (see footnotes for exceptions), include:
 
 ### Information protection
 
-- Customer key 1
-- Data Loss prevention (1 for Teams DLP)
-- Hold your own key 1
-- Message encryption ( 1 Advanced message encryption)
+- Customer key [^1]
+- Data Loss prevention [^1] <sup>for Teams DLP</sup>
+- Hold your own key [^1]
+- Message encryption [^1] <sup>Advanced message encryption</sup>
 - Multi geo (extra)
-- Sensitive information types 1
-- Sensitivity labels (1 for automated labelling)
+- Sensitive information types [^1]
+- Sensitivity labels [^1] <sup>for automated labelling</sup>
 
 ### Information governance
 
 - Exchange online archiving
 - Litigation hold
-- Records management 1
-- Retention labels (1 for automated labelling)
-- Retention policies (1 for rules based policies)
+- Records management [^1]
+- Retention labels [^1] <sup>for automated labelling</sup>
+- Retention policies [^1] <sup>for rules based policies</sup>
 
 ### Insider risk management
 
-- Communications compliance 1
-- Customer lock box 1
-- Information barriers 1
-- Insider risk management 1
-- Privacy Management 1
-- Privileged access management 1
+- Communications compliance [^1]
+- Customer lock box [^1]
+- Information barriers [^1]
+- Insider risk management [^1]
+- Privacy Management [^1]
+- Privileged access management [^1]
 
 ### eDiscovery and Audit
 
-- Audit (1 for Advanced Audit)
+- Audit [^1] for Advanced Audit
 - Cloud app discovery
-- Compliance manager (1 Custom assessments, 3 premium assessments)
-- eDiscovery (1 for Advanced eDiscovery)
+- Compliance manager [^1] <sup>Custom assessments,</sup> [^2] <sup>premium assessments</sup>
+- eDiscovery [^1] <sup>for Advanced eDiscovery</sup>
 - Litigation hold
-- Microsoft Defender for Cloud Apps (MCAS) 1
+- Microsoft Defender for Cloud Apps (MCAS) [^1]
 - Search
 
-Based on E3 licensing
-1 E5 Compliance
-2 Azure AD Premium 2
-3 Custom and premium assessment template assessments
+[^1]: E5 Compliance.
+[^2]: Custom and premium assessment template assessments.
+
 
 The available compliance capabilities in your tenant will depend on your Microsoft 365 licensing. Some of the functionality requires additional licenses. Download the [Microsoft 365 Comparison table](https://go.microsoft.com/fwlink/?linkid=2139145) to see what security and compliance features you have with your licensing.
 
@@ -112,18 +111,18 @@ Management does not consider investing in the Governance, Risk, and Compliance (
 
 Organizations at level 100 maturity pay little attention to compliance and are characterized by the absence of policies and procedures for information/ data compliance of governance.
 
-The organization addresses compliance in a reactive mode — doing assessments when forced to. There is no ownership or monitoring ofGRC. Management does not invest in a compliance framework, technology controls, or employee training to meet baseline standards for managing risks and remaining compliant with regulations and standards.
+The organization addresses compliance in a reactive mode — doing assessments when forced to. There is no ownership or monitoring of GRC. Management does not invest in a compliance framework, technology controls, or employee training to meet baseline standards for managing risks and remaining compliant with regulations and standards.
 
 **[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
-#### People and Culture
+#### People and Culture (100)
 
 - The leadership team do not believe that compliance is fundamental to their overall objectives. It is a means to an end.
 - Compliance obligations and risks are not understood.
 - No individual or department is responsible for governance, risk and compliance, nor is it clear where these activities are taking place on a devolved basis
 - Roles, training, and competencies needed for compliance are not developed. Employees are not aware of how compliance impacts their daily work.
 
-#### Process
+#### Process (100)
 
 - No process for keeping up with regulations that may affect their market and industry.
 - GRC processes and controls are either absent or ad hoc or out of date.
@@ -132,12 +131,12 @@ The organization addresses compliance in a reactive mode — doing assessments w
 - There is ad-hoc implementation and response to incidents (reactive).
 - Compliance controls and evidence is ad hoc or does not exist.
 
-#### Technology
+#### Technology (100)
 
 - No standardized storage location for documentation and supporting evidence.
 - No technical controls in place to support compliance.
 
-#### Impacts
+#### Impacts (100)
 
 Due to the lack of policies, controls and user training to support information/ data compliance in Microsoft 365 the organization is at risk of:
 
@@ -155,14 +154,14 @@ At this maturity level organizations acknowledge compliance regulations and stan
 
 **[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
-#### People and Culture
+#### People and Culture (200)
 
 - Leadership understands and accepts the importance of governance and compliance but has not driven it into the organization nor recognized it as a business enabler.
 - Some policies have been written but are not enforced or comprehensively adopted.
 - No formal compliance roles in place. Governance, Risk and Compliance relies on individuals being responsible for actions and approaches in their own areas.
 - No formal GRC training; communication is ad hoc or occurs in response to a GRC event. Most employees are not aware of how governance, risk and compliance impact their daily work.
 
-#### Process
+#### Process (200)
 
 - Governance and compliance management is local, uncoordinated or sporadic It is dependent on individual people to action and monitor.
 - Processes exist but are manual and lack standardization, making it hard to measure their effectiveness, enforce them or obtain an overview of activity and status.
@@ -170,14 +169,14 @@ At this maturity level organizations acknowledge compliance regulations and stan
 - Response to incidents is reactive /ad hoc, lacking consistency, formality and may result in ineffective actions.
 - Risk management is perceived as a process.
 
-#### Technology
+#### Technology (200)
 
 - Storage locations for documentation and supporting evidence are inconsistent and fragmented.
 - Basic technical controls may exist but may not be appropriately implemented to ensure compliance.
 - There is a tendency to focus on email rather than a wider view of content and processes that need to be compliant.
 - Technical controls to manage retention and deletion exist, however there are minimal processes to implement these effectively; retention and deletion is largely a manual, ad hoc activity, though there may be reminders and triggers in processes to act as prompts.
 
-#### Impacts
+#### Impacts (200)
 
 At this level you can expect the following:
 
@@ -199,7 +198,7 @@ Processes measured and controlled
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
-#### People and Culture
+#### People and Culture (300)
 
 - The leadership team see compliance as essential to business continuity and may value the rigor as a business improvement tool.
 - Compliance roles and responsibilities are assigned. Where GRC sits across multiple departments and activities in the organization individuals with those roles will coordinate their activities, possibly through a Compliance committee or similar mechanism.
@@ -208,7 +207,7 @@ Processes measured and controlled
 - Training, education, and awareness are run annually. Staff have a broad awareness of their responsibilities.
 - The organization invests significant time on stakeholder education, ensuring that the new ways of working together and the value of risk and adopting compliant processes are understood. However, commitment to upholding standards varies across the organization.
 
-#### Process
+#### Process (300)
 
 - There are staff with a role that includes monitoring regulatory updates and translating them into new company policies. In large organizations or those in industries with strong compliance needs, example roles may include Director of Compliance, General Counsel, Senior Information Risk Officer, Data Protection Officer). In smaller organizations it is likely to sit with members of the executive team or the functional head of departments with strong compliance alignment. This is in addition to staff dedicated to security measures (for example a Chief Information Security Officer).
 - The organization measures and assesses controls and activity, but largely at an individual or devolved level.
@@ -218,7 +217,7 @@ Processes measured and controlled
 - There are systems, tools and processes for managing the Governance, Risk and Compliance processes. While these vary according to the standards and requirements imposed, they may include: training and knowledge content; risk, issue and status logs; asset and impact lists; action plans; processes for reviews and updates; systematic audits and assessments, staff training and competency logs.
 - Strong content management tools and processes that include effective lifecycle management are in place.
 
-#### Technology
+#### Technology (300)
 
 - Has a central (digital) system of record for compliance. However, usage varies across the organization and local solutions may be in use.
 - Software solutions are used but typically in a tactical manner, without a thought for a broader set of requirements. This results in multiple systems to manage individual governance, risk and compliance initiatives, each operating in its own silo.
@@ -226,7 +225,7 @@ Processes measured and controlled
 - Technical controls to manage retention and deletion are in use and are generally effective for recognized classes of content (e.g. finance and HR files). A degree of automation supports this, reducing user burden and driving some level of consistency.
 - Use of automated tagging, sensitivity labelling and policies is not broadly or well implemented, though it may be being piloted.
 
-#### Impacts
+#### Impacts (300)
 
 At this level:
 
@@ -246,7 +245,7 @@ Proactive rather than reactive
 
 **[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
 
-#### People and Culture
+#### People and Culture (400)
 
 - The leadership team sees value in continuously improving the governance, risk and compliance program. Governance, risk and compliance are factored into all business decisions.
 - Dedicated teams and individuals are in place with clearly defined roles and responsibilities. Compliance and operations teams work in partnership to assess risk and compliance.
@@ -255,7 +254,7 @@ Proactive rather than reactive
 - Training, education, and awareness includes annual training matched to business needs. Who has been trained in what is tracked.
 - Regular training needs analysis for compliance training is undertaken to identity gaps and improve content.
 
-#### Process
+#### Process (400)
 
 - Conversations about risks and compliance are held at all levels of the organization and compliance is embedded into business processes.
 - Organization wide processes and policies are streamlined & simplified, they are reviewed and updated as needed according to an approved schedule.
@@ -265,7 +264,7 @@ Proactive rather than reactive
 - A data architecture has been implemented to govern which data is collected, how it is used, where it is stored, how long it is stored when it is destroyed  
 - Business continuity planning and disaster recovery plans are well developed, maintained and tested.
 
-#### Technology
+#### Technology (400)
 
 - Productivity and analytical tools are in place to make tracking tasks, reporting and collaboration easy.
 - Compliance controls are automated and tailored to different usage scenarios.
@@ -275,7 +274,7 @@ Proactive rather than reactive
 - Compliance specific solutions purchased to manage compliance requirements.
 - Integrated dashboards, balanced scorecards etc. are available to executives and across the organization as needed.
 
-#### Impacts
+#### Impacts (400)
 
 At this level
 
@@ -295,7 +294,7 @@ Organizations at this level use technology strategically to gain operational eff
 
 **[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
 
-#### People and Culture
+#### People and Culture (500)
 
 - Leadership team sees value in achieving compliance as providing a strategic advantage to the organization.
 - The dedicated compliance team now includes a focus on strategy and proactively looks at regulations to understand the impact, risks and opportunities for the business.
@@ -304,7 +303,7 @@ Organizations at this level use technology strategically to gain operational eff
 - Decision-makers becoming risk seeking rather than risk adverse, knowing that they can and must manage the risks they identify.
 - There is a pervasive compliance culture where all employees understand the importance of compliance and their role in protecting the organization.
 
-#### Process
+#### Process (500)
 
 - Compliance and risk are coordinated across upstream and downstream processes / requirements to ensure consistency.
 - The organization proactively reviews and updates risk and compliance metrics to address gaps and prevent compliance failures. Results are monitored & used for continuous improvement.
@@ -315,14 +314,14 @@ Organizations at this level use technology strategically to gain operational eff
 - Business continuity planning and disaster recovery are regularly tested.
 - Compliance processes and practices are externally audited.
 
-#### Technology
+#### Technology (500)
 
 - Compliance and DLP rules are comprehensively applied and enforced.
 - Controls are automated and subject to continuous improvement
 - Tailored compliance controls with policy enforcement are implemented to provide different levels of protection during collaboration depending on sensitivity, risk, and environment.
 - The organization invests in compliance management solutions that encompass multiple systems.
 
-#### Impacts
+#### Impacts (500)
 
 At this level, the governance, risk and compliance controls are aligned to the organizations risk appetite. Employees, managers, and executives understand their responsibility to the organization to ensure the success of the compliance program. Honesty, accountability, respect, and leadership are principles of these organizations, and transparency is a default.
 
@@ -330,7 +329,7 @@ Compliance maturity is benchmarked against industry best practice.
 
 ## Scenarios
 
-TBA
+TBD - please submit suggestions or role plays for this
 
 ## Cost & benefit
 
