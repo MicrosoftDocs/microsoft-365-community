@@ -103,6 +103,7 @@ At this level, the focus tends to be on document and file collaboration; workspa
 **[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
 #### Process
+
 - There is agreement (but not enforcement) not to send attachments.
 - Training and knowledge remain inconsistent.
 
@@ -131,7 +132,8 @@ At this level, the focus tends to be on document and file collaboration; workspa
 - There is some use of status indicators in documents or metadata.
 - Shared lists allow visibility of activities and task status; interaction with the list is via read-only views or require downloading of a file. There is no aggregated progress overview or reporting within the shared activities; requiring manual reports to be issued.
 
-#### Culture 
+#### Culture
+
 - There is recognition that collaboration needs to happen.
 
 #### Impacts
@@ -147,11 +149,13 @@ The process of collaboration is well defined and agreed as a standard business p
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 #### Process
+
 - Teams are able to determine their own style of collaboration; this is defined in policy and procedure
 - Processes exist to manage site and content lifecycles, external access, document status, ownership, task allocation etc.
 
 #### Culture
-- Discussions, meetings and actions are wrapped around collaboration activities. 
+
+- Discussions, meetings and actions are wrapped around collaboration activities.
 - Collaboration is enabled and encouraged within projects etc.
 
 #### Governance & Security
@@ -191,20 +195,21 @@ Rather than focusing on specific point solutions, a more strategic view of platf
 **[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
 
 #### Culture
+
 -Templates are continuously improved based on usage statistics/feedback
+
 - The culture is collaborative – empowerment, trust and permission
 - Tacit knowledge is transferred through departments and roles
 - Collaboration is understood beyond task-based activities
 
-
 #### Process
+
 - Collaboration is governed and compliant
 - Collaboration supports line of business systems.
 - Diary management is well-established, and availability for collaborative work is managed (including real-time presence and ‘focus’ time slots).
 - Asynchronous collaboration is facilitated by features (e.g. @mentions) that signpost colleagues to content and actions, ensuring notifications are productive rather than interruptions.
 - Productivity and other collaboration metrics provide insights.
 - Opportunities for informal conversations are actively created (water-cooler conversations), especially within disciplines
-
 
 #### Governance & Security
 
@@ -241,8 +246,6 @@ Rather than focusing on specific point solutions, a more strategic view of platf
 - Asynchronous collaboration is facilitated by features (e.g. @mentions) that signpost colleagues to content and actions, ensuring notifications are productive rather than interruptions.
 - Productivity and other collaboration metrics provide insights.
 
-
-
 #### Impacts
 
 At this level, users rely on the platform for their day to day work as well as for special interest areas that contribute to company culture. The platform is seen as work-enhancing, not detrimental. Users understand and follow governance best practices, with a high degree of trust in the platform. The collaborative experience is fluid and largely frictionless, allowing easy access to internal and external colleagues on demand.
@@ -254,12 +257,14 @@ At this level, many transactional actions are automated to ensure consistency an
 **[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
 
 #### Culture
+
 - Collaboration is baked into the culture.
-- Staff are expected to do non-traditional/non-task collaboration 
+- Staff are expected to do non-traditional/non-task collaboration
 - Deep collaboration enabled through cross-skilling, placements and multi-disciplinary meetings.
 - Informal and formal knowledge transfer are designed into the organizational culture (water-cooler conversations) across disciplines. No one needs an excuse to collaborate.
 
 #### Process
+
 - Automation enables and protects collaborative efforts, in line with understood policies.
 - Downstream collaboration processes are automated & optimised.
 - Staff are accountable for tasks and commitments; with feedback used to assure productivity.
@@ -335,3 +340,7 @@ With collaboration at its core, the Microsoft 365 platform can be an incredible 
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
+
+---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

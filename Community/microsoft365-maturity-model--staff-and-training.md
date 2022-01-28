@@ -183,3 +183,7 @@ Providing solutions to existing problems will generate higher interest across th
 - [Simon Doy](https://www.linkedin.com/in/simondoy/)
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
+
+---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

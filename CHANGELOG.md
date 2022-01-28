@@ -13,14 +13,18 @@ Note: Changelog started in January, 2021
 | Article | Principal Author |
 |---|---|
 | [Advanced Highlighted Content Web Part](./Community/highlighted-content-web-part.md) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
+| [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](./Community/microsoft365-maturity-model--governance-and-compliance.md) | [Nikki Chapple](https://www.linkedin.com/in/nikkichapple/) <br/> [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
 
 ### Updated Articles - January, 2022
 
 | Article | Updated By |
 |---|---|
-| | |
+| [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps.md) | [Clemens Szyperski](https://www.linkedin.com/in/cszyperski/) |
 
 ### New Contributors - January, 2022
+
+- [Clemens Szyperski](https://www.linkedin.com/in/cszyperski/)
+- [Nikki Chapell](https://www.linkedin.com/in/nikkichapple/)
 
 ## December, 2021
 
@@ -71,7 +75,7 @@ Note: Changelog started in January, 2021
 | Article | Updated By |
 |---|---|
 | [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | [Kaarin Shumate (Microsoft)](https://www.linkedin.com/in/kaarin-shumate/) |
-| [Maturity Model for Microsoft 365 - Collaboration Competency](./Community/microsoft365-maturity-model--collaboration.md) | [[Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 - Collaboration Competency](./Community/microsoft365-maturity-model--collaboration.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
 
 ### New Contributors - October, 2021
 
