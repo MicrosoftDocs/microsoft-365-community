@@ -52,50 +52,48 @@ To address the gap between compliance and security many organizations also follo
 
 ## Common Microsoft 365 Toolsets
 
-Organizations have different compliance needs depending on the national, regional and industry-specific standards they need to comply with.
-Microsoft 365 provides a set of integrated capabilities that you can use to help you manage end-to-end compliance scenarios.
-The compliance and risk management capabilities, based on E3 licensing (see footnotes for exceptions), include:
+Organizations have different compliance needs depending on the national, regional and industry-specific standards they need to comply with. Microsoft 365 provides a set of integrated capabilities that you can use to help you manage end-to-end compliance scenarios. The 4 groups of compliance and risk management capabilities are listed in the following section. Capabilities that require an E5 license are marked with an asterisk (*).
 
 ### Information protection
 
-- Customer key <sup>^1</sup>
-- Data Loss prevention <sup>^1 for Teams DLP</sup>
-- Hold your own key <sup>^1</sup>
-- Message encryption <sup>^1 Advanced message encryption</sup>
+- Customer key*
+- Data Loss prevention
+- Data Loss prevention for Teams DLP*
+- Hold your own key*
+- Message encryption
+- Advanced message encryption*
 - Multi geo (extra)
-- Sensitive information types <sup>^1</sup>
-- Sensitivity labels <sup>^1 for automated labelling</sup>
+- Sensitive information types*
+- Sensitivity labels
+- Sensitivity labels for automated labelling*
 
 ### Information governance
 
-- Exchange online archiving
-- Litigation hold
-- Records management <sup>^1</sup>
-- Retention labels <sup>^1 for automated labelling</sup>
-- Retention policies <sup>^1 for rules based policies</sup>
+- Records management*
+- Retention labels
+- Retention labels for automated labelling*
+- Retention policies
+- Retention policies for rules based policies*
 
 ### Insider risk management
 
-- Communications compliance <sup>^1</sup>
-- Customer lock box <sup>^1</sup>
-- Information barriers <sup>^1</sup>
-- Insider risk management <sup>^1</sup>
-- Privacy Management <sup>^1</sup>
-- Privileged access management <sup>^1</sup>
+- Communications compliance*
+- Customer lock box*
+- Information barriers*
+- Insider risk management*
+- Privacy Management*
+- Privileged access management*
 
 ### eDiscovery and Audit
 
-- Audit <sup>^1 for Advanced Audit</sup>
+- Audit* for Advanced Audit
 - Cloud app discovery
-- Compliance manager <sup>^1 Custom assessments,  ^2 premium assessments</sup>
-- eDiscovery <sup>^1 for Advanced eDiscovery</sup>
+- Compliance Manager
+- Compliance Manager custom assessments*
+- eDiscovery for Advanced eDiscovery*
 - Litigation hold
-- Microsoft Defender for Cloud Apps (MCAS) <sup>^1</sup>
+- Microsoft Defender for Cloud Apps (MCAS)*
 - Search
-
-<sup>^1</sup>: E5 Compliance.
-<sup>^2</sup>: Custom and premium assessment template assessments.
-
 
 The available compliance capabilities in your tenant will depend on your Microsoft 365 licensing. Some of the functionality requires additional licenses. Download the [Microsoft 365 Comparison table](https://go.microsoft.com/fwlink/?linkid=2139145) to see what security and compliance features you have with your licensing.
 
