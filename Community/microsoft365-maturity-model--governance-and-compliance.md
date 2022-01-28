@@ -58,43 +58,43 @@ The compliance and risk management capabilities, based on E3 licensing (see foot
 
 ### Information protection
 
-- Customer key [^1]
-- Data Loss prevention [^1] <sup>for Teams DLP</sup>
-- Hold your own key [^1]
-- Message encryption [^1] <sup>Advanced message encryption</sup>
+- Customer key <sup>^1</sup>
+- Data Loss prevention <sup>^1 for Teams DLP</sup>
+- Hold your own key <sup>^1</sup>
+- Message encryption <sup>^1 Advanced message encryption</sup>
 - Multi geo (extra)
-- Sensitive information types [^1]
-- Sensitivity labels [^1] <sup>for automated labelling</sup>
+- Sensitive information types <sup>^1</sup>
+- Sensitivity labels <sup>^1 for automated labelling</sup>
 
 ### Information governance
 
 - Exchange online archiving
 - Litigation hold
-- Records management [^1]
-- Retention labels [^1] <sup>for automated labelling</sup>
-- Retention policies [^1] <sup>for rules based policies</sup>
+- Records management <sup>^1</sup>
+- Retention labels <sup>^1 for automated labelling</sup>
+- Retention policies <sup>^1 for rules based policies</sup>
 
 ### Insider risk management
 
-- Communications compliance [^1]
-- Customer lock box [^1]
-- Information barriers [^1]
-- Insider risk management [^1]
-- Privacy Management [^1]
-- Privileged access management [^1]
+- Communications compliance <sup>^1</sup>
+- Customer lock box <sup>^1</sup>
+- Information barriers <sup>^1</sup>
+- Insider risk management <sup>^1</sup>
+- Privacy Management <sup>^1</sup>
+- Privileged access management <sup>^1</sup>
 
 ### eDiscovery and Audit
 
-- Audit [^1] for Advanced Audit
+- Audit <sup>^1 for Advanced Audit</sup>
 - Cloud app discovery
-- Compliance manager [^1] <sup>Custom assessments,</sup> [^2] <sup>premium assessments</sup>
-- eDiscovery [^1] <sup>for Advanced eDiscovery</sup>
+- Compliance manager <sup>^1 Custom assessments,  ^2 premium assessments</sup>
+- eDiscovery <sup>^1 for Advanced eDiscovery</sup>
 - Litigation hold
-- Microsoft Defender for Cloud Apps (MCAS) [^1]
+- Microsoft Defender for Cloud Apps (MCAS) <sup>^1</sup>
 - Search
 
-[^1]: E5 Compliance.
-[^2]: Custom and premium assessment template assessments.
+<sup>^1</sup>: E5 Compliance.
+<sup>^2</sup>: Custom and premium assessment template assessments.
 
 
 The available compliance capabilities in your tenant will depend on your Microsoft 365 licensing. Some of the functionality requires additional licenses. Download the [Microsoft 365 Comparison table](https://go.microsoft.com/fwlink/?linkid=2139145) to see what security and compliance features you have with your licensing.
