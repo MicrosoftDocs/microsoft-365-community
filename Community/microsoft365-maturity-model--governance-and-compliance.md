@@ -99,6 +99,8 @@ The available compliance capabilities in your tenant will depend on your Microso
 
 ## Evolution of this competency
 
+:::image type="content" source="media/microsoft365-maturity-model--governance-and-compliance/grc-competency-overview.png" alt-text="Governance, Risk, and Compliance Competency Levels":::
+
 See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
 
 ### Level 100
