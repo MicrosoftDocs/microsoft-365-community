@@ -1,5 +1,5 @@
 ---
-title: SharePoint Usage Glossary
+title: Microsoft 365 Glossary
 ms.date: 9/2/2020
 author: sympmarc
 ms.reviewer: daisyfeller
@@ -8,7 +8,7 @@ ms.topic: article
 ms.author: daisyfeller
 ms.prod: microsoft-365
 localization_priority: 
-description: "SharePoint Usage Glossary"
+description: "Microsoft 365 Glossary"
 ms.collection: M365Community
 ---
 
