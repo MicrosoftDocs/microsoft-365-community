@@ -164,6 +164,7 @@ The current target is to deliver:
 - [Business Process](microsoft365-maturity-model--business-process.md)
 - [Management of Content](microsoft365-maturity-model--management-of-content.md)
 - [Customization & Development](microsoft365-maturity-model--customization-and-development.md)
+- [Governance, Risk, and Compliance Competency](microsoft365-maturity-model--governance-and-compliance.md)
 
 ### In progress
 
