@@ -24,25 +24,109 @@ This Glossary is an attempt to demystify some of the terms and acronyms we use e
 
 ## A
 
-### App
+### [Access](https://docs.microsoft.com/en-us/office/client-developer/access/access-home)
+
+Microsoft Access is a database program which is part of the Microsoft Office suite of products.
+
+### [Access Reviews](https://docs.microsoft.com/en-us/azure/active-directory/governance/access-reviews-overview)
+
+Azure Active Directory (Azure AD) access reviews enable organizations to efficiently manage group memberships, access to enterprise applications, and role assignments. User's access can be reviewed on a regular basis to make sure only the right people have continued access.
+
+### [Accessibility](https://www.microsoft.com/en-us/accessibility/features?activetab=pivot_1:primaryr2)
+
+There is no limit to what people can achieve when technology reflects the diversity of all who use it. Microsoft are dedicated to providing accessibility tools and features that help people achieve more at home, school, and work.
+
+### [Active Directory Federation Services (AD FS)](https://docs.microsoft.com/en-us/windows-server/identity/active-directory-federation-services)
+
+Active Directory Federation Service (AD FS) enables Federated Identity and Access Management by securely sharing digital identity and entitlements rights across security and enterprise boundaries. AD FS extends the ability to use single sign-on functionality that is available within a single security or enterprise boundary to Internet-facing applications to enable customers, partners, and suppliers a streamlined user experience while accessing the web-based applications of an organization.
+
+### [Activity Explorer](https://docs.microsoft.com/en-us/microsoft-365/compliance/data-classification-activity-explorer?view=o365-worldwide)
+
+Activity explorer provides a historical view of activities on your labeled content. The activity information is collected from the Microsoft 365 unified audit logs, transformed, and made available in the Activity explorer UI. Activity explorer reports on up to 30 days worth of data.
+
+### [Adaptive Cards](https://docs.microsoft.com/en-us/power-automate/overview-adaptive-cards)
+
+Adaptive Cards are a platform-agnostic method of sharing and displaying blocks of information without the complexity of customizing CSS or HTML to render them. You author Adaptive Cards in JSON format, with integrations that cloud apps and services can openly exchange. When delivered to a specific host, such as Microsoft Teams, the JSON is transformed into native UI that automatically adapts to its host. Therefore, process designers can now offer consistent UI patterns whenever they need to display information as part of a business process/automation.
+
+### [Adaptive Scopes (Retention)](https://docs.microsoft.com/en-us/microsoft-365/compliance/retention-settings?view=o365-worldwide#configuration-information-for-adaptive-scopes)
+
+Adaptive scopes as a new feature is currently in preview and subject to change. The alternative option is a static scope, which provides the same behavior before adaptive scopes were introduced and can be used if adaptive scopes don't meet your business requirements.
+
+### [Administrative units](https://docs.microsoft.com/en-us/azure/active-directory/roles/administrative-units)
+
+Administrative units restrict permissions in a role to any portion of your organization that you define. You could, for example, use administrative units to delegate the Helpdesk Administrator role to regional support specialists, so they can manage users only in the region that they support.
+
+### [Advanced eDiscovery](https://docs.microsoft.com/en-us/microsoft-365/compliance/overview-ediscovery-20?view=o365-worldwide)
+
+The Advanced eDiscovery solution in Microsoft 365 builds on the existing Microsoft eDiscovery and analytics capabilities. Advanced eDiscovery provides an end-to-end workflow to preserve, collect, analyze, review, and export content that's responsive to your organization's internal and external investigations.
+
+### [Alert Policies](https://docs.microsoft.com/en-us/microsoft-365/compliance/alert-policies?view=o365-worldwide)
+
+You can use the alert policy and alert dashboard tools in the Microsoft 365 compliance center or the Microsoft 365 Defender portal to create alert policies and then view the alerts generated when users perform activities that match the conditions of an alert policy.
+
+### [Always on VPN](https://docs.microsoft.com/en-us/windows-server/remote/remote-access/vpn/always-on-vpn/)
+
+Always On VPN provides a single, cohesive solution for remote access and supports domain-joined, nondomain-joined (workgroup), or Azure AD–joined devices, even personally owned devices.
+
+### [App](https://docs.microsoft.com/en-us/sharepoint/monitor-apps)
 
 An App is a term in SharePoint that means a packaged extension or customization that you can add to a site. An app can simply be a list that you add to a site to store information, or it can be a package that installs web parts that are available to use on pages, customizations that give you extra functionality within existing lists and libraries, or it could be an entire application that runs outside of SharePoint but has the ability to read and write back to your SharePoint site.
+
+### [App Catalog](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog)
+
+As a SharePoint or global admin in Microsoft 365, you can acquire solutions from the SharePoint Store or distribute custom apps that can be used across SharePoint, Microsoft Teams, and Viva Connections. The first step in acquiring solutions is to have an App Catalog you can use to store and distribute solutions.
 
 ### Application Customizer
 
 See [SharePoint Framework](#sharepoint-framework)
 
-### Application Lifecycle Management (ALM)
+### [Application Lifecycle Management (ALM)](https://docs.microsoft.com/en-us/power-platform/alm/)
 
 Set of standards and processes to analyze, design, build, test and deploy a software solution. Modern ALM typically is an iterative process which allows for the incremental improvement and development and implementation of application features.
 
-### Azure Information Protection (AIP)
+### [App Protection Policies](https://docs.microsoft.com/en-us/mem/intune/apps/app-protection-policy)
+
+App protection policies (APP) are rules that ensure an organization's data remains safe or contained in a managed app. A policy can be a rule that is enforced when the user attempts to access or move "corporate" data, or a set of actions that are prohibited or monitored when the user is inside the app. A managed app is an app that has app protection policies applied to it, and can be managed by Intune.
+
+### [Application Proxy](https://docs.microsoft.com/en-us/azure/active-directory/app-proxy/application-proxy)
+
+Azure Active Directory's Application Proxy provides secure remote access to on-premises web applications. After a single sign-on to Azure AD, users can access both cloud and on-premises applications through an external URL or an internal application portal.
+
+### [Attack Simulator](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulation-training-get-started?view=o365-worldwide)
+
+If your organization has Microsoft 365 E5 or Microsoft Defender for Office 365 Plan 2, which includes Threat Investigation and Response capabilities, you can use Attack simulation training in the Microsoft 365 Defender portal to run realistic attack scenarios in your organization. These simulated attacks can help you identify and find vulnerable users before a real attack impacts your bottom line.
+
+### [Audit Log](https://docs.microsoft.com/en-us/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide)
+
+Use the audit log search tool in Microsoft 365 compliance center to search the unified audit log to view user and administrator activity in your organization.
+
+### [Authenticator App](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-authenticator-app)
+
+The Microsoft Authenticator app provides an additional level of security to your Azure AD work or school account or your Microsoft account and is available for Android and iOS. With the Microsoft Authenticator app, users can authenticate in a passwordless way during sign-in, or as an additional verification option during self-service password reset (SSPR) or Azure AD Multi-Factor Authentication events.
+
+### [Azure Active Directory (AAD)](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis)
+
+Azure Active Directory is the Microsoft 365 source for all identity management, and much more. For example, Microsoft 365 Groups and applications permissions are stored in AAD.
+
+### [Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect)
+
+Azure AD Connect is an on-premises Microsoft application that's designed to meet and accomplish your hybrid identity goals.
+
+### [Azure AD Connect Cloud Sync](https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/what-is-cloud-sync)
+
+Azure AD Connect cloud sync is new offering from Microsoft designed to meet and accomplish your hybrid identity goals for synchronization of users, groups and contacts to Azure AD. It accomplishes this by using the Azure AD cloud provisioning agent instead of the Azure AD Connect application. However, it can be used alongside Azure AD Connect sync.
+
+### [Azure Information Protection (AIP)](https://docs.microsoft.com/en-us/azure/information-protection/what-is-information-protection)
 
 A cloud solution that supports labeling of documents and emails to classify and protect information. Labeled items can be protected by encryption, marked with a watermark or restricted to specific actions or users and is bound to the item. This cloud based solution relies on Azure Rights Management Service (RMS) for enforcing restrictions.
 
-### Azure Active Directory (AAD)
+### [Azure Marketplace](https://docs.microsoft.com/en-us/azure/marketplace/overview)
 
-Azure Active Directory is the Microsoft 365 source for all identity management, and much more. For example, Microsoft 365 Groups and applications permissions are stored in AAD.
+The Microsoft commercial marketplace is a catalog of solutions from our independent software vendor (ISV) partners. As an ISV member of the Microsoft Partner Network, you can create, publish, and manage your commercial marketplace offers in Partner Center. Your solutions are listed together with our Microsoft solutions, connecting you to businesses, organizations, and government agencies around the world.
+
+### [Azure Virtual Desktop](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview)
+
+Azure Virtual Desktop is a desktop and app virtualization service that runs on the cloud. With Azure Virtual Desktop, you can set up a scalable and flexible environment.
 
 ## B
 
