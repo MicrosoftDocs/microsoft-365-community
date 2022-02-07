@@ -6,6 +6,23 @@
 
 Note: Changelog started in January, 2021
 
+## February, 2022
+
+### New Articles - February, 2022
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - February, 2022
+
+| Article | Updated By |
+|---|---|
+| [Glossary](./Community/glossary.md) | [Peter Rising, MVP](https://www.linkedin.com/in/peterrising/) |
+
+### New Contributors - February, 2022
+
+- [Peter Rising, MVP](https://www.linkedin.com/in/peterrising/)
+
 ## January, 2022
 
 ### New Articles - January, 2022
