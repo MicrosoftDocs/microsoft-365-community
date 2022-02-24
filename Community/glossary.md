@@ -710,7 +710,7 @@ Deploy and manage containerised applications more easily with a fully managed Ku
 
 ## L
 
-### [Learn](https://docs.microsoft.com/learn/)
+### [Learn](/learn/)
 
 Whether you're just starting or an experienced professional, Microsoft Learn’s hands-on approach helps you arrive at your goals faster, with more confidence and at your own pace.
 
@@ -1227,7 +1227,7 @@ When you create a site collection, a top-level site is automatically created in 
 
 A SKU is a Stock Keeping Unit, and in the context of Microsoft 365, a SKU refers to licencing bundles available for purchase.
 
-### [Skype for Business](https://docs.microsoft.com/skypeforbusiness/skype-for-business-server-2019)
+### [Skype for Business](/skypeforbusiness/skype-for-business-server-2019)
 
 The on-premises version of Skype for business.
 
@@ -1527,7 +1527,7 @@ Microsoft Word is a word processing software developed by Microsoft.
 
 Microsoft 365 Defender provides XDR capabilities for end-user environments (email, documents, identity, apps, and endpoint); and Microsoft Defender for Cloud provides XDR capabilities for infrastructure and multi-cloud platforms including virtual machines, databases, containers, and IoT.
 
-### [XP](https://docs.microsoft.com/answers/questions/126532/xp-level-points.html)
+### [XP](/answers/questions/126532/xp-level-points.html)
 
 No, not the outdated Windows operating system.  In this case, XP stands for Experience Points in Microsoft Learn.
 
