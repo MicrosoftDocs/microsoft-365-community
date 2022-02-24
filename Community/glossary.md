@@ -842,7 +842,7 @@ Locations are named in the Azure portal under Azure Active Directory > Security 
 
 The Network Policy server is one of the technologies you’ll need to configure when deploying Always on VPN.
 
-### [Network Assessment](/microsoft-365/enterprise/office-365-network-mac-perf-score?WT.mc_id=365AdminCSH_inproduct&view=o365-worldwide)
+### [Network Assessment](/microsoft-365/enterprise/office-365-network-mac-perf-score)
 
 In the Microsoft 365 Admin Center's network connectivity, network assessments distill an aggregate of many network performance metrics into a snapshot of your enterprise network perimeter health. A network assessment tells you how much the customer responsible network design is impacting Office 365 user experience.
 
@@ -968,7 +968,7 @@ Power BI provides a simple, intuitive, easy to use experience for end users to c
 
 Create, share, and effectively present your ideas. Design impactful slides with the help of Designer in PowerPoint.
 
-### [PowerShell](/powershell/scripting/overview?view=powershell-7.2)
+### [PowerShell](/powershell/scripting/overview)
 
 [PowerShell](/windows-server/administration/windows-commands/powershell) is an automation scripting language from Microsoft, which was originally only available on Windows devices, and built on top of the .NET Framework. Since 2016, we also have [PowerShell Core](https://github.com/PowerShell/PowerShell) which is open-source, cross-platform, and built on top of .NET Core.
 
@@ -1239,7 +1239,7 @@ Skype for Business Online retired on July 31, 2021, at which time access to the 
 
 In Microsoft 365 organizations with mailboxes in Exchange Online or standalone Exchange Online Protection (EOP) organizations without Exchange Online mailboxes, email messages are automatically protected against spam (junk email) by EOP.
 
-### [SQL](/sql/?view=sql-server-ver15)
+### [SQL](/sql)
 
 Learn how to use SQL Server and Azure SQL, both on-premises and in the cloud.
 
