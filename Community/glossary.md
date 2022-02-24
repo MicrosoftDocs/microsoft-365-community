@@ -142,7 +142,7 @@ Azure Active Directory B2C provides business-to-customer identity as a service. 
 
 Always a hot topic. There is no native traditional backup and restore capability within Microsoft 365.  The link to the left shows Microsoft’s stance in relation to backup of Exchange Online as an example.  Third-party products are available, but are they worth it, and are they needed?  The debate goes on.
 
-### [Billing](/commerce/?view=o365-worldwide)
+### [Billing](/commerce/)
 
 Learn how to buy and manage business subscriptions, perform license management tasks, and manage billing and payments for your business accounts with Microsoft.
 
@@ -150,7 +150,7 @@ Learn how to buy and manage business subscriptions, perform license management t
 
 Best practices for collaborating with Microsoft 365.
 
-### [Bookings](/microsoft-365/bookings/bookings-overview?view=o365-worldwide)
+### [Bookings](/microsoft-365/bookings/bookings-overview)
 
 Microsoft Bookings is for scheduling and managing appointments. Bookings includes a web-based booking calendar and integrates with Outlook to optimize your staff’s calendar and give your customers flexibility to book a time that works best for them.
 
@@ -206,7 +206,7 @@ Some columns types, like Date and Choice, include ready made design templates. A
 
 See [SharePoint Framework](#sharepoint-framework)
 
-### [Communication Compliance](/microsoft-365/compliance/communication-compliance-solution-overview?view=o365-worldwide)
+### [Communication Compliance](/microsoft-365/compliance/communication-compliance-solution-overview)
 
 Protecting sensitive information and detecting and acting on workplace harassment incidents is an important part of compliance with internal policies and standards. Communication compliance in Microsoft 365 helps minimize these risks by helping you quickly detect, capture, and take remediation actions for email and Microsoft Teams communications. These include inappropriate communications containing profanity, threats, and harassment and communications that share sensitive information inside and outside of your organization.
 
@@ -218,11 +218,11 @@ A Communication Site is generally used to communicate from a smaller group to a 
 
 The Microsoft Technical Community is a wonderful place.  If you are not using it then you are truly missing out.
 
-### [Compliance](/microsoft-365/compliance/?view=o365-worldwide)
+### [Compliance](/microsoft-365/compliance/)
 
 If your organization needs to comply with legal or regulatory standards, start with the link to the left to learn about compliance in Microsoft 365.
 
-### [Compliance Center](/microsoft-365/compliance/microsoft-365-compliance-center?view=o365-worldwide)
+### [Compliance Center](/microsoft-365/compliance/microsoft-365-compliance-center)
 
 The Microsoft 365 compliance center provides easy access to the data and tools you need to manage to your organization's compliance needs.
 
@@ -234,7 +234,7 @@ Azure Active Directory (Azure AD) Conditional Access brings signals together, to
 
 A content delivery network (CDN) is a distributed network of servers that can efficiently deliver web content to users. CDNs' store cached content on edge servers in point-of-presence (POP) locations that are close to end users, to minimize latency.
 
-### [Content Explorer](/microsoft-365/compliance/data-classification-content-explorer?view=o365-worldwide)
+### [Content Explorer](/microsoft-365/compliance/data-classification-content-explorer)
 
 The data classification content explorer allows you to natively view the items that were summarized on the overview page from within the Microsoft 365 Compliance center.
 
@@ -242,7 +242,7 @@ The data classification content explorer allows you to natively view the items t
 
 The Content Query Web Part (CQWP) is a web part available in Classic SharePoint that allows rolling up of content across lists and sub sites. The content returned is limited to only the site collection the web part is in. This web part has been replaced by the Highlighted Content web part in Modern SharePoint which gets around the site collection limitation.
 
-### [Content Search](/microsoft-365/compliance/search-for-content?view=o365-worldwide)
+### [Content Search](/microsoft-365/compliance/search-for-content)
 
 Use the Content search tool in the Microsoft 365 compliance center to quickly find email in Exchange mailboxes, documents in SharePoint sites and OneDrive locations, and instant messaging conversations.
 
@@ -282,10 +282,9 @@ This is a UK government-backed scheme designed to help organizations assess and 
 
 The Microsoft Cybersecurity Reference Architectures (MCRA) describe Microsoft’s cybersecurity capabilities. The diagrams describe how Microsoft security capabilities integrate with Microsoft platforms and 3rd party platforms like Microsoft 365, Microsoft Azure, 3rd party apps like ServiceNow and salesforce, and 3rd party platforms like Amazon Web Services (AWS) and Google Cloud Platform (GCP).
 
-
 ## D
 
-### [Data Loss Prevention (DLP)](/microsoft-365/compliance/dlp-learn-about-dlp?view=o365-worldwide)
+### [Data Loss Prevention (DLP)](/microsoft-365/compliance/dlp-learn-about-dlp)
 
 In Microsoft 365, you implement data loss prevention by defining and applying DLP policies. With a DLP policy, you can identify, monitor, and automatically protect sensitive items across Microsoft 365 services, Office Applications, endpoint devices, non-Microsoft cloud apps, and on-premises file storage (including Sharepoint).
 
@@ -303,15 +302,15 @@ The General Data Protection Regulation (GDPR) introduces new rules for organizat
 
 **Microsoft Dataverse for Teams** is built upon Microsoft Dataverse, and provides a 'lite' version equivalent, for free, under the existing licensing requirements of Microsoft 365.
 
-### [Defender](/microsoft-365/security/defender/microsoft-365-defender?view=o365-worldwide)
+### [Defender](/microsoft-365/security/defender/microsoft-365-defender)
 
 Microsoft 365 Defender is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks.
 
 ### [Defender for Cloud Apps](/defender-cloud-apps/what-is-defender-for-cloud-apps)
 
-Microsoft Defender for Cloud Apps (formerly known as Microsoft Cloud App Security) is a Cloud Access Security Broker (CASB) that supports various deployment modes including log collection, API connectors, and reverse proxy. It provides rich visibility, control over data travel, and sophisticated analytics to identify and combat cyberthreats across all your Microsoft and third-party cloud services. 
+Microsoft Defender for Cloud Apps (formerly known as Microsoft Cloud App Security) is a Cloud Access Security Broker (CASB) that supports various deployment modes including log collection, API connectors, and reverse proxy. It provides rich visibility, control over data travel, and sophisticated analytics to identify and combat cyberthreats across all your Microsoft and third-party cloud services.
 
-### [Defender for Endpoint](/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint?view=o365-worldwide)
+### [Defender for Endpoint](/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint)
 
 Microsoft Defender for Endpoint is an enterprise endpoint security platform designed to help enterprise networks prevent, detect, investigate, and respond to advanced threats.
 
@@ -319,7 +318,7 @@ Microsoft Defender for Endpoint is an enterprise endpoint security platform desi
 
 Microsoft Defender for Identity (formerly Azure Advanced Threat Protection, also known as Azure ATP) is a cloud-based security solution that leverages your on-premises Active Directory signals to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions directed at your organization.
 
-### [Defender for Office 365](/microsoft-365/security/office-365-security/defender-for-office-365?view=o365-worldwide)
+### [Defender for Office 365](/microsoft-365/security/office-365-security/defender-for-office-365)
 
 Microsoft Defender for Office 365 safeguards your organization against malicious threats posed by email messages, links (URLs), and collaboration tools.
 
@@ -351,11 +350,11 @@ You're ready to add cloud voice workloads to Microsoft Teams, and you've decided
 
 The planning and practice of ensuring systems are available when a disaster occurs or that they can be restored as quickly as possible.
 
-### [DKIM](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email?view=o365-worldwide)
+### [DKIM](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)
 
 DKIM is one of the trio of Authentication methods (SPF, DKIM and DMARC) that help prevent attackers from sending messages that look like they come from your domain.
 
-### [DMARC](/microsoft-365/security/office-365-security/use-dmarc-to-validate-email?view=o365-worldwide)
+### [DMARC](/microsoft-365/security/office-365-security/use-dmarc-to-validate-email)
 
 Domain-based Message Authentication, Reporting, and Conformance (DMARC) works with Sender Policy Framework (SPF) and DomainKeys Identified Mail (DKIM) to authenticate mail senders and ensure that destination email systems trust messages sent from your domain.
 
@@ -365,7 +364,7 @@ Document Libraries are a primary storage location in SharePoint and Microsoft Te
 
 By default, every file uploaded to a Document Library is created with a [Content Type](#content-type) of Document.
 
-### [Domains](/microsoft-365/admin/setup/add-domain?view=o365-worldwide)
+### [Domains](/microsoft-365/admin/setup/add-domain)
 
 Custom domains can be added into Microsoft 365.  Your company might need multiple domain names for different purposes. For example, you might want to add a different spelling of your company name because customers are already using it and their communications have failed to reach you.
 
@@ -395,7 +394,7 @@ Office 365 E5 is a cloud-based suite of productivity apps combined with advanced
 
 Microsoft 365 E5 combines best-in-class productivity apps with advanced security, compliance, voice, and analytical capabilities.
 
-### [eDiscovery](/microsoft-365/compliance/ediscovery?view=o365-worldwide)
+### [eDiscovery](/microsoft-365/compliance/ediscovery)
 
 Electronic discovery, or eDiscovery, is the process of identifying and delivering electronic information that can be used as evidence in legal cases. You can use eDiscovery tools in Microsoft 365 to search for content in Exchange Online, OneDrive for Business, SharePoint Online, Microsoft Teams, Microsoft 365 Groups, and Yammer.
 
@@ -457,7 +456,7 @@ Sign in to web-based applications with your Azure AD account using a FIDO2 secur
 
 See [SharePoint Framework](#sharepoint-framework)
 
-### [File Plan](/microsoft-365/compliance/file-plan-manager?view=o365-worldwide)
+### [File Plan](/microsoft-365/compliance/file-plan-manager)
 
 Although you can create and manage retention labels from Information governance in the Microsoft 365 compliance center, file plan from Records management has additional management capabilities.
 
@@ -531,13 +530,13 @@ Users with this role have access to all administrative features in Azure Active 
 
 Users in this role can read settings and administrative information across Microsoft 365 services but can't take management actions. Global Reader is the read-only counterpart to Global Administrator.
 
-### [Governance](/microsoft-365/compliance/manage-information-governance?view=o365-worldwide)
+### [Governance](/microsoft-365/compliance/manage-information-governance)
 
 Microsoft Information Governance (MIG) provides capabilities to govern your data for compliance or regulatory requirements.
 
 ### [Graph API](/graph/overview)
 
-The Microsoft Graph API offers a single endpoint, https://graph.microsoft.com, to provide access to rich, people-centric data and insights in the Microsoft cloud, including Microsoft 365, Windows 10, and Enterprise Mobility + Security. You can use REST APIs or SDKs to access the endpoint and build apps that support Microsoft 365 scenarios, spanning across productivity, collaboration, education, people and workplace intelligence, and much more.
+The Microsoft Graph API offers a single endpoint, [Microsoft Graph](https://graph.microsoft.com), to provide access to rich, people-centric data and insights in the Microsoft cloud, including Microsoft 365, Windows 10, and Enterprise Mobility + Security. You can use REST APIs or SDKs to access the endpoint and build apps that support Microsoft 365 scenarios, spanning across productivity, collaboration, education, people and workplace intelligence, and much more.
 
 ### [Graphical User Interface (GUI)](https://microsoft.fandom.com/wiki/Graphical_user_interface)
 
@@ -623,19 +622,19 @@ Today, businesses, and corporations are becoming more and more a mixture of on-p
 
 In a development sense, idempotent means that code you run more than once with the same inputs will always produce the same outputs. In other words, you can always expect the same effects, no matter how many times you do something.
 
-### [Identity Models](/microsoft-365/enterprise/deploy-identity-solution-identity-model?view=o365-worldwide)
+### [Identity Models](/microsoft-365/enterprise/deploy-identity-solution-identity-model)
 
 Microsoft 365 uses Azure Active Directory (Azure AD), a cloud-based user identity and authentication service that is included with your Microsoft 365 subscription, to manage identities and authentication for Microsoft 365. Getting your identity infrastructure configured correctly is vital to managing Microsoft 365 user access and permissions for your organization.
 
-### [Information Barriers](/microsoft-365/compliance/information-barriers?view=o365-worldwide)
+### [Information Barriers](/microsoft-365/compliance/information-barriers)
 
 Microsoft cloud services include powerful communication and collaboration capabilities. But suppose that you want to restrict communication and collaboration between two groups to avoid a conflict of interest from occurring in your organization. Or, perhaps you want to restrict communication and collaboration between certain people inside your organization in order to safeguard internal information. Microsoft 365 enables communication and collaboration across groups and organizations, so is there a way to restrict communication and collaboration among specific groups of users when necessary? With information barriers, you can!
 
-### [Information Governance](/microsoft-365/compliance/manage-information-governance?view=o365-worldwide)
+### [Information Governance](/microsoft-365/compliance/manage-information-governance)
 
 Microsoft Information Governance (MIG) provides capabilities to govern your data for compliance or regulatory requirements.
 
-### [Information Protection](/microsoft-365/compliance/information-protection?view=o365-worldwide)
+### [Information Protection](/microsoft-365/compliance/information-protection)
 
 Implement capabilities from Microsoft Information Protection (MIP) to help you discover, classify, and protect sensitive information wherever it lives or travels. MIP capabilities are included with Microsoft 365 Compliance and give you the tools to know your data, protect your data, and prevent data loss.
 
@@ -645,7 +644,7 @@ Inheritance refers to the cascading of default site permission levels (i.e. Owne
 
 Inheritance can be "broken" to allow for [unique permissions](#unique-permissions).
 
-### [Insider Risk Management](/microsoft-365/compliance/insider-risk-management-solution-overview?view=o365-worldwide)
+### [Insider Risk Management](/microsoft-365/compliance/insider-risk-management-solution-overview)
 
 Insider risk management in Microsoft 365 uses the full breadth of service and 3rd-party indicators to help you quickly identify, triage, and act on risky user activity. By using logs from Microsoft 365 and Microsoft Graph, insider risk management allows you to define specific policies to identify risk indicators. After identifying the risks, you can take action to mitigate these risks.
 
@@ -671,11 +670,11 @@ Journaling can help your organization respond to legal, regulatory, and organiza
 
 JSON is a standard format for representing structured data as text. JSON is commonly used to store data in text files and to exchange data between programs over a network. JSON files usually have a .json filename extension.
 
-### [Junk Email](/microsoft-365/security/office-365-security/configure-junk-email-settings-on-exo-mailboxes?view=o365-worldwide
+### [Junk Email](/microsoft-365/security/office-365-security/configure-junk-email-settings-on-exo-mailboxes
 
 In Microsoft 365 organizations with mailboxes in Exchange Online, organizational anti-spam settings are controlled by Exchange Online Protection (EOP). For more information, see Anti-spam protection in EOP.  But there are also specific anti-spam settings that admins can configure on individual mailboxes in Exchange Online:
 
-### [Just-enough-Access](/microsoft-365/compliance/privileged-access-management-overview?view=o365-worldwide)
+### [Just-enough-Access](/microsoft-365/compliance/privileged-access-management-overview)
 
 Just-enough-access is the core principle of Privileged Access Management in Microsoft 365 and enables on-demand access to roles and tasks instead of having them permanently assigned.
 
@@ -697,7 +696,7 @@ When it comes to day-to-day task management for teams, the Kanban board is a sim
 
 Known Folder Move (KFM) allows you to automatically backup/redirect your Windows client's Desktops, Documents, and Pictures folders to OneDrive for Business. It gives you a transparent way to ensure your local files are never lost. Known Folder Move is now known as [OneDrive PC Folder Backup](#onedrive-pc-folder-backup).
 
-### [KQL Query Experience (eDiscovery tool)](/microsoft-365/compliance/ediscovery-kql-editor?view=o365-worldwide)
+### [KQL Query Experience (eDiscovery tool)](/microsoft-365/compliance/ediscovery-kql-editor)
 
 The new KQL query experience in Microsoft 365 eDiscovery tools search provides feedback and guidance when you build search queries in Content search, Core eDiscovery, and Advanced eDiscovery. When you type queries in the editor, it provides autocompletion for supported searchable properties and conditions and provides lists of supported values for standard properties and conditions.
 
@@ -711,7 +710,7 @@ Deploy and manage containerised applications more easily with a fully managed Ku
 
 ## L
 
-### [Learn](https://docs.microsoft.com/learn/)
+### [Learn](/learn/)
 
 Whether you're just starting or an experienced professional, Microsoft Learn’s hands-on approach helps you arrive at your goals faster, with more confidence and at your own pace.
 
@@ -823,7 +822,7 @@ The nature of work has changed. Employees expect to work securely from anywhere,
 
 The MVP Award is a global program of recognized technology experts and community leaders who actively support technical communities through unique, innovative, and consistent knowledge sharing. These community leaders actively contribute to support the developer and IT Pro communities worldwide, helping them learn, build, and use our products. Learn below what seek for recognition in future community leaders.
 
-### [Multi-Factor Authentication (MFA)](/microsoft-365/admin/security-and-compliance/multi-factor-authentication-microsoft-365?view=o365-worldwide)
+### [Multi-Factor Authentication (MFA)](/microsoft-365/admin/security-and-compliance/multi-factor-authentication-microsoft-365)
 
 Multi-factor authentication refer to an additional security layer beyond just username and password. One way it is described is the user name and password shows who you are based on something you **know**, and MFA shows who you are by something you **have**. The most common example of MFA is the code you get in a text on your phone when you are logging into sites like your bank or Github.
 
@@ -843,7 +842,7 @@ Locations are named in the Azure portal under Azure Active Directory > Security 
 
 The Network Policy server is one of the technologies you’ll need to configure when deploying Always on VPN.
 
-### [Network Assessment](/microsoft-365/enterprise/office-365-network-mac-perf-score?WT.mc_id=365AdminCSH_inproduct&view=o365-worldwide)
+### [Network Assessment](/microsoft-365/enterprise/office-365-network-mac-perf-score)
 
 In the Microsoft 365 Admin Center's network connectivity, network assessments distill an aggregate of many network performance metrics into a snapshot of your enterprise network perimeter health. A network assessment tells you how much the customer responsible network design is impacting Office 365 user experience.
 
@@ -875,7 +874,7 @@ Now you can schedule, produce, and deliver live events more effectively for a va
 
 ### [OEM licensing](/windows-hardware/customize/desktop/oem-license)
 
-OEM software is software that comes pre-installed when you purchase a new computer. When you purchase a new PC it may come with an OEM licensed copy of Windows 11 pre-installed on it. 
+OEM software is software that comes pre-installed when you purchase a new computer. When you purchase a new PC it may come with an OEM licensed copy of Windows 11 pre-installed on it.
 
 ### [Office](/office/)
 
@@ -885,7 +884,7 @@ With Microsoft Office, you can deploy, configure, and manage Office products and
 
 On premises refers to running servers yourself, whether they are in your physical building, a data center where you rent space, or at a hosting company that runs servers specifically for you.
 
-###[On Premises Data Gateway](/power-bi/connect-data/service-gateway-onprem)
+### [On Premises Data Gateway](/power-bi/connect-data/service-gateway-onprem)
 
 The on-premises data gateway acts as a bridge to provide quick and secure data transfer between on-premises data (data that isn't in the cloud) and several Microsoft cloud services. These cloud services include Power BI, PowerApps, Power Automate, Azure Analysis Services, and Azure Logic Apps. By using a gateway, organizations can keep databases and other data sources on their on-premises networks, yet securely use that on-premises data in cloud services.
 
@@ -969,7 +968,7 @@ Power BI provides a simple, intuitive, easy to use experience for end users to c
 
 Create, share, and effectively present your ideas. Design impactful slides with the help of Designer in PowerPoint.
 
-### [PowerShell](/powershell/scripting/overview?view=powershell-7.2)
+### [PowerShell](/powershell/scripting/overview)
 
 [PowerShell](/windows-server/administration/windows-commands/powershell) is an automation scripting language from Microsoft, which was originally only available on Windows devices, and built on top of the .NET Framework. Since 2016, we also have [PowerShell Core](https://github.com/PowerShell/PowerShell) which is open-source, cross-platform, and built on top of .NET Core.
 
@@ -1035,7 +1034,7 @@ An open ecosystem that provides access to diverse quantum software, hardware, an
 
 Quantum computing presents unprecedented possibilities to solve society’s most complex challenges. Microsoft is committed to responsibly turning these possibilities into reality – for the betterment of humanity and the planet. Over decades of research and development, Microsoft has achieved advancements across every layer of the quantum stack – including software, applications, devices and controls – and is delivering true impact today through quantum-inspired classical computing.
 
-### [Quarantine](/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
+### [Quarantine](/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
 In Microsoft 365 organizations with mailboxes in Exchange Online or standalone Exchange Online Protection (EOP) organizations without Exchange Online mailboxes, quarantine holds potentially dangerous or unwanted messages. For more information, see Quarantined email messages in EOP.
 
@@ -1065,7 +1064,7 @@ Remote Desktop Services (RDS) is the platform of choice for building virtualizat
 
 Microsoft Remote Procedure Call (RPC) defines a powerful technology for creating distributed client/server programs. The RPC run-time stubs and libraries manage most of the processes relating to network protocols and communication. This enables you to focus on the details of the application rather than the details of the network.
 
-### [Retention](/microsoft-365/compliance/retention?view=o365-worldwide)
+### [Retention](/microsoft-365/compliance/retention)
 
 For most organizations, the volume and complexity of their data is increasing daily—email, documents, instant messages, and more. Effectively managing or governing this information is important because you need to:
 
@@ -1075,7 +1074,7 @@ Reduce your risk in the event of litigation or a security breach by permanently 
 
 Help your organization to share knowledge effectively and be more agile by ensuring that your users work only with content that's current and relevant to them.
 
-# [Rights Management](/azure/information-protection/what-is-azure-rms)
+### [Rights Management](/azure/information-protection/what-is-azure-rms)
 
 Azure Rights Management (Azure RMS) is the cloud-based protection technology used by Azure Information Protection. Azure RMS helps to protect files and emails across multiple devices, including phones, tablets, and PCs by using encryption, identity, and authorization policies. For example, when employees email a document to a partner company, or save a document to their cloud drive, Azure RMS's persistent protection helps secure the data.
 
@@ -1134,19 +1133,19 @@ Microsoft Search transforms the way people in your organization find the info th
 
 The Search Schema refers to the customizable data dictionary used by SharePoint Search to allow users to query for and return specific information from SharePoint using the available Search tools, such as the Search Results web part in Classic SharePoint or the Search REST API.
 
-### [Secure Score](/microsoft-365/security/defender/microsoft-secure-score?view=o365-worldwide)
+### [Secure Score](/microsoft-365/security/defender/microsoft-secure-score)
 
-Microsoft Secure Score is a measurement of an organization's security posture, with a higher number indicating more improvement actions taken. It can be found at https://security.microsoft.com/securescore in the Microsoft 365 Defender portal.
+[Microsoft Secure Score](https://security.microsoft.com/securescore) is a measurement of an organization's security posture, with a higher number indicating more improvement actions taken. It can be found in the Microsoft 365 Defender portal.
 
-### [Self-service password reset (SSPR)](/microsoft-365/security/defender/microsoft-secure-score?view=o365-worldwide)
+### [Self-service password reset (SSPR)](/microsoft-365/security/defender/microsoft-secure-score)
 
 Azure Active Directory (Azure AD) self-service password reset (SSPR) gives users the ability to change or reset their password, with no administrator or help desk involvement. If a user's account is locked or they forget their password, they can follow prompts to unblock themselves and get back to work. This ability reduces help desk calls and loss of productivity when a user can't sign in to their device or an application. Microsoft recommend this video on how to enable and configure SSPR in Azure AD.
 
-### [Sensitive information type](/microsoft-365/compliance/sensitive-information-type-learn-about?view=o365-worldwide)
+### [Sensitive information type](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 A defined pattern of data that can be identified in order to be protected by DLP or sensitivity labels. Common examples include social security numbers, credit card numbers but can also include any type of data considered sensitive by the organization that matches a pattern.
 
-### [Sensitivity labels](/microsoft-365/compliance/sensitivity-labels?view=o365-worldwide)
+### [Sensitivity labels](/microsoft-365/compliance/sensitivity-labels)
 
 Sensitivity labels from the Microsoft Information Protection solution let you classify and protect your organization's data, while making sure that user productivity and their ability to collaborate isn't hindered.
 
@@ -1228,7 +1227,7 @@ When you create a site collection, a top-level site is automatically created in 
 
 A SKU is a Stock Keeping Unit, and in the context of Microsoft 365, a SKU refers to licencing bundles available for purchase.
 
-### [Skype for Business](https://docs.microsoft.com/skypeforbusiness/skype-for-business-server-2019)
+### [Skype for Business](/skypeforbusiness/skype-for-business-server-2019)
 
 The on-premises version of Skype for business.
 
@@ -1236,15 +1235,15 @@ The on-premises version of Skype for business.
 
 Skype for Business Online retired on July 31, 2021, at which time access to the service ended. Microsoft Teams is now the hub for teamwork in Microsoft 365.
 
-### [Spam](/microsoft-365/security/office-365-security/anti-spam-protection?view=o365-worldwide)
+### [Spam](/microsoft-365/security/office-365-security/anti-spam-protection)
 
 In Microsoft 365 organizations with mailboxes in Exchange Online or standalone Exchange Online Protection (EOP) organizations without Exchange Online mailboxes, email messages are automatically protected against spam (junk email) by EOP.
 
-### [SQL](/sql/?view=sql-server-ver15)
+### [SQL](/sql)
 
 Learn how to use SQL Server and Azure SQL, both on-premises and in the cloud.
 
-### [SSL Certificate](/microsoft-365/enterprise/plan-for-third-party-ssl-certificates?view=o365-worldwide)
+### [SSL Certificate](/microsoft-365/enterprise/plan-for-third-party-ssl-certificates)
 
 To encrypt communications between your clients and the Microsoft 365 environment, third-party Secure Socket Layer (SSL) certificates must be installed on your infrastructure servers.
 
@@ -1344,27 +1343,27 @@ Public Preview for Microsoft Teams provides early access to unreleased features 
 
 When you upgrade your Skype for Business users to use Teams, you have several options to help you make it a seamless process for your users. You have the option to make coexistence and upgrade settings for all of the users in your organization at once, or you can make settings changes for a single or set of users in your organization. Note that older versions of Skype for Business clients may not honor these settings.
 
-### [Tenant](/microsoft-365/solutions/tenant-management-overview?view=o365-worldwide)
+### [Tenant](/microsoft-365/solutions/tenant-management-overview)
 
 Creating a path to your organization's digital transformation with cloud computing requires a firm foundation upon which your workers can rely for productivity, collaboration, performance, privacy, compliance, and security. Correct configuration of your Microsoft 365 tenants provides that foundation, leaving your workers to focus on getting their work done and your IT department to focus on end-to-end solutions that provide additional business value.
 
-### [Threat & Vulnerability Management (TVM)](/microsoft-365/security/defender-endpoint/next-gen-threat-and-vuln-mgt?view=o365-worldwide)
+### [Threat & Vulnerability Management (TVM)](/microsoft-365/security/defender-endpoint/next-gen-threat-and-vuln-mgt)
 
 Threat and vulnerability management serves as an infrastructure for reducing organizational exposure, hardening endpoint surface area, and increasing organizational resilience.
 
-### [Threat Analytics](/microsoft-365/security/defender/threat-analytics?view=o365-worldwide)
+### [Threat Analytics](/microsoft-365/security/defender/threat-analytics)
 
 Threat analytics is Microsoft’s in-product threat intelligence solution from expert Microsoft security researchers, designed to assist security teams to be as efficient as possible while facing emerging threats.
 
-### [Threat Policies](/microsoft-365/security/office-365-security/preset-security-policies?view=o365-worldwide)
+### [Threat Policies](/microsoft-365/security/office-365-security/preset-security-policies)
 
 Preset security policies provide a centralized location for applying all of the recommended spam, malware, and phishing policies to users at once. The policy settings are not configurable. Instead, they are set by us and are based on our observations and experiences in the datacenters for a balance between keeping harmful content away from users and avoiding unnecessary disruptions.
 
-### [Threat Tracker](/microsoft-365/security/office-365-security/threat-trackers?view=o365-worldwide)
+### [Threat Tracker](/microsoft-365/security/office-365-security/threat-trackers)
 
 Threat Trackers are informative widgets and views that provide you with intelligence on different cybersecurity issues that might impact your company. For example, you can view information about trending malware campaigns using Threat Trackers.
 
-### [TLS](/microsoft-365/compliance/prepare-tls-1.2-in-office-365?view=o365-worldwide)
+### [TLS](/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
 
 Transport Layer Security (TLS), the successor of the now-deprecated Secure Sockets Layer (SSL), is a cryptographic protocol designed to provide communications security over a computer network. The protocol is widely used in applications such as email, instant messaging, and voice over IP, but its use in securing HTTPS remains the most publicly visible.
 
@@ -1390,7 +1389,7 @@ Microsoft Trust Center products are built with data in mind. Microsoft handle yo
 
 Members of this role group can manage Exchange Unified Messaging (UM) settings and features in Exchange Online.
 
-### [Unified Audit Log](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide)
+### [Unified Audit Log](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
 
 Need to find if a user viewed a specific document or purged an item from their mailbox? If so, you can use the audit log search tool in Microsoft 365 compliance center to search the unified audit log to view user and administrator activity in your organization. Thousands of user and admin operations performed in dozens of Microsoft 365 services and solutions are captured, recorded, and retained in your organization's unified audit log. Users in your organization can use the audit log search tool to search for, view, and export (to a CSV file) the audit records for these operations.
 
@@ -1422,15 +1421,15 @@ In Windows 11, you decide when and how to get the latest updates to keep your de
 
 You can easily see how people in your business are using Microsoft 365 services. For example, you can identify who is using a service a lot and reaching quotas, or who may not need a Microsoft 365 license at all. Perpetual license model will not be included in the reports. Reports are available for the last 7 days, 30 days, 90 days, and 180 days. Data won't exist for all reporting periods right away. The reports become available within 48 hours.
 
-### [Usage Summary Reports reader](/microsoft-365/admin/productivity/privacy?view=o365-worldwide#flexible-admin-roles-to-control-who-can-see-the-information-in-productivity-score)
+### [Usage Summary Reports reader](/microsoft-365/admin/productivity/privacy#flexible-admin-roles-to-control-who-can-see-the-information-in-productivity-score)
 
 Assign the Reports Reader or the Usage Summary Reports Reader role to anyone who's responsible for change management and adoption, but not necessarily an IT administrator. This role gives them access to the complete Productivity Score experience in the Microsoft 365 admin Center.
 
-### [User Administrator role](/microsoft-365/admin/add-users/about-admin-roles?view=o365-worldwide#commonly-used-microsoft-365-admin-center-roles)
+### [User Administrator role](/microsoft-365/admin/add-users/about-admin-roles#commonly-used-microsoft-365-admin-center-roles)
 
 Assign the User admin role to users who need to Add users and groups, Assign licenses, Manage most users properties, Create and manage user views, Update password expiration policies, Manage service requests, and Monitor service health
 
-### [User Accounts](/microsoft-365/enterprise/manage-microsoft-365-accounts?view=o365-worldwide)
+### [User Accounts](/microsoft-365/enterprise/manage-microsoft-365-accounts)
 
 You can manage Microsoft 365 user accounts in several different ways, depending on your configuration. You can manage user accounts in the Microsoft 365 admin center, PowerShell, in Active Directory Domain Services (AD DS), or in the Azure Active Directory (Azure AD) admin portal.
 
@@ -1520,15 +1519,15 @@ Windows Hello provides reliable, fully integrated biometric authentication based
 
 ### [Word](/office/client-developer/word/word-home)
 
-Microsoft Word is a word processing software developed by Microsoft. 
+Microsoft Word is a word processing software developed by Microsoft.
 
 ## X
 
-### [XDR (Extended Detection and Response)](/microsoft-365/security/defender/eval-overview?view=o365-worldwide)
+### [XDR (Extended Detection and Response)](/microsoft-365/security/defender/eval-overview)
 
 Microsoft 365 Defender provides XDR capabilities for end-user environments (email, documents, identity, apps, and endpoint); and Microsoft Defender for Cloud provides XDR capabilities for infrastructure and multi-cloud platforms including virtual machines, databases, containers, and IoT.
 
-### [XP](https://docs.microsoft.com/answers/questions/126532/xp-level-points.html)
+### [XP](/answers/questions/126532/xp-level-points.html)
 
 No, not the outdated Windows operating system.  In this case, XP stands for Experience Points in Microsoft Learn.
 
@@ -1540,7 +1539,7 @@ Engaging your people is more critical than ever. Yammer connects leaders, commun
 
 ## Z
 
-### [Zero-Hour Auto purge (ZAP)](/microsoft-365/security/office-365-security/zero-hour-auto-purge?view=o365-worldwide)
+### [Zero-Hour Auto purge (ZAP)](/microsoft-365/security/office-365-security/zero-hour-auto-purge)
 
 In Microsoft 365 organizations with mailboxes in Exchange Online, zero-hour auto purge (ZAP) is an email protection feature that retroactively detects and neutralizes malicious phishing, spam, or malware messages that have already been delivered to Exchange Online mailboxes.  ZAP doesn't work in standalone Exchange Online Protection (EOP) environments that protect on-premises Exchange mailboxes.
 
@@ -1548,10 +1547,9 @@ In Microsoft 365 organizations with mailboxes in Exchange Online, zero-hour auto
 
 Today’s organizations need a new security model that more effectively adapts to the complexity of the modern environment, embraces the hybrid workplace, and protects people, devices, apps, and data wherever they’re located.  Zero Trust is that model.
 
-
 ---
 
 **Principal authors**:
 
-- [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
-- [Peter Rising, MVP](https://www.linkedin.com/in/peterrising/)
+* [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
+* [Peter Rising, MVP](https://www.linkedin.com/in/peterrising/)
