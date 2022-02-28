@@ -18,10 +18,12 @@ Note: Changelog started in January, 2021
 | Article | Updated By |
 |---|---|
 | [Glossary](./Community/glossary.md) | [Peter Rising, MVP](https://www.linkedin.com/in/peterrising/) |
+| [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](./Community/microsoft365-maturity-model--governance-and-compliance.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
 
 ### New Contributors - February, 2022
 
 - [Peter Rising, MVP](https://www.linkedin.com/in/peterrising/)
+- [Matt Zorich](https://www.linkedin.com/in/matthewzorich/)
 
 ## January, 2022
 
