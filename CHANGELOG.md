@@ -6,6 +6,23 @@
 
 Note: Changelog started in January, 2021
 
+## March, 2022
+
+### New Articles - March, 2022
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - March, 2022
+
+| Article | Updated By |
+|---|---|
+| [Advanced Highlighted Content Web Part](./Community/highlighted-content-web-part.md) | [Chanaka Palliyaguru](https://www.linkedin.com/in/chanakapalliyaguru/ |
+
+### New Contributors - March, 2022
+
+- [Chanaka Palliyaguru](https://www.linkedin.com/in/chanakapalliyaguru/)
+
 ## February, 2022
 
 ### New Articles - February, 2022
