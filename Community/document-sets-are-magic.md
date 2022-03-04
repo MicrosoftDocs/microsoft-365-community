@@ -125,7 +125,7 @@ Document Sets enable easy out-of-the-box file organization and automatic classif
 - Blog: SharePoint Maven: [Document sets – the hidden gem of SharePoint](https://sharepointmaven.com/document-sets-hidden-gem-sharepoint/)
 - Blog: Marc Anderson: [A love for SharePoint Document Sets](https://sympmarc.com/2017/07/12/wherein-in-profess-my-love-for-document-sets-my-hatred-of-the-5000-item-limit-and-some-tips/)
 - Blog: Ben Prins [Power Automate Flow and Document Sets](https://www.benprins.net/2020/07/10/power-automate-creating-and-updating-a-document-set-in-sharepoint/)
-- Microsoft PnP: [Adding a Document Set with PnP](/powershell/module/sharepoint-pnp/add-pnpdocumentset)
+- Microsoft PnP: [Adding a Document Set with PnP](https://pnp.github.io/powershell/cmdlets/Add-PnPDocumentSet.html)
 
 ---
 
