@@ -670,7 +670,7 @@ Journaling can help your organization respond to legal, regulatory, and organiza
 
 JSON is a standard format for representing structured data as text. JSON is commonly used to store data in text files and to exchange data between programs over a network. JSON files usually have a .json filename extension.
 
-### [Junk Email](/microsoft-365/security/office-365-security/configure-junk-email-settings-on-exo-mailboxes
+### [Junk Email](/microsoft-365/security/office-365-security/configure-junk-email-settings-on-exo-mailboxes)
 
 In Microsoft 365 organizations with mailboxes in Exchange Online, organizational anti-spam settings are controlled by Exchange Online Protection (EOP). For more information, see Anti-spam protection in EOP.  But there are also specific anti-spam settings that admins can configure on individual mailboxes in Exchange Online:
 
