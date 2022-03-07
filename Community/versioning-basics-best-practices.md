@@ -45,7 +45,7 @@ If you can Enable versioning, you can Disable versioning. Disabling versioning d
 > [!Note]
 > **A Cautionary Tale:**  As site owner, if you disable Versioning and *don't* tell your end users, they'll notify you. In person.
 
-Note: Versioning can also be enabled or disabled through PowerShell, SharePoint Designer, or by a developer using CSOM.
+Note: Since No Versioning is removed from SharePoint Online，it can be enabled or disabled through PowerShell, SharePoint Designer, or by a developer using CSOM.
 
 ## Accessing Previous Versions
 
