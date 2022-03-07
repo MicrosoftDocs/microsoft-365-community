@@ -17,7 +17,8 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
-| [Advanced Highlighted Content Web Part](./Community/highlighted-content-web-part.md) | [Chanaka Palliyaguru](https://www.linkedin.com/in/chanakapalliyaguru/)|
+
+| [Advanced Highlighted Content Web Part](./Community/highlighted-content-web-part.md) | [Chanaka Palliyaguru](https://www.linkedin.com/in/chanakapalliyaguru/) |
 
 ### New Contributors - March, 2022
 
