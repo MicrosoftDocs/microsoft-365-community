@@ -20,7 +20,7 @@ ms.collection: M365Community
 
 ## Introduction
 
-The [Communication Competency article](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--communication) provides an overview of communication concepts within Microsoft 365 and details for each of the five maturity levels from Initial to Optimizing (100 through 500). It adopts a broadly technology-agnostic approach to the business characteristics of communication plus the expected benefits.
+The [Communication Competency article](/microsoft-365/community/microsoft365-maturity-model--communication) provides an overview of communication concepts within Microsoft 365 and details for each of the five maturity levels from Initial to Optimizing (100 through 500). It adopts a broadly technology-agnostic approach to the business characteristics of communication plus the expected benefits.
 This article explores how organizations at any level could use the Microsoft 365 suite (and associated technologies) to reach a higher maturity level.
 
 ## How to move from Initial to Repeatable (Level 100 to 200)
@@ -55,19 +55,19 @@ Communication is widely accessed and is broadly effective. There are mechanisms 
 * Communication leads train the organization on writing for the web to support compliance with the communication guidelines. More formal support is added to ensure all authors have a deep understanding of accessibility standards and online reading patterns. The focus in this training is creating engaging and inclusive communications that convey a message resulting in a change in behavior (taking the action in communication, engaging in communication, etc.).  
 * Communication leads begin monitoring communication sources to ensure there is one source when topics are shared across channels.
   * For example, there is a SharePoint news post on the Intranet about the company’s upcoming re-branding. This post is then shared on Teams within the Marketing Department, so the team is up to date on what has been shared with the company for their current initiative. The same post from SharePoint news is then also shared on Yammer to invite crowd sourced ideas.
-* Formally add communication templates and imagery to Microsoft 365 removing friction for company-wide usage. This may include usage of [document templates](https://support.microsoft.com/office/set-a-custom-template-for-a-sharepoint-library-8e0177eb-46bd-4346-9998-330c32733c25), [site designs](https://docs.microsoft.com/sharepoint/dev/declarative-customization/site-design-overview) for common news layouts across site collections, or [organizational assets]( https://docs.microsoft.com/sharepoint/organization-assets-library).
+* Formally add communication templates and imagery to Microsoft 365 removing friction for company-wide usage. This may include usage of [document templates](https://support.microsoft.com/office/set-a-custom-template-for-a-sharepoint-library-8e0177eb-46bd-4346-9998-330c32733c25), [site designs](/sharepoint/dev/declarative-customization/site-design-overview) for common news layouts across site collections, or [organizational assets](/sharepoint/organization-assets-library).
 * The Steering Committee and communication leads begin reviewing feedback for trends and areas of improvement across communication channels. This feedback is then shared through the communication leads to their respective teams. Page analytics and other usage data are used to expand on anecdotal feedback. This usage data is also tracked to proactively identify trends in engagement with communication better informing ideal communication channels and posting times.
   * For example, usage data may show leadership posting on Thursday mornings in Yammer about employee resource groups gets the highest engagement. Communications may have previously been sent via email with little engagement, so the first shift was to bring these messages to Yammer allowing more interaction from employees. The second shift may be around the time these posts are released as the posts on Mondays showed little engagement as employees focused on their tasks for the week.
 * Implement a business process to review employee profile data with the cross-functional teams who are responsible for this data. In many companies this may be Information Technology, Human Resources, or a mix of both. The review of this employee profile data is to ensure alignment on which fields are being completed to support the specific audiences the Steering Committee has identified for targeted communications.
 * Communication leads begin training their respective teams on alternate media types in addition to text to ensure the multimedia format communication is shared and also supports engagement with the messages.
-  * For example, you may have a desk-less workforce who finds news updates easier to consume in short videos rather than a written page. The teams are trained on usage of [Microsoft Stream](https://docs.microsoft.com/stream/overview) functionality to embed videos in SharePoint news posts. Key messages are also written in text on the news posts to support varied learning styles.
+  * For example, you may have a desk-less workforce who finds news updates easier to consume in short videos rather than a written page. The teams are trained on usage of [Microsoft Stream](/stream/overview) functionality to embed videos in SharePoint news posts. Key messages are also written in text on the news posts to support varied learning styles.
 * If communication approvals need to be implemented (as determined by the steering committee), the impacted communication channels are identified, and a business process is in place. For most organizations, the focus should remain on keeping as much freedom in sharing communication across the organization as possible to ensure timely updates. Highly regulated industries may need more control.
 
 ## How to move from Managed to Optimizing (Level 400 to 500)
 
 At the 400 level of Communications, users have a high degree of trust in organizational communications. They understand the communication mechanisms that are available and feel confident in the source and appropriateness of what they receive.
 
-* Communication leads and the steering committee shift focus from creating audience targets and groups to ensuring these groups are used effectively in the right places at the right times. Begin filtering communication across channels with an automated process. This may include [Power Automate flows](https://docs.microsoft.com//power-automate/getting-started), [Teams connectors](https://support.microsoft.com/office/add-team-site-news-in-a-teams-channel-743607c0-9510-414b-8aab-1ae9ef5d3f49), or [automated news digests]( https://support.microsoft.com/office/automatically-sending-news-post-digests-b930b579-0de5-4c67-86f0-de64b87c45e3).
+* Communication leads and the steering committee shift focus from creating audience targets and groups to ensuring these groups are used effectively in the right places at the right times. Begin filtering communication across channels with an automated process. This may include [Power Automate flows](/power-automate/getting-started), [Teams connectors](https://support.microsoft.com/office/add-team-site-news-in-a-teams-channel-743607c0-9510-414b-8aab-1ae9ef5d3f49), or [automated news digests](https://support.microsoft.com/office/automatically-sending-news-post-digests-b930b579-0de5-4c67-86f0-de64b87c45e3).
 * Communication leads and the steering committee focus on a consistent and robust information architecture of topics across all communication channels to support the Microsoft Graph’s ability to understand the reader’s interests and role creating linkages across knowledge and communication systems, pushing content to that individual based on known information.
   * Page-level metadata may be added to surface and filter news. This page-level metadata may also be used to pull similar news content into search-based web parts so employees can consume news by topic across sites.
 * Communication leads and the steering committee identify the period of lowest engagement from employees on all communication channels to create dedicated focus time for work deliverables that is strongly protected across the organization.
@@ -84,11 +84,11 @@ Organizational communication is much broader than email and newsletters. Effecti
 
 ## Related documents
 
-* [Introduction to the Microsoft 365 Maturity Model](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
-* [Communication Competency* Maturity Model for Microsoft 365](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--communication)
-* [The Principles of Communication](https://docs.microsoft.com/microsoft-365/community/principles-of-communication)
-* [How to Share Org-Wide Communication in Microsoft 365]( https://docs.microsoft.com/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
-* [The Evolution of Company-Wide Email Communication to SharePoint News](https://docs.microsoft.com/microsoft-365/community/evolution-of-company-wide-email-communication-to-sharepoint-news)
+* [Introduction to the Microsoft 365 Maturity Model](/microsoft-365/community/microsoft365-maturity-model--intro)
+* [Communication Competency* Maturity Model for Microsoft 365](/microsoft-365/community/microsoft365-maturity-model--communication)
+* [The Principles of Communication](/microsoft-365/community/principles-of-communication)
+* [How to Share Org-Wide Communication in Microsoft 365](/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
+* [The Evolution of Company-Wide Email Communication to SharePoint News](/microsoft-365/community/evolution-of-company-wide-email-communication-to-sharepoint-news)
 
 ---
 
@@ -100,3 +100,7 @@ Organizational communication is much broader than email and newsletters. Effecti
 * [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
 * [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)  
 * [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
+
+---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

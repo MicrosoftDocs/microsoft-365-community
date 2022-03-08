@@ -2,6 +2,7 @@
 ## Basics and Definitions
 ### [Glossary](glossary.md)
 ### [Follow Microsoft 365 on Social Media](microsoft-365-on-social-media.md)
+### [Microsoft 365 Search Technologies](microsoft-365-search-technologies.md)
 ### [What is a Site Column?](what-is-site-column.md)
 ### [What is a Content Type?](what-is-content-type.md)
 ### [Groups in Microsoft 365 and Azure, and Which is Right for You](all-about-groups.md)
@@ -28,6 +29,7 @@
 ### [Business Process Competency](microsoft365-maturity-model--business-process.md)
 ### [Management of Content Competency](microsoft365-maturity-model--management-of-content.md)
 ### [Customization and Development Competency](microsoft365-maturity-model--customization-and-development.md)
+### [Governance, Risk, and Compliance Competency](microsoft365-maturity-model--governance-and-compliance.md)
 ### [How to run a Maturity Model for Microsoft 365 workshop](microsoft365-maturity-model--run-workshop.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
@@ -37,6 +39,7 @@
 ### [Benefits of using PowerShell with SharePoint](benefits-of-using-powershell-with-sharepoint.md)
 ### [SharePoint Naming Guidelines](sharepoint-naming-guidelines.md)
 ### [Why SharePoint Training is Important](why-sharepoint-training-is-important.md)
+### [Building great content for your Intranet](intranet-content-sources.md)
 ### [Identifying Your SharePoint Champions](identifying-your-sharepoint-champions.md)
 ### [Empowering Your SharePoint Champions](empowering-your-SharePoint-champions.md)
 ## Information Architecture
@@ -73,6 +76,7 @@
 ### [Document Lifecycle Scenarios](document-lifecycle-scenarios.md)
 ### [Power Automate - Send SharePoint files as attachments](power-automate-send-sharepoint-files-as-attachments.md)
 ### [How can I use Learning Pathways in my organization?](how-can-i-use-learning-pathways-in-my-organization.md)
+### [Advanced Highlighted Content Web Part](highlighted-content-web-part.md)
 ## Automation
 ### [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
 ### [Should everyone create Teams? A Low Code Provisioning solution](should-everyone-create-teams.md)

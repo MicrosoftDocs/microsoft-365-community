@@ -244,7 +244,7 @@ To see the bigger picture of adoption and how Microsoft 365 can support our digi
 ### Other
 
 * [Satya Nadella on growth mindsets: “The learn-it-all does better than the know-it-all.”](https://www.linkedin.com/pulse/satya-nadella-growth-mindsets-learn-it-all-does-better-jessi-hempel/)
-* [Microsoft 365 Maturity model](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
+* [Microsoft 365 Maturity model](/microsoft-365/community/microsoft365-maturity-model--intro)
 * [Microsoft 365 Adoption guide](https://adoption.microsoft.com)
 
 ---

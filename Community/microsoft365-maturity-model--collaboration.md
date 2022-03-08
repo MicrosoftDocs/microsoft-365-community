@@ -102,29 +102,39 @@ At this level, the focus tends to be on document and file collaboration; workspa
 
 **[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
+#### Process
+
+- There is agreement (but not enforcement) not to send attachments.
+- Training and knowledge remain inconsistent.
+
 #### Governance & Security
 
-- Some mechanisms are in place for new site requests, whether instantiated technically or by convention
-- External access uses default settings and is not controlled
-- Most users have had little training on how to use the tools
-- Better practices have not been established
+- Some mechanisms are in place for new site requests, whether instantiated technically or by convention.
+- External access uses default settings and is not controlled.
+- Most users have had little training on how to use the tools.
+- Better practices have not been established.
 
 ### Information Architecture
 
 - Unique document libraries are created for specific team needs.
 - Specialized views become more common to enable better decision making.
-- Metadata is used to organize documents beyond the default values.
+- Metadata is used to organize documents beyond the default values e.g. status, dates etc.
 
 #### Content
 
 - Links are shared or emailed rather than documents as attachments, starting to lead to one version of truth.
 - Collaboration efforts are collected in document libraries using coauthoring and automatic versioning.
-- External access uses default settings and is not controlled
+- External access uses default settings and is not controlled.
+- Introduction of File naming conventions.
 
 #### Task Management
 
 - There is some use of status indicators in documents or metadata.
 - Shared lists allow visibility of activities and task status; interaction with the list is via read-only views or require downloading of a file. There is no aggregated progress overview or reporting within the shared activities; requiring manual reports to be issued.
+
+#### Culture
+
+- There is recognition that collaboration needs to happen.
 
 #### Impacts
 
@@ -137,6 +147,16 @@ Commonality across teams starts to drive how workspaces are created and set up. 
 The process of collaboration is well defined and agreed as a standard business process. There are sets of defined and documented standard processes established, signed off, in use and subject to some degree of improvement over time. The processes may not have been systematically or repeatedly used to the extent needed for their users to become fully competent or the process to be validated in a range of situations, hence there are gaps in adoption and consistency. This could be considered a developmental stage - with use in a wider range of conditions and user competence development the process can develop to next level of maturity.
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
+
+#### Process
+
+- Teams are able to determine their own style of collaboration; this is defined in policy and procedure
+- Processes exist to manage site and content lifecycles, external access, document status, ownership, task allocation etc.
+
+#### Culture
+
+- Discussions, meetings and actions are wrapped around collaboration activities.
+- Collaboration is enabled and encouraged within projects etc.
 
 #### Governance & Security
 
@@ -156,7 +176,7 @@ The process of collaboration is well defined and agreed as a standard business p
 
 - Site templates are developed for specific site needs.
 - Sites are provisioned with rich solutions, including template documents and features appropriate to the need.
-- Collaboration efforts extend to discussion threads.
+- Collaboration extends beyond documents and is supported by other apps and features
 - Mobile access is considered with every solution implementation.
 - There is a mechanism to differentiate Work-in-Progress from Final / Approved.
 
@@ -173,6 +193,23 @@ At this level, the organization sees a path to real ROI for the solution.  There
 Rather than focusing on specific point solutions, a more strategic view of platform apps and services leads to a mixed-use set of solutions.  Collaborative opportunities exist not just to facilitate ongoing work, but also to support areas of interest, centers of excellence, etc. These opportunities lead to serendipitous connections between people who might not have found each other before.
 
 **[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+
+#### Culture
+
+-Templates are continuously improved based on usage statistics/feedback
+
+- The culture is collaborative – empowerment, trust and permission
+- Tacit knowledge is transferred through departments and roles
+- Collaboration is understood beyond task-based activities
+
+#### Process
+
+- Collaboration is governed and compliant
+- Collaboration supports line of business systems.
+- Diary management is well-established, and availability for collaborative work is managed (including real-time presence and ‘focus’ time slots).
+- Asynchronous collaboration is facilitated by features (e.g. @mentions) that signpost colleagues to content and actions, ensuring notifications are productive rather than interruptions.
+- Productivity and other collaboration metrics provide insights.
+- Opportunities for informal conversations are actively created (water-cooler conversations), especially within disciplines
 
 #### Governance & Security
 
@@ -206,6 +243,8 @@ Rather than focusing on specific point solutions, a more strategic view of platf
 - There are tools and processes in place to protect individuals’ time from interruptions.
 - Diary management is well-established, and availability for collaborative work is managed (including real-time presence and ‘focus’ time slots).
 - Mobile, remote, and office scenarios are equally supported.
+- Asynchronous collaboration is facilitated by features (e.g. @mentions) that signpost colleagues to content and actions, ensuring notifications are productive rather than interruptions.
+- Productivity and other collaboration metrics provide insights.
 
 #### Impacts
 
@@ -217,6 +256,20 @@ At this level, many transactional actions are automated to ensure consistency an
 
 **[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
 
+#### Culture
+
+- Collaboration is baked into the culture.
+- Staff are expected to do non-traditional/non-task collaboration
+- Deep collaboration enabled through cross-skilling, placements and multi-disciplinary meetings.
+- Informal and formal knowledge transfer are designed into the organizational culture (water-cooler conversations) across disciplines. No one needs an excuse to collaborate.
+
+#### Process
+
+- Automation enables and protects collaborative efforts, in line with understood policies.
+- Downstream collaboration processes are automated & optimised.
+- Staff are accountable for tasks and commitments; with feedback used to assure productivity.
+- Collaboration processes and benefits extend to external partners.
+
 #### Governance & Security
 
 - Automated processes exist for de-provisioning and archiving sites when collaboration ends.
@@ -224,7 +277,7 @@ At this level, many transactional actions are automated to ensure consistency an
 - Active data loss prevention is in place, including keyword/term flagging, communication monitoring and deep dive eDiscovery across all technologies.
 - Graded security with policy enforcement is leveraged to provide different levels of protection during collaboration depending on sensitivity, risk and environment.
 - Governance and security intervention are seen as business enablers that provides a safe framework for collective endeavors.
-- Metrics are in place to measure outcomes clearly connected to strategy.
+- Metrics are used to measure and improve collaboration outcomes, clearly connected to strategy.
 
 #### Information Architecture
 
@@ -287,3 +340,7 @@ With collaboration at its core, the Microsoft 365 platform can be an incredible 
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
+
+---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

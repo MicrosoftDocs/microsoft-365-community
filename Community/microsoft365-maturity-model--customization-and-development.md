@@ -14,6 +14,8 @@ ms.collection: SPCommunity
 
 # The Microsoft 365 Maturity Model - Customization and Development Competency
 
+![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
+
 ## Overview of the Concepts [tl;dr]
 
 Traditionally, there has been a reliance on 'deep' or 'pro' development to build business solutions. Any gaps in availability of these skills have commonly been filled by 'shadow IT' approaches and unmanaged applications.
@@ -72,13 +74,13 @@ The customization and development continuum are poorly understood, unmanaged and
 
 **[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
-#### No Code
+#### 100 No Code
 
 - Configurable platforms and products are generally used in their default state.
 - There is little appreciation of the capabilities of platforms to meet business needs more closely.
 - There is no systematic review of platform capabilities, feature road map or application of features sets to unaddressed business needs.
 
-#### Low Code
+#### 100 Low Code
 
 - Individuals use the skills and tools they have, developing solutions to local needs without oversight, review or recognition of the impact or interaction with wider strategic needs and activities.
 - The solutions are not backed up, documented, publicized, or resilient.
@@ -89,7 +91,7 @@ The customization and development continuum are poorly understood, unmanaged and
 - Solutions are not documented.
 - There is no formal support; the citizen developer may be unavailable to provide fixes, enhancements, or guidance.
 
-#### Pro Code
+#### 100 Pro Code
 
 - Developers don't know the platform, so write code instead of using native features. (This is sometimes called the &quot;code first mentality&quot;.) Code is written to build components which reinvent the wheel due to lack of understanding of what is available out of the box with the platform.
 - IT are insular and internally focused. There is little support for department or process driven needs.
@@ -98,7 +100,7 @@ The customization and development continuum are poorly understood, unmanaged and
 - Systems are developed which use Microsoft 365 services as a data store but the user interface is held outside of Microsoft 365.
 - Systems are designed and built with little thought, on the Microsoft 365 services that can be glued together to deliver the system.
 
-#### Management &amp; Governance
+#### 100 Management &amp; Governance
 
 - There are no agreed development platforms, tools, languages, etc.
 - There is a lack of ownership of development on behalf of the organization.
@@ -113,7 +115,7 @@ The customization and development continuum are poorly understood, unmanaged and
 - There is no DevOps process which takes the solution built by the developer for deployment in a controlled manner. DevOps
 - Systems are built without thinking of how the system will be supported and maintained.
 
-#### Impacts
+#### 100 Impacts
 
 At this level you can expect the following:
 
@@ -132,7 +134,7 @@ Development is characterized by _build to live, though there may be some testing
 
 **[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
-#### No Code
+#### 200 No Code
 
 - Customized business solutions are developed using no-code technologies; however, these are done with limited knowledge of good practice. Solutions are modelled on existing practice, using superficial capabilities and generally avoid use of deeper platform features.
 - Solutions tend to be built 'on the fly', without a clear deliverable and specification. There is no documentation around the design and build process.
@@ -140,21 +142,21 @@ Development is characterized by _build to live, though there may be some testing
 - Updates and changes are ad-hoc. There is no equivalent of source control.
 - A small number of people have some expertise with configuring the platform. Maintenance and support of the solutions are dependent on the availability of these people. The 'experts' maintain their knowledge of platform capabilities, road map etc. out of personal interest.
 
-#### Low Code
+#### 200 Low Code
 
 - Some Power Platform projects have consistent color standards and make use of components.
 - Some low-code solutions are exported to basic source control.
 - Some low code solutions have separate environments for development, user acceptance testing, and production.
 - There is some guidance on the decision to use low-code approaches and who to engage to do the development, for instance a citizen developer or an external partner.
 
-#### Pro Code
+#### 200 Pro Code
 
 - Source Control is used for some projects. However, the source control system is not standardized across the organization. There are multiple repositories and multiple source control systems in use.
 - Deployment processes are ad hoc and unreliable, frequently requiring roll back.
 - Projects start to use Microsoft 365 design standards when delivering systems.
 - Development approaches and best practice start to be understood and are adopted by members of the project team. However, they are not enforced.
 
-#### Management &amp; Governance
+#### 200 Management &amp; Governance
 
 - Developers don't know the platform, so write code instead of using native features which often creates unnecessary technical debt and confusion.
 - Some projects deliver systems with user guides and administration guides.
@@ -166,7 +168,7 @@ Development is characterized by _build to live, though there may be some testing
 - Some projects make use of Cloud platforms such as Microsoft Azure.
 - There are little in the way of DevOps Practices.
 
-#### Impacts
+#### 200 Impacts
 
 At this level you can expect the following:
 
@@ -183,7 +185,7 @@ Staff are generally satisfied with functionality but struggle to consistently ge
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
-#### No Code
+#### 300 No Code
 
 - Steps to create customized business solutions are captured with some form of specification, setup is documented, and a final solution description exists.
 - Developers are aware of and use some normal development methodologies or hybrids of them.
@@ -194,14 +196,14 @@ Staff are generally satisfied with functionality but struggle to consistently ge
 - There is some consolidation of no-code platforms; road maps and updates for standard platforms are actively tracked.
 - Customization of live platforms is only carried out after consideration of impact on staff and other systems.
 
-#### Low Code
+#### 300 Low Code
 
 - Rigor is put in place around the documentation of low code solutions such as solutions built on the Power Platform.
 
 - Low code solutions are backed up as solutions and stored in source control.
 - Low code solutions have separate environments or equivalent for development, user acceptance testing, and production.
 
-#### Pro Code
+#### 300 Pro Code
 
 - Source control is used for the majority of development projects.
 - Systems are deployed mainly through manual processes but augmented with scripts for some of the steps.
@@ -209,7 +211,7 @@ Staff are generally satisfied with functionality but struggle to consistently ge
 - Continuous Integration and Continuous Deployment may be introduced alongside other approaches.
 - Pro Code developers appreciate when not to develop solutions, only writing code when it is necessary and can make a difference. They begin to hand off to Low Code and configuration alternatives.
 
-#### Management &amp; Governance
+#### 300 Management &amp; Governance
 
 - There is an appreciation of the limits of the no-code approach, low-code, and pro-code approaches. Needs that trigger a transition from one approach to another are often identified and options for delivering extended needs or features with pro code are understood. This is often based on business need with measurable return on investment.
 - Good practice is understood by a core of experts and is used to guide solution development. There is a recognition of the roles of no-code and low-code alongside pro-code approaches. The 80/20 rule is increasingly applied, using out of the box functionality that is good enough to provide utility, often adapting a process to accommodate Out of the Box (OOTB) functionality rather than build customer solutions.
@@ -223,10 +225,10 @@ Staff are generally satisfied with functionality but struggle to consistently ge
 - Source Control is standardized and used for Pro-code development but not for low code approaches.
 - DevOps practices are being introduced, though non-Pro-code often are not included in these standards.
 - User research employed to define requirements for some systems; there is some attempt to standardize approaches to capturing and defining requirements, such as user stories, etc.
-- There is an emergence of a community of [M365 Champions](https://docs.microsoft.com/microsoft-365/community/empowering-your-sharepoint-champions). This supports the need for governance, documentation, training, and development processes to support alignment of solutions to the strategic plan. Community members meet periodically to discuss problems citizen developers are trying to solve. These meet ups are part tech therapy and part continued training as Microsoft 365 is continually changing. There is management appreciation and support for these efforts.
+- There is an emergence of a community of [M365 Champions](/microsoft-365/community/empowering-your-sharepoint-champions). This supports the need for governance, documentation, training, and development processes to support alignment of solutions to the strategic plan. Community members meet periodically to discuss problems citizen developers are trying to solve. These meet ups are part tech therapy and part continued training as Microsoft 365 is continually changing. There is management appreciation and support for these efforts.
 - Separate environments or equivalent are available for Development, Test, and Production for Pro Code and, often to a limited extent, for other approaches.
 
-#### Impacts
+#### 300 Impacts
 
 At this level you can expect the following:
 
@@ -243,7 +245,7 @@ Staff are able to work efficiently across the spectrum of solutions and adopt ne
 
 **[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
 
-#### No Code
+#### 400 No Code
 
 - Configurations are well documented and used as the basis for scripts and templates to automate site creation and updates. These are well managed and maintained via source control.
 - Solutions are developed and tested against a set of good practice guidelines that include common layout based on good User Interface/User Experience (UI/UX) approaches, incorporating company branding and standards.
@@ -256,7 +258,7 @@ Staff are able to work efficiently across the spectrum of solutions and adopt ne
 - Important business solutions are actively managed and supported.
 - The organization invests in a full range of platform skills against a broad development strategy that includes no-code, low code and pro-code standards and an integrated design and development approach.
 
-#### Low Code
+#### 400 Low Code
 
 - Solution design is carefully considered; constraints are understood and approaches to avoid or mitigate these are implemented.
 - Low code solutions make use of source control to help manage the release process, where possible. The release process includes metrics which can be shared within the organization to show the benefit of the low code solutions.
@@ -269,7 +271,7 @@ Staff are able to work efficiently across the spectrum of solutions and adopt ne
 - Pro code components are developed to extend low code solutions, as part of a well-understood, holistic 'systems' approach.
 - Pro code methodologies are adopted wherever appropriate.
 
-#### Pro Code
+#### 400 Pro Code
 
 - Pro code solutions make use of source control to help manage the release process. The release process includes metrics which be shared within the organization to show the benefit of the pro code solutions.
 - Pro code solutions use metrics from tools such as Application Insights to show many users/applications are using them each day. This allows decisions to be made on the success of an application. A decision can be made as to which applications should be focused on. These metrics are shared within the organization.
@@ -277,7 +279,7 @@ Staff are able to work efficiently across the spectrum of solutions and adopt ne
 - Lessons learnt from the development of Pro code solutions are shared within the organization.
 - APIs are proactively developed to allow No Code and Low Code to easily access sophisticated data sources, functions, and business automations.
 
-#### Management &amp; Governance
+#### 400 Management &amp; Governance
 
 - Application usage is measured using tooling such as Application Insights.
 - Applications are instrumented to detect errors and events using tools such as Application Insights.
@@ -289,7 +291,7 @@ Staff are able to work efficiently across the spectrum of solutions and adopt ne
 - A Steering Committee is created to develop and oversee solution road maps.
 - Code reviews occur to ensure code quality before being introduced into the codebase.
 
-#### Impacts
+#### 400 Impacts
 
 At this level you can expect the following:
 
@@ -305,26 +307,26 @@ The effectiveness of solutions is continually assessed via a range of metrics to
 
 **[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
 
-#### No Code
+#### 500 No Code
 
 - The repository for customizations and templates which promotes solution reuse is actively maintained by the business and enhanced based on emerging technologies and business needs.
 - Sophisticated no code solutions are easily created by extending them with low code and pro code extensions that operate in a similar way to the no code platform that staff are familiar with.
 - Management processes actively look for opportunities to use no code to reduce costs and take advantage of platform feature roll out. The impact of these is assessed on an ongoing basis and used to refine the code transition points.
 
-#### Low Code
+#### 500 Low Code
 
 - The repository for components, modules and templates which promotes solution reuse is actively maintained by the business and enhanced based on emerging technologies and business needs.
 - Low code citizen developers use the hooks and extension points built by the pro code developers, and provide enhancements to no code. These are standardized, with defined integration points and embedded monitoring elements.
 - Compliance with standards is routinely assessed and used to improve the quality of the solution and the developer.
 
-#### Pro Code
+#### 500 Pro Code
 
 - A Package Management feed (such as internal NuGet or NPM feed) is used for managing and promoting the reuse of components and patterns.
 - Pro code develops extension points and components for no code/low code citizen developers to use. Examples include custom connectors for Power Platform or SPFx web parts for SharePoint and Teams.
 
 Analytics on the use of APIs for data sources, functions and business automations is used to optimize their use and performance.
 
-#### Management &amp; Governance
+#### 500 Management &amp; Governance
 
 - Development is proactively managed across the code-continuum; a dynamic equilibrium is maintained between the different code approaches, shifting to take advantage of changes in the technology and platform landscape. Active monitoring of the source technologies allows these changes to be anticipated and included in the development road maps.
 - There is granular insight into the developed solution portfolio and code-continuum, with understanding of origination costs, technical debt, support costs, and benefits. These are integrated with user metrics. These are used to direct development strategies and investments.
@@ -335,7 +337,7 @@ Analytics on the use of APIs for data sources, functions and business automation
 - A Centre of Excellence and Steering Committee is empowered to drive a road map to guide the extensibility points built with pro code for the no/Low code citizen developers.
 - Solutions are designed and published to the organization's App Stores such as SharePoint and Microsoft Teams.
 
-#### Impacts
+#### 500 Impacts
 
 At this level you can expect the following:
 
@@ -377,7 +379,7 @@ The cost of development is expensive and can be controlled by only embarking on 
 
 - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view: [Refactoring UI](https://refactoringui.com/)
 - [Microsoft Developer Portal](https://developer.microsoft.com/)
-- [Power Platform Centre of Excellence (CoE) Kit](https://docs.microsoft.com/power-platform/guidance/coe/starter-kit)
+- [Power Platform Centre of Excellence (CoE) Kit](/power-platform/guidance/coe/starter-kit)
 
 ## Conclusion
 
@@ -407,3 +409,7 @@ Customization and development can only contribute maximally to the organization 
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
+
+---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

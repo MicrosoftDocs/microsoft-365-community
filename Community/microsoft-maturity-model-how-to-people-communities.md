@@ -16,11 +16,11 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
+![Image of the Maturity Model for Microsoft 365 logo.](media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Introduction
 
-The [People and Communities article](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--people-and-communities-competency) provides an overview of People and Communities concepts and then details each of the 5 People and Communities maturity levels from Initial to Optimizing (100 through to 500). It adopts a broadly technology-agnostic approach to the business characteristics of People and Communities, plus expected benefits.
+The [People and Communities article](microsoft365-maturity-model--people-and-communities-competency.md) provides an overview of People and Communities concepts and then details each of the 5 People and Communities maturity levels from Initial to Optimizing (100 through to 500). It adopts a broadly technology-agnostic approach to the business characteristics of People and Communities, plus expected benefits.
 
 This article aims to specifically explore how organizations at any level could use the Microsoft 365 suite (and associated technologies) to reach a higher maturity level.
 
@@ -34,17 +34,17 @@ To advance to the 200 level, consider the following activities:
 
 ### Communities (level 100 to 200)
 
-Focus on known working groups, like project teams and departments, to begin transitioning to [Microsoft 365 Groups](https://support.microsoft.com/office/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) or [Dynamic Distribution Groups]( https://docs.microsoft.com/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups) (when file management or additional collaboration outside of email is not needed). These working groups are considered the "inner loop" which is a known set of people working together. The members and output are clearly defined simplifying the choice of what-to-use when.
+Focus on known working groups, like project teams and departments, to begin transitioning to [Microsoft 365 Groups](https://support.microsoft.com/office/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) or [Dynamic Distribution Groups](/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups) (when file management or additional collaboration outside of email is not needed). These working groups are considered the "inner loop" which is a known set of people working together. The members and output are clearly defined simplifying the choice of what-to-use when.
 
  A project team needs to communicate updates internally and collaborate on files. A Microsoft 365 Group will provide a shared calendar, email distribution list, SharePoint Team Site, and the potential to add a Microsoft Team for a robust meeting space with persistent chat. Project communication should shift to SharePoint news, the associated Microsoft 365 Group email distribution list, or Teams chats.
 
 A department, depending on the size and company culture, may also benefit from a Microsoft 365 Group. Large departments where all members are not actively collaborating may be best served by a Dynamic Distribution Group as communication is primarily one way and the smaller functions within the department are then collaborating with Microsoft 365 Groups.
 
-Begin to pilot open community spaces like Yammer or an org-wide Team. The "outer loop" is focused on sharing information widely across an organization outside the known working groups. There is not a known set of members as it can be fluid and communication is often focused on surfacing new ideas, gathering feedback, knowledge sharing, breaking down silos, and connecting the business with senior leaders. Focus on moving company-wide communication that seeks to foster two-way communication to Yammer or an org-wide Team ([depending on company culture and size](https://docs.microsoft.com/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365#company-culture)).
+Begin to pilot open community spaces like Yammer or an org-wide Team. The "outer loop" is focused on sharing information widely across an organization outside the known working groups. There is not a known set of members as it can be fluid and communication is often focused on surfacing new ideas, gathering feedback, knowledge sharing, breaking down silos, and connecting the business with senior leaders. Focus on moving company-wide communication that seeks to foster two-way communication to Yammer or an org-wide Team ([depending on company culture and size](how-to-share-org-wide-communications-in-microsoft-365.md#company-culture)).
 
 ### People (level 100 to 200)
 
-Reach out to your [SharePoint Champions](https://docs.microsoft.com/microsoft-365/community/identifying-your-sharepoint-champions), Microsoft 365 business owners, and internal customer service functions (think Information Technology, Human Resources, Finance) to begin completing their profiles in [Delve]( https://support.microsoft.com/what-is-office-delve-1315665a-c6af-4409-a28d-49f8916878ca) with more detail in addition to any contact information that may be populated from Active Directory or a synced Human Resource Information System. Focus on adding project and skills information to support search becoming a go-to place to identify people across the organization who provide internal customer service support (like answering benefits questions or providing support with a specific software), source knowledge and expertise.
+Reach out to your [SharePoint Champions](identifying-your-sharepoint-champions.md), Microsoft 365 business owners, and internal customer service functions (think Information Technology, Human Resources, Finance) to begin completing their profiles in [Delve](https://support.microsoft.com/what-is-office-delve-1315665a-c6af-4409-a28d-49f8916878ca) with more detail in addition to any contact information that may be populated from Active Directory or a synced Human Resource Information System. Focus on adding project and skills information to support search becoming a go-to place to identify people across the organization who provide internal customer service support (like answering benefits questions or providing support with a specific software), source knowledge and expertise.
 
 ## How to move from Repeatable to Defined (level 200 to 300)
 
@@ -98,7 +98,7 @@ To advance to the 400 level, consider the following activities:
 
 The guidance for what-to-use-when was created in partnership with the business and training was launched to align the business on the new community spaces for collaboration. The focus can shift to creating opportunities for feedback, iterative improvements, and strategic planning as the Microsoft 365 platform continues to evolve.
 
-- Meet with your existing [champions group](https://docs.microsoft.com/microsoft-365/community/identifying-your-sharepoint-champions) or begin to form one in your organization for each of the community platforms (Teams, Yammer, and SharePoint). The champions are not necessarily only the top users of these platforms. Including end users who push your governance boundaries, ask lots of questions in training, open tickets for common issues, or who are in the project queue for IT support can all add value to this group by offering diverse perspectives. When forming the champions group, including a spectrum of viewpoints, roles, and technical abilities will ensure you do not come to a false consensus as a group for what works best for the entire organization.
+- Meet with your existing [champions group](identifying-your-sharepoint-champions.md) or begin to form one in your organization for each of the community platforms (Teams, Yammer, and SharePoint). The champions are not necessarily only the top users of these platforms. Including end users who push your governance boundaries, ask lots of questions in training, open tickets for common issues, or who are in the project queue for IT support can all add value to this group by offering diverse perspectives. When forming the champions group, including a spectrum of viewpoints, roles, and technical abilities will ensure you do not come to a false consensus as a group for what works best for the entire organization.
 - Form a meeting and communication cadence with this group to share Microsoft announcements, project initiatives, and to serve as an open door for feedback. Staying closely aligned with the end users actively working in these systems will ensure you understand how people are working in Microsoft 365 and what they need to be productive. Your guidance will continue to evolve to meet their needs and as Microsoft makes shifts in their offerings.
 - Continue training and showcase the efforts of end users utilizing self-service opportunities. Share case studies of teams who created their own communities by following the training and guidance. Include specifics around their starting point, pain points that drove the change, and improvements while using new solutions to communicate.
 
@@ -124,7 +124,7 @@ To advance to the 500 level, consider the following activities:
 
 ### People (level 400 to 500)
 
-- End users have become comfortable searching for skills, expertise, and projects in people profiles so training should be expanded to include guidance on how to use [Delve](https://support.microsoft.com/office/what-is-office-delve-1315665a-c6af-4409-a28d-49f8916878ca) and [MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page) to be more productive.
+- End users have become comfortable searching for skills, expertise, and projects in people profiles so training should be expanded to include guidance on how to use [Delve](https://support.microsoft.com/office/what-is-office-delve-1315665a-c6af-4409-a28d-49f8916878ca) and [MyAnalytics](/workplace-analytics/myanalytics/mya-landing-page) to be more productive.
 
   For example:
 
@@ -147,19 +147,21 @@ Improving your People and Communities maturity means rethinking your processes a
 
 ## Related documents
 
-- [People and Communities Competency- Microsoft 365 Maturity Model](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--people-and-communities-competency)
-- [How to Share Org-Wide Communication in Microsoft 365](https://docs.microsoft.com/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
-- [The Evolution of Company-Wide Email Communication to SharePoint News](https://docs.microsoft.com/microsoft-365/community/evolution-of-company-wide-email-communication-to-sharepoint-news)
-- [Principles of Communication](<https://docs.microsoft.com/microsoft-365/community/principles-of-communication>)
-- [Manage Dynamic Distribution Groups]( https://docs.microsoft.com/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups)
-- [Welcome to Microsoft Teams](<https://docs.microsoft.com/microsoftteams/teams-overview>)
+- [People and Communities Competency- Microsoft 365 Maturity Model](microsoft365-maturity-model--people-and-communities-competency.md)
+- [How to Share Org-Wide Communication in Microsoft 365](how-to-share-org-wide-communications-in-microsoft-365.md)
+- [The Evolution of Company-Wide Email Communication to SharePoint News](evolution-of-company-wide-email-communication-to-sharepoint-news.md)
+- [Principles of Communication](principles-of-communication.md)
+- [Manage Dynamic Distribution Groups](/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups)
+- [Welcome to Microsoft Teams](/microsoftteams/teams-overview)
 - [Create and Share News on your SharePoint Sites](https://support.microsoft.com/office/create-and-share-news-on-your-sharepoint-sites-495f8f1a-3bef-4045-b33a-55e5abe7aed7)
 - [What is Yammer?](https://support.microsoft.com/office/what-is-yammer-1b0f3b3e-89ee-4b66-aac5-30def12f287c)
 - [What is Delve?](https://support.microsoft.com/office/what-is-office-delve-1315665a-c6af-4409-a28d-49f8916878ca)
-- [MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page)
+- [MyAnalytics](/workplace-analytics/myanalytics/mya-landing-page)
 
 ---
 
 **Principal author**: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
 ---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

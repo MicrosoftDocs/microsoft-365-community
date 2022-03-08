@@ -30,7 +30,7 @@ Communication is generally defined as a smaller number of people providing usefu
 
 Communication encompasses the processes of creation, approval, and distribution of content. The content itself can take many forms, such as News Posts, discussions about broad topics, articles and blog posts, benefits descriptions, etc. It can also encompass high importance alerts and notifications, possibly with feedback and tracking.  Concepts like consistency, predictability, and relevance require both human investment and a robust technology platform.
 
-Communication professionals will sometimes refer to the [Principles of Communication](https://docs.microsoft.com/microsoft-365/community/principles-of-communication); these might be worth considering alongside your maturity assessment.
+Communication professionals will sometimes refer to the [Principles of Communication](/microsoft-365/community/principles-of-communication); these might be worth considering alongside your maturity assessment.
 
 ## Common Microsoft 365 tool sets
 
@@ -56,18 +56,18 @@ This is the starting level for a new or untried process. As with all 100 level c
 
 **[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
-#### Governance & Security
+#### 100 Governance & Security
 
 - There are no restrictions or guidance on who should communicate to whom or by what means.
 - Communications are frequently ad hoc, not based on templates, lack governance, and do not tend towards an agreed ‘house’ style.
 - High impact communications lack a review and approval process.
 
-#### Information Architecture
+#### 100 Information Architecture
 
 - Most communications are untargeted or weakly targeted to intended audiences.
 - Navigation and taxonomy have not been formally considered.
 
-#### Content
+#### 100 Content
 
 - There is heavy use of email to circulate information, updates, newsletters and attached documents.
 - Content in emails becomes stale or out of date as soon as it is sent. Corrections after the fact require duplicated content.
@@ -76,7 +76,7 @@ This is the starting level for a new or untried process. As with all 100 level c
 - Tracking for readership is absent.
 - There is no means of prioritizing important communications, nor of scheduling their availability.
 
-#### Impacts
+#### 100 Impacts
 
 At this level you can expect the following:
 
@@ -93,18 +93,18 @@ Processes are documented or managed by a central group to enable (but not enforc
 
 **[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
-#### Governance & Security
+#### 200 Governance & Security
 
 - Nominated functions for reviewing/creating/releasing some classes of communications, i.e. nominated communications roles.
 - A policy is available to guide users on appropriate communications and there are mechanisms to support them.
 - Example ‘tone of voice’ guidance, reinforcement of company values and phrases (including mission statements).
 
-#### Information Architecture
+#### 200 Information Architecture
 
 - Some degree of targeting, based on groups and distribution lists; users are not necessarily aware of the ability to do this
 - Basic mechanisms for prioritization of higher importance messaging exist, but are ungoverned
 
-#### Content
+#### 200 Content
 
 - Use of templates for messages, newsletters, documents are in place, but not enforced
 - Standardized images and logos (stored in a shared location)
@@ -113,7 +113,7 @@ Processes are documented or managed by a central group to enable (but not enforc
 - Some mechanisms for feedback or further interaction resulting from communications
 - Ability to schedule future communications
 
-#### Impacts
+#### 200 Impacts
 
 At this level, communications often don’t follow expected layouts, style, and standards.  A central set of policies may exist, managed by a central owner, but there is no shared understanding across the organization of what these are.
 
@@ -123,28 +123,28 @@ The process is well defined and agreed as a standard business process. There are
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
-#### Governance & Security
+#### 300 Governance & Security
 
 - Communications policies are published and widely understood; some monitoring and reinforcement is in place.
 - Guidance exists on writing style; spelling and grammar checking is in active use.
 - Feedback and corrections are acted on.
 - Brand guidelines cover internal as well as external use.
 
-#### Information Architecture
+#### 300 Information Architecture
 
 - Different communication mechanisms/channels are understood at an organizational level and often used effectively by staff
 - The purpose of different types of communication are considered and understood and appropriate strategies are defined for different categories and constraints.
 - The portfolio of communication options is broader, and a clear set of rules determine which to use for specific content types
 - Mechanisms exist for sharing localized messages with other parts of the organization; these are based on author judgement
 
-#### Content
+#### 300 Content
 
 - Templates, images, and logo assets etc. are available and encouraged.
 - Top down, bottom up, and peer to peer communications are supported
 - Mechanisms to prioritize messages exist in multiple channels, are well defined and broadly understood
 - Basic, mostly manual mechanisms are in place for scheduling communication, updating, removing or archiving superseded or expired communications.
 
-#### Impacts
+#### 300 Impacts
 
 At this level, there is a stated strategy for communication that is understood and supported at executive level. This encompasses the many types of communication, with different purposes, approaches, and audiences.  Communication is widely accessed and is broadly effective. There are mechanisms with agreed processes for centrally delivering the common communications needs using images and templated layouts.
 
@@ -156,29 +156,29 @@ The communication process is actively managed in accordance with agreed processe
 
 **[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
 
-#### Governance & Security
+#### 400 Governance & Security
 
 - Message life cycle management ensures timeliness, approvals, moderation, accuracy, tracking, and removal at the appropriate time.
 - Logs, feedback, site usage etc. confirms that content and messages are being received and that tracking analytics and reporting are available
 
-#### Information Architecture
+#### 400 Information Architecture
 
 - Communications are displayed in as many locations as needed, in the proper context, but without duplication of content.
 - Individuals, groups and roles are consistently targeted, based on well-maintained profiles and tagging
 - Different media types are employed to ensure reach and comprehension across the workforce, e.g. live chat, published documents and pages, live briefings, on demand video and podcast/audio (for road warriors, for example)
 - The process for aggregating information from multiple sources, or for pushing messages from one part of an organization to another are actively curated
 
-#### Content
+#### 400 Content
 
 - Templates and standards are mandated and embedded in the communication process
 - Mechanisms to prioritize messages are standardized and broadly adopted.
 - Processes exist to manage inappropriate use and these processes are connected to incentives
-- [Organizational Assets](https://docs.microsoft.com/sharepoint/organization-assets-library), such as agreed imagery, iconography, are standardized for communications use.
+- [Organizational Assets](/sharepoint/organization-assets-library), such as agreed imagery, iconography, are standardized for communications use.
 - Written content is formatted and presented to support online reading patterns and accessibility standards
 - Communications are sampled for style, effectiveness etc. and guidance on improvement is offered.
 - Some Compliance and DLP rules are enabled
 
-#### Impacts
+#### 400 Impacts
 
 At this level, users have a high degree of trust in organizational communications. They understand the communication mechanisms that are available, and feel confident in the source and appropriateness of what they receive. This maturity level still may create dissatisfaction in some users who remember the “wild west” days of the organization when it was less mature, and who feel restricted in their ability to communicate if they do not have the appropriate role or level of rights.
 
@@ -188,27 +188,27 @@ Management of the communication process includes deliberate and systematic proce
 
 **[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
 
-#### Governance & Security
+#### 500 Governance & Security
 
 - Communications are automatically sampled for style, effectiveness etc. and guidance on improvement is implemented.
 - Communication training is provided across multiple media types.
 - Lifecycle management is strongly implemented and largely automated.
 - Compliance and DLP rules are comprehensively applied and enforced.
 
-#### Information Architecture
+#### 500 Information Architecture
 
 - Curation of communication is performed by ‘the system’.
 - AI, based on the understanding of the reader’s interests and role, creates linkages across knowledge and communication systems and pushes content to individuals and groups based on role, activity and interests.
 - Communication stratification is strongly implemented across media types and roles.
 
-#### Content
+#### 500 Content
 
 - Formatting and publication of content to different media types is automated or instantiated in robust processes (e.g. text to speech, speech to text, automated publishing, multi-lingual or multi-cultural content)
 - Longitudinal communications are well understood and carefully managed.
 - A-B testing of messaging may be in place.
 - Focus time (non-communication periods) are encouraged and protected.
 
-#### Impacts
+#### 500 Impacts
 
 At this level, the ROI to the organization is demonstrable, and all users feel they have a voice through feedback mechanisms and content submission channels.  The system supports communication governance, so users don’t need to remember the rules, making interactions more intuitive and lightweight.
 
@@ -285,3 +285,7 @@ Organizations should define their desired maturity, based on their needs, circum
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
+
+---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

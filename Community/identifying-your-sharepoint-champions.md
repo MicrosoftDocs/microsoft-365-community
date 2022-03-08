@@ -61,9 +61,9 @@ In the Admin Portal there are [Usage Reports](https://admin.microsoft.com/Adminp
 
 ## Resources to learn more
 
-- [The Microsoft 365 Maturity Model – Introduction](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
-- [Why SharePoint Training is Important](https://docs.microsoft.com/microsoft-365/community/why-sharepoint-training-is-important)
-- [Empowering Your Microsoft 365 Champions](https://docs.microsoft.com/microsoft-365/community/empowering-your-sharepoint-champions)
+- [The Microsoft 365 Maturity Model – Introduction](/microsoft-365/community/microsoft365-maturity-model--intro)
+- [Why SharePoint Training is Important](/microsoft-365/community/why-sharepoint-training-is-important)
+- [Empowering Your Microsoft 365 Champions](/microsoft-365/community/empowering-your-sharepoint-champions)
 
 ---
 

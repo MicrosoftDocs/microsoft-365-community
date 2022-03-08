@@ -48,7 +48,7 @@ To enable the Security Defaults within your Microsoft 365 directory:
 4. Set the **Enable Security Defaults** toggle to **Yes**
 5. Select **Save**
 
-You can also choose to disable these features and create your own set of security rules and controls, by either not enabling the Security Defaults or if they are enabled setting the Enable Security Defaults toggle to No. Learn more about the [Security Defaults provided out of the box](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults).
+You can also choose to disable these features and create your own set of security rules and controls, by either not enabling the Security Defaults or if they are enabled setting the Enable Security Defaults toggle to No. Learn more about the [Security Defaults provided out of the box](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults).
 
 ## Custom Security Configuration
 
@@ -80,8 +80,8 @@ Multi-Factor Authentication can be explicitly assigned to users or administrator
 
 **How:** To learn how to implement Administrator and User Multi-Factor Conditional Access Policies, use the links below.
 
-* [Enable a Conditional Access Policy for Multi-Factor for Administrator Accounts](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-admin-mfa#create-a-conditional-access-policy)
-* [Enable a Conditional Access Policy for Multi-Factor for all User Accounts](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-all-users-mfa#create-a-conditional-access-policy)
+* [Enable a Conditional Access Policy for Multi-Factor for Administrator Accounts](/azure/active-directory/conditional-access/howto-conditional-access-policy-admin-mfa#create-a-conditional-access-policy)
+* [Enable a Conditional Access Policy for Multi-Factor for all User Accounts](/azure/active-directory/conditional-access/howto-conditional-access-policy-all-users-mfa#create-a-conditional-access-policy)
 
 **NOTE:** Be aware that adding a single Azure Active Directory Premium (Plan 1 or Plan 2) for an Administrator will enable the features, but not license it for every user.
 
@@ -93,7 +93,7 @@ Multi-Factor Authentication can be explicitly assigned to users or administrator
 
 Users will be signed out from all Microsoft 365 services with a time specified, not just SharePoint Online and OneDrive for Business unless they have selected to stay signed-in. The end-user experience is different if they are inactive in other browser tabs but not in a SharePoint Online or OneDrive for Business one; then, all tabs will stay signed in.
 
-**How:** Learn how to [implement Idle Session Sign-out](https://docs.microsoft.com/sharepoint/sign-out-inactive-users#specify-idle-session-sign-out-settings-in-the-new-sharepoint-admin-center).
+**How:** Learn how to [implement Idle Session Sign-out](/sharepoint/sign-out-inactive-users#specify-idle-session-sign-out-settings-in-the-new-sharepoint-admin-center).
 
 ### Block Legacy Authentication
 
@@ -126,7 +126,7 @@ Filtering will only show you the attempted sign-ins that used legacy authenticat
 
 Blocking legacy authentication is performed by configuring conditional access policies.
 
-**How:** Learn how to [block legacy authentication](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication).
+**How:** Learn how to [block legacy authentication](/azure/active-directory/conditional-access/block-legacy-authentication).
 
 ### Set User Passwords to Never Expire
 
@@ -141,8 +141,8 @@ There are two options for disabling expiration of passwords:
 
 **How:** Learn how to implement password expiration policies using the links below.
 
-* [Set the password expiration policy for your organization](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
-* [Set an individual user's password to never expire](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+* [Set the password expiration policy for your organization](/microsoft-365/admin/manage/set-password-expiration-policy)
+* [Set an individual user's password to never expire](/microsoft-365/admin/add-users/set-password-to-never-expire)
 
 ### Banned Password List
 
@@ -150,7 +150,7 @@ There are two options for disabling expiration of passwords:
 
 **Protection:** Azure Active Directory includes a global banned password list, that protects all Microsoft 365 services. Azure Active Directory also provides organizations the ability to add a list of banned passwords. As users change their passwords in the cloud, if the new password matches any of the prohibited passwords, the end-user will be notified, and they will need to change the password they typed. The custom banned password feature is limited to 1000 words. It is not for blocking large lists of passwords.
 
-**How:** Learn how to [implement a banned password list](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-configure-custom-password-protection)
+**How:** Learn how to [implement a banned password list](/azure/active-directory/authentication/tutorial-configure-custom-password-protection)
 
 ### External Sharing
 
@@ -158,7 +158,7 @@ There are two options for disabling expiration of passwords:
 
 **Protection:** Microsoft 365 provides external sharing settings at the tenant and application levels. The decision to modify these settings should be business-related. Setting this to **Only people in your organization**, limits external sharing capabilities. Content can then only be shared using accounts that already exist within the existing Azure Active Directory, whether internal users or external guest accounts. Adding external accounts then becomes a controlled process.
 
-**How:** Learn how to [implement external sharing protections](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off )
+**How:** Learn how to [implement external sharing protections](/sharepoint/turn-external-sharing-on-or-off )
 
 ### Account Lockout Threshold
 
@@ -166,7 +166,7 @@ There are two options for disabling expiration of passwords:
 
 **Protection:** Azure Active Directory Smart lockout uses cloud intelligence to lock out malicious actors trying to guess end-users passwords. The intelligence platform recognizes sign-ins from valid users and treats those differently from those that attackers and other unknown sources. The smart lockout can lock out the attackers yet still allow users to continue to access their accounts. Smart lockout is on by default within all Azure Active Directory instances; however, organizations can customize them as needed. The default setting is ten failed sign-ins, with the recommendation to set lower as required and in conjunction with the organization.
 
-**How:** Learn how to [implement account lockout threshold](https://docs.microsoft.com/azure/active-directory/authentication/howto-password-smart-lockout)
+**How:** Learn how to [implement account lockout threshold](/azure/active-directory/authentication/howto-password-smart-lockout)
 
 ### Mobile Application Management Policy
 
@@ -183,7 +183,7 @@ The core benefits of Mobile application management (MAM) policies are:
 
 Using Mobile application management (MAM) policies will require end-users to have a license for Microsoft Intune assigned to their Azure Active Directory account.
 
-**How:** Learn how to [implement mobile application management policies](https://docs.microsoft.com/mem/intune/apps/app-protection-policies)
+**How:** Learn how to [implement mobile application management policies](/mem/intune/apps/app-protection-policies)
 
 ### Block Client Forwarding Rules
 
@@ -214,8 +214,8 @@ Users can consent to all apps - This option allows all end-users to consent to a
 
 **How:** Learn how to manage end-user and administrator app consent, use the links below.
 
-* [Configure how end-users consent to applications](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent)
-* [Configure the admin consent workflow](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow#enable-the-admin-consent-workflow)
+* [Configure how end-users consent to applications](/azure/active-directory/manage-apps/configure-user-consent)
+* [Configure the admin consent workflow](/azure/active-directory/manage-apps/configure-admin-consent-workflow#enable-the-admin-consent-workflow)
 
 ## Security Considerations
 

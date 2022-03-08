@@ -16,7 +16,7 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
+![Image of the Maturity Model for Microsoft 365 logo.](media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview of the Concepts [tl;dr]
 
@@ -29,9 +29,9 @@ Note: In this article, we refer to IT as the primarily responsible department fo
 
 ### Common Microsoft 365 Tool Sets
 
-- [Microsoft Learn](https://docs.microsoft.com/learn/)
+- [Microsoft Learn](/learn/)
 - [LinkedIn Learning](https://www.linkedin.com/learning)
-- [Microsoft Learning Pathways](https://docs.microsoft.com/office365/customlearning/)
+- [Microsoft Learning Pathways](/office365/customlearning/)
 - [Microsoft Support](https://support.microsoft.com/training)
 - [Modern Workplace Training](https://support.microsoft.com/modernworkplace)
 
@@ -48,7 +48,7 @@ Organizations at the 100 level give more precedence to launching the solution th
 - System is launched without training or guidance.
 - No information is available on who to reach out to for help or support with the system.
 
-#### Impacts
+#### 100 Impacts
 
 Due to a lack of training or assistance, end users begin using the system as they interpret it should be used. This can create new change management challenges down the road as the use cases and better practices need to be communicated against new patterns of behavior. This is often a replication of old business processes in a new environment (for example, using SharePoint for file storage only).
 
@@ -68,7 +68,7 @@ As the system is growing in usage, some of the end users who are responsible for
 - IT Help Desk is available for break/fix support only.
 - Content owners from some functional areas are trained and using the system.
 
-#### Impacts
+#### 200 Impacts
 
 The wait time for system support may be incredibly long due to limited support staff and limited knowledge requiring longer periods of time to troubleshoot end user problems. No support exists for a consultative approach to solve business problems leaving end users to silo solution, often with competing products from a lack of knowledge for what exists already at the organization.
 
@@ -86,7 +86,7 @@ The organization is actively using the solution(s) with a training plan in place
 - An IT resource is knowledgeable on the system and available for strategic guidance.
 - Roles and responsibilities for support and training are clearly delineated and funded.
 
-#### Impacts
+#### 300 Impacts
 
 New hires use the system properly from the outset because they attend training focused on how to interact with the new system as it has become commonly used across the organization.
 
@@ -109,7 +109,7 @@ Now that the IT support staff has expanded, there are opportunities for the busi
 - Positive outcomes are collected and measured to share with the organization and cross-pollination in training.
 - Usage of the solutions becomes less IT-driven and more business encouraged due to clear benefit demonstration in ongoing training.
 
-#### Impacts
+#### 400 Impacts
 
 Once training is viewed as a program, this allows for strategic planning on how to advance the technical literacy of the organization. The training is no longer focused on which buttons to click within a system and instead focuses on changes in behavior or business processes to work more efficiently. For example, a OneNote training would not focus solely on making sections and pages. The training would include productivity tips for how to use OneNote to increase efficiency in meeting note taking.
 
@@ -130,7 +130,7 @@ The most common support scripts and training content are developed with Chatbot 
 - Empowered user community (self-service governance in place).
 - Training is integrated into the organization’s learning strategy.
 
-#### Impacts
+#### 500 Impacts
 
 Clear business processes for system requests, feedback, break/fix help, and guidance build confidence across the organization that this system is useful and will have a long lifespan in the organization. This increased confidence leads to more transparent conversations around needs and employees are more willing to invest time to fully understand the system. Department leads and senior leadership understand the system is solving large business problems aligned with company goals and are willing to invest their time discussing the strategic road map.
 
@@ -166,10 +166,10 @@ Providing solutions to existing problems will generate higher interest across th
 
 ## Related documents
 
-- [The Microsoft 365 Maturity Model – Introduction](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
-- [Why SharePoint Training is Important](https://docs.microsoft.com/microsoft-365/community/why-sharepoint-training-is-important)
-- [Identifying Your Microsoft 365 Champions](https://docs.microsoft.com/microsoft-365/community/identifying-your-sharepoint-champions)
-- [Empowering Your Microsoft 365 Champions](https://docs.microsoft.com/microsoft-365/community/empowering-your-sharepoint-champions)
+- [The Microsoft 365 Maturity Model – Introduction](/microsoft-365/community/microsoft365-maturity-model--intro)
+- [Why SharePoint Training is Important](/microsoft-365/community/why-sharepoint-training-is-important)
+- [Identifying Your Microsoft 365 Champions](/microsoft-365/community/identifying-your-sharepoint-champions)
+- [Empowering Your Microsoft 365 Champions](/microsoft-365/community/empowering-your-sharepoint-champions)
 
 ---
 
@@ -183,3 +183,7 @@ Providing solutions to existing problems will generate higher interest across th
 - [Simon Doy](https://www.linkedin.com/in/simondoy/)
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
+
+---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

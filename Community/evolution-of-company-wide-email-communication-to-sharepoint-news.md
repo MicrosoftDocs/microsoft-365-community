@@ -76,7 +76,7 @@ Embracing the capabilities in SharePoint news instead of traditional emails to s
 ## Resources
 
 - [Create and share your news on SharePoint sites](https://support.microsoft.com/office/create-and-share-news-on-your-sharepoint-sites-495f8f1a-3bef-4045-b33a-55e5abe7aed7)
-- [Create an organization news site](https://docs.microsoft.com/sharepoint/organization-news-site)
+- [Create an organization news site](/sharepoint/organization-news-site)
 
 ---
 

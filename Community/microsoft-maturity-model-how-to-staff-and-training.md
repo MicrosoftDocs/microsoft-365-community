@@ -16,9 +16,9 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
+![Image of the Maturity Model for Microsoft 365 logo.](media/maturity-model-for-microsoft-365/M365MM.png)
 
-The [Staff & Training Competency article]( https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--staff-and-training) provides an overview of Staff and Training concepts and details each of the five Staff and Training maturity levels from Initial to Optimizing (100 through to 500). It adopts a broadly technology-agnostic approach to the business characteristics of Staff and Training plus expected benefits.
+The [Staff & Training Competency article](microsoft365-maturity-model--staff-and-training.md) provides an overview of Staff and Training concepts and details each of the five Staff and Training maturity levels from Initial to Optimizing (100 through to 500). It adopts a broadly technology-agnostic approach to the business characteristics of Staff and Training plus expected benefits.
 
 This article explores how organizations at any level could use the Microsoft 365 suite (and associated technologies) to reach a higher maturity level.
 
@@ -28,13 +28,13 @@ Organizations at the 100 level give more precedence to launching the solution th
 
 To advance to the 200 level, consider the following activities:
 
-### Staff
+### Staff (Level 100 to 200)
 
 - Work directly with a constituency to automate or support a well-understood business process, ideally one which is widely used across the organization. By building “in the open”, you’ll be bringing end users into the process of process validation and technology development. This can become an important staff awareness and training initiative.
 - Identify a business process to support break/fix issues. There should be a consistent entry point for end users to submit issues with transparency of where it is in the process to receive help. This business process should be widely socialized and easily accessible from Microsoft 365, ensuring there is no barrier to issue reporting. At this stage it is critical to support end user questions as you are building trust that the new platforms are worth their time and efforts to understand, especially if they were not involved in the implementation process.
 - Identify a primary resource to assist in build needs. This contact may be the same as the break/fix support or an additional resource, depending on company size and needs. This resource may be internal or external though they need a good understanding of the company goals, challenges, and culture to align solutions to the organization’s current needs.
 
-### Training
+### Training (Level 100 to 200)
 
 - Socialize available training to the business. At this level, there may not be a dedicated resource who can support live training so this training may be videos, training decks, or content produced by Microsoft.
 
@@ -44,7 +44,7 @@ At the 200 level, the focus is on improving the break/fix (tier 1) support by do
 
 To advance to the 300 level, consider the following activities:
 
-### Staff
+### Staff (Level 200 to 300)
 
 - Meet with end users and leadership to gain a deep understanding of current challenges in the organization to determine which tools can best support new solutions. Focus the training content on the problem you are solving. For example, a company struggling with transparency and action item tracking from meetings may benefit from training on using OneNote in SharePoint team sites to track meeting discussions and a plan in Planner to track deliverables.
 - Identify a resource (commonly IT) who will support strategic and consultative guidance for Microsoft 365. Ensure this is part of their roles, responsibilities, and goals with their manager’s support. Provide training if they need to increase their understanding of the platform. Ensure this resource is following the Microsoft 365 road map enabling them to provide scalable solutions that will grow with Microsoft’s direction of the platform.
@@ -52,7 +52,7 @@ To advance to the 300 level, consider the following activities:
 
   Building these relationships now will support senior leadership’s ability to drive prioritization of projects at the 400 level. Delaying these efforts will make it incredibly challenging to show the value in their time spent in steering committee meetings without their foundational understanding of how Microsoft 365 helps the entire organization reach their goals faster.
 
-### Training
+### Training (Level 200 to 300)
 
 - Collaborate with the learning and development team, HR, or other department responsible for onboarding and training to identify crucial role-based technical skills new employees will need to succeed at the company. Identify the correct timing when this training can be put into action immediately after to solidify understanding of the platforms and have training sessions added to their formal onboarding agenda. Too often incentives lag implementations in large organizations. Ideally, your incentives change as you roll out new capabilities.
 
@@ -62,14 +62,14 @@ At the 300 level, the organization is actively using the solution(s) with a trai
 
 To advance to the 400 level, consider the following activities:
 
-### Staff
+### Staff (Level 300 to 400)
 
 - If demand requires it, there is more than one resource available to support Microsoft 365, allowing for more to be built than the high priority requests and break/fix issues. This can often appear as one role focusing on strategic guidance, change management in the organization, and alignment with senior leadership; one role focused on the consultative support to identify needs and build solutions; internal or external support for break/fix issues.
 - The Microsoft 365 support team provides visibility into the strategic plan to the platform and frequently provides updates to the company around new features and solutions. This communication aids the training programs as smaller features are promoted without requiring additional time for all staff to attend an updated training. Sharing the strategic plan with the organization also supports end users understanding the capabilities coming to help drive their decisions on solutions. For example, the learning team may not switch to Zoom for meetings due to their need for breakout rooms as Teams added this feature to their road map.
 - The Microsoft 365 support team begins to gather feedback and positive outcomes. These outcomes are then shared with the company to share results from past projects, build confidence in how the platform helps the organization, and as use cases to inspire future solutions in departments that may not be utilizing Microsoft 365 to its full potential.
 - All project requests are tracked and prioritized on an organizational level. This is likely done in partnership with senior leadership to ensure consistent support across the organization aligned with company goals. Senior leadership support echoes the importance of the platform and visibility into project demand prepares the team for conversations around resources when budget planning.
 
-### Training
+### Training (Level 300 to 400)
 
 - Business ownership has grown for the content within Microsoft 365 enabling non-IT content owners and business process owners to begin incorporating Microsoft 365 training into their training programs. Microsoft 365 training is no longer focused on each solution (like SharePoint, OneNote, or OneDrive) and instead embedded into typical task-based training programs (like Human Resources training on benefits offerings including instruction on how to request days off through the intranet). These trainings are led by the subject matter experts or business process owners for these areas.
 - Now that the technical literacy of the organization has increased to understand what-to-use-when across the Microsoft 365 solutions, training is focused on highlighting the integration between the solutions and how this can increase productivity.
@@ -84,11 +84,11 @@ Now that the IT support staff has expanded, there are opportunities for the busi
 
 To advance to the 500 level, consider the following activities:
 
-### Staff
+### Staff (Level 400 to 500)
 
 - A dedicated system support has been built including strategic guidance, business analysis, training staff, and help desk support from IT. This system support also includes members outside of IT, typically key stakeholders from other departments to inform strategy and road map. With this robust support in place, it is critical to keep the focus on advancing solution offerings as new technology is released to continue driving innovation forwards. The Microsoft 365 support team needs to implement internal education opportunities for the entire staff to ensure consistency in support from all levels.
 
-### Training
+### Training (Level 400 to 500)
 
 - Business process owners and the Microsoft 365 support team lead are included in strategic meetings for the organization’s Learning and Development strategy as subject matter experts to help align Microsoft 365 training and capabilities to company initiatives and goals. Training programs continually evolve to support the company’s primary focus(es) year after year.
   
@@ -107,17 +107,20 @@ Maintaining a focus on training, at any level, enables employees to use the syst
 Overall, providing solutions to existing problems will generate higher interest across the organization and justification for employees’ time spent learning how to use them. Having a clear business process for feedback and transparency in the decision-making process will build trust with the organization, supporting the time and effort they are spending to understand the new systems. Developing these deep, trusted relationships with the business changes the focus of the conversations from specific technical requests to open dialogue around challenges or opportunities for innovation.
 
 ## Resources
+
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
 
 ## Related documents
 
-- [Maturity Model for Microsoft 365 – Introduction](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
-- [Maturity Model for Microsoft 365 – Staff & Training Competency](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--staff-and-training)
-- [Identifying Your SharePoint Champions](https://docs.microsoft.com/microsoft-365/community/identifying-your-sharepoint-champions)
-- [Empowering Your SharePoint Champions](https://docs.microsoft.com/microsoft-365/community/empowering-your-sharepoint-champions)
+- [Maturity Model for Microsoft 365 – Introduction](microsoft365-maturity-model--intro.md)
+- [Maturity Model for Microsoft 365 – Staff & Training Competency](microsoft365-maturity-model--staff-and-training.md)
+- [Identifying Your SharePoint Champions](identifying-your-sharepoint-champions.md)
+- [Empowering Your SharePoint Champions](empowering-your-sharepoint-champions.md)
 
 ---
 
 **Principal author**: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
 ---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

@@ -30,6 +30,8 @@ landingContent:
             url: glossary.md
           - text: Follow Microsoft 365 on Social Media
             url: microsoft-365-on-social-media.md
+          - text: Microsoft 365 Search Technologies
+            url: microsoft-365-search-technologies.md
           - text: What is a Site Column?
             url:  what-is-site-column.md
           - text: What is a Content Type?
@@ -73,6 +75,8 @@ landingContent:
             url: microsoft365-maturity-model--management-of-content.md
           - text: Customization and Development Competency
             url: microsoft365-maturity-model--customization-and-development.md
+          - text: Governance, Risk, and Compliance Competency
+            url: microsoft365-maturity-model--governance-and-compliance.md
 
       - linkListType: how-to-guide
         links:
@@ -106,6 +110,8 @@ landingContent:
             url:  benefits-of-using-powershell-with-sharepoint.md
           - text: Why SharePoint Training is Important
             url: why-sharepoint-training-is-important.md
+          - text: Building great content for your Intranet
+            url: intranet-content-sources.md
           - text: Identifying Your SharePoint Champions
             url: identifying-your-sharepoint-champions.md
           - text: Empowering Your SharePoint Champions
@@ -184,6 +190,8 @@ landingContent:
             url: power-automate-send-sharepoint-files-as-attachments.md
           - text: How can I use Learning Pathways in my organization?
             url: how-can-i-use-learning-pathways-in-my-organization.md
+          - text: Advanced Highlighted Content Web Part
+            url: highlighted-content-web-part.md
 
   # Card (optional)
   - title: Automation
