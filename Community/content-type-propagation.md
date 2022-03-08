@@ -16,42 +16,45 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-Content type is a central part of SharePoint, this article will not go into deep details on how to use content types, because it depends to much on the use case. This article will cover the backend "stuff" that propagates the content types to our endusers.
+Content type is a central part of SharePoint, this article will not go into deep details on how to use content types, because it depends to much on the use case. This article will cover the backend "stuff" that propagates the content types to our end users.
 
 * [Content type](glossary.md#metadata): At the very basic Content types woks as a "Template" for Lists and Libraries, meaning when added to a List or a Library when new items/documents are created using the content type, the item will then be created using the same list fields or file template.
 
-Go over here to learn more: [What is content type](https://docs.microsoft.com/en-us/microsoft-365/community/what-is-content-type).
+Go over here to learn more: [What is a content type](/microsoft-365/community/what-is-content-type).
 
-### Used in Lists
-	- We use content type in lists when we want to be able to create different list forms without the need of creating mulitple Lists.
-	- The content type will contain different fields based on the use case.
-    - Many 3.party solutions for SharePoint is built with List, and often relies on list content type.
+## Used in Lists
 
-### Used in Libraries
-	- This is normally different Office file templates.
-    - We use this when we want to provide easy access to document templates to our users.
+* We use content type in lists when we want to be able to create different list forms without the need of creating mulitple Lists.
+* The content type will contain different fields based on the use case.
+* Many 3.party solutions for SharePoint is built with List, and often relies on list content type.
 
-### In SharePoint and Teams
+## Used in Libraries
 
-As mentioned Content Types are used in Lists and Libraries. This article will be focused on content type for Libraries as this is where we normally use Content types. When enabled and added to a document library the content type (Company presentation) will be available throught the "New" menu, if the SharePoint site is connected to Teams, the content type will also be available in Teams.
+* This is normally different Office file templates.
+* We use this when we want to provide easy access to document templates to our users.
+
+## In SharePoint and Teams
+
+As mentioned Content Types are used in Lists and Libraries. This article will be focused on content type for Libraries as this is where we normally use Content types. When enabled and added to a document library the content type (Company presentation) will be available through the "New" menu, if the SharePoint site is connected to Teams, the content type will also be available in Teams.
 
 ![content type in Document library](media/content-type-propagation/ct1.png)
 
 ![content type in Teams](media/content-type-propagation/ct2.png)
 
-
 ## How to create new Content types
 
-With the current Information Architecture in M365, to make content type available for endusers there is a couple of ways:
+With the current Information Architecture in M365, to make content type available for end users there is a couple of ways:
+
 1. Use the Content type gallery
-    - The Content type will be propagated to all SharePoint sites in the tenant.
+- The Content type will be propagated to all SharePoint sites in the tenant.
 2. Manually create the Content type in the sites as needed
-	- Users can manually add the document template to the library, the new content type is only available in the current library.
-	- Site owners can create a new content type to be used in the site, this can be used by all libraries in the site and "sub-sites".
+- Users can manually add the document template to the library, the new content type is only available in the current library.
+- Site owners can create a new content type to be used in the site, this can be used by all libraries in the site and "sub-sites".
 3. Automated creation of content type using:
-	- [SharePoint Site Script](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-json-schema#define-a-new-content-type)
-	- [SharePoint PnP Provisioning engine](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/introducing-the-pnp-provisioning-engine)
-    - This techniques creates content types locally to the site, and requires technical competency and should only be used with site governance/provisioning in place.
+- [SharePoint Site Script](/sharepoint/dev/declarative-customization/site-design-json-schema#define-a-new-content-type)
+- [SharePoint PnP Provisioning engine](/sharepoint/dev/solution-guidance/introducing-the-pnp-provisioning-engine)
+
+This technique creates content types locally to the site, and requires technical competency and should only be used with site governance/provisioning in place.
 
 > [!NOTE]
 > The option you choose will mainly depends on your internal technical competency, governance model and your users needs.
@@ -71,10 +74,12 @@ You will see a set of Content types, and you will probably recognize many of the
 > When you are in the "Content type gallery", please don't modify or delete any of the standard content types, only work with your own custom content types.
 
 As mentioned above we mainly work with two types of content type:
+
 1. Document Content Types
 2. List Content Types
 
 Before you start to create your content type consider the following:
+
 1. If its a Document content type, do you have the document template available, and does this content type need any metadata columns assosiated with it?
 2. If its a List Item content type, do you have the list columns it should contain?
 
@@ -94,8 +99,8 @@ The *Company presentation* content type is created but it's not completed yet, o
 
 ![content type settings](media/content-type-propagation/ct6.png)
 
-This is where you will add your document template.
-We have two options:
+This is where you will add your document template. We have two options:
+
 1. Use an existing template, currently this options doesn't work in the Content type gallery, only with site content types.
 2. Upload a new document template.
 
@@ -107,6 +112,7 @@ When ready use the **"Publish"** option to publish the content type to your user
 ![content type publishing](media/content-type-propagation/ct8.png)
 
 ## Using the Content type
+
 The publishing of the the Content type should go pretty fast in M365 now, compared to what it did a couple of years ago.
 Before you can add the new content type to your library or list you need to make sure the **"Settings"** in **"Advanced Settings" | "Allow management of content types"** is set to **"Yes"**
 
@@ -117,18 +123,19 @@ When ready navigate back to the **Document library | Add column | Content Type**
 > [!NOTE]
 > Adding a new Content type can also be done in the Document Library Settings page.
 
-![adding new content type](media/content-type-propagation/ct10.png)
+![Adding new content type](media/content-type-propagation/ct10.png)
 
 Choose your newly published **"Content Type"** and hit **"Apply"**.
 
-![adding new content type](media/content-type-propagation/ct11.png)
+![Applying new content type](media/content-type-propagation/ct11.png)
 
 Your new content type is now ready to be used, repeat the process for any library where you want this content type to be available.
 If you want to add back the standard empty Office templates, use **"Edit New menu"** to rearrange the options.
 
 ![new content type](media/content-type-propagation/ct12.png)
 
-## 2. Create a new Content type in your curent site
+## 2. Create a new Content type in your current site
+
 The process of creating a new Content type for a site or Teams is similar to the steps for the Content type gallery, just simplier. Content types created in the site will be available for all Document libraries in the current site and sub-sites.
 
 In your site navigate to **Site Settings |  Site content types | Create content type**, and if you are creating a content type for Teams, then you need to first navigate to the *Teams SharePoint site*.
@@ -141,13 +148,12 @@ For Site Content types, you can use a file saved in the current site as a templa
 
 ---
 
-
 ## Conclusion
 
 Content type is a "way" of making predefined Office templates and/or list items available to all SharePoint sites in your tenant, and because Teams is using SharePoint as a backend store the templates is also available in Teams files and lists.
 If you don't have the technical ressources to make use of "PnP Scripts" to auto propagate the content types to new SharePoint sites, then I'll recommended the use of **"Content type gallery"** to propagate your content types.
 
-[Recommended reading: Designing solutions for scale](https://docs.microsoft.com/en-us/microsoft-365/community/designing-solution-for-scale)
+[Recommended reading: Designing solutions for scale](/microsoft-365/community/designing-solution-for-scale)
 
 ---
 
