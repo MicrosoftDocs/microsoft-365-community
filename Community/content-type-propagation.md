@@ -20,7 +20,7 @@ Content type is a central part of SharePoint, this article will not go into deep
 
 * [Content type](glossary.md#metadata): At the very basic Content types woks as a "Template" for Lists and Libraries, meaning when added to a List or a Library when new items/documents are created using the content type, the item will then be created using the same list fields or file template.
 
-Go over here to learn more: [What is a content type](https://docs.microsoft.com/microsoft-365/community/what-is-content-type).
+Go over here to learn more: [What is a content type](/microsoft-365/community/what-is-content-type).
 
 ## Used in Lists
 
@@ -51,8 +51,8 @@ With the current Information Architecture in M365, to make content type availabl
 - Users can manually add the document template to the library, the new content type is only available in the current library.
 - Site owners can create a new content type to be used in the site, this can be used by all libraries in the site and "sub-sites".
 3. Automated creation of content type using:
-- [SharePoint Site Script](https://docs.microsoft.com/sharepoint/dev/declarative-customization/site-design-json-schema#define-a-new-content-type)
-- [SharePoint PnP Provisioning engine](https://docs.microsoft.com/sharepoint/dev/solution-guidance/introducing-the-pnp-provisioning-engine)
+- [SharePoint Site Script](/sharepoint/dev/declarative-customization/site-design-json-schema#define-a-new-content-type)
+- [SharePoint PnP Provisioning engine](/sharepoint/dev/solution-guidance/introducing-the-pnp-provisioning-engine)
 
 This technique creates content types locally to the site, and requires technical competency and should only be used with site governance/provisioning in place.
 
@@ -153,7 +153,7 @@ For Site Content types, you can use a file saved in the current site as a templa
 Content type is a "way" of making predefined Office templates and/or list items available to all SharePoint sites in your tenant, and because Teams is using SharePoint as a backend store the templates is also available in Teams files and lists.
 If you don't have the technical ressources to make use of "PnP Scripts" to auto propagate the content types to new SharePoint sites, then I'll recommended the use of **"Content type gallery"** to propagate your content types.
 
-[Recommended reading: Designing solutions for scale](https://docs.microsoft.com/microsoft-365/community/designing-solution-for-scale)
+[Recommended reading: Designing solutions for scale](/microsoft-365/community/designing-solution-for-scale)
 
 ---
 
