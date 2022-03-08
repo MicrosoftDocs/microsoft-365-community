@@ -123,11 +123,11 @@ When ready navigate back to the **Document library | Add column | Content Type**
 > [!NOTE]
 > Adding a new Content type can also be done in the Document Library Settings page.
 
-![adding new content type](media/content-type-propagation/ct10.png)
+![Adding new content type](media/content-type-propagation/ct10.png)
 
 Choose your newly published **"Content Type"** and hit **"Apply"**.
 
-![adding new content type](media/content-type-propagation/ct11.png)
+![Applying new content type](media/content-type-propagation/ct11.png)
 
 Your new content type is now ready to be used, repeat the process for any library where you want this content type to be available.
 If you want to add back the standard empty Office templates, use **"Edit New menu"** to rearrange the options.
