@@ -155,7 +155,7 @@ Below is some Pros/Cons that should help you choose the right content type propa
 - Easy to get started
 - Content types are automatically propagated to all sites in the tenant
 - SharePoint online search can surface search content based on the content type across all sites
-- Easy to update the Content type if changes are required, update of template might take some time before auto updates, but can manually updates if required
+- Easy to update the Content type if changes are required, update of template might take some time before auto updates, but can manually be updated by site owner if needed.
 - Doesn't require much technical competency to manage
 
 ### Cons
