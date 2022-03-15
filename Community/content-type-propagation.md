@@ -164,20 +164,20 @@ Below is some Pros/Cons that should help you choose the right content type propa
 
 > [!IMPORTANT]
 > If a content type is deleted from the content type gallery the following happens:
->	* If the content type is added to a library (in use), it will be converted to a site "local content type", and will be available for that site
->	* If the content type is not added to a library, it will be removed from the site
+> * If the content type is added to a library (in use), it will be converted to a site "local content type", and will be available for that site
+> * If the content type is not added to a library, it will be removed from the site
 
 
 ## Using "Local Site Content type"
 ### Pros
-	* Can be created by site owner
-	* Content types can be used by all lists/library in the site
-	* Doesn't need a central governance model
+* Can be created by site owner
+* Content types can be used by all lists/library in the site
+* Doesn't need a central governance model
 
 ### Cons
-	* Required that site owners "knows" what she/he's doing 
-	* Content type is not available to other sites
-	* Because it's not central managed, the Office template might not be the updated one
+* Required that site owners "knows" what she/he's doing 
+* Content type is not available to other sites
+* Because it's not central managed, the Office template might not be the updated one
 
 
 > [!IMPORTANT]
