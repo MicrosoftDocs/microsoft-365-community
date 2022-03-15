@@ -46,14 +46,14 @@ As mentioned Content Types are used in lists and libraries. This article will be
 With the current Information Architecture in Microsoft 365, to make content type available for end users there are a couple of approaches:
 
 1. Use the Content type gallery (this is the modern version of the "Content type hub")
-- The Content type will be propagated to all SharePoint sites in the tenant.
+    * The Content type will be propagated to all SharePoint sites in the tenant.
 2. Manually create the Content type in the sites as needed
-- Users can manually add the document template to the library, the new content type is only available in the current library.
-- Site owners can create a new content type at the site-level, this can be used by all libraries in the site and "sub-sites".
+    * Users can manually add the document template to the library, the new content type is only available in the current library.
+    * Site owners can create a new content type at the site-level, this can be used by all libraries in the site and "sub-sites".
 3. Automated creation of content type using:
-- [SharePoint Site Script](/sharepoint/dev/declarative-customization/site-design-json-schema#define-a-new-content-type)
-- [SharePoint PnP Provisioning engine](/sharepoint/dev/solution-guidance/introducing-the-pnp-provisioning-engine)
-This technique creates content types locally to the site, requires technical competency, and should only be used with site governance/provisioning in place.
+    * [SharePoint Site Script](/sharepoint/dev/declarative-customization/site-design-json-schema#define-a-new-content-type)
+    * [SharePoint PnP Provisioning engine](/sharepoint/dev/solution-guidance/introducing-the-pnp-provisioning-engine)
+    * This technique creates content types locally to the site, requires technical competency, and should only be used with site governance/provisioning in place.
 
 > [!NOTE]
 > The option you choose will mainly depend on your internal technical competency, governance model, and your users needs.
@@ -152,32 +152,32 @@ Below is some Pros/Cons that should help you choose the right content type propa
 
 ## Using "Content type gallery"
 ### Pros
-- Easy to get started
-- Content types are automatically propagated to all sites in the tenant
-- SharePoint online search can surface search content based on the content type across all sites
-- Easy to update the Content type if changes are required, update of template might take some time before auto updates, but can manually be updated by site owner if needed.
-- Doesn't require much technical competency to manage
+* Easy to get started
+* Content types are automatically propagated to all sites in the tenant
+* SharePoint online search can surface search content based on the content type across all sites
+* Easy to update the Content type if changes are required, update of template might take some time before auto updates, but can manually be updated by site owner if needed.
+* Doesn't require much technical competency to manage
 
 ### Cons
-- This requires SharePoint tenant administrator right to get started, might not be a good fit for small environments.
-- Needs a strong central governance model, might not be a good fit for small environments.
+* This requires SharePoint tenant administrator right to get started, might not be a good fit for small environments.
+* Needs a strong central governance model, might not be a good fit for small environments.
 
 > [!IMPORTANT]
 > If a content type is deleted from the content type gallery the following happens:
->	- If the content type is added to a library (in use), it will be converted to a site "local content type", and will be available for that site
->	- If the content type is not added to a library, it will be removed from the site
+>	* If the content type is added to a library (in use), it will be converted to a site "local content type", and will be available for that site
+>	* If the content type is not added to a library, it will be removed from the site
 
 
 ## Using "Local Site Content type"
 ### Pros
-	- Can be created by site owner
-	- Content types can be used by all lists/library in the site
-	- Doesn't need a central governance model
+	* Can be created by site owner
+	* Content types can be used by all lists/library in the site
+	* Doesn't need a central governance model
 
 ### Cons
-	- Required that site owners "knows" what she/he's doing 
-	- Content type is not available to other sites
-	- Because it's not central managed, the Office template might not be the updated one
+	* Required that site owners "knows" what she/he's doing 
+	* Content type is not available to other sites
+	* Because it's not central managed, the Office template might not be the updated one
 
 
 > [!IMPORTANT]
@@ -186,18 +186,18 @@ Below is some Pros/Cons that should help you choose the right content type propa
 
 ## Using "PnP, Site scripts or similar methods"
 ### Pros
-- This is very flexible way to propagate content types
-- Combined with site provisioning you can create new sites with content types ready to be used
-- You can manage creations/updates/deletions without the needs of manually clicking through the *settings*, especially handy when cleaning up content types.
-- This is a better choice for large environments, with need for lots of content types
+* This is very flexible way to propagate content types
+* Combined with site provisioning you can create new sites with content types ready to be used
+* You can manage creations/updates/deletions without the needs of manually clicking through the *settings*, especially handy when cleaning up content types.
+* This is a better choice for large environments, with need for lots of content types
 
 ### Cons
-- Requires strong technical compency
-- Needs a strong central governance model, might not be a good fit for small environments.
+* Requires strong technical compency
+* Needs a strong central governance model, might not be a good fit for small environments.
 
 ## Conclusion
 
-Content types propagation are a "way" of making predefined Office templates and/or list items available to all SharePoint sites in your tenant and because Teams is using SharePoint as a backend store the templates are also available in Teams files and lists.
+Content types propagation are a *"way"* of making predefined Office templates and/or list items available to all SharePoint sites in your tenant and because Teams is using SharePoint as a backend store the templates are also available in Teams files and lists.
 If you don't have the technical ressources to make use of "PnP Scripts" to auto propagate the content types to new SharePoint sites, then I recommended the use of **"Content type gallery"** to propagate your content types.
 
 [Recommended reading: Designing solutions for scale](/microsoft-365/community/designing-solution-for-scale)
