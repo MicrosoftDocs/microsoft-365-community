@@ -8,9 +8,10 @@
 ### [Groups in Microsoft 365 and Azure, and Which is Right for You](all-about-groups.md)
 ### [What kind of apps can you build on Microsoft 365?](type-of-apps-microsoft-365.md)
 ## Microsoft 365 Better Practices
+### [Accessibility by Design](accessibility-by-design.md)
+### [Content Type Propagation](content-type-propagation.md)
 ### [OneDrive PC Folder Backup Benefits for End Users](known-folder-move-benefits-for-enduser.md)
 ### [Why Microsoft 365 adoption projects fail](why-m365-adoption-projects-fail.md)
-### [Accessibility by Design](accessibility-by-design.md)
 ## Maturity Model for Microsoft 365
 ### [Introduction](microsoft365-maturity-model--intro.md)
 ### Collaboration Competency
