@@ -46,7 +46,7 @@ landingContent:
     linkLists:
       - linkListType: learn
         links:
-        - text: Accessibility by Design
+            - text: Accessibility by Design
             url: accessibility-by-design.md
             - text: Content Type Propagation
             url: content-type-propagation.md
