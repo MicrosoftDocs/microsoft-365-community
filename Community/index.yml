@@ -46,9 +46,9 @@ landingContent:
     linkLists:
       - linkListType: learn
         links:
-            - text: Accessibility by Design
+          - text: Accessibility by Design
             url: accessibility-by-design.md
-            - text: Content Type Propagation
+          - text: Content Type Propagation
             url: content-type-propagation.md
           - text: OneDrive PC Folder Backup Benefits for End Users
             url:  known-folder-move-benefits-for-enduser.md
