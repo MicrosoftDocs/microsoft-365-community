@@ -158,7 +158,7 @@ At this maturity level organizations acknowledge compliance regulations and stan
 
 - Leadership understands and accepts the importance of governance and compliance but has not driven it into the organization nor recognized it as a business enabler.
 - Some policies have been written but are not enforced or comprehensively adopted.
-- No formal compliance roles in place. Governance, Risk and Compliance relies on individuals being responsible for actions and approaches in their own areas.
+- No formal compliance roles in place or roles have been allocated but without suitable training or assessment of competence. Governance, Risk and Compliance relies on individuals being responsible for actions and approaches in their own areas.
 - No formal GRC training; communication is ad hoc or occurs in response to a GRC event. Most employees are not aware of how governance, risk and compliance impact their daily work.
 
 #### Process (200)
@@ -201,7 +201,8 @@ Processes measured and controlled
 #### People and Culture (300)
 
 - The leadership team see compliance as essential to business continuity and may value the rigor as a business improvement tool.
-- Compliance roles and responsibilities are assigned. Where GRC sits across multiple departments and activities in the organization individuals with those roles will coordinate their activities, possibly through a Compliance committee or similar mechanism.
+- Compliance roles and responsibilities are assigned to accountable individuals, who have been trained but may lack expertise and experience. They understand the importance of the role and will reach out, reactively to legal and other experts for guidance and counsel.
+- Where GRC sits across multiple departments and activities in the organization individuals with those roles will coordinate their activities, possibly through a Compliance committee or similar mechanism.
 - A Compliance framework, in some form, has been documented and communicated to process owners. However, the implementation decisions are left to local business and system owners so GRC initiatives are managed in silos.
 - Compliance activities are frequently event driven, such as an audit or a regulatory deadline.
 - Training, education, and awareness are run annually. Staff have a broad awareness of their responsibilities.
@@ -247,8 +248,9 @@ Proactive rather than reactive
 
 #### People and Culture (400)
 
-- The leadership team sees value in continuously improving the governance, risk and compliance program. Governance, risk and compliance are factored into all business decisions.
-- Dedicated teams and individuals are in place with clearly defined roles and responsibilities. Compliance and operations teams work in partnership to assess risk and compliance.
+- The leadership team sees value in continuously improving the governance, risk and compliance program. Governance, risk and compliance are factored into all business decisions and GRC is represented at board level.
+- Dedicated teams and individuals are in place with clearly defined roles and responsibilities. The limits of competency are understood, with supporting metrics, and reflected in defined decision making authority for accountable individuals. Processes are in place to support GRC decision making when these limits are reached, with defined access to legal and other expert external advisors.
+ Compliance and operations teams work in partnership to assess risk and compliance. 
 - Compliance workloads are reduced through standardization, process improvements and use of technology.
 - Policy communications are routine and semi-automated. Most employees understand the importance of risk and compliance and their role in protecting the organization.
 - Training, education, and awareness includes annual training matched to business needs. Who has been trained in what is tracked.
@@ -297,7 +299,7 @@ Organizations at this level use technology strategically to gain operational eff
 #### People and Culture (500)
 
 - Leadership team sees value in achieving compliance as providing a strategic advantage to the organization.
-- The dedicated compliance team now includes a focus on strategy and proactively looks at regulations to understand the impact, risks and opportunities for the business.
+- The dedicated compliance team now includes a focus on strategy, is future looking, proactively identifying emerging  regulation and market change to understand the impact, risks and opportunities for the business; these are fed into the board as a basis for strategic decision making. Process improvement and continuous professional development for the accountable people is embedded int eh GRC and executive functions.
 - Collaboration between the compliance team, security team, operations teams, and system owners to ensure systems (e.g., data storage and processing systems) are secure and compliant by design.
 - Compliance workload shifts from administrative to strategic (due to automation).
 - Decision-makers becoming risk seeking rather than risk adverse, knowing that they can and must manage the risks they identify.

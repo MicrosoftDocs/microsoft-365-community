@@ -6,6 +6,26 @@
 
 Note: Changelog started in January, 2021
 
+## March, 2022
+
+### New Articles - March, 2022
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - March, 2022
+
+| Article | Updated By |
+|---|---|
+
+| [Advanced Highlighted Content Web Part](./Community/highlighted-content-web-part.md) | [Chanaka Palliyaguru](https://www.linkedin.com/in/chanakapalliyaguru/) |
+| [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | Byron Liu |
+
+### New Contributors - March, 2022
+
+- [Chanaka Palliyaguru](https://www.linkedin.com/in/chanakapalliyaguru/)
+- Byron Liu
+
 ## February, 2022
 
 ### New Articles - February, 2022
@@ -18,10 +38,12 @@ Note: Changelog started in January, 2021
 | Article | Updated By |
 |---|---|
 | [Glossary](./Community/glossary.md) | [Peter Rising, MVP](https://www.linkedin.com/in/peterrising/) |
+| [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](./Community/microsoft365-maturity-model--governance-and-compliance.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
 
 ### New Contributors - February, 2022
 
 - [Peter Rising, MVP](https://www.linkedin.com/in/peterrising/)
+- [Matt Zorich](https://www.linkedin.com/in/matthewzorich/)
 
 ## January, 2022
 
