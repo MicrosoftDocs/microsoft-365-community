@@ -46,12 +46,14 @@ landingContent:
     linkLists:
       - linkListType: learn
         links:
+          - text: Accessibility by Design
+            url: accessibility-by-design.md
+          - text: Content Type Propagation
+            url: content-type-propagation.md
           - text: OneDrive PC Folder Backup Benefits for End Users
             url:  known-folder-move-benefits-for-enduser.md
           - text: Why Microsoft 365 adoption projects fail
             url: why-m365-adoption-projects-fail.md
-          - text: Accessibility by Design
-            url: accessibility-by-design.md
   # Card (optional)
   - title: Maturity Model for Microsoft 365
     linkLists:
@@ -75,6 +77,8 @@ landingContent:
             url: microsoft365-maturity-model--management-of-content.md
           - text: Customization and Development Competency
             url: microsoft365-maturity-model--customization-and-development.md
+          - text: Governance, Risk, and Compliance Competency
+            url: microsoft365-maturity-model--governance-and-compliance.md
 
       - linkListType: how-to-guide
         links:
@@ -188,6 +192,8 @@ landingContent:
             url: power-automate-send-sharepoint-files-as-attachments.md
           - text: How can I use Learning Pathways in my organization?
             url: how-can-i-use-learning-pathways-in-my-organization.md
+          - text: Advanced Highlighted Content Web Part
+            url: highlighted-content-web-part.md
 
   # Card (optional)
   - title: Automation

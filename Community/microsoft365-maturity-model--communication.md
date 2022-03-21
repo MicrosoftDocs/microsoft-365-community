@@ -285,3 +285,7 @@ Organizations should define their desired maturity, based on their needs, circum
 - [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
+
+---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

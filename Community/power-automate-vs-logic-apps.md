@@ -20,9 +20,9 @@ ms.collection:  SPCommunity
 
 Power Automate and Azure Logic Apps are workflow services that can automate your processes, business, or system and integrate with Microsoft and 3rd party services with over 300 connectors. These powerful services are designed to get you going quickly, building the workflow between business services providing that familiarity without having the steep learning curve.
 
-**Power Automate** provides a user-friendly and focused experience within Office 365 that can easy to get end-users going once assigned an appropriate license.
+**Power Automate** provides a user-friendly and focused experience within Office 365 that can easily get end-users going once assigned an appropriate license.
 
-**Azure Logic Apps** provide the same user-friendly designer surface similar to Power Automate with the option to build complex integration solutions, utilise advanced development tools, DevOps and monitoring, if required.
+**Azure Logic Apps** provide a user-friendly designer surface similar to Power Automate with the option to build complex integration solutions, utilise advanced development tools, DevOps and monitoring, if required.
 
 Both options aim to significantly reduce the effort and quickly build and automate processes between services, allowing you to focus on higher-value tasks.
 
@@ -64,7 +64,7 @@ Since both tools have this, learning Power Automate can be easily transferrable 
 ![Power Automate Web Designer.](media\power-automate-vs-logic-apps\power-automate-example.png)
 
 **Azure Logic Apps - web based designer**
-![Mobile view of Power Automate.](media\power-automate-vs-logic-apps\azure-logic-app-example.png)
+![Azure Logic Apps - web based designer](media\power-automate-vs-logic-apps\azure-logic-app-example.png)
 
 Power Automate flows created before September 2020 can be exported to Logic Apps. If you are working with the Azure Portal it will require some knowledge of JSON, or for a friendlier experience using Visual Studio, check out the docs to consider your approach: [Export flows from Power Automate and deploy to Azure Logic Apps](/azure/logic-apps/export-from-microsoft-flow-logic-app-template)
 

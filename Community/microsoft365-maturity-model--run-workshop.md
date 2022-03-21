@@ -151,3 +151,5 @@ As before, use these to refine the action plan, redirect focus onto new areas of
 * [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
 
 ---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

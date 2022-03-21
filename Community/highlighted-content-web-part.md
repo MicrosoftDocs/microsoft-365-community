@@ -30,8 +30,7 @@ As a site owner making pages for SharePoint or Teams, you understand the value o
 
 > **Modern pages, modern web parts**
 >
-> Site Owners of may remember classic web part pages and their content rollup web parts. The Highlighted Content Web Part is the successor to the _Content Query_ and _Content Search_ web parts. The mental model is very similar.
-> HCWPs only work on Modern pages.
+> Site Owners may remember classic web part pages and their content rollup web parts. The Highlighted Content Web Part is the successor to the _Content Query_ and _Content Search_ web parts. The mental model is very similar, but HCWPs only work in modern pages.
 
 ## What should I learn?
 
@@ -57,12 +56,12 @@ Knowing what a Site Column is, and how it relates to SharePoint Search, will be 
 
 Start your _Site Column_ learning with these Microsoft Community Docs articles:
 
-- [What is a Site Column](https://docs.microsoft.com/microsoft-365/community/what-is-site-column)
+- [What is a Site Column](/microsoft-365/community/what-is-site-column)
   
-- [List Column or Site Column - Which one to choose?](https://docs.microsoft.com/microsoft-365/community/list-column-or-site-column-which-one-to-choose)
+- [List Column or Site Column - Which one to choose?](/microsoft-365/community/list-column-or-site-column-which-one-to-choose)
 
 > [!TIP]
->It is fast and easy to make a new list/library column – but if there's a chance you think you'll need to filter by it with a HCWP, make that List Column into a _Site Column_ first. Taking an existing List Column and converting them to a Site Column is a lot of manual work.
+>It is fast and easy to make a new list or library column – but if there's a chance you think you'll need to filter by it with a HCWP, create that List Column into a _Site Column_ instead. Taking an existing List Column and converting it to a Site Column can be a lot of manual work.
 
 ### 3. Managed Properties
 
@@ -70,27 +69,27 @@ Beyond the basic filter options of the HCWP (like "Title includes" or "content i
 
 For the HCWPs, the Managed Property is one of two things:
 
-1. A built-in property, no search configuration required. `IsDocument` is an example - this one lets you include/exclude documents in a query. Another built-in Managed Property is `Author` which query content based on a M365 user.
-2. A Site Column associated Managed Property - where a Site Column in a list/library is made available through SharePoint Search as a Managed Property.
+1. A built-in property, no search configuration required. `IsDocument` is an example - this one lets you include or exclude documents in a query. Another built-in Managed Property is `Author` which queries content based on the Microsoft 365 user who created (_Created By_) the object.
+2. A Site Column associated Managed Property - where a Site Column in a list or library is made available through SharePoint Search as a Managed Property. This requires some configuration.
 
-Managed Properties are available to filter and sort in HCWPs either through the regular filter interface or via the more customizable KQL and CAML interfaces. More on that later on.
+Managed Properties are available to filter and sort in HCWPs either through the regular filter interface or via the more customizable KQL and CAML interfaces. More on that later.
 
 Start your _Managed Property_ learning with this Microsoft Community Docs article:
 
-- [How do Site Columns Become Managed Properties for Search?](https://docs.microsoft.com/microsoft-365/community/how-do-site-columns-become-managed-properties-thus-available-for-search)
+- [How do Site Columns Become Managed Properties for Search?](/microsoft-365/community/how-do-site-columns-become-managed-properties-thus-available-for-search)
 
 And more here with Microsoft's documentation:
 
-- [Manage the search schema in SharePoint](https://docs.microsoft.com/sharepoint/manage-search-schema)
+- [Manage the search schema in SharePoint](/sharepoint/manage-search-schema)
   
 > [!TIP]
-> Is your recently-configured _Managed Property_ ready for HCWP filtering/sorting yet? In SharePoint Online, sometimes it takes an hour once you've mapped the Crawled Property to the Managed Property. While you're waiting, test availability via regular SharePoint Search first. If you can search for results by a Managed Property in Search, you can filter content by that same property in your HCWP.
+> Is your recently-configured _Managed Property_ ready for HCWP filtering or sorting yet? In SharePoint Online, sometimes it takes a little while once you've mapped the Crawled Property to the Managed Property before that Managed Property is available. While you're waiting, test availability via regular SharePoint Search first. If you can search for results by a Managed Property in Search, you can filter content by that same property in your HCWP.
 
 ### 4. Using KQL to query, filter, and sort
 
-Once you've added a HCWP to a page, you'll have to tell the web part _where_ to look, and _what_ to display. At first, the web part's basic filter and sort options seem like they should cover most situations. But as you progress further into more complex projects (and your users realize the capability displaying very specific content on a page) you, the site owner, may find yourself needing to build out HCWPs with Custom Queries with KQL (Keyword Query Language) .
+Once you've added a HCWP to a page, you'll have to tell the web part _where_ to look, and _what_ to display. At first, the web part's basic filter and sort options seem like they should cover most situations. But as you progress further into more complex projects (and your users realize the capability displaying very specific content on a page) you, the site owner, may find yourself needing to build out HCWPs with Custom Queries using KQL (Keyword Query Language) .
 
-Good thing you set up all those _Managed Properties_ from _Site Columns_ already. KQL filtering and sorting is the payoff for that work.
+Good thing you set up all those _Managed Properties_ from _Site Columns_ already! KQL filtering and sorting is one of the payoffs for that work.
 
 KQL runs a search over a specific area of content and returns results in your HCWP.
 
@@ -107,7 +106,7 @@ While a more complex one might look like:
 
 Start learning KQL by reading Microsoft's reference:
 
-- [KQL Syntax Reference](https://docs.microsoft.com/sharepoint/dev/general-development/keyword-query-language-KQL-syntax-reference)
+- [KQL Syntax Reference](/sharepoint/dev/general-development/keyword-query-language-KQL-syntax-reference)
 
 #### KQL Pro Tips
 
@@ -115,7 +114,7 @@ Start learning KQL by reading Microsoft's reference:
 
   `Path:"https://mytenantname.sharepoint.com/sites/HumanResources/Enrollment"`
 
-  Narrow it down further with the built-in Filetype property:
+  Narrow it down further with the built-in _Filetype_ property:
 
   `Path:"https://mytenantname.sharepoint.com/sites/HumanResources/Enrollment" AND Filetype:"XLSX"`
 
@@ -125,7 +124,7 @@ Start learning KQL by reading Microsoft's reference:
 
 ### Helpful built in syntax for HCWPs
 
-Hopefully now you understand the _why_ behind Managed Properties and KQL. Below are examples of helpful KQL search syntax terms that are all built into SharePoint Online (and probably there for your SharePoint 2019 site). They're already configured and can save a lot of time in many HCWP scenarios.
+Hopefully now you understand the _why_ behind Managed Properties and KQL. Below are examples of helpful KQL search syntax terms that are all built into SharePoint Online (and probably are there for your SharePoint 2019 site). They're already configured and can save a lot of time in many HCWP scenarios.
 
 Use these to filter and sort your content:
 
@@ -134,11 +133,13 @@ Use these to filter and sort your content:
 | `IsDocument` | True or False | Identifies if content is a Document or Page. List Items are are false here. | `IsDocument:"True"` |
 | `Filetype` | File extension | An extension, like XLSX or DOCX or PDF | `Filetype:xlsx` |
 | `Author` | Someone's name, or the SharePoint property for the current user | This more or less equates to the SharePoint 'Created By' field. | `Author:"Tricia Teams"` or `Author:{User.Name}` |
-| `Path` | A URL, or part of a URL | It might be a URL of a specific list, library, or everything in the whole tenant. | `Path: https://mytenant.sharepoint.com/sites/*` |
+| `Path` | A URL, or part of a URL | It might be a URL of a specific list, library, or everything in the whole tenant. Note you cann use wildcards ('*') here and in other KQL queries. | `Path: https://mytenant.sharepoint.com/sites/*`. |
 | `ContentType` | Text | Any available Content Type that SharePoint Search can access | `ContentType: Document` or `ContentType: EnrollmentDocs` |
 
+There are many more built in Managed Properties you can use; these are just some of the most commonly useful ones.
+
 >[!TIP]
->To _Filter a managed property_ search in the HCWP filter configuration panel will show you some of what's built in versus what's custom:
+>A _Find a managed property_ search in the HCWP filter configuration panel will show you some of what's built in versus what's custom:
 >:::image type="content" source="media/highlighted-content-web-part/hcwp04.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part user interface, where the user has searched for a managed property in the configuration panel":::
 
 ### 4. Using CAML to query and filter
@@ -163,20 +164,20 @@ An example CAML statement to filter data in a HCWP might look like:
 </Query>
 ```
 
-This is looking for a column called _Expires_, where the value is equal to _today or after_ and it's sort order is by Modified date.
+This is looking for a column called _Expires_, where the value is equal to _today or after_ and its sort order is by Modified date.
 
 Start learning CAML via Microsoft's documentation:
 
-- [Learn about CAML query schema](https://docs.microsoft.com/sharepoint/dev/schema/query-schema)
+- [Learn about CAML query schema](/sharepoint/dev/schema/query-schema)
 
 ---
 
 >[!NOTE]
 >**CAML vs KQL: Which one do I use?**
 >
->With two Custom Filter options for a Highlighted Content Web Part, picking one comes down to the type of data you're filtering. A HCWP scoped to a Document/Pages library only lets you filter with CAML, while all other scopes let you filter with KQL.
+>With two Custom Filter options for a Highlighted Content Web Part, picking one comes down to the type of data you're filtering. A HCWP scoped to a single list or Document/Pages library only lets you filter with CAML, while all other scopes let you filter with KQL.
 >
->In many scenarios, KQL  _might be able to do everything you need,_ and may be easier to write versus long, complex nested CAML queries. 
+>In many scenarios, KQL  _might be able to do everything you need,_ and may be easier to write versus long, complex nested CAML queries.
 > If you want to use KQL in a document library, just set the query to the site (rather than a particular library) and scope it with the `Path` managed property.
 
 ---
@@ -232,7 +233,7 @@ As the person setting up the HCWP:
    :::column-end:::
 :::row-end:::
 
-And that should be all you need to do. If you've uploaded and tagged your documents correctly, added the right values to the site columns, and configured Managed/Crawled properties correctly, you'll see three docs displaying in the web part.
+And that should be all you need to do. If you've uploaded and tagged your documents, added the right values to the Site Columns, and configured the Managed Properties correctly, you'll see three docs displaying in the web part.
 
 #### Setup up with _KQL_
 
@@ -259,30 +260,22 @@ Using SharePoint metadata columns in libraries to indicate *benefit type* and *y
 In this scenario we'll assume:
 
 - Our single HCWP will appear on a page in a Communications Site.
-
 - A single SharePoint Document Library with extra two columns – a date one for *year*, and a choice one for *benefit type*.
-
 - Since this is a formal process, you'll make a new Content Type and Site Columns up front.
-
 - You, the site owner, will manually change the dates in the queries when enrollment season starts and ends.
 
 Scenario library setup:
 
 1. Create a library
-
 2. Create Content Type
-
 3. Create site columns for _Year_ and _Benefit Type_ columns and add those to your Content Type.
-
-4. Add the new Content Type to library. (This should also add your site columns.)
-
+4. Enable the new Content Type in the library. (This will also add your Site Columns.)
 5. In Site Collection Search, map the Crawled Properties to Managed Properties for both Site Columns. Pay special attention to the *Year* column, which needs to be a date/time Managed Property.
-
 6. Add documents to the library, and make sure you populate the *Benefit Type* and *Year* values.
-
 7. Go get a coffee or tea and wait for SharePoint Search to crawl your library and site columns.
 
 Your new library might look like:
+
 | **Name** | **Year** | **Benefit Type** | **Content Type** |
 | --- | --- | --- | --- |
 | Dental for Annual Enrollment.docx | 1/1/2023 | Dental | Enrollment |
@@ -329,8 +322,8 @@ This is probably the easiest approach. We'll use three filters to meet this cust
 Set source to _All Sites._ First filter with be using the built-in Managed Property of `Path`.
 
 :::row:::
-   :::column span="":::
-    :::image type="content" source="media/highlighted-content-web-part/hcwp05.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part configuration panel where content is filtered":::
+     :::column span="":::
+      :::image type="content" source="media/highlighted-content-web-part/hcwp05.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part, where content is filtered by the Path":::
    :::column-end:::
      :::column span="":::
       :::image type="content" source="media/highlighted-content-web-part/hcwp06.png" alt-text="Screenshot of SharePoint Highlighted Content Web Part, where content is filtered by the content Idaho":::
@@ -377,9 +370,9 @@ The time you invest in learning the HCWP will help you in other areas of the Mic
 
 - [CAML Query Examples in SharePoint](https://www.spguides.com/caml-query-builder/) from SPGuides.com
 
-- [How Do Site Columns Become Managed Properties - Thus Available for Search](https://docs.microsoft.com/microsoft-365/community/how-do-site-columns-become-managed-properties-thus-available-for-search) from Microsoft Community Docs
+- [How Do Site Columns Become Managed Properties - Thus Available for Search](/microsoft-365/community/how-do-site-columns-become-managed-properties-thus-available-for-search) from Microsoft Community Docs
 
-- [Crawled and Managed Properties Overview](https://docs.microsoft.com/sharepoint/technical-reference/crawled-and-managed-properties-overview) from Microsoft
+- [Crawled and Managed Properties Overview](/sharepoint/technical-reference/crawled-and-managed-properties-overview) from Microsoft
 
 - [How to Display a list of sites on a Modern Web Part page](https://social.technet.microsoft.com/wiki/contents/articles/53252.sharepoint-how-to-display-a-list-of-sub-sites-on-a-modern-site-page.aspx) from TechNet
 
@@ -390,3 +383,5 @@ The time you invest in learning the HCWP will help you in other areas of the Mic
 ---
 
 **Principal author**: [Patrick M. Doran](https://www.linkedin.com/in/PatrickDoran). Thanks to Emily Mancini for contributing scenario examples.
+
+---

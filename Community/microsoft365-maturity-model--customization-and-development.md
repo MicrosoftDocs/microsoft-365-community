@@ -14,6 +14,8 @@ ms.collection: SPCommunity
 
 # The Microsoft 365 Maturity Model - Customization and Development Competency
 
+![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
+
 ## Overview of the Concepts [tl;dr]
 
 Traditionally, there has been a reliance on 'deep' or 'pro' development to build business solutions. Any gaps in availability of these skills have commonly been filled by 'shadow IT' approaches and unmanaged applications.
@@ -407,3 +409,7 @@ Customization and development can only contribute maximally to the organization 
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
+
+---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]

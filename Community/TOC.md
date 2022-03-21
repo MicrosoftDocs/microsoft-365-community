@@ -8,9 +8,10 @@
 ### [Groups in Microsoft 365 and Azure, and Which is Right for You](all-about-groups.md)
 ### [What kind of apps can you build on Microsoft 365?](type-of-apps-microsoft-365.md)
 ## Microsoft 365 Better Practices
+### [Accessibility by Design](accessibility-by-design.md)
+### [Content Type Propagation](content-type-propagation.md)
 ### [OneDrive PC Folder Backup Benefits for End Users](known-folder-move-benefits-for-enduser.md)
 ### [Why Microsoft 365 adoption projects fail](why-m365-adoption-projects-fail.md)
-### [Accessibility by Design](accessibility-by-design.md)
 ## Maturity Model for Microsoft 365
 ### [Introduction](microsoft365-maturity-model--intro.md)
 ### Collaboration Competency
@@ -29,6 +30,7 @@
 ### [Business Process Competency](microsoft365-maturity-model--business-process.md)
 ### [Management of Content Competency](microsoft365-maturity-model--management-of-content.md)
 ### [Customization and Development Competency](microsoft365-maturity-model--customization-and-development.md)
+### [Governance, Risk, and Compliance Competency](microsoft365-maturity-model--governance-and-compliance.md)
 ### [How to run a Maturity Model for Microsoft 365 workshop](microsoft365-maturity-model--run-workshop.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
@@ -75,6 +77,7 @@
 ### [Document Lifecycle Scenarios](document-lifecycle-scenarios.md)
 ### [Power Automate - Send SharePoint files as attachments](power-automate-send-sharepoint-files-as-attachments.md)
 ### [How can I use Learning Pathways in my organization?](how-can-i-use-learning-pathways-in-my-organization.md)
+### [Advanced Highlighted Content Web Part](highlighted-content-web-part.md)
 ## Automation
 ### [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
 ### [Should everyone create Teams? A Low Code Provisioning solution](should-everyone-create-teams.md)

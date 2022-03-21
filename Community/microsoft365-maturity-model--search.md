@@ -335,3 +335,7 @@ Organizations should capture success stories to provide examples of the benefits
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit)
+
+---
+
+[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]
