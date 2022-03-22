@@ -260,30 +260,22 @@ Using SharePoint metadata columns in libraries to indicate *benefit type* and *y
 In this scenario we'll assume:
 
 - Our single HCWP will appear on a page in a Communications Site.
-
 - A single SharePoint Document Library with extra two columns – a date one for *year*, and a choice one for *benefit type*.
-
 - Since this is a formal process, you'll make a new Content Type and Site Columns up front.
-
 - You, the site owner, will manually change the dates in the queries when enrollment season starts and ends.
 
 Scenario library setup:
 
 1. Create a library
-
 2. Create Content Type
-
 3. Create site columns for _Year_ and _Benefit Type_ columns and add those to your Content Type.
-
 4. Enable the new Content Type in the library. (This will also add your Site Columns.)
-
 5. In Site Collection Search, map the Crawled Properties to Managed Properties for both Site Columns. Pay special attention to the *Year* column, which needs to be a date/time Managed Property.
-
 6. Add documents to the library, and make sure you populate the *Benefit Type* and *Year* values.
-
 7. Go get a coffee or tea and wait for SharePoint Search to crawl your library and site columns.
 
 Your new library might look like:
+
 | **Name** | **Year** | **Benefit Type** | **Content Type** |
 | --- | --- | --- | --- |
 | Dental for Annual Enrollment.docx | 1/1/2023 | Dental | Enrollment |

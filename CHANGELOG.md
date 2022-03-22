@@ -6,6 +6,28 @@
 
 Note: Changelog started in January, 2021
 
+## March, 2022
+
+### New Articles - March, 2022
+
+| Article | Principal Author |
+|---|---|
+
+| [Content Type Propagation](./Community/content-type-propagation.md) | [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
+
+### Updated Articles - March, 2022
+
+| Article | Updated By |
+|---|---|
+
+| [Advanced Highlighted Content Web Part](./Community/highlighted-content-web-part.md) | [Chanaka Palliyaguru](https://www.linkedin.com/in/chanakapalliyaguru/) |
+| [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | Byron Liu |
+
+### New Contributors - March, 2022
+
+- [Chanaka Palliyaguru](https://www.linkedin.com/in/chanakapalliyaguru/)
+- Byron Liu
+
 ## February, 2022
 
 ### New Articles - February, 2022
