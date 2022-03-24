@@ -49,46 +49,57 @@ https://docs.microsoft.com/en-us/search/?terms=document%20sets
 
 Here's an example of multiple filtering with two keys (_products_ and _languages_) with their corresponding values (_m365_ and _javascript):_
 
-[<https://docs.microsoft.com/en-us/samples/browse/>
+```html
+https://docs.microsoft.com/en-us/samples/browse
 
-](<https://docs.microsoft.com/en-us/samples/browse/>)[https://docs.microsoft.com/en-us/samples/browse/?products=m365&amp;languages=javascript](https://docs.microsoft.com/en-us/samples/browse/?products=m365&amp;languages=javascript)
+https://docs.microsoft.com/en-us/samples/browse?products=m365&languages=javascript
+```
 
 This same page loads different content with different values (_ms-graph_ and _html_)
-[https://docs.microsoft.com/en-us/samples/browse/?products=ms-graph&amp;languages=html](https://docs.microsoft.com/en-us/samples/browse/?products=ms-graph&amp;languages=html)
+
+```html
+https://docs.microsoft.com/en-us/samples/browse/?products=ms-graph&amp;languages=html
+```
 
 How does this mental modal of URL-as-page-transformer work in Microsoft 365? Keep reading!
 
-### Put a Modern SharePoint page into Edit mode
+## Put a Modern SharePoint page into Edit mode
 
 Any Modern SharePoint Online page can be placed into **Edit** Mode by adding this query string URL: ?Mode=Edit
 
-https://\&lt;yoursite\&gt;.sharepoint.com/sites/\&lt;sitename\&gt;/SitePages/default.aspx
+```html
+https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx
 
-https://\&lt;yoursite\&gt;.sharepoint.com/sites/\&lt;sitename\&gt;/SitePages/default.aspx?Mode=Edit
+https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?Mode=Edit
+```
 
 This isn't really _easier_ than clicking the button on the page, but it's a good example of changing a page's look or function dramatically with a URL query string.
 
-The spaces in-between
+> [!TIP]
+> **Spaces**: The URL, like the one in your browser's address bar, usually support spaces. So something like `?terms=policy security` works just fine. Where it _might not_ work consistently is when you share the URL via Email, text or Teams by copying and pasting it. As a best practice, replace any space in your URL query string with a *%20*, like `?terms=policy%20security`.  Safety first.
 
-The URL, like the one in your browser's address bar right now, usually support spaces. So something like ?terms=policy security works just fine. Where it doesn't work is when you share the URL via Email, text or Teams by copying and pasting it. As a best practice, replace any space in your URL query string with a %20, like ?terms=policy%20security.
-
-### Put a Modern SharePoint page into Maintenance mode
+## Put a Modern SharePoint page into Maintenance mode
 
 Any Modern SharePoint Online page, like:
 
-https://\&lt;yoursite\&gt;.sharepoint.com/sites/\&lt;sitename\&gt;/SitePages/default.aspx
+```html
+https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx
+```
 
  … can be placed into _Maintenance Mode_ by adding this URL query string: ?maintenancemode=true
 
-https://\&lt;yoursite\&gt;.sharepoint.com/sites/\&lt;sitename\&gt;/SitePages/default.aspx?maintenancemode=true
+```html
+https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?maintenancemode=true
+```
 
- This gives you a behind-the-scenes view of the web parts on the page, and the data being sent back and forth between the page and the browser. This tool is helpful for diagnosing issues with pages including those using the SharePoint Framework (SPFX).
+This gives you a behind-the-scenes view of the web parts on the page, and the data being sent back and forth between the page and the browser. This tool is helpful for diagnosing issues with pages including those using the SharePoint Framework (SPFX).
 
-Read the official documentation on this here: [https://docs.microsoft.com/sharepoint/dev/general-development/client-side-web-parts-maintenance-mode](https://docs.microsoft.com/sharepoint/dev/general-development/client-side-web-parts-maintenance-mode)
+Read the official documentation on this here: 
+[https://docs.microsoft.com/sharepoint/dev/general-development/client-side-web-parts-maintenance-mode](https://docs.microsoft.com/sharepoint/dev/general-development/client-side-web-parts-maintenance-mode)
 
-### Put (nearly) anything SharePoint into a focused mode
+## Put (nearly) anything SharePoint into a focused mode
 
-In the _Classic_ SharePoint days, there was a way to create a focused view of just content by appending _isDLg=1_ as a URL query string. Those days are in the rearview, but there's an updated version for Modern SharePoint
+In the _Classic_ SharePoint days, there was a way to create a focused view of just content by appending `isDLg=1` as a URL query string. Those days are in the rearview, but there's an updated version for Modern SharePoint
 
 **?env=Embedded**
 
@@ -101,10 +112,13 @@ This hides the main navigation, side navigation (and App bar) on just about anyt
 - Recycle Bin
 
 For example in a list it would be:
-https://\&lt;yoursite\&gt;.sharepoint.com/sites/\&lt;sitename\&gt;/Lists/\&lt;yourlistname\&gt;/allitems.aspx?env=Embedded
+
+```html
+https://<yoursite>.sharepoint.com/sites/<sitename>/Lists/<yourlistname>/allitems.aspx?env=Embedded
+```
 
 In a page it would be:
-https://\&lt;yoursite\&gt;.sharepoint.com/sites/\&lt;sitename\&gt;/SitePages/default.aspx?env=Embedded
+https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?env=Embedded
 
 ### Make any SharePoint List into a _Microsoft Lists_ list
 
@@ -112,14 +126,14 @@ If you've been building in Microsoft 365 for a while, you're probably used to wo
 
 Take your list, remove any existing query string content on the end down to this:
 
- https://\&lt;yoursite\&gt;.sharepoint.com/sites/\&lt;sitename\&gt;/Lists/\&lt;yourlistname\&gt;/allitems.aspx
+ https://<yoursite>.sharepoint.com/sites/<sitename>/Lists/<yourlistname>/allitems.aspx
 
  … and append this to the end:
 
 ?env=WebViewList
 
 Like this:
- https://\&lt;yoursite\&gt;.sharepoint.com/sites/\&lt;sitename\&gt;/Lists/\&lt;yourlistname\&gt;/allitems.aspx?env=WebViewList
+ https://<yoursite>.sharepoint.com/sites/<sitename>/Lists/<yourlistname>/allitems.aspx?env=WebViewList
 
 That's it! Now your SharePoint list displays in Microsoft Lists. This is a great way to maximize screen real estate and help focus people during collaboration. This list remains housed in its SharePoint site, but now with all the user interface polish of Microsoft Lists.
 
@@ -135,21 +149,21 @@ Within the Modern user interface, the search bar sets its context (or scope) to 
 
  Here's my list:
 
-https://\&lt;greatsharepointsite\&gt;.sharepoint.com/sites/Lists/\&lt;ListName\&gt;/AllItems.aspx
+https://<greatsharepointsite>.sharepoint.com/sites/Lists/<ListName>/AllItems.aspx
 
 Here it is after a search for the phrase _tax documents_:
 
-https://\&lt;greatsharepointsite\&gt;.sharepoint.com/sites/Lists/\&lt;ListName\&gt;/AllItems.aspx?view=7&amp;q=tax%20documents
+https://<greatsharepointsite>.sharepoint.com/sites/Lists/<ListName>/AllItems.aspx?view=7&amp;q=tax%20documents
 
 And if you change the value of the _q_ key in the URL query string, the page will change:
 
- https://\&lt;greatsharepointsite\&gt;.sharepoint.com/sites/Lists/\&lt;ListName\&gt;/AllItems.aspx?view=7&amp;q=consultants
+ https://<greatsharepointsite>.sharepoint.com/sites/Lists/<ListName>/AllItems.aspx?view=7&amp;q=consultants
 
 You can share this link, in a way that works almost like a SharePoint view.
 
  Kick things up a notch by also adding the focused-mode query string filter in combination, like:
 
-https://\&lt;greatsharepointsite\&gt;.sharepoint.com/sites/Lists/\&lt;ListName\&gt;/AllItems.aspx?view=7&amp;q=engineering&amp;env=Embedded
+https://<greatsharepointsite>.sharepoint.com/sites/Lists/<ListName>/AllItems.aspx?view=7&amp;q=engineering&amp;env=Embedded
 
 ###
 
@@ -157,7 +171,7 @@ https://\&lt;greatsharepointsite\&gt;.sharepoint.com/sites/Lists/\&lt;ListName\&
 
 You can troubleshoot a SharePoint page to see if there is a SharePoint Framework (SPFx) extension or web part causing trouble. Add this ?disable3PCode=1 to the URL to disable loading of anything SPFx:
 
-https://\&lt;yoursite\&gt;.sharepoint.com/sites/\&lt;sitename\&gt;/SitePages/default.aspx?disable3PCode=1
+https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?disable3PCode=1
 
 Read the official documentation on this: [https://docs.microsoft.com/sharepoint/dev/general-development/client-side-web-parts-maintenance-mode#disable-spfx-web-parts-and-extensions](https://docs.microsoft.com/sharepoint/dev/general-development/client-side-web-parts-maintenance-mode#disable-spfx-web-parts-and-extensions)
 
@@ -171,7 +185,7 @@ A use-case might be using Power Automate Flow to Email a list view status report
 
 The basic syntax for this is:
 
-?useFiltersInViewXml=1&amp;FilterField1 **=\&lt;internalFieldName\&gt;** &amp;FilterValue1= **\&lt;value\&gt;**
+?useFiltersInViewXml=1&amp;FilterField1 **=<internalFieldName>** &amp;FilterValue1= **<value>**
 
 - The FilterField key needs to be the internal name of the SharePoint column. If you rename 'Title' to 'Product' in your list, you'll need to use 'Title' in your query string URL.
 
