@@ -64,21 +64,17 @@ Any Modern SharePoint Online page can be placed into **Edit** Mode by adding thi
 This isn't really _easier_ than clicking the button on the page, but it's a good example of changing a page's look or function dramatically with a URL query string.
 
 > [!TIP]
-> The URL, like the one in your browser's address bar, usually support spaces. So something like `?terms=policy security` works just fine. Where it _might not_ work consistently is when you share the URL via Email, text or Teams by copying and pasting it. As a best practice, replace any space in your URL query string with a `%20`, like `?terms=policy%20security`.  Safety first.
+> **Sharing (links) is caring** - The URL, like the one in your browser's address bar, usually support spaces. So something like `?terms=policy security` works just fine. Where it _might not_ work consistently is when you share the URL via Email, text or Teams by copying and pasting it. As a best practice, replace any space in your URL query string with a `%20`, like `?terms=policy%20security`. _Safety first_.
 
 ## Put a Modern SharePoint page into Maintenance mode
 
 Any Modern SharePoint Online page, like:
 
-```html
-https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx
-```
+`https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx`
 
  … can be placed into _Maintenance Mode_ by adding this URL query string: `?maintenancemode=true`
 
-```html
-https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?maintenancemode=true
-```
+`https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?maintenancemode=true`
 
 This gives you a behind-the-scenes view of the web parts on the page, and the data being sent back and forth between the page and the browser. This tool is helpful for diagnosing issues with pages including those using the SharePoint Framework (SPFX).
 
@@ -109,15 +105,13 @@ In a page it would be:
 https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?env=Embedded
 ```
 
-## Make any SharePoint List into a _Microsoft Lists_ list
+## Make any SharePoint list into a _Microsoft Lists_ list
 
 If you've been building in Microsoft 365 for a while, you're probably used to working in SharePoint sites with pages, web parts, workflows, and navigations. Sometimes you just want to share the context of a single list or library within that site – and with a URL query string you can do just that.
 
-Take your list, remove any existing query string content on the end down to this:
+Take your list, remove any existing query string on the end down to this:
 
- ```html
-https://<yoursite>.sharepoint.com/sites/<sitename>/Lists/<yourlistname>/allitems.aspx
-```
+`https://<yoursite>.sharepoint.com/sites/<sitename>/Lists/<yourlistname>/allitems.aspx`
 
  …and append this to the end of it:
 
@@ -125,17 +119,16 @@ https://<yoursite>.sharepoint.com/sites/<sitename>/Lists/<yourlistname>/allitems
 
 Like this:
 
-```html
- https://<yoursite>.sharepoint.com/sites/<sitename>/Lists/<yourlistname>/allitems.aspx?env=WebViewList
-```
+`https://<yoursite>.sharepoint.com/sites/<sitename>/Lists/<yourlistname>/allitems.aspx?env=WebViewList`
 
-That's it! Now your SharePoint list displays in Microsoft Lists. This is a great way to maximize screen real estate and help focus people during collaboration. This list remains housed in its SharePoint site, but now with all the user interface polish of Microsoft Lists.
+That's it! Now your SharePoint list displays in Microsoft Lists. This is a great way to maximize screen real estate and help focus people during collaboration. This list remains housed in the original SharePoint site, but now with all the user interface polish of Microsoft Lists.
 
-Filter, and filter some more
-
-Sometimes you need to apply two URL query string filters to the same URL – two keys and two values. The format for that is generally to use the question mark first, and the ampersand for every additional key/value pair, like:
-
-`page.aspx?mykey=myvalue&thisotherkey=someothervalue`
+>[!TIP]
+>**Filter your filters**
+>Sometimes you need to apply **two** or more query string filters to the same URL – two keys and two values. The format for that is generally to use the question mark (`?`) first, and the ampersand (`&`) for every additional key/value pair.
+>
+>Example:
+> `page.aspx?mykey=myvalue&thisotherkey=someothervalue`
 
 ## Create a link to a List or Library Search Result
 
@@ -158,7 +151,6 @@ You can share this link, in a way that works almost like a SharePoint list view.
 Kick things up a notch by also adding the focused-mode query string filter in combination, like:
 
 `https://<greatsharepointsite>.sharepoint.com/sites/Lists/<ListName>/AllItems.aspx?view=7&q=engineering&env=Embedded`
-
 
 ## Debug SharePoint Framework web parts and extensions
 
@@ -194,12 +186,17 @@ The basic syntax for this is:
 ?useFiltersInViewXml=1&FilterField1=[internalFieldName]&FilterValue1=[value]&FilterField2=[internalFieldName2]&FilterValue2=[value]&FilterField3=[internalFieldName3]&FilterValue3=[value]
 ```
 
-Further reading on the subject from the experts:
+### Further view filter reading from the experts
 
 - Nate Chamberlain: [https://natechamberlain.com/2020/05/09/how-to-filter-a-sharepoint-list-or-library-using-url-parameters/](https://natechamberlain.com/2020/05/09/how-to-filter-a-sharepoint-list-or-library-using-url-parameters/)
 
 - Piyush K Singh: [https://piyushksingh.com/2019/05/24/generate-modern-list-filter-url-managed-metadata/](https://piyushksingh.com/2019/05/24/generate-modern-list-filter-url-managed-metadata/)
 
+## Conclusion?this=article
+
+This article has hopefully given you awareness of the hidden power of query string URLs, and how they can let the _platform_ do the work for you.
+
+If you know others useful filters like these, you should consider contributing them to these Microsoft Community Content documents. You can open an issue in the [GitHub](https://github.com/MicrosoftDocs/microsoft-365-community) repo, or submit your own pull request!
 
 ---
 
