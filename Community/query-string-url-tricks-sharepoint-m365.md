@@ -15,11 +15,11 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-The URL is a core tenant of our online lives. Despite all the apps, browsers, and tools that obfuscate it, behind the scenes the internet is glued together by the Uniform Resource Locator (URL). The data that populates the Teams app on your phone wouldn't make it there without the URL of the Graph API URL endpoint.
+The URL is a core tenant of our online lives. Despite all the apps, browsers, and tools that occasionally obfuscate it, behind the scenes the internet is glued together by the Uniform Resource Locator (URL). The data that populates the Teams app on your phone wouldn't make it there without the URL of the Graph API URL endpoint.
 
 As a site owner or M365 admin, you'll see URLs all the time – SharePoint sites, Microsoft Forms, shared links, and even application shortcuts like `https://office.com/launch/onedrive`.
 
-This article will cover a some powerful parameters you can stick on the end of a URL to make your job easier, and to give you more options in solving problems.
+This article will cover some powerful parameters that you can stick on the end of a URL to make your job easier, and to give you more options in solving problems.
 
 ## The thing about query strings is… they are everywhere
 
@@ -35,21 +35,23 @@ What about this URL?
 
 `https://docs.microsoft.com/search/?terms=community%20content`
 
-It has a **?** at the and with a key (_term_) and a value (_community content_). This is a **query string URL.** Based on the key and value in it, it filters or updates the page to show different content.
+It has a **?** at the and with a key (_term_) and a value (_community content_). This is a **query string URL.** Based on the key and value in it, we can infer that it filters or updates the page to show different content.
 
-You can change the value (and hit _return_) and the page content is different. You did all the filtering in the address bar of the browser:
+You can change the value in your address bar (and hit _return_) and the page content will be different. Example:
 
-`https://docs.microsoft.com/en-us/search/?terms=large%lists`
+`https://docs.microsoft.com/search/?terms=large%lists`
+
+### Multiple filters
 
 Here's an example of multiple filtering with two keys (_products_ and _languages_) with their corresponding values (_m365_ and _javascript_):
 
-`https://docs.microsoft.com/en-us/samples/browse`
+`https://docs.microsoft.com/samples/browse`
 
-`https://docs.microsoft.com/en-us/samples/browse?products=m365&languages=javascript`
+`https://docs.microsoft.com/samples/browse?products=m365&languages=javascript`
 
-This same page loads different content with different values (_ms-graph_ and _html_)
+And here's that same page loads different content with different values (_ms-graph_ and _html_)
 
-`https://docs.microsoft.com/en-us/samples/browse/?products=ms-graph&languages=html`
+`https://docs.microsoft.com/samples/browse/?products=ms-graph&languages=html`
 
 How does this mental modal of URL-as-page-transformer work in Microsoft 365? Keep reading!
 
@@ -95,15 +97,11 @@ This hides the main navigation, footer, side navigation (and App bar) on just ab
 
 For example in a list it would be:
 
-```html
-https://<yoursite>.sharepoint.com/sites/<sitename>/Lists/<yourlistname>/allitems.aspx?env=Embedded
-```
+`https://<yoursite>.sharepoint.com/sites/<sitename>/Lists/<yourlistname>/allitems.aspx?env=Embedded`
 
 In a page it would be:
 
-```html
-https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?env=Embedded
-```
+`https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?env=Embedded`
 
 ## Make any SharePoint list into a _Microsoft Lists_ list
 
@@ -124,8 +122,7 @@ Like this:
 That's it! Now your SharePoint list displays in Microsoft Lists. This is a great way to maximize screen real estate and help focus people during collaboration. This list remains housed in the original SharePoint site, but now with all the user interface polish of Microsoft Lists.
 
 >[!TIP]
->**Filter your filters**
->Sometimes you need to apply **two** or more query string filters to the same URL – two keys and two values. The format for that is generally to use the question mark (`?`) first, and the ampersand (`&`) for every additional key/value pair.
+>**Filter your filters** - Sometimes you need to apply **two** or more query string filters to the same URL – two keys and two values. The format for that is generally to use the question mark (`?`) first, and the ampersand (`&`) for every additional key/value pair.
 >
 >Example:
 > `page.aspx?mykey=myvalue&thisotherkey=someothervalue`
@@ -154,7 +151,7 @@ Kick things up a notch by also adding the focused-mode query string filter in co
 
 ## Debug SharePoint Framework web parts and extensions
 
-You can troubleshoot a SharePoint page to see if there is a SharePoint Framework (SPFx) extension or web part causing trouble. Add this `?disable3PCode=1` to the end of the URL to disable loading of anything SPFx:
+You can troubleshoot a SharePoint page to see if there is a SharePoint Framework (SPFx) extension or web part causing trouble. Add this `?disable3PCode=1` to the end of the URL to disable loading anything SPFx-related:
 
 `https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?disable3PCode=1`
 
@@ -170,6 +167,8 @@ The basic syntax for this is:
 
 `?useFiltersInViewXml=1&FilterField1=<internalFieldName>&FilterValue1=<value>`
 
+(No `<` `>` brackets, you'd type the actual column value)
+
 - The `useFiltersInViewXml=1` tells the List or Library you're appending some filtering criteria.
 - The `FilterField` key needs to be the internal name of the SharePoint column. If you rename 'Title' to 'Product' in your list, you'll need to use 'Title' in your query string URL.
 
@@ -182,11 +181,13 @@ The basic syntax for this is:
 
 - You can filter by multiple keys/values by incrementing the numbers, like this:
 
-```html
+`
 ?useFiltersInViewXml=1&FilterField1=[internalFieldName]&FilterValue1=[value]&FilterField2=[internalFieldName2]&FilterValue2=[value]&FilterField3=[internalFieldName3]&FilterValue3=[value]
-```
+`
 
 ### Further view filter reading from the experts
+
+The list/library view filtering capabilties are extensive. These articles go into further detail, including filtering with managed metadata.
 
 - Nate Chamberlain: [https://natechamberlain.com/2020/05/09/how-to-filter-a-sharepoint-list-or-library-using-url-parameters/](https://natechamberlain.com/2020/05/09/how-to-filter-a-sharepoint-list-or-library-using-url-parameters/)
 
@@ -194,7 +195,7 @@ The basic syntax for this is:
 
 ## Conclusion?this=article
 
-This article has hopefully given you awareness of the hidden power of query string URLs, and how they can let the _platform_ do the work for you.
+This article has hopefully given you awareness of the hidden power of query string URLs, and how they can let the platform do some of the work for you.
 
 If you know others useful filters like these, you should consider contributing them to these Microsoft Community Content documents. You can open an issue in the [GitHub](https://github.com/MicrosoftDocs/microsoft-365-community) repo, or submit your own pull request!
 
