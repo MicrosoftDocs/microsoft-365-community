@@ -16,7 +16,7 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-Best practices and strategies for building and operating large SharePoint Lists and Libraries well above the item limit threshold
+Best practices and strategies for building and operating large SharePoint Lists and Libraries well above the item limit threshold.
 
 ## Summary
 
