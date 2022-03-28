@@ -15,11 +15,11 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-The URL is a core tenant of our online lives. Despite all the apps, browsers, and tools that occasionally obfuscate it, behind the scenes the internet is glued together by the Uniform Resource Locator (URL). The data that populates the Teams app on your phone wouldn't make it there without the URL of the Graph API URL endpoint.
+The URL is a core tenant of our online lives. Despite all the apps, browsers, and tools that occasionally obfuscate it, behind the scenes the internet is glued together in part by the Uniform Resource Locator (URL). The data that populates the Teams app on your phone wouldn't make it there without the URL of the Graph API endpoint.
 
 As a site owner or M365 admin, you'll see URLs all the time – SharePoint sites, Microsoft Forms, shared links, and even application shortcuts like `https://office.com/launch/onedrive`.
 
-This article will cover some powerful parameters that you can stick on the end of a URL to make your job easier, and to give you more options in solving problems.
+This article will cover some powerful parameters that you can stick on the tail end of a URL to change what's shown on the page... and to make your job easier. These URL parameters will give you more options in solving problems.
 
 ## The thing about query strings is… they are everywhere
 
@@ -35,9 +35,9 @@ What about this URL?
 
 `https://docs.microsoft.com/search/?terms=community%20content`
 
-It has a **?** at the and with a key (_term_) and a value (_community content_). This is a **query string URL.** Based on the key and value in it, we can infer that it filters or updates the page to show different content.
+It has a **?** at the and with a key (_terms_) and a value (_community content_). This is a **query string URL.** Based on the key and value in it, we can infer that it might affect or influence the page to show different content.
 
-You can change the value in your address bar (and hit _return_) and the page content will be different. Example:
+In this example, we can change the value in your address bar (and hit _return_) and the page content will be different. Example:
 
 `https://docs.microsoft.com/search/?terms=large%lists`
 
@@ -53,7 +53,7 @@ And here's that same page loads different content with different values (_ms-gra
 
 `https://docs.microsoft.com/samples/browse/?products=ms-graph&languages=html`
 
-How does this mental modal of URL-as-page-transformer work in Microsoft 365? Keep reading!
+How does this mental modal of _URL-as-page-transformer_ work in Microsoft 365? Keep reading!
 
 ## Put a Modern SharePoint page into Edit mode
 
@@ -63,10 +63,12 @@ Any Modern SharePoint Online page can be placed into **Edit** Mode by adding thi
 
 `https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?Mode=Edit`
 
-This isn't really _easier_ than clicking the button on the page, but it's a good example of changing a page's look or function dramatically with a URL query string.
+This isn't really _easier_ than clicking the button on the page, but it's a good example of changing a page's look or function dramatically with a query string URL.
 
 > [!TIP]
-> **Sharing (links) is caring** - The URL, like the one in your browser's address bar, usually support spaces. So something like `?terms=policy security` works just fine. Where it _might not_ work consistently is when you share the URL via Email, text or Teams by copying and pasting it. As a best practice, replace any space in your URL query string with a `%20`, like `?terms=policy%20security`. _Safety first_.
+> **Sharing (links) is caring** - The URL, like the one in your browser's address bar, usually support spaces. So something like `?terms=policy security` works just fine. Where it _might not_ work consistently is when you share the URL via Email, text or Teams by copying and pasting it. As a best practice, replace any space in your URL query string with a `%20`, like `?terms=policy%20security`.
+>
+>_Safety first_.
 
 ## Put a Modern SharePoint page into Maintenance mode
 
@@ -74,7 +76,7 @@ Any Modern SharePoint Online page, like:
 
 `https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx`
 
- … can be placed into _Maintenance Mode_ by adding this URL query string: `?maintenancemode=true`
+ … can be placed into _Maintenance Mode_ by adding this query string to the URL: `?maintenancemode=true`
 
 `https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?maintenancemode=true`
 
@@ -85,7 +87,7 @@ Read the official documentation on this here:
 
 ## Put (nearly) anything SharePoint into a focused mode
 
-In the _Classic_ SharePoint days, there was a way to create a focused view of just content by appending `isDLg=1` as a URL query string. Those days are in the rearview, but there's an updated version for Modern SharePoint: `?env=Embedded`
+In the _Classic_ SharePoint days, there was a way to create a focused view of just content by appending `isDLg=1` as a query string to your URL. Those days are in the rear-view, but there's an updated version for Modern SharePoint: `?env=Embedded`
 
 This hides the main navigation, footer, side navigation (and App bar) on just about anything in your SharePoint site, including:
 
@@ -129,9 +131,9 @@ That's it! Now your SharePoint list displays in Microsoft Lists. This is a great
 
 ## Create a link to a List or Library Search Result
 
-Within the Modern user interface, the search bar sets its context (or scope) to the List or Library you're in. When you perform a search, it appends a URL query string filter of the results.
+Within the Modern user interface, the search bar sets its context (or scope) to the List, Library, or site you're in. When you perform a search from a list or library, it appends a query string of the search term to the URL. This link is sharable/bookmarkable.
 
- Here's my list:
+Here's my example list:
 
 `https://<greatsharepointsite>.sharepoint.com/sites/Lists/<ListName>/AllItems.aspx`
 
@@ -139,9 +141,9 @@ Here it is after a search for the phrase _tax documents_:
 
 `https://<greatsharepointsite>.sharepoint.com/sites/Lists/<ListName>/AllItems.aspx?view=7&q=tax%20documents`
 
-And if you change the value of the _q_ key in the URL query string, the page will change:
+And if you change the value of the _q_ key in the URL query string, the results shown on the page will change:
 
- `https://<greatsharepointsite>.sharepoint.com/sites/Lists/<ListName>/AllItems.aspx?view=7&q=consultants`
+`https://<greatsharepointsite>.sharepoint.com/sites/Lists/<ListName>/AllItems.aspx?view=7&q=consultants`
 
 You can share this link, in a way that works almost like a SharePoint list view.
 
@@ -159,7 +161,7 @@ Read the official documentation on this: [https://docs.microsoft.com/sharepoint/
 
 ## Filter Lists &amp; Library views in SharePoint and Microsoft Lists
 
-SharePoint Lists and Libraries let you filter by specific column values with a URL query string. This might let you have a URL that filters a status column, or shows only items where some value is _true_.
+SharePoint Lists and Libraries let you filter by specific column values with a query string URL. This might let you have a URL that filters a status column, or shows only items where some value is _true_.
 
 A use-case might be using Power Automate Flow to email a list view status report based on a given product in a list… with hundreds of possible products. You wouldn't want to make separate views for each product. So, you make a single base view and append URL query strings to create dynamic URLs for your Flow emails.
 
@@ -173,7 +175,7 @@ The basic syntax for this is:
 - The `FilterField` key needs to be the internal name of the SharePoint column. If you rename 'Title' to 'Product' in your list, you'll need to use 'Title' in your query string URL.
 
 >[!TIP]
->You can find out the internal name by going to List Settings, choosing the column, and looking after the `&Field=` key in the URL.
+>You can find out the internal name by going to List Settings, choosing the column, and looking after the `&Field=` key in the URL. That's using a query string URL to help you make a query string URL!
 
 - When filtering yes/no columns, use the number 0 for _no_ and the number 1 for _yes_.
 
@@ -187,13 +189,13 @@ The basic syntax for this is:
 
 ### Further view filter reading from the experts
 
-The list/library view filtering capabilties are extensive. These articles go into further detail, including filtering with managed metadata.
+The list/library view filtering capabilities are extensive. These articles go into further detail, including filtering with managed metadata.
 
 - Nate Chamberlain: [https://natechamberlain.com/2020/05/09/how-to-filter-a-sharepoint-list-or-library-using-url-parameters/](https://natechamberlain.com/2020/05/09/how-to-filter-a-sharepoint-list-or-library-using-url-parameters/)
 
 - Piyush K Singh: [https://piyushksingh.com/2019/05/24/generate-modern-list-filter-url-managed-metadata/](https://piyushksingh.com/2019/05/24/generate-modern-list-filter-url-managed-metadata/)
 
-## Conclusion?this=article
+## Conclusion ?article=done
 
 This article has hopefully given you awareness of the hidden power of query string URLs, and how they can let the platform do some of the work for you.
 
