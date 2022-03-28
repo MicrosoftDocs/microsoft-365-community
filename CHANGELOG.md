@@ -21,11 +21,13 @@ Note: Changelog started in January, 2021
 |---|---|
 | [Advanced Highlighted Content Web Part](./Community/highlighted-content-web-part.md) | [Chanaka Palliyaguru](https://www.linkedin.com/in/chanakapalliyaguru/) |
 | [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | Byron Liu |
+| [Living Large with Large Lists and Large Libraries](./Community/large-lists-large-libraries-in-SharePoint.md) | [Alex Talarico](https://www.linkedin.com/in/talarico/) |
 
 ### New Contributors - March, 2022
 
 - [Chanaka Palliyaguru](https://www.linkedin.com/in/chanakapalliyaguru/)
 - Byron Liu
+- [Alex Talarico](https://www.linkedin.com/in/talarico/)
 
 ## February, 2022
 
