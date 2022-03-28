@@ -1,5 +1,5 @@
 ---
-title: Query String URL Tricks for SharePoint & M365
+title: Query String URL Tricks for SharePoint and Microsoft 365
 ms.date: 03/22/2022
 author: PatD
 ms.reviewer: daisyfeller
@@ -12,7 +12,7 @@ description: Creative ways to filter, embed, and change page content by learning
 ms.collection: M365Community
 ---
   
-# Query String URL Tricks for SharePoint & M365
+# Query String URL Tricks for SharePoint and Microsoft 365
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 

@@ -7,6 +7,7 @@
 ### [What is a Content Type?](what-is-content-type.md)
 ### [Groups in Microsoft 365 and Azure, and Which is Right for You](all-about-groups.md)
 ### [What kind of apps can you build on Microsoft 365?](type-of-apps-microsoft-365.md)
+### [Query String URL Tricks for SharePoint and Microsoft 365](query-string-url-tricks-sharepoint-m365.md)
 ## Microsoft 365 Better Practices
 ### [Accessibility by Design](accessibility-by-design.md)
 ### [Content Type Propagation](content-type-propagation.md)
