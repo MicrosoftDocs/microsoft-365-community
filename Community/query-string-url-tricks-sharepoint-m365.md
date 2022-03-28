@@ -162,7 +162,7 @@ You can troubleshoot a SharePoint page to see if there is a SharePoint Framework
 
 `https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?disable3PCode=1`
 
-Read the official documentation on [Disable SPFx web parts and extensions](https://docs.microsoft.com/sharepoint/dev/general-development/client-side-web-parts-maintenance-mode#disable-spfx-web-parts-and-extensions).
+Read the official documentation on [Disable SPFx web parts and extensions](/sharepoint/dev/general-development/client-side-web-parts-maintenance-mode#disable-spfx-web-parts-and-extensions).
 
 ### Filter Lists and Library views in SharePoint and Microsoft Lists
 

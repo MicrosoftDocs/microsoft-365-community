@@ -96,10 +96,9 @@
 ### [Suggest a feature](https://sharepoint.uservoice.com/)
 ## Microsoft Office official documentation
 ### [SharePoint](/sharepoint/)
-### [Microsoft Teams](/microsoftteams/microsoft-teams)
-### [Microsoft 365 Enterprise](/microsoft-365/enterprise/?view=o365-worldwide)
-### [Microsoft 365 Business](/microsoft-365/business/?view=o365-worldwide)
+### [Microsoft Teams](/microsoftteams/microsoft-team/s)
+### [Microsoft 365 Enterprise](/microsoft-365/enterprise/)
+### [Microsoft 365 Business](/microsoft-365/business/)
 ### [All Office documentation](/office/)
 ## Contribute
 ### [Learn how to be a community contributor](https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/README.md)
-s
