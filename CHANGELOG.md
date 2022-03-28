@@ -12,14 +12,13 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
-
+| [Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.md) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
 | [Content Type Propagation](./Community/content-type-propagation.md) | [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
 
 ### Updated Articles - March, 2022
 
 | Article | Updated By |
 |---|---|
-
 | [Advanced Highlighted Content Web Part](./Community/highlighted-content-web-part.md) | [Chanaka Palliyaguru](https://www.linkedin.com/in/chanakapalliyaguru/) |
 | [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | Byron Liu |
 
