@@ -1,27 +1,30 @@
 ---
-title: Query String URL Tricks for SharePoint & M365
+title: Query String URL Tricks for SharePoint and Microsoft 365
 ms.date: 03/22/2022
 author: PatD
-manager: 
+ms.reviewer: daisyfeller
+manager: pamgreen-msft
 ms.topic: article
-ms.author: 
+ms.author: daisyfeller
 ms.service: sharepoint-online
 localization_priority:
 description: Creative ways to filter, embed, and change page content by learning the secrets of URL query strings.
 ms.collection: M365Community
 ---
   
-# Query String URL Tricks for SharePoint & M365
+# Query String URL Tricks for SharePoint and Microsoft 365
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-The URL is a core tenant of our online lives. Despite all the apps, browsers, and tools that occasionally obfuscate it, behind the scenes the internet is glued together in part by the Uniform Resource Locator (URL). The data that populates the Teams app on your phone wouldn't make it there without the URL of the Graph API endpoint.
+The URL is a core tenet of our online lives. Despite all the apps, browsers, and tools that occasionally obfuscate it, behind the scenes the Internet is glued together in part by the Uniform Resource Locator (URL). The data that populates the Teams app on your phone wouldn't make it there without the URL of the Graph API endpoint.
 
-As a site owner or M365 admin, you'll see URLs all the time – SharePoint sites, Microsoft Forms, shared links, and even application shortcuts like `https://office.com/launch/onedrive`.
+As a site owner or Microsoft 365 admin, you'll see URLs all the time: SharePoint sites, Microsoft Forms, shared links, and even application shortcuts like `https://office.com/launch/onedrive`.
 
-This article will cover some powerful parameters that you can stick on the tail end of a URL to change what's shown on the page... and to make your job easier. These URL parameters will give you more options in solving problems.
+This article will cover some powerful parameters that you can stick on the tail end of a URL to change what's shown on the page... and to make your job easier. These URL parameters will give you more options for solving problems.
 
-## The thing about query strings is… they are everywhere
+## Overview
+
+### The thing about query strings is… they are everywhere
 
 You know this URL brings you to a website:
 
@@ -35,9 +38,9 @@ What about this URL?
 
 `https://docs.microsoft.com/search/?terms=community%20content`
 
-It has a **?** at the and with a key (_terms_) and a value (_community content_). This is a **query string URL.** Based on the key and value in it, we can infer that it might affect or influence the page to show different content.
+It has a **?** at the end with a key (_terms_) and a value (_community content_). This is a **query string**. Based on the key and value in it, we can infer that it might affect or influence the page to show different content.
 
-In this example, we can change the value in your address bar (and hit _return_) and the page content will be different. Example:
+In this example, we can change the value in our address bar (and hit _return_) and the page content may be different. Example:
 
 `https://docs.microsoft.com/search/?terms=large%lists`
 
@@ -55,7 +58,9 @@ And here's that same page loads different content with different values (_ms-gra
 
 How does this mental modal of _URL-as-page-transformer_ work in Microsoft 365? Keep reading!
 
-## Put a Modern SharePoint page into Edit mode
+## Userful Query String Tricks
+
+### Put a Modern SharePoint page into Edit mode
 
 Any Modern SharePoint Online page can be placed into **Edit** Mode by adding this query string URL: `?Mode=Edit`
 
@@ -70,22 +75,21 @@ This isn't really _easier_ than clicking the button on the page, but it's a good
 >
 >_Safety first_.
 
-## Put a Modern SharePoint page into Maintenance mode
+### Put a Modern SharePoint page into Maintenance mode
 
 Any Modern SharePoint Online page, like:
 
-`https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx`
+`https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/home.aspx`
 
  … can be placed into _Maintenance Mode_ by adding this query string to the URL: `?maintenancemode=true`
 
-`https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?maintenancemode=true`
+`https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/home.aspx?maintenancemode=true`
 
-This gives you a behind-the-scenes view of the web parts on the page, and the data being sent back and forth between the page and the browser. This tool is helpful for diagnosing issues with pages including those using the SharePoint Framework (SPFX).
+This gives you a behind-the-scenes view of the web parts on the page, and the data being sent back and forth between the page and the browser. This is helpful for diagnosing issues with pages including those using the SharePoint Framework (SPFx).
 
-Read the official documentation on this here:
-[https://docs.microsoft.com/sharepoint/dev/general-development/client-side-web-parts-maintenance-mode](https://docs.microsoft.com/sharepoint/dev/general-development/client-side-web-parts-maintenance-mode)
+Read the official documentation on this in the article [Maintenance mode for client-side web parts](/sharepoint/dev/general-development/client-side-web-parts-maintenance-mode)
 
-## Put (nearly) anything SharePoint into a focused mode
+### Put (Nearly) Anything in SharePoint into Focused Mode
 
 In the _Classic_ SharePoint days, there was a way to create a focused view of just content by appending `isDLg=1` as a query string to your URL. Those days are in the rear-view, but there's an updated version for Modern SharePoint: `?env=Embedded`
 
@@ -105,7 +109,7 @@ In a page it would be:
 
 `https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?env=Embedded`
 
-## Make any SharePoint list into a _Microsoft Lists_ list
+### Show Any SharePoint List as a _Microsoft Lists_ List
 
 If you've been building in Microsoft 365 for a while, you're probably used to working in SharePoint sites with pages, web parts, workflows, and navigations. Sometimes you just want to share the context of a single list or library within that site – and with a URL query string you can do just that.
 
@@ -129,7 +133,7 @@ That's it! Now your SharePoint list displays in Microsoft Lists. This is a great
 >Example:
 > `page.aspx?mykey=myvalue&thisotherkey=someothervalue`
 
-## Create a link to a List or Library Search Result
+### Create a Link to a List or Library Search Result
 
 Within the Modern user interface, the search bar sets its context (or scope) to the List, Library, or site you're in. When you perform a search from a list or library, it appends a query string of the search term to the URL. This link is sharable/bookmarkable.
 
@@ -147,19 +151,20 @@ And if you change the value of the _q_ key in the URL query string, the results 
 
 You can share this link, in a way that works almost like a SharePoint list view.
 
-Kick things up a notch by also adding the focused-mode query string filter in combination, like:
+>[!TIP]
+> Kick things up a notch by also adding the focused-mode query string filter in combination, like:
+>
+>`https://<greatsharepointsite>.sharepoint.com/sites/Lists/<ListName>/AllItems.aspx?view=7&q=engineering&env=Embedded`
 
-`https://<greatsharepointsite>.sharepoint.com/sites/Lists/<ListName>/AllItems.aspx?view=7&q=engineering&env=Embedded`
-
-## Debug SharePoint Framework web parts and extensions
+## Debug SharePoint Framework Web Parts and Extensions
 
 You can troubleshoot a SharePoint page to see if there is a SharePoint Framework (SPFx) extension or web part causing trouble. Add this `?disable3PCode=1` to the end of the URL to disable loading anything SPFx-related:
 
 `https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?disable3PCode=1`
 
-Read the official documentation on this: [https://docs.microsoft.com/sharepoint/dev/general-development/client-side-web-parts-maintenance-mode#disable-spfx-web-parts-and-extensions](https://docs.microsoft.com/sharepoint/dev/general-development/client-side-web-parts-maintenance-mode#disable-spfx-web-parts-and-extensions)
+Read the official documentation on [Disable SPFx web parts and extensions](/sharepoint/dev/general-development/client-side-web-parts-maintenance-mode#disable-spfx-web-parts-and-extensions).
 
-## Filter Lists &amp; Library views in SharePoint and Microsoft Lists
+### Filter Lists and Library views in SharePoint and Microsoft Lists
 
 SharePoint Lists and Libraries let you filter by specific column values with a query string URL. This might let you have a URL that filters a status column, or shows only items where some value is _true_.
 
@@ -183,23 +188,21 @@ The basic syntax for this is:
 
 - You can filter by multiple keys/values by incrementing the numbers, like this:
 
-`
-?useFiltersInViewXml=1&FilterField1=[internalFieldName]&FilterValue1=[value]&FilterField2=[internalFieldName2]&FilterValue2=[value]&FilterField3=[internalFieldName3]&FilterValue3=[value]
-`
+`?useFiltersInViewXml=1&FilterField1=[internalFieldName]&FilterValue1=[value]&FilterField2=[internalFieldName2]&FilterValue2=[value]&FilterField3=[internalFieldName3]&FilterValue3=[value]`
 
-### Further view filter reading from the experts
+## Further view filter reading from the experts
 
 The list/library view filtering capabilities are extensive. These articles go into further detail, including filtering with managed metadata.
 
-- Nate Chamberlain: [https://natechamberlain.com/2020/05/09/how-to-filter-a-sharepoint-list-or-library-using-url-parameters/](https://natechamberlain.com/2020/05/09/how-to-filter-a-sharepoint-list-or-library-using-url-parameters/)
+- Nate Chamberlain: [How to filter a SharePoint list or library using URL parameters](https://natechamberlain.com/2020/05/09/how-to-filter-a-sharepoint-list-or-library-using-url-parameters/)
 
-- Piyush K Singh: [https://piyushksingh.com/2019/05/24/generate-modern-list-filter-url-managed-metadata/](https://piyushksingh.com/2019/05/24/generate-modern-list-filter-url-managed-metadata/)
+- Piyush K Singh: [Generate Modern List Filter URL: Managed Metadata](https://piyushksingh.com/2019/05/24/generate-modern-list-filter-url-managed-metadata/)
 
 ## Conclusion ?article=done
 
 This article has hopefully given you awareness of the hidden power of query string URLs, and how they can let the platform do some of the work for you.
 
-If you know others useful filters like these, you should consider contributing them to these Microsoft Community Content documents. You can open an issue in the [GitHub](https://github.com/MicrosoftDocs/microsoft-365-community) repo, or submit your own pull request!
+If you know of other useful query strings like these, you should consider contributing them to these Microsoft Community Content documents. You can open an issue in the [GitHub](https://github.com/MicrosoftDocs/microsoft-365-community) repo, or submit your own pull request!
 
 ---
 

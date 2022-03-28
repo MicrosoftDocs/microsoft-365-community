@@ -40,6 +40,8 @@ landingContent:
             url: all-about-groups.md
           - text: What kind of apps can you build on Microsoft 365?
             url: type-of-apps-microsoft-365.md
+          - text: Query String URL Tricks for SharePoint and Microsoft 365
+            url: query-string-url-tricks-sharepoint-m365.md
 
   # Card (optional)
   - title: Microsoft 365 Better Practices
