@@ -23,6 +23,7 @@ Note: Changelog started in January, 2021
 | [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | Byron Liu |
 | [Living Large with Large Lists and Large Libraries](./Community/large-lists-large-libraries-in-SharePoint.md) | [Alex Talarico](https://www.linkedin.com/in/talarico/) |
 | [Using Site Templates to Manage Project Life Cycles](./Community/site-design-life-cycle.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson |
+| [Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md) | [Leon Armston](https://www.linkedin.com/in/leonarmston/) |
 
 ### New Contributors - March, 2022
 
