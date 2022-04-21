@@ -58,7 +58,7 @@ And here's that same page loads different content with different values (_ms-gra
 
 How does this mental modal of _URL-as-page-transformer_ work in Microsoft 365? Keep reading!
 
-## Userful Query String Tricks
+## Useful Query String Tricks
 
 ### Put a Modern SharePoint page into Edit mode
 
