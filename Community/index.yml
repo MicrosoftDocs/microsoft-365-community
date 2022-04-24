@@ -40,18 +40,22 @@ landingContent:
             url: all-about-groups.md
           - text: What kind of apps can you build on Microsoft 365?
             url: type-of-apps-microsoft-365.md
+          - text: Query String URL Tricks for SharePoint and Microsoft 365
+            url: query-string-url-tricks-sharepoint-m365.md
 
   # Card (optional)
   - title: Microsoft 365 Better Practices
     linkLists:
       - linkListType: learn
         links:
+          - text: Accessibility by Design
+            url: accessibility-by-design.md
+          - text: Content Type Propagation
+            url: content-type-propagation.md
           - text: OneDrive PC Folder Backup Benefits for End Users
             url:  known-folder-move-benefits-for-enduser.md
           - text: Why Microsoft 365 adoption projects fail
             url: why-m365-adoption-projects-fail.md
-          - text: Accessibility by Design
-            url: accessibility-by-design.md
   # Card (optional)
   - title: Maturity Model for Microsoft 365
     linkLists:
