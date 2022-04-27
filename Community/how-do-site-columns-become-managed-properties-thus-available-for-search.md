@@ -161,7 +161,7 @@ You can also embed a SharePoint search page in Teams as a personal app by follow
 
 ## Conclusion
 
-This article has nly scratched the surface of what is possible with Microsoft 365 Search. By creating Managed Properties specific to your content and processes, you'll be laying down an important foundation for more sophisticated search-driven solutions.
+This article has only scratched the surface of what is possible with Microsoft 365 Search. By creating Managed Properties specific to your content and processes, you'll be laying down an important foundation for more sophisticated search-driven solutions.
 
 ---
 
