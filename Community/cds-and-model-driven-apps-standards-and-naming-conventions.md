@@ -6,7 +6,8 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.service: commondataservice
+ms.service: power-platform
+ms.subservice: dataverse
 localization_priority: 
 description: "Dataverse and Model-Driven Apps Standards and Naming Conventions"
 ms.collection: M365Community

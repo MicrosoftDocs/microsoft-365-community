@@ -6,7 +6,7 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority: 
 description: Useful links to help you follow the Microsoft 365 community on social media
 ms.collection: M365Community

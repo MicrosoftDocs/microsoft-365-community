@@ -6,7 +6,7 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority:
 description: How can I use Learning Pathways in my organization?
 ms.collection: SPCommunity
