@@ -24,7 +24,7 @@ Learn more: [What is a content type](/microsoft-365/community/what-is-content-ty
 
 ## Used in Lists
 
-* We use content type in lists when we want to be able to create different list forms without the need of creating mulitple lists.
+* We use content type in lists when we want to be able to create different list forms without the need of creating multiple lists.
 * The content type will contain different fields based on the use case.
 * Many 3rd party solutions for SharePoint are built with lists, and often rely on list content types.
 
@@ -106,7 +106,7 @@ This is where you will add your document template. We have two options:
 
 ![content type advanced settings](media/content-type-propagation/ct7.png)
 
-Use **"Upload"** to upload your Office template and choose save. This file is now saved "within" this content type and will be propagated (copied) to new document libaries when used.
+Use **"Upload"** to upload your Office template and choose save. This file is now saved "within" this content type and will be propagated (copied) to new document libraries when used.
 When ready, use the **"Publish"** option to publish the content type to your users.
 
 ![content type publishing](media/content-type-propagation/ct8.png)
@@ -136,7 +136,7 @@ If you want to add back the standard empty Office templates, use **"Edit New men
 
 ## 2. Create a new content type in your current site
 
-The process of creating a new content type for a site or Teams is similar to the steps for the Content Type Gallery, just simplier. Content types created in the site will be available for all document libraries in the current site and sub-sites.
+The process of creating a new content type for a site or Teams is similar to the steps for the Content Type Gallery, just simpler. Content types created in the site will be available for all document libraries in the current site and sub-sites.
 
 In your site, navigate to **Site Settings |  Site content types | Create content type**, and if you are creating a content type for Teams, then you need to first navigate to the *Teams SharePoint site*.
 
@@ -148,11 +148,14 @@ For site content types, you can use a file saved in the current site as a docume
 
 ---
 
-# Pros/Cons
+## Pros/Cons
+
 Below is some pros/cons that should help you choose the right content type propagation method for your business scenario.
 
 ## Using "Content type gallery"
+
 ### Pros
+
 * Easy to get started
 * Content types are automatically propagated to all sites in the tenant
 * SharePoint Online search can surface search content based on the content type across all sites
@@ -160,47 +163,52 @@ Below is some pros/cons that should help you choose the right content type propa
 * Doesn't require much technical competency to manage
 
 ### Cons
+
 * This requires SharePoint tenant administrator right to get started, might not be a good fit for small environments.
 * Needs a strong central governance model, might not be a good fit for small environments.
 * All content types might not be needed in all sites
 
 > [!IMPORTANT]
 > If a content type is deleted from the content type gallery the following happens:
+
 > * If the content type is added to a library (in use), it will be converted to a site "local content type", and will be available for that site
 > * If the content type is not added to a library, it will be removed from the site
 
-
 ## Using "Local Site Content type"
+
 ### Pros
+
 * Can be created by site owner
 * Content types can be used by all lists/library in the site
 * Doesn't need a central governance model
 
 ### Cons
+
 * Required that site owners "knows" what she/he's doing 
 * Content type is not available to other sites
 * Because it's not centrally managed, Office templates need to be managed separately
 
-
 > [!IMPORTANT]
-> If a content type is in use in a library or lists the content type cannot be deleted from the site. Meaning you need to manually change the contents(file or list item) to annother content type before you can delete the content type.
-
+> If a content type is in use in a library or lists the content type cannot be deleted from the site. Meaning you need to manually change the contents(file or list item) to another content type before you can delete the content type.
 
 ## Using "PnP, Site scripts or similar methods"
+
 ### Pros
+
 * This is very flexible way to propagate content types
 * Combined with site provisioning you can create new sites with content types ready to be used
 * You can manage creations/updates/deletions without the needs of manually clicking through the *Settings*, especially handy when cleaning up content types.
 * This is a better choice for large environments, with need for lots of content types
 
 ### Cons
-* Requires strong technical compency
+
+* Requires strong technical competency
 * Needs a strong central governance model, might not be a good fit for small environments.
 
 ## Conclusion
 
 Content types propagation are a *"way"* of making predefined Office templates, metadata, and/or list items available to all SharePoint sites in your tenant and because Teams is using SharePoint as a backend to store the templates which are also available in Teams files and lists.
-If you don't have the technical ressources to make use of "PnP Scripts" to auto propagate the content types to new SharePoint sites, then I recommended the use of **"Content Type Gallery"** to propagate your content types.
+If you don't have the technical resources to make use of "PnP Scripts" to auto propagate the content types to new SharePoint sites, then I recommended the use of **"Content Type Gallery"** to propagate your content types.
 
 [Recommended reading: Designing solutions for scale](/microsoft-365/community/designing-solution-for-scale)
 
