@@ -6,7 +6,7 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority: 
 description: "There are a lot of groups in Azure and Microsoft 365. They can be confusing. This article explains them so you can figure out which one is best for you."
 ms.collection: M365Community
