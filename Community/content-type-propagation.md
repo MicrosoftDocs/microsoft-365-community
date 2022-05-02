@@ -6,7 +6,7 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.service: search
+ms.service: cognitive-search
 localization_priority: 
 description: "Content Type Propagation"
 ms.collection: M365Community
