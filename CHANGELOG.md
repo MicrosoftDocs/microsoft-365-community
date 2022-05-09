@@ -6,6 +6,40 @@
 
 Note: Changelog started in January, 2021
 
+## May, 2022
+
+### New Articles - May, 2022
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - May, 2022
+
+| Article | Updated By |
+| [Content Type Propagation](./Community/content-type-propagation.mdd) | [Daisy Feller](https://www.linkedin.com/in/daisy-feller/) |
+
+### New Contributors - May, 2022
+
+- 
+
+## April, 2022
+
+### New Articles - April, 2022
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - April, 2022
+
+| Article | Updated By |
+| [Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.md) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
+| [How can I use Learning Pathways in my organization?](./Community/how-can-i-use-learning-pathways-in-my-organization.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
+| [How Do Site Columns Become Managed Properties - Thus Available for Search](./Community/how-do-site-columns-become-managed-properties-thus-available-for-search.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
+
+### New Contributors - April, 2022
+
+- 
+
 ## March, 2022
 
 ### New Articles - March, 2022
