@@ -109,6 +109,8 @@ In a page it would be:
 
 `https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?env=Embedded`
 
+If your page or list are living on a Hub Site, you may notice the Hub Site navigation will remain when using `env=Embedded`. If this is not desirable, e.g. if you are embedding a page using the embed webpart, you can append `?env=WebView` instead. 
+
 ### Show Any SharePoint List as a _Microsoft Lists_ List
 
 If you've been building in Microsoft 365 for a while, you're probably used to working in SharePoint sites with pages, web parts, workflows, and navigations. Sometimes you just want to share the context of a single list or library within that site – and with a URL query string you can do just that.
