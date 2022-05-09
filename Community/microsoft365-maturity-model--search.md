@@ -6,7 +6,7 @@ ms.author: daisyfeller
 ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority:
 description: Maturity Model for Microsoft 365 - Search Competency
 ms.collection: M365Community

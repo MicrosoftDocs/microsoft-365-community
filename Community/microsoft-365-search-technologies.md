@@ -6,7 +6,7 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority: 
 description: "Content can be searched using various search technologies. The existing variants are based on the same search index, but differ in usage and configuration."
 ms.collection: M365Community
