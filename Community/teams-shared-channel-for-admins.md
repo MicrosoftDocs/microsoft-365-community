@@ -49,7 +49,7 @@ Collaborating in chats will be "alerted" with a message about the "shared channe
 
 ![alert about external sharing](media/teams-shared-channel-for-admins/tsc04.png)
 
-## But where is the "External" user?
+## 2. But where is the "External" user?
 
 As you may know, when you add a external user to your Teams they exists as "Guest", and the guest record will exist in your Azure AD, meaning you can enforce policies as MFA for the guest account.
 
