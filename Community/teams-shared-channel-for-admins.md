@@ -59,7 +59,7 @@ In the SharePoint site which is created for the shared channel, you won't have a
 
 But it doesn't mean that the permission page is not there. Navigating to your shared channel site with the extra url `/_layouts/15/user.aspx` will take you to the classic permission page you're used to.
 
-![Shared channel site settings](media/teams-shared-channel-for-admins/tsc06.png)
+![Shared channel site permission settings](media/teams-shared-channel-for-admins/tsc06.png)
 
 Here, you can see your External users with their "ObjectId" and "HomeTenantId".
 
@@ -75,8 +75,8 @@ Here, you can see your External users with their "ObjectId" and "HomeTenantId".
 ## Resources
 
 * [Andrés Gorzelany - Enabling Teams Shared Channels 101](https://get-itips.capazero.net/posts/shared-channels-101)
-* [Shared channels in Microsoft Teams (Preview)](https://docs.microsoft.com/microsoftteams/shared-channels)
-* [B2B direct connect overview (Preview)](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-direct-connect-overview)
+* [Shared channels in Microsoft Teams (Preview)](/microsoftteams/shared-channels)
+* [B2B direct connect overview (Preview)](/azure/active-directory/external-identities/b2b-direct-connect-overview)
 
 ---
 
