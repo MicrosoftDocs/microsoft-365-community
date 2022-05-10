@@ -17,6 +17,7 @@ ms.collection: M365Community
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
 Teams "shared channel" is one of the greatest, if not THE Greatest new feature released to Teams in 2022.
+
 To enable and understand more about this feature follow one of the following guides from:
 
 * [Andrés Gorzelany - Enabling Teams Shared Channels 101](https://get-itips.capazero.net/posts/shared-channels-101)
@@ -39,6 +40,7 @@ But when you add the same user to a shared channel, that external user will be l
 ![adding external user to Teams](media/teams-shared-channel-for-admins/tsc02.png)
 
 After the External user is added, in their Teams client, they will receive a notification and the External team will show up, this worked almost instant, so awesome.
+
 This is also super sweet, as the users don't need to switch tenant.
 
 ![notification about external channel](media/teams-shared-channel-for-admins/tsc03.png)
@@ -50,6 +52,7 @@ Collaborating in chats will be "alerted" with a message about the "shared channe
 ## But where is the "External" user?
 
 As you may know, when you add a external user to your Teams they exists as "Guest", and the guest record will exist in your Azure AD, meaning you can enforce policies as MFA for the guest account.
+
 But for shared channels, the "External" user will only exist as an external user to that shared channel, currently I don't see a way in the Admin GUI to see how many "External users" we have or where they are given access to. Meaning as admins we really don't know, even thought we do have the audit logs in Azure AD.
 
 And in SharePoint, in the "Site settings" menu, you won't have a link option for "Site permissions".
