@@ -81,7 +81,7 @@ If folder is "true", we will then append the folder name to our variable "Folder
 
 We will then use "Apply to each" to append the files' content to our Attachment array variable. The trick here is to append the right content. Thanks to [this guide](https://flow.microsoft.com/blog/multiple-attachments-single-email/) at the Flow forums by Sunay Vaishnav, I finally managed to get this working.
 
-As of this writing, the bast way to append SharePoint files to an attachment array is:
+As of this writing, the best way to append SharePoint files to an attachment array is:
 
 ``` javascript
 {
