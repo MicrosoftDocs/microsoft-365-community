@@ -1212,7 +1212,7 @@ To developers, a "Site" is a [Site Collection](#site-collection), whereas a "web
 
 A Site Column is a metadata column that has been defined at the [site](#site) level. Site Columns are available for use in any list or library in the site where it is defined. Site Columns also become Crawled Properties (See: [How Do Site Columns Become Managed Properties - Thus Available for Search](how-do-site-columns-become-managed-properties-thus-available-for-search.md)) which can be used to improve search effectiveness.
 
-Also see: See: [What is a CSite Column?](what-is-site-column.md)
+Also see: See: [What is a Site Column?](what-is-site-column.md)
 
 ### [Site Collection](/sharepoint/sites/sites-and-site-collections-overview)
 

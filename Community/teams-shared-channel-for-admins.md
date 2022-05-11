@@ -1,80 +1,82 @@
 ---
-title: Teams shared channel for Admins
+title: Teams Shared Channels for Admins
 ms.date: 5/10/2022
 author: JimmyHang
 ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.service: search
+ms.service: msteams
 localization_priority: 
-description: "Teams shared channel for Admins"
+description: "Teams Shared Channels for Admins"
 ms.collection: M365Community
 ---
 
-# Teams shared channel for Admins
+# Teams Shared Channels for Admins
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
 Teams "shared channel" is one of the greatest, if not THE Greatest new feature released to Teams in 2022.
 
-To enable and understand more about this feature follow one of the following guides from:
+## Enabling Shared Channels
 
-* [Andrés Gorzelany - Enabling Teams Shared Channels 101](https://get-itips.capazero.net/posts/shared-channels-101)
-* [Shared channels in Microsoft Teams (Preview)](https://docs.microsoft.com/en-us/microsoftteams/shared-channels)
-* [B2B direct connect overview (Preview)](https://docs.microsoft.com/en-us/azure/active-directory/external-identities/b2b-direct-connect-overview)
+To enable and understand more about this feature, follow one of the guides in the [Resources](#resources) section.
 
-After you have enabled shared channel and created your first shared channel, there is a couple of things nice to know.
+After you have enabled shared channels and created your first shared channel, there are a couple of things which are good to know.
 
 > [!NOTE]
 > Beware that as this feature is in "Preview" the information below might change.
 
-## 1. Difference between external "Guest" and "External"
+## The difference between external "Guests" and "External" users
 
-When you add a external user to your Team, you will se that the user is labeled as a "Guest", this is what most of us are doing right now.
+When you add a external user to your Team, you will see that the user is labeled as a "Guest", this is what most of us are doing right now.
 
-![adding guest to Teams](media/teams-shared-channel-for-admins/tsc01.png)
+![Adding a guest to Teams](media/teams-shared-channel-for-admins/tsc01.png)
 
-But when you add the same user to a shared channel, that external user will be labeled with "External", meaning there won't be a "conflict" related to the user for this channel.   
+When you add the same user to a shared channel, that external user will be labeled with "External", meaning there won't be a "conflict" related to the user for this channel.
 
-![adding external user to Teams](media/teams-shared-channel-for-admins/tsc02.png)
+![Adding an external user to Teams](media/teams-shared-channel-for-admins/tsc02.png)
 
-After the External user is added, in their Teams client, they will receive a notification and the External team will show up, this worked almost instant, so awesome.
+After the External user is added, in their Teams client they will receive a notification and the External team will show up. This works almost instantly for the user.
 
-This is also super sweet, as the users don't need to switch tenant.
+This is also super sweet, as the users don't need to switch tenants.
 
-![notification about external channel](media/teams-shared-channel-for-admins/tsc03.png)
+![Notification about external channel](media/teams-shared-channel-for-admins/tsc03.png)
 
-Collaborating in chats will be "alerted" with a message about the "shared channel", this is great.
+Collaborating in chats will show an "alert" with a message about the "shared channel".
 
-![alert about external sharing](media/teams-shared-channel-for-admins/tsc04.png)
+![Alert about external sharing](media/teams-shared-channel-for-admins/tsc04.png)
 
-## 2. But where is the "External" user?
+## Where is the "External" user?
 
-As you may know, when you add a external user to your Teams they exists as "Guest", and the guest record will exist in your Azure AD, meaning you can enforce policies as MFA for the guest account.
+As you may know, when you add a external user in a Microsoft Team, they exist as a "Guest", and the guest record will exist in your [Azure Active Directory (AAD)](glossary.md#azure-active-directory-aad), meaning you can enforce policies, such as [Multi-Factor Authentication (MFA)](glossary.md#multi-factor-authentication-mfa) for the guest account.
 
-But for shared channels, the "External" user will only exist as an external user to that shared channel, currently I don't see a way in the Admin GUI to see how many "External users" we have or where they are given access to. Meaning as admins we really don't know, even thought we do have the audit logs in Azure AD.
+But for shared channels, the "External" user will only exist as an external user to that shared channel. Currently, I don't see a way in the Admin [user interface (UI)](glossary.md#user-interface-ui) to see how many "External users" we have or where they are given access. This means as admins we really don't know, even thought we do have the audit logs in Azure AD.
 
-And in SharePoint, in the "Site settings" menu, you won't have a link option for "Site permissions".
+In the SharePoint site which is created for the shared channel, you won't have a link option for "Site permissions" in the "Site settings" menu to check there, either.
 
-![shared channel site settings](media/teams-shared-channel-for-admins/tsc05.png)
+![Shared channel site settings](media/teams-shared-channel-for-admins/tsc05.png)
 
-But it doesn't mean that its not there, navigating to your shared channel site with the extra url **"/_layouts/15/user.aspx"** will bring you to the classic permission page, I love this page.
+But it doesn't mean that the permission page is not there. Navigating to your shared channel site with the extra url `/_layouts/15/user.aspx` will take you to the classic permission page you're used to.
 
-![shared channel site settings](media/teams-shared-channel-for-admins/tsc06.png)
+![Shared channel site permission settings](media/teams-shared-channel-for-admins/tsc06.png)
 
-With this you will see the your External users with their "ObjectId" and "HomeTenantId".
+Here, you can see your External users with their "ObjectId" and "HomeTenantId".
 
-![external user information](media/teams-shared-channel-for-admins/tsc07.png)
+![External user information](media/teams-shared-channel-for-admins/tsc07.png)
 
-## Tips and tricks before enabling shared channel for production:
+## Tips and tricks before enabling shared channels for production
 
-1. Review your user training, and make sure everyone knows the difference between "Guest" and "External".
+1. Review your user training, and make sure everyone knows the difference between "Guest" and "External" users.
 2. Beware that currently the External user can't be managed outside the Teams shared channel settings, as far as I know.
-3. I presume/hope MS will give us a GUI for external users before GA, if not we can create a PowerShell script to get this information from SharePoint Online, from a governance perspective.
-4. If you plan to use Shared Channel, make sure you update your governance policies.
+3. I presume/hope MS will give us a GUI for external users before GA. If not we can create a PowerShell script to get this information from SharePoint Online, from a governance perspective.
+4. If you plan to use Shared Channels, make sure you update your governance policies.
 
+## Resources
 
+* [Andrés Gorzelany - Enabling Teams Shared Channels 101](https://get-itips.capazero.net/posts/shared-channels-101)
+* [Shared channels in Microsoft Teams (Preview)](/microsoftteams/shared-channels)
+* [B2B direct connect overview (Preview)](/azure/active-directory/external-identities/b2b-direct-connect-overview)
 
 ---
 

@@ -12,12 +12,14 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
+| [Teams Shared Channels for Admins](./Community/teams-shared-channel-for-admins.md) | [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
+
 
 ### Updated Articles - May, 2022
 
 | Article | Updated By |
 |---|---|
-| [Content Type Propagation](./Community/content-type-propagation.mdd) | [Daisy Feller](https://www.linkedin.com/in/daisy-feller/) |
+| [Content Type Propagation](./Community/content-type-propagation.md) | [Daisy Feller](https://www.linkedin.com/in/daisy-feller/) |
 | [Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.md) | [Ole Kristian Mørch-Storstein](https://www.linkedin.com/in/olekms/) |
 | [Power Automate - Send SharePoint files as attachments](./Community/power-automate-send-sharepoint-files-as-attachments.md) | [blb0004](https://github.com/blb0004/) |
 
