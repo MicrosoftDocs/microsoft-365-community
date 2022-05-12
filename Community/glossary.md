@@ -532,7 +532,7 @@ Users in this role can read settings and administrative information across Micro
 
 ### [Governance](/microsoft-365/compliance/manage-information-governance)
 
-Microsoft Information Governance (MIG) provides capabilities to govern your data for compliance or regulatory requirements.
+Microsoft Purview Data Lifecycle Management (MIG) provides capabilities to govern your data for compliance or regulatory requirements.
 
 ### [Graph API](/graph/overview)
 
@@ -632,7 +632,7 @@ Microsoft cloud services include powerful communication and collaboration capabi
 
 ### [Information Governance](/microsoft-365/compliance/manage-information-governance)
 
-Microsoft Information Governance (MIG) provides capabilities to govern your data for compliance or regulatory requirements.
+Microsoft Purview Data Lifecycle Management (MIG) provides capabilities to govern your data for compliance or regulatory requirements.
 
 ### [Information Protection](/microsoft-365/compliance/information-protection)
 
