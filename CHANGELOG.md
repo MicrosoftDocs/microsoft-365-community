@@ -23,6 +23,7 @@ Note: Changelog started in January, 2021
 | [Power Automate - Send SharePoint files as attachments](./Community/power-automate-send-sharepoint-files-as-attachments.md) | [blb0004](https://github.com/blb0004/) |
 | [Glossary](./Community/glossary.md) | [Saisang Cai](https://github.com/Saisang) |
 | [Accessibility by Design](./Community/accessibility-by-design.md) | [Sid Lama](https://www.linkedin.com/in/sidlama/) |
+| [Benefits of using PowerShell with SharePoint](./Community/benefits-of-using-powershell-with-sharepoint.md) | [Sid Lama](https://www.linkedin.com/in/sidlama/) |
 
 ### New Contributors - May, 2022
 
