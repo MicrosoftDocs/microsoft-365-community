@@ -65,7 +65,7 @@ In the Manage channel settings, you can see the external users in the Members se
 
 ### Teams Admin Center
 
-In the Teams Admin Center, do can drill into the Team and the shared channel to see the Members.
+In the Teams Admin Center, you can drill into the Team and the shared channel to see the Members.
 
 ![Manage channel settings in the Teams Admin Center](media/teams-shared-channel-for-admins/tsc09.png)
 
