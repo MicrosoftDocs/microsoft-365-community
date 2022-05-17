@@ -20,6 +20,8 @@ As with any technology, there are lots of terms we toss around to explain things
 
 This Glossary is an attempt to demystify some of the terms and acronyms we use every day in working with the platform. See one missing? Feel free to add an Issue with what you want added.
 
+Also consider checking out the additional glossaries listed in the [Additional Resources](#additional-resources) section.
+
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 ## A
@@ -1546,6 +1548,12 @@ In Microsoft 365 organizations with mailboxes in Exchange Online, zero-hour auto
 ### [Zero Trust](https://www.microsoft.com/security/business/zero-trust)
 
 Today’s organizations need a new security model that more effectively adapts to the complexity of the modern environment, embraces the hybrid workplace, and protects people, devices, apps, and data wherever they’re located.  Zero Trust is that model.
+
+---
+
+## Additional Resources
+
+* [Common terms and definitions used in Teams Developer Documentation](/microsoftteams/platform/get-started/glossary) - While focused on Teams developers, this glossary defines most of the important components you see in Microsoft Teams.
 
 ---
 
