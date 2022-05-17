@@ -16,11 +16,9 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-As with any technology, there are lots of terms we toss around to explain things. Just understanding what each term means can be half the battle. Whether you are entirely new to Microsoft 365 or have been using it for years, there are always new terms to learn. The fact that Microsoft uses common English words for many capabilities can add an additional layer of confusion.
+As with any technology, there are lots of terms we toss around to explain things. Just understanding what each term means can be half the battle. Whether you are entirely new to SharePoint or have been using it for a decade, there are always new terms to learn. The fact that Microsoft uses common English words for many capabilities can add an additional layer of confusion.
 
 This Glossary is an attempt to demystify some of the terms and acronyms we use every day in working with the platform. See one missing? Feel free to add an Issue with what you want added.
-
-Also consider checking out the additional glossaries listed in the [Resources](#resources) section.
 
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
@@ -62,7 +60,7 @@ Administrative units restrict permissions in a role to any portion of your organ
 
 The Advanced eDiscovery solution in Microsoft 365 builds on the existing Microsoft eDiscovery and analytics capabilities. Advanced eDiscovery provides an end-to-end workflow to preserve, collect, analyze, review, and export content that's responsive to your organization's internal and external investigations.
 
-### [Alert Policies](/microsoft-365/compliance/alert-policiee)
+### [Alert Policies](/microsoft-365/compliance/alert-policies)
 
 You can use the alert policy and alert dashboard tools in the Microsoft 365 compliance center or the Microsoft 365 Defender portal to create alert policies and then view the alerts generated when users perform activities that match the conditions of an alert policy.
 
@@ -144,7 +142,7 @@ Azure Active Directory B2C provides business-to-customer identity as a service. 
 
 Always a hot topic. There is no native traditional backup and restore capability within Microsoft 365.  The link to the left shows Microsoft’s stance in relation to backup of Exchange Online as an example.  Third-party products are available, but are they worth it, and are they needed?  The debate goes on.
 
-### [Billing](/commerce/)
+### [Billing](/dynamics365/commerce/)
 
 Learn how to buy and manage business subscriptions, perform license management tasks, and manage billing and payments for your business accounts with Microsoft.
 
@@ -706,7 +704,7 @@ The new KQL query experience in Microsoft 365 eDiscovery tools search provides f
 
 Kusto Query Language is a powerful tool to explore your data and discover patterns, identify anomalies and outliers, create statistical modeling, and more. The query uses schema entities that are organized in a hierarchy similar to SQL's: databases, tables, and columns.
 
-### [Kubernetes (Azure)](/services/kubernetes-service/)
+### [Kubernetes (Azure)](/azure/aks/intro-kubernetes)
 
 Deploy and manage containerised applications more easily with a fully managed Kubernetes service. Azure Kubernetes Service (AKS) offers serverless Kubernetes, an integrated continuous integration and continuous delivery (CI/CD) experience, and enterprise-grade security and governance. Unite your development and operations teams on a single platform to rapidly build, deliver and scale applications with confidence.
 
@@ -1103,7 +1101,7 @@ More complex roll ups are also possible using the [Highlighted Content Web Part]
 
 ### Root Site
 
-The base address in a web application or tenant for the first SharePoint Site collection. Typically, defined without use of managed paths ("/sites/" or "/teams/"), for example <https://mytenant.sharepoint.com>. In an on-site installation, there may be a vanity URL in place, such as <https://sharepoint> or <https://intranet>.
+The base address in a web application or tenant for the first SharePoint Site collection. Typically, defined without use of managed paths ("/sites/" or "/teams/"), for example `https://mytenant.sharepoint.com`. In an on-site installation, there may be a vanity URL in place, such as `https://sharepoint` or `https://intranet`.
 
 ## S
 
@@ -1249,7 +1247,7 @@ Learn how to use SQL Server and Azure SQL, both on-premises and in the cloud.
 
 To encrypt communications between your clients and the Microsoft 365 environment, third-party Secure Socket Layer (SSL) certificates must be installed on your infrastructure servers.
 
-### [Standard Release](/microsoft-365/admin/manage/release-option)
+### [Standard Release](/microsoft-365/admin/manage/release-options-in-office-365)
 
 Standard Release is an option to receive updates to the Microsoft 365 platform when they are broadly available to all customers. This is the default option for new tenants and can be modified later on.
 
@@ -1277,7 +1275,7 @@ Subsites tend to be less common on Modern SharePoint, as Microsoft recommend the
 
 Occasionally, a customer site using Direct Routing to connect to Microsoft Phone System may experience an internet outage. Assume that the customer site--called a branch--temporarily cannot connect to the Microsoft cloud through Direct Routing. However, the intranet inside the branch is still fully functional and users can connect to the Session Border Controller (SBC) that is providing PSTN connectivity. This is where using a Survivable Branch Appliance (SBA) will enable Microsoft Phone System to continue to make and receive Public Switched Telephone Network (PSTN) calls in the case of an outage.
 
-### [Sway](/office/getting-started-with-sway-2076c468-63f4-4a89-ae5f-424796714a8a)
+### [Sway](https://support.microsoft.com/office/getting-started-with-sway-2076c468-63f4-4a89-ae5f-424796714a8a)
 
 Sway is an app from Microsoft Office that makes it easy to create and share interactive reports, personal stories, presentations, and more.
 
@@ -1395,7 +1393,7 @@ Members of this role group can manage Exchange Unified Messaging (UM) settings a
 
 Need to find if a user viewed a specific document or purged an item from their mailbox? If so, you can use the audit log search tool in Microsoft 365 compliance center to search the unified audit log to view user and administrator activity in your organization. Thousands of user and admin operations performed in dozens of Microsoft 365 services and solutions are captured, recorded, and retained in your organization's unified audit log. Users in your organization can use the audit log search tool to search for, view, and export (to a CSV file) the audit records for these operations.
 
-### [Unified Communications](/microsoft-365/business-insights-ideas/resources/unified-communications-101-what-new-business-need-to-know)
+### [Unified Communications](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/unified-communications-101-what-new-business-need-to-know)
 
 Investing in a UC service that delivers a consistent, multi-device, UI and UX platform can free your organization from the need to download, install, and learn new software. With the right UC provider, all your communications are streamlined, reducing friction within your organization.
 
@@ -1515,7 +1513,7 @@ Windows Autopilot is a collection of technologies used to set up and pre-configu
 
 WDAC was introduced with Windows 10 and allows organizations to control which drivers and applications are allowed to run on their Windows clients. It was designed as a security feature under the servicing criteria, defined by the Microsoft Security Response Center (MSRC). WDAC policies apply to the managed computer as a whole and affects all users of the device.
 
-### [Windows Hello for Business](/windows/security/threat-protection/windows-defender-application-control/wdac-and-applocker-overview)
+### [Windows Hello for Business](/windows/security/identity-protection/hello-for-business/hello-overview)
 
 Windows Hello provides reliable, fully integrated biometric authentication based on facial recognition or fingerprint matching. Windows Hello uses a combination of special infrared (IR) cameras and software to increase accuracy and guard against spoofing. Major hardware vendors are shipping devices that have integrated Windows Hello-compatible cameras. Fingerprint reader hardware can be used or added to devices that don't currently have it. On devices that support Windows Hello, an easy biometric gesture unlocks users' credentials.
 
@@ -1548,12 +1546,6 @@ In Microsoft 365 organizations with mailboxes in Exchange Online, zero-hour auto
 ### [Zero Trust](https://www.microsoft.com/security/business/zero-trust)
 
 Today’s organizations need a new security model that more effectively adapts to the complexity of the modern environment, embraces the hybrid workplace, and protects people, devices, apps, and data wherever they’re located.  Zero Trust is that model.
-
----
-
-## Resources
-
-* [Common terms and definitions used in Teams Developer Documentation](/microsoftteams/platform/get-started/glossary) - While focused on Teams developers, this glossary defines most of the important components you see in Microsoft Teams.
 
 ---
 
