@@ -1553,7 +1553,7 @@ Today’s organizations need a new security model that more effectively adapts t
 
 ## Resources
 
-- [Common terms and definitions used in Teams Developer Documentation](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/glossary) - While focused on Teams developers, this glossary defines most of the important components you see in Microsoft Teams.
+* [Common terms and definitions used in Teams Developer Documentation](/microsoftteams/platform/get-started/glossary) - While focused on Teams developers, this glossary defines most of the important components you see in Microsoft Teams.
 
 ---
 
