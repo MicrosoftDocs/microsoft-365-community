@@ -24,6 +24,7 @@ Note: Changelog started in January, 2021
 | [Glossary](./Community/glossary.md) | [Saisang Cai](https://github.com/Saisang) |
 | [Accessibility by Design](./Community/accessibility-by-design.md) | [Sid Lama](https://www.linkedin.com/in/sidlama/) |
 | [Benefits of using PowerShell with SharePoint](./Community/benefits-of-using-powershell-with-sharepoint.md) | [Sid Lama](https://www.linkedin.com/in/sidlama/) |
+| [Glossary](./Community/glossary.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 
 ### New Contributors - May, 2022
 
