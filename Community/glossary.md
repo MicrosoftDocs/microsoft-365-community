@@ -16,9 +16,11 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-As with any technology, there are lots of terms we toss around to explain things. Just understanding what each term means can be half the battle. Whether you are entirely new to SharePoint or have been using it for a decade, there are always new terms to learn. The fact that Microsoft uses common English words for many capabilities can add an additional layer of confusion.
+As with any technology, there are lots of terms we toss around to explain things. Just understanding what each term means can be half the battle. Whether you are entirely new to Microsoft 365 or have been using it for years, there are always new terms to learn. The fact that Microsoft uses common English words for many capabilities can add an additional layer of confusion.
 
 This Glossary is an attempt to demystify some of the terms and acronyms we use every day in working with the platform. See one missing? Feel free to add an Issue with what you want added.
+
+Also consider checking out the additional glossaries listed in the [Resources](#resources) section.
 
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
@@ -1546,6 +1548,12 @@ In Microsoft 365 organizations with mailboxes in Exchange Online, zero-hour auto
 ### [Zero Trust](https://www.microsoft.com/security/business/zero-trust)
 
 Today’s organizations need a new security model that more effectively adapts to the complexity of the modern environment, embraces the hybrid workplace, and protects people, devices, apps, and data wherever they’re located.  Zero Trust is that model.
+
+---
+
+## Resources
+
+* [Common terms and definitions used in Teams Developer Documentation](/microsoftteams/platform/get-started/glossary) - While focused on Teams developers, this glossary defines most of the important components you see in Microsoft Teams.
 
 ---
 
