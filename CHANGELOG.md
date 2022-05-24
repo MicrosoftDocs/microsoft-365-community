@@ -14,7 +14,6 @@ Note: Changelog started in January, 2021
 |---|---|
 | [Teams Shared Channels for Admins](./Community/teams-shared-channel-for-admins.md) | [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
 
-
 ### Updated Articles - May, 2022
 
 | Article | Updated By |
@@ -22,11 +21,17 @@ Note: Changelog started in January, 2021
 | [Content Type Propagation](./Community/content-type-propagation.md) | [Daisy Feller](https://www.linkedin.com/in/daisy-feller/) |
 | [Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.md) | [Ole Kristian Mørch-Storstein](https://www.linkedin.com/in/olekms/) |
 | [Power Automate - Send SharePoint files as attachments](./Community/power-automate-send-sharepoint-files-as-attachments.md) | [blb0004](https://github.com/blb0004/) |
+| [Glossary](./Community/glossary.md) | [Saisang Cai](https://github.com/Saisang) |
+| [Accessibility by Design](./Community/accessibility-by-design.md) | [Sid Lama](https://www.linkedin.com/in/sidlama/) |
+| [Benefits of using PowerShell with SharePoint](./Community/benefits-of-using-powershell-with-sharepoint.md) | [Sid Lama](https://www.linkedin.com/in/sidlama/) |
+| [Glossary](./Community/glossary.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 
 ### New Contributors - May, 2022
 
-- [Ole Kristian Mørch-Storstein](https://www.linkedin.com/in/olekms/
+- [Ole Kristian Mørch-Storstein](https://www.linkedin.com/in/olekms/)
 - [blb0004](https://github.com/blb0004/)
+- [Saisang Cai](https://github.com/Saisang)
+- [Sid Lama](https://www.linkedin.com/in/sidlama/)
 
 ## April, 2022
 
@@ -45,7 +50,7 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - April, 2022
 
-- 
+-
 
 ## March, 2022
 
@@ -98,7 +103,7 @@ Note: Changelog started in January, 2021
 | Article | Principal Author |
 |---|---|
 | [Advanced Highlighted Content Web Part](./Community/highlighted-content-web-part.md) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
-| [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](./Community/microsoft365-maturity-model--governance-and-compliance.md) | [Nikki Chapple](https://www.linkedin.com/in/nikkichapple/) <br/> [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
+| [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](./Community/microsoft365-maturity-model--governance-and-compliance.md) | [Nikki Chapple](https://www.linkedin.com/in/nikkichapple/), [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
 
 ### Updated Articles - January, 2022
 
@@ -275,7 +280,7 @@ No significant changes.
 
 | Article | Principal Author |
 |---|---|
-| [Customization and Development Competency](./Community/microsoft365-maturity-model--customization-and-development.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) <br/>[Simon Doy](https://www.linkedin.com/in/simondoy/) |
+| [Customization and Development Competency](./Community/microsoft365-maturity-model--customization-and-development.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/), [Simon Doy](https://www.linkedin.com/in/simondoy/) |
 
 ### Updated Articles - March, 2021
 
@@ -285,7 +290,7 @@ No significant changes.
 | [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps) | [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/) |
 | [Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)|[Leon Armston](https://www.linkedin.com/in/leonarmston/)|
 |[Should everyone create Teams? A Low Code Provisioning solution](./Community/should-everyone-create-teams.md)|[Trevor Seward, MVP](https://www.linkedin.com/in/trevorseward/)|
-| [Basic Security Set Up for Microsoft 365](./Community/basic-security-set-up-for-microsoft-365.md) | [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/) <br/> [Liam Cleary](https://www.linkedin.com/in/liamcleary)|
+| [Basic Security Set Up for Microsoft 365](./Community/basic-security-set-up-for-microsoft-365.md) | [Callum Crowley](https://www.linkedin.com/in/CallumCrowley/), [Liam Cleary](https://www.linkedin.com/in/liamcleary)|
 
 ### New Contributors - March, 2021
 
@@ -307,7 +312,7 @@ No significant changes.
 
 | Article | Updated By |
 |---|---|
-|[Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)|[Ganesh Sanap](https://www.linkedin.com/in/ganeshsanap/) <br/> [Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/)|
+|[Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)|[Ganesh Sanap](https://www.linkedin.com/in/ganeshsanap/), [Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/)|
 |[Should everyone create Teams? A Low Code Provisioning solution](./Community/should-everyone-create-teams.md)|[Luise Freese, MVP](https://www.linkedin.com/in/LuiseFreese)|
 |[Maturity Model for Microsoft 365 - Introduction](./Community/microsoft365-maturity-model--intro.md)|[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)|
 
@@ -342,7 +347,7 @@ No significant changes.
 | Article | Principal Author |
 | --- | --- |
 | [How Do Site Columns Become Managed Properties - Thus Available for Search?](./Community/how-do-site-columns-become-managed-properties-thus-available-for-search) | [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
-| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) <br/>
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/),
 [Simon Doy](https://www.linkedin.com/in/simondoy/) |
 | [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [Document Sets for Fast Legacy Process Automation](./Community/document-sets-are-magic) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
@@ -371,7 +376,7 @@ No significant changes.
 | [Elevating Staff and Training](./Community/microsoft-maturity-model-how-to-staff-and-training) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps) | [Paul Bullock](https://www.linkedin.com/in/pkbullock/) |
 | [How Do Site Columns Become Managed Properties - Thus Available for Search?](./Community/how-do-site-columns-become-managed-properties-thus-available-for-search) | [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
-| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) <br/> [Simon Doy](https://www.linkedin.com/in/simondoy/) |
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/), [Simon Doy](https://www.linkedin.com/in/simondoy/) |
 | [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 
 ### Updated Articles - October, 2020
