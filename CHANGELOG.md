@@ -25,6 +25,11 @@ Note: Changelog started in January, 2021
 | [Accessibility by Design](./Community/accessibility-by-design.md) | [Sid Lama](https://www.linkedin.com/in/sidlama/) |
 | [Benefits of using PowerShell with SharePoint](./Community/benefits-of-using-powershell-with-sharepoint.md) | [Sid Lama](https://www.linkedin.com/in/sidlama/) |
 | [Glossary](./Community/glossary.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+| [Glossary](./Community/glossary.md) | [Rene Modery](https://www.linkedin.com/in/modery/) |
+| [Why Microsoft 365 adoption projects fail](./Community/why-m365-adoption-projects-fail.md) | [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/) |
+| [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) | [Sid Lama](https://www.linkedin.com/in/sidlama/) |
+| [SharePoint Naming Guidelines](./Community/sharepoint-naming-guidelines.md) | [Sid Lama](https://www.linkedin.com/in/sidlama/) |
+| [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](./Community/microsoft365-maturity-model--governance-and-compliance.md) | [Saisang Cai](https://github.com/Saisang) |
 
 ### New Contributors - May, 2022
 
