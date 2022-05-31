@@ -288,7 +288,7 @@ The Microsoft Cybersecurity Reference Architectures (MCRA) describe Microsoft’
 
 ### [Data Loss Prevention (DLP)](/microsoft-365/compliance/dlp-learn-about-dlp)
 
-In Microsoft 365, you implement data loss prevention by defining and applying DLP policies. With a DLP policy, you can identify, monitor, and automatically protect sensitive items across Microsoft 365 services, Office Applications, endpoint devices, non-Microsoft cloud apps, and on-premises file storage (including Sharepoint).
+In Microsoft 365, you implement data loss prevention by defining and applying DLP policies. With a DLP policy, you can identify, monitor, and automatically protect sensitive items across Microsoft 365 services, Office Applications, endpoint devices, non-Microsoft cloud apps, and on-premises file storage (including SharePoint).
 
 ### [Data Protection Impact Assessment (DPIA)](/compliance/regulatory/gdpr-data-protection-impact-assessments)
 
