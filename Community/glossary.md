@@ -1395,7 +1395,7 @@ Members of this role group can manage Exchange Unified Messaging (UM) settings a
 
 Need to find if a user viewed a specific document or purged an item from their mailbox? If so, you can use the audit log search tool in Microsoft Purview compliance portal to search the unified audit log to view user and administrator activity in your organization. Thousands of user and admin operations performed in dozens of Microsoft 365 services and solutions are captured, recorded, and retained in your organization's unified audit log. Users in your organization can use the audit log search tool to search for, view, and export (to a CSV file) the audit records for these operations.
 
-### [Unified Communications](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/unified-communications-101-what-new-business-need-to-know)
+### [Unified Communications](https://www.microsoft.com/microsoft-365/business-insights-ideas/resources/unified-communications-101-what-new-business-need-to-know)
 
 Investing in a UC service that delivers a consistent, multi-device, UI and UX platform can free your organization from the need to download, install, and learn new software. With the right UC provider, all your communications are streamlined, reducing friction within your organization.
 
