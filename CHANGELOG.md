@@ -6,6 +6,28 @@
 
 Note: Changelog started in January, 2021
 
+## June, 2022
+
+### New Articles - June, 2022
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - June, 2022
+
+| Article | Updated By |
+|---|---|
+| [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | [Mike Duffy](https://www.linkedin.com/in/duffymike/) |
+| [Maturity Model for Microsoft 365 - Search Competency](./Community/microsoft365-maturity-model--search.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 - Collaboration Competency](./Community/microsoft365-maturity-model--collaboration.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 - Communication Competency](./Community/microsoft365-maturity-model--communication.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 – People and Communities Competency](./Community/microsoft365-maturity-model--people-and-communities-competency.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 - Staff & Training Competency](./Community/microsoft365-maturity-model--staff-and-training.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
+
+### New Contributors - June, 2022
+
+-
+
 ## May, 2022
 
 ### New Articles - May, 2022
