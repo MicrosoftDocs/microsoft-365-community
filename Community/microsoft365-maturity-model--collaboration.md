@@ -26,24 +26,6 @@ Microsoft 365 is at its core all about collaboration. The collaborative underpin
 
 Collaboration is all about people working together to reach a common goal. Within Microsoft 365, this means multiple individuals working jointly within the platform, using its capabilities to facilitate their activities.
 
-## Common Microsoft 365 tool sets
-
-Every organization can choose how best to use the Microsoft 365 platform for collaboration. The best answer for a large multi-national conglomerate would make little sense for a five-person financial advisory firm. The Microsoft 365 apps and services most likely included in the mix for collaboration include the following:
-
-- Microsoft Teams
-- SharePoint
-- Outlook
-- OneNote
-- OneDrive
-- Yammer
-- Office apps (Word, Excel etc)
-
-### Task Management
-
-- Project Online
-- Planner
-- To Do
-
 ## Evolution of this competency
 
 See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
@@ -60,13 +42,13 @@ With collaboration, we have a similar set of states:
 
 These states align roughly with the levels below.
 
-### Level 100
+### Level 100 - Initial
 
 In many cases, the first move into Microsoft 365 is a simple migration of shared folders on a file server into SharePoint. (This usually follows a migration of email hosting from an on-premises Exchange server to Exchange Online. While this is extremely important, the average end user may not even realize it has happened. At this level, most collaboration occurs in an unstructured way, unsupported by specific technologies. Task and document collaboration together with knowledge exchange in conversations take place via email or phone, or in person in physical meetings. There is minimal tracking, and an over-reliance on real-time, co-located, in-person working.
 
 **[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
-#### Governance & Security
+#### Governance, Risk, Compliance and Security
 
 - Out-of-the-box collaboration sites are created as needed without structure or organization.  
 - No formal process exists for requesting a new collaboration area (site, team, group).
@@ -96,7 +78,7 @@ In many cases, the first move into Microsoft 365 is a simple migration of shared
 
 At this maturity level, many people in the organization are likely to be asking: “So what?” They may feel they are working harder to accomplish the same goal, without seeing a benefit. Staying at this level is generally a recipe for dissatisfaction.
 
-### Level 200
+### Level 200 - Repeatable
 
 At this level, the focus tends to be on document and file collaboration; workspaces (Microsoft Teams, SharePoint, etc.) start to have defined structures and content rules based on specific goals. Each team decides how to best collaborate within that workspace, though there is little reuse and minimal consistency outside each group.
 
@@ -107,7 +89,7 @@ At this level, the focus tends to be on document and file collaboration; workspa
 - There is agreement (but not enforcement) not to send attachments.
 - Training and knowledge remain inconsistent.
 
-#### Governance & Security
+#### Governance, Risk, Compliance and Security
 
 - Some mechanisms are in place for new site requests, whether instantiated technically or by convention.
 - External access uses default settings and is not controlled.
@@ -140,7 +122,7 @@ At this level, the focus tends to be on document and file collaboration; workspa
 
 At this level, users begin to have confidence in the platform and start to see it as an improvement over file shares: they are thinking beyond the file share.  The way they collaborate will still vary widely by functional area.
 
-### Level 300
+### Level 300 - Defined
 
 Commonality across teams starts to drive how workspaces are created and set up. Sites or Teams are created based on the type of work which will be done rather than just using out of the box templates. Document templates exist within the workspaces or are available from a wider intranet.
 
@@ -158,7 +140,7 @@ The process of collaboration is well defined and agreed as a standard business p
 - Discussions, meetings and actions are wrapped around collaboration activities.
 - Collaboration is enabled and encouraged within projects etc.
 
-#### Governance & Security
+#### Governance, Risk, Compliance and Security
 
 - External access is audited and managed to remove access when collaboration ends
 - Site de-provisioning process is established as manual process
@@ -188,7 +170,7 @@ The process of collaboration is well defined and agreed as a standard business p
 
 At this level, the organization sees a path to real ROI for the solution.  There are clear standards around the implementation, although they may not be used throughout the entire organization.  Users have a sense of security and consistency as they collaborate.
 
-### Level 400
+### Level 400 - Managed
 
 Rather than focusing on specific point solutions, a more strategic view of platform apps and services leads to a mixed-use set of solutions.  Collaborative opportunities exist not just to facilitate ongoing work, but also to support areas of interest, centers of excellence, etc. These opportunities lead to serendipitous connections between people who might not have found each other before.
 
@@ -211,7 +193,7 @@ Rather than focusing on specific point solutions, a more strategic view of platf
 - Productivity and other collaboration metrics provide insights.
 - Opportunities for informal conversations are actively created (water-cooler conversations), especially within disciplines
 
-#### Governance & Security
+#### Governance, Risk, Compliance and Security
 
 - There is a strong understanding of the value and risk of collaboration and governance and security approaches are implemented to minimize data leakage, allow and prevent sharing as needed, to reactively review or investigate activities.
 - There are time, location, device and person limits on access to content and collaboration between people
@@ -250,7 +232,7 @@ Rather than focusing on specific point solutions, a more strategic view of platf
 
 At this level, users rely on the platform for their day to day work as well as for special interest areas that contribute to company culture. The platform is seen as work-enhancing, not detrimental. Users understand and follow governance best practices, with a high degree of trust in the platform. The collaborative experience is fluid and largely frictionless, allowing easy access to internal and external colleagues on demand.
 
-### Level 500
+### Level 500 - Optimizing
 
 At this level, many transactional actions are automated to ensure consistency and good governance. Because people are connected across the organization based on their skills, interests, and work, innovative collaborations arise without formal structures. These innovative efforts are encouraged and given space to work and flourish.
 
@@ -270,7 +252,7 @@ At this level, many transactional actions are automated to ensure consistency an
 - Staff are accountable for tasks and commitments; with feedback used to assure productivity.
 - Collaboration processes and benefits extend to external partners.
 
-#### Governance & Security
+#### Governance, Risk, Compliance and Security
 
 - Automated processes exist for de-provisioning and archiving sites when collaboration ends.
 - A policy or mechanism is in place to check for duplicates, reducing site and content sprawl.
@@ -326,6 +308,24 @@ Anecdotes can be incredibly important for demonstrating benefit. It’s powerful
 Leveling up your collaboration maturity means you are rethinking processes.  This leads to direct benefit as you shift from “the way we’ve always done it” to “how could we do this better?”
 
 With collaboration at its core, the Microsoft 365 platform can be an incredible enabler of better practices. This can only be realized if your organization continues to learn, grow, and evolve its practices, striving for improved collaboration.
+
+## Common Microsoft 365 tool sets
+
+Every organization can choose how best to use the Microsoft 365 platform for collaboration. The best answer for a large multi-national conglomerate would make little sense for a five-person financial advisory firm. The Microsoft 365 apps and services most likely included in the mix for collaboration include the following:
+
+- Microsoft Teams
+- SharePoint
+- Outlook
+- OneNote
+- OneDrive
+- Yammer
+- Office apps (Word, Excel etc)
+
+### Task Management
+
+- Project Online
+- Planner
+- To Do
 
 ## Resources
 
