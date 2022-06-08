@@ -32,25 +32,12 @@ Within Microsoft 365, this means multiple individuals communicating across diffe
 
 The solution for which channels to use can vary depending on the size of your organization. For example, a small company of 6 might fulfill their need for company-wide communication via an org-wide Team while this approach would be disruptive to productivity in a company of 6,000 people actively using Teams to collaborate on projects.
 
-### Common Microsoft 365 Toolsets
-
-- Delve
-- MyAnalytics
-- Yammer
-- Microsoft Teams
-- SharePoint
-- Microsoft 365 Groups
-- Security Groups
-- Distribution lists
-- Microsoft Graph
-- Exchange
-- Azure Active Directory
 
 ## Evolution of this competency
 
 See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
 
-### Level 100
+### Level 100 - Initial
 
 Organizations at level 100 have done little to actively support the concepts around people and communities, relying on organic and traditional approaches. They may still have printed phone directories. There are no expectations within the company that personal profiles are completed or updated. Much of the important interaction between employees occurs with in-person meetings, chat, or hallways and often with no clear outcomes.
 
@@ -71,23 +58,33 @@ There is little company guidance or recommendation on where to have different ty
 
 #### 100 Impacts
 
+#### 100 Culture
 At this maturity level, many end users don’t know much about their colleagues and are unclear on how they should engage with them or reach out for help with projects and activities; this is also reflected in the amount of untargeted communications. Team building is based on personal knowledge and has little scope. Many staff feel left out or under-utilized for their skillsets. Expertise in different locations is rarely leveraged. Insights and support are often a matter of luck or chance.
-
-Because staff have no access to a reliable directory and may not know the best communication mechanisms to use, colleagues are often overlooked or uninformed. Long-term staff are frequently interrupted with requests for their knowledge, even when others might have been able to assist.
 
 There is little reinforcement of organizational culture and vision. Limited internal communities inhibit supportive colleague relationships beyond immediate co-workers. People use “reply all” despite the impact this has in colleagues’ inboxes. Employees are unable to easily identify who-does-what in the organization, find subject matter experts, or understand the reporting structure. Requests for expertise and questions are often asked via email and then forwarded around the company until the correct subject matter expert is identified; minimal shared insights are created.
 
-### Level 200
+#### 100 Process 
+Because staff have no access to a reliable directory and may not know the best communication mechanisms to use, colleagues are often overlooked or uninformed. Long-term staff are frequently interrupted with requests for their knowledge, even when others might have been able to assist.
+
+### Level 200 - Repeatable
 
 At this level, the focus tends to be on creating communication channels for the inner loop. This represents groups of people working together on projects - the organizations usual units of work. Each team may decide how to communicate internally, but there is no enterprise-level guidance on which solution to use based on the project goal. There may be pilots for capturing outer loop conversations (corporate communications, CEO town halls, employee interest groups) in another communication channel.
 
 **[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
-- There are likely to be multiple directories, often managed at the department or project level. These may be effective and maintained in some instances, but there is little aggregation, standardization or control. Some of these may draw on definitive sources, such as Active Directory, but without consistency. Centralized directories and people cards may be piloted but have not replaced local versions.
-- Staff profile technology is available, which can capture skills and other information, not just contact details. Use is encouraged in some teams, but not enforced. Terminology is not standardized; quality and completion is variable. It is possible to find people and skills across the organization, but this is neither efficient nor assured.
-- Community spaces may be piloted, though these are likely to be somewhat ad hoc with little management, oversight, or intended purpose.
-- Self-service distribution lists (Microsoft 365 Groups) may begin to be leveraged.
+#### 200 Culture
+
 - The focus tends to be on creating communication within known groups of people working on projects (the inner loop).
+- Community spaces may be piloted, though these are likely to be somewhat ad hoc with little management, oversight, or intended purpose.
+- Use is encouraged in some teams, but not enforced. 
+
+#### 200 Process
+
+- There are likely to be multiple directories, often managed at the department or project level. These may be effective and maintained in some instances, but there is little aggregation, standardization or control. Some of these may draw on definitive sources, such as Active Directory, but without consistency. Centralized directories and people cards may be piloted but have not replaced local versions.
+- Staff profile technology is available, which can capture skills and other information, not just contact details. 
+- Terminology is not standardized; quality and completion is variable. 
+- It is possible to find people and skills across the organization, but this is neither efficient nor assured.
+- Self-service distribution lists (Microsoft 365 Groups) may begin to be leveraged.
 - Policies and guidance on aspects of People and Communities exist, but this is not tracked, lacks metrics and is not strongly advocated for within the management process. Each team may decide how to act on the guidance based on the project goal and their team preference.
 
 #### 200 Impacts
@@ -100,11 +97,18 @@ Project and other teams are slow to form.
 
 Employees may begin to see the value in separating communication into different channels where the communities are more focused on specific tasks and topics. Email communication diminishes as inner loop and outer loop conversations move to different and more targeted solutions. The way different communities communicate still varies widely by functional area.
 
-### Level 300
+### Level 300 - Defined
 
-Commonality across teams starts to drive where communities are created and set up. Microsoft Teams or Yammer Communities are created based on the type of work people are doing rather than a one-size-fits-all approach. Team communication channels are well defined and agreed upon as a standard business process. Processes may not be systemically or repeatedly used to the extent needed for their users to become fully competent in which community they should share information forming gaps in adoption and consistency.
+#### 300 Culture
 
-People profiles have additional information populated for skills, expertise, and past projects which can maintained by each individual. People begin using search to identify subject matter experts in the organization instead of emailing multiple people across the organization because they can find better results with people profiles.
+- Commonality across teams starts to drive where communities are created and set up. Microsoft Teams or Yammer Communities are created based on the type of work people are doing rather than a one-size-fits-all approach. 
+- Team communication channels are well defined and agreed upon as a standard business process. 
+
+#### 300 Process
+
+- Processes may not be systemically or repeatedly used to the extent needed for their users to become fully competent in which community they should share information forming gaps in adoption and consistency.
+- People profiles have additional information populated for skills, expertise, and past projects which can maintained by each individual. 
+- - People begin using search to identify subject matter experts in the organization instead of emailing multiple people across the organization because they can find better results with people profiles.
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
@@ -121,9 +125,16 @@ People profiles have additional information populated for skills, expertise, and
 
 End users begin to see the ROI for completing their profiles as they can more easily identify who-does-what across the organization. Working teams and employee interest groups experience an increase in engagement and productivity as they connect in communication channels specific to their goals. In order to solve problems in daily work, employees frequently reach across organizational boundaries based on content ownership, and subject matter expertise they recognize as useful.
 
-### Level 400
+### Level 400 - Managed
 
-A strategic view of all communication channels including email, Yammer Communities, Teams (backed by Microsoft 365 Groups), distribution lists, and security groups increases engagement in the respective communities. These opportunities lead to serendipitous connections between people who might not have previously collaborated. There is an increased focus on self-service for end users to apply solutions and technologies to their work so they can manage their own membership. Manually maintained distribution lists are uncommon having been replaced by dynamic distribution lists and groups, based upon employee characteristics for all company communication, Microsoft 365 Groups for teamwork conversations, and Yammer for company-wide and cultural communication.
+#### 400 Culture
+
+- A strategic view of all communication channels including email, Yammer Communities, Teams (backed by Microsoft 365 Groups), distribution lists, and security groups increases engagement in the respective communities. These opportunities lead to serendipitous connections between people who might not have previously collaborated. 
+
+#### 400 Process
+
+- There is an increased focus on self-service for end users to apply solutions and technologies to their work so they can manage their own membership. 
+- Manually maintained distribution lists are uncommon having been replaced by dynamic distribution lists and groups, based upon employee characteristics for all company communication, Microsoft 365 Groups for teamwork conversations, and Yammer for company-wide and cultural communication.
 
 **[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
 
@@ -137,9 +148,17 @@ A strategic view of all communication channels including email, Yammer Communiti
 
 Users rely on different communication channels to stay informed for their day-to-day work as well as for special interest areas that contribute to company culture. They understand and follow governance best practices to share knowledge in these separate channels, with a high degree of trust in the platform getting their message to the right people. Communication in separate communities is fluid and largely frictionless, allowing easy access to inner loops and outer loops, when useful. Organization charts are no longer manually created as end users use the dynamic organization chart in people cards to identify company structure.
 
-### Level 500
+### Level 500 - Optimizing
 
-People are connected across the organization based on their skills, interests, and work. Innovative collaborations arise without formal structures. End users use people cards to find more than just organization structure and expand the usage to seeing common documents to spur further collaboration. MyAnalytics helps inform end users on how they are spending their time working with different people and empowering them to keep stronger connections across the organization.
+#### 500 Culture
+
+- People are connected across the organization based on their skills, interests, and work. 
+- Innovative collaborations arise without formal structures. 
+
+#### 500 Process
+
+- End users use people cards to find more than just organization structure and expand the usage to seeing common documents to spur further collaboration. 
+- Viva Insights / MyAnalytics helps inform end users on how they are spending their time working with different people and empowering them to keep stronger connections across the organization.
 
 **[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
 
@@ -180,6 +199,20 @@ Improving your People and Communities maturity means rethinking your processes a
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
 
+### Common Microsoft 365 Toolsets
+
+- Delve
+- MyAnalytics
+- Yammer
+- Microsoft Teams
+- SharePoint
+- Microsoft 365 Groups
+- Security Groups
+- Distribution lists
+- Microsoft Graph
+- Exchange
+- Azure Active Directory
+- 
 ## Related documents
 
 - [How to Share Org-Wide Communication in Microsoft 365](/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
