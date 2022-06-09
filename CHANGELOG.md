@@ -18,11 +18,11 @@ Note: Changelog started in January, 2021
 | Article | Updated By |
 |---|---|
 | [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | [Mike Duffy](https://www.linkedin.com/in/duffymike/) |
-| [Maturity Model for Microsoft 365 - Search Competency](./Community/microsoft365-maturity-model--search.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
-| [Maturity Model for Microsoft 365 - Collaboration Competency](./Community/microsoft365-maturity-model--collaboration.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
-| [Maturity Model for Microsoft 365 - Communication Competency](./Community/microsoft365-maturity-model--communication.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
-| [Maturity Model for Microsoft 365 – People and Communities Competency](./Community/microsoft365-maturity-model--people-and-communities-competency.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
-| [Maturity Model for Microsoft 365 - Staff & Training Competency](./Community/microsoft365-maturity-model--staff-and-training.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 - Search Competency](./Community/microsoft365-maturity-model--search.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 - Collaboration Competency](./Community/microsoft365-maturity-model--collaboration.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 - Communication Competency](./Community/microsoft365-maturity-model--communication.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 – People and Communities Competency](./Community/microsoft365-maturity-model--people-and-communities-competency.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 - Staff & Training Competency](./Community/microsoft365-maturity-model--staff-and-training.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
 
 ### New Contributors - June, 2022
 
@@ -116,7 +116,7 @@ Note: Changelog started in January, 2021
 | Article | Updated By |
 |---|---|
 | [Glossary](./Community/glossary.md) | [Peter Rising, MVP](https://www.linkedin.com/in/peterrising/) |
-| [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](./Community/microsoft365-maturity-model--governance-and-compliance.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
+| [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](./Community/microsoft365-maturity-model--governance-and-compliance.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
 
 ### New Contributors - February, 2022
 
@@ -130,7 +130,7 @@ Note: Changelog started in January, 2021
 | Article | Principal Author |
 |---|---|
 | [Advanced Highlighted Content Web Part](./Community/highlighted-content-web-part.md) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
-| [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](./Community/microsoft365-maturity-model--governance-and-compliance.md) | [Nikki Chapple](https://www.linkedin.com/in/nikkichapple/), [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
+| [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](./Community/microsoft365-maturity-model--governance-and-compliance.md) | [Nikki Chapple](https://www.linkedin.com/in/nikkichapple/), [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
 
 ### Updated Articles - January, 2022
 
@@ -192,7 +192,7 @@ Note: Changelog started in January, 2021
 | Article | Updated By |
 |---|---|
 | [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | [Kaarin Shumate (Microsoft)](https://www.linkedin.com/in/kaarin-shumate/) |
-| [Maturity Model for Microsoft 365 - Collaboration Competency](./Community/microsoft365-maturity-model--collaboration.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 - Collaboration Competency](./Community/microsoft365-maturity-model--collaboration.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
 
 ### New Contributors - October, 2021
 
@@ -209,7 +209,7 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
-| [Maturity Model for Microsoft 365 - Collaboration Competency](./Community/microsoft365-maturity-model--collaboration.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 - Collaboration Competency](./Community/microsoft365-maturity-model--collaboration.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
 | [Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md) | [Michaël Maillot](https://twitter.com/michael_maillot) |
 
 ### New Contributors - September, 2021
@@ -222,7 +222,7 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
-| [Maturity Model for Microsoft 365 - How to run a Maturity Model for Microsoft 365 workshop](./Community/microsoft365-maturity-model--run-workshop.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 - How to run a Maturity Model for Microsoft 365 workshop](./Community/microsoft365-maturity-model--run-workshop.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
 
 ### Updated Articles - August, 2021
 
@@ -307,7 +307,7 @@ No significant changes.
 
 | Article | Principal Author |
 |---|---|
-| [Customization and Development Competency](./Community/microsoft365-maturity-model--customization-and-development.md) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/), [Simon Doy](https://www.linkedin.com/in/simondoy/) |
+| [Customization and Development Competency](./Community/microsoft365-maturity-model--customization-and-development.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/), [Simon Doy](https://www.linkedin.com/in/simondoy/) |
 
 ### Updated Articles - March, 2021
 
@@ -374,7 +374,7 @@ No significant changes.
 | Article | Principal Author |
 | --- | --- |
 | [How Do Site Columns Become Managed Properties - Thus Available for Search?](./Community/how-do-site-columns-become-managed-properties-thus-available-for-search) | [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
-| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/),
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/),
 [Simon Doy](https://www.linkedin.com/in/simondoy/) |
 | [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [Document Sets for Fast Legacy Process Automation](./Community/document-sets-are-magic) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
@@ -403,7 +403,7 @@ No significant changes.
 | [Elevating Staff and Training](./Community/microsoft-maturity-model-how-to-staff-and-training) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps) | [Paul Bullock](https://www.linkedin.com/in/pkbullock/) |
 | [How Do Site Columns Become Managed Properties - Thus Available for Search?](./Community/how-do-site-columns-become-managed-properties-thus-available-for-search) | [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
-| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson](https://www.linkedin.com/in/simonjhudson/), [Simon Doy](https://www.linkedin.com/in/simondoy/) |
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/), [Simon Doy](https://www.linkedin.com/in/simondoy/) |
 | [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 
 ### Updated Articles - October, 2020

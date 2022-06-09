@@ -357,7 +357,7 @@ Achieving compliance is not a project. It is an ongoing process that needs embed
 **Principal authors**:
 
 - [Nikki Chapple](https://www.linkedin.com/in/nikkichapple/)
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 - [Mike Cox](https://www.linkedin.com/in/michaelgeoffreycox/)
 
 ---

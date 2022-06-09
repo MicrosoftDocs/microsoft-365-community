@@ -200,7 +200,7 @@ Providing solutions to existing problems will generate higher interest across th
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy](https://www.linkedin.com/in/simondoy/)
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
 
 ---
