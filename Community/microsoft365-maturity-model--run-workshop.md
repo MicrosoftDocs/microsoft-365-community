@@ -148,7 +148,7 @@ As before, use these to refine the action plan, redirect focus onto new areas of
 
 **Principal authors**:
 
-* [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+* [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 
 ---
 

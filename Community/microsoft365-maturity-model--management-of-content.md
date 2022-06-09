@@ -441,7 +441,7 @@ Burgeoning automation and AI make achieving high levels of maturity realistic fo
 
 **Principal authors**:
 
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 - [Simon Doy](https://www.linkedin.com/in/simondoy/)
 
 **Contributing authors**:

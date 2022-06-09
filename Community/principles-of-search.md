@@ -156,5 +156,5 @@ Great search shouldn't feel like search at all; great User Experience (UX) often
 
 Principal authors:
 
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 - [Simon Doy](https://www.linkedin.com/in/simondoy)
