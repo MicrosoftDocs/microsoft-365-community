@@ -346,7 +346,7 @@ Download the [Microsoft 365 Comparison table](https://go.microsoft.com/fwlink/?l
 - [Microsoft 365 compliance documentation | Microsoft Docs](/microsoft-365/compliance/)
 - [Microsoft 365 guidance for security & compliance - Service Descriptions | Microsoft Docs](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#advanced-audit)
 - [Get started with the Microsoft Service Trust Portal - Microsoft 365 Compliance | Microsoft Docs](/microsoft-365/compliance/get-started-with-service-trust-portal)
-- [Microsoft 365 Compliance Center](https://compliance.microsoft.com/)
+- [Microsoft Purview compliance portal](https://compliance.microsoft.com/)
 
 ## Conclusion
 
@@ -357,7 +357,7 @@ Achieving compliance is not a project. It is an ongoing process that needs embed
 **Principal authors**:
 
 - [Nikki Chapple](https://www.linkedin.com/in/nikkichapple/)
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 - [Mike Cox](https://www.linkedin.com/in/michaelgeoffreycox/)
 
 ---

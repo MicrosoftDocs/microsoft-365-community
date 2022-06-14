@@ -79,7 +79,7 @@ Search relies heavily on several other competencies including Collaboration and 
 
 **[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
-#### 100 Governance & Security
+#### 100 Governance, Risk, Compliance & Security
 
 - Out of the box search experience, the quality of results varies wildly with users often unable to find what they are looking without knowing the terms to search for.
 - No formal process to curate search results or analyze search patterns.
@@ -87,7 +87,7 @@ Search relies heavily on several other competencies including Collaboration and 
 - The danger of search finding inappropriate content is not well understood.
 - Search often does not respect user privileges and access rights.
 
-#### 100 Search Technology
+#### 100 Technology
 
 - Search may be restricted to File System search and a few specific applications.
 - Default out of the box configuration is in place; often with very limited capabilities (filename, title, date).
@@ -129,7 +129,7 @@ Productivity is compromised; compliance activities are weak; organizational and 
 
 **[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
-#### 200 Governance & Security
+#### 200 Governance, Risk, Compliance & Security
 
 - Some search tools respect user access rights, but inconsistencies exist, and inappropriate content may be surfaced.
 - Some effort is made to promote or identify current or authoritative versions, but with limited consistency.
@@ -138,7 +138,7 @@ Productivity is compromised; compliance activities are weak; organizational and 
 - Users are not encouraged to use Search instead of legacy approaches.
 - No role defined to administer and refine search experience.
 
-#### 200 Search Technology
+#### 200 Technology
 
 - There are some search-based point solutions which have enhanced configuration to improve user experience.
 - Some custom specific organization search results have been configured.
@@ -168,11 +168,11 @@ Productivity and compliance remain compromised; and frustration at the inability
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
-#### 300 Governance & Security
+#### 300 Governance, Risk, Compliance & Security
 
 - User access rights are consistently applied, and processes exist to manage access.
 
-#### 300 Search Technology
+#### 300 Technology
 
 - Commonly searched keywords are configured with tailored results.
 - An enterprise search exists that is connected to other file repositories and line of business applications to break down information silos and allow search across the enterprise. (This could be hybrid, Salesforce etc.). This may not be consistently available nor address all the needs of users, however.
@@ -199,7 +199,7 @@ At this level, Search becomes an asset to the organization. This has been recogn
 
 **[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
 
-#### 400 Governance & Security
+#### 400 Governance, Risk, Compliance & Security
 
 - A role exists in the organization to manage enterprise search, to review keywords, feedback and search metrics with a view to ensuring effectiveness.
 - Processes are in place to ensure staff maintain their profiles, including skills and expertise.
@@ -209,7 +209,7 @@ At this level, Search becomes an asset to the organization. This has been recogn
 - Search is be used to assist compliance processes such as subject access request and, legal eDiscovery.
 - There are tools and processes to ensure staff maintain their profiles and update content to improve findability.
 
-#### 400 Search Technology
+#### 400 Technology
 
 - Search usage is analyzed and used to improve search results.
 - Contextual search is embedded in line of business systems.
@@ -246,7 +246,7 @@ Search results can be relied on; the current versions are reliably returned; ina
 
 Search is part of everyday life for an employee at the organization. New innovative ways of exposing content are investigated. Search metrics are used to analyze user behavior and understand gaps in the information that is being returned.
 
-#### 500 Governance & Security
+#### 500 Governance, Risk, Compliance & Security
 
 - The organization seeks to continually enhance all aspects of the search process and experience; extending scopes, optimizing results and linking related information based on continual feedback
 - Advanced analytics are used to understand search usage and this provides further insights into activities across the company
@@ -254,7 +254,7 @@ Search is part of everyday life for an employee at the organization. New innovat
 - Automated tagging and other metadata are in use
 - Context (staff profiles, locations etc.) is integrated with source processes such as Joiners-Leavers, in order to maintain high quality of data
 
-#### 500 Search Technology
+#### 500 Technology
 
 - The search corpus is broadened with search being available across bespoke and line of business systems.
 - The search corpus is used to enhance knowledge management tools such as Project Cortex.
@@ -328,7 +328,7 @@ Organizations should capture success stories to provide examples of the benefits
 **Principal authors**:
 
 - [Simon Doy](https://www.linkedin.com/in/simondoy)
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson)
+- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson)
 
 **Contributing authors**:
 

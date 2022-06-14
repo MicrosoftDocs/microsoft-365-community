@@ -64,7 +64,7 @@ The Advanced eDiscovery solution in Microsoft 365 builds on the existing Microso
 
 ### [Alert Policies](/microsoft-365/compliance/alert-policies)
 
-You can use the alert policy and alert dashboard tools in the Microsoft 365 compliance center or the Microsoft 365 Defender portal to create alert policies and then view the alerts generated when users perform activities that match the conditions of an alert policy.
+You can use the alert policy and alert dashboard tools in the Microsoft Purview compliance portal or the Microsoft 365 Defender portal to create alert policies and then view the alerts generated when users perform activities that match the conditions of an alert policy.
 
 ### [Always on VPN](/windows-server/remote/remote-access/vpn/always-on-vpn/)
 
@@ -100,7 +100,7 @@ If your organization has Microsoft 365 E5 or Microsoft Defender for Office 365 P
 
 ### [Audit Log](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
 
-Use the audit log search tool in Microsoft 365 compliance center to search the unified audit log to view user and administrator activity in your organization.
+Use the audit log search tool in Microsoft Purview compliance portal to search the unified audit log to view user and administrator activity in your organization.
 
 ### [Authenticator App](/azure/active-directory/authentication/concept-authentication-authenticator-app)
 
@@ -226,7 +226,7 @@ If your organization needs to comply with legal or regulatory standards, start w
 
 ### [Compliance Center](/microsoft-365/compliance/microsoft-365-compliance-center)
 
-The Microsoft 365 compliance center provides easy access to the data and tools you need to manage to your organization's compliance needs.
+The Microsoft Purview compliance portal provides easy access to the data and tools you need to manage to your organization's compliance needs.
 
 ### [Conditional Access](/azure/active-directory/conditional-access/overview)
 
@@ -238,7 +238,7 @@ A content delivery network (CDN) is a distributed network of servers that can ef
 
 ### [Content Explorer](/microsoft-365/compliance/data-classification-content-explorer)
 
-The data classification content explorer allows you to natively view the items that were summarized on the overview page from within the Microsoft 365 Compliance center.
+The data classification content explorer allows you to natively view the items that were summarized on the overview page from within the Microsoft Purview compliance portal.
 
 ### Content Query Web Part
 
@@ -246,7 +246,7 @@ The Content Query Web Part (CQWP) is a web part available in Classic SharePoint 
 
 ### [Content Search](/microsoft-365/compliance/search-for-content)
 
-Use the Content search tool in the Microsoft 365 compliance center to quickly find email in Exchange mailboxes, documents in SharePoint sites and OneDrive locations, and instant messaging conversations.
+Use the Content search tool in the Microsoft Purview compliance portal to quickly find email in Exchange mailboxes, documents in SharePoint sites and OneDrive locations, and instant messaging conversations.
 
 ### [Content Types](/sharepoint/create-customize-content-type)
 
@@ -288,7 +288,7 @@ The Microsoft Cybersecurity Reference Architectures (MCRA) describe Microsoft’
 
 ### [Data Loss Prevention (DLP)](/microsoft-365/compliance/dlp-learn-about-dlp)
 
-In Microsoft 365, you implement data loss prevention by defining and applying DLP policies. With a DLP policy, you can identify, monitor, and automatically protect sensitive items across Microsoft 365 services, Office Applications, endpoint devices, non-Microsoft cloud apps, and on-premises file storage (including Sharepoint).
+In Microsoft 365, you implement data loss prevention by defining and applying DLP policies. With a DLP policy, you can identify, monitor, and automatically protect sensitive items across Microsoft 365 services, Office Applications, endpoint devices, non-Microsoft cloud apps, and on-premises file storage (including SharePoint).
 
 ### [Data Protection Impact Assessment (DPIA)](/compliance/regulatory/gdpr-data-protection-impact-assessments)
 
@@ -460,7 +460,7 @@ See [SharePoint Framework](#sharepoint-framework)
 
 ### [File Plan](/microsoft-365/compliance/file-plan-manager)
 
-Although you can create and manage retention labels from Information governance in the Microsoft 365 compliance center, file plan from Records management has additional management capabilities.
+Although you can create and manage retention labels from Information governance in the Microsoft Purview compliance portal, file plan from Records management has additional management capabilities.
 
 ### First Release
 
@@ -526,7 +526,7 @@ GitHub is where over 73 million developers shape the future of software, togethe
 
 ### [Global Administrator](/azure/active-directory/roles/permissions-reference#global-administrator)
 
-Users with this role have access to all administrative features in Azure Active Directory, as well as services that use Azure Active Directory identities like the Microsoft 365 Defender portal, the Microsoft 365 compliance center, Exchange Online, SharePoint Online, and Skype for Business Online. Furthermore, Global Administrators can elevate their access to manage all Azure subscriptions and management groups.
+Users with this role have access to all administrative features in Azure Active Directory, as well as services that use Azure Active Directory identities like the Microsoft 365 Defender portal, the Microsoft Purview compliance portal, Exchange Online, SharePoint Online, and Skype for Business Online. Furthermore, Global Administrators can elevate their access to manage all Azure subscriptions and management groups.
 
 ### [Global Reader](/azure/active-directory/roles/permissions-reference#global-reader)
 
@@ -638,7 +638,7 @@ Microsoft Purview Data Lifecycle Management provides capabilities to govern your
 
 ### [Information Protection](/microsoft-365/compliance/information-protection)
 
-Implement capabilities from Microsoft Information Protection (MIP) to help you discover, classify, and protect sensitive information wherever it lives or travels. MIP capabilities are included with Microsoft 365 Compliance and give you the tools to know your data, protect your data, and prevent data loss.
+Implement capabilities from Microsoft Purview Information Protection to help you discover, classify, and protect sensitive information wherever it lives or travels. MIP capabilities are included with Microsoft 365 Compliance and give you the tools to know your data, protect your data, and prevent data loss.
 
 ### Inheritance
 
@@ -1149,7 +1149,7 @@ A defined pattern of data that can be identified in order to be protected by DLP
 
 ### [Sensitivity labels](/microsoft-365/compliance/sensitivity-labels)
 
-Sensitivity labels from the Microsoft Information Protection solution let you classify and protect your organization's data, while making sure that user productivity and their ability to collaborate isn't hindered.
+Sensitivity labels from the Microsoft Purview Information Protection solution let you classify and protect your organization's data, while making sure that user productivity and their ability to collaborate isn't hindered.
 
 ### [Sentinel](/azure/sentinel/overview)
 
@@ -1393,9 +1393,9 @@ Members of this role group can manage Exchange Unified Messaging (UM) settings a
 
 ### [Unified Audit Log](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
 
-Need to find if a user viewed a specific document or purged an item from their mailbox? If so, you can use the audit log search tool in Microsoft 365 compliance center to search the unified audit log to view user and administrator activity in your organization. Thousands of user and admin operations performed in dozens of Microsoft 365 services and solutions are captured, recorded, and retained in your organization's unified audit log. Users in your organization can use the audit log search tool to search for, view, and export (to a CSV file) the audit records for these operations.
+Need to find if a user viewed a specific document or purged an item from their mailbox? If so, you can use the audit log search tool in Microsoft Purview compliance portal to search the unified audit log to view user and administrator activity in your organization. Thousands of user and admin operations performed in dozens of Microsoft 365 services and solutions are captured, recorded, and retained in your organization's unified audit log. Users in your organization can use the audit log search tool to search for, view, and export (to a CSV file) the audit records for these operations.
 
-### [Unified Communications](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/unified-communications-101-what-new-business-need-to-know)
+### [Unified Communications](https://www.microsoft.com/microsoft-365/business-insights-ideas/resources/unified-communications-101-what-new-business-need-to-know)
 
 Investing in a UC service that delivers a consistent, multi-device, UI and UX platform can free your organization from the need to download, install, and learn new software. With the right UC provider, all your communications are streamlined, reducing friction within your organization.
 

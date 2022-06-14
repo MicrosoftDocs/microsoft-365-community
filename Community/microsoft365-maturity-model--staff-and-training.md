@@ -27,23 +27,17 @@ Implementing new technology solutions requires enabling the business to use and 
 The Staff and Training competency focuses on who will be sustaining the system and how they will engage the business and empower the end users to use the solutions. The organization is focused on developing its people, processes, and therefore its capabilities by implementing quality practices.
 Note: In this article, we refer to IT as the primarily responsible department for the solutions. In your organization this might be a different group, so feel free to mentally substitute, as appropriate. Not all Microsoft 365 roll outs are IT-driven.
 
-### Common Microsoft 365 Tool Sets
-
-- [Microsoft Learn](/learn/)
-- [LinkedIn Learning](https://www.linkedin.com/learning)
-- [Microsoft Learning Pathways](/office365/customlearning/)
-- [Microsoft Support](https://support.microsoft.com/training)
-- [Modern Workplace Training](https://support.microsoft.com/modernworkplace)
-
 ## Evolution of this competency
 
 See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
 
-### Level 100
+### Level 100 - Initial
 
 Organizations at the 100 level give more precedence to launching the solution than focusing on why the solution is launched. Typically there is a bottom-line problem to be solved (e.g. platform migration due to a merger) which takes top priority. User and training needs have not been defined, evaluated, or documented. This leaves end users to develop their own methods for working with the new solutions. As a result, they may miss out on core benefits of the solution. We often refer to this level as the “Wild West Adoption Model.”
 
 **[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
+
+#### 100 User Experience
 
 - System is launched without training or guidance.
 - No information is available on who to reach out to for help or support with the system.
@@ -56,7 +50,7 @@ The solution was launched without consultation with the business for needs or ch
 
 Short and long-term system support was not considered so no formal business processes exist to support issues or requests. End users are left to problem solve with internet searches or by sending emails around the organization seeking assistance.
 
-### Level 200
+### Level 200 - Repeatable
 
 At this level, the focus is on improving the break/fix (tier 1) support by documenting processes and ensuring the support staff has repeatable solutions to common problems in the organization. There is a business process in place for reaching out to the support staff to receive help for issues though there is not a consistent resource for strategic guidance.
 
@@ -64,8 +58,13 @@ As the system is growing in usage, some of the end users who are responsible for
 
 **[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
 
+#### 200 User Experience
+
 - Support and build mainly done by individual or small group.
 - IT Help Desk is available for break/fix support only.
+
+#### 200 Process
+
 - Content owners from some functional areas are trained and using the system.
 
 #### 200 Impacts
@@ -74,16 +73,21 @@ The wait time for system support may be incredibly long due to limited support s
 
 Content owners may begin to share the message of positive impacts of the solution across the organization, raising interest, as they are empowered to work independently with the solution.
 
-### Level 300
+### Level 300 - Defined
 
 The organization is actively using the solution(s) with a training plan in place for all new and existing employees. The training is focused on how to use the system specific to interacting with the interface and accomplishing basic tasks. This training helps raise the technical literacy of the organization as users begin consistently using the solution as intended. The established training also reduces silo solutioning with unsupported products, or misuse of the solution.
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
+#### 300 User Experience
+
+- An IT resource is knowledgeable on the system and available for strategic guidance.
+- 
+#### 300 Process
+
 - An end-user training plan is in place.
 - Onboarding and off-boarding is addressed in the training plans.
 - Training is focused on interaction with specific systems.
-- An IT resource is knowledgeable on the system and available for strategic guidance.
 - Roles and responsibilities for support and training are clearly delineated and funded.
 
 #### 300 Impacts
@@ -94,13 +98,16 @@ As comfort with the system increases, end users are interested in increasing the
 
 An IT resource is available to have these discussions, though it is not enough staff to support all needs so only high priority requests are taken into consideration at this time.
 
-### Level 400
+### Level 400 - Managed
 
 The training plan for Microsoft 365 and the related solutions is viewed as a suite of training courses that better enable learning of the entire system and build off each other to support the organization’s understanding of the platform capabilities as a whole. The training is developed and lead by individual business process owners who may sit outside the IT department. All training is also linked in a central repository, like Learning Pathways or other Learning Management Systems, supporting a centralized approach to the training plan and allowing easy access for end users to find all training related to Microsoft 365.
 
 Now that the IT support staff has expanded, there are opportunities for the business to receive coaching, guidance, and innovation on their existing business processes in partnership with the IT department. The IT support staff have begun to proactively share updates and changes coming in the system to better involve business need in their strategic decisions. This involvement with the business reflects increased understanding in the platform and the organizational importance of developing business processes with the available enterprise solutions.
 
 **[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+
+
+#### 400 Process
 
 - IT has more than one resource knowledgeable on the system.
 - Requests for new functionality are tracked and prioritized.
@@ -117,7 +124,7 @@ As technical literacy increases, so does the interest from employees outside of 
 
 Now that the entire company is actively using the system for common business processes, there are regular updates shared with the entire company for changes and improvements on a regular cadence. There is a process in place to receive feedback from the organization which influences future enhancements and continuous improvement. The system support staff has increased enabling the business to shift support from reactionary to proactive and decreases wait times for help.
 
-### Level 500
+### Level 500 - Optimizing
 
 Business involvement in the Microsoft 365 platform and solutions has grown well outside of the IT department. Senior leadership is actively involved in proactively evaluating platform improvements and provides feedback on the strategic plan ensuring it aligns with the company priorities. Senior leadership’s involvement and support cascades down through the organization which formally supports embedding platform roles and responsibilities into job descriptions of IT, content owners, citizen developers, and power users. Expanding organizational involvement well past the IT department to include senior leaders and a SharePoint Community of Practice invites new opportunities to improve business processes, drive innovation, and seek opportunities where advancing technology can be a competitive advantage.
 
@@ -125,9 +132,12 @@ The most common support scripts and training content are developed with Chatbot 
 
 **[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
 
-- Dedicated system support includes strategic guidance, business analysis, training staff, and help desk support from IT. System support also includes members outside of IT, typically key stakeholders from other departments to inform strategy and road map.
+#### 500 User Experience
 - Centers of Excellence or Communities of Practice exist around effective digital workplace implementations and transformation opportunities.
 - Empowered user community (self-service governance in place).
+
+#### 500 Process
+- Dedicated system support includes strategic guidance, business analysis, training staff, and help desk support from IT. System support also includes members outside of IT, typically key stakeholders from other departments to inform strategy and road map.
 - Training is integrated into the organization’s learning strategy.
 
 #### 500 Impacts
@@ -164,6 +174,15 @@ Providing solutions to existing problems will generate higher interest across th
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
 
+### Common Microsoft 365 Tool Sets
+
+- [Microsoft Learn](/learn/)
+- [LinkedIn Learning](https://www.linkedin.com/learning)
+- [Microsoft Learning Pathways](/office365/customlearning/)
+- [Microsoft Support](https://support.microsoft.com/training)
+- [Modern Workplace Training](https://support.microsoft.com/modernworkplace)
+
+
 ## Related documents
 
 - [The Microsoft 365 Maturity Model – Introduction](/microsoft-365/community/microsoft365-maturity-model--intro)
@@ -181,7 +200,7 @@ Providing solutions to existing problems will generate higher interest across th
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy](https://www.linkedin.com/in/simondoy/)
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
 
 ---

@@ -402,7 +402,7 @@ Customization and development can only contribute maximally to the organization 
 **Principal authors**:
 
 - [Simon Doy](https://www.linkedin.com/in/simondoy)
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 
 **Contributing authors**:
 

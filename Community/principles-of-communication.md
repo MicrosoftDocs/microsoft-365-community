@@ -101,4 +101,4 @@ Communication](https://www.proofhub.com/articles/effective-communication#The_Sev
 
 ---
 
-Principal author: [Simon Hudson](<https://www.linkedin.com/in/simonjhudson/>)
+Principal author: [Simon Hudson, MVP](<https://www.linkedin.com/in/simonjhudson/>)
