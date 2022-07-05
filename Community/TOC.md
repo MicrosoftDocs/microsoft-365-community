@@ -1,4 +1,4 @@
-# [HOME](index.yml)
+# [Microsoft 365 Community Content](index.yml)
 ## Basics and Definitions
 ### [Glossary](glossary.md)
 ### [Follow Microsoft 365 on Social Media](microsoft-365-on-social-media.md)
