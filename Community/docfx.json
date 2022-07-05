@@ -40,10 +40,11 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/m365-community/community/breadcrumb/toc.json",
+      "breadcrumb_path": "/community/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "GitHub",
-      "feedback_github_repo":"MicrosoftDocs/microsoft-365-community"
+      "feedback_github_repo":"MicrosoftDocs/microsoft-365-community",
+      "searchScope": ["Microsoft 365 community"]
     },
     "fileMetadata": {},
     "template": [],
