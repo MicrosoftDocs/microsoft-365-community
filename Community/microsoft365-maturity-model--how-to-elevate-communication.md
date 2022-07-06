@@ -97,7 +97,7 @@ Organizational communication is much broader than email and newsletters. Effecti
 **Contributing authors**:
 
 * [Simon Doy](https://www.linkedin.com/in/simondoy/)
-* [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+* [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 * [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)  
 * [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
 

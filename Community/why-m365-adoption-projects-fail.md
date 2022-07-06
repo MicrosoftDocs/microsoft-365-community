@@ -6,7 +6,7 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority: 
 description: Why Microsoft 365 adoption projects fail - a deeper look into corporate mental models, organizational structures, and patterns in working behavior
 ms.collection: M365Community
@@ -139,7 +139,7 @@ Leadership, who don't generally understand details of issues and a workforce tha
 
 #### Level 4 Mental Models
 
-Let's look at which collective beliefs in our culture (which is then only reflected in corporate cultures and way too often reduced to "individual mindset": What do we people believe in, that they design organizations like this? Of course, redesigning takes a tremendous amount of energy (and money), and indeed it is easier to keep the status quo than to change. But why is this status quo, this broken system, still om place? Because we (or at least enough of us in critical positions) believe in "knowledge is power" instead of "Sharing is Caring." The "command and control" approach looks as if it also provides security and predictability, and although we already know better, we stick to this *ego-system* instead of an *eco system*.
+Let's look at which collective beliefs in our culture (which is then only reflected in corporate cultures and way too often reduced to "individual mindset": What do we people believe in, that they design organizations like this? Of course, redesigning takes a tremendous amount of energy (and money), and indeed it is easier to keep the status quo than to change. But why is this status quo, this broken system, still in place? Because we (or at least enough of us in critical positions) believe in "knowledge is power" instead of "Sharing is Caring." The "command and control" approach looks as if it also provides security and predictability, and although we already know better, we stick to this *ego-system* instead of an *eco system*.
 
 What can we now do about it? Make people aware of the broken system that doesn't meet our needs anymore, and that forces people into workarounds, unhealthy work ethics, and poor connection to their organization. Please stop trying to fix users when we need to fix this system.
 

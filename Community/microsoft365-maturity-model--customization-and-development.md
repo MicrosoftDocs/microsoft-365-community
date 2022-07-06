@@ -6,7 +6,7 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority:
 description: The Microsoft 365 Maturity Model - Customization and Development Competency
 ms.collection: SPCommunity
@@ -402,7 +402,7 @@ Customization and development can only contribute maximally to the organization 
 **Principal authors**:
 
 - [Simon Doy](https://www.linkedin.com/in/simondoy)
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 
 **Contributing authors**:
 

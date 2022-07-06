@@ -6,7 +6,7 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority: 
 description: Elevate your organization through the Collaboration Competency maturity levels
 ms.collection: M365Community
@@ -187,7 +187,7 @@ With collaboration at its core, the Microsoft 365 platform can be an incredible 
 **Contributing authors**:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 - [Simon Doy]( https://www.linkedin.com/in/simondoy/)
 
 ---

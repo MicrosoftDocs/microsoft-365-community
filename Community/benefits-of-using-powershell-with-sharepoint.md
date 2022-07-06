@@ -87,7 +87,7 @@ More examples where PowerShell is used:
 
 - [Site Scripts & Site Designs](/sharepoint/dev/declarative-customization/site-design-overview)
 - [WPF Applications](/dotnet/framework/wpf/getting-started/) (Graphical User Interfaces)
-- [Reports on Site Collection Inventory](https://veronicageek.com/sharepoint/sharepoint-2013/get-nested-folders-files-count-folder-size-and-more-in-spo-document-libraries-using-powershell-pnp/2019/09/)
+- [Reports on Site Collection Inventory](https://veronicageek.com/2019/get-nested-folders-files-count-folder-size/)
 
 ## Who should know PowerShell?
 

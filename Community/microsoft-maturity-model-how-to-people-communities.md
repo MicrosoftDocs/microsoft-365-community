@@ -6,7 +6,7 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority: 
 description: Elevate your organization through the People and Communities Competency maturity levels 
 ms.collection: M365Community
@@ -44,7 +44,7 @@ Begin to pilot open community spaces like Yammer or an org-wide Team. The "outer
 
 ### People (level 100 to 200)
 
-Reach out to your [SharePoint Champions](identifying-your-sharepoint-champions.md), Microsoft 365 business owners, and internal customer service functions (think Information Technology, Human Resources, Finance) to begin completing their profiles in [Delve](https://support.microsoft.com/what-is-office-delve-1315665a-c6af-4409-a28d-49f8916878ca) with more detail in addition to any contact information that may be populated from Active Directory or a synced Human Resource Information System. Focus on adding project and skills information to support search becoming a go-to place to identify people across the organization who provide internal customer service support (like answering benefits questions or providing support with a specific software), source knowledge and expertise.
+Reach out to your [SharePoint Champions](identifying-your-sharepoint-champions.md), Microsoft 365 business owners, and internal customer service functions (think Information Technology, Human Resources, Finance) to begin completing their profiles in [Delve](https://support.microsoft.com/office/what-is-delve-1315665a-c6af-4409-a28d-49f8916878ca) with more detail in addition to any contact information that may be populated from Active Directory or a synced Human Resource Information System. Focus on adding project and skills information to support search becoming a go-to place to identify people across the organization who provide internal customer service support (like answering benefits questions or providing support with a specific software), source knowledge and expertise.
 
 ## How to move from Repeatable to Defined (level 200 to 300)
 

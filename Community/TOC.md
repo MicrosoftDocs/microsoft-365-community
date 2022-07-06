@@ -1,4 +1,4 @@
-# [HOME](index.yml)
+# [Microsoft 365 Community Content](index.yml)
 ## Basics and Definitions
 ### [Glossary](glossary.md)
 ### [Follow Microsoft 365 on Social Media](microsoft-365-on-social-media.md)
@@ -7,6 +7,7 @@
 ### [What is a Content Type?](what-is-content-type.md)
 ### [Groups in Microsoft 365 and Azure, and Which is Right for You](all-about-groups.md)
 ### [What kind of apps can you build on Microsoft 365?](type-of-apps-microsoft-365.md)
+### [Query String URL Tricks for SharePoint and Microsoft 365](query-string-url-tricks-sharepoint-m365.md)
 ## Microsoft 365 Better Practices
 ### [Accessibility by Design](accessibility-by-design.md)
 ### [Content Type Propagation](content-type-propagation.md)
@@ -85,6 +86,7 @@
 ### [Managing SharePoint Online Security: A Team Effort](sharepoint-security-a-team-effort.md)
 ### [Basic Security Set Up for Microsoft 365](basic-security-set-up-for-microsoft-365.md)
 ### [Managing External Guests in SharePoint vs Teams](managing-external-guest-in-SharePoint-vs-Teams.md)
+### [Teams Shared Channels for Admins](teams-shared-channel-for-admins.md)
 ### [The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1](power-platform-DLP-policies-you-should-be-considering-on-Day-1.md)
 ## In Preview
 ### [Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces](yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces.md)
@@ -94,10 +96,10 @@
 ### [Visit the SharePoint community](https://techcommunity.microsoft.com/t5/SharePoint/ct-p/SharePoint)
 ### [Suggest a feature](https://sharepoint.uservoice.com/)
 ## Microsoft Office official documentation
-### [SharePoint](https://docs.microsoft.com/sharepoint/)
-### [Microsoft Teams](https://docs.microsoft.com/microsoftteams/microsoft-teams)
-### [Microsoft 365 Enterprise](https://docs.microsoft.com/microsoft-365/enterprise/?view=o365-worldwide)
-### [Microsoft 365 Business](https://docs.microsoft.com/microsoft-365/business/?view=o365-worldwide)
-### [All Office documentation](https://docs.microsoft.com/office/)
+### [SharePoint](/sharepoint/)
+### [Microsoft Teams](/microsoftteams/microsoft-team/s)
+### [Microsoft 365 Enterprise](/microsoft-365/enterprise/)
+### [Microsoft 365 Business](/microsoft-365/business/)
+### [All Office documentation](/office/)
 ## Contribute
 ### [Learn how to be a community contributor](https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/README.md)

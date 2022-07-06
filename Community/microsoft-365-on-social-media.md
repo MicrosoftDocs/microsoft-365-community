@@ -6,7 +6,7 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority: 
 description: Useful links to help you follow the Microsoft 365 community on social media
 ms.collection: M365Community
@@ -57,6 +57,7 @@ If you're having general issues with Microsoft 365, be sure to check the [Micros
 |[#Microsoft365Groups](https://twitter.com/hashtag/Microsoft365Groups)|
 |[#AzureAD](https://twitter.com/hashtag/AzureAD)|[@AzureAD](https://twitter.com/azuread)|
 |[#MSOutlook](https://twitter.com/hashtag/MSOutlook)|[@Outlook](https://twitter.com/Outlook)|
+|[#MSExchange](https://twitter.com/hashtag/MSExchange)|[@MSFTExchange](https://twitter.com/MSFTExchange)|
 |[#Yammer](https://twitter.com/hashtag/Yammer)|[@Yammer](https://twitter.com/Yammer)|
 |[#AdaptiveCards](https://twitter.com/hashtag/AdaptiveCards)||
 

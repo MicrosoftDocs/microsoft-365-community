@@ -6,7 +6,7 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority:
 description:  Maturity Model for Microsoft 365 - Management of Content Competency
 ms.collection: M365Community
@@ -441,7 +441,7 @@ Burgeoning automation and AI make achieving high levels of maturity realistic fo
 
 **Principal authors**:
 
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 - [Simon Doy](https://www.linkedin.com/in/simondoy/)
 
 **Contributing authors**:
