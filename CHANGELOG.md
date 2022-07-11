@@ -6,6 +6,23 @@
 
 Note: Changelog started in January, 2021
 
+## July, 2022
+
+### New Articles - July, 2022
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - July, 2022
+
+| Article | Updated By |
+|---|---|
+|[Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)|[Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/)|
+
+### New Contributors - July, 2022
+
+-
+
 ## June, 2022
 
 ### New Articles - June, 2022
