@@ -6,6 +6,24 @@
 
 Note: Changelog started in January, 2021
 
+## July, 2022
+
+### New Articles - July, 2022
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - July, 2022
+
+| Article | Updated By |
+|---|---|
+|[Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)|[Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/)|
+|[Working with modern client-side pages using PnP PowerShell](./Community/working-with-modern-clientside-pages-using-pnp-powershell.md)|[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+
+### New Contributors - July, 2022
+
+-
+
 ## June, 2022
 
 ### New Articles - June, 2022
