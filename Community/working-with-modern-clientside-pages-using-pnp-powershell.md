@@ -149,11 +149,11 @@ I will then clean the template.xml, by removing all other components that I don'
 
 ![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp08.png)
 
-To apply the template to a new site, in your script connect to the new site then run Apply-PnPProvisioningTemplate with the template:
+To apply the template to a new site, in your script connect to the new site then run [Invoke-PnPSiteTemplate](https://pnp.github.io/powershell/cmdlets/Invoke-PnPSiteTemplate.html) with the template:
 
 ```powershell
     Connect-PnPOnline -Url https://jh365dev.sharepoint.com/sites/$newsite -UseWebLogin
-    Apply-PnPProvisioningTemplate -Path "C:\Development\template.xml"
+    Invoke-PnPSiteTemplate -Path "C:\Development\template.xml"
 ```
 
 Afterward, depending on your needs, add extra code to update the web parts.
