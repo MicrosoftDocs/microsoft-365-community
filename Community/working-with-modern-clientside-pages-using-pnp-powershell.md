@@ -19,7 +19,7 @@ If you need to work with SharePoint Online, whether it's doing some minor modifi
 
 First things first, if you are unfamiliar or new to PnP, head over to the PnP PowerShell overview to get introductions and guidance on how to setup this.
 
-* [PnP PowerShell overview](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
+* [PnP PowerShell overview](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)
 
 Client-side pages is a big topic. In this article I will cover some real world use cases where I've been using PnP PowerShell.
 
@@ -162,7 +162,7 @@ Finally, I would like to thank everyone that has contributed and still contribut
 
 ## Useful resources
 
-* [PnP PowerShell overview](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
+* [PnP PowerShell overview](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)
 * [Creating new client-side page](https://hangconsult.com/2017/11/05/creating-a-new-client-side-page-with-pnp-powershell/)
 
 ------
