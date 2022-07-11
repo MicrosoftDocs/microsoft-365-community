@@ -15,6 +15,9 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
+> [!NOTE]
+> The below sample codes is updated to work with the PnP.PowerShell version 1.11.0
+
 If you need to work with SharePoint Online, whether it's doing some minor modifications or building a custom SharePoint provisioning solution, PnP PowerShell is one of the greatest tools there is. It will certainly help you achieve your goals. PnP is a lot more than just PowerShell, but since I'm an IT-Pro at heart, PowerShell is the number one tool I have in my toolkit.
 
 First things first, if you are unfamiliar or new to PnP, head over to the PnP PowerShell overview to get introductions and guidance on how to setup this.
@@ -36,11 +39,12 @@ Client-side pages is a big topic. In this article I will cover some real world u
 This is the first command we need to know in PnP
 
 ``` powershell
-    Connect-PnPOnline -Url $siteUrl -UseWebLogin
+    Connect-PnPOnline -Url $siteUrl -Interactive
 ```
 
 > [!NOTE]
-> The switch "UseWebLogin" will make sure you can authenticate if your account is configured with [MFA](glossary.md#multi-factor-authentication-mfa)
+> The switch "Interactive" will make sure you can authenticate if your account is configured with [MFA](glossary.md#multi-factor-authentication-mfa), and provides more features.
+> But this requires the tenant admin approval of the "PnP Management Shell" app in Azure AD, and it's not easy to get this approval sometimes.
 
 After connecting you can start working with the pages you have in the site.
 
@@ -51,22 +55,22 @@ The code below will create a new page named "Welcome" and add some web parts on 
     $pagename = "Welcome"  
 
     #Add 3 new sections to the page  
-    $page = Add-PnPClientSidePage -Name $pagename -LayoutType Home #Using layouttype Home, removes the title and banner zone
+    $page = Add-PnPPage -Name $pagename -LayoutType Home #Using layouttype Home, removes the title and banner zone
 
-    Add-PnPClientSidePageSection -Page $page -SectionTemplate OneColumn -Order 1 # OneColumnFullWidth is only available if the site is a Communication site
+    Add-PnPPageSection -Page $page -SectionTemplate OneColumn -Order 1 # OneColumnFullWidth is only available if the site is a Communication site
 
-    Add-PnPClientSidePageSection -Page $page -SectionTemplate TwoColumn -Order 2
+    Add-PnPPageSection -Page $page -SectionTemplate TwoColumn -Order 2
 
-    Add-PnPClientSidePageSection -Page $page -SectionTemplate OneColumn -Order 3
+    Add-PnPPageSection -Page $page -SectionTemplate OneColumn -Order 3
 
     #Add Hero webpart to page  
-    Add-PnPClientSideWebPart -Page $page -DefaultWebPartType "Hero" -Section 1 -Column 1
+    Add-PnPPageWebPart -Page $page -DefaultWebPartType "Hero" -Section 1 -Column 1
 
     #Add text webpart to page  
-    Add-PnPClientSideText -Page $page -Text "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue mass a. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna." -Section 2 -Column 1
+    Add-PnPPageTextPart -Page $page -Text "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue mass a. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna." -Section 2 -Column 1
 
     #Add the list webpart to the page, but stating that it's a document library then add the library GUID  
-    Add-PnPClientSideWebPart -Page $page -DefaultWebPartType "List" -Section 2 -Column 2 -WebPartProperties @{isDocumentLibrary="true";selectedListId="6a041fef-b2a2-45b4-b827-c1b268bc63d3"}
+    Add-PnPPageWebPart -Page $page -DefaultWebPartType "List" -Section 3 -Column 1 -WebPartProperties @{isDocumentLibrary="true";webRelativeListUrl="/Shared Documents"}
 ```
 
 ## Now we want to modify another page Home.aspx
@@ -74,13 +78,13 @@ The code below will create a new page named "Welcome" and add some web parts on 
 We'll start by creating a $page output containing the details about the page.  
 
 ``` powershell
-    $page = Get-PnPClientSidePage -Identity home.aspx
+    $page =Get-PnPPage -Identity Home.aspx
 ```
 
 ![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp01.png)
 
 ``` powershell
-    $page.controls | will give us a full view of all webpart on the page, and their properties
+    $page.Controls | this will give us a full view of all webpart on the page, and their properties
 ```
 
 ![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp02.png)
@@ -88,8 +92,8 @@ We'll start by creating a $page output containing the details about the page.
 Based on the output above, running the below code will give us the properties of the "Document library" webpart on the page, and you can see that it's linked by default to the default document library.  
 
 ``` powershell
-    $page = Get-PnPClientSidePage -Identity Home.aspx    
-    $webpart = $page.Controls | ? {$_.InstanceId -eq "416a4c58-61fc-4166-aa19-1099fad50545"}  
+    $page = Get-PnPPage -Identity Home.aspx    
+    $webpart = $page.Controls | ? {$_.InstanceId -eq "ffa23c74-bf22-42d0-8889-9a996fd8642b"}  
     $webpart.PropertiesJson  
 ```
 
@@ -142,8 +146,14 @@ Above is the technique I use when I want to work with specific pages. When I wan
 Firstly I will create an export of all pages from my template site.
 
 ```powershell
-    Get-PnPProvisioningTemplate -Out "C:\Development\template.xml" -Force -IncludeAllClientSidePages #includeallclientsidepages will copy all other pages in the site
+    Get-PnPSiteTemplate -Out "C:\Development\template.xml" -Force -IncludeAllClientSidePages #includeallclientsidepages will copy all other pages in the site
 ```
+>[!NOTE]
+>When running the above command you might see the following error: "Get-PnPSiteTemplate : GetAccessTokenAsync() called without an ACS token generator. Specify in AuthenticationManager constructor the authentication parameters", proposed solutions to this can bee seen in below posts:
+
+>[Get-pnpsitetemplate unauthorized](https://techcommunity.microsoft.com/t5/sharepoint-developer/get-pnpsitetemplate-attempted-to-perform-an-unauthorized/m-p/2631095), this is recommended if you can get approval from your Azure Admins.
+
+>[Cannot export site template](https://stackoverflow.com/questions/67981547/cannot-export-site-template)
 
 I will then clean the template.xml, by removing all other components that I don't need, and in the "ClientSidePages" node you will find the web parts' instanceIDs that you can reuse later.  
 
@@ -152,8 +162,8 @@ I will then clean the template.xml, by removing all other components that I don'
 To apply the template to a new site, in your script connect to the new site then run Apply-PnPProvisioningTemplate with the template:
 
 ```powershell
-    Connect-PnPOnline -Url https://jh365dev.sharepoint.com/sites/$newsite -UseWebLogin
-    Apply-PnPProvisioningTemplate -Path "C:\Development\template.xml"
+    Connect-PnPOnline -Url https://tenant.sharepoint.com/sites/$newsite -Interactive
+    Invoke-PnPSiteTemplate -Path "C:\Development\template.xml"
 ```
 
 Afterward, depending on your needs, add extra code to update the web parts.
