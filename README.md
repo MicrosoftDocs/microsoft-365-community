@@ -34,7 +34,7 @@ While we want the content in this repository to be extremely useful, it doesn't 
 
 ## Contributing
 
-This repository is sanctioned by Microsoft and therefore there are some contribution guidelines to follow. If you want to contribute directly, you need to have a Github account. But we know not all of you know how to use GitHub or want to learn. If you have ideas and would like to submit them outside GitHub, add a post to the [Discussions](https://github.com/MicrosoftDocs/microsoft-365-community/discussions) and we can work together to get your contribution into the repo. Check out the [Wiki articles](https://github.com/MicrosoftDocs/microsoft-365-community/wiki) for more details on the mechanics of contributing.
+This repository is sanctioned by Microsoft and therefore there are some contribution guidelines to follow. If you want to contribute to the discussions, ideas, or articles, you need to have a Github account. We do not want Github to be a barrier to your contributions. If you are new to Github and have ideas you would like to submit outside GitHub, add a post to the [Discussions](https://github.com/MicrosoftDocs/microsoft-365-community/discussions). We can work together to get your contribution into the repo. If you want to learn how to contribute through Github, check out our step-by-step guide with videos for [Contributing to Microsoft Community Docs](https://github.com/MicrosoftDocs/microsoft-365-community/blob/main/Sharing%20is%20Caring%20Community%20Docs.pdf) or explore the [Wiki articles](https://github.com/MicrosoftDocs/microsoft-365-community/wiki) for more details on the mechanics of contributing.
 
 ---
 

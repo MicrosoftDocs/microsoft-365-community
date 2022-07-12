@@ -51,7 +51,25 @@ Collaborating in chats will show an "alert" with a message about the "shared cha
 
 As you may know, when you add a external user in a Microsoft Team, they exist as a "Guest", and the guest record will exist in your [Azure Active Directory (AAD)](glossary.md#azure-active-directory-aad), meaning you can enforce policies, such as [Multi-Factor Authentication (MFA)](glossary.md#multi-factor-authentication-mfa) for the guest account.
 
-But for shared channels, the "External" user will only exist as an external user to that shared channel. Currently, I don't see a way in the Admin [user interface (UI)](glossary.md#user-interface-ui) to see how many "External users" we have or where they are given access. This means as admins we really don't know, even thought we do have the audit logs in Azure AD.
+But for shared channels, the "External" user only exists as an external user to that shared channel. Currently, there are three places where we can see those external users:
+
+1. In the *Manage channel* settings for the channel
+1. In the Teams Admin Center by drilling into the Team and the specific channel
+1. In the Site permissions fro the backing SharePoint site - but only if we're a bit tricky, so this may go away in the future.
+
+### Manage channel settings for the channel
+
+In the Manage channel settings, you can see the external users in the Members section.
+
+![Manage channel settings](media/teams-shared-channel-for-admins/tsc08.png)
+
+### Teams Admin Center
+
+In the Teams Admin Center, you can drill into the Team and the shared channel to see the Members.
+
+![Manage channel settings in the Teams Admin Center](media/teams-shared-channel-for-admins/tsc09.png)
+
+### SharePoint Site Permissions
 
 In the SharePoint site which is created for the shared channel, you won't have a link option for "Site permissions" in the "Site settings" menu to check there, either.
 

@@ -83,7 +83,7 @@ When they are ready to _share_, the HR team moves the document to or writes the 
 | Security | Microsoft 365 Groups | SharePoint Groups |
 | Default Setting for External Sharing | External Sharing Enabled (but can be disabled by the SharePoint Admin) | External Sharing Disabled (but can be enabled by the SharePoint Admin) |
 | Navigation | Left | Top |
-|Multilingual features? | No | Yes |
+|Multilingual features? | Yes | Yes |
 | When you create, you ALSO get … | Planner board, OneNote notebook, Email address for the group, Shared Calendar, shared mailbox, opportunity to connect with a Microsoft Team  (if the site wasn&#39;t created as part of provisioning a Microsoft Teams) | NOTHING but a SharePoint communication site! |
 
 ---

@@ -1,4 +1,4 @@
-# [HOME](index.yml)
+# [Microsoft 365 Community Content](index.yml)
 ## Basics and Definitions
 ### [Glossary](glossary.md)
 ### [Follow Microsoft 365 on Social Media](microsoft-365-on-social-media.md)
@@ -86,6 +86,7 @@
 ### [Managing SharePoint Online Security: A Team Effort](sharepoint-security-a-team-effort.md)
 ### [Basic Security Set Up for Microsoft 365](basic-security-set-up-for-microsoft-365.md)
 ### [Managing External Guests in SharePoint vs Teams](managing-external-guest-in-SharePoint-vs-Teams.md)
+### [Teams Shared Channels for Admins](teams-shared-channel-for-admins.md)
 ### [The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1](power-platform-DLP-policies-you-should-be-considering-on-Day-1.md)
 ## In Preview
 ### [Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces](yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces.md)

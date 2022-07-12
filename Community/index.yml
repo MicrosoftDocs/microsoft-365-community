@@ -218,6 +218,8 @@ landingContent:
             url: basic-security-set-up-for-microsoft-365.md
           - text: "Managing External Guests in SharePoint vs Teams"
             url: managing-external-guest-in-SharePoint-vs-Teams.md
+          - text: Teams Shared Channels for Admins
+            url: teams-shared-channel-for-admins.md
           - text: The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1
             url: power-platform-DLP-policies-you-should-be-considering-on-Day-1.md
 
@@ -242,7 +244,5 @@ landingContent:
             url: https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support
           - text: Visit the SharePoint community
             url: https://techcommunity.microsoft.com/t5/SharePoint/ct-p/SharePoint
-          - text: Suggest a feature
-            url: https://sharepoint.uservoice.com/
           - text: Learn how to be a Community Contributor
             url:  https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/README.md
