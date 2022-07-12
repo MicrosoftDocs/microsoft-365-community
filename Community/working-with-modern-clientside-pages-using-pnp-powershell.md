@@ -79,7 +79,7 @@ We'll start by creating a $page output containing the details about the page.
 
 ``` powershell
     $page = Get-PnPPage -Identity Home.aspx
-    $page.Controls | this will give us a full view of all webpart on the page, and their properties
+    $page.Controls # this will give us a full view of all webpart on the page, and their properties
 ```
 
 ![pnp](media/working-with-modern-clientside-pages-using-pnp-powershell/pnp02.png)
