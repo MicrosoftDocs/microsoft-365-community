@@ -76,12 +76,6 @@ landingContent:
             url: microsoft-maturity-model-how-to-staff-and-training.md
 
   # Card (optional)
-  - title: Practical Scenarios
-    linkLists:
-      - linkListType: quickstart
-        links:
-
-  # Card (optional)
   - title: Tools & Samples
     linkLists:
       - linkListType: get-started
