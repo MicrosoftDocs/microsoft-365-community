@@ -40,35 +40,10 @@ These days, the question is as much *whether* to customize as it is *how* to cus
 
 The reality is that there has always been a dynamic equilibrium between what can be delivered with different technologies by people with a range of skill sets. Perhaps unexpectedly, increasing maturity is less about a progression from Out-of-the-Box and No Code to Pro Code; it is more about how organizations coordinate and integrate this continuum.
 
-## Common Toolsets
-
-- Microsoft Graph
-- Microsoft Azure
-- SharePoint Framework
-- Power Platform
-- Dataverse for Teams
-- Microsoft Teams App Source
-- Serverless Technologies
-- Azure DevOps
-- Artificial Intelligence / Machine Learning
-- Microsoft PnP Frameworks
-
-Customizable products and services
-
-- Microsoft Teams
-- SharePoint
-- Forms
-- Project
-- Dynamics
-- Microsoft Office apps
-- Outlook/Exchange Server
-- Visio
-- Microsoft Lists
-- Power BI
 
 ## Evolution of this competency
 
-### Level 100
+### Level 100 - Initial
 
 The customization and development continuum are poorly understood, unmanaged and chaotic. Staff are frustrated with poor functionality but have no mechanism for requesting or implementing change. Development is characterized by building in live without going through a release process where development is tested before being put live.
 
@@ -100,7 +75,7 @@ The customization and development continuum are poorly understood, unmanaged and
 - Systems are developed which use Microsoft 365 services as a data store but the user interface is held outside of Microsoft 365.
 - Systems are designed and built with little thought, on the Microsoft 365 services that can be glued together to deliver the system.
 
-#### 100 Management &amp; Governance
+#### 100 Governance, Risk, Compliance and Security
 
 - There are no agreed development platforms, tools, languages, etc.
 - There is a lack of ownership of development on behalf of the organization.
@@ -124,7 +99,7 @@ At this level you can expect the following:
 - The organization risks not being able to rebuild a solution if it is corrupted.
 - Money is wasted on development when other approaches using low-code or no-code could be used to achieve similar results.
 
-### Level 200
+### Level 200 - Repeatable
 
 Different types of development are recognized as occurring, but there are tensions between parts of the organization adopting different approaches. Shadow development continues to occur or is prohibited without providing alternatives.
 
@@ -156,7 +131,7 @@ Development is characterized by _build to live, though there may be some testing
 - Projects start to use Microsoft 365 design standards when delivering systems.
 - Development approaches and best practice start to be understood and are adopted by members of the project team. However, they are not enforced.
 
-#### 200 Management &amp; Governance
+#### 200 Governance, Risk, Compliance and Security
 
 - Developers don't know the platform, so write code instead of using native features which often creates unnecessary technical debt and confusion.
 - Some projects deliver systems with user guides and administration guides.
@@ -177,7 +152,7 @@ At this level you can expect the following:
 - The quality of developed solutions is low, and those solutions struggle for adoption.
 - There are issues when deployments occur as deployments are not repeatable and cannot be practiced.
 
-### Level 300
+### Level 300 - Defined
 
 There is an appreciation of the limits of the no-code approach, low-code and pro-code approaches and some effort to introduce standards, guidance, and collaboration to structure the co-existence of different approaches against different business needs. Attempts are made to bring all approaches under some form of oversight.
 
@@ -211,7 +186,7 @@ Staff are generally satisfied with functionality but struggle to consistently ge
 - Continuous Integration and Continuous Deployment may be introduced alongside other approaches.
 - Pro Code developers appreciate when not to develop solutions, only writing code when it is necessary and can make a difference. They begin to hand off to Low Code and configuration alternatives.
 
-#### 300 Management &amp; Governance
+#### 300 Governance, Risk, Compliance and Security
 
 - There is an appreciation of the limits of the no-code approach, low-code, and pro-code approaches. Needs that trigger a transition from one approach to another are often identified and options for delivering extended needs or features with pro code are understood. This is often based on business need with measurable return on investment.
 - Good practice is understood by a core of experts and is used to guide solution development. There is a recognition of the roles of no-code and low-code alongside pro-code approaches. The 80/20 rule is increasingly applied, using out of the box functionality that is good enough to provide utility, often adapting a process to accommodate Out of the Box (OOTB) functionality rather than build customer solutions.
@@ -237,7 +212,7 @@ At this level you can expect the following:
 - The organization has a forum for sharing systems and solutions that have been built.
 - Improved release of systems as the structure, processes, and rigor for deployment is put in place, simplifying the IT estate, and reducing support burden and corporate risk.
 
-### Level 400
+### Level 400 - Managed
 
 There are clear processes and decision support for solution design and road-mapping consistent with business needs and impacts, encompassing the code-continuum. Standards exist, are functional, and reviewed and inconsistencies are actively eliminated. The portfolio of solutions is well understood and managed.
 
@@ -279,7 +254,7 @@ Staff are able to work efficiently across the spectrum of solutions and adopt ne
 - Lessons learnt from the development of Pro code solutions are shared within the organization.
 - APIs are proactively developed to allow No Code and Low Code to easily access sophisticated data sources, functions, and business automations.
 
-#### 400 Management &amp; Governance
+#### 400 Governance, Risk, Compliance and Security
 
 - Application usage is measured using tooling such as Application Insights.
 - Applications are instrumented to detect errors and events using tools such as Application Insights.
@@ -299,7 +274,7 @@ At this level you can expect the following:
 - Design standards mean that users can pick up the application more easily, boosting adoption.
 - Applications meet the needs of their users due to the user centered design approach.
 
-### Level 500
+### Level 500 - Optimizing
 
 Design decisions are routinely reviewed for effectiveness and learning is applied to continually refine and optimize solutions. Advanced tools are used to measure User Experience and solution efficacy and drive up the quality of all solutions. These are also used to proactively enhance standards and to help shape training of developers.
 
@@ -326,7 +301,7 @@ The effectiveness of solutions is continually assessed via a range of metrics to
 
 Analytics on the use of APIs for data sources, functions and business automations is used to optimize their use and performance.
 
-#### 500 Management &amp; Governance
+#### 500 Governance, Risk, Compliance and Security
 
 - Development is proactively managed across the code-continuum; a dynamic equilibrium is maintained between the different code approaches, shifting to take advantage of changes in the technology and platform landscape. Active monitoring of the source technologies allows these changes to be anticipated and included in the development road maps.
 - There is granular insight into the developed solution portfolio and code-continuum, with understanding of origination costs, technical debt, support costs, and benefits. These are integrated with user metrics. These are used to direct development strategies and investments.
@@ -357,7 +332,7 @@ At this level you can expect the following:
 - A manufacturer can produce the required certificates and documentation to support the release of a new product in a managed way.
 - Using Machine Learning to improve the efficiency in how a logistics company routes its delivery drivers.
 
-## Cost &amp; benefit
+### Cost &amp; benefit
 
 When we talk about benefits of customization and development, it is easier to see the benefit and the ROI. Often only the time savings are used to quantify the ROI. When development enables a new capability within a business, the revenue that is realized with the new capability can drive previously unconsidered ROI.
 
@@ -392,6 +367,32 @@ Traditionally, organizations have treated no code and low code approaches as 'se
 When development is performed it needs to be done in a way which reduces the risk to the organization. So, implementing source code repositories to backup code and ensure that the developers are productive. This is important as too often there are stories where an organization has a solution which is used but they have lost the source code.
 
 Customization and development can only contribute maximally to the organization if it is part of an overall view of organizational maturity which includes the other competencies as well. At the end of the day, technology is a set of tools, but people can use technology to accomplish their shared goals. Technology without focus on the people aspects rarely succeeds.
+
+## Common Toolsets
+
+- Microsoft Graph
+- Microsoft Azure
+- SharePoint Framework
+- Power Platform
+- Dataverse for Teams
+- Microsoft Teams App Source
+- Serverless Technologies
+- Azure DevOps
+- Artificial Intelligence / Machine Learning
+- Microsoft PnP Frameworks
+
+Customizable products and services
+
+- Microsoft Teams
+- SharePoint
+- Forms
+- Project
+- Dynamics
+- Microsoft Office apps
+- Outlook/Exchange Server
+- Visio
+- Microsoft Lists
+- Power BI
 
 ## Resources
 
