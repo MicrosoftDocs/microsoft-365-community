@@ -14,7 +14,8 @@
 ### [OneDrive PC Folder Backup Benefits for End Users](known-folder-move-benefits-for-enduser.md)
 ### [Why Microsoft 365 adoption projects fail](why-m365-adoption-projects-fail.md)
 ## Maturity Model for Microsoft 365
-### [Introduction](microsoft365-maturity-model--intro.md)
+### [Overview](index_mm4m365.yml)
+### [Introduction](microsoft-365-maturity-model-intro.md)
 ### Collaboration Competency
 #### [Collaboration Competency](microsoft365-maturity-model--collaboration.md)
 #### [Elevating Collaboration](microsoft365-maturity-model--how-to-elevate-collaboration.md)
