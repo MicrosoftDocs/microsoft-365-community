@@ -17,8 +17,9 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
-|[Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)|[Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/)|
-|[Working with modern client-side pages using PnP PowerShell](./Community/working-with-modern-clientside-pages-using-pnp-powershell.md)|[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson), [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
+| [Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md) | [Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/)|
+| [Working with modern client-side pages using PnP PowerShell](./Community/working-with-modern-clientside-pages-using-pnp-powershell.md)|[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson), [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
+| [Maturity Model for Microsoft 365 - Communication Competency](./Community/microsoft365-maturity-model--communication.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson), [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 
 ### New Contributors - July, 2022
 
