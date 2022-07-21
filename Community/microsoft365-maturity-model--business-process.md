@@ -158,7 +158,7 @@ At this level you can expect the following:
 
 Organizations at this level have set goals for the process, such as reduced time between steps, lower cost, fewer errors, customer satisfaction, etc., and the process is being measured against these goals. The system is supporting and driving the business process rather than the individuals involved in the process. The results are predictable, and the users have come to depend on the system and no longer feel the need or desire to work around it.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### General
 - Workflows on the platform may have connectivity to LOB systems.

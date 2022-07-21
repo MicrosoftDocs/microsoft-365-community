@@ -244,7 +244,7 @@ The Compliance framework is now tailored to include an up-to-date and accurate c
 An overarching Governance, Risk, and Compliance process, through control, definition, enforcement, and monitoring, has the ability to coordinate and integrate these initiatives.
 Proactive rather than reactive
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### People and Culture (400)
 
