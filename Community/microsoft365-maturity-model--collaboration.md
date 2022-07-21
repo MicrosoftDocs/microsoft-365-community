@@ -170,7 +170,7 @@ The process of collaboration is well defined and agreed as a standard business p
 
 At this level, the organization sees a path to real ROI for the solution.  There are clear standards around the implementation, although they may not be used throughout the entire organization.  Users have a sense of security and consistency as they collaborate.
 
-### Level 400 - Managed
+### Level 400 - Predictable
 
 Rather than focusing on specific point solutions, a more strategic view of platform apps and services leads to a mixed-use set of solutions.  Collaborative opportunities exist not just to facilitate ongoing work, but also to support areas of interest, centers of excellence, etc. These opportunities lead to serendipitous connections between people who might not have found each other before.
 

@@ -212,7 +212,7 @@ At this level you can expect the following:
 - The organization has a forum for sharing systems and solutions that have been built.
 - Improved release of systems as the structure, processes, and rigor for deployment is put in place, simplifying the IT estate, and reducing support burden and corporate risk.
 
-### Level 400 - Managed
+### Level 400 - Predictable
 
 There are clear processes and decision support for solution design and road-mapping consistent with business needs and impacts, encompassing the code-continuum. Standards exist, are functional, and reviewed and inconsistencies are actively eliminated. The portfolio of solutions is well understood and managed.
 

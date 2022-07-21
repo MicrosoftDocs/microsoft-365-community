@@ -177,7 +177,7 @@ Search actively adds value to organizations, releasing staff time, improving com
 
 At this level, Search becomes an asset to the organization. This has been recognized as an enabler that develops more efficient and effective employees. The capabilities of search are harnessed to improve the experience of businesses applications.
 
-### Level 400 - Managed
+### Level 400 - Predictable
 
 **[Managed level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 

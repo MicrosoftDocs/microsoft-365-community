@@ -154,7 +154,7 @@ At this level you can expect the following:
 - There is increasing employee confidence in following the processes because they provide better results than prior manual processes.
 - The credibility of the team is improved, that helps user acceptance for new processes.
 
-### Level 400 - Managed
+### Level 400 - Predictable
 
 Organizations at this level have set goals for the process, such as reduced time between steps, lower cost, fewer errors, customer satisfaction, etc., and the process is being measured against these goals. The system is supporting and driving the business process rather than the individuals involved in the process. The results are predictable, and the users have come to depend on the system and no longer feel the need or desire to work around it.
 

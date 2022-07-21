@@ -98,7 +98,7 @@ As comfort with the system increases, end users are interested in increasing the
 
 An IT resource is available to have these discussions, though it is not enough staff to support all needs so only high priority requests are taken into consideration at this time.
 
-### Level 400 - Managed
+### Level 400 - Predictable
 
 The training plan for Microsoft 365 and the related solutions is viewed as a suite of training courses that better enable learning of the entire system and build off each other to support the organization’s understanding of the platform capabilities as a whole. The training is developed and lead by individual business process owners who may sit outside the IT department. All training is also linked in a central repository, like Learning Pathways or other Learning Management Systems, supporting a centralized approach to the training plan and allowing easy access for end users to find all training related to Microsoft 365.
 

@@ -137,7 +137,7 @@ At this level, there is a stated strategy for communication that is understood a
 
 Users experience consistency in core communication and know where to go for specific information. They can use feedback mechanisms, and most people can access what they need regardless of device, location etc.  Less common scenarios are somewhat overlooked, ad hoc or lacking consistency. Higher priority/importance communications can be prioritized, so that they are not lost in the ‘noise’. It is possible to sequence communications, allowing planned campaigns and timed release of information.
 
-### Level 400 - Managed
+### Level 400 - Predictable
 
 The communication process is actively managed in accordance with agreed processes, and the governance is well-defined, widely understood, and followed. Metrics are in place to track communication effectiveness.
 

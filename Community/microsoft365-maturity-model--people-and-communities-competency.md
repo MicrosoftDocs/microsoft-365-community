@@ -125,7 +125,7 @@ Employees may begin to see the value in separating communication into different 
 
 End users begin to see the ROI for completing their profiles as they can more easily identify who-does-what across the organization. Working teams and employee interest groups experience an increase in engagement and productivity as they connect in communication channels specific to their goals. In order to solve problems in daily work, employees frequently reach across organizational boundaries based on content ownership, and subject matter expertise they recognize as useful.
 
-### Level 400 - Managed
+### Level 400 - Predictable
 
 #### 400 Culture
 

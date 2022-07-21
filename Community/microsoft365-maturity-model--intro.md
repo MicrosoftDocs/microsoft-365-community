@@ -110,7 +110,7 @@ Documented, policy-driven, planned, controlled, stable
 
 Productive, interactive, responsive, enhanced, effective, adaptable, quality
 
-### Level 500 - Optimizing (Efficient)
+### Level 500 - Optimizing
 
 - Deliberate and systematic process improvement/optimization
 - Focus is on continually improving process performance
