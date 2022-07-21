@@ -294,7 +294,7 @@ Compliance is embedded in the organization and business activities are ‘compli
 
 Organizations at this level use technology strategically to gain operational efficiencies, greater visibility into their operations, reduce risks, and drive down compliance costs. Tools are integrated in order to monitor controls and gain insights into their governance, risk and compliance program.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### People and Culture (500)
 

@@ -191,7 +191,7 @@ At this level you can expect the following:
 
 Organizations at this level are using the M365 platform optimally to automate their processes, and are focused on feedback and continuous improvement. The goals/metrics are being achieved on a regular basis, and there is both objective data and anecdotal evidence to support the success of the solution.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### General
 - Power users can edit existing workflows to adapt them to changing business needs on the fly with an understanding of the implications of these changes.

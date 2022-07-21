@@ -160,7 +160,7 @@ Users rely on different communication channels to stay informed for their day-to
 - End users use people cards to find more than just organization structure and expand the usage to seeing common documents to spur further collaboration. 
 - Viva Insights / MyAnalytics helps inform end users on how they are spending their time working with different people and empowering them to keep stronger connections across the organization.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 - Users can maintain important profile data that writes back to Active Directory or Human Resources Information Systems.
 - Communities and conversations extend to external participants when it makes a process more effective.

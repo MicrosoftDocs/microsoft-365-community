@@ -280,7 +280,7 @@ Design decisions are routinely reviewed for effectiveness and learning is applie
 
 The effectiveness of solutions is continually assessed via a range of metrics to optimize staff productivity and to ensure agility for changing needs.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### 500 No Code
 

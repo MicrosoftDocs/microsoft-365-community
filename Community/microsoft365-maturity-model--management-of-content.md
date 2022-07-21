@@ -331,7 +331,7 @@ At this level you can expect the following:
 
 ### Level 500
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### Lifecycle Management
 

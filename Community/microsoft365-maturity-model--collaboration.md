@@ -236,7 +236,7 @@ At this level, users rely on the platform for their day to day work as well as f
 
 At this level, many transactional actions are automated to ensure consistency and good governance. Because people are connected across the organization based on their skills, interests, and work, innovative collaborations arise without formal structures. These innovative efforts are encouraged and given space to work and flourish.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### Culture
 

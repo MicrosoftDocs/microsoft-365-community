@@ -130,7 +130,7 @@ Business involvement in the Microsoft 365 platform and solutions has grown well 
 
 The most common support scripts and training content are developed with Chatbot and AI technology, allowing IT staff to focus on escalations, proactive initiatives, and reducing the amount of time spent on break/fix. Support ticket analytics are reviewed on a scheduled cadence to identify and prioritize closure of training gaps, minimizing employee downtime, and increasing organizational productivity.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### 500 User Experience
 - Centers of Excellence or Communities of Practice exist around effective digital workplace implementations and transformation opportunities.
