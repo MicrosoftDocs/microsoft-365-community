@@ -78,7 +78,7 @@ At this level you can expect the following:
 - It's not possible for anyone to see the status of a particular request. Activities can stall or remain incomplete indefinitely.
 - Activity owners invest their time in pushing activities through the process. Activity prioritization is ad hoc and not driven by business priority or objective value/risk
 
-### Level 200 - Repeatable
+### Level 200 - Managed
 
 Organizations at this level are evaluating or implementing technology to help automate some of their processes in a standardized way. As a result, some lines of business may be mapping their processes for the first time, and gaining a true sense of all the steps, dependencies, exceptions, and delays. There is momentum to manage particular processes based on business need and/or process owner enthusiasm. An understanding of the benefits of automation is developing. A particular line of business or department may have successfully leveraged technologies to manage processes and are evangelizing this to other departments.
 
