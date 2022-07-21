@@ -78,7 +78,7 @@ At this level you can expect the following:
 
 Processes are documented or managed by a central group to enable (but not enforce) the preferred ways of communicating. Some processes are repeatable, possibly with consistent results. Process discipline is unlikely to be rigorous, but where it exists it may help to ensure that existing processes are maintained during times of stress.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 Governance, Risk, Compliance & Security
 
@@ -137,11 +137,11 @@ At this level, there is a stated strategy for communication that is understood a
 
 Users experience consistency in core communication and know where to go for specific information. They can use feedback mechanisms, and most people can access what they need regardless of device, location etc.  Less common scenarios are somewhat overlooked, ad hoc or lacking consistency. Higher priority/importance communications can be prioritized, so that they are not lost in the ‘noise’. It is possible to sequence communications, allowing planned campaigns and timed release of information.
 
-### Level 400 - Managed
+### Level 400 - Predictable
 
 The communication process is actively managed in accordance with agreed processes, and the governance is well-defined, widely understood, and followed. Metrics are in place to track communication effectiveness.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### 400 Governance, Risk, Compliance & Security
 
@@ -173,7 +173,7 @@ At this level, users have a high degree of trust in organizational communication
 
 Management of the communication process includes deliberate and systematic process improvement and optimization. There is a focus on continually improving communications through both incremental and innovative technological changes or improvements. Level 500 is likely to include automation, reduction in manual tasks and associated variability, strong governance and compliance interventions, as well as optimization for user interactions and productivity.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### 500 Governance, Risk, Compliance & Security
 

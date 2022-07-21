@@ -152,7 +152,7 @@ At level 200 maturity an organization tends to believe governance and compliance
 
 At this maturity level organizations acknowledge compliance regulations and standards. However, organizations may take a ‘tick box’ approach to Governance, Risk and Compliance (GRC). Policies have been written, intended to avoid the damages that level 100 organizations can face, but the polices are not enforced in the organization.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### People and Culture (200)
 
@@ -244,7 +244,7 @@ The Compliance framework is now tailored to include an up-to-date and accurate c
 An overarching Governance, Risk, and Compliance process, through control, definition, enforcement, and monitoring, has the ability to coordinate and integrate these initiatives.
 Proactive rather than reactive
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### People and Culture (400)
 
@@ -294,7 +294,7 @@ Compliance is embedded in the organization and business activities are ‘compli
 
 Organizations at this level use technology strategically to gain operational efficiencies, greater visibility into their operations, reduce risks, and drive down compliance costs. Tools are integrated in order to monitor controls and gain insights into their governance, risk and compliance program.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### People and Culture (500)
 

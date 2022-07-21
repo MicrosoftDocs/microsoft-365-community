@@ -1,6 +1,6 @@
 ---
-title:  Maturity Model for Microsoft 365 - Origin
-ms.date: 6/12/2020
+title:  Maturity Model for Microsoft 365 - Origin Story
+ms.date: 7/21/2022
 author: eemancini
 ms.reviewer: daisyfeller
 manager: pamgreen-msft
@@ -8,11 +8,11 @@ ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365
 localization_priority: 
-description: Maturity Model for Microsoft 365 - Origin
+description: Maturity Model for Microsoft 365 - Origin Story
 ms.collection: M365Community
 ---
 
-# Origin of the Maturity Model for Microsoft 365
+# Origin Story for the Maturity Model for Microsoft 365
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
@@ -53,11 +53,11 @@ Processes are documented or managed by a central group to enable (but not enforc
 
 The process is well defined and agreed as a standard business process. There are sets of defined and documented standard processes established, signed off and subject to some degree of improvement over time. These standard processes are in place. The processes may not have been systematically or repeatedly used to the extent needed for their users to become fully competent or the process to be validated in a range of situations. This could be considered a developmental stage - with use in a wider range of conditions and user competence development the process can develop to next level of maturity.  
 
-### Level 400 - Managed (Capable)
+### Level 400 - Capable
 
 The process is quantitatively managed in accordance with agreed-upon metrics. Effective achievement of the process objectives can be evidenced (using metrics) across a range of operational conditions. The suitability of the process in multiple environments has been tested and the process refined and adapted. Process users have experienced the process in multiple and varied conditions and are able to demonstrate competence. The process maturity enables adaptions to particular projects without measurable losses of quality or deviations from specifications. Process Capability is established from this level.
 
-### Level 500 - Optimizing (Efficient)
+### Level 500 - Efficient
 
 Process management includes deliberate process optimization/improvement. The focus is on continually improving process performance through both incremental and innovative technological changes/improvements. Processes are concerned with addressing statistical common causes of process variation and changing the process (for example, to shift the mean of the process performance) to improve process performance. This would be done at the same time as maintaining the likelihood of achieving the established quantitative process-improvement objectives.
 

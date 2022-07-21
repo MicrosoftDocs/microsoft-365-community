@@ -150,7 +150,7 @@ At this level you can expect the following:
 
 ### Level 200
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### Lifecycle Management
 
@@ -268,7 +268,7 @@ At this level you can expect the following:
 
 ### Level 400
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### Lifecycle Management
 
@@ -331,7 +331,7 @@ At this level you can expect the following:
 
 ### Level 500
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### Lifecycle Management
 

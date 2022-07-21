@@ -99,7 +99,7 @@ Routine, legacy, firefighting, variable, personally managed
 
 Documented, policy-driven, planned, controlled, stable
 
-### Level 400 - Managed (Capable)
+### Level 400 - Predictable
 
 - Actively managed in accordance with agreed processes and has tracked metrics
 - Effective achievement can be evidenced across a range of operational conditions
@@ -110,7 +110,7 @@ Documented, policy-driven, planned, controlled, stable
 
 Productive, interactive, responsive, enhanced, effective, adaptable, quality
 
-### Level 500 - Optimizing (Efficient)
+### Level 500 - Optimizing
 
 - Deliberate and systematic process improvement/optimization
 - Focus is on continually improving process performance

@@ -56,7 +56,7 @@ At this level, the focus is on improving the break/fix (tier 1) support by docum
 
 As the system is growing in usage, some of the end users who are responsible for their own content have received one-off training. Training is focused on power users using the solutions and has not been launched to the entire organization yet. Some level of departmental or functional expertise begins to develop, and people start to know who the experts are to turn to.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 User Experience
 
@@ -98,13 +98,13 @@ As comfort with the system increases, end users are interested in increasing the
 
 An IT resource is available to have these discussions, though it is not enough staff to support all needs so only high priority requests are taken into consideration at this time.
 
-### Level 400 - Managed
+### Level 400 - Predictable
 
 The training plan for Microsoft 365 and the related solutions is viewed as a suite of training courses that better enable learning of the entire system and build off each other to support the organization’s understanding of the platform capabilities as a whole. The training is developed and lead by individual business process owners who may sit outside the IT department. All training is also linked in a central repository, like Learning Pathways or other Learning Management Systems, supporting a centralized approach to the training plan and allowing easy access for end users to find all training related to Microsoft 365.
 
 Now that the IT support staff has expanded, there are opportunities for the business to receive coaching, guidance, and innovation on their existing business processes in partnership with the IT department. The IT support staff have begun to proactively share updates and changes coming in the system to better involve business need in their strategic decisions. This involvement with the business reflects increased understanding in the platform and the organizational importance of developing business processes with the available enterprise solutions.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 
 #### 400 Process
@@ -130,7 +130,7 @@ Business involvement in the Microsoft 365 platform and solutions has grown well 
 
 The most common support scripts and training content are developed with Chatbot and AI technology, allowing IT staff to focus on escalations, proactive initiatives, and reducing the amount of time spent on break/fix. Support ticket analytics are reviewed on a scheduled cadence to identify and prioritize closure of training gaps, minimizing employee downtime, and increasing organizational productivity.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### 500 User Experience
 - Centers of Excellence or Communities of Practice exist around effective digital workplace implementations and transformation opportunities.
