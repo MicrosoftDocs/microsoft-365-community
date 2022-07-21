@@ -150,7 +150,7 @@ At this level you can expect the following:
 
 ### Level 200
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### Lifecycle Management
 

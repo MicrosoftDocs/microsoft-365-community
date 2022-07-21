@@ -70,7 +70,7 @@ Because staff have no access to a reliable directory and may not know the best c
 
 At this level, the focus tends to be on creating communication channels for the inner loop. This represents groups of people working together on projects - the organizations usual units of work. Each team may decide how to communicate internally, but there is no enterprise-level guidance on which solution to use based on the project goal. There may be pilots for capturing outer loop conversations (corporate communications, CEO town halls, employee interest groups) in another communication channel.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 Culture
 

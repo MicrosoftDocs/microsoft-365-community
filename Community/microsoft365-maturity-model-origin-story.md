@@ -1,6 +1,6 @@
 ---
-title:  Maturity Model for Microsoft 365 - Origin
-ms.date: 6/12/2020
+title:  Maturity Model for Microsoft 365 - Origin Story
+ms.date: 7/21/2022
 author: eemancini
 ms.reviewer: daisyfeller
 manager: pamgreen-msft
@@ -8,11 +8,11 @@ ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365
 localization_priority: 
-description: Maturity Model for Microsoft 365 - Origin
+description: Maturity Model for Microsoft 365 - Origin Story
 ms.collection: M365Community
 ---
 
-# Origin of the Maturity Model for Microsoft 365
+# Origin Story for the Maturity Model for Microsoft 365
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 

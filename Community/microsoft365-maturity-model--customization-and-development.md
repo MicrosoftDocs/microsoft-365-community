@@ -107,7 +107,7 @@ Staff are frustrated with poor functionality but have no mechanism for requestin
 
 Development is characterized by _build to live, though there may be some testing and control within that environment._
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 No Code
 

@@ -56,7 +56,7 @@ At this level, the focus is on improving the break/fix (tier 1) support by docum
 
 As the system is growing in usage, some of the end users who are responsible for their own content have received one-off training. Training is focused on power users using the solutions and has not been launched to the entire organization yet. Some level of departmental or functional expertise begins to develop, and people start to know who the experts are to turn to.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 User Experience
 

@@ -37,16 +37,19 @@ Organizations at this level are running their business processes in a manual, ad
 **[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
 #### General
+
 - Business processes are undefined or only loosely defined through user experience.
 - There may be no use of process technology, instead relying on paper-based process and legacy technology such as email for notifications, hand-offs and approvals.
 - Users of the system rely on institutional knowledge to get things done ("I know who can help me with this") rather than agreed-upon roles and business logic.
 - Exceptions cause long delays (e.g., a key resource is out of the office, or the first time a new situation is encountered there is no method for defining what should happen).
 
 #### Governance, Risk, Compliance and Security
+
 - Processes are mostly undocumented and lack any form of governance, control or oversight such as an Integrated Project Team (IPT).
 - Tracking of the state of the process or status of an activity within a process is not possible or not done. Reporting or analytics are absent.
 
 #### Business Process
+
 - Changes to the process are untested or tested in concept only.
 - Exceptions and failures are not captured, tracked and addressed
 - Processes have evolved from prior approaches. New needs and exceptions have been bolted on rather than engineered in.
@@ -56,6 +59,7 @@ Organizations at this level are running their business processes in a manual, ad
 At this level you can expect the following:
 
 #### General
+
 - If there is a known workflow, e.g., for request approvals, there can be long delays between steps because there are no system notifications, no status updates, and no consequences for inaction. This requires the requestor to chase down the person at the next step in the process.
 - Transactions are very costly in terms of time spent and user frustration.
 - Staff (and clients / customers) have limited confidence in the quality or timeliness of the process output.
@@ -66,9 +70,11 @@ At this level you can expect the following:
 - Deadlines are missed or require heroic effort to meet due to lack of transparency in business process.
 
 #### Governance, Risk, Compliance and Security
+
 - Compliance issues are a risk when processes are not done according to established business rules.
 
 #### Business Process
+
 - It's not possible for anyone to see the status of a particular request. Activities can stall or remain incomplete indefinitely.
 - Activity owners invest their time in pushing activities through the process. Activity prioritization is ad hoc and not driven by business priority or objective value/risk
 
@@ -76,14 +82,13 @@ At this level you can expect the following:
 
 Organizations at this level are evaluating or implementing technology to help automate some of their processes in a standardized way. As a result, some lines of business may be mapping their processes for the first time, and gaining a true sense of all the steps, dependencies, exceptions, and delays. There is momentum to manage particular processes based on business need and/or process owner enthusiasm. An understanding of the benefits of automation is developing. A particular line of business or department may have successfully leveraged technologies to manage processes and are evangelizing this to other departments.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### General
 
 #### Governance, Risk, Compliance and Security
 
 #### Business Process
-
 
 - Business processes are documented / defined at the department level and communicated to the organization. Process maps exist for many processes but adopted technology solutions are weakly documented.
 - Out of the box SharePoint workflows (approval, collect feedback) might be leveraged sporadically.
@@ -118,6 +123,7 @@ Organizations at this level are using M365 to manage business process across mul
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 #### General
+
 - Individuals have transitioned from procedural document workflow to orchestration of dynamic business process.
 - A business process automation technology platform has been selected and is the basis for new Business Process activities, though legacy solutions remain in use. Third party tools and/or custom Business Process Management tools are integrated to support more complex business rules and legacy systems.
 - The organization has begun to develop business process skills, often in a central team and including process re-engineering and technical platform specialists. Training is available to both specialists and citizen developers
@@ -125,11 +131,13 @@ Organizations at this level are using M365 to manage business process across mul
 - There is minimal inconsistency between the documented process and the deployed process.
 
 #### Governance, Risk, Compliance and Security
+
 - There is recognition that different solutions are associated with different risk and compliance profiles and can be designed and managed accordingly
 - Quality Systems incorporate key business process solutions, and the solutions are tested for compliance for processes that impact quality
 - New solutions are designed with tracking, performance metrics and out of bounds notifications
 
 #### Business Process
+
 - A process is considered as a whole, rather than as an automation of discrete tasks. Process maps for the end-to-end process have been created and are maintained. Associated solution documentation is developed.
 - Existing process automation solutions are reviewed, documented and attempts made to bring them under management. In some cases, solutions are redeveloped on the new platform.
 - There is a method for dealing with exceptions, or the automation is explicitly scoped to meet the majority of situations.

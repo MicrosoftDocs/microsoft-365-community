@@ -78,7 +78,7 @@ At this level you can expect the following:
 
 Processes are documented or managed by a central group to enable (but not enforce) the preferred ways of communicating. Some processes are repeatable, possibly with consistent results. Process discipline is unlikely to be rigorous, but where it exists it may help to ensure that existing processes are maintained during times of stress.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 Governance, Risk, Compliance & Security
 

@@ -82,7 +82,7 @@ At this maturity level, many people in the organization are likely to be asking:
 
 At this level, the focus tends to be on document and file collaboration; workspaces (Microsoft Teams, SharePoint, etc.) start to have defined structures and content rules based on specific goals. Each team decides how to best collaborate within that workspace, though there is little reuse and minimal consistency outside each group.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### Process
 
