@@ -179,7 +179,7 @@ At this level, Search becomes an asset to the organization. This has been recogn
 
 ### Level 400 - Managed
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed)** characteristics include:
 
 #### 400 Governance, Risk, Compliance & Security
 

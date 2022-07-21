@@ -136,7 +136,7 @@ End users begin to see the ROI for completing their profiles as they can more ea
 - There is an increased focus on self-service for end users to apply solutions and technologies to their work so they can manage their own membership. 
 - Manually maintained distribution lists are uncommon having been replaced by dynamic distribution lists and groups, based upon employee characteristics for all company communication, Microsoft 365 Groups for teamwork conversations, and Yammer for company-wide and cultural communication.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed)** characteristics include:
 
 - Profile fields may integrate with Line of Business data.
 - Communities flourish under governance.

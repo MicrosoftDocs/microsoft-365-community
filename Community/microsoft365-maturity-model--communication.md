@@ -141,7 +141,7 @@ Users experience consistency in core communication and know where to go for spec
 
 The communication process is actively managed in accordance with agreed processes, and the governance is well-defined, widely understood, and followed. Metrics are in place to track communication effectiveness.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed)** characteristics include:
 
 #### 400 Governance, Risk, Compliance & Security
 

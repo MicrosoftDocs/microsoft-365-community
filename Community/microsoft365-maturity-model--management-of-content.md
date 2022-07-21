@@ -268,7 +268,7 @@ At this level you can expect the following:
 
 ### Level 400
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed)** characteristics include:
 
 #### Lifecycle Management
 

@@ -218,7 +218,7 @@ There are clear processes and decision support for solution design and road-mapp
 
 Staff are able to work efficiently across the spectrum of solutions and adopt new solutions readily due to their consistency and interoperability. Support-driven insights are used to proactively feedback to solution teams to drive improvements. Upcoming changes are communicated clearly and well in advance.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed)** characteristics include:
 
 #### 400 No Code
 
