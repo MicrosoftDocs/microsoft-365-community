@@ -78,7 +78,7 @@ In many cases, the first move into Microsoft 365 is a simple migration of shared
 
 At this maturity level, many people in the organization are likely to be asking: “So what?” They may feel they are working harder to accomplish the same goal, without seeing a benefit. Staying at this level is generally a recipe for dissatisfaction.
 
-### Level 200 - Repeatable
+### Level 200 - Managed
 
 At this level, the focus tends to be on document and file collaboration; workspaces (Microsoft Teams, SharePoint, etc.) start to have defined structures and content rules based on specific goals. Each team decides how to best collaborate within that workspace, though there is little reuse and minimal consistency outside each group.
 

@@ -11,7 +11,7 @@ Note: Changelog started in January, 2021
 ### New Articles - July, 2022
 
 | Article | Principal Author |
-|---|---| 
+|---|---|
 | [Origin Story of the Maturity Model for Microsoft 365](./Community//microsoft365-maturity-model-origin-story.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
 ### Updated Articles - July, 2022

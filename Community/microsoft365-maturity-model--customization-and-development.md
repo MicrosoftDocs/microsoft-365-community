@@ -99,7 +99,7 @@ At this level you can expect the following:
 - The organization risks not being able to rebuild a solution if it is corrupted.
 - Money is wasted on development when other approaches using low-code or no-code could be used to achieve similar results.
 
-### Level 200 - Repeatable
+### Level 200 - Managed
 
 Different types of development are recognized as occurring, but there are tensions between parts of the organization adopting different approaches. Shadow development continues to occur or is prohibited without providing alternatives.
 

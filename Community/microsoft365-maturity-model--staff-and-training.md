@@ -50,7 +50,7 @@ The solution was launched without consultation with the business for needs or ch
 
 Short and long-term system support was not considered so no formal business processes exist to support issues or requests. End users are left to problem solve with internet searches or by sending emails around the organization seeking assistance.
 
-### Level 200 - Repeatable
+### Level 200 - Managed
 
 At this level, the focus is on improving the break/fix (tier 1) support by documenting processes and ensuring the support staff has repeatable solutions to common problems in the organization. There is a business process in place for reaching out to the support staff to receive help for issues though there is not a consistent resource for strategic guidance.
 

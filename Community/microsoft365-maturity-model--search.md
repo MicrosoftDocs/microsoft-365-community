@@ -107,7 +107,7 @@ Some individuals are key knowledge sources, impeding their work and/or becoming 
 
 Productivity is compromised; compliance activities are weak; organizational and colleague knowledge are poorly leveraged and there is a pervasive frustration at the inability to find things.
 
-### Level 200 - Repeatable
+### Level 200 - Managed
 
 **[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 

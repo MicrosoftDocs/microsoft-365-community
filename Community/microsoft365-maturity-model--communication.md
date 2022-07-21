@@ -74,7 +74,7 @@ At this level you can expect the following:
 - Gaps in coverage - not everyone who needs to see all relevant content.
 - Poorly considered, incorrect and misleading communications
 
-### Level 200 - Repeatable
+### Level 200 - Managed
 
 Processes are documented or managed by a central group to enable (but not enforce) the preferred ways of communicating. Some processes are repeatable, possibly with consistent results. Process discipline is unlikely to be rigorous, but where it exists it may help to ensure that existing processes are maintained during times of stress.
 
