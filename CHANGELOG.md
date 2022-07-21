@@ -11,7 +11,8 @@ Note: Changelog started in January, 2021
 ### New Articles - July, 2022
 
 | Article | Principal Author |
-|---|---|
+|---|---| 
+| [Origin Story of the Maturity Model for Microsoft 365](./Community//microsoft365-maturity-model-origin-story.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
 ### Updated Articles - July, 2022
 
@@ -20,6 +21,7 @@ Note: Changelog started in January, 2021
 | [Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md) | [Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/)|
 | [Working with modern client-side pages using PnP PowerShell](./Community/working-with-modern-clientside-pages-using-pnp-powershell.md)|[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson), [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
 | [Maturity Model for Microsoft 365 - Communication Competency](./Community/microsoft365-maturity-model--communication.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson), [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
+| [Maturity Model for Microsoft 365 - Introduction](./Community/microsoft365-maturity-model--intro.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/), [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 
 ### New Contributors - July, 2022
 
