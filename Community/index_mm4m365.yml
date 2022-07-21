@@ -26,8 +26,10 @@ landingContent:
     linkLists:
       - linkListType: overview
         links:
-          - text: Maturity Model for Microsoft 365 - Introduction
+          - text: Introduction to the Maturity Model for Microsoft 365
             url:  microsoft365-maturity-model--intro.md
+          - text: Origin of the Maturity Model for Microsoft 365
+            url:  microsoft365-maturity-model-origin-story.md
 
   # Card (optional)
   - title: What's New
