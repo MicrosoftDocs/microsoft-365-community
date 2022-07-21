@@ -99,7 +99,7 @@ Routine, legacy, firefighting, variable, personally managed
 
 Documented, policy-driven, planned, controlled, stable
 
-### Level 400 - Predicatable
+### Level 400 - Predictable
 
 - Actively managed in accordance with agreed processes and has tracked metrics
 - Effective achievement can be evidenced across a range of operational conditions
