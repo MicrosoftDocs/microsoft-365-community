@@ -103,7 +103,7 @@ The available compliance capabilities in your tenant will depend on your Microso
 
 See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
 
-### Level 100
+### Level 100 - Initial
 
 At level 100 maturity an organization does not believe that governance and compliance is important to its overall objectives.
 
@@ -146,13 +146,13 @@ Due to the lack of policies, controls and user training to support information/ 
 - Consequences such as data breaches, erosion of customer trust, severe fines and other penalties due to non-compliance with regulations.
 - Elevated eDiscovery costs.
 
-### Level 200
+### Level 200 - Managed
 
 At level 200 maturity an organization tends to believe governance and compliance is a series of boxes to check.
 
 At this maturity level organizations acknowledge compliance regulations and standards. However, organizations may take a ‘tick box’ approach to Governance, Risk and Compliance (GRC). Policies have been written, intended to avoid the damages that level 100 organizations can face, but the polices are not enforced in the organization.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### People and Culture (200)
 
@@ -188,7 +188,7 @@ At this level you can expect the following:
 - Action is only taken after a major violation or ‘near miss’ has occurred, to show they are trying to meet compliance standards. Even then, it is implemented as a tactical response to a serious problem, rather than a strategy for permanent improvement.
 - Discovery exercises are costly and complex as no specialist tools are used.
 
-### Level 300
+### Level 300 - Defined
 
 At level 300 maturity, an organization believes compliance is essential to the business. They begin to affect a ‘top-down’ cultural change in working to incorporate governance, risk and compliance-led practices. It’s understood that it is the job of executives to enforce adoption and training among managers, and the job of managers to do so with their staff.
 
@@ -237,14 +237,14 @@ At this level:
 - Not all Governance, Risk and Compliance risks are addressed and there are frequently unknown risks.
 - There are processes for dealing with finding, breaches and risks, however there are gaps and a tendency to be reactive.
 
-### Level 400
+### Level 400 - Predictable
 
 At level 400 maturity an organization’s approach to governance and compliance becomes more well defined and acts as a foundation for activity, the focus shifts from extensive written procedures to empowering individual employees to make informed decisions to reinforce the company’s compliance culture. This occurs as a by-product of establishing a culture with high compliance awareness.
 The Compliance framework is now tailored to include an up-to-date and accurate catalog of information and data laws, regulations, and policies by country and is readily accessible to all relevant employees.
 An overarching Governance, Risk, and Compliance process, through control, definition, enforcement, and monitoring, has the ability to coordinate and integrate these initiatives.
 Proactive rather than reactive
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
+**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### People and Culture (400)
 
@@ -284,7 +284,7 @@ At this level
 - Compliance is embedded in the culture of the organization so all employees understand the importance of compliance and their role in protecting the organization. Policies are understood and the reasons behind the policies are clearly explained. Engagement is high at this level because all members of the organization are now responsible for the success of the program.
 - Data investigation become simpler due to advanced tools and only the right data being retained.
 
-### Level 500
+### Level 500 - Optimizing
 
 At level 500 maturity, an organization believes that taking a strategic approach to governance and compliance will actively support business goals as opposed to serving merely as a function of risk mitigation.
 

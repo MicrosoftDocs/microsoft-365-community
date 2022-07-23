@@ -109,7 +109,7 @@ Productivity is compromised; compliance activities are weak; organizational and 
 
 ### Level 200 - Managed
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 Governance, Risk, Compliance & Security
 
@@ -179,7 +179,7 @@ At this level, Search becomes an asset to the organization. This has been recogn
 
 ### Level 400 - Predictable
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
+**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### 400 Governance, Risk, Compliance & Security
 
