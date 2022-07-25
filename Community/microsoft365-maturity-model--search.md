@@ -107,9 +107,9 @@ Some individuals are key knowledge sources, impeding their work and/or becoming 
 
 Productivity is compromised; compliance activities are weak; organizational and colleague knowledge are poorly leveraged and there is a pervasive frustration at the inability to find things.
 
-### Level 200 - Repeatable
+### Level 200 - Managed
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 Governance, Risk, Compliance & Security
 
@@ -177,9 +177,9 @@ Search actively adds value to organizations, releasing staff time, improving com
 
 At this level, Search becomes an asset to the organization. This has been recognized as an enabler that develops more efficient and effective employees. The capabilities of search are harnessed to improve the experience of businesses applications.
 
-### Level 400 - Managed
+### Level 400 - Predictable
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### 400 Governance, Risk, Compliance & Security
 
@@ -224,7 +224,7 @@ Search results can be relied on; the current versions are reliably returned; ina
 
 ### Level 500 - Optimizing
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 Search is part of everyday life for an employee at the organization. New innovative ways of exposing content are investigated. Search metrics are used to analyze user behavior and understand gaps in the information that is being returned.
 

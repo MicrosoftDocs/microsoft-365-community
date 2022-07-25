@@ -99,7 +99,7 @@ At this level you can expect the following:
 - The organization risks not being able to rebuild a solution if it is corrupted.
 - Money is wasted on development when other approaches using low-code or no-code could be used to achieve similar results.
 
-### Level 200 - Repeatable
+### Level 200 - Managed
 
 Different types of development are recognized as occurring, but there are tensions between parts of the organization adopting different approaches. Shadow development continues to occur or is prohibited without providing alternatives.
 
@@ -107,7 +107,7 @@ Staff are frustrated with poor functionality but have no mechanism for requestin
 
 Development is characterized by _build to live, though there may be some testing and control within that environment._
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 No Code
 
@@ -212,13 +212,13 @@ At this level you can expect the following:
 - The organization has a forum for sharing systems and solutions that have been built.
 - Improved release of systems as the structure, processes, and rigor for deployment is put in place, simplifying the IT estate, and reducing support burden and corporate risk.
 
-### Level 400 - Managed
+### Level 400 - Predictable
 
 There are clear processes and decision support for solution design and road-mapping consistent with business needs and impacts, encompassing the code-continuum. Standards exist, are functional, and reviewed and inconsistencies are actively eliminated. The portfolio of solutions is well understood and managed.
 
 Staff are able to work efficiently across the spectrum of solutions and adopt new solutions readily due to their consistency and interoperability. Support-driven insights are used to proactively feedback to solution teams to drive improvements. Upcoming changes are communicated clearly and well in advance.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### 400 No Code
 
@@ -280,7 +280,7 @@ Design decisions are routinely reviewed for effectiveness and learning is applie
 
 The effectiveness of solutions is continually assessed via a range of metrics to optimize staff productivity and to ensure agility for changing needs.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### 500 No Code
 

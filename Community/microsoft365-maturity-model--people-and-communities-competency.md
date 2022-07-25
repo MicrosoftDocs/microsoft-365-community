@@ -66,11 +66,11 @@ There is little reinforcement of organizational culture and vision. Limited inte
 #### 100 Process 
 Because staff have no access to a reliable directory and may not know the best communication mechanisms to use, colleagues are often overlooked or uninformed. Long-term staff are frequently interrupted with requests for their knowledge, even when others might have been able to assist.
 
-### Level 200 - Repeatable
+### Level 200 - Managed
 
 At this level, the focus tends to be on creating communication channels for the inner loop. This represents groups of people working together on projects - the organizations usual units of work. Each team may decide how to communicate internally, but there is no enterprise-level guidance on which solution to use based on the project goal. There may be pilots for capturing outer loop conversations (corporate communications, CEO town halls, employee interest groups) in another communication channel.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 Culture
 
@@ -125,7 +125,7 @@ Employees may begin to see the value in separating communication into different 
 
 End users begin to see the ROI for completing their profiles as they can more easily identify who-does-what across the organization. Working teams and employee interest groups experience an increase in engagement and productivity as they connect in communication channels specific to their goals. In order to solve problems in daily work, employees frequently reach across organizational boundaries based on content ownership, and subject matter expertise they recognize as useful.
 
-### Level 400 - Managed
+### Level 400 - Predictable
 
 #### 400 Culture
 
@@ -136,7 +136,7 @@ End users begin to see the ROI for completing their profiles as they can more ea
 - There is an increased focus on self-service for end users to apply solutions and technologies to their work so they can manage their own membership. 
 - Manually maintained distribution lists are uncommon having been replaced by dynamic distribution lists and groups, based upon employee characteristics for all company communication, Microsoft 365 Groups for teamwork conversations, and Yammer for company-wide and cultural communication.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 - Profile fields may integrate with Line of Business data.
 - Communities flourish under governance.
@@ -160,7 +160,7 @@ Users rely on different communication channels to stay informed for their day-to
 - End users use people cards to find more than just organization structure and expand the usage to seeing common documents to spur further collaboration. 
 - Viva Insights / MyAnalytics helps inform end users on how they are spending their time working with different people and empowering them to keep stronger connections across the organization.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 - Users can maintain important profile data that writes back to Active Directory or Human Resources Information Systems.
 - Communities and conversations extend to external participants when it makes a process more effective.

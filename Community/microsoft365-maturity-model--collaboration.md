@@ -78,11 +78,11 @@ In many cases, the first move into Microsoft 365 is a simple migration of shared
 
 At this maturity level, many people in the organization are likely to be asking: “So what?” They may feel they are working harder to accomplish the same goal, without seeing a benefit. Staying at this level is generally a recipe for dissatisfaction.
 
-### Level 200 - Repeatable
+### Level 200 - Managed
 
 At this level, the focus tends to be on document and file collaboration; workspaces (Microsoft Teams, SharePoint, etc.) start to have defined structures and content rules based on specific goals. Each team decides how to best collaborate within that workspace, though there is little reuse and minimal consistency outside each group.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### Process
 
@@ -170,11 +170,11 @@ The process of collaboration is well defined and agreed as a standard business p
 
 At this level, the organization sees a path to real ROI for the solution.  There are clear standards around the implementation, although they may not be used throughout the entire organization.  Users have a sense of security and consistency as they collaborate.
 
-### Level 400 - Managed
+### Level 400 - Predictable
 
 Rather than focusing on specific point solutions, a more strategic view of platform apps and services leads to a mixed-use set of solutions.  Collaborative opportunities exist not just to facilitate ongoing work, but also to support areas of interest, centers of excellence, etc. These opportunities lead to serendipitous connections between people who might not have found each other before.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### Culture
 
@@ -236,7 +236,7 @@ At this level, users rely on the platform for their day to day work as well as f
 
 At this level, many transactional actions are automated to ensure consistency and good governance. Because people are connected across the organization based on their skills, interests, and work, innovative collaborations arise without formal structures. These innovative efforts are encouraged and given space to work and flourish.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### Culture
 
