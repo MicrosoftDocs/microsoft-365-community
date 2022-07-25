@@ -87,7 +87,7 @@ This competency focuses on many aspects with management of content, including pr
 
 ## Evolution of this competency
 
-### Level 100
+### Level 100 - Initial
 
 **[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
@@ -148,9 +148,9 @@ At this level you can expect the following:
 - Productivity is poor as staff recreate content that already exists. Timescales are often missed and quality is often low and inconsistent, leading to poor outcomes.
 - Staff are unnecessarily busy, stressed and frustrated.
 
-### Level 200
+### Level 200 - Managed
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### Lifecycle Management
 
@@ -210,7 +210,7 @@ At this level you can expect the following:
 - Staff are unnecessarily busy, stressed and frustrated.
 - Multiple attempts are made to introduce improvements, however adoption remains poor and managers are unnecessarily busy, stressed and frustrated by the lack of progress.
 
-### Level 300
+### Level 300 - Defined
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
@@ -266,9 +266,9 @@ At this level you can expect the following:
 - Staff recognize central sources of truth and turn to it in preference to other sources.
 - Improvements are able to be introduced and are widely adopted in key processes. Managers are seen as leaders of this adoption and benefit from their staff productivity. Some changes remain ineffective, rushed or only partially effective due to the corrosive effects of legacy content and some staff resistance.
 
-### Level 400
+### Level 400 - Predictable
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
+**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### Lifecycle Management
 
@@ -329,7 +329,7 @@ At this level you can expect the following:
 - Content driven systems are routinely improved; feedback and monitoring mechanisms at granular and aggregate level continuously identify areas for improvement and enable programs of work to maintain productivity as the business landscape evolves.
 - Staff and managers are able to focus on their objectives and are rarely interrupted or frustrated by the quality and accessibility of the content they need or create.
 
-### Level 500
+### Level 500 - Optimizing
 
 **[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
