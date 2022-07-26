@@ -91,7 +91,9 @@ landingContent:
       - linkListType: video
         links:
           - text: Microsoft 365 Maturity Model Practitioner Sessions (YouTube)
-            url: https://www.youtube.com/playlist?list=PLR9nK3mnD-OXALeeIt1nbgBcSLj3WxyBi 
+            url: https://symp.info/MM4M365Videos 
+          - text: Microsoft 365 Maturity Model Practitioner Sessions Slide Decks
+            url: https://symp.info/MM4M365Slides
 
   # Card (optional)
   - title: References
