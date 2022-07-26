@@ -22,7 +22,7 @@ The [Staff & Training Competency article](microsoft365-maturity-model--staff-and
 
 This article explores how organizations at any level could use the Microsoft 365 suite (and associated technologies) to reach a higher maturity level.
 
-## How to move from Initial to Repeatable (Level 100 to 200)
+## How to move from Initial to Managed (Level 100 to 200)
 
 Organizations at the 100 level give more precedence to launching the solution than focusing on why the solution is launched, as the primary focus is a bottom-line problem. User and training needs are not defined, evaluated, or documented.
 
@@ -38,7 +38,7 @@ To advance to the 200 level, consider the following activities:
 
 - Socialize available training to the business. At this level, there may not be a dedicated resource who can support live training so this training may be videos, training decks, or content produced by Microsoft.
 
-## How to move from Repeatable to Defined (Level 200 to 300)
+## How to move from Managed to Defined (Level 200 to 300)
 
 At the 200 level, the focus is on improving the break/fix (tier 1) support by documenting processes and ensuring the support staff has repeatable solutions to common problems in the organization. At this point, there is a business process in place for reaching out to the support staff to receive help for issues, though there is not a consistent resource for strategic guidance. Training is focused on power users using the solutions and has not been launched to the entire organization yet.
 
@@ -56,7 +56,7 @@ To advance to the 300 level, consider the following activities:
 
 - Collaborate with the learning and development team, HR, or other department responsible for onboarding and training to identify crucial role-based technical skills new employees will need to succeed at the company. Identify the correct timing when this training can be put into action immediately after to solidify understanding of the platforms and have training sessions added to their formal onboarding agenda. Too often incentives lag implementations in large organizations. Ideally, your incentives change as you roll out new capabilities.
 
-## How to move from Defined to Managed to (Level 300 to 400)
+## How to move from Defined to Predictable to (Level 300 to 400)
 
 At the 300 level, the organization is actively using the solution(s) with a training plan in place for all new and existing employees. The training is focused on how to use the system specific to interacting with the interface and accomplishing basic tasks.
 
@@ -76,7 +76,7 @@ To advance to the 400 level, consider the following activities:
   
   For example, Microsoft Teams can change the way teams collaborate by supporting multiple people working on one document within the Teams desktop application. Comments can be added to the Word document with @ mentions that automatically add tasks to the team Planner. What formerly may have been a Microsoft Teams training specific to functionality within the system is now a training about working better together, with supporting technology and aligning with company culture.
 
-## How to move from Managed to Optimizing (Level 400 to 500)
+## How to move from Predictable to Optimizing (Level 400 to 500)
 
 At the 400 level, the training plan for Microsoft 365 and the related solutions is viewed as a suite of training courses that better enable learning of the entire system and build off each other to support the organization’s understanding of the platform capabilities as a whole. The training is developed and lead by individual business process owners who may sit outside the IT department.
 
