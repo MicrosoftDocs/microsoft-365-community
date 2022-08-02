@@ -24,7 +24,7 @@ The [People and Communities article](microsoft365-maturity-model--people-and-com
 
 This article aims to specifically explore how organizations at any level could use the Microsoft 365 suite (and associated technologies) to reach a higher maturity level.
 
-## How to move from Initial to Repeatable (level 100 to 200)
+## How to move from Initial to Managed (level 100 to 200)
 
 Organizations at level 100 have done little to actively support the concepts around people and communities, relying on organic and traditional approaches. Much of the important interaction between employees occurs with in-person meetings, chat, or hallway encounters and often with no clear outcomes.
 
@@ -46,7 +46,7 @@ Begin to pilot open community spaces like Yammer or an org-wide Team. The "outer
 
 Reach out to your [SharePoint Champions](identifying-your-sharepoint-champions.md), Microsoft 365 business owners, and internal customer service functions (think Information Technology, Human Resources, Finance) to begin completing their profiles in [Delve](https://support.microsoft.com/office/what-is-delve-1315665a-c6af-4409-a28d-49f8916878ca) with more detail in addition to any contact information that may be populated from Active Directory or a synced Human Resource Information System. Focus on adding project and skills information to support search becoming a go-to place to identify people across the organization who provide internal customer service support (like answering benefits questions or providing support with a specific software), source knowledge and expertise.
 
-## How to move from Repeatable to Defined (level 200 to 300)
+## How to move from Managed to Defined (level 200 to 300)
 
 At the 200 level, the focus tends to be on creating communication channels for the inner loop. This represents groups of people working together on projects - the organizations usual units of work. Each team may decide how to communicate internally, but there is no enterprise-level guidance on which solution to use based on the project goal. There may be pilots for capturing outer loop conversations (corporate communications, CEO town halls, employee interest groups) in another communication channel.
 
@@ -86,7 +86,7 @@ The most effective guidelines are simple and easy to consume supporting quick de
 
 - Provide company-wide training on using search to identify expertise. If possible, sharing this update at an all hands or Town Hall meeting will ensure this shift is viewed as a change in business process across the organization.
 
-## How to move from Defined to Managed to (level 300 to 400)
+## How to move from Defined to Predictable to (level 300 to 400)
 
 At the 300 level, commonality across teams starts to drive where communities are created and set up. Microsoft Teams or Yammer Communities are created based on the type of work people are doing rather than a one-size-fits-all approach. Team communication channels are well defined and agreed upon as a standard business process.
 
@@ -112,7 +112,7 @@ Now that end users have added their skills, expertise, and project data into the
 
 - Review the Microsoft 365 search logs to identify most searched for terms and abandoned search results. Understanding what people are looking for will help guide which terms should be used in the profiles.
 
-## How to move from Managed to Optimizing (level 400 to 500)
+## How to move from Predictable to Optimizing (level 400 to 500)
 
 Organizations at the 400 level have a strategic view of all communication channels including email, Yammer Communities, Teams (backed by Microsoft 365 Groups), distribution lists, and security groups increasing engagement in the respective communities. There is an increased focus on self-service for end users to apply solutions and technologies to their work so they can manage their own membership.
 

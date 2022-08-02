@@ -15,13 +15,19 @@
 ### [Why Microsoft 365 adoption projects fail](why-m365-adoption-projects-fail.md)
 ## Maturity Model for Microsoft 365
 ### [Overview](index_mm4m365.yml)
-### [Introduction](microsoft365-maturity-model--intro.md)
+#### [Introduction](microsoft365-maturity-model--intro.md)
+#### [Origin Story](microsoft365-maturity-model-origin-story.md)
+### [Business Process Competency](microsoft365-maturity-model--business-process.md)
 ### Collaboration Competency
 #### [Collaboration Competency](microsoft365-maturity-model--collaboration.md)
 #### [Elevating Collaboration](microsoft365-maturity-model--how-to-elevate-collaboration.md)
 ### Communication Competency
 #### [Communication Competency](microsoft365-maturity-model--communication.md)
 #### [Elevating Communication](microsoft365-maturity-model--how-to-elevate-communication.md)
+### [Customization and Development Competency](microsoft365-maturity-model--customization-and-development.md)
+### [Governance, Risk, and Compliance Competency](microsoft365-maturity-model--governance-and-compliance.md)
+### [How to run a Maturity Model for Microsoft 365 workshop](microsoft365-maturity-model--run-workshop.md)
+### [Management of Content Competency](microsoft365-maturity-model--management-of-content.md)
 ### People and Communities
 #### [People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
 #### [Elevating People and Communities](microsoft-maturity-model-how-to-people-communities.md)
@@ -29,11 +35,6 @@
 ### Staff & Training
 #### [Staff & Training Competency](microsoft365-maturity-model--staff-and-training.md)
 #### [Elevating Staff and Training](microsoft-maturity-model-how-to-staff-and-training.md)
-### [Business Process Competency](microsoft365-maturity-model--business-process.md)
-### [Management of Content Competency](microsoft365-maturity-model--management-of-content.md)
-### [Customization and Development Competency](microsoft365-maturity-model--customization-and-development.md)
-### [Governance, Risk, and Compliance Competency](microsoft365-maturity-model--governance-and-compliance.md)
-### [How to run a Maturity Model for Microsoft 365 workshop](microsoft365-maturity-model--run-workshop.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
 ### [Versioning in SharePoint](versioning-basics-best-practices.md)

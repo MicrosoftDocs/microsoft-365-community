@@ -23,7 +23,7 @@ ms.collection: M365Community
 The [Communication Competency article](/microsoft-365/community/microsoft365-maturity-model--communication) provides an overview of communication concepts within Microsoft 365 and details for each of the five maturity levels from Initial to Optimizing (100 through 500). It adopts a broadly technology-agnostic approach to the business characteristics of communication plus the expected benefits.
 This article explores how organizations at any level could use the Microsoft 365 suite (and associated technologies) to reach a higher maturity level.
 
-## How to move from Initial to Repeatable (Level 100 to 200)
+## How to move from Initial to Managed (Level 100 to 200)
 
 Organizations at the 100 level of communication may find practices to be somewhat effective, but they don’t take advantage of the full power of the platform, nor do they take into account the multiple use cases which exist in even the smallest and simplest organization. There are no restrictions or guidance on who should communicate to whom in any standard format. The majority of communication is sent in email without consideration of varied audiences.
 
@@ -36,7 +36,7 @@ Organizations at the 100 level of communication may find practices to be somewha
   * Begin identifying varying audiences in the organization to drive better targeting of communications in the future. The steering committee may find it helpful to [create personas](https://www.nngroup.com/articles/persona) for groups across the organization to form a better mental model of the varying audiences. This can serve as a true north for the team as governance continues to evolve.
   * Identify methods for feedback on communications so impact can be measured over iterative improvements. At this stage it is strongly recommended to complete user research to define a baseline so any future changes can measure the impact to the organization.
 
-## How to move from Repeatable to Defined (Level 200 to 300)
+## How to move from Managed to Defined (Level 200 to 300)
 
 Communication at the 200 level sees some improvement as there is sporadic usage of the layouts, style, and standards. There is shared understanding of these resources across the organization though there is no training, support, or enforcement of these guidelines.
 
@@ -48,7 +48,7 @@ Communication at the 200 level sees some improvement as there is sporadic usage 
 * Varying audiences in the organization have been identified for better targeting of communications. Begin targeting messages to these audiences across communication channels to drive engagement in communications that are relevant.
 * Begin conversations with the steering committee to identify any needs for removing or archiving old content and scheduling future content.
 
-## How to move from Defined to Managed to (Level 300 to 400)
+## How to move from Defined to Predictable to (Level 300 to 400)
 
 Communication is widely accessed and is broadly effective. There are mechanisms with agreed processes for centrally delivering the common communications needs using images and templated layouts. Users experience consistency in core communication and know where to go for specific information. They can use feedback mechanisms, and most people can access what they need regardless of device, location etc.
 
@@ -63,7 +63,7 @@ Communication is widely accessed and is broadly effective. There are mechanisms 
   * For example, you may have a desk-less workforce who finds news updates easier to consume in short videos rather than a written page. The teams are trained on usage of [Microsoft Stream](/stream/overview) functionality to embed videos in SharePoint news posts. Key messages are also written in text on the news posts to support varied learning styles.
 * If communication approvals need to be implemented (as determined by the steering committee), the impacted communication channels are identified, and a business process is in place. For most organizations, the focus should remain on keeping as much freedom in sharing communication across the organization as possible to ensure timely updates. Highly regulated industries may need more control.
 
-## How to move from Managed to Optimizing (Level 400 to 500)
+## How to move from Predictable to Optimizing (Level 400 to 500)
 
 At the 400 level of Communications, users have a high degree of trust in organizational communications. They understand the communication mechanisms that are available and feel confident in the source and appropriateness of what they receive.
 
