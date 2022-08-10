@@ -6,6 +6,22 @@
 
 Note: Changelog started in January, 2021
 
+## August, 2022
+
+### New Articles - August, 2022
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - August, 2022
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - August, 2022
+
+-
+
 ## July, 2022
 
 ### New Articles - July, 2022

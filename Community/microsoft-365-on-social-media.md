@@ -93,7 +93,7 @@ If you're having general issues with Microsoft 365, be sure to check the [Micros
 |[#PowerApps](https://twitter.com/hashtag/PowerApps)|[@MSPowerApps](https://twitter.com/MSPowerApps)|
 |[#PowerAutomate](https://twitter.com/hashtag/PowerAutomate)|[@MSPowerAutomate](https://twitter.com/MSPowerAutomate)|
 |[#PowerBI](https://twitter.com/hashtag/PowerBI), [#DAX](https://twitter.com/hashtag/DAX), [#PowerQuery](https://twitter.com/hashtag/PowerQuery)|[@MSPowerBI](https://twitter.com/MSPowerBI)|
-|[#PowerPages(https://twitter.com/hashtag/PowerPages)||
+|[#PowerPages](https://twitter.com/hashtag/PowerPages)||
 |[#PowerVirtualAgents](https://twitter.com/hashtag/PowerVirtualAgents)|[@MSPowerVirtual](https://twitter.com/MSPowerVirtual)|
 |[#Dataverse](https://twitter.com/hashtag/Dataverse)||
 |[#AIBuilder](https://twitter.com/hashtag/AIBuilder)||
