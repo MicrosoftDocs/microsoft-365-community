@@ -6,7 +6,7 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.service: security
+ms.service: microsoft-365
 localization_priority: 
 description: Basic Security Set Up for Microsoft 365
 ms.collection: M365Community
