@@ -206,7 +206,7 @@ landingContent:
       - linkListType: reference
         links:
           - text: Microsoft Office official documentation
-            url: https://docs.microsoft.com/office/
+            url: /office/
           - text: FastTrack onboarding and adoption services
             url: https://fasttrack.microsoft.com/office
           - text: Find a SharePoint certified partner

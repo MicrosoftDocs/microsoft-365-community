@@ -88,7 +88,7 @@ Example image shown below:
 
 ![Image of a multimedia document library used as an organization asset library.](media/library-scenarios/multimedia-scenario-02.png)
 
->For video files intended for streaming check this [Overview of how to feature videos in Microsoft 365 with pages, sites, & portals](https://docs.microsoft.com/stream/streamnew/portals-overview).
+>For video files intended for streaming check this [Overview of how to feature videos in Microsoft 365 with pages, sites, & portals](/stream/streamnew/portals-overview).
 
 ---
 
