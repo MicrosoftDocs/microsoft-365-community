@@ -6,6 +6,24 @@
 
 Note: Changelog started in January, 2021
 
+## September, 2022
+
+### New Articles - September, 2022
+
+| Article | Principal Author |
+|---|---|
+| [Maturity Model for Microsoft 365 and Teams Development](./Community/maturity-model-microsoft365-teams-development.md) | [Albert-Jan Schot](https://www.linkedin.com/in/albertjanschot)
+ |
+
+### Updated Articles - September, 2022
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - September, 2022
+
+- [Albert-Jan Schot](https://www.linkedin.com/in/albertjanschot)
+
 ## August, 2022
 
 ### New Articles - August, 2022
