@@ -16,7 +16,7 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-Working as a developer on Microsoft Teams solutions you might not have heard about the [Microsoft 365 Maturity Model](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro). Yet it is a great resource to get familiar with! The model is based on the [Capability Maturity Model](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model-origin-story#underpinnings-the-capability-maturity-model) and with some imagination you can apply the same logic for the building blocks of Microsoft Teams.
+Working as a developer on Microsoft Teams solutions you might not have heard about the [Microsoft 365 Maturity Model](/microsoft-365/community/microsoft365-maturity-model--intro). Yet it is a great resource to get familiar with! The model is based on the [Capability Maturity Model](/microsoft-365/community/microsoft365-maturity-model-origin-story#underpinnings-the-capability-maturity-model) and with some imagination you can apply the same logic for the building blocks of Microsoft Teams.
 
 ## Microsoft Teams Development
 
@@ -32,7 +32,7 @@ The Microsoft Teams platform provides different development opportunities:
 - **Adaptive cards**: organize information and provide users with interaction options without leaving their chat experience.
 - **Task modules**: Modal pop-up experience in the Microsoft Teams Client
 
-Some of those different scenario’s  have a different developer experience and might require different components in Azure as well. If you are new to Microsoft Teams Development a great place to start is the [getting started overview](https://docs.microsoft.com/microsoftteams/platform/overview-explore). If you have been building Teams solutions you might recognize some of the options. If you are new to the game be aware that a Teams solution can consists of several different opportunities and you can combine multiple components into a single solution.
+Some of those different scenario’s  have a different developer experience and might require different components in Azure as well. If you are new to Microsoft Teams Development a great place to start is the [getting started overview](/microsoftteams/platform/overview-explore). If you have been building Teams solutions you might recognize some of the options. If you are new to the game be aware that a Teams solution can consists of several different opportunities and you can combine multiple components into a single solution.
 
 ## Teams Development sample
 
@@ -50,7 +50,7 @@ Adaptive cards can also be used in Teams itself and send from custom application
 
 ## Using the Maturity Model
 
-But while building all these solutions it got me thinking about the different options. Each option has its pros and cons and a whole bunch of technical requirements. But when focussing on those you might lose track of the business side of things. Building any solution starts with a business case and that is most likely dependant on the maturity of the organization. So typically when designing any Microsoft 365 solution I love the [Maturity Model for Microsoft 365](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro). They describe in detail how to design tools for different competencies within your organization. With that in mind it struck me that one could use a similar approach for designing and building for Microsoft Teams. While Microsoft Teams is being part of both Collaboration and Communication competencies the Microsoft Teams solution can be a bit of a weird duck. However conceptually speaking each component you develop requires a certain level of maturity in your organization. Showing a tab requires less IT experience from a typical end user compared to a chatbot they can interact with. With that fact we took the idea of different maturity levels and plotted the capabilities for Teams Development on those maturity levels.
+But while building all these solutions it got me thinking about the different options. Each option has its pros and cons and a whole bunch of technical requirements. But when focussing on those you might lose track of the business side of things. Building any solution starts with a business case and that is most likely dependant on the maturity of the organization. So typically when designing any Microsoft 365 solution I love the [Maturity Model for Microsoft 365](/microsoft-365/community/microsoft365-maturity-model--intro). They describe in detail how to design tools for different competencies within your organization. With that in mind it struck me that one could use a similar approach for designing and building for Microsoft Teams. While Microsoft Teams is being part of both Collaboration and Communication competencies the Microsoft Teams solution can be a bit of a weird duck. However conceptually speaking each component you develop requires a certain level of maturity in your organization. Showing a tab requires less IT experience from a typical end user compared to a chatbot they can interact with. With that fact we took the idea of different maturity levels and plotted the capabilities for Teams Development on those maturity levels.
 
 ![Teams Development maturity model sample](media/maturity-model-microsoft365-teams-development/teams-maturity-model.png)
 
@@ -58,6 +58,6 @@ Now I am the first to admit it is not an exact science: some companies might req
 
 ---
 
-**Principal author**: [Your Name Here](https://www.linkedin.com/in/YourProfileLink)
+**Principal author**: [Albert-Jan Schot](https://www.linkedin.com/in/albertjanschot)
 
 ---
