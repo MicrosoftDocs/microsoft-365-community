@@ -36,7 +36,7 @@
 #### [Staff & Training Competency](microsoft365-maturity-model--staff-and-training.md)
 #### [Elevating Staff and Training](microsoft-maturity-model-how-to-staff-and-training.md)
 ### Practical Scenarios
-#### [What are Practical Scenarios?](aturity-model-microsoft365-practical-scenarios.md)
+#### [What are Practical Scenarios?](maturity-model-microsoft365-practical-scenarios.md)
 #### [Maturity Model for Microsoft 365 and Teams Development](maturity-model-microsoft365-teams-development.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
