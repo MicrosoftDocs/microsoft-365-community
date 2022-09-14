@@ -86,10 +86,22 @@ landingContent:
             url: microsoft365-maturity-model--run-workshop.md
 
   # Card (optional)
+  - title: Practical Scenarios
+    linkLists:
+      - linkListType: concept
+        links:
+          - text: What are Practical Scenarios?
+            url: maturity-model-microsoft365-practical-scenarios.md
+          - text: Maturity Model for Microsoft 365 and Teams Development
+            url: maturity-model-microsoft365-teams-development.md
+
+  # Card (optional)
   - title: Practitioner Sessions
     linkLists:
       - linkListType: video
         links:
+          - text: Download the Practitioner Sessions meeting invitation
+            url: https://aka.ms/mm4m365/invite
           - text: Microsoft 365 Maturity Model Practitioner Sessions (YouTube)
             url: https://symp.info/MM4M365Videos 
           - text: Microsoft 365 Maturity Model Practitioner Sessions Slide Decks
