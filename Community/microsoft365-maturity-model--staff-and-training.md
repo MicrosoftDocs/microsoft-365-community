@@ -177,7 +177,7 @@ Providing solutions to existing problems will generate higher interest across th
 
 ### Common Microsoft 365 Tool Sets
 
-- [Microsoft Learn](/learn/)
+- [Microsoft Learn](/training/)
 - [LinkedIn Learning](https://www.linkedin.com/learning)
 - [Microsoft Learning Pathways](/office365/customlearning/)
 - [Microsoft Support](https://support.microsoft.com/training)
