@@ -28,33 +28,33 @@ This article will cover some powerful parameters that you can stick on the tail 
 
 You know this URL brings you to a website:
 
-`https://docs.microsoft.com`
+`https://learn.microsoft.com`
 
 And this one brings you to a specific _section_ of that same website:
 
-`https://docs.microsoft.com/search/`
+`https://learn.microsoft.com/search/`
 
 What about this URL?
 
-`https://docs.microsoft.com/search/?terms=community%20content`
+`https://learn.microsoft.com/search/?terms=community%20content`
 
 It has a **?** at the end with a key (_terms_) and a value (_community content_). This is a **query string**. Based on the key and value in it, we can infer that it might affect or influence the page to show different content.
 
 In this example, we can change the value in our address bar (and hit _return_) and the page content may be different. Example:
 
-`https://docs.microsoft.com/search/?terms=large%lists`
+`https://learn.microsoft.com/search/?terms=large%lists`
 
 ### Multiple filters
 
 Here's an example of multiple filtering with two keys (_products_ and _languages_) with their corresponding values (_m365_ and _javascript_):
 
-`https://docs.microsoft.com/samples/browse`
+`https://learn.microsoft.com/samples/browse`
 
-`https://docs.microsoft.com/samples/browse?products=m365&languages=javascript`
+`https://learn.microsoft.com/samples/browse?products=m365&languages=javascript`
 
 And here's that same page loads different content with different values (_ms-graph_ and _html_)
 
-`https://docs.microsoft.com/samples/browse/?products=ms-graph&languages=html`
+`https://learn.microsoft.com/samples/browse/?products=ms-graph&languages=html`
 
 How does this mental modal of _URL-as-page-transformer_ work in Microsoft 365? Keep reading!
 
