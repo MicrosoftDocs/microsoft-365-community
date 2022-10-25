@@ -411,23 +411,23 @@ Equally, many organizations invest in file storage technologies that provide per
 
 Burgeoning automation and AI make achieving high levels of maturity realistic for most organizations; however, the fundamentals need to be put in place before these can be effectively deployed.
 
-### Common Microsoft 365 Toolsets
+### Common toolsets
 
-- OneDrive
-- SharePoint
-- Teams
-- Data Loss Prevention
 - Azure
 - Azure Information Protection
-- Compliance Center
+- Data Loss Prevention
+- Email
 - File services
 - Microsoft Lists
-- Email
+- Microsoft Purview
+- Microsoft Syntex
 - Microsoft Word
+- OneDrive
 - OneNote
-- Stream
-- SharePoint Syntex
 - Power Automate
+- SharePoint
+- Stream
+- Teams
 - Viva Topics
 
 ## Resources
