@@ -107,6 +107,8 @@ landingContent:
             url: how-do-site-columns-become-managed-properties-thus-available-for-search.md
           - text: Document Sets for Fast Legacy Process Automation
             url: document-sets-are-magic.md
+          - text: Taking Advantage of the Content Type Inheritance Model in SharePoint
+            url: taking-advantage-content-type-inheritance-sharepoint.md
 
   # Card (optional)
   - title: Effective Communication

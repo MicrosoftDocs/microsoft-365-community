@@ -56,6 +56,7 @@
 ### [Creating Useful Views for Lists & Libraries](creating-useful-views-in-lists-libraries.md)
 ### [How Do Site Columns Become Managed Properties - Thus Available for Search?](how-do-site-columns-become-managed-properties-thus-available-for-search.md)
 ### [Document Sets for Fast Legacy Process Automation](document-sets-are-magic.md)
+### [Taking Advantage of the Content Type Inheritance Model in SharePoint](taking-advantage-content-type-inheritance-sharepoint.md)
 ## Effective Communication
 ### [The Principles of Communication](principles-of-communication.md)
 ### [The Principles of Search](principles-of-search.md)
