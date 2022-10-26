@@ -54,3 +54,7 @@ As you can see, the inheritance model makes a lot of sense. Each inheritance app
 __Show me all the Contracts__ is the really powerful query here. By requesting all content with a `ContentTypeId` which __*starts with*__ the __Contract__ Content Type's `ContentTypeId` (That's what the asterisk does for us.), it doesn't matter if we create a new Content Type inheriting from __Contract__. The query will automagically continue to do what we want because the next Content Type inheriting from __Contract__ will have a `ContentTypeId` of `0x0101002FBDBE6A1A315F438E41F10681463A6101<strong>03</strong>`. In other words, the `ContentTypeId:0x0101002FBDBE6A1A315F438E41F10681463A6101*` query will just pick that new content up for us without any adjustment.
 
 Pair this good information architecture with the [PnP Modern Search](https://microsoft-search.github.io/pnp-modern-search/) Web Parts, and you can build search-driven experiences which are highly specific, easily maintained, and extremely reliable. This is NOT "just Google". It's you building solutions to match the user stories and content needs in YOUR organization. If you extrapolate from these examples, you probably can imagine some potential hierarchies in your information architecture which may help you create more powerful solutions for your end users.
+
+---
+
+Principal author: [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
