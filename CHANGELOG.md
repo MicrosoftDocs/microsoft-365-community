@@ -25,10 +25,11 @@ Note: Changelog started in January, 2021
 | [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | MM4M365 Core Team |
 | [Maturity Model for Microsoft 365 - Staff & Training Competency](./Community/microsoft365-maturity-model--staff-and-training.md) | MM4M365 Core Team |
 | [Living Large with Large Lists and Large Libraries](./Community/large-lists-large-libraries-in-SharePoint.md) | [Trevor Seward, MVP](https://www.linkedin.com/in/trevorseward/) |
+| [Groups in Microsoft 365 and Azure, and Which is Right for You](./Community/all-about-groups.md) | [Tee Earls](https://www.linkedin.com/in/teeearls/) |
 
 ### New Contributors - October, 2022
 
-- [
+- [Tee Earls](https://www.linkedin.com/in/teeearls/)
 
 ## September, 2022
 
