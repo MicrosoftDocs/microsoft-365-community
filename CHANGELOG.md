@@ -6,6 +6,30 @@
 
 Note: Changelog started in January, 2021
 
+## October, 2022
+
+### New Articles - October, 2022
+
+| Article | Principal Author |
+|---|---|
+| [Taking Advantage of the Content Type Inheritance Model in SharePoint](./Community/taking-advantage-content-type-inheritance-sharepoint.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+
+### Updated Articles - October, 2022
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Business Process Competency](./Community/microsoft365-maturity-model--business-process.md) | MM4M365 Core Team |
+| [Maturity Model for Microsoft 365 - Collaboration Competency](./Community/microsoft365-maturity-model--collaboration.md) | MM4M365 Core Team |
+| [Maturity Model for Microsoft 365 - Communication Competency](./Community/microsoft365-maturity-model--communication.md) | MM4M365 Core Team |
+| [Maturity Model for Microsoft 365 - Customization and Development Competency](./Community/microsoft365-maturity-model--customization-and-development.md) | MM4M365 Core Team |
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | MM4M365 Core Team |
+| [Maturity Model for Microsoft 365 - Staff & Training Competency](./Community/microsoft365-maturity-model--staff-and-training.md) | MM4M365 Core Team |
+| [Living Large with Large Lists and Large Libraries](./Community/large-lists-large-libraries-in-SharePoint.md) | [Trevor Seward, MVP](https://www.linkedin.com/in/trevorseward/) |
+
+### New Contributors - October, 2022
+
+- [
+
 ## September, 2022
 
 ### New Articles - September, 2022
