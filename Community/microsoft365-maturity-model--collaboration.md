@@ -313,19 +313,24 @@ With collaboration at its core, the Microsoft 365 platform can be an incredible 
 
 Every organization can choose how best to use the Microsoft 365 platform for collaboration. The best answer for a large multi-national conglomerate would make little sense for a five-person financial advisory firm. The Microsoft 365 apps and services most likely included in the mix for collaboration include the following:
 
+- Excel
+- Loop
 - Microsoft Teams
-- SharePoint
-- Outlook
-- OneNote
 - OneDrive
-- Yammer
-- Office apps (Word, Excel etc)
-
-### Task Management
-
-- Project Online
+- OneNote
+- Outlook
 - Planner
+- PowerPoint
+- Project Online
+- SharePoint Team Sites
 - To Do
+- Viva Engage
+- Viva Goals
+- Viva Insights
+- Viva Sales
+- Viva Topics
+- Word
+- Yammer
 
 ## Resources
 

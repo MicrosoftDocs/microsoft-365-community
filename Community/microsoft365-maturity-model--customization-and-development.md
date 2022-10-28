@@ -370,29 +370,29 @@ Customization and development can only contribute maximally to the organization 
 
 ## Common Toolsets
 
-- Microsoft Graph
-- Microsoft Azure
-- SharePoint Framework
-- Power Platform
-- Dataverse for Teams
-- Microsoft Teams App Source
-- Serverless Technologies
-- Azure DevOps
 - Artificial Intelligence / Machine Learning
+- Azure DevOps
+- Dataverse for Teams
+- Microsoft Azure
+- Microsoft Graph
 - Microsoft PnP Frameworks
+- Microsoft Teams App Source
+- Power Platform
+- SharePoint Framework (SPFx)
+- Serverless Technologies
 
 Customizable products and services
 
-- Microsoft Teams
-- SharePoint
-- Forms
-- Project
 - Dynamics
-- Microsoft Office apps
-- Outlook/Exchange Server
-- Visio
+- Microsoft 365 apps
+- Microsoft Forms
 - Microsoft Lists
+- Microsoft Teams
+- Outlook/Exchange Server
 - Power BI
+- Project
+- SharePoint
+- Visio
 
 ## Resources
 
