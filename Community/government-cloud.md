@@ -15,11 +15,13 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-Working for the government can be a privilege, a job that comes with a feeling of pride and satisfaction in working on behalf of your fellow citizen. If you're a SharePoint site owner or Microsoft 365 expert who's working in the United States government (Federal, State, Local or Tribal) you may be working in the _government cloud._ Read on to learn about what that means to you and to your customers.
+## Introduction
+
+Working for the government can be a privilege, a job that comes with a feeling of pride and satisfaction in working on behalf of your fellow citizen. If you're a SharePoint site owner or Microsoft 365 expert who's working in the United States government (Federal, state, local or ribal) you may be working in the _government cloud._ Read on to learn about what that means to you and to your customers.
 
 ## Why do we have a government cloud?
 
-**Regulatory compliance!** The governing agencies of the United States have different rules and policies than the private sector. Microsoft 365's `GCC`, `GCC-High`, and `DOD` cloud offerings were purpose-built to meet these compliance requirements… all while still giving you a modern collaboration and development space.
+**Regulatory compliance!** The governing agencies of the United States have different rules and policies than the private sector. Microsoft 365's `GCC`, `GCC-High`, and `DOD` cloud offerings were purpose-built to meet these compliance requirements… all while still giving you a modern collaboration, document storage, and development space.
 
 [Microsoft's landing page](https://www.microsoft.com/microsoft-365/government) on the topic describes it like this:
 >_"Federal, State, and Local U.S. Government agencies, as well as commercial companies, holding controlled unclassified information, criminal justice information, and export-controlled data will find that Microsoft 365 Government offers the most robust set of capabilities while meeting necessary regulatory controls."_
@@ -37,15 +39,17 @@ Also worth noting:
 
 - Microsoft personnel who can access your tenant are restricted to those screened for it.
 
+If you need to get up to speed in this area, please review the [SharePoint for US governments](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint), [OneDrive for US governments](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/onedrive), and [Teams for governments](https://learn.microsoft.com/microsoftteams/expand-teams-across-your-org/teams-for-government-landing-page) guides.
+
 #### Back to school
 
-Government cloud offerings might not be the right call for **educational** customers. Learn more about educational offerings here: [https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-education](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-education)
+Government cloud offerings might not be the right call for **educational** customers. Learn more about M365 educational offerings here: [https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-education](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-education)
 
 ## Am I working in the government cloud?
 
-It might be hard to tell by just _looking_ at a SharePoint site or Microsoft Team that you're in the government cloud. If you're a Microsoft 365 expert or SharePoint site owner who's been handed a site or a Team to manage, the easiest way to tell is to check your account license. If it starts with a "**G**" then you're in the government cloud. If it starts with another letter, you're not.
+It might be hard to tell by just _looking_ at a SharePoint site or Microsoft Team that you're in the government cloud. If you're a Microsoft 365 expert or SharePoint site owner who's been handed a site or a Team to manage, the easiest way to tell is to check your account license. If it starts with a "**G**" then you're in the government cloud. 
 
-To check, head to [https://portal.office.com/account/](https://portal.office.com/account/) and click on 'View Subscriptions'. If you're working in the government cloud, you should see something like `Microsoft 365 G3 GCC` or `Microsoft 365 G5 GCC-High`. That means that you are a user who is licensed to work in a government cloud tenant.
+To check, head to [https://portal.office.com/account/](https://portal.office.com/account/) and click on 'View Subscriptions'. If you're working in the government cloud, you should see something like `Microsoft 365 G3 GCC` or `Microsoft 365 G5 GCC-High`. That means that you're a user who is licensed to work in a government cloud tenant.
 
 >[!TIP]
 >To compare the different government cloud license types check out this comparison chart: [https://www.microsoft.com/en-us/microsoft-365/government/compare-office-365-government-plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)
@@ -57,34 +61,38 @@ One the benefits of having SharePoint and Microsoft 365 in the cloud is that new
 Not every feature that's available in the commercial M365 offerings will be available in the government cloud, and those that become available might involve waiting a bit longer to get than your private sector friends.
 
 >[!TIP]
->The government cloud **Feature Availability chart**
+>For high level feature availability, check out the government cloud **Feature Availability** chart
 >[https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features)
 
-In order to maintain compliance, new features and functionality need to be certified for your government cloud instance. This certification might mean waiting six months to a year or more) for new functionally or – occasionally -never getting it at all (especially in `GCC-High` and `DOD`).
+In order to maintain compliance, new features and functionality need to be certified for your government cloud instance. This certification might mean waiting six months to a year or more for new functionally or  occasionally never getting it at all (especially in `GCC-High` and `DOD`).
 
-Be prepared for some frustration from your end users about this – they'll read about the latest new Teams functionality or Power Automate Connector and expect to see it in your environment on launch day. More likely than not, it'll land on you to share context about the delay between commercial and government clouds.
+Be prepared for some frustration from your end users about this – they'll read about the latest new Teams functionality or Power Automate Connector and expect to see it in your environment on launch day. More likely than not, the task will land on you to share context about the feature availability difference between commercial and government clouds.
 
 > [!IMPORTANT]
-> The **Microsoft 365 Road Map** , tuned to the government cloud. Set the Cloud Instance to match your type (`GCC`, `GCC-High`, or `DOD`) and toggle "In development" or "rolling out" to see what's headed your way. Remember that the dates provided are _estimates._
+> Bookmark the **Microsoft 365 Road Map** and tune it to to the government cloud. Set the Cloud Instance to match your type (`GCC`, `GCC-High`, or `DOD`) and toggle "In development" or "rolling out" to see what's headed your way. Remember that the dates provided are _estimates._
 >[https://www.microsoft.com/microsoft-365/roadmap?rtc=1&filters=DoD%2CGCC%2CGCC%20High%2CIn%20development%2CRolling%20out](https://www.microsoft.com/microsoft-365/roadmap?rtc=1&filters=DoD%2CGCC%2CGCC%20High%2CIn%20development%2CRolling%20out)
 
 _Pro tip:_ The road map has an [_RSS feed_](https://www.microsoft.com/microsoft-365/RoadmapFeatureRSS/). If your Power Automate setup includes the RSS connector, create a flow that emails or Teams-messages you when updates are made.
 
-## URLs matter
+## Watch your URLs
 
-Another sure-fire sign that you're working in the cloud – some of your M365 URLs might be different than the private sector ones. This means paying a little more attention to the documentation and tutorials you share with your customers. They may get confused if they try to log in to a commercial tenant M365 URL with their government cloud credentials.
+Another sign that you're working in the cloud – some of your M365 URLs might be different than the commercial M365 equivalents. This means paying a little more attention to the documentation and tutorials you share with your customers. Customers may get confused if they try to log in to a commercial tenant URL with their government cloud credentials.
 
-While your friends in the banking sector might build their Power Apps in the commercial tenant URL of [https://make.powerapps.com](https://make.powerapps.com/), you might be making yours in [https://make.gov.powerapps.us](https://make.gov.powerapps.us/) (`GCC`), [https://make.high.powerapps.us](https://make.high.powerapps.us/) (`GCC-High`), or even in [https://make.apps.appsplatform.us](https://make.apps.appsplatform.us/) (`DOD`).
+For example, while your friends in the banking sector might build their Power Apps at the commercial tenant URL of [https://make.powerapps.com](https://make.powerapps.com/), you'd be making yours at [https://make.gov.powerapps.us](https://make.gov.powerapps.us/) (`GCC`), [https://make.high.powerapps.us](https://make.high.powerapps.us/) (`GCC-High`), or maybe even in [https://make.apps.appsplatform.us](https://make.apps.appsplatform.us/) (`DOD`).
+
+
 
 ## Working with support staff, trainers, and vendor partners
 
-When looking for support, be it formally with a service/support provider or informally on social media and forums, you'll have a better time if you mention that your Microsoft 365 tenant is in the government cloud. (You can even share this article to get them up to speed!). Specifying your specific government cloud type (`GCC`, `GCC-High`, `DOD`) will help align support guidance with your environment.
+When seeking out support in your government cloud tenant, be it formally with a service provider or informally on social media and forums, you'll have a better time if you mention that your Microsoft 365 tenant is in the government cloud. (You can even share this article to get them up to speed!).
 
-Vendors selling web parts, training content, and Teams apps won't always be fully aware of the differences in the government cloud. Insist they demonstrate awareness and understanding of the government cloud differences before making a purchase.
+Specifying your specific government cloud type (`GCC`, `GCC-High`, `DOD`) will help align support guidance with your environment.
+
+Vendors selling web parts, support, training content, and Teams apps won't always be fully aware of the differences in the government cloud. Insist they demonstrate awareness and understanding of the Microsoft 365 government cloud before making a purchase.
 
 ## Government cloud developers
 
-If you've got development chops in the Microsoft space, you should understand how that impacts your code and applications. Tokens, registration of apps, and endpoint URLs might be different. Your specific government agency may have unique requirements for deploying apps. Documentation written for the commercial tenants might not apply to you.
+If you've got development chops in the Microsoft space, you should understand how working in the government cloud will impact your code and applications. Tokens, registration of apps, and endpoint URLs could be different. Your specific government agency may have unique requirements for deploying apps. Documentation written for the commercial tenants might not apply to you.
 
 Here are some resources to help guide you:
 
@@ -92,8 +100,7 @@ Here are some resources to help guide you:
 [https://github.com/microsoft/Federal-Business-Applications/tree/main/demos/powershell-gov-samples#microsoft-graph-powershell](https://github.com/microsoft/Federal-Business-Applications/tree/main/demos/powershell-gov-samples#microsoft-graph-powershell)
 
 - National Cloud Deployments
-[https://learn.microsoft.com/graph/deployments
-](https://learn.microsoft.com/graph/deployments)
+[https://learn.microsoft.com/graph/deployments](https://learn.microsoft.com/graph/deployments)
 
 - Azure government cloud documentation
 [https://learn.microsoft.com/azure/azure-government/documentation-government-welcome
