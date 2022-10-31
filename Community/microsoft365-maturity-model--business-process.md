@@ -248,15 +248,17 @@ Improving your Business Process maturity requires an investment in business proc
 
 ## Common Microsoft 365 Toolsets
 
-- Planner
-- Project Online
-- Microsoft Lists
-- Power Automate
-- Common Data Service (now Dataverse)
-- Microsoft Forms
-- Power Apps
-- Power Virtual Agents
 - Connectors / Custom Connectors to access other line of business apps and services
+- Dataverse
+- Microsoft Forms
+- Microsoft Lists
+- Planner
+- Power Apps
+- Power Automate
+- Power Virtual Agents
+- Project Online
+- Viva Goals
+- Viva Sales
 
 ## Resources
 
