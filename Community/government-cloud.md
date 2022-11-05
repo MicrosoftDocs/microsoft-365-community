@@ -1,5 +1,5 @@
 ---
-title:  Working in the Government Cloud with SharePoint and Microsoft 365
+title: Use the Government Cloud for SharePoint and Microsoft 365
 ms.date: 10/30/2022
 author: PatD
 ms.reviewer: 
@@ -11,27 +11,18 @@ localization_priority:
 description: "A quick knowledge primer for site owners and Microsoft 365 experts on working in the M365 government cloud."
 ms.collection: M365Community
 ---
-# Working in the Government Cloud with SharePoint and Microsoft 365
+# Use the Government Cloud for SharePoint and Microsoft 365
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-## Introduction
+Working for the government can be a privilege, a job that comes with a feeling of pride and satisfaction in working on behalf of your fellow citizen. If you're a SharePoint site owner or Microsoft 365 expert who's working in the United States government (Federal, state, local or Tribal) you may be working in the _government cloud._ Read on to learn about what that means to you and to your customers.
 
-Working for the government can be a privilege, a job that comes with a feeling of pride and satisfaction in working on behalf of your fellow citizen. If you're a SharePoint site owner or Microsoft 365 expert who's working in the United States government (Federal, state, local or ribal) you may be working in the _government cloud._ Read on to learn about what that means to you and to your customers.
-
-## Why do we have a government cloud?
+## Why have a government cloud?
 
 **Regulatory compliance!** The governing agencies of the United States have different rules and policies than the private sector. Microsoft 365's `GCC`, `GCC-High`, and `DOD` cloud offerings were purpose-built to meet these compliance requirements… all while still giving you a modern collaboration, document storage, and development space.
 
 [Microsoft's landing page](https://www.microsoft.com/microsoft-365/government) on the topic describes it like this:
 >_"Federal, State, and Local U.S. Government agencies, as well as commercial companies, holding controlled unclassified information, criminal justice information, and export-controlled data will find that Microsoft 365 Government offers the most robust set of capabilities while meeting necessary regulatory controls."_
-
-### Service Description
-
-> [!IMPORTANT]
-> The **Service Description** goes into detail on what it means to operate Microsoft 365 in the government cloud.
->[https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#about-office-365-government-environments
-](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#about-office-365-government-environments)
 
 Also worth noting:
 
@@ -39,15 +30,9 @@ Also worth noting:
 
 - Microsoft personnel who can access your tenant are restricted to those screened for it.
 
-If you need to get up to speed in this area, please review the [SharePoint for US governments](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint), [OneDrive for US governments](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/onedrive), and [Teams for governments](https://learn.microsoft.com/microsoftteams/expand-teams-across-your-org/teams-for-government-landing-page) guides.
-
-#### Back to school
-
-Government cloud offerings might not be the right call for **educational** customers. Learn more about M365 educational offerings here: [https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-education](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-education)
-
 ## Am I working in the government cloud?
 
-It might be hard to tell by just _looking_ at a SharePoint site or Microsoft Team that you're in the government cloud. If you're a Microsoft 365 expert or SharePoint site owner who's been handed a site or a Team to manage, the easiest way to tell is to check your account license. If it starts with a "**G**" then you're in the government cloud. 
+It might be hard to tell by _looking_ at a SharePoint site or Microsoft Team that you're in the government cloud. If you're a Microsoft 365 expert or SharePoint site owner who's been handed a site or a Team to manage, the easiest way to tell is to check your account license. If it starts with a "**G**" then you're in the government cloud.
 
 To check, head to [https://portal.office.com/account/](https://portal.office.com/account/) and click on 'View Subscriptions'. If you're working in the government cloud, you should see something like `Microsoft 365 G3 GCC` or `Microsoft 365 G5 GCC-High`. That means that you're a user who is licensed to work in a government cloud tenant.
 
@@ -55,6 +40,8 @@ To check, head to [https://portal.office.com/account/](https://portal.office.com
 >To compare the different government cloud license types check out this comparison chart: [https://www.microsoft.com/en-us/microsoft-365/government/compare-office-365-government-plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)
 
 ## The waiting is the hardest (web)part
+ Business Applications Feature Parity document
+https://aka.ms/BAPFunctionalParity
 
 One the benefits of having SharePoint and Microsoft 365 in the cloud is that new features and tools show up regularly. This is true in the government cloud as well... but with the caveat that many new features must be vetted for compliance before you get access to them.
 
@@ -79,8 +66,6 @@ _Pro tip:_ The road map has an [_RSS feed_](https://www.microsoft.com/microsoft-
 Another sign that you're working in the cloud – some of your M365 URLs might be different than the commercial M365 equivalents. This means paying a little more attention to the documentation and tutorials you share with your customers. Customers may get confused if they try to log in to a commercial tenant URL with their government cloud credentials.
 
 For example, while your friends in the banking sector might build their Power Apps at the commercial tenant URL of [https://make.powerapps.com](https://make.powerapps.com/), you'd be making yours at [https://make.gov.powerapps.us](https://make.gov.powerapps.us/) (`GCC`), [https://make.high.powerapps.us](https://make.high.powerapps.us/) (`GCC-High`), or maybe even in [https://make.apps.appsplatform.us](https://make.apps.appsplatform.us/) (`DOD`).
-
-
 
 ## Working with support staff, trainers, and vendor partners
 
@@ -124,6 +109,16 @@ Unlike a personal or business M365 subscription, you can't decide one afternoon 
 [https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy#how-do-i-buy-microsoft-365-government
 ](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy#how-do-i-buy-microsoft-365-government)
 
+### Detailed learning
+
+When you're ready to learn more, start with the **Service Description**, as it details what it means to operate Microsoft 365 in the government cloud. [https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#about-office-365-government-environments
+](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#about-office-365-government-environments).
+
+Then for specific guidance, review the [SharePoint for US governments](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint), [OneDrive for US governments](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/onedrive), and [Teams for governments](https://learn.microsoft.com/microsoftteams/expand-teams-across-your-org/teams-for-government-landing-page) guides.
+
+>[!NOTE]
+>Government cloud offerings might not be the right call for **educational** customers. Learn more about M365 educational offerings here: [https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-education](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-education)
+
 **Recommended Reading:** Planning your deployment.
  These guides for each tier will help you roll out your first government cloud deployment.
 
@@ -151,5 +146,6 @@ A shared affinity for public service helps technologists, developers, site owner
 [https://www.youtube.com/playlist?list=PLyJFOtpJV3wNOExhHa6Uo5XLieb0RC\_EW](https://www.youtube.com/playlist?list=PLyJFOtpJV3wNOExhHa6Uo5XLieb0RC_EW)
 
 ---
+Thanks to these community members for article input: _Adrienne Andrews, Ed Bellman, Sean Bugler, Jason Byrd, Nate Chamberlain, Joseph Dunn, Christophe Humbert, Naveen Karla, Matt Wade, Fred Yano_
 
 **Principal author**: [Patrick M. Doran](https://www.linkedin.com/in/PatrickDoran)
