@@ -42,6 +42,8 @@ landingContent:
             url: type-of-apps-microsoft-365.md
           - text: Query String URL Tricks for SharePoint and Microsoft 365
             url: query-string-url-tricks-sharepoint-m365.md
+          - text: Use the Government Cloud for SharePoint and Microsoft 365
+            url: government-cloud.md
 
   # Card (optional)
   - title: Microsoft 365 Better Practices
