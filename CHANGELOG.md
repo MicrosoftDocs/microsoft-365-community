@@ -6,6 +6,23 @@
 
 Note: Changelog started in January, 2021
 
+## November, 2022
+
+### New Articles - November, 2022
+
+| Article | Principal Author |
+|---|---|
+| [Use the Government Cloud for SharePoint and Microsoft 365](government-cloud.md) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
+
+### Updated Articles - November, 2022
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - November, 2022
+
+-
+
 ## October, 2022
 
 ### New Articles - October, 2022
@@ -37,8 +54,7 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
-| [Maturity Model for Microsoft 365 and Teams Development](./Community/maturity-model-microsoft365-teams-development.md) | [Albert-Jan Schot](https://www.linkedin.com/in/albertjanschot)
- |
+| [Maturity Model for Microsoft 365 and Teams Development](./Community/maturity-model-microsoft365-teams-development.md) | [Albert-Jan Schot](https://www.linkedin.com/in/albertjanschot) |
 
 ### Updated Articles - September, 2022
 
