@@ -12,6 +12,7 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
+| [Use the Government Cloud for SharePoint and Microsoft 365](government-cloud.md) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
 
 ### Updated Articles - November, 2022
 

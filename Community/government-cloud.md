@@ -2,10 +2,10 @@
 title: Use the Government Cloud for SharePoint and Microsoft 365
 ms.date: 10/30/2022
 author: PatD
-ms.reviewer: 
-manager: 
+ms.reviewer: daisyfeller
+manager: pamgreen-msft
 ms.topic: article
-ms.author: 
+ms.author: daisyfeller
 ms.service: sharepoint-online
 localization_priority: 
 description: "A quick knowledge primer for site owners and Microsoft 365 experts on working in the M365 government cloud."
@@ -47,7 +47,7 @@ Not every feature that's available in the commercial M365 offerings will be avai
 
 >[!TIP]
 >For high level feature availability, check out the government cloud **Feature Availability** chart:
->[https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features)
+>[https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features)
 
 In order to maintain compliance, _new_ features and functionality need to be certified for your government cloud instance. This certification might mean waiting six months to a year or more for new functionally or occasionally not getting the new feature at all (especially in `GCC-High` and `DOD`).
 
@@ -88,47 +88,44 @@ Here are some resources to help guide you:
 [https://github.com/microsoft/Federal-Business-Applications/tree/main/demos/powershell-gov-samples#microsoft-graph-powershell](https://github.com/microsoft/Federal-Business-Applications/tree/main/demos/powershell-gov-samples#microsoft-graph-powershell)
 
 - National Cloud Deployments
-[https://learn.microsoft.com/graph/deployments](https://learn.microsoft.com/graph/deployments)
+[https://learn.microsoft.com/graph/deployments](/graph/deployments)
 
 - Azure government cloud documentation
 [https://learn.microsoft.com/azure/azure-government/documentation-government-welcome
-](https://learn.microsoft.com/azure/azure-government/documentation-government-welcome)
+](/azure/azure-government/documentation-government-welcome)
 
 - `DOD` endpoints
 [https://learn.microsoft.com/microsoft-365/enterprise/microsoft-365-u-s-government-dod-endpoints
-](https://learn.microsoft.com/microsoft-365/enterprise/microsoft-365-u-s-government-dod-endpoints)
+](/microsoft-365/enterprise/microsoft-365-u-s-government-dod-endpoints)
 
 - `GCC-High` endpoints
 [https://learn.microsoft.com/microsoft-365/enterprise/microsoft-365-u-s-government-gcc-high-endpoints
-](https://learn.microsoft.com/microsoft-365/enterprise/microsoft-365-u-s-government-gcc-high-endpoints)
+](/microsoft-365/enterprise/microsoft-365-u-s-government-gcc-high-endpoints)
 
 - `GCC` (and worldwide) endpoints
-[https://learn.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges](https://learn.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges)
+[https://learn.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges](/microsoft-365/enterprise/urls-and-ip-address-ranges)
 
 ## Buying your own government cloud tenant
 
-Unlike a personal or business M365 subscription, you can't decide one afternoon to buy your own government cloud M365 tenant. You'll need to work with Microsoft to demonstrate that _yes, you are part of a government entity._ Learn about the process here:
-
-[https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy#how-do-i-buy-microsoft-365-government
-](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy#how-do-i-buy-microsoft-365-government)
+Unlike a personal or business M365 subscription, you can't decide one afternoon to buy your own government cloud M365 tenant. You'll need to work with Microsoft to demonstrate that _yes, you are part of a government entity._ Learn about the process here: [How do I buy Microsoft 365 Government?
+](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy#how-do-i-buy-microsoft-365-government)
 
 ### Planning your deployment
 
 If you're starting from scratch with a new tenant, these guides for each type will help you roll out your first government cloud deployment.
 
-- [https://learn.microsoft.com/microsoftteams/plan-for-government-gcc](https://learn.microsoft.com/microsoftteams/plan-for-government-gcc)
-- [https://learn.microsoft.com/en-us/microsoftteams/plan-for-government-gcc-high](https://learn.microsoft.com/microsoftteams/plan-for-government-gcc-high)
-- [https://learn.microsoft.com/microsoftteams/plan-for-government-dod](https://learn.microsoft.com/microsoftteams/plan-for-government-dod)
+- [https://learn.microsoft.com/microsoftteams/plan-for-government-gcc](/microsoftteams/plan-for-government-gcc)
+- [https://learn.microsoft.com/en-us/microsoftteams/plan-for-government-gcc-high](/microsoftteams/plan-for-government-gcc-high)
+- [https://learn.microsoft.com/microsoftteams/plan-for-government-dod](/microsoftteams/plan-for-government-dod)
 
 ### Detailed learning
 
-When you're ready to learn more, start with the **Service Description**, as it details what it means to operate Microsoft 365 in the government cloud. [https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#about-office-365-government-environments
-](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#about-office-365-government-environments).
+When you're ready to learn more, start with the **Service Description**, as it details what it means to operate Microsoft 365 in the government cloud. [Office 365 Government](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#about-office-365-government-environments).
 
-Then for specific guidance, review the [SharePoint for US governments](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint), [OneDrive for US governments](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/onedrive), and [Teams for governments](https://learn.microsoft.com/microsoftteams/expand-teams-across-your-org/teams-for-government-landing-page) guides.
+Then for specific guidance, review the [SharePoint for US governments](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint), [OneDrive for US governments](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/onedrive), and [Teams for governments](/microsoftteams/expand-teams-across-your-org/teams-for-government-landing-page) guides.
 
 >[!NOTE]
->Government cloud offerings might not be the right call for **educational** customers. Learn more about M365 educational offerings here: [https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-education](https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-education)
+>Government cloud offerings might not be the right call for **educational** customers. Learn more about M365 educational offerings here: [Office 365 Education](/office365/servicedescriptions/office-365-platform-service-description/office-365-education)
 
 ## Community support and learning
 
@@ -141,7 +138,7 @@ A shared affinity for public service helps technologists, developers, site owner
 [https://techcommunity.microsoft.com/t5/public-sector-blog/bg-p/PublicSectorBlog](https://techcommunity.microsoft.com/t5/public-sector-blog/bg-p/PublicSectorBlog) [[RSS](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=336335429204089405&board=PublicSectorBlog&size=25)]
 
 - Social media – mention your government cloud instance with these hash tags
-[https://learn.microsoft.com/microsoft-365/community/microsoft-365-on-social-media](https://learn.microsoft.com/microsoft-365/community/microsoft-365-on-social-media)
+[https://learn.microsoft.com/microsoft-365/community/microsoft-365-on-social-media](/microsoft-365/community/microsoft-365-on-social-media)
 
 - M365 User Group of Washington DC
 [https://www.meetup.com/m365dc/](https://www.meetup.com/m365dc/)
@@ -149,8 +146,8 @@ A shared affinity for public service helps technologists, developers, site owner
 - Government Community Call – AvePoint Public Sector
 [https://www.youtube.com/playlist?list=PLyJFOtpJV3wNOExhHa6Uo5XLieb0RC\_EW](https://www.youtube.com/playlist?list=PLyJFOtpJV3wNOExhHa6Uo5XLieb0RC_EW)
 
-
 Thanks to these community members for article input: _Adrienne Andrews, Ed Bellman, Sean Bugler, Jason Byrd, Nate Chamberlain, Joseph Dunn, Christophe Humbert, Naveen Karla, Matt Wade, Fred Yano_.
 
 ---
+
 **Principal author**: [Patrick M. Doran](https://www.linkedin.com/in/PatrickDoran)
