@@ -36,8 +36,7 @@ It might be hard to tell by _looking_ at a SharePoint site or Microsoft Team tha
 
 To check, head to [https://portal.office.com/account/](https://portal.office.com/account/) and click on 'View Subscriptions'. If you're working in the government cloud, you should see something like `Microsoft 365 G3 GCC` or `Microsoft 365 G5 GCC-High`. That means that you're a user who is licensed to work in a government cloud tenant.
 
->[!TIP]
->Compare the **government cloud license types** with this chart: [https://www.microsoft.com/en-us/microsoft-365/government/compare-office-365-government-plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)
+For more context on licenses, review the [Microsoft Government Cloud License Types](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans) chart.
 
 ## Working on it - new features
 
@@ -45,24 +44,23 @@ One the benefits of having SharePoint and Microsoft 365 in the cloud is that new
 
 Not every feature that's available in the commercial M365 offerings will be available in the government cloud on day one, and those that do become available might involve waiting a bit longer to get.
 
->[!TIP]
->For high level feature availability, check out the government cloud **Feature Availability** chart:
->[https://learn.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features)
-
 In order to maintain compliance, _new_ features and functionality need to be certified for your government cloud instance. This certification might mean waiting six months to a year or more for new functionally or occasionally not getting the new feature at all (especially in `GCC-High` and `DOD`).
 
->[!IMPORTANT]
-> Bookmark and check monthly the **Microsoft Business Applications Product and Feature Experience Parity** PDF document to see the updates on features in your cloud instance. [https://aka.ms/BAPFunctionalParity](https://aka.ms/BAPFunctionalParity)
+- For high level availability context, check out the [Microsoft Government Cloud Feature Availability](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features) table.
+
+- For monthly updates, bookmark the [Microsoft Business Applications Product and Feature Experience Parity](https://aka.ms/BAPFunctionalParity) PDF report.
 
 ### The waiting is the hardest (web)part
 
 Be prepared for some frustration from your end-users about waiting for new features – they'll read about the latest new Teams capability or Power Automate Connector and expect to see it in your government cloud environment on launch day. More likely than not, the task will land on _you_ to share context about the feature availability difference between commercial and government clouds.
 
-> [!NOTE]
-> Bookmark the **Microsoft 365 Road Map** and tune it to to the government cloud. Set the _Cloud Instance_ to match your's  (`GCC`, `GCC-High`, or `DOD`) and toggle "In development" or "rolling out" to see what's headed your way. Remember that the dates provided are _estimates._
->[https://www.microsoft.com/microsoft-365/roadmap?rtc=1&filters=DoD%2CGCC%2CGCC%20High%2CIn%20development%2CRolling%20out](https://www.microsoft.com/microsoft-365/roadmap?rtc=1&filters=DoD%2CGCC%2CGCC%20High%2CIn%20development%2CRolling%20out)
+To stay up to date on what's headed your way:
 
-_Pro tip:_ The road map has an [_RSS feed_](https://www.microsoft.com/microsoft-365/RoadmapFeatureRSS/) so you can stay up to date and changes.
+1. Bookmark the [Microsoft 365 Road Map](https://www.microsoft.com/microsoft-365/roadmap?rtc=1&filters=DoD%2CGCC%2CGCC%20High%2CIn%20development%2CRolling%20out) and tune it to to the government cloud.
+
+2. Set the _Cloud Instance_ to match your tenant (`GCC`, `GCC-High`, or `DOD`) and toggle "In development" or "rolling out". Remember that the dates provided are _estimates._
+
+3. The Road Map has an [_RSS feed_](https://www.microsoft.com/microsoft-365/RoadmapFeatureRSS/) so you can stay up to date and changes.
 
 ## Watch your URLs
 
@@ -84,39 +82,30 @@ If you've got development chops in the Microsoft space, you should understand ho
 
 Here are some resources to help guide you:
 
-- Microsoft Graph Powershell examples for government
-[https://github.com/microsoft/Federal-Business-Applications/tree/main/demos/powershell-gov-samples#microsoft-graph-powershell](https://github.com/microsoft/Federal-Business-Applications/tree/main/demos/powershell-gov-samples#microsoft-graph-powershell)
+- [Microsoft Graph Powershell examples for government](https://github.com/microsoft/Federal-Business-Applications/tree/main/demos/powershell-gov-samples#microsoft-graph-powershell)
 
-- National Cloud Deployments
-[https://learn.microsoft.com/graph/deployments](/graph/deployments)
+- [Microsoft National Cloud Deployments guide](/graph/deployments)
 
-- Azure government cloud documentation
-[https://learn.microsoft.com/azure/azure-government/documentation-government-welcome
-](/azure/azure-government/documentation-government-welcome)
+- [Azure government cloud documentation](/azure/azure-government/documentation-government-welcome)
 
-- `DOD` endpoints
-[https://learn.microsoft.com/microsoft-365/enterprise/microsoft-365-u-s-government-dod-endpoints
-](/microsoft-365/enterprise/microsoft-365-u-s-government-dod-endpoints)
+- [DOD endpoints](/microsoft-365/enterprise/microsoft-365-u-s-government-dod-endpoints)
 
-- `GCC-High` endpoints
-[https://learn.microsoft.com/microsoft-365/enterprise/microsoft-365-u-s-government-gcc-high-endpoints
-](/microsoft-365/enterprise/microsoft-365-u-s-government-gcc-high-endpoints)
+- [GCC-High endpoints](/microsoft-365/enterprise/microsoft-365-u-s-government-gcc-high-endpoints)
 
-- `GCC` (and worldwide) endpoints
-[https://learn.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges](/microsoft-365/enterprise/urls-and-ip-address-ranges)
+- [GCC (and worldwide) endpoints](/microsoft-365/enterprise/urls-and-ip-address-ranges)
 
 ## Buying your own government cloud tenant
 
-Unlike a personal or business M365 subscription, you can't decide one afternoon to buy your own government cloud M365 tenant. You'll need to work with Microsoft to demonstrate that _yes, you are part of a government entity._ Learn about the process here: [How do I buy Microsoft 365 Government?
-](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy#how-do-i-buy-microsoft-365-government)
+Unlike a personal or business M365 subscription, you can't decide one afternoon to buy your own government cloud M365 tenant. You'll need to work with Microsoft to demonstrate that _yes, you are part of a government entity._ [Learn How to buy Microsoft 365 Government
+](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy#how-do-i-buy-microsoft-365-government).
 
 ### Planning your deployment
 
 If you're starting from scratch with a new tenant, these guides for each type will help you roll out your first government cloud deployment.
 
-- [https://learn.microsoft.com/microsoftteams/plan-for-government-gcc](/microsoftteams/plan-for-government-gcc)
-- [https://learn.microsoft.com/en-us/microsoftteams/plan-for-government-gcc-high](/microsoftteams/plan-for-government-gcc-high)
-- [https://learn.microsoft.com/microsoftteams/plan-for-government-dod](/microsoftteams/plan-for-government-dod)
+- [Plan for Microsoft 365 Government - GCC deployments](/microsoftteams/plan-for-government-gcc)
+- [Plan for Microsoft 365 Government - GCC-High deployments](/microsoftteams/plan-for-government-gcc-high)
+- [Plan for Microsoft 365 Government - DOD deployments](/microsoftteams/plan-for-government-dod)
 
 ### Detailed learning
 
@@ -131,20 +120,15 @@ Then for specific guidance, review the [SharePoint for US governments](/office36
 
 A shared affinity for public service helps technologists, developers, site owners, and M365 experts working in the government cloud to support one another. These resources can get you answers quickly from people with similar government cloud configurations.
 
-- Microsoft Public Sector Community
-[https://techcommunity.microsoft.com/t5/public-sector/ct-p/PublicSector](https://techcommunity.microsoft.com/t5/public-sector/ct-p/PublicSector)
+- [Microsoft Public Sector Community](https://techcommunity.microsoft.com/t5/public-sector/ct-p/PublicSector)
 
-- Microsoft Public Sector Blog
-[https://techcommunity.microsoft.com/t5/public-sector-blog/bg-p/PublicSectorBlog](https://techcommunity.microsoft.com/t5/public-sector-blog/bg-p/PublicSectorBlog) [[RSS](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=336335429204089405&board=PublicSectorBlog&size=25)]
+- [Microsoft Public Sector Blog](https://techcommunity.microsoft.com/t5/public-sector-blog/bg-p/PublicSectorBlog) [[RSS](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=336335429204089405&board=PublicSectorBlog&size=25)]
 
-- Social media – mention your government cloud instance with these hash tags
-[https://learn.microsoft.com/microsoft-365/community/microsoft-365-on-social-media](/microsoft-365/community/microsoft-365-on-social-media)
+- [Social media – mention your government cloud instance with these hash tags](/microsoft-365/community/microsoft-365-on-social-media)
 
-- M365 User Group of Washington DC
-[https://www.meetup.com/m365dc/](https://www.meetup.com/m365dc/)
+- [M365 User Group of Washington DC](https://www.meetup.com/m365dc/)
 
-- Government Community Call – AvePoint Public Sector
-[https://www.youtube.com/playlist?list=PLyJFOtpJV3wNOExhHa6Uo5XLieb0RC\_EW](https://www.youtube.com/playlist?list=PLyJFOtpJV3wNOExhHa6Uo5XLieb0RC_EW)
+- [Government Community Call – AvePoint Public Sector](https://www.youtube.com/playlist?list=PLyJFOtpJV3wNOExhHa6Uo5XLieb0RC_EW)
 
 Thanks to these community members for article input: _Adrienne Andrews, Ed Bellman, Sean Bugler, Jason Byrd, Nate Chamberlain, Joseph Dunn, Christophe Humbert, Naveen Karla, Matt Wade, Fred Yano_.
 
