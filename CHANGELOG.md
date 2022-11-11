@@ -13,6 +13,7 @@ Note: Changelog started in January, 2021
 | Article | Principal Author |
 |---|---|
 | [Use the Government Cloud for SharePoint and Microsoft 365](government-cloud.md) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
+| [Maturity Model for Microsoft 365 - Infrastructure Competency](./Community/microsoft365-maturity-model--infrastructure.md) | MM4M365 Core Team |
 
 ### Updated Articles - November, 2022
 
@@ -21,7 +22,7 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - November, 2022
 
--
+- [Sharon Weaver](https://www.linkedin.com/in/sharonweaver/)
 
 ## October, 2022
 
