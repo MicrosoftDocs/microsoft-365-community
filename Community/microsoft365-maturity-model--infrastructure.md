@@ -222,7 +222,7 @@ Security is a priority and regular testing leads to proactive tasks to ensure th
 
 ### Level 400 - Predictable
 
-The process is actively managed in accordance with agreed processes and has tracked metrics. Effective achievement of the process objectives can be evidenced (using metrics) across a range of operational conditions. The suitability of the process in multiple environments and scenarios has been tested and the process refined and adapted with corresponding updates to documentation, policy, and training. Process users have experienced the process in multiple and varied conditions and are able to demonstrate competence. Adapting to new projects or scenarios can occur without unexpected, measurable losses of quality. Process Capability is established from this level._
+The process is actively managed in accordance with agreed processes and has tracked metrics. Effective achievement of the process objectives can be evidenced (using metrics) across a range of operational conditions. The suitability of the process in multiple environments and scenarios has been tested and the process refined and adapted with corresponding updates to documentation, policy, and training. Process users have experienced the process in multiple and varied conditions and are able to demonstrate competence. Adapting to new projects or scenarios can occur without unexpected, measurable losses of quality. Process Capability is established from this level.
 
 [**Managed level**](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro#level-400---managed-capable) characteristics include:
 
@@ -230,7 +230,7 @@ The process is actively managed in accordance with agreed processes and has trac
 
 - There are formalized lists of requirements, including security requirements, operating constraints and defined and enforced Service/Operating Level Agreements (SLA/OLA) and a basic control framework where evidence of meeting requirements is evidenced manually, via documentation and reviewed and audited periodically.
 - There is a formalized and appropriately sized (perhaps medium to large) team of developers and Site Reliability Engineers (SRE) supporting multiple and diverse applications following a DevSecOps model overseen by a Chief Technology Officer (CTO) or Chief Information Officer (CIO) and dedicated representation from an accountable security function overseen by a Chief Information Security Officer (CISO).
-- Developers / SRE submit pull requests for small changes that are batched up to implement on a daily or weekly basis during an agreed and well communicated change window after being successfully tested and reviewed
+- Developers / SRE submit pull requests for small changes that are batched up to implement on a daily or weekly basis during an agreed and well communicated change window after being successfully tested and reviewed.
 - Infrastructure is managed with the same rigor as application code and managed through source control and Infrastructure as Code principles with several exceptions where it is very complex to automate and is quicker to do as a 1-off manual configuration.
 - Automated subscription lifecycle (automation) is used as much as possible where appropriate.
 - Synthetic user-journeys from quorum nodes outside platform feed into application telemetry.
@@ -243,12 +243,12 @@ The process is actively managed in accordance with agreed processes and has trac
 - Just in Time access for VMs has been implemented and tooling is used to configure and control VMs.
 - VMs are treated as ephemeral resources and frequently re-deployed from a known-good state via Infrastructure as Code rather than upgraded, patched etc.
 - Auto-remediation of security vulnerabilities is in place.
-- Ephemeral environments are a core part of the strategy. The organization can spawn as many environments as required (VM, PaaS or container) based on a Continuous Deployment pipeline; these have basic automated release tests with staff doing final QA and UAT activities
+- Ephemeral environments are a core part of the strategy. The organization can spawn as many environments as required (VM, PaaS or container) based on a Continuous Deployment pipeline; these have basic automated release tests with staff doing final QA and UAT activities.
 
 #### 400 Storage
 
 - Content storage is fully managed. Legacy content has been largely eliminated and tools, policies and processes are effective at preventing or remediating duplicate, superfluous and superseded content. Content labelling, retention and sensitivity scanning occurs across most content. Access control is effective; updates and changes, especially related to personnel role changes, are timely.
-- The content strategy anticipates future needs, analyzing future needs, actively anticipating governance and compliance obligations and technology capabilities; horizon scanning, and scenario modelling are used to anticipate possible future needs and impacts
+- The content strategy anticipates future needs, analyzing future needs, actively anticipating governance and compliance obligations and technology capabilities; horizon scanning, and scenario modelling are used to anticipate possible future needs and impacts.
 - Disaster recovery, business continuity and content protection are planned, implemented, tested, and enhanced as a continuous cycle.
 
 #### 400 Governance, Risk, Compliance and Security
@@ -256,7 +256,7 @@ The process is actively managed in accordance with agreed processes and has trac
 - Role Based Access Control is well implemented, with custom roles and sitting alongside a 'least-privilege' approach using tools such as APIM to automatically audit and enforce any admin elevations required.
 - Conditional access is fully adopted. A 'break-glass' access process is in place for extreme situations, to allow access to senior executives and key staff as a fall back.
 - A dedicated security team ensures policies and processes are automated and regularly enforced across the organization. Tools are in place for security information and event management (SIEM).
-- Zero-trust architecture exists between elements of applications and internal users through access control and centralized firewalls
+- Zero-trust architecture exists between elements of applications and internal users through access control and centralized firewalls.
 - The Internet perimeter is secured and tightly controlled; it extends to selected 3rd parties over private interconnects or the Internet.
 
 #### 400 Impacts
@@ -273,7 +273,7 @@ Security is a priority and regular testing leads to proactive tasks to ensure th
 
 ### Level 500 - Optimizing
 
-Management of the process includes deliberate and systematic process improvement/optimization. There is focus is on continually improving process performance through both incremental and innovative technological changes/improvements. Management of the processes are concerned with addressing statistical common causes of process variation and changing the process to improve process performance, using techniques such as Statistical Process Control (SPC). Level 500 is likely to include automation, reduction in human input and associated variability, strong governance and compliance interventions as well as optimization for user interactions and productivity._
+Management of the process includes deliberate and systematic process improvement/optimization. There is focus is on continually improving process performance through both incremental and innovative technological changes/improvements. Management of the processes are concerned with addressing statistical common causes of process variation and changing the process to improve process performance, using techniques such as Statistical Process Control (SPC). Level 500 is likely to include automation, reduction in human input and associated variability, strong governance and compliance interventions as well as optimization for user interactions and productivity.
 
 [**Optimizing level**](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro#level-500---optimizing-efficient) characteristics include:
 
@@ -291,31 +291,31 @@ Management of the process includes deliberate and systematic process improvement
 #### 500 Technology
 
 - Hardware/software is inventoried, managed, and all versions are the latest "accepted" version.
-- Network design and management is defined, documented, and managed
+- Network design and management is defined, documented, and managed.
 - VMs are treated as ephemeral resources and frequently re-deployed from a known-good state via Infrastructure as Code rather than upgraded, patched etc.
 - Auto-remediation of security vulnerabilities is in place.
-- Ephemeral environments are a core part of the strategy. The organization can spawn as many environments as required (VM, PaaS or container) based on a Continuous Deployment pipeline; these have basic automated release tests with staff doing final QA and UAT activities
-- Applications are architected in a truly decoupled, microservice fashion and make extensive use of retries and caching layers to work around transient failures without impacting service
-- Changes are small, incremental, and simple to rollback
+- Ephemeral environments are a core part of the strategy. The organization can spawn as many environments as required (VM, PaaS or container) based on a Continuous Deployment pipeline; these have basic automated release tests with staff doing final QA and UAT activities.
+- Applications are architected in a truly decoupled, microservice fashion and make extensive use of retries and caching layers to work around transient failures without impacting service.
+- Changes are small, incremental, and simple to rollback.
 
 #### 500 Storage
 
-- Storage is defined and strategic. Processes and policies manage what is stored where and minimized for maximum ROI
-- Storage is treated cross functionally as an enterprise level shared resource
-- Storage management effort is minimized and instead data is governed and managed by SRE and DevOps with an enterprise MDM strategy and available API libraries
+- Storage is defined and strategic. Processes and policies manage what is stored where and minimized for maximum ROI.
+- Storage is treated cross functionally as an enterprise level shared resource.
+- Storage management effort is minimized and instead data is governed and managed by SRE and DevOps with an enterprise MDM strategy and available API libraries.
 
 #### 500 Governance, Risk, Compliance and Security
 
 - Formalized list of requirements, including security requirements, operating constraints and an SLA/OLA expressed as code (Policy as Code) and an advanced control compliance framework where evidence of meeting requirements is automatically evidenced by deployment pipelines or programmatic checking and auditing of configurations. This is reviewed and audited continually via an automated process with the results published, for example to a compliance dashboard.
-- All access is managed via PIM with MFA via peer-approvals for privilege escalation
-- Dedicated DevOps/SRE roles supporting multiple, diverse and complex applications following a global-scale DevSecOps practice overseen by CIO, CTO, CISO and IT risk management roles; servicing multiple customers (internal or external)
-- Infrastructure is viewed exactly the same as application code and managed through source control and Infrastructure as Code principles exclusively
-- Absolutely no manual changes allowed, all driven through infrastructure as code
-- Guard-rails block all non-best practice configurations
-- End-end deployment from development to production automated, with prescheduled automated test-cases for everything
-- A/B (blue/green) releases for new features
+- All access is managed via PIM with MFA via peer-approvals for privilege escalation.
+- Dedicated DevOps/SRE roles supporting multiple, diverse and complex applications following a global-scale DevSecOps practice overseen by CIO, CTO, CISO and IT risk management roles; servicing multiple customers (internal or external).
+- Infrastructure is viewed exactly the same as application code and managed through source control and Infrastructure as Code principles exclusively.
+- Absolutely no manual changes allowed, all driven through infrastructure as code.
+- Guard-rails block all non-best practice configurations.
+- End-end deployment from development to production automated, with prescheduled automated test-cases for everything.
+- A/B (blue/green) releases for new features.
 - Automated failover or expansion of service instances between Azure regions to route around failures, redeploying or scaling-out application instances where required in regions that see a significant uptick in traffic.
-- True Zero-trust architecture between elements of applications and internal users through access control and de-centralized firewalls - identity really is the security perimeter and possibly spans multiple hyperscale cloud providers over the Internet
+- True Zero-trust architecture between elements of applications and internal users through access control and de-centralized firewalls - identity really is the security perimeter and possibly spans multiple hyperscale cloud providers over the Internet.
 
 #### 500 Impacts
 
@@ -401,7 +401,7 @@ Security is well documented and understood and risk is easily identified and man
 
 **Principal authors**:
 
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 
 - [Sharon Weaver](https://www.linkedin.com/in/sharonweaver/)
 
