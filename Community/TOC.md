@@ -29,8 +29,7 @@
 ### [Governance, Risk, and Compliance Competency](microsoft365-maturity-model--governance-and-compliance.md)
 ### [How to run a Maturity Model for Microsoft 365 workshop](microsoft365-maturity-model--run-workshop.md)
 ### [Management of Content Competency](microsoft365-maturity-model--management-of-content.md)
-### Infrastructure
-#### [Infrastructure Competency](microsoft365-maturity-model--infrastructure.md)
+### [Infrastructure Competency](microsoft365-maturity-model--infrastructure.md)
 ### People and Communities
 #### [People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
 #### [Elevating People and Communities](microsoft-maturity-model-how-to-people-communities.md)
