@@ -3,7 +3,7 @@
 title: Maturity Model for Microsoft 365 – Infrastructure Competency
 
 ms.date: 11/11/2022
-author: Simon Hudson
+author: SimonJHudson
 ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
@@ -39,7 +39,7 @@ Desktop devices are not covered by this competency, though it should be remember
 
 ## Evolution of this competency
 
-See the [Maturity Model for Microsoft 365 - Introduction](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro) for definitions of the Maturity Model levels.
+See the [Maturity Model for Microsoft 365 - Introduction](/microsoft-365/community/microsoft365-maturity-model--intro) for definitions of the Maturity Model levels.
 
 ### Level 100 - Initial
 
@@ -47,7 +47,7 @@ Organizations at this level are usually at the very beginning of their journey i
 
 There may continue to be servers under staff desks, portable hard drives in drawers and a file server for organizational files.
 
-[**Initial level**](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro#level-100---initial) characteristics include:
+[**Initial level**](/microsoft-365/community/microsoft365-maturity-model--intro#level-100---initial) characteristics include:
 
 #### 100 Process
 
@@ -109,7 +109,7 @@ There are also likely security vulnerabilities as authentication and authorizati
 
 Processes are documented or widely understood to enable (but not enforce) the preferred ways of doing them. Some processes are repeatable, possibly with consistent results. Process discipline is unlikely to be rigorous, but where it exists, it may help to ensure that existing processes are maintained during times of stress.
 
-[**Repeatable level**](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro#level-200---repeatable) characteristics include:
+[**Repeatable level**](/microsoft-365/community/microsoft365-maturity-model--intro#level-200---repeatable) characteristics include:
 
 #### 200 Process
 
@@ -170,7 +170,7 @@ Security becomes more of a concern as user adoption grows, custom features and f
 
 The process is well defined and agreed as a standard business process. There are sets of defined and documented standard processes established, signed off and subject to some degree of improvement over time. These standard processes are in place. The processes may not have been systematically or repeatedly used to the extent needed for their users to become fully competent or for the process to be validated in a range of situations. This could be considered a developmental stage - with use in a wider range of conditions and user competence development the process can develop to the next level of maturity.
 
-[**Defined level**](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro#level-300---defined) characteristics include:
+[**Defined level**](/microsoft-365/community/microsoft365-maturity-model--intro#level-300---defined) characteristics include:
 
 #### 300 Process
 
@@ -224,7 +224,7 @@ Security is a priority and regular testing leads to proactive tasks to ensure th
 
 The process is actively managed in accordance with agreed processes and has tracked metrics. Effective achievement of the process objectives can be evidenced (using metrics) across a range of operational conditions. The suitability of the process in multiple environments and scenarios has been tested and the process refined and adapted with corresponding updates to documentation, policy, and training. Process users have experienced the process in multiple and varied conditions and are able to demonstrate competence. Adapting to new projects or scenarios can occur without unexpected, measurable losses of quality. Process Capability is established from this level.
 
-[**Managed level**](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro#level-400---managed-capable) characteristics include:
+[**Managed level**](/microsoft-365/community/microsoft365-maturity-model--intro#level-400---managed-capable) characteristics include:
 
 #### 400 Process
 
@@ -275,7 +275,7 @@ Security is a priority and regular testing leads to proactive tasks to ensure th
 
 Management of the process includes deliberate and systematic process improvement/optimization. There is focus is on continually improving process performance through both incremental and innovative technological changes/improvements. Management of the processes are concerned with addressing statistical common causes of process variation and changing the process to improve process performance, using techniques such as Statistical Process Control (SPC). Level 500 is likely to include automation, reduction in human input and associated variability, strong governance and compliance interventions as well as optimization for user interactions and productivity.
 
-[**Optimizing level**](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro#level-500---optimizing-efficient) characteristics include:
+[**Optimizing level**](/microsoft-365/community/microsoft365-maturity-model--intro#level-500---optimizing-efficient) characteristics include:
 
 #### 500 Process
 
@@ -389,13 +389,13 @@ Security is well documented and understood and risk is easily identified and man
 
 ## Resources
 
-[Maturity Model for Microsoft 365 - Introduction](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
+[Maturity Model for Microsoft 365 - Introduction](/microsoft-365/community/microsoft365-maturity-model--intro)
 
-[Infrastructure and development security best practices](https://learn.microsoft.com/azure/cloud-adoption-framework/secure/security-best-practices-introduction)
+[Infrastructure and development security best practices](/azure/cloud-adoption-framework/secure/security-best-practices-introduction)
 
-[Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/overview)
+[Microsoft Cloud Adoption Framework for Azure](/azure/cloud-adoption-framework/overview)
 
-[Microsoft cloud security benchmark](https://learn.microsoft.com/security/benchmark/azure/introduction)
+[Microsoft cloud security benchmark](/security/benchmark/azure/introduction)
 
 ---
 
