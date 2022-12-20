@@ -16,34 +16,35 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-One of the most exciting [announcements](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-microsoft-ignite-2021/ba-p/2118226) from **Ignite 2021** was that of **Shared Channels (Microsoft Teams Connect)** which seemingly promised to finally resolve the considerable friction involved with cross-tenant collaboration (collaborating with other organizations using Microsoft365). The idea of Shared Channels was simple, yet powerful. Instead of moving between Tenants to access information, allow for that same information to be available within your home tenant! Now that we�ve been able to see it in action in the Public Preview, what do we think? Has it realized the hype from last year?
+One of the most exciting [announcements](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-microsoft-ignite-2021/ba-p/2118226) from **Ignite 2021** was that of **Shared Channels (Microsoft Teams Connect)** which seemingly promised to finally resolve the considerable friction involved with cross-tenant collaboration (collaborating with other organizations using Microsoft365). The idea of Shared Channels was simple, yet powerful. Instead of moving between Tenants to access information, allow for that same information to be available within your home tenant! Now that we've been able to see it in action in the Public Preview, what do we think? Has it realized the hype from last year?
 
 ## What Are Shared Channels
 
-At its simplest, a Shared Channel is essentially a �collaboration space� that can be re-used in multiple places. Because it is reused, it implies that it can be accessed by different users than those who are in the Team. Only members of the Shared Channel can access it. 
+At its simplest, a Shared Channel is essentially a 'collaboration space' that can be re-used in multiple places. Because it is reused, it implies that it can be accessed by different users than those who are in the Team. Only members of the Shared Channel can access it.
 
 There are a few ways these channels can be re-used:
-1. **Reused in multiple Teams across tenants** ([see this article for details]((https://learn.microsoft.com/en-us/microsoft-365/community/using-shared-channels-for-external-collaboration))) so that users from multiple organizations can work together in the same �space� without needing to switch tenants.
+
+1. **Reused in multiple Teams across tenants** ([see this article for details](using-shared-channels-for-external-collaboration.md)) so that users from multiple organizations can work together in the same 'space' without needing to switch tenants.
 2. **Reused in multiple Teams in the same tenant** (this article) so that users from multiple Teams can work together in the same space without needing access to the same Teams
 
 ## Shared Channel Limitations
 
 While Shared Channels offer most of the same functionalities available within other channels, there are a few features that are not supported, including:
 
-- Only Azure AD work or school accounts are supported for external participants. **Guests cannot be added to Shared Channels (see [here](https://support.microsoft.com/en-us/office/guests-and-shared-channels-in-teams-612de4ce-e7a3-4579-b086-bb8ff9f2d11e)).**
+- Only Azure AD work or school accounts are supported for external participants. **Guests cannot be added to Shared Channels (see [Guests and shared channels in Teams](https://support.microsoft.com/office/guests-and-shared-channels-in-teams-612de4ce-e7a3-4579-b086-bb8ff9f2d11e)).**
 - Shared channels support tabs except for Stream, Planner, and Forms.
 - LOB apps, bots, connectors, and message extensions are not supported.
-- When you create a team from an existing team, any shared channels in the existing team won�t be copied over.
+- When you create a team from an existing team, any shared channels in the existing team won't be copied over.
 - You cannot remove a shared channel from the parent team within which it was first created
 - Notifications from shared channels are not included in missed activity emails.
 - No Loop Components
 - Not supported in Class Teams
 
-For more details see [here](https://learn.microsoft.com/en-us/microsoftteams/shared-channels).
+For more details see [here](/microsoftteams/shared-channels).
 
 ## Potential Benefits for Internal Collaboration
 
-Interestingly, while it was not the focus of early demos and previews from Microsoft, there is one very interesting use case for Shared Channels that does not require the need for external security decisions. In fact, it doesn�t even relate to collaboration with external organizations. Though counter-intuitive to its original premise, there is a very real use case for Shared Channels within an organization to strealine knowledge management and sharing! Rather than needing to create such spaces as separate �communities�, traditionally entire Teams, we can now create these as re-usable channels and add them wherever we need � a much more flexible and modular approach.
+Interestingly, while it was not the focus of early demos and previews from Microsoft, there is one very interesting use case for Shared Channels that does not require the need for external security decisions. In fact, it doesn't even relate to collaboration with external organizations. Though counter-intuitive to its original premise, there is a very real use case for Shared Channels within an organization to streamline knowledge management and sharing! Rather than needing to create such spaces as separate 'communities', traditionally entire Teams, we can now create these as re-usable channels and add them wherever we need - a much more flexible and modular approach.
 
 It is important to note that some organizations are already using Yammer for some of these use cases, and we do not intend to imply this is a bad approach. Yammer has fantastic community-based functionality with its great Q+A features and much more. That being said, for organizations not ready or willing to introduce another tool into the mix, there is now an option available within Teams that can simplify information management, and streamline communication without adding considerable new layers of complexity.
 
@@ -54,7 +55,7 @@ It is important to note that some organizations are already using Yammer for som
 - Fewer Teams that must be made Public, or that require inviting huge swaths of the organization as users
 - Single Source of Truth
 - Better retention of knowledge and simpler knowledge management
-- Better visibility and �findability� of important information
+- Better visibility and 'findability' of important information
 
 ## Potential Challenges
 

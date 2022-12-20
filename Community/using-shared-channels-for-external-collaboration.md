@@ -33,21 +33,21 @@ While Shared Channels offer most of the same functionalities available within ot
 
 - Only Azure AD work or school accounts are supported for external participants. **Guests cannot be added to Shared Channels (see [here](https://support.microsoft.com/office/guests-and-shared-channels-in-teams-612de4ce-e7a3-4579-b086-bb8ff9f2d11e)).**
 - Shared channels support tabs except for Stream, Planner, and Forms.
-- LOB apps, bots, connectors, and message extensions are not supported.
+- Line of business (LOB) apps, bots, connectors, and message extensions are not supported.
 - You cannot remove a shared channel from the parent team within which it was first created
 - When you create a team from an existing team, any shared channels in the existing team won't be copied over.
 - Notifications from shared channels are not included in missed activity emails.
 - No Loop Components
 - Not supported in Class Teams
 
-For more details see [here](/microsoftteams/shared-channels).
+For more details see [Shared channels in Microsoft Teams](/microsoftteams/shared-channels).
 
 ## Potential Benefits for External Collaboration
 
 Shared Channels promised to resolve a list of common challenges with effective collaboration between organizations, including:
 
 - **No more painful tenant switching**: By seeing cross-tenant channels as Shared Channels within our own environment, the lines between organizations become blurred and work can take place unhindered
-- **Avoid over-sharing information**: By allowing for privacy of content at the channel-level, we avoid the risk of users seeing content elsewhere within the Team and Microsoft365 Group.
+- **Avoid over-sharing information**: By allowing for privacy of content at the channel level, we avoid the risk of users seeing content elsewhere within the Team and Microsoft365 Group.
 - **Reduce Team proliferation**: Instead of creating a long list of barebones and shallow Teams, merely to support a sharing across organizations, we can now facilitate fewer but 'architecturally deeper' Teams
 - **Improve visibility of information and reduce duplication of content**: By allowing for centralized channels, we can reduce and eliminate channels created for the same purposes but spread across multiple teams, and reduce them with a single source of truth which also simplifies the management and monitoring of information within the channel
 
