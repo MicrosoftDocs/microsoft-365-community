@@ -79,8 +79,8 @@ To monitor an ongoing Access Review, the Access Review can be opened, and indivi
 
 ## Resources
 
-- [What are access reviews | Microsoft Learn](https://learn.microsoft.com/azure/active-directory/governance/access-reviews-overview)
-- [MAU billing model for Azure AD External Identities | Microsoft Learn](https://learn.microsoft.com/azure/active-directory/external-identities/external-identities-pricing).
+- [What are access reviews | Microsoft Learn](/azure/active-directory/governance/access-reviews-overview)
+- [MAU billing model for Azure AD External Identities | Microsoft Learn](/azure/active-directory/external-identities/external-identities-pricing).
 
 ---
 
