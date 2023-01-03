@@ -58,6 +58,9 @@ landingContent:
             url:  known-folder-move-benefits-for-enduser.md
           - text: Why Microsoft 365 adoption projects fail
             url: why-m365-adoption-projects-fail.md
+          - text: Microsoft Teams Naming Best Practices
+            url: microsoft-teams-naming-importance.md
+
   # Card (optional)
   - title: Maturity Model for Microsoft 365
     linkLists:
@@ -111,6 +114,8 @@ landingContent:
             url: document-sets-are-magic.md
           - text: Taking Advantage of the Content Type Inheritance Model in SharePoint
             url: taking-advantage-content-type-inheritance-sharepoint.md
+          - text: List Formatting 101
+            url: list-formatting-101.md
 
   # Card (optional)
   - title: Effective Communication
@@ -149,7 +154,9 @@ landingContent:
             url: should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md
           - text: Defining a Power Platform Environment Strategy
             url: defining-a-power-platform-environment-strategy.md
-            
+          - text: What Task Management Tool is Right For Me
+            url: which-task-management-option.md
+
   # Card (optional)
   - title: Useful Scenarios
     linkLists:
@@ -169,6 +176,11 @@ landingContent:
             url: how-can-i-use-learning-pathways-in-my-organization.md
           - text: Advanced Highlighted Content Web Part
             url: highlighted-content-web-part.md
+          - text: Using Shared Channels for External Collaboration
+            url: using-shared-channels-for-external-collaboration.md
+          - text: Using Shared Channels for Internal Collaboration
+            url: using-shared-channels-for-internal-collaboration.md
+
 
   # Card (optional)
   - title: Automation
