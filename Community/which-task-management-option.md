@@ -18,7 +18,7 @@ ms.collection: M365Community
 
 There are a crazy number of ways to manage tasks in Microsoft 365, some of which overlap, while others don’t. Where are all the places we can create tasks?
 
-![Tasks1](media\task-management-options\tasks1.png)
+![Tasks1](media/task-management-options/Tasks1.png)
 
 **Why are there So many options?**
 
@@ -28,7 +28,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Microsoft Planner
 
-![Tasks2](media\task-management-options\tasks2.png)
+![Tasks2](media/task-management-options/Tasks2.png)
 
 ### Pros
 
@@ -52,7 +52,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Microsoft Lists
 
-![Tasks3](media\task-management-options\tasks3.png)
+![Tasks3](media/task-management-options/Tasks3.png)
 
 ### Pros
 
@@ -74,7 +74,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Microsoft To Do
 
-![Tasks4](media\task-management-options\tasks4.png)
+![Tasks4](media/task-management-options/Tasks4.png)
 
 ### Pros
 
@@ -95,7 +95,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Tasks by Planner and To Do (Teams App)
 
-![Tasks5](media\task-management-options\tasks5.png)
+![Tasks5](media/task-management-options/Tasks5.png)
 
 ### Pros
 
@@ -117,7 +117,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Microsoft Loop
 
-![Tasks6](media\task-management-options\tasks6.png)
+![Tasks6](media/task-management-options/Tasks6.png)
 
 ### Pros
 
@@ -135,7 +135,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Microsoft Outlook
 
-![Tasks7](media\task-management-options\tasks7.png)
+![Tasks7](media/task-management-options/Tasks7.png)
 
 ### Pros
 
@@ -156,7 +156,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## OneNote
 
-![Tasks8](media\task-management-options\tasks8.png)
+![Tasks8](media/task-management-options/Tasks8.png)
 
 ### Notes
 
@@ -167,7 +167,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Office (Web) Comments
 
-![Tasks9](media\task-management-options\tasks9.png)
+![Tasks9](media/task-management-options/Tasks9.png)
 
 ### Notes
 
@@ -177,7 +177,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Azure Dev Ops (ADO)
 
-![Tasks10](media\task-management-options\tasks10.png)
+![Tasks10](media/task-management-options/tasks10.png)
 
 ### Notes
 
@@ -189,7 +189,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Microsoft Project
 
-![Tasks11](media\task-management-options\tasks11.png)
+![Tasks11](media/task-management-options/Tasks11.png)
 
 ### Notes
 
@@ -201,7 +201,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Dynamics365 Project Operations
 
-![Tasks12](media\task-management-options\tasks12.png)
+![Tasks12](media/task-management-options/Tasks12.png)
 
 ### Notes
 
@@ -211,7 +211,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Viva Goals
 
-![Tasks13](media\task-management-options\tasks13.png)
+![Tasks13](media/task-management-options/Tasks13.png)
 
 ### Notes
 
@@ -221,7 +221,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 For the time being, it is best to select an option that easily integrates (and communicates) easily with other M365 solutions. However, every organization will need to handle tasks differently, based on their needs. The diagram below can be helpful in determining what task management solution to roll out at the personal level, but selecting a solution for enterprise project management or development projects will quite likely need to look beyond the confines of the defined safe space (i.e., the Task Hub).
 
-![Tasks14](media\task-management-options\tasks14.png)
+![Tasks14](media/task-management-options/Tasks14.png)
 
 
 ---
