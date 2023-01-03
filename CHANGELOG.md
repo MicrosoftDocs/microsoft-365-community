@@ -6,12 +6,34 @@
 
 Note: Changelog started in January, 2021
 
+## January, 2023
+
+### New Articles - January, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - January, 2023
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - January, 2023
+
+-
+
 ## December, 2022
 
 ### New Articles - December, 2022
 
 | Article | Principal Author |
 |---|---|
+| [Using Shared Channels for External Collaboration](./Community/using-shared-channels-for-external-collaboration.md) | [David Francoeur](https://www.linkedin.com/in/dfrancoeur/) |  
+| [Using Shared Channels for Internal Collaboration](./Community/using-shared-channels-for-internal-collaboration.md) | [David Francoeur](https://www.linkedin.com/in/dfrancoeur/) |
+| [Microsoft Teams Naming Best Practices](./Community/microsoft-teams-naming-importance.md) | [David Francoeur](https://www.linkedin.com/in/dfrancoeur/) |
+| [Using Microsoft Identity Governance to Perform Guest Reviews](./Community/performing-guest-reviews.md) | [David Francoeur](https://www.linkedin.com/in/dfrancoeur/) |
+| [List Formatting 101](./Community/list-formatting-101.md) | [David Francoeur](https://www.linkedin.com/in/dfrancoeur/) |
+| [What Task Management Tool is Right For Me](./Community/which-task-management-option.md) | [David Francoeur](https://www.linkedin.com/in/dfrancoeur/) |
 
 ### Updated Articles - December, 2022
 
@@ -20,7 +42,7 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - December, 2022
 
--
+-  [David Francoeur](https://www.linkedin.com/in/dfrancoeur/)
 
 ## November, 2022
 

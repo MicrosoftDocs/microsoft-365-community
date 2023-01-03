@@ -14,6 +14,7 @@
 ### [Content Type Propagation](content-type-propagation.md)
 ### [OneDrive PC Folder Backup Benefits for End Users](known-folder-move-benefits-for-enduser.md)
 ### [Why Microsoft 365 adoption projects fail](why-m365-adoption-projects-fail.md)
+### [Microsoft Teams Naming Best Practices](microsoft-teams-naming-importance.md)
 ## Maturity Model for Microsoft 365
 ### [Overview](index_mm4m365.yml)
 #### [Introduction](microsoft365-maturity-model--intro.md)
@@ -59,6 +60,7 @@
 ### [How Do Site Columns Become Managed Properties - Thus Available for Search?](how-do-site-columns-become-managed-properties-thus-available-for-search.md)
 ### [Document Sets for Fast Legacy Process Automation](document-sets-are-magic.md)
 ### [Taking Advantage of the Content Type Inheritance Model in SharePoint](taking-advantage-content-type-inheritance-sharepoint.md)
+### [List Formatting 101](list-formatting-101.md)
 ## Effective Communication
 ### [The Principles of Communication](principles-of-communication.md)
 ### [The Principles of Search](principles-of-search.md)
@@ -75,6 +77,7 @@
 ### [Should I store my files in Microsoft Teams or in SharePoint?](should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md)
 ### [Defining a Power Platform Environment Strategy](defining-a-power-platform-environment-strategy.md)
 ### [Power Automate vs Logic Apps](power-automate-vs-logic-apps.md)
+### [What Task Management Tool is Right For Me](which-task-management-option.md)
 ### Making Good Technology Decisions
 #### [Making Good Technology Decisions: Establishing Decision Criteria](making-good-technology-decisions--establishing-decision-criteria.md)
 #### [Making Good Technology Decisions: Data Storage](making-good-technology-decisions--data-storage.md)
@@ -87,6 +90,8 @@
 ### [Power Automate - Send SharePoint files as attachments](power-automate-send-sharepoint-files-as-attachments.md)
 ### [How can I use Learning Pathways in my organization?](how-can-i-use-learning-pathways-in-my-organization.md)
 ### [Advanced Highlighted Content Web Part](highlighted-content-web-part.md)
+### [Using Shared Channels for External Collaboration](using-shared-channels-for-external-collaboration.md)
+### [Using Shared Channels for Internal Collaboration](using-shared-channels-for-internal-collaboration.md)
 ## Automation
 ### [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
 ### [Should everyone create Teams? A Low Code Provisioning solution](should-everyone-create-teams.md)
@@ -96,6 +101,7 @@
 ### [Managing External Guests in SharePoint vs Teams](managing-external-guest-in-SharePoint-vs-Teams.md)
 ### [Teams Shared Channels for Admins](teams-shared-channel-for-admins.md)
 ### [The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1](power-platform-DLP-policies-you-should-be-considering-on-Day-1.md)
+### [Using Microsoft Identity Governance to Perform Guest Reviews](performing-guest-reviews.md)
 ## In Preview
 ### [Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces](yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces.md)
 ## References
