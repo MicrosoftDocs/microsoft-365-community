@@ -43,28 +43,31 @@ Not only does this problem occur in Microsoft Teams, but the same name used when
 
 Adding consistent prefixes to the beginning of Microsoft Teams team names can be a useful way to add organization, structure, and consistency to your Teams. In western cultures, our eyes have a tendency to scan left to right reading the first 11 characters so a prefix can be valuable as it creates a column of essential information down the left-hand side of the Teams experience.
 
-**Recommendations**
+#### Recommendations - Prefixes
+
 - Prefixes can be useful but do not make these overly long as they can lead to the Team name being cut off. Generally, limit yourself to acronyms or prefixes no longer than 12 characters.
 - While emojis can be tempting to utilize, keep in mind that these can cause issues for search and are not supported in all the areas where a Team’s name gets applied.
 
-![Teams Prefixes](media/microsoft-teams-naming-importance/Prefixes.png)
+![Teams Prefixes showing emojis](media/microsoft-teams-naming-importance/Prefixes.png)
 
 ### Spaces
 
 Spaces are proven to make names more scannable while improving overall readability for end users, which further aids with finding the right name in Microsoft Teams. They should, however, also be used with some thought, especially when considering prefixes and suffixes you may choose to implement.
 
-**Recommendations**
+#### Recommendations - Spaces
+
 - When using prefixes or suffixes, we are now combining different “components” into the name, and it is typically helpful to aid users in differentiating the delineation between these segments. One way to do this is to keep spaces within a Team’s Workspace name but use another delimiter (such as a dash or underscore) for the prefix or suffix. This allows the brain to quickly assess the Team’s category from the Team’s name.
 
-![Teams Prefixes](media/microsoft-teams-naming-importance/nameBreakdown.png)
+![Teams Prefixes with segments and spaces](media/microsoft-teams-naming-importance/nameBreakdown.png)
 
 ### Length
 
-An understandable response to remedying a Teams’ findability is to add more detail to the Team name, ultimately adding more length to each name – but this can lead to other problems. Microsoft Teams only allows a certain team name length before it becomes truncated (trimmed). The length available depends on the case of the characters and therefore the maximum length falls within a range of **between 30 and 36 characters**.
+An understandable response to remedying a Teams' findability is to add more detail to the Team name, ultimately adding more length to each name – but this can lead to other problems. Microsoft Teams only allows a certain team name length before it becomes truncated (trimmed). The length available depends on the case of the characters and therefore the maximum length falls within a range of **between 30 and 36 characters**.
 
 ![Too Many Prefixes](media/microsoft-teams-naming-importance/toomanyprefixes.png)
 
-**Recommendations**
+#### Recommendations - Length
+
 - Keep your team names to 30 characters or less as a rule to ensure they are fully visible
 
 ### The Result

@@ -18,9 +18,9 @@ ms.collection: M365Community
 
 There are a crazy number of ways to manage tasks in Microsoft 365, some of which overlap, while others don’t. Where are all the places we can create tasks?
 
-![Tasks1](media/task-management-options/Tasks1.png)
+![Task-oriented apps](media/task-management-options/Tasks1.png)
 
-**Why are there So many options?**
+## Why are there so many options?
 
 Microsoft has offered a variety of tools to address different use cases for task management, from personal to enterprise. They have also created a number of overlapping user experiences without providing clarity around which tools communicate with one another, and which do not. This creates a huge amount of confusion for end users, in knowing what tool to use when and finding a way to see a holistic view of all their tasks.
 
@@ -28,9 +28,9 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Microsoft Planner
 
-![Tasks2](media/task-management-options/Tasks2.png)
+![Microsoft Planner](media/task-management-options/Tasks2.png)
 
-### Pros
+### Pros - Planner
 
 - The Kanban “task board” is a tried and tested approach that many recognize and Planner has implemented it well
 - Planner Tasks integrate well with our views in To Do, Teams, and Outlook
@@ -42,7 +42,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 - Respects underlying group membership
 - Support for checklist within a task
 
-### Cons
+### Cons - Planner
 
 - Has seen some minor updates but nothing significant in quite some time
 - No consolidation across planner plans
@@ -52,9 +52,9 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Microsoft Lists
 
-![Tasks3](media/task-management-options/Tasks3.png)
+![Microsoft Lists]](media/task-management-options/Tasks3.png)
 
-### Pros
+### Pros - Lists
 
 - Can be customized with endless additional metadata that your task list may require, and it is extremely flexible in terms of layout
 - The Kanban “task board” is a tried and tested approach that many recognize
@@ -67,16 +67,16 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 - Ability to centralize tasks across lists with minor customization (using things like Modern PnP Search web part or Highlighted Content web part)
 - Ability to create automation of tasks through Power Automate
 
-### Cons
+### Cons - Lists
 
 - **No built-in integration with other applications (e.g., Planner) therefore the assignment of tasks can easily get lost and end users have no way to see a holistic view of all their tasks across individual Lists (without additional configuration)**
 - Sub-tasks are not built-in and could be challenging to implement
 
 ## Microsoft To Do
 
-![Tasks4](media/task-management-options/Tasks4.png)
+![Microsoft ToDo](media/task-management-options/Tasks4.png)
 
-### Pros
+### Pros - To Do
 
 - Provides a consolidated view of Personal Tasks from To Do and Outlook, as well as Team Tasks from Planner Plans
 - Allows for the creation of Shared Task Lists outside Planner Plans
@@ -85,7 +85,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 - Built-in notifications
 - Tasks can be moved to other lists
 
-### Cons
+### Cons - To Do
 
 - The app’s benefits skew towards Personal Tasks rather than Planner Plans 
 - Little to no extensibility or customization beyond out of the box configuration
@@ -95,9 +95,9 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Tasks by Planner and To Do (Teams App)
 
-![Tasks5](media/task-management-options/Tasks5.png)
+![Tasks by Planner and To Do (Teams App)](media/task-management-options/Tasks5.png)
 
-### Pros
+### Pros - Tasks by Planner and To Do (Teams App)
 
 - Provides a consolidated view of Personal Tasks from To Do and Outlook, as well as Team Tasks from Planner Plans 
 - Allows for the creation of Shared Task Lists and Planner Plans within existing Channels
@@ -107,7 +107,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 - Support for creating new tasks, and reorganizing Planner Plans just like within Planner
 - Notifications in Teams are useful
 
-### Cons
+### Cons - Tasks by Planner and To Do (Teams App)
 
 - The user interface can be very overwhelming and the app’s benefits skew towards Planner Plans rather than Personal Tasks
 - The experience to view personal tasks is not as strong as To Do
@@ -117,15 +117,15 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Microsoft Loop
 
-![Tasks6](media/task-management-options/Tasks6.png)
+![Microsoft Loop](media/task-management-options/Tasks6.png)
 
-### Pros
+### Pros - Microsoft Loop
 
 - Quick and easy to get started which can be useful live in a meeting or in a Chat with Self
 - Support for assignment and @mentions
 - Tasks can be assigned to multiple people
 
-### Cons
+### Cons - Microsoft Loop
 
 - **No built-in integration with other applications (e.g., Planner) therefore the assignment of tasks can easily get lost and end users have no way to see a holistic view of all their tasks across individual Lists.**
 - Cannot be used in Teams, only group chats and meetings
@@ -135,9 +135,9 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Microsoft Outlook
 
-![Tasks7](media/task-management-options/Tasks7.png)
+![Microsoft Outlook](media/task-management-options/Tasks7.png)
 
-### Pros
+### Pros - Microsoft Outlook
 
 - If you like the web’s To Do interface, it’s another place to access it
 - Allows for the creation of Shared Task Lists outside Planner Plans
@@ -147,7 +147,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 - Tasks can be moved to other lists (folders)
 - Built-in notifications
 
-### Cons
+### Cons - Microsoft Outlook
 
 - Seems redundant now even though the underlying tasks have not really evolved
 - Odd old user interface (classic tasks) still available in desktop client
@@ -156,9 +156,9 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## OneNote
 
-![Tasks8](media/task-management-options/Tasks8.png)
+![OneNote](media/task-management-options/Tasks8.png)
 
-### Notes
+### Notes - OneNote
 
 - Can be used to assign tasks to yourself or others using the classic task interface
 - Tasks show up in Outlook and To Do
@@ -167,9 +167,9 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Office (Web) Comments
 
-![Tasks9](media/task-management-options/Tasks9.png)
+![ffice (Web) Comments](media/task-management-options/Tasks9.png)
 
-### Notes
+### Notes - Office (Web) Comments
 
 - Users can use the commenting feature within to now add “Tasks” to users
 - Task does issue an email notification to the assignee
@@ -177,9 +177,9 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Azure Dev Ops (ADO)
 
-![Tasks10](media/task-management-options/tasks10.png)
+![Azure Dev Ops (ADO)](media/task-management-options/tasks10.png)
 
-### Notes
+### Notes - Azure Dev Ops (ADO)
 
 - Geared towards development scenarios (dev and QA)
 - Supports resource management
@@ -189,9 +189,9 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Microsoft Project
 
-![Tasks11](media/task-management-options/Tasks11.png)
+![Microsoft Project](media/task-management-options/Tasks11.png)
 
-### Notes
+### Notes - Microsoft Project
 
 - Intended for more thorough project management including resources, schedule, budgets and timelines
 - Provides a more modern visual experience, including Kanban view
@@ -199,11 +199,11 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 - Integration with other task platforms is not great
 - Requires additional licensing
 
-## Dynamics365 Project Operations
+## Dynamics 365 Project Operations
 
-![Tasks12](media/task-management-options/Tasks12.png)
+![Dynamics 365 Project Operations](media/task-management-options/Tasks12.png)
 
-### Notes
+### Notes - Dynamics365 Project Operations
 
 - Project Online features are embedded into Dynamics 365 Project Operations (D365 Project Service Automation)
 - Expands capabilities pre-project into sales and quotes and post-project into expenses, invoicing and more
@@ -211,18 +211,17 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Viva Goals
 
-![Tasks13](media/task-management-options/Tasks13.png)
+![Viva Goals](media/task-management-options/Tasks13.png)
 
-### Notes
+### Notes - Viva Goals
 
 - Viva Goals will support syncing of tasks from Azure Dev Ops, Project, and Planner to align daily tasks with organizational priorities
 
 ## What Option to Choose
 
-For the time being, it is best to select an option that easily integrates (and communicates) easily with other M365 solutions. However, every organization will need to handle tasks differently, based on their needs. The diagram below can be helpful in determining what task management solution to roll out at the personal level, but selecting a solution for enterprise project management or development projects will quite likely need to look beyond the confines of the defined safe space (i.e., the Task Hub).
+For the time being, it is best to select an option that easily integrates (and communicates) easily with other Microsoft 365 solutions. However, each organization may need to handle tasks differently, based on their needs. The diagram below can be helpful in determining what task management solution to roll out at the personal level, but selecting a solution for enterprise project management or development projects will quite likely need to look beyond the confines of the defined safe space (i.e., the Task Hub).
 
-![Tasks14](media/task-management-options/Tasks14.png)
-
+![Task islands vs. task hubs](media/task-management-options/Tasks14.png)
 
 ---
 
