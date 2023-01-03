@@ -22,13 +22,13 @@ For most organizations using Microsoft 365, guest management is simply not a “
 
 There are a host of reasons justifying the need to review an organization’s guest accounts. Some of these reasons include:
 
-- Guests are easily “forgotten” and retain lingering access to Teams, sites, apps, and content long after they need it. This presents a significant possible security risk, especially as new users join the workspaces and begin to add content to workspaces they assumed were private.
-- We often know little to nothing about guest accounts, meaning it is easy for users to share the wrong content with the wrong person. This again presents a significant possible security risk. 
-- Many organizations do not archive or decommission workspaces that are no longer active. For internal users, this amounts to noise, but for guest users who retain their access, this can have more serious consequences.
+- Guests are easily “forgotten” and retain lingering access to Teams, sites, apps, and content long after they need it. This presents a significant potential security risk, especially as new users join the sites or Teams and begin to add content to sites or Teams they assumed were private.
+- We often know little to nothing about guest accounts, meaning it is easy for users to share the wrong content with the wrong person. This again presents a significant possible security risk.
+- Many organizations do not archive or decommission sites or Teams that are no longer active. For internal users, this amounts to noise, but for guest users who retain their access, this can have more serious consequences.
 - Many guests never even redeem their invitation to collaborate with your tenant, but by virtue of being invited, they exist in your Azure Active Directory and can be selected again as a guest via search.
 - Lack of controls and governance policies at the tenant or Microsoft 365 Group levels may have led guests to be inadvertently granted access to more than the sender realized.
 - In the vast majority of cases, there is a lack of a “reporting structure” for guests, meaning no one within an organization is assigned the role of managing/sponsoring/overseeing a particular guest. This general lack of responsibility and accountability often means disorder.
-- Even once guest policies are put in effect (e.g., Guest Group Setting in PowerShell, or Sensitivity Labels), existing guest users are left behind in these workspaces. 
+- Even once guest policies are put in effect (e.g., Guest Group Setting in PowerShell, or Sensitivity Labels), existing guest users are left behind in these sites or Teams.
 
 ## What is required to set up a guest review process
 
@@ -51,7 +51,7 @@ The features discussed below required Azure Active Directory Premium P2 licenses
 5. Configure the **Review Scope** and if desired, choose whether to include only Inactive Users and specify an inactivity day threshold (e.g., 30 days).  
 ![GuestReviews4](media/performing-guest-reviews/guestreviews4.png)
 
-6. Under the *Reviews* tab, select the way the Reviews shall be carried out. For the purposes of this blog, I will begin a review immediately on all workspaces with Guests, and subsequently, repeat the process on a Quarterly basis. I’ve opted for a multi-stage review (Note: Multi-Stage access reviews are currently in Preview) where my first stage will ask Guests to perform a Self-Review, followed by a second stage performed by Team Owners. I also specify a Fallback Reviewer (Adele Vance) if a Team Owner cannot be found. 
+6. Under the *Reviews* tab, select the way the Reviews shall be carried out. For the purposes of this blog, I will begin a review immediately on all sites or Teams with Guests, and subsequently, repeat the process on a Quarterly basis. I’ve opted for a multi-stage review (Note: Multi-Stage access reviews are currently in Preview) where my first stage will ask Guests to perform a Self-Review, followed by a second stage performed by Team Owners. I also specify a Fallback Reviewer (Adele Vance) if a Team Owner cannot be found. 
 ![GuestReviews5](media/performing-guest-reviews/guestreviews5.png)
 
 7. At the bottom of the tab, select the scenarios that can progress from Stage 1 to Stage 2. In my case any guest that has decided during the self-review that their access can be removed need not continue to the second stage – only guests who believe they still need access or did not provide an authoritative answer should proceed to the second stage. 
