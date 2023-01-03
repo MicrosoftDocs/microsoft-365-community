@@ -48,7 +48,7 @@ Adding consistent prefixes to the beginning of Microsoft Teams team names can be
 - Prefixes can be useful but do not make these overly long as they can lead to the Team name being cut off. Generally, limit yourself to acronyms or prefixes no longer than 12 characters.
 - While emojis can be tempting to utilize, keep in mind that these can cause issues for search and are not supported in all the areas where a Team’s name gets applied.
 
-![Teams Prefixes](media/microsoft-teams-naming-importance/Prefixes.png)
+![Teams Prefixes showing emojis](media/microsoft-teams-naming-importance/Prefixes.png)
 
 ### Spaces
 
@@ -58,7 +58,7 @@ Spaces are proven to make names more scannable while improving overall readabili
 
 - When using prefixes or suffixes, we are now combining different “components” into the name, and it is typically helpful to aid users in differentiating the delineation between these segments. One way to do this is to keep spaces within a Team’s Workspace name but use another delimiter (such as a dash or underscore) for the prefix or suffix. This allows the brain to quickly assess the Team’s category from the Team’s name.
 
-![Teams Prefixes](media/microsoft-teams-naming-importance/nameBreakdown.png)
+![Teams Prefixes with segments and spaces](media/microsoft-teams-naming-importance/nameBreakdown.png)
 
 ### Length
 
