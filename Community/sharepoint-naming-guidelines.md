@@ -84,7 +84,7 @@ With naming lists or libraries in the modern interface, be aware of the titles y
 - Without the encoding:"/sites/Team/**Finance HR combined strategic team collaboration a**/Forms/AllItems.aspx"
 - There is a maximum length for the URL part of the library to be: 62 characters
 
-*https://test.sharepoint.com/sites/Tean/Finance%20HR%20combined%20strategic%20team%20collaboration%20a/Forms/AllItems.aspx*
+`*https://test.sharepoint.com/sites/Tean/Finance%20HR%20combined%20strategic%20team%20collaboration%20a/Forms/AllItems.aspx*`
 
 ![List and library names](media/sharepoint-naming-guidelines/naming-libraries.png)
 

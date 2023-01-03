@@ -16,7 +16,7 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-Best practices and strategies for building and operating large SharePoint Lists and Libraries well above the item limit threshold
+Best practices and strategies for building and operating large SharePoint Lists and Libraries well above the item limit threshold.
 
 ## Summary
 
@@ -65,13 +65,21 @@ They are different. Let's compare:
 |Platform| Threshold | Can I change threshold? | Automatic Indexing | Modern Experience | Threshold-free Hours
 |--|--|--| --| --| --|
 | Online |  5000 | No | Yes | Default | No
+| On Prem SE   | 5000 | Yes* | Yes | Available | Available**
 | On Prem 2019 | 5000 | Yes* | Yes | Available | Available**
 | On Prem 2016 | 5000 | Yes* | Yes | No | Available**
 | On Prem 2013 | 5000 | Yes* | No | No | No
 
-\* *Someone with Central Admin access is needed to change this. And when you ask them to, you'll be given reasons why it's a bad idea.  That's their role - keep the databases performing well and sites up and running.  The smart play is to ask them to increase the limit for a very short amount time so you can fix your List/Library, and then return to the default threshold limit*.
+\* *Someone with Central Admin access is needed to change this. And when you ask them to, you'll be given reasons why it's a bad idea.  That's their role - keep the databases performing well and sites up and running.  The smart play is to ask them to increase the limit for a very short amount time so you can fix your List/Library, and then return to the default threshold limit. Lists and Libraries can also have the limit disabled via PowerShell by setting the _EnableThrottling_ property to false. See the example below*.
 
  \** *Your admins can schedule a time when the threshold is lifted on a schedule- generally after hours.  Doing this during business hours will frustrate your users by created a mixed experience.*
+
+```powershell
+$web = Get-SPWeb https://sharepoint.contoso.com/sites/team
+$list = $web.Lists["Example List"] #or library display name
+$list.EnableThrottling = $false
+$list.Update()
+```
 
 The most fundamental difference is that Modern will, over time, get new feature improvements to improve the experience of over-threshold Lists/Libraries.  Classic will stay the same.
   

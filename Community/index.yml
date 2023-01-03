@@ -40,56 +40,31 @@ landingContent:
             url: all-about-groups.md
           - text: What kind of apps can you build on Microsoft 365?
             url: type-of-apps-microsoft-365.md
+          - text: Query String URL Tricks for SharePoint and Microsoft 365
+            url: query-string-url-tricks-sharepoint-m365.md
+          - text: Use the Government Cloud for SharePoint and Microsoft 365
+            url: government-cloud.md
 
   # Card (optional)
   - title: Microsoft 365 Better Practices
     linkLists:
       - linkListType: learn
         links:
+          - text: Accessibility by Design
+            url: accessibility-by-design.md
+          - text: Content Type Propagation
+            url: content-type-propagation.md
           - text: OneDrive PC Folder Backup Benefits for End Users
             url:  known-folder-move-benefits-for-enduser.md
           - text: Why Microsoft 365 adoption projects fail
             url: why-m365-adoption-projects-fail.md
-          - text: Accessibility by Design
-            url: accessibility-by-design.md
   # Card (optional)
   - title: Maturity Model for Microsoft 365
     linkLists:
       - linkListType: learn
         links:
-          - text: Introduction
-            url:  microsoft365-maturity-model--intro.md
-          - text: Collaboration Competency
-            url:  microsoft365-maturity-model--collaboration.md
-          - text: Communication Competency
-            url:  microsoft365-maturity-model--communication.md
-          - text: People and Communities Competency
-            url: microsoft365-maturity-model--people-and-communities-competency.md
-          - text: Search Competency
-            url: microsoft365-maturity-model--search.md
-          - text: Staff & Training Competency
-            url: microsoft365-maturity-model--staff-and-training.md
-          - text: Business Process Competency
-            url: microsoft365-maturity-model--business-process.md
-          - text: Management of Content Competency
-            url: microsoft365-maturity-model--management-of-content.md
-          - text: Customization and Development Competency
-            url: microsoft365-maturity-model--customization-and-development.md
-          - text: Governance, Risk, and Compliance Competency
-            url: microsoft365-maturity-model--governance-and-compliance.md
-
-      - linkListType: how-to-guide
-        links:
-          - text: Elevating Collaboration
-            url: microsoft365-maturity-model--how-to-elevate-collaboration.md
-          - text: Elevating Communication
-            url: microsoft365-maturity-model--how-to-elevate-communication.md
-          - text: Elevating Staff and Training
-            url: microsoft-maturity-model-how-to-staff-and-training.md
-          - text: Elevating People and Communities
-            url: microsoft-maturity-model-how-to-people-communities.md
-          - text: How to run a Maturity Model for Microsoft 365 workshop
-            url: microsoft365-maturity-model--run-workshop.md
+          - text: Learn about the Maturity Model
+            url:  index_mm4m365.yml
 
   # Card (optional)
   - title: SharePoint Better Practices
@@ -134,6 +109,8 @@ landingContent:
             url: how-do-site-columns-become-managed-properties-thus-available-for-search.md
           - text: Document Sets for Fast Legacy Process Automation
             url: document-sets-are-magic.md
+          - text: Taking Advantage of the Content Type Inheritance Model in SharePoint
+            url: taking-advantage-content-type-inheritance-sharepoint.md
 
   # Card (optional)
   - title: Effective Communication
@@ -214,6 +191,8 @@ landingContent:
             url: basic-security-set-up-for-microsoft-365.md
           - text: "Managing External Guests in SharePoint vs Teams"
             url: managing-external-guest-in-SharePoint-vs-Teams.md
+          - text: Teams Shared Channels for Admins
+            url: teams-shared-channel-for-admins.md
           - text: The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1
             url: power-platform-DLP-policies-you-should-be-considering-on-Day-1.md
 
@@ -231,14 +210,12 @@ landingContent:
       - linkListType: reference
         links:
           - text: Microsoft Office official documentation
-            url: https://docs.microsoft.com/office/
+            url: /office/
           - text: FastTrack onboarding and adoption services
             url: https://fasttrack.microsoft.com/office
           - text: Find a SharePoint certified partner
             url: https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support
           - text: Visit the SharePoint community
             url: https://techcommunity.microsoft.com/t5/SharePoint/ct-p/SharePoint
-          - text: Suggest a feature
-            url: https://sharepoint.uservoice.com/
           - text: Learn how to be a Community Contributor
             url:  https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/README.md

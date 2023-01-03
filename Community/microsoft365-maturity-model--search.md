@@ -6,7 +6,7 @@ ms.author: daisyfeller
 ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority:
 description: Maturity Model for Microsoft 365 - Search Competency
 ms.collection: M365Community
@@ -30,24 +30,6 @@ A good search experience benefits the organization by reducing time to find know
 
 Search is about enabling people to find the authoritative information within the organization easily using a set of keywords or search terms, or based in their activities. The results may come from the Microsoft 365 platform or other systems which have been connected into the search process.
 
-## Common Microsoft 365 Search technologies
-
-- Microsoft Search (using Microsoft Graph)
-  - Office search
-  - Microsoft Search in Bing
-  - SharePoint Modern Search
-  - Modern Search Web Parts
-  - Delve
-  - Search Connectors
-- Bing
-- SharePoint Search
-  - Classic/Enterprise Search
-- SQL Search
-- Business Data Services (BDS)
-- Cortana
-- Power BI Q&A
-- Managed Metadata/Term Stores
-- eDiscovery and audit (Compliance Centre)
 
 ## Evolution of this competency
 
@@ -79,7 +61,7 @@ Search relies heavily on several other competencies including Collaboration and 
 
 **[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
-#### 100 Governance & Security
+#### 100 Governance, Risk, Compliance & Security
 
 - Out of the box search experience, the quality of results varies wildly with users often unable to find what they are looking without knowing the terms to search for.
 - No formal process to curate search results or analyze search patterns.
@@ -87,7 +69,7 @@ Search relies heavily on several other competencies including Collaboration and 
 - The danger of search finding inappropriate content is not well understood.
 - Search often does not respect user privileges and access rights.
 
-#### 100 Search Technology
+#### 100 Technology
 
 - Search may be restricted to File System search and a few specific applications.
 - Default out of the box configuration is in place; often with very limited capabilities (filename, title, date).
@@ -125,11 +107,11 @@ Some individuals are key knowledge sources, impeding their work and/or becoming 
 
 Productivity is compromised; compliance activities are weak; organizational and colleague knowledge are poorly leveraged and there is a pervasive frustration at the inability to find things.
 
-### Level 200 - Repeatable
+### Level 200 - Managed
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
-#### 200 Governance & Security
+#### 200 Governance, Risk, Compliance & Security
 
 - Some search tools respect user access rights, but inconsistencies exist, and inappropriate content may be surfaced.
 - Some effort is made to promote or identify current or authoritative versions, but with limited consistency.
@@ -138,7 +120,7 @@ Productivity is compromised; compliance activities are weak; organizational and 
 - Users are not encouraged to use Search instead of legacy approaches.
 - No role defined to administer and refine search experience.
 
-#### 200 Search Technology
+#### 200 Technology
 
 - There are some search-based point solutions which have enhanced configuration to improve user experience.
 - Some custom specific organization search results have been configured.
@@ -168,11 +150,11 @@ Productivity and compliance remain compromised; and frustration at the inability
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
-#### 300 Governance & Security
+#### 300 Governance, Risk, Compliance & Security
 
 - User access rights are consistently applied, and processes exist to manage access.
 
-#### 300 Search Technology
+#### 300 Technology
 
 - Commonly searched keywords are configured with tailored results.
 - An enterprise search exists that is connected to other file repositories and line of business applications to break down information silos and allow search across the enterprise. (This could be hybrid, Salesforce etc.). This may not be consistently available nor address all the needs of users, however.
@@ -195,11 +177,11 @@ Search actively adds value to organizations, releasing staff time, improving com
 
 At this level, Search becomes an asset to the organization. This has been recognized as an enabler that develops more efficient and effective employees. The capabilities of search are harnessed to improve the experience of businesses applications.
 
-### Level 400 - Managed
+### Level 400 - Predictable
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
-#### 400 Governance & Security
+#### 400 Governance, Risk, Compliance & Security
 
 - A role exists in the organization to manage enterprise search, to review keywords, feedback and search metrics with a view to ensuring effectiveness.
 - Processes are in place to ensure staff maintain their profiles, including skills and expertise.
@@ -209,7 +191,7 @@ At this level, Search becomes an asset to the organization. This has been recogn
 - Search is be used to assist compliance processes such as subject access request and, legal eDiscovery.
 - There are tools and processes to ensure staff maintain their profiles and update content to improve findability.
 
-#### 400 Search Technology
+#### 400 Technology
 
 - Search usage is analyzed and used to improve search results.
 - Contextual search is embedded in line of business systems.
@@ -242,11 +224,11 @@ Search results can be relied on; the current versions are reliably returned; ina
 
 ### Level 500 - Optimizing
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 Search is part of everyday life for an employee at the organization. New innovative ways of exposing content are investigated. Search metrics are used to analyze user behavior and understand gaps in the information that is being returned.
 
-#### 500 Governance & Security
+#### 500 Governance, Risk, Compliance & Security
 
 - The organization seeks to continually enhance all aspects of the search process and experience; extending scopes, optimizing results and linking related information based on continual feedback
 - Advanced analytics are used to understand search usage and this provides further insights into activities across the company
@@ -254,7 +236,7 @@ Search is part of everyday life for an employee at the organization. New innovat
 - Automated tagging and other metadata are in use
 - Context (staff profiles, locations etc.) is integrated with source processes such as Joiners-Leavers, in order to maintain high quality of data
 
-#### 500 Search Technology
+#### 500 Technology
 
 - The search corpus is broadened with search being available across bespoke and line of business systems.
 - The search corpus is used to enhance knowledge management tools such as Project Cortex.
@@ -289,7 +271,7 @@ Staff are committed to the content processes that maintain search; at the same t
 - Staff searching for internal and market news relating to an insight or innovation they are considering. An engineer researching a solution to a manufacturing failure, who needs to collate procedure, machine manuals, line SPC data and actions alongside reports of similar events outside the company.
 - The legal team finds contracts which will expire soon and can work on renewals where appropriate.
 
-## Cost & benefit
+### Cost & benefit
 
 The following benefits can be achieved as the Search Competency increases in maturity:
 
@@ -319,6 +301,25 @@ Search enhances the other competencies and is a great way to begin reaping rewar
 
 Organizations should capture success stories to provide examples of the benefits to ensure that this essential service gets the attention and resources that is required for it to be a successful resource.
 
+## Common Microsoft 365 Search technologies
+
+- Microsoft Search (using Microsoft Graph)
+  - Office search
+  - Microsoft Search in Bing
+  - SharePoint Modern Search
+  - Modern Search Web Parts
+  - Delve
+  - Search Connectors
+- Bing
+- SharePoint Search
+  - Classic/Enterprise Search
+- SQL Search
+- Business Data Services (BDS)
+- Cortana
+- Power BI Q&A
+- Managed Metadata/Term Stores
+- eDiscovery and audit (Compliance Centre)
+- 
 ## Resources
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
@@ -328,7 +329,7 @@ Organizations should capture success stories to provide examples of the benefits
 **Principal authors**:
 
 - [Simon Doy](https://www.linkedin.com/in/simondoy)
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson)
+- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson)
 
 **Contributing authors**:
 

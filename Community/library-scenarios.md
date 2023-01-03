@@ -88,7 +88,7 @@ Example image shown below:
 
 ![Image of a multimedia document library used as an organization asset library.](media/library-scenarios/multimedia-scenario-02.png)
 
->Video files intended for streaming use should be hosted in [Microsoft Stream](/stream/overview).
+>For video files intended for streaming check this [Overview of how to feature videos in Microsoft 365 with pages, sites, & portals](/stream/streamnew/portals-overview).
 
 ---
 

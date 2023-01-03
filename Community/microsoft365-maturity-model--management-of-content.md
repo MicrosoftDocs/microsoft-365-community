@@ -6,7 +6,7 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority:
 description:  Maturity Model for Microsoft 365 - Management of Content Competency
 ms.collection: M365Community
@@ -36,25 +36,6 @@ This competency focuses on many aspects with management of content, including pr
 - Items (e.g. snippets of information, FAQs, tasks, contacts, notifications, list items)
 - Email
 - Media
-
-### Common Microsoft 365 Toolsets
-
-- OneDrive
-- SharePoint
-- Teams
-- Data Loss Prevention
-- Azure
-- Azure Information Protection
-- Compliance Center
-- File services
-- Microsoft Lists
-- Email
-- Microsoft Word
-- OneNote
-- Stream
-- SharePoint Syntex
-- Power Automate
-- Viva Topics
 
 ### Aspects of content that can be managed
 
@@ -106,7 +87,7 @@ This competency focuses on many aspects with management of content, including pr
 
 ## Evolution of this competency
 
-### Level 100
+### Level 100 - Initial
 
 **[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
@@ -136,7 +117,7 @@ This competency focuses on many aspects with management of content, including pr
 - Version control is achieved via file names and or document location.
 - Tagging and metadata is not in general use; metadata that has been applied is inconsistent, frequently incorrect and often applies to a previous document that has been used as a defacto template.
 
-##### Presentation of content
+##### Presentation
 
 - Templates are not managed and deployed across the organization to ensure standards. Templates that do exist are not managed, updated, tested for effectiveness nor do they include appropriate settings such as language, default fonts.
 - Consistent styling and branding are not used consistently. Formatting is left to the end user, without guidance. Staff make their own decisions on logos and images to include.
@@ -167,9 +148,9 @@ At this level you can expect the following:
 - Productivity is poor as staff recreate content that already exists. Timescales are often missed and quality is often low and inconsistent, leading to poor outcomes.
 - Staff are unnecessarily busy, stressed and frustrated.
 
-### Level 200
+### Level 200 - Managed
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### Lifecycle Management
 
@@ -196,7 +177,7 @@ At this level you can expect the following:
 - Documents frequently lack clear sections with structured headings. Subject lines in emails are often unclear and not updated as a conversation evolves. Contacts are labelled arbitrarily or inconsistently.
 - The same names are used for different things and v.v. The organization lacks a maintained glossary and agreed set of terms.
 
-##### Presentation of content
+##### Presentation
 
 - Templates are created for many types of content and are made available to staff. They are often updated. Users generally know where to find them, but default to using previous published documents. Some staff have added templates to their default location to make it easier to access, especially for frequent processes; however, this is not embedded across the organization. Some effort has been put into creating well-formed templates and many have been tested for standardized style, language and other settings. These have reasonably consistent styling and branding.
 - Many users understand the importance of using Headings and other styles in content, however poor, ad hoc formatting remains commonplace.
@@ -229,7 +210,7 @@ At this level you can expect the following:
 - Staff are unnecessarily busy, stressed and frustrated.
 - Multiple attempts are made to introduce improvements, however adoption remains poor and managers are unnecessarily busy, stressed and frustrated by the lack of progress.
 
-### Level 300
+### Level 300 - Defined
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
@@ -255,7 +236,7 @@ At this level you can expect the following:
 - Naming conventions are in place for many classes of content, including items, files, media and these are often enforced using technical or process measures.
 - Some areas are experimenting with "content classes" that describe organization-wide document and items, however this is not widely adopted nor comprehensively designed.
 
-##### Presentation of content
+##### Presentation
 
 - Routine processes have well defined and maintained templates which are accessible from withing the process and are mandated and adopted for those processes. Templates are generally "on-brand", fit for purpose and have been reviewed for quality. These have reasonably consistent styling and branding. Re-use of previous documents is avoided, though prior content is often copied into the new documents. Some staff have added general templates to their default location to make it easier to access and there may be efforts to implement this across the organization.
 - Emails have automated footers.
@@ -285,9 +266,9 @@ At this level you can expect the following:
 - Staff recognize central sources of truth and turn to it in preference to other sources.
 - Improvements are able to be introduced and are widely adopted in key processes. Managers are seen as leaders of this adoption and benefit from their staff productivity. Some changes remain ineffective, rushed or only partially effective due to the corrosive effects of legacy content and some staff resistance.
 
-### Level 400
+### Level 400 - Predictable
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### Lifecycle Management
 
@@ -317,7 +298,7 @@ At this level you can expect the following:
 - There are standard content categories and these are widely used to group and tag content, aiding in search and productivity. A standard set of consistent content statuses, classifications and other business wide approaches to naming and identifying content are in place. There is some automation of tagging and classification.
 - "Content classes" are widely in use and there are processes for creating new classes as needed.
 
-##### Presentation of content
+##### Presentation
 
 - There is an active process for updating templates across the organization to ensure they are up to date, fit for purpose and support brand and style guidelines
 - Emails have automated footers, with role-based variants and active insertion of content in support of campaigns and other business communication needs.
@@ -348,9 +329,9 @@ At this level you can expect the following:
 - Content driven systems are routinely improved; feedback and monitoring mechanisms at granular and aggregate level continuously identify areas for improvement and enable programs of work to maintain productivity as the business landscape evolves.
 - Staff and managers are able to focus on their objectives and are rarely interrupted or frustrated by the quality and accessibility of the content they need or create.
 
-### Level 500
+### Level 500 - Optimizing
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
 #### Lifecycle Management
 
@@ -377,7 +358,7 @@ At this level you can expect the following:
 - Images, other media and related content are automatically suggested for inclusion based on tags, context and insights from "the graph" of the organization.
 - "Content classes" are the norm for almost all content. Externally sourced content is likewise assigned to a class and tagged.
 
-##### Presentation of content
+##### Presentation
 
 - Content creation is based on full managed, automated templates, with significant degrees of automatic content completion, content suggestions, AI assistance or a "wizard" based creation process.
 - Emails have dynamic, role, risk and context driven footers.
@@ -430,6 +411,25 @@ Equally, many organizations invest in file storage technologies that provide per
 
 Burgeoning automation and AI make achieving high levels of maturity realistic for most organizations; however, the fundamentals need to be put in place before these can be effectively deployed.
 
+### Common toolsets
+
+- Azure
+- Azure Information Protection
+- Data Loss Prevention
+- Email
+- File services
+- Microsoft Lists
+- Microsoft Purview
+- Microsoft Syntex
+- Microsoft Word
+- OneDrive
+- OneNote
+- Power Automate
+- SharePoint
+- Stream
+- Teams
+- Viva Topics
+
 ## Resources
 
 - There are a variety of helpful documents on lists, libraries, information architecture, plus related competencies such as [search](principles-of-search.md), communication and collaboration on this site.
@@ -441,7 +441,7 @@ Burgeoning automation and AI make achieving high levels of maturity realistic fo
 
 **Principal authors**:
 
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 - [Simon Doy](https://www.linkedin.com/in/simondoy/)
 
 **Contributing authors**:

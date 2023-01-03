@@ -117,11 +117,11 @@ When considering Power Automate and Logic Apps, who will create them? Is this in
 
 #### Learning Power Automate
 
-For users and staff, there is a set of courses on [Microsoft Learn](/learn/browse/?terms=Automate&products=power-platform) if you want to know more about building flows to gain more in-depth knowledge about the usage of the services.
+For users and staff, there is a set of courses on [Microsoft Learn training](/training/browse/?terms=Automate&products=power-platform) if you want to know more about building flows to gain more in-depth knowledge about the usage of the services.
 
 #### Learning Azure Logic Apps
 
-For ICT or SME users looking to improve their knowledge, there is a set of courses on [Microsoft Learn](/learn/browse/?products=azure&terms=Logic%20Apps) if you want to know more about Logic Apps to gain a deeper understanding about the usage of the services and how they can integrate with a range of connectors.
+For ICT or SME users looking to improve their knowledge, there is a set of courses on [Microsoft Learn training](/training/browse/?products=azure&terms=Logic%20Apps) if you want to know more about Logic Apps to gain a deeper understanding about the usage of the services and how they can integrate with a range of connectors.
 
 ### Consider the cost of connectors
 

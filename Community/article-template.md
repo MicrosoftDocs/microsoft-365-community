@@ -1,12 +1,12 @@
 ---
 title: Name of article
-ms.date: 3/15/2021
+ms.date: 6/24/2022
 author: sympmarc
 ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority: 
 description: Template for creating content
 ms.collection: M365Community

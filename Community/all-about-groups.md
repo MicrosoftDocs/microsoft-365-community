@@ -6,7 +6,7 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority: 
 description: "There are a lot of groups in Azure and Microsoft 365. They can be confusing. This article explains them so you can figure out which one is best for you."
 ms.collection: M365Community
@@ -24,7 +24,7 @@ Azure and Microsoft 365 are the culmination of decades of technical evolution an
 
 ### What are Azure AD Security Groups?
 
-Azure AD Security Groups are analogous to Security Groups in on-prem Windows Active Directory. They are Security Principals, which means they can be used to secure objects in Azure AD. They can be created natively in Azure AD, or synced from Windows AD with [Azure AD Connect](/azure/active-directory/hybrid/whatis-azure-ad-connect). Their membership can be static, or it can be [generated dynamically](/azure/active-directory/users-groups-roles/groups-create-rule) with rules.
+Azure AD Security Groups are analogous to Security Groups in on-prem Windows Active Directory. They are Security Principals, which means they can be used to secure objects in Azure AD. They can be created natively in Azure AD, or synced from Windows AD with [Azure AD Connect](/azure/active-directory/cloud-sync/what-is-cloud-sync). Their membership can be static, or it can be [generated dynamically](/azure/active-directory/users-groups-roles/groups-create-rule) with rules.
 
 ### Who can manage Azure AD Security Groups?
 

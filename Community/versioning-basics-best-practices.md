@@ -75,7 +75,7 @@ Libraries can have both Major versions, which are represented with whole numbers
 Lists usually only have Major versions.
 
 > [!NOTE]
-> All versions count against your SharePoint storage usage, as do files in the recycle bins and files preserved due to retention policies.
+> All versions count against your SharePoint storage usage, as do files in the recycle bins and files preserved due to retention policies. In calculating the SharePoint storage usage, the full file size of each version counts towards the total usage. For example, if only metadata changes were made to a 10 MB file with no change to its file size, the total storage usage will be 10 MB (original version) + 10 MB (updated version) = 20 MB.
 
 ## Best Practices and Versioning Trivia
 

@@ -32,31 +32,18 @@ Communication encompasses the processes of creation, approval, and distribution 
 
 Communication professionals will sometimes refer to the [Principles of Communication](/microsoft-365/community/principles-of-communication); these might be worth considering alongside your maturity assessment.
 
-## Common Microsoft 365 tool sets
-
-Every organization can choose how best to use the Microsoft 365 platform for communication. The best answer for a large multi-national conglomerate would make little sense for a five-person financial advisory firm. The Microsoft 365 apps and services that are in the mix for communication include the following:
-
-- SharePoint Communication Sites
-- SharePoint News / News Digests
-- Stream
-- Yammer
-- Teams posts, chats and notifications
-- Sway
-- Email
-- Mobile device notifications (via Flow, Teams etc.)
-- Other mobile clients
 
 ## Evolution of this competency
 
 See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
 
-### Level 100
+### Level 100 - Initial
 
 This is the starting level for a new or untried process. As with all 100 level characteristics, practices may be somewhat effective, but they don’t take advantage of the power of the platform, nor do they take into account the multiple use cases which exist in even the smallest and simplest organization. Typically, they are undocumented and in a state of dynamic change, tending to be driven in an ad hoc, uncontrolled, and reactive manner by users or events. This provides a chaotic or unstable environment for the processes.
 
 **[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
-#### 100 Governance & Security
+#### 100 Governance, Risk, Compliance & Security
 
 - There are no restrictions or guidance on who should communicate to whom or by what means.
 - Communications are frequently ad hoc, not based on templates, lack governance, and do not tend towards an agreed ‘house’ style.
@@ -87,13 +74,13 @@ At this level you can expect the following:
 - Gaps in coverage - not everyone who needs to see all relevant content.
 - Poorly considered, incorrect and misleading communications
 
-### Level 200
+### Level 200 - Managed
 
 Processes are documented or managed by a central group to enable (but not enforce) the preferred ways of communicating. Some processes are repeatable, possibly with consistent results. Process discipline is unlikely to be rigorous, but where it exists it may help to ensure that existing processes are maintained during times of stress.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
-#### 200 Governance & Security
+#### 200 Governance, Risk, Compliance & Security
 
 - Nominated functions for reviewing/creating/releasing some classes of communications, i.e. nominated communications roles.
 - A policy is available to guide users on appropriate communications and there are mechanisms to support them.
@@ -117,13 +104,13 @@ Processes are documented or managed by a central group to enable (but not enforc
 
 At this level, communications often don’t follow expected layouts, style, and standards.  A central set of policies may exist, managed by a central owner, but there is no shared understanding across the organization of what these are.
 
-### Level 300
+### Level 300 - Defined
 
 The process is well defined and agreed as a standard business process. There are sets of defined and documented standard processes established, signed off, and subject to some degree of improvement over time. The processes may not have been systematically or repeatedly used to the extent needed for their users to become fully competent or the process to be validated in a range of situations. This could be considered a developmental stage - with use in a wider range of conditions and user competence development the process can develop to next level of maturity.
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
-#### 300 Governance & Security
+#### 300 Governance, Risk, Compliance & Security
 
 - Communications policies are published and widely understood; some monitoring and reinforcement is in place.
 - Guidance exists on writing style; spelling and grammar checking is in active use.
@@ -150,13 +137,13 @@ At this level, there is a stated strategy for communication that is understood a
 
 Users experience consistency in core communication and know where to go for specific information. They can use feedback mechanisms, and most people can access what they need regardless of device, location etc.  Less common scenarios are somewhat overlooked, ad hoc or lacking consistency. Higher priority/importance communications can be prioritized, so that they are not lost in the ‘noise’. It is possible to sequence communications, allowing planned campaigns and timed release of information.
 
-### Level 400
+### Level 400 - Predictable
 
 The communication process is actively managed in accordance with agreed processes, and the governance is well-defined, widely understood, and followed. Metrics are in place to track communication effectiveness.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
-#### 400 Governance & Security
+#### 400 Governance, Risk, Compliance & Security
 
 - Message life cycle management ensures timeliness, approvals, moderation, accuracy, tracking, and removal at the appropriate time.
 - Logs, feedback, site usage etc. confirms that content and messages are being received and that tracking analytics and reporting are available
@@ -182,13 +169,13 @@ The communication process is actively managed in accordance with agreed processe
 
 At this level, users have a high degree of trust in organizational communications. They understand the communication mechanisms that are available, and feel confident in the source and appropriateness of what they receive. This maturity level still may create dissatisfaction in some users who remember the “wild west” days of the organization when it was less mature, and who feel restricted in their ability to communicate if they do not have the appropriate role or level of rights.
 
-### Level 500
+### Level 500 - Optimizing
 
 Management of the communication process includes deliberate and systematic process improvement and optimization. There is a focus on continually improving communications through both incremental and innovative technological changes or improvements. Level 500 is likely to include automation, reduction in manual tasks and associated variability, strong governance and compliance interventions, as well as optimization for user interactions and productivity.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
-#### 500 Governance & Security
+#### 500 Governance, Risk, Compliance & Security
 
 - Communications are automatically sampled for style, effectiveness etc. and guidance on improvement is implemented.
 - Communication training is provided across multiple media types.
@@ -267,6 +254,27 @@ Organization communication is much broader than email and newsletters. Effective
 
 Organizations should define their desired maturity, based on their needs, circumstances and capabilities. They should recognize that embedding good communication is more than implementing a range of technology solutions.
 
+## Common Microsoft 365 tool sets
+
+Every organization can choose how best to use the Microsoft 365 platform for communication. The best answer for a large multi-national conglomerate would make little sense for a five-person financial advisory firm. The Microsoft 365 apps and services that are in the mix for communication include the following:
+
+- Email
+- Delve / people cards
+- Mobile device notifications (via Flow, Teams etc.)
+- Microsoft Teams
+- SharePoint Communication Sites
+- SharePoint News / News Digests
+- Stream
+- Sway
+- Viva Amplify
+- Viva Connections
+- Viva Engage
+- Viva Goals
+- Viva Insights
+- Viva Pulse
+- Viva Topics
+- Yammer
+
 ## Resources
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
@@ -275,6 +283,8 @@ Organizations should define their desired maturity, based on their needs, circum
 
 - [International Association of Business Communicators](https://www.iabc.com/)
 - [Example style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
+- [Organizational communications: Guidance, methods, and products](/sharepoint/corporate-communications-overview)
+- [How to Share Org-Wide Communication in Microsoft 365](/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
 
 ---
 
@@ -282,7 +292,7 @@ Organizations should define their desired maturity, based on their needs, circum
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy](https://www.linkedin.com/in/simondoy/)
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson/)
+- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
 

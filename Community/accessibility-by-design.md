@@ -6,7 +6,7 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority: 
 description: "How to foster accessibility by design"
 ms.collection: M365Community
@@ -70,8 +70,8 @@ Let us have a look at some examples: what we can do.
 
 Do we want to do more than just realize there is a need? Here are three simple steps we all can do right now:
 
-1. Let's take the [Accessibility fundamentals learning path](/learn/paths/accessibility-fundamentals/) provided by [Microsoft Learn](/learn/).
-2. Let's start using the accessibility tools like the [Accessibility Checker](https://support.microsoft.comtopic/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) or [descriptive text for pictures](https://support.microsoft.com/topic/everything-you-need-to-know-to-write-effective-alt-text-df98f884-ca3d-456c-807b-1a1fa82f5dc2).
+1. Let's take the [Accessibility fundamentals learning path](/training/paths/accessibility-fundamentals/) provided by [Microsoft Learn training](/training/).
+2. Let's start using the accessibility tools like the [Accessibility Checker](https://support.microsoft.com/topic/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) or [descriptive text for pictures](https://support.microsoft.com/topic/everything-you-need-to-know-to-write-effective-alt-text-df98f884-ca3d-456c-807b-1a1fa82f5dc2).
 3. We can switch the grammar settings in Word for inclusiveness to become more aware of the language we are using.
 
 ![Showing the grammar settings in Word for inclusiveness](media/accessability-by-design/word-options.png)

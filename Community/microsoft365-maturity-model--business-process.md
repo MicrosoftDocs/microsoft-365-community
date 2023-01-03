@@ -6,7 +6,7 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.prod: microsoft-365
+ms.service: microsoft-365
 localization_priority:
 description: Maturity Model for Microsoft 365 - Business Process Competency
 ms.collection: SPCommunity
@@ -26,18 +26,6 @@ The Business Process competency focuses on how users in an organization perform 
 
 "Business Process" describes linked business activities with a defined trigger and outcomes, frequently standardized by a technology platform and/or custom automated workflow processes. Areas of focus include data (unstructured/structured), workflow, user security / roles, analytics and reporting, tracking / auditing, process modeling and simulation, and process optimization.
 
-## Common Microsoft 365 Toolsets
-
-- Planner
-- Project Online
-- Microsoft Lists
-- Power Automate
-- Common Data Service (now Dataverse)
-- Microsoft Forms
-- Power Apps
-- Power Virtual Agents
-- Connectors / Custom Connectors to access other line of business apps and services
-
 ## Evolution of this competency
 
 See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
@@ -48,37 +36,59 @@ Organizations at this level are running their business processes in a manual, ad
 
 **[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
+#### General
+
 - Business processes are undefined or only loosely defined through user experience.
-- Processes are mostly undocumented and lack any form of governance, control or oversight such as an Integrated Project Team (IPT).
-- Changes to the process are untested or tested in concept only.
-- Exceptions and failures are not captured, tracked and addressed
 - There may be no use of process technology, instead relying on paper-based process and legacy technology such as email for notifications, hand-offs and approvals.
 - Users of the system rely on institutional knowledge to get things done ("I know who can help me with this") rather than agreed-upon roles and business logic.
-- Processes have evolved from prior approaches. New needs and exceptions have been bolted on rather than engineered in.
 - Exceptions cause long delays (e.g., a key resource is out of the office, or the first time a new situation is encountered there is no method for defining what should happen).
+
+#### Governance, Risk, Compliance and Security
+
+- Processes are mostly undocumented and lack any form of governance, control or oversight such as an Integrated Project Team (IPT).
 - Tracking of the state of the process or status of an activity within a process is not possible or not done. Reporting or analytics are absent.
+
+#### Business Process
+
+- Changes to the process are untested or tested in concept only.
+- Exceptions and failures are not captured, tracked and addressed
+- Processes have evolved from prior approaches. New needs and exceptions have been bolted on rather than engineered in.
 
 #### Level 100 Impacts
 
 At this level you can expect the following:
 
+#### General
+
 - If there is a known workflow, e.g., for request approvals, there can be long delays between steps because there are no system notifications, no status updates, and no consequences for inaction. This requires the requestor to chase down the person at the next step in the process.
-- It's not possible for anyone to see the status of a particular request. Activities can stall or remain incomplete indefinitely.
 - Transactions are very costly in terms of time spent and user frustration.
-- Compliance issues are a risk when processes are not done according to established business rules.
 - Staff (and clients / customers) have limited confidence in the quality or timeliness of the process output.
-- The team looses credibility and will be hard to get future buy in of new processes.
-- Activity owners invest their time in pushing activities through the process. Activity prioritization is ad hoc and not driven by business priority or objective value/risk
+- The team loses credibility and will be hard to get future buy in of new processes.
 - Exceptions and priorities, troubleshooting and remedial intervention become a drain on resources and pose a risk to business outcomes.
 - Basic questions can't be answered because there is no reliable data (e.g., "How long does it take us to process a typical invoice?")
 - People feel stressed due to the lack of ability to plan and estimate how long a process will take.
 - Deadlines are missed or require heroic effort to meet due to lack of transparency in business process.
 
-### Level 200 - Repeatable
+#### Governance, Risk, Compliance and Security
+
+- Compliance issues are a risk when processes are not done according to established business rules.
+
+#### Business Process
+
+- It's not possible for anyone to see the status of a particular request. Activities can stall or remain incomplete indefinitely.
+- Activity owners invest their time in pushing activities through the process. Activity prioritization is ad hoc and not driven by business priority or objective value/risk
+
+### Level 200 - Managed
 
 Organizations at this level are evaluating or implementing technology to help automate some of their processes in a standardized way. As a result, some lines of business may be mapping their processes for the first time, and gaining a true sense of all the steps, dependencies, exceptions, and delays. There is momentum to manage particular processes based on business need and/or process owner enthusiasm. An understanding of the benefits of automation is developing. A particular line of business or department may have successfully leveraged technologies to manage processes and are evangelizing this to other departments.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---repeatable)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
+
+#### General
+
+#### Governance, Risk, Compliance and Security
+
+#### Business Process
 
 - Business processes are documented / defined at the department level and communicated to the organization. Process maps exist for many processes but adopted technology solutions are weakly documented.
 - Out of the box SharePoint workflows (approval, collect feedback) might be leveraged sporadically.
@@ -112,19 +122,27 @@ Organizations at this level are using M365 to manage business process across mul
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
-- A process is considered as a whole, rather than as an automation of discrete tasks. Process maps for the end-to-end process have been created and are maintained. Associated solution documentation is developed.
+#### General
+
 - Individuals have transitioned from procedural document workflow to orchestration of dynamic business process.
 - A business process automation technology platform has been selected and is the basis for new Business Process activities, though legacy solutions remain in use. Third party tools and/or custom Business Process Management tools are integrated to support more complex business rules and legacy systems.
 - The organization has begun to develop business process skills, often in a central team and including process re-engineering and technical platform specialists. Training is available to both specialists and citizen developers
 - There is a recognition of the pros and cons of citizen development and attempts are made to allow and manage these approaches
 - There is minimal inconsistency between the documented process and the deployed process.
+
+#### Governance, Risk, Compliance and Security
+
+- There is recognition that different solutions are associated with different risk and compliance profiles and can be designed and managed accordingly
+- Quality Systems incorporate key business process solutions, and the solutions are tested for compliance for processes that impact quality
+- New solutions are designed with tracking, performance metrics and out of bounds notifications
+
+#### Business Process
+
+- A process is considered as a whole, rather than as an automation of discrete tasks. Process maps for the end-to-end process have been created and are maintained. Associated solution documentation is developed.
 - Existing process automation solutions are reviewed, documented and attempts made to bring them under management. In some cases, solutions are redeveloped on the new platform.
 - There is a method for dealing with exceptions, or the automation is explicitly scoped to meet the majority of situations.
 - There are processes for identifying new automations and for modify existing solutions, though exceptions and 'shadow' development remain.
-- There is recognition that different solutions are associated with different risk and compliance profiles and can be designed and managed accordingly
 - Whole system approaches are attempted, and common-data sets and sources begin to be established.
-- Quality Systems incorporate key business process solutions, and the solutions are tested for compliance for processes that impact quality
-- New solutions are designed with tracking, performance metrics and out of bounds notifications
 
 #### Level 300 Impacts
 
@@ -136,12 +154,13 @@ At this level you can expect the following:
 - There is increasing employee confidence in following the processes because they provide better results than prior manual processes.
 - The credibility of the team is improved, that helps user acceptance for new processes.
 
-### Level 400 - Managed
+### Level 400 - Predictable
 
 Organizations at this level have set goals for the process, such as reduced time between steps, lower cost, fewer errors, customer satisfaction, etc., and the process is being measured against these goals. The system is supporting and driving the business process rather than the individuals involved in the process. The results are predictable, and the users have come to depend on the system and no longer feel the need or desire to work around it.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---managed-capable)** characteristics include:
+**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
+#### General
 - Workflows on the platform may have connectivity to LOB systems.
 - Users have access to process analytics and audit trails around the workflow. (e.g., a user can report on document approval (person, date and comments).
 - There is greater transparency to the process at the end user level (e.g., a user can see the status of a particular request at any step)
@@ -172,23 +191,28 @@ At this level you can expect the following:
 
 Organizations at this level are using the M365 platform optimally to automate their processes, and are focused on feedback and continuous improvement. The goals/metrics are being achieved on a regular basis, and there is both objective data and anecdotal evidence to support the success of the solution.
 
-**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing-efficient)** characteristics include:
+**[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
 
+#### General
 - Power users can edit existing workflows to adapt them to changing business needs on the fly with an understanding of the implications of these changes.
 - Standardized workflows, data sources, connectors, UI and process components exist for re-use and guidance
 - Users leverage data from the business process management platform to optimize process, simulate on real data, clear bottlenecks, and balance work across workloads.
-- Users have visibility into the process and can provide feedback to process improvements.
 - Business processes may extend to external users.
 - The enabling technology platform is being upgraded and managed proactively as an enterprise solution.
+- Staff are highly skilled and engaged in the processes, providing feedback, ensuring compliance and adapting to edge cases as required
+- All processes are well understood, managed and leveraged
+- Processes reach outside the organization, to interact efficiently with 3rd parties including suppliers, clients and regulators
+
+#### Governance, Risk, Compliance and Security
 - There is an active and ongoing process of process review against operational and other objectives and processes and supporting technologies are re-engineered accordingly
+- Processes drive and ensure compliance while also improving productivity.
+
+#### Business Process
+- Users have visibility into the process and can provide feedback to process improvements.
 - Output metrics from business process solutions provide insights into business improvement and drive process enhancements at all levels. Impacts in one part of the process are understood up and down the event chain.
 - Business Processes are continually measured as part of a whole-system approach and collectively improved or adapted to changing needs.
 - Advanced tools are used to drive optimization, including AI, Statistical Process Control and cross industry benchmarking
-- Staff are highly skilled and engaged in the processes, providing feedback, ensuring compliance and adapting to edge cases as required
 - There is a high level of continuous process oversight and remodeling
-- All processes are well understood, managed and leveraged
-- Processes drive and ensure compliance while also improving productivity.
-- Processes reach outside the organization, to interact efficiently with 3rd parties including suppliers, clients and regulators
 - Innovative approaches are taken to automation of tasks; as new technologies and techniques emerge these are proactively introduced, freeing up time for staff to deal with complex cases and 'out of bounds' scenarios.
 
 #### Level 500 Impacts
@@ -222,6 +246,20 @@ Business Process is one area where hard metrics are relatively easy to capture, 
 
 Improving your Business Process maturity requires an investment in business process mapping, as well as an understanding of M365's functionality and how it can support your business processes. This investment in defining and educating will be repaid in clear, measurable ROI for the business processes that you modernize and automate on the M365 platform. This ROI can take the form of bottom-line cost and time savings, as well as more top-line advantages in terms of competitiveness and customer and employee satisfaction.
 
+## Common Microsoft 365 Toolsets
+
+- Connectors / Custom Connectors to access other line of business apps and services
+- Dataverse
+- Microsoft Forms
+- Microsoft Lists
+- Planner
+- Power Apps
+- Power Automate
+- Power Virtual Agents
+- Project Online
+- Viva Goals
+- Viva Sales
+
 ## Resources
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
@@ -242,7 +280,7 @@ Improving your Business Process maturity requires an investment in business proc
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy](https://www.linkedin.com/in/simondoy)
-- [Simon Hudson](https://www.linkedin.com/in/simonjhudson)
+- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson)
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
 
 ---
