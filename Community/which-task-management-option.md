@@ -1,29 +1,30 @@
 ---
-title: What Task Management Platform Is Best For Me?
+title: What task management platform is best for me?
 ms.date: 12/19/2022
 author: dfrancoeur
-ms.reviewer: sympmarc
-manager: 
+ms.reviewer: daisyfeller
+manager: pamgreen-msft
 ms.topic: article
-ms.author: 
+ms.author: daisyfeller
 ms.service: microsoft-365
 localization_priority: 
-description: A short guide on the many (many) options for managing tasks in M365 and how they stack up.
+description: "A short guide on the many (many) options for managing tasks in M365 and how they stack up."
+ms.collection: M365Community
 ---
 
-# So Many Options
+# So many options
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-There are a crazy number of ways to manage tasks in Microsoft365, some of which overlap, while others donít. Where are all the places we can create tasks?
+There are a crazy number of ways to manage tasks in Microsoft 365, some of which overlap, while others don‚Äôt. Where are all the places we can create tasks?
 
 ![Tasks1](media\task-management-options\tasks1.png)
 
-**Why Are There So Many Options?**
+**Why are there So many options?**
 
-Microsoft has offered a variety of tools to address different use cases for task management, from personal to enterprise. But they have also created a number of overlapping user experiences without providing clarity around which tools communicate with one another, and which do not. This creates a huge amount of confusion for end users, in knowing what tool to use when and finding a way to see a holistic view of all their tasks.
+Microsoft has offered a variety of tools to address different use cases for task management, from personal to enterprise. They have also created a number of overlapping user experiences without providing clarity around which tools communicate with one another, and which do not. This creates a huge amount of confusion for end users, in knowing what tool to use when and finding a way to see a holistic view of all their tasks.
 
-The reality is there is no single **ìbest wayî** to manage tasks, and we are still seeing more options being added (e.g., Loop), without a real coherent strategy to tie these options together.
+The reality is there is no single **‚Äúbest way‚Äù** to manage tasks, and we are still seeing more options being added (e.g., Loop), without a real coherent strategy to tie these options together.
 
 ## Microsoft Planner
 
@@ -31,21 +32,23 @@ The reality is there is no single **ìbest wayî** to manage tasks, and we are sti
 
 ### Pros
 
-- The Kanban ìtask boardî is a tried and tested approach that many recognize and Planner has implemented it well
+- The Kanban ‚Äútask board‚Äù is a tried and tested approach that many recognize and Planner has implemented it well
 - Planner Tasks integrate well with our views in To Do, Teams, and Outlook
-- Support for buckets, progress, labels, assignees, dates, priority, sub-tasks, attachments, comments.
+- Support for buckets, progress, labels, assignees, dates, priority, sub-tasks, attachments, comments
 - Multiple ways to view information (by plan, by bucket, by progress)
 - Tasks can be assigned to multiple people
 - Useful filtering to find what you need
 - Tasks can be copied or moved to other plans
 - Respects underlying group membership
+- Support for checklist within a task
 
 ### Cons
 
 - Has seen some minor updates but nothing significant in quite some time
-- Consolidation across planner plans
-- Little to no extensibility or customization beyond ootb configuration
+- No consolidation across planner plans
+- Little to no extensibility or customization beyond out of the box configuration
 - The API is very poor
+- Ability to create automation of tasks through Power Automate
 
 ## Microsoft Lists
 
@@ -54,17 +57,19 @@ The reality is there is no single **ìbest wayî** to manage tasks, and we are sti
 ### Pros
 
 - Can be customized with endless additional metadata that your task list may require, and it is extremely flexible in terms of layout
-- The Kanban ìtask boardî is a tried and tested approach that many recognize
+- The Kanban ‚Äútask board‚Äù is a tried and tested approach that many recognize
 - Support for attachments, and comments (with @mentions)
-- Can create multiple ways to view information (by plan, by bucket, by progress)
+- Can create multiple ways to view information (by plan, by bucket, by progress, or any other metadata you create)
 - Tasks can be assigned to multiple people
 - Useful filtering to find what you need
 - Extremely flexible in terms of layout
 - Respects underlying site/group membership
+- Ability to centralize tasks across lists with minor customization (using things like Modern PnP Search web part or Highlighted Content web part)
+- Ability to create automation of tasks through Power Automate
 
 ### Cons
 
-- **No built-in integration with other applications (e.g., Planner) therefore the assignment of tasks can easily get lost and end users have no way to see a holistic view of all their tasks across individual Lists**
+- **No built-in integration with other applications (e.g., Planner) therefore the assignment of tasks can easily get lost and end users have no way to see a holistic view of all their tasks across individual Lists (without additional configuration)**
 - Sub-tasks are not built-in and could be challenging to implement
 
 ## Microsoft To Do
@@ -73,18 +78,18 @@ The reality is there is no single **ìbest wayî** to manage tasks, and we are sti
 
 ### Pros
 
-- Provides a consolidated view of Personal Tasks from To Do and Outlook, as well as Team Tasks from Planner Plans. 
-- Allows for the creation of Shared Task Lists outside Planner Plans.
-- Support for lists, categories (web only), hashtags, assignees, dates, importance, sub-tasks, attachments.
+- Provides a consolidated view of Personal Tasks from To Do and Outlook, as well as Team Tasks from Planner Plans
+- Allows for the creation of Shared Task Lists outside Planner Plans
+- Support for lists, categories (web only), hashtags, assignees, dates, importance, sub-tasks, attachments
 - Useful searching to find what you need
 - Built-in notifications
-- Tasks can be moved to the other list
+- Tasks can be moved to other lists
 
 ### Cons
 
-- The appís benefits skew towards Personal Tasks rather than Planner Plans 
-- Little to no extensibility or customization beyond OOTB configuration
-- Can view Planner Plan tasks and ìcompleteî them, but cannot interact with Planner Plans in more meaningful ways (e.g., add new tasks, view tasks by Plan, etc.)
+- The app‚Äôs benefits skew towards Personal Tasks rather than Planner Plans 
+- Little to no extensibility or customization beyond out of the box configuration
+- Can view Planner Plan tasks and ‚Äúcomplete‚Äù them, but cannot interact with Planner Plans in more meaningful ways (e.g., add new tasks, view tasks by Plan, etc.)
 - Personal tasks remain somewhat limited compared to other modern offerings due in large part to the unchanged underling infrastructure
 - View of information remains quite rigid
 
@@ -94,19 +99,19 @@ The reality is there is no single **ìbest wayî** to manage tasks, and we are sti
 
 ### Pros
 
-- Provides a consolidated view of Personal Tasks from To Do and Outlook, as well as Team Tasks from Planner Plans. 
-- Allows for the creation of Shared Task Lists and Planner Plans within existing Channels.
-- Support for categories (web only), assignees, dates, importance, sub-tasks, attachments.
-- Better navigation of Planner Plans, their attached Task Lists, and tasks.
+- Provides a consolidated view of Personal Tasks from To Do and Outlook, as well as Team Tasks from Planner Plans 
+- Allows for the creation of Shared Task Lists and Planner Plans within existing Channels
+- Support for categories (web only), assignees, dates, importance, sub-tasks, attachments
+- Better navigation of Planner Plans, their attached Task Lists, and tasks
 - Access to same views within Planner including List, Board, Charts and Schedule
 - Support for creating new tasks, and reorganizing Planner Plans just like within Planner
 - Notifications in Teams are useful
 
 ### Cons
 
-- The UX can be very overwhelming and the appís benefits skew towards Planner Plans rather than Personal Tasks
+- The user interface can be very overwhelming and the app‚Äôs benefits skew towards Planner Plans rather than Personal Tasks
 - The experience to view personal tasks is not as strong as To Do
-- Little to no extensibility or customization beyond OOTB configuration
+- Little to no extensibility or customization beyond out of the box configuration
 - Personal tasks remain somewhat limited compared to other modern offerings due in large part to the unchanged underling infrastructure
 - View of information remains quite rigid
 
@@ -116,7 +121,7 @@ The reality is there is no single **ìbest wayî** to manage tasks, and we are sti
 
 ### Pros
 
-- Quick and easy to get started which can be useful live in a meeting or in Chat with Self
+- Quick and easy to get started which can be useful live in a meeting or in a Chat with Self
 - Support for assignment and @mentions
 - Tasks can be assigned to multiple people
 
@@ -126,7 +131,7 @@ The reality is there is no single **ìbest wayî** to manage tasks, and we are sti
 - Cannot be used in Teams, only group chats and meetings
 - Can be hard to find after they have been used
 - Initially shared with specific people based on who the chat or meeting was with
-- Sub tasks are not supported
+- Sub-tasks are not supported
 
 ## Microsoft Outlook
 
@@ -134,10 +139,10 @@ The reality is there is no single **ìbest wayî** to manage tasks, and we are sti
 
 ### Pros
 
-- If you like the webís To Do interface, itís another place to access it
-- Allows for the creation of Shared Task Lists outside Planner Plans.
-- Support for lists (classic = folders), categories, assignees, dates, importance, sub-tasks, attachments.
-- Support for categories (web only), assignees, dates, importance, sub-tasks, attachments.
+- If you like the web‚Äôs To Do interface, it‚Äôs another place to access it
+- Allows for the creation of Shared Task Lists outside Planner Plans
+- Support for lists (classic = folders), categories, assignees, dates, importance, sub-tasks, attachments
+- Support for categories (web only), assignees, dates, importance, sub-tasks, attachments
 - Useful searching to find what you need
 - Tasks can be moved to other lists (folders)
 - Built-in notifications
@@ -145,9 +150,9 @@ The reality is there is no single **ìbest wayî** to manage tasks, and we are sti
 ### Cons
 
 - Seems redundant now even though the underlying tasks have not really evolved
-- Odd old UX (classic tasks) still available in desktop client
-- Hashtags donít work in classic
-- Sub-tasks (steps) donít work in classic
+- Odd old user interface (classic tasks) still available in desktop client
+- Hashtags don‚Äôt work in classic
+- Sub-tasks (steps) don‚Äôt work in classic
 
 ## OneNote
 
@@ -166,7 +171,7 @@ The reality is there is no single **ìbest wayî** to manage tasks, and we are sti
 
 ### Notes
 
-- Users can use the commenting feature within to now add ìTasksî to users
+- Users can use the commenting feature within to now add ‚ÄúTasks‚Äù to users
 - Task does issue an email notification to the assignee
 - Tasks are not integrated and are easily lost
 
@@ -188,11 +193,11 @@ The reality is there is no single **ìbest wayî** to manage tasks, and we are sti
 
 ### Notes
 
-- Intended for more thorough PM including resources, schedule, budgets and timelines.
+- Intended for more thorough project management including resources, schedule, budgets and timelines
 - Provides a more modern visual experience, including Kanban view
 - Supports enterprise portfolio management
 - Integration with other task platforms is not great
-- Ranges in cost from USD $10-55 user/month
+- Requires additional licensing
 
 ## Dynamics365 Project Operations
 
@@ -202,7 +207,7 @@ The reality is there is no single **ìbest wayî** to manage tasks, and we are sti
 
 - Project Online features are embedded into Dynamics 365 Project Operations (D365 Project Service Automation)
 - Expands capabilities pre-project into sales and quotes and post-project into expenses, invoicing and more
-- USD $153 user/month
+- Requires additional licensing
 
 ## Viva Goals
 
