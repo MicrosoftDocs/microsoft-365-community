@@ -109,11 +109,11 @@
 ### [Find a SharePoint certified partner](https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support)
 ### [Visit the SharePoint community](https://techcommunity.microsoft.com/t5/SharePoint/ct-p/SharePoint)
 ### [Suggest a feature](https://sharepoint.uservoice.com/)
-## Microsoft Office official documentation
+## Microsoft 365 official documentation
 ### [SharePoint](/sharepoint/)
 ### [Microsoft Teams](/microsoftteams/microsoft-team/s)
 ### [Microsoft 365 Enterprise](/microsoft-365/enterprise/)
 ### [Microsoft 365 Business](/microsoft-365/business/)
-### [All Office documentation](/office/)
+### [All Microsoft 365 documentation](/microsoft-365/)
 ## Contribute
 ### [Learn how to be a community contributor](https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/README.md)
