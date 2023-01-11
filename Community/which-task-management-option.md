@@ -52,7 +52,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ## Microsoft Lists
 
-![Microsoft Lists]](media/task-management-options/Tasks3.png)
+![Microsoft Lists](media/task-management-options/Tasks3.png)
 
 ### Pros - Lists
 
