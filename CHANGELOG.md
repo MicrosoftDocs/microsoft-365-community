@@ -17,10 +17,11 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
+| [The Principles of Communication](./Community/principles-of-communication.md) | [Prige78](https://github.com/Prige78) |
 
 ### New Contributors - January, 2023
 
--
+- [Prige78](https://github.com/Prige78)
 
 ## December, 2022
 
@@ -42,7 +43,7 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - December, 2022
 
--  [David Francoeur](https://www.linkedin.com/in/dfrancoeur/)
+- [David Francoeur](https://www.linkedin.com/in/dfrancoeur/)
 
 ## November, 2022
 
