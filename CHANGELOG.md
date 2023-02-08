@@ -6,6 +6,24 @@
 
 Note: Changelog started in January, 2021
 
+## February, 2023
+
+### New Articles - February, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - February, 2023
+
+| Article | Updated By |
+|---|---|
+|[Should everyone create Teams? A Low Code Provisioning solution](./Community/should-everyone-create-teams.md)| [Rene Modery](https://www.linkedin.com/in/modery/)|
+|[Why SharePoint Training is Important](./Community/why-sharepoint-training-is-important.md)| [Rene Modery](https://www.linkedin.com/in/modery/)|
+
+### New Contributors - February, 2023
+
+-
+
 ## January, 2023
 
 ### New Articles - January, 2023
