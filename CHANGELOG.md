@@ -35,11 +35,11 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
-| [The Principles of Communication](./Community/principles-of-communication.md) | [Anthony Prigent](https://github.com/Prige78](http://linkedin.com/in/anthony-prigent-0a16a93) |
+| [The Principles of Communication](./Community/principles-of-communication.md) | [Anthony Prigent](http://linkedin.com/in/anthony-prigent-0a16a93) |
 
 ### New Contributors - January, 2023
 
-- [Anthony Prigent](https://github.com/Prige78](http://linkedin.com/in/anthony-prigent-0a16a93)
+- [Anthony Prigent](http://linkedin.com/in/anthony-prigent-0a16a93)
 
 ## December, 2022
 
