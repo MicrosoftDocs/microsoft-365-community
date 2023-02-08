@@ -58,7 +58,7 @@ Go to forms.microsoft.com and set up a form to ask which training sessions the u
 
 ### Flow to send session invitations
 
-Go to flow.microsoft.com and create a new flow without a template. Use the "When a new response is submitted" trigger from Forms, then the  "Get the response details" of the form add a filter query to get the right event from the calendar, then update the event by adding the user to it.
+Go to [make.powerautomate.com](https://make.powerautomate.com) and create a new flow without a template. Use the "When a new response is submitted" trigger from Forms, then the  "Get the response details" of the form add a filter query to get the right event from the calendar, then update the event by adding the user to it.
 
 ![Image of session invitation flow.](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-flow-session-invitation.png)
 
@@ -95,7 +95,7 @@ Choose **Number** as the data type for the first three, and **Single line of tex
 
 ### Flow to log tests in a SharePoint list
 
-This Power Automate flow creates items in our SharePoint list. Go to flow.microsoft.com and click TEMPLATES, search for the "Record form responses in SharePoint" template.
+This Power Automate flow creates items in our SharePoint list. Go to [make.powerautomate.com](https://make.powerautomate.com) and click TEMPLATES, search for the "Record form responses in SharePoint" template.
 
 ### SharePoint list to log Teams requests
 
