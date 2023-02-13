@@ -46,12 +46,12 @@
 ### [Versioning in SharePoint](versioning-basics-best-practices.md)
 ### [Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions.](permission-model-differences.md)
 ### [Importing Data](importing-data.md)
-### [Benefits of using PowerShell with SharePoint](benefits-of-using-powershell-with-sharepoint.md)
 ### [SharePoint Naming Guidelines](sharepoint-naming-guidelines.md)
 ### [Why SharePoint Training is Important](why-sharepoint-training-is-important.md)
 ### [Building great content for your Intranet](intranet-content-sources.md)
 ### [Identifying Your SharePoint Champions](identifying-your-sharepoint-champions.md)
 ### [Empowering Your SharePoint Champions](empowering-your-SharePoint-champions.md)
+### [File Naming on an Intranet](file-naming-intranet.md)
 ## Information Architecture
 ### [Information Architecture - Site Topology](information-architecture-site-topology.md)
 ### [Information Architecture - Managed Metadata vs Lookup columns](information-architecture-managed-metadata-vs-lookup-column.md)
@@ -95,6 +95,7 @@
 ## Automation
 ### [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
 ### [Should everyone create Teams? A Low Code Provisioning solution](should-everyone-create-teams.md)
+### [Benefits of using PowerShell with SharePoint](benefits-of-using-powershell-with-sharepoint.md)
 ## Security
 ### [Managing SharePoint Online Security: A Team Effort](sharepoint-security-a-team-effort.md)
 ### [Basic Security Set Up for Microsoft 365](basic-security-set-up-for-microsoft-365.md)
