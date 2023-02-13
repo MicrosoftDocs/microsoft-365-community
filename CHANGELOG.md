@@ -12,6 +12,7 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
+| [File Naming on an Intranet](./Community/file-naming-intranet.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 
 ### Updated Articles - February, 2023
 
