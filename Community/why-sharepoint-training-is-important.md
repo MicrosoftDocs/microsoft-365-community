@@ -1,4 +1,5 @@
 ---
+ms.date: 04/25/2020
 title: Why SharePoint Training is Important
 author: veronicageek
 ms.reviewer: daisyfeller
@@ -143,3 +144,4 @@ Having someone explain 'how' to do things in SharePoint will only put users at e
 ---
 
 **Principal author**: [Veronique Lengelle, MVP](https://www.linkedin.com/in/veronique-lengelle-48a71b31)
+
