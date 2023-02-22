@@ -1,4 +1,5 @@
 ---
+ms.date: 04/19/2020
 title: Should I store my files in Microsoft Teams or in SharePoint? An understanding of behind the scenes
 author: veronicageek
 ms.reviewer: daisyfeller
@@ -78,3 +79,4 @@ Yes. Wherever you are making changes to files and documents, they are saved. And
 ---
 
 **Principal author**: [Veronique Lengelle, MVP](https://www.linkedin.com/in/veronique-lengelle-48a71b31)
+

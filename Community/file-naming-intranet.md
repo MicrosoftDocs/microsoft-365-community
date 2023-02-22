@@ -18,7 +18,7 @@ ms.collection: M365Community
 
 ## Basic Idea
 
-Over time, you'll want to keep the documents you offer the organization up to date. One problem you'll run into is SharePoint thinking files with different names are totally different, when in fact you want them to be consideredversions of the same file.
+Over time, you'll want to keep the documents you offer the organization up to date. One problem you'll run into is SharePoint thinking files with different names are totally different, when in fact you want them to be considered versions of the same file.
 
 ## Examples of Bad Filenames
 
@@ -30,7 +30,7 @@ Since the names contain the revision date, when the next iteration of the file i
 
 ## Better practice
 
-Instead, name your documents based only on what they are. For example, rather than **Change in Terms Procedure Rev 12.15.2021.PDF**, use just **Change in Terms Procedure.PDF**.
+Instead, name your documents based only on what they are. For example, rather than **Change in Terms Procedure Rev 12.15.2021.PDF**, just use **Change in Terms Procedure.PDF**.
 
 Anyone who finds the document shouldn't have to worry about whether it is current or not: only the most current version should be available on your Intranet. (There may be exceptions to this, but it is generally the case.) As a Site Owner, this is one of your resposibilities: keeping your content current and valid.
 
