@@ -20,10 +20,12 @@ Note: Changelog started in January, 2021
 |---|---|
 |[Should everyone create Teams? A Low Code Provisioning solution](./Community/should-everyone-create-teams.md)| [Rene Modery](https://www.linkedin.com/in/modery/)|
 |[Why SharePoint Training is Important](./Community/why-sharepoint-training-is-important.md)| [Rene Modery](https://www.linkedin.com/in/modery/)|
+| [Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.md) | [Tetsuya Kawahara, MVP](https://www.linkedin.com/in/tetsuya-kawahara-730498180/) |
+| [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | [Valeras Narbutas](https://www.linkedin.com/in/valerasnarbutas/) |
 
 ### New Contributors - February, 2023
 
--
+- [Valeras Narbutas](https://www.linkedin.com/in/valerasnarbutas/)
 
 ## January, 2023
 
@@ -41,6 +43,7 @@ Note: Changelog started in January, 2021
 ### New Contributors - January, 2023
 
 - [Anthony Prigent](http://linkedin.com/in/anthony-prigent-0a16a93)
+- [Tetsuya Kawahara, MVP](https://www.linkedin.com/in/tetsuya-kawahara-730498180/)
 
 ## December, 2022
 
