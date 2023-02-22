@@ -87,6 +87,14 @@ Lists usually only have Major versions.
 * Limiting the number of versions is generally a good practice. It means you can conserve space on the server and reduce clutter for users. But, if your organization is required to save all versions for legal or other reasons, don’t apply any limits.
 * As best practice PST files should not be uploaded on OneDrive for Business and SharePoint Online team site document libraries due to the impact on storage. If PST files are uploaded the service will retain versions for 30 days.
 
+## Versioning with autosave and co-authoring
+
+By default, SharePoint saves a version of a document every time a user clicks the "Save" button. However, if autosave is turned on, SharePoint will automatically save a version of the document every few minutes.
+
+When co-authoring is enabled in SharePoint, multiple users can work on the same document simultaneously. Each user's changes are tracked and saved as a new version. When a user saves changes to a document that is being co-authored, SharePoint will save a new version of the document that includes all of the changes made by all co-authors.
+
+It's important to note that co-authoring can have an impact on versioning in SharePoint. If multiple users are working on the same document at the same time, it can be difficult to keep track of who made which changes and when. SharePoint does its best to track changes and create new versions as needed, but it's still important for users to communicate and coordinate when co-authoring to ensure that changes are properly tracked and versioned.
+
 ### Further Reading
 
 * Microsoft: [Planning Versioning, Content Approval](/sharepoint/governance/versioning-content-approval-and-check-out-planning) & [How does versioning work in a SharePoint list or library](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
