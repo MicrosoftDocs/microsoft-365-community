@@ -202,7 +202,7 @@ The list/library view filtering capabilities are extensive. These articles go in
 
 ## View search vertical immediately
 
-After enabling or updating the search vertical, there is a delay of several hours before the changes can be seen on the search page. In that case, you can add `cacheClear=true` to the URL to view the changes immediately.
+After enabling or updating the search vertical, there is a delay of several hours before the changes can be seen on the search page. In that case, you can add `cacheClear=true` to the URL in SharePoint to view the changes immediately.
 
 Read the official documentation on [View the vertical in the search result page](/microsoftsearch/manage-verticals#view-the-vertical-in-the-search-result-page).
 
