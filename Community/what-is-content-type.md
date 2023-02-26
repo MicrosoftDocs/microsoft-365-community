@@ -46,7 +46,7 @@ We don't add these metadata columns just for fun. We decide to collect the metad
 
 ## Extra Detail
 
-Content Types can be defined in an individual site, in the Content Type Hub, or using Site Scripts. We make this choice based on the *scope* where we want to use the Content Type. We may have a Content Type which only makes sense in the context of a single site, like perhaps a Benefits Description in the Human Resources site. Other Content Types may have utility across the tenant, like perhaps a Contract, if we want each department to store and manage their Contracts in their own sites.
+Content Types can be defined in an individual site, in the Content Type Hub, or using Site Templates. We make this choice based on the *scope* where we want to use the Content Type. We may have a Content Type which only makes sense in the context of a single site, like perhaps a Benefits Description in the Human Resources site. Other Content Types may have utility across the tenant, like perhaps a Contract, if we want each department to store and manage their Contracts in their own sites.
 
 ## Summary
 

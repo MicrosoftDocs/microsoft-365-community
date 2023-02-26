@@ -78,7 +78,7 @@ At this level you can expect the following:
 
 Processes are documented or managed by a central group to enable (but not enforce) the preferred ways of communicating. Some processes are repeatable, possibly with consistent results. Process discipline is unlikely to be rigorous, but where it exists it may help to ensure that existing processes are maintained during times of stress.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 Governance, Risk, Compliance & Security
 
@@ -141,7 +141,7 @@ Users experience consistency in core communication and know where to go for spec
 
 The communication process is actively managed in accordance with agreed processes, and the governance is well-defined, widely understood, and followed. Metrics are in place to track communication effectiveness.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
+**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### 400 Governance, Risk, Compliance & Security
 
@@ -258,15 +258,22 @@ Organizations should define their desired maturity, based on their needs, circum
 
 Every organization can choose how best to use the Microsoft 365 platform for communication. The best answer for a large multi-national conglomerate would make little sense for a five-person financial advisory firm. The Microsoft 365 apps and services that are in the mix for communication include the following:
 
+- Email
+- Delve / people cards
+- Mobile device notifications (via Flow, Teams etc.)
+- Microsoft Teams
 - SharePoint Communication Sites
 - SharePoint News / News Digests
 - Stream
-- Yammer
-- Teams posts, chats and notifications
 - Sway
-- Email
-- Mobile device notifications (via Flow, Teams etc.)
-- Other mobile clients
+- Viva Amplify
+- Viva Connections
+- Viva Engage
+- Viva Goals
+- Viva Insights
+- Viva Pulse
+- Viva Topics
+- Yammer
 
 ## Resources
 

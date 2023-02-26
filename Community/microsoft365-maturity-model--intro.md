@@ -47,20 +47,20 @@ In developing a maturity model for Microsoft 365 we aimed to create a toolkit wh
 
 ### Published
 
+- [Business Process](microsoft365-maturity-model--business-process.md)
 - [Collaboration](microsoft365-maturity-model--collaboration.md)
 - [Communication](microsoft365-maturity-model--communication.md)
+- [Customization & Development](microsoft365-maturity-model--customization-and-development.md)
+- [Governance, Risk, and Compliance](microsoft365-maturity-model--governance-and-compliance.md)
+- [Infrastructure](microsoft365-maturity-model--infrastructure.md)
+- [Management of Content](microsoft365-maturity-model--management-of-content.md)
 - [People & Communities](microsoft365-maturity-model--people-and-communities-competency.md)
 - [Search](microsoft365-maturity-model--search.md)
 - [Staff & Training](microsoft365-maturity-model--staff-and-training.md)
-- [Business Process](microsoft365-maturity-model--business-process.md)
-- [Management of Content](microsoft365-maturity-model--management-of-content.md)
-- [Customization & Development](microsoft365-maturity-model--customization-and-development.md)
-- [Governance, Risk, and Compliance Competency](microsoft365-maturity-model--governance-and-compliance.md)
 
 ### In progress
 
 - Data & Analytics
-- Infrastructure
 
 ## Maturity Levels
 
@@ -120,7 +120,7 @@ Productive, interactive, responsive, enhanced, effective, adaptable, quality
 
 Optimal, systematic, statistical, improvement-focus, automated, assured, proactive
 
-## What's Next?
+## What's next?
 
 The goal of expanding the SPMM to the Microsoft 365 level is to help practitioners in the community think through how they can improve their capabilities or decide which capabilities matter most to them. These decisions should be based not just on the technology capabilities themselves, but driven by specific outcome objectives derived from the organizational strategy, possibly at a reasonably granular level as well as at the over-arching organization level.
 

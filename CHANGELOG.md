@@ -6,6 +6,143 @@
 
 Note: Changelog started in January, 2021
 
+## February, 2023
+
+### New Articles - February, 2023
+
+| Article | Principal Author |
+|---|---|
+| [File Naming on an Intranet](./Community/file-naming-intranet.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+
+### Updated Articles - February, 2023
+
+| Article | Updated By |
+|---|---|
+|[Should everyone create Teams? A Low Code Provisioning solution](./Community/should-everyone-create-teams.md)| [Rene Modery](https://www.linkedin.com/in/modery/)|
+|[Why SharePoint Training is Important](./Community/why-sharepoint-training-is-important.md)| [Rene Modery](https://www.linkedin.com/in/modery/)|
+| [Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.md) | [Tetsuya Kawahara, MVP](https://www.linkedin.com/in/tetsuya-kawahara-730498180/) |
+| [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | [Valeras Narbutas](https://www.linkedin.com/in/valerasnarbutas/) |
+
+### New Contributors - February, 2023
+
+- [Valeras Narbutas](https://www.linkedin.com/in/valerasnarbutas/)
+
+## January, 2023
+
+### New Articles - January, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - January, 2023
+
+| Article | Updated By |
+|---|---|
+| [The Principles of Communication](./Community/principles-of-communication.md) | [Anthony Prigent](http://linkedin.com/in/anthony-prigent-0a16a93) |
+
+### New Contributors - January, 2023
+
+- [Anthony Prigent](http://linkedin.com/in/anthony-prigent-0a16a93)
+- [Tetsuya Kawahara, MVP](https://www.linkedin.com/in/tetsuya-kawahara-730498180/)
+
+## December, 2022
+
+### New Articles - December, 2022
+
+| Article | Principal Author |
+|---|---|
+| [Using Shared Channels for External Collaboration](./Community/using-shared-channels-for-external-collaboration.md) | [David Francoeur](https://www.linkedin.com/in/dfrancoeur/) |  
+| [Using Shared Channels for Internal Collaboration](./Community/using-shared-channels-for-internal-collaboration.md) | [David Francoeur](https://www.linkedin.com/in/dfrancoeur/) |
+| [Microsoft Teams Naming Best Practices](./Community/microsoft-teams-naming-importance.md) | [David Francoeur](https://www.linkedin.com/in/dfrancoeur/) |
+| [Using Microsoft Identity Governance to Perform Guest Reviews](./Community/performing-guest-reviews.md) | [David Francoeur](https://www.linkedin.com/in/dfrancoeur/) |
+| [List Formatting 101](./Community/list-formatting-101.md) | [David Francoeur](https://www.linkedin.com/in/dfrancoeur/) |
+| [What Task Management Tool is Right For Me](./Community/which-task-management-option.md) | [David Francoeur](https://www.linkedin.com/in/dfrancoeur/) |
+
+### Updated Articles - December, 2022
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - December, 2022
+
+- [David Francoeur](https://www.linkedin.com/in/dfrancoeur/)
+
+## November, 2022
+
+### New Articles - November, 2022
+
+| Article | Principal Author |
+|---|---|
+| [Use the Government Cloud for SharePoint and Microsoft 365](government-cloud.md) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
+| [Maturity Model for Microsoft 365 - Infrastructure Competency](./Community/microsoft365-maturity-model--infrastructure.md) | MM4M365 Core Team |
+
+### Updated Articles - November, 2022
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - November, 2022
+
+- [Sharon Weaver](https://www.linkedin.com/in/sharonweaver/)
+
+## October, 2022
+
+### New Articles - October, 2022
+
+| Article | Principal Author |
+|---|---|
+| [Taking Advantage of the Content Type Inheritance Model in SharePoint](./Community/taking-advantage-content-type-inheritance-sharepoint.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+
+### Updated Articles - October, 2022
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Business Process Competency](./Community/microsoft365-maturity-model--business-process.md) | MM4M365 Core Team |
+| [Maturity Model for Microsoft 365 - Collaboration Competency](./Community/microsoft365-maturity-model--collaboration.md) | MM4M365 Core Team |
+| [Maturity Model for Microsoft 365 - Communication Competency](./Community/microsoft365-maturity-model--communication.md) | MM4M365 Core Team |
+| [Maturity Model for Microsoft 365 - Customization and Development Competency](./Community/microsoft365-maturity-model--customization-and-development.md) | MM4M365 Core Team |
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | MM4M365 Core Team |
+| [Maturity Model for Microsoft 365 - Staff & Training Competency](./Community/microsoft365-maturity-model--staff-and-training.md) | MM4M365 Core Team |
+| [Living Large with Large Lists and Large Libraries](./Community/large-lists-large-libraries-in-SharePoint.md) | [Trevor Seward, MVP](https://www.linkedin.com/in/trevorseward/) |
+| [Groups in Microsoft 365 and Azure, and Which is Right for You](./Community/all-about-groups.md) | [Tee Earls](https://www.linkedin.com/in/teeearls/) |
+
+### New Contributors - October, 2022
+
+- [Tee Earls](https://www.linkedin.com/in/teeearls/)
+
+## September, 2022
+
+### New Articles - September, 2022
+
+| Article | Principal Author |
+|---|---|
+| [Maturity Model for Microsoft 365 and Teams Development](./Community/maturity-model-microsoft365-teams-development.md) | [Albert-Jan Schot](https://www.linkedin.com/in/albertjanschot) |
+
+### Updated Articles - September, 2022
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - September, 2022
+
+- [Albert-Jan Schot](https://www.linkedin.com/in/albertjanschot)
+
+## August, 2022
+
+### New Articles - August, 2022
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - August, 2022
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - August, 2022
+
+-
+
 ## July, 2022
 
 ### New Articles - July, 2022
@@ -22,6 +159,7 @@ Note: Changelog started in January, 2021
 | [Working with modern client-side pages using PnP PowerShell](./Community/working-with-modern-clientside-pages-using-pnp-powershell.md)|[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson), [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
 | [Maturity Model for Microsoft 365 - Communication Competency](./Community/microsoft365-maturity-model--communication.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson), [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [Maturity Model for Microsoft 365 - Introduction](./Community/microsoft365-maturity-model--intro.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/), [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+| Maturity Model Articles (Various) | [Simon Doy](https://www.linkedin.com/in/simondoy/) |
 
 ### New Contributors - July, 2022
 

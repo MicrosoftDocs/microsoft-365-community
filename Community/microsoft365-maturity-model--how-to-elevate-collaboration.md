@@ -23,7 +23,7 @@ ms.collection: M365Community
 The [Collaboration Competency article](/microsoft-365/community/microsoft365-maturity-model--collaboration) provides an overview of communication concepts within Microsoft 365 and details for each of the five maturity levels from Initial to Optimizing (100 through 500). It adopts a broad, technology-agnostic approach to the business characteristics of communication plus the expected benefits.
 This article explores how organizations at any level could use the Microsoft 365 suite (and associated technologies) to reach a higher maturity level.
 
-## How to move from Initial to Repeatable (Level 100 to 200)
+## How to move from Initial to Managed (Level 100 to 200)
 
 Organizations at the 100 level in many cases have completed the first move into Microsoft 365 as a simple migration of shared folders on a file server into [SharePoint](/sharepoint/introduction). At this level, most collaboration occurs in an unstructured way, unsupported by specific technologies. Task and document collaboration together with knowledge exchange in conversations take place via email or phone, or in person in physical meetings. There is minimal tracking, and an over-reliance on real-time, co-located, in person working.
 The following are potential approaches to moving from this level of collaboration to more structured and effective methods of collaboration:
@@ -63,7 +63,7 @@ This might include adding Status and Categorization columns and grouping and fil
 - Reinforce the benefits of using the recommended tools and approaches. Call out successes and share stories of issues and near misses associated with level 100 characteristics. At this stage, anecdotes are critical.
 - Encourage good practice, discourage older approaches. Consider incentives and disincentives for these. It may take a while to get these incentives into place, generally at a higher maturity level.
 
-## How to move from Repeatable to Defined (Level 200 to 300)
+## How to move from Managed to Defined (Level 200 to 300)
 
 At the 200 level, the focus tends to be on document and file collaboration; workspaces ([Microsoft Teams](https://support.microsoft.com/teams), SharePoint, etc.) start to have defined structures and content rules based on specific goals. Each team decides how to best collaborate within that workspace, though there is little reuse and minimal consistency outside each group. Lifecycle management begins to be a consideration in collaboration practices.
 
@@ -104,7 +104,7 @@ For example, all team sites focused on projects for a specific product may have 
 - Review the documents used for tracking and current business processes to map the information needs to capabilities within Microsoft 365 (like [Microsoft Lists](https://www.microsoft.com/microsoft-365/microsoft-lists), [Planner](https://www.microsoft.com/microsoft-365/business/task-management-software), [Project](https://www.microsoft.com/microsoft-365/project/project-management-software), and [To Do](https://www.microsoft.com/microsoft-365/microsoft-to-do-list-app) to identify the best solution). Begin beta tests within working groups to evaluate the transition to these new options that can integrate into their existing team sites.
 - Establish common Buckets and Tags in Planner to ensure both consistency and ease of use for staff operating across multiple plans. Where appropriate, align these with document categories.
 
-## How to move from Defined to Managed to (Level 300 to 400)
+## How to move from Managed to Predictable to (Level 300 to 400)
 
 Organizations at the 300 level being to find commonality across teams driving how workspaces are created and set up. Sites or Teams are created based on the type of work which will be done rather than just using out of the box templates. Document templates exist within the workspaces or are available from a wider intranet.
 The process of collaboration is well defined and agreed as a standard – and understood - business process. There are sets of defined and documented standard processes established, signed off, in use and subject to some degree of improvement over time. The processes may not have been systematically or repeatedly used to the extent needed for their users to become fully competent or the process to be validated in a range of situations, hence there are gaps in adoption and consistency. This could be considered a developmental stage - with use in a wider range of conditions and user competence development the process can develop to next level of maturity.
@@ -136,7 +136,7 @@ The process of collaboration is well defined and agreed as a standard – and un
 
 - Collaboration Leads train the organization on better collaboration practices extending past document management and other integrated solutions in Microsoft 365. More formal support is added to ensure all collaborators have a deep understanding of where to communicate during collaboration and how to track tasks across projects. The focus in this training is improving productivity within and outside the organization with an emphasis on the common mistakes or challenges that have been tracked.
 
-## How to move from Managed to Optimizing (Level 400 to 500)
+## How to move from Predictable to Optimizing (Level 400 to 500)
 
 At the 400 level, a more strategic view of platform apps and services leads to a mixed-use set of solutions. Collaborative opportunities exist not just to facilitate ongoing work, but also to support areas of interest, centers of excellence, etc. These opportunities lead to serendipitous connections between people who might not have found each other before. Usage of the technology may also drive performance improvement efforts, since high functioning teams usually generate better practice uses of the platform.
 

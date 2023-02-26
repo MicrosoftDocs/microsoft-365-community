@@ -107,7 +107,7 @@ Staff are frustrated with poor functionality but have no mechanism for requestin
 
 Development is characterized by _build to live, though there may be some testing and control within that environment._
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 No Code
 
@@ -218,7 +218,7 @@ There are clear processes and decision support for solution design and road-mapp
 
 Staff are able to work efficiently across the spectrum of solutions and adopt new solutions readily due to their consistency and interoperability. Support-driven insights are used to proactively feedback to solution teams to drive improvements. Upcoming changes are communicated clearly and well in advance.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
+**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### 400 No Code
 
@@ -370,29 +370,29 @@ Customization and development can only contribute maximally to the organization 
 
 ## Common Toolsets
 
-- Microsoft Graph
-- Microsoft Azure
-- SharePoint Framework
-- Power Platform
-- Dataverse for Teams
-- Microsoft Teams App Source
-- Serverless Technologies
-- Azure DevOps
 - Artificial Intelligence / Machine Learning
+- Azure DevOps
+- Dataverse for Teams
+- Microsoft Azure
+- Microsoft Graph
 - Microsoft PnP Frameworks
+- Microsoft Teams App Source
+- Power Platform
+- SharePoint Framework (SPFx)
+- Serverless Technologies
 
 Customizable products and services
 
-- Microsoft Teams
-- SharePoint
-- Forms
-- Project
 - Dynamics
-- Microsoft Office apps
-- Outlook/Exchange Server
-- Visio
+- Microsoft 365 apps
+- Microsoft Forms
 - Microsoft Lists
+- Microsoft Teams
+- Outlook/Exchange Server
 - Power BI
+- Project
+- SharePoint
+- Visio
 
 ## Resources
 

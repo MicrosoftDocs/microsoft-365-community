@@ -1,4 +1,5 @@
 ---
+ms.date: 04/25/2020
 title: Why SharePoint Training is Important
 author: veronicageek
 ms.reviewer: daisyfeller
@@ -46,7 +47,7 @@ And we're only scratching the surface!
 
 ## Integration with other apps
 
-If you're using Microsoft 365, you've surely heard about [Microsoft Teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software), [Power Apps](https://powerapps.microsoft.com/), [Power Automate](https://flow.microsoft.com/), etc... Well, they all integrate with SharePoint. So you can imagine the extent of the possibilities. 🙂
+If you're using Microsoft 365, you've surely heard about [Microsoft Teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software), [Power Apps](https://powerapps.microsoft.com/), [Power Automate](https://make.powerautomate.com/), etc... Well, they all integrate with SharePoint. So you can imagine the extent of the possibilities. 🙂
 
 That being said, we also don't want to scare users. The **goal** is to allow them to work efficiently, taking into consideration that 'The Cloud' is likely a new way of working for most of them, with a product that the higher management decided to go for.
 
@@ -114,7 +115,7 @@ Advanced training _could_ include the following:
 - Sync a library locally
 - Sync OneDrive for Business files locally
 - Co-authoring
-- Create flows using [Power Automate](https://flow.microsoft.com/)
+- Create flows using [Power Automate](https://make.powerautomate.com/)
 - Create, edit, and customize Pages (_i.e.: webparts_)
 - Create content types
 - Create approval workflows
@@ -143,3 +144,4 @@ Having someone explain 'how' to do things in SharePoint will only put users at e
 ---
 
 **Principal author**: [Veronique Lengelle, MVP](https://www.linkedin.com/in/veronique-lengelle-48a71b31)
+

@@ -82,7 +82,7 @@ At this maturity level, many people in the organization are likely to be asking:
 
 At this level, the focus tends to be on document and file collaboration; workspaces (Microsoft Teams, SharePoint, etc.) start to have defined structures and content rules based on specific goals. Each team decides how to best collaborate within that workspace, though there is little reuse and minimal consistency outside each group.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### Process
 
@@ -174,7 +174,7 @@ At this level, the organization sees a path to real ROI for the solution.  There
 
 Rather than focusing on specific point solutions, a more strategic view of platform apps and services leads to a mixed-use set of solutions.  Collaborative opportunities exist not just to facilitate ongoing work, but also to support areas of interest, centers of excellence, etc. These opportunities lead to serendipitous connections between people who might not have found each other before.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
+**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### Culture
 
@@ -313,19 +313,24 @@ With collaboration at its core, the Microsoft 365 platform can be an incredible 
 
 Every organization can choose how best to use the Microsoft 365 platform for collaboration. The best answer for a large multi-national conglomerate would make little sense for a five-person financial advisory firm. The Microsoft 365 apps and services most likely included in the mix for collaboration include the following:
 
+- Excel
+- Loop
 - Microsoft Teams
-- SharePoint
-- Outlook
-- OneNote
 - OneDrive
-- Yammer
-- Office apps (Word, Excel etc)
-
-### Task Management
-
-- Project Online
+- OneNote
+- Outlook
 - Planner
+- PowerPoint
+- Project Online
+- SharePoint Team Sites
 - To Do
+- Viva Engage
+- Viva Goals
+- Viva Insights
+- Viva Sales
+- Viva Topics
+- Word
+- Yammer
 
 ## Resources
 

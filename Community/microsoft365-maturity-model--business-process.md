@@ -82,7 +82,7 @@ At this level you can expect the following:
 
 Organizations at this level are evaluating or implementing technology to help automate some of their processes in a standardized way. As a result, some lines of business may be mapping their processes for the first time, and gaining a true sense of all the steps, dependencies, exceptions, and delays. There is momentum to manage particular processes based on business need and/or process owner enthusiasm. An understanding of the benefits of automation is developing. A particular line of business or department may have successfully leveraged technologies to manage processes and are evangelizing this to other departments.
 
-**[Repeatable level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
+**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### General
 
@@ -158,7 +158,7 @@ At this level you can expect the following:
 
 Organizations at this level have set goals for the process, such as reduced time between steps, lower cost, fewer errors, customer satisfaction, etc., and the process is being measured against these goals. The system is supporting and driving the business process rather than the individuals involved in the process. The results are predictable, and the users have come to depend on the system and no longer feel the need or desire to work around it.
 
-**[Managed level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
+**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### General
 - Workflows on the platform may have connectivity to LOB systems.
@@ -248,15 +248,17 @@ Improving your Business Process maturity requires an investment in business proc
 
 ## Common Microsoft 365 Toolsets
 
-- Planner
-- Project Online
-- Microsoft Lists
-- Power Automate
-- Common Data Service (now Dataverse)
-- Microsoft Forms
-- Power Apps
-- Power Virtual Agents
 - Connectors / Custom Connectors to access other line of business apps and services
+- Dataverse
+- Microsoft Forms
+- Microsoft Lists
+- Planner
+- Power Apps
+- Power Automate
+- Power Virtual Agents
+- Project Online
+- Viva Goals
+- Viva Sales
 
 ## Resources
 

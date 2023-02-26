@@ -34,7 +34,7 @@ People shouldn’t be left wondering if there is more to come. The information c
 
 #### Clarity
 
-The purpose of messages should be clear; worded in such a way that the receiver understands the same thing which the sender wants to convey. Communications shouldn’t leave your team confused. Be clear of what format do you want to say it in. Be clear about your goal or purpose. It is also essential that the receiver is conversant with the language, inherent assumptions, and the mechanics of communication. Typically, sentences should be short, in the active voice and key elements stated it in separate bullet points.
+The purpose of messages should be clear; worded in such a way that the receiver understands the same thing which the sender wants to convey. Communications shouldn’t leave your team confused. Be clear of the format you want to say it in. Be clear about your goal or purpose. It is also essential that the receiver is conversant with the language, inherent assumptions, and the mechanics of communication. Typically, sentences should be short, in the active voice and key elements stated it in separate bullet points.
 
 #### Attention and Style
 

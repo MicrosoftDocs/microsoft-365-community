@@ -8,20 +8,29 @@
 ### [Groups in Microsoft 365 and Azure, and Which is Right for You](all-about-groups.md)
 ### [What kind of apps can you build on Microsoft 365?](type-of-apps-microsoft-365.md)
 ### [Query String URL Tricks for SharePoint and Microsoft 365](query-string-url-tricks-sharepoint-m365.md)
+### [Use the Government Cloud for SharePoint and Microsoft 365](government-cloud.md)
 ## Microsoft 365 Better Practices
 ### [Accessibility by Design](accessibility-by-design.md)
 ### [Content Type Propagation](content-type-propagation.md)
 ### [OneDrive PC Folder Backup Benefits for End Users](known-folder-move-benefits-for-enduser.md)
 ### [Why Microsoft 365 adoption projects fail](why-m365-adoption-projects-fail.md)
+### [Microsoft Teams Naming Best Practices](microsoft-teams-naming-importance.md)
 ## Maturity Model for Microsoft 365
 ### [Overview](index_mm4m365.yml)
-### [Introduction](microsoft365-maturity-model--intro.md)
+#### [Introduction](microsoft365-maturity-model--intro.md)
+#### [Origin Story](microsoft365-maturity-model-origin-story.md)
+### [Business Process Competency](microsoft365-maturity-model--business-process.md)
 ### Collaboration Competency
 #### [Collaboration Competency](microsoft365-maturity-model--collaboration.md)
 #### [Elevating Collaboration](microsoft365-maturity-model--how-to-elevate-collaboration.md)
 ### Communication Competency
 #### [Communication Competency](microsoft365-maturity-model--communication.md)
 #### [Elevating Communication](microsoft365-maturity-model--how-to-elevate-communication.md)
+### [Customization and Development Competency](microsoft365-maturity-model--customization-and-development.md)
+### [Governance, Risk, and Compliance Competency](microsoft365-maturity-model--governance-and-compliance.md)
+### [How to run a Maturity Model for Microsoft 365 workshop](microsoft365-maturity-model--run-workshop.md)
+### [Management of Content Competency](microsoft365-maturity-model--management-of-content.md)
+### [Infrastructure Competency](microsoft365-maturity-model--infrastructure.md)
 ### People and Communities
 #### [People and Communities Competency](microsoft365-maturity-model--people-and-communities-competency.md)
 #### [Elevating People and Communities](microsoft-maturity-model-how-to-people-communities.md)
@@ -29,22 +38,20 @@
 ### Staff & Training
 #### [Staff & Training Competency](microsoft365-maturity-model--staff-and-training.md)
 #### [Elevating Staff and Training](microsoft-maturity-model-how-to-staff-and-training.md)
-### [Business Process Competency](microsoft365-maturity-model--business-process.md)
-### [Management of Content Competency](microsoft365-maturity-model--management-of-content.md)
-### [Customization and Development Competency](microsoft365-maturity-model--customization-and-development.md)
-### [Governance, Risk, and Compliance Competency](microsoft365-maturity-model--governance-and-compliance.md)
-### [How to run a Maturity Model for Microsoft 365 workshop](microsoft365-maturity-model--run-workshop.md)
+### Practical Scenarios
+#### [What are Practical Scenarios?](maturity-model-microsoft365-practical-scenarios.md)
+#### [Maturity Model for Microsoft 365 and Teams Development](maturity-model-microsoft365-teams-development.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
 ### [Versioning in SharePoint](versioning-basics-best-practices.md)
 ### [Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions.](permission-model-differences.md)
 ### [Importing Data](importing-data.md)
-### [Benefits of using PowerShell with SharePoint](benefits-of-using-powershell-with-sharepoint.md)
 ### [SharePoint Naming Guidelines](sharepoint-naming-guidelines.md)
 ### [Why SharePoint Training is Important](why-sharepoint-training-is-important.md)
 ### [Building great content for your Intranet](intranet-content-sources.md)
 ### [Identifying Your SharePoint Champions](identifying-your-sharepoint-champions.md)
 ### [Empowering Your SharePoint Champions](empowering-your-SharePoint-champions.md)
+### [File Naming on an Intranet](file-naming-intranet.md)
 ## Information Architecture
 ### [Information Architecture - Site Topology](information-architecture-site-topology.md)
 ### [Information Architecture - Managed Metadata vs Lookup columns](information-architecture-managed-metadata-vs-lookup-column.md)
@@ -52,6 +59,8 @@
 ### [Creating Useful Views for Lists & Libraries](creating-useful-views-in-lists-libraries.md)
 ### [How Do Site Columns Become Managed Properties - Thus Available for Search?](how-do-site-columns-become-managed-properties-thus-available-for-search.md)
 ### [Document Sets for Fast Legacy Process Automation](document-sets-are-magic.md)
+### [Taking Advantage of the Content Type Inheritance Model in SharePoint](taking-advantage-content-type-inheritance-sharepoint.md)
+### [List Formatting 101](list-formatting-101.md)
 ## Effective Communication
 ### [The Principles of Communication](principles-of-communication.md)
 ### [The Principles of Search](principles-of-search.md)
@@ -68,6 +77,7 @@
 ### [Should I store my files in Microsoft Teams or in SharePoint?](should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md)
 ### [Defining a Power Platform Environment Strategy](defining-a-power-platform-environment-strategy.md)
 ### [Power Automate vs Logic Apps](power-automate-vs-logic-apps.md)
+### [What Task Management Tool is Right For Me](which-task-management-option.md)
 ### Making Good Technology Decisions
 #### [Making Good Technology Decisions: Establishing Decision Criteria](making-good-technology-decisions--establishing-decision-criteria.md)
 #### [Making Good Technology Decisions: Data Storage](making-good-technology-decisions--data-storage.md)
@@ -80,15 +90,19 @@
 ### [Power Automate - Send SharePoint files as attachments](power-automate-send-sharepoint-files-as-attachments.md)
 ### [How can I use Learning Pathways in my organization?](how-can-i-use-learning-pathways-in-my-organization.md)
 ### [Advanced Highlighted Content Web Part](highlighted-content-web-part.md)
+### [Using Shared Channels for External Collaboration](using-shared-channels-for-external-collaboration.md)
+### [Using Shared Channels for Internal Collaboration](using-shared-channels-for-internal-collaboration.md)
 ## Automation
 ### [Working with modern client-side pages using PnP PowerShell](working-with-modern-clientside-pages-using-pnp-powershell.md)
 ### [Should everyone create Teams? A Low Code Provisioning solution](should-everyone-create-teams.md)
+### [Benefits of using PowerShell with SharePoint](benefits-of-using-powershell-with-sharepoint.md)
 ## Security
 ### [Managing SharePoint Online Security: A Team Effort](sharepoint-security-a-team-effort.md)
 ### [Basic Security Set Up for Microsoft 365](basic-security-set-up-for-microsoft-365.md)
 ### [Managing External Guests in SharePoint vs Teams](managing-external-guest-in-SharePoint-vs-Teams.md)
 ### [Teams Shared Channels for Admins](teams-shared-channel-for-admins.md)
 ### [The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1](power-platform-DLP-policies-you-should-be-considering-on-Day-1.md)
+### [Using Microsoft Identity Governance to Perform Guest Reviews](performing-guest-reviews.md)
 ## In Preview
 ### [Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces](yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces.md)
 ## References
@@ -96,11 +110,11 @@
 ### [Find a SharePoint certified partner](https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support)
 ### [Visit the SharePoint community](https://techcommunity.microsoft.com/t5/SharePoint/ct-p/SharePoint)
 ### [Suggest a feature](https://sharepoint.uservoice.com/)
-## Microsoft Office official documentation
+## Microsoft 365 official documentation
 ### [SharePoint](/sharepoint/)
 ### [Microsoft Teams](/microsoftteams/microsoft-team/s)
 ### [Microsoft 365 Enterprise](/microsoft-365/enterprise/)
 ### [Microsoft 365 Business](/microsoft-365/business/)
-### [All Office documentation](/office/)
+### [All Microsoft 365 documentation](/microsoft-365/)
 ## Contribute
 ### [Learn how to be a community contributor](https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/README.md)
