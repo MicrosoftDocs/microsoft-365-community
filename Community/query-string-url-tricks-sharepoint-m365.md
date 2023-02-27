@@ -135,6 +135,21 @@ That's it! Now your SharePoint list displays in Microsoft Lists. This is a great
 >Example:
 > `page.aspx?mykey=myvalue&thisotherkey=someothervalue`
 
+### Redirect users navigation from a List
+
+You can redirect users navigation by including the `?Source=` query string in a list URL. This method could support all those use cases where a user is supposed to click on a link to add a new SharePoint list item. Without the `?Source=` query string, a user would "get stuck" in the the default list view, whereas this query string would help site owners control a user journey.
+
+Example: users visit a SharePoint page containing a link/button/banner to let them fill out a form by adding a new SharePoint list item. The SharePoint page has the following URL: `https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/<yoursitepage.aspx>`
+
+A SharePoint list uses an out-of-the-box .aspx page, to let users fill out a form and add a new item. For example: `https://<yoursite>.sharepoint.com/sites/<sitename>/Lists/<yourlistname>/NewForm.aspx`
+
+After adding a new item, the `?Source=` query string will redirect users to the previous SharePoint page or any other web resource. A new item URL containing the `?Source=` query string would have a structure like this:
+
+`https://<yoursite>.sharepoint.com/sites/<sitename>/Lists/<yourlistname>/NewForm.aspx?Source=https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/<yoursitepage.aspx>`
+
+>[!NOTE]
+> This method works even if a user clicks on the "Cancel" button of a list form! Therefore, a redirect to a "Thank you" page would lead to a misleading and inconsistent result, whereas an e-mail message from a Power Automate flow could be a better option, based on a new list item creation or not.
+
 ### Create a Link to a List or Library Search Result
 
 Within the Modern user interface, the search bar sets its context (or scope) to the List, Library, or site you're in. When you perform a search from a list or library, it appends a query string of the search term to the URL. This link is sharable/bookmarkable.
