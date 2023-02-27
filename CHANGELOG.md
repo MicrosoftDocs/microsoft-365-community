@@ -22,10 +22,12 @@ Note: Changelog started in January, 2021
 |[Why SharePoint Training is Important](./Community/why-sharepoint-training-is-important.md)| [Rene Modery](https://www.linkedin.com/in/modery/)|
 | [Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.md) | [Tetsuya Kawahara, MVP](https://www.linkedin.com/in/tetsuya-kawahara-730498180/) |
 | [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | [Valeras Narbutas](https://www.linkedin.com/in/valerasnarbutas/) |
+| [Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.md) | [Federico Sapia](https://www.linkedin.com/in/federicosapia/) |
 
 ### New Contributors - February, 2023
 
 - [Valeras Narbutas](https://www.linkedin.com/in/valerasnarbutas/)
+- [Federico Sapia](https://www.linkedin.com/in/federicosapia/)
 
 ## January, 2023
 
