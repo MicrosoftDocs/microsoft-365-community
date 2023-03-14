@@ -43,6 +43,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "uhfHeaderId": "MSDocsHeader-M365-IT",
       "breadcrumb_path": "/microsoft-365/community/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "GitHub",
