@@ -20,6 +20,7 @@
 #### [Introduction](microsoft365-maturity-model--intro.md)
 #### [Origin Story](microsoft365-maturity-model-origin-story.md)
 ### [Business Process Competency](microsoft365-maturity-model--business-process.md)
+### [Cognitive Business Competency](microsoft365-maturity-model--cognitive-business.md)
 ### Collaboration Competency
 #### [Collaboration Competency](microsoft365-maturity-model--collaboration.md)
 #### [Elevating Collaboration](microsoft365-maturity-model--how-to-elevate-collaboration.md)
