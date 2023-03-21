@@ -205,12 +205,12 @@ Cognitive business has reached the stage of being a natural, continuous flow of 
 
 #### 500 General
 
--Resources and capabilities in the organization are sufficient to drive rapid and effective cognitive business value. This is supplemented by a broad range of partners and associates with expertise in specific applications of cognitive business. The organization uses these to both rapidly react to changing needs and proactively advance the business in response to strategy and vision.
-Content and document management actively uses automated classification, configured and trained with the organization's information and document set, with continuous retraining and active redesign to incorporate future-looking strategic and tactical changes in the business.
-AI assistants, versed in the knowledge and processes of the organization, are available to all staff to assist with their activities. They also have ‘a seat at the board table’ where they can retrieve relevant information, capture decisions and actions and provide summaries and feedback on the state of both the organization and previous meetings.
-AIs are used in the board room to advise directors/VPs, capture and track decision and actions and summarize and analyze information.
-Advanced human-machine interfaces are in careful use, which may include active monitoring of conversations and activities, prospective advice and insights.
-Cognitive business is built into the organization by design. It pervades staffing criteria, product and process development, sales and marketing strategy and pervades operations.
+- Resources and capabilities in the organization are sufficient to drive rapid and effective cognitive business value. This is supplemented by a broad range of partners and associates with expertise in specific applications of cognitive business. The organization uses these to both rapidly react to changing needs and proactively advance the business in response to strategy and vision.
+- Content and document management actively uses automated classification, configured and trained with the organization's information and document set, with continuous retraining and active redesign to incorporate future-looking strategic and tactical changes in the business
+- AI assistants, versed in the knowledge and processes of the organization, are available to all staff to assist with their activities. They also have ‘a seat at the board table’ where they can retrieve relevant information, capture decisions and actions and provide summaries and feedback on the state of both the organization and previous meetings.
+- AIs are used in the board room to advise directors/VPs, capture and track decision and actions and summarize and analyze information
+- Advanced human-machine interfaces are in careful use, which may include active monitoring of conversations and activities, prospective advice and insights.
+- Cognitive business is built into the organization by design. It pervades staffing criteria, product and process development, sales and marketing strategy and pervades operations.
 
 #### 500 Technology
 
