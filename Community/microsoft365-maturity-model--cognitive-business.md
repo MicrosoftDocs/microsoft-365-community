@@ -12,7 +12,7 @@ description: Maturity Model for Microsoft 365 - Cognitive Business Competency
 ms.collection: SPCommunity
 ---
 
-# Maturity Model for Microsoft 365 - Business Process Competency
+# Maturity Model for Microsoft 365 - Cognitive Business Competency
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
@@ -52,11 +52,11 @@ Chat GPT has this to say about Cognitive Business:
 
 There are many aspects to cognitive business, but an important consideration is how cognitive business enables people and ‘intelligent machines’ to work together. The maturity model considers this alongside the deepening capabilities, integration and governance of AI in organizations.
 
-![AI Spectrum](media/microsoft365-maturity-model--cognitive-business/evolution.png)
+![AI Evolution](media/microsoft365-maturity-model--cognitive-business/evolution.png)
 
 As Satya Nadella has said, AI is moving from Autopilot to Co-Pilot:
 
-![AI Spectrum](media/microsoft365-maturity-model--cognitive-business/Autopilot%20to%20CoPilot.png)
+![Autopilot to CoPilot](media/microsoft365-maturity-model--cognitive-business/Autopilot%20to%20CoPilot.png)
 
 See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
 
@@ -182,7 +182,7 @@ There are processes to build, deploy, integrate and manage AI alongside staff in
 
 #### 400 Governance, Risk, Compliance and Security
 
-- There are policies that define how cognitive business should be introduced, assessed, performance managed and monitored for effectiveness and fairness. [Responsible AI](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai) initiatives and standards form the basis for this.
+- There are policies that define how cognitive business should be introduced, assessed, performance managed and monitored for effectiveness and fairness. [Responsible AI](https://learn.microsoft.com/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai) initiatives and standards form the basis for this.
 - The implications of compliance around AI use are broadly understood and actions are taken to minimize risks relating to regulations, Human Resource obligations etc. A board level role has accountability for responsible, ethical and fair application of AI, ensuring compliance with regulations and values.
 - Training in Cognitive business for staff, management and the leadership team are maintained. This ensures understanding of ethics, compliance, best practice and drives trust. Assessment is used to improve the training and identify staff competency.
 - Training data is reviewed regularly for historical bias and gaps that might compromise the ethics of the AI. There is special care taken with externally sourced and public data that may include such bias.

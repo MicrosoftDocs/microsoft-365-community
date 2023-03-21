@@ -40,7 +40,7 @@ landingContent:
             url: microsoft365-maturity-model--governance-and-compliance.md
 
   # Card (optional)
-  - title: Competencies
+  - title: Competencies - A-L
     linkLists:
       - linkListType: concept
         links:
@@ -58,6 +58,12 @@ landingContent:
             url: microsoft365-maturity-model--governance-and-compliance.md
           - text: Infrastructure Competency
             url: microsoft365-maturity-model--infrastructure.md
+
+  # Card (optional)
+  - title: Competencies - M-Z
+    linkLists:
+      - linkListType: concept
+        links:
           - text: Management of Content Competency
             url: microsoft365-maturity-model--management-of-content.md
           - text: People and Communities Competency
