@@ -6,6 +6,23 @@
 
 Note: Changelog started in January, 2021
 
+## March, 2023
+
+### New Articles - March, 2023
+
+| Article | Principal Author |
+|---|---|
+| [Maturity Model for Microsoft 365 - Cognitive Business Competency](./Community/microsoft365-maturity-model--cognitive-business.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+
+### Updated Articles - March, 2023
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - March, 2023
+
+- 
+
 ## February, 2023
 
 ### New Articles - February, 2023
