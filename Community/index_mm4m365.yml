@@ -36,8 +36,8 @@ landingContent:
     linkLists:
       - linkListType: whats-new
         links:
-          - text: Governance, Risk, and Compliance Competency
-            url: microsoft365-maturity-model--governance-and-compliance.md
+          - text: Cognitive Business Competency
+            url: microsoft365-maturity-model--cognitive-business.md
 
   # Card (optional)
   - title: Competencies - A-L
