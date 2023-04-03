@@ -140,9 +140,12 @@ At level 300, the organization is actively considering how to enhance its knowle
 
 #### 300 Governance, Risk, Compliance and Security
 
-- There is recognition that different solutions are associated with different risk and compliance profiles and can be designed and managed accordingly
-- Quality Systems incorporate key business process solutions, and the solutions are tested for compliance for processes that impact quality
-- New solutions are designed with tracking, performance metrics and out of bounds notifications
+- It is understood that AI needs some level of governance and oversight. This activity is probably vested in the IT team and is not aligned with broader business strategy and policies.
+- The organization develops and models rules of engagement and governance to take advantage of the benefits of the cognitive systems.
+- Governance of all aspects of the cognitive tools is proportionate to the impacts the system has on business and individuals.
+-	It is understood that using public platforms may indirectly place your IP in the public domain. This even applies to asking questions of GPT tools. Staff are briefed on this risk.
+-	[Responsible AI](/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai) standards are consulted when actively planning cognitive systems.
+
 
 #### Level 300 Impacts
 
