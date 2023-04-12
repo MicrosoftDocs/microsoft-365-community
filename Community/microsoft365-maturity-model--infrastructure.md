@@ -21,7 +21,7 @@ ms.collection: M365Community
 
 ![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
 
-## Overview of the Concepts [tl;dr]
+## Overview of the Concepts
 
 Infrastructure is still infrastructure, despite the evolution of the cloud. The principles remain, though the roles and accountability for much of the 'physical' interaction has been handed off to the cloud platform providers. It's important to remember that infrastructure was always about more than the tin and wires, infrastructure encompasses disciplines including networking, security, enterprise architecture, planning, and governance.
 
