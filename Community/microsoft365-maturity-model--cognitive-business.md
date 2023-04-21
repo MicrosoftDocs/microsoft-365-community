@@ -171,6 +171,7 @@ There are processes to build, deploy, integrate and manage AI alongside staff in
 - The level of trust in the tools is understood, continuously re-evaluated and deficiencies addressed.
 - The limits of AI are well understood, and ‘unusual’ cases are handed off to experts. There is a coherent approach to people and AIs working together, with well-defined hand-offs.
 - Source and training data are actively managed to ensure quality, with metrics and active feedback.
+- Expert knowledge workers compile content covering their knowledge so that their AI partners can access this and use it to personalize the content they create for individuals
 
 #### 400 Technology
 
@@ -214,6 +215,7 @@ Cognitive business has reached the stage of being a natural, continuous flow of 
 - AIs are used in the board room to advise directors/VPs, capture and track decision and actions and summarize and analyze information
 - Advanced human-machine interfaces are in careful use, which may include active monitoring of conversations and activities, prospective advice and insights.
 - Cognitive business is built into the organization by design. It pervades staffing criteria, product and process development, sales and marketing strategy and pervades operations.
+- There are active processes for personal and organizational knowledge transfer to AI assistants and partners. This ensure the AIs can use expertise embodied in people and the organsiation to create more informed content, take better decision and act on behalf of people in the system. This may involve something akin to AI Apprenticeships.
 
 #### 500 Technology
 
