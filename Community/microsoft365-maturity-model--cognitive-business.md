@@ -40,7 +40,7 @@ Cognitive Business maturity describes the extent to which organizations have und
 
 At the time of writing, Cognitive business and AI developments are in the Enthusiasts and Visionaries stage. As noted, AI-related technology is changing quickly and use of this competency should reflect that.
 
-Chat GPT has this to say about Cognitive Business:
+ChatGPT has this to say about Cognitive Business:
 
 > “Cognitive business is a term used to describe the integration of cognitive computing technologies, such as artificial intelligence (AI), machine learning, natural language processing, and robotics, into various business processes and decision-making frameworks. It involves leveraging the power of these technologies to enhance business operations, automate tasks, and gain insights from data to drive innovation, improve customer experiences, and increase efficiency.
 
