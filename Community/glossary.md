@@ -858,7 +858,7 @@ If your organization is deploying Location-Based Routing for Direct Routing or d
 
 ### [Non Profit licencing](https://www.microsoft.com/microsoft-365/nonprofit/plans-and-pricing?activetab=tab:primaryr1)
 
-Microsoft Tech for Social Impact is dedicated to providing affordable and accessible technology and tools to help nonprofits of all sizes achieve their missions. That’s why Microsoft offer grants and discounts of their products and services to eligible nonprofits around the world, including Microsoft 365 and Office 365. To qualify for nonprofit grants and discounts, you must hold recognized charitable status in your country and sign Microsoft’s non-discrimination policy. Microsoft reserves the right to verify eligibility at any time and to suspend the service for ineligible organizations.
+Microsoft Tech for Social Impact is dedicated to providing affordable and accessible technology and tools to help nonprofits of all sizes achieve their missions. That’s why Microsoft offer grants and discounts of their products and services to eligible nonprofits around the world, including Microsoft 365 and Office 365. To qualify for nonprofit grants and discounts, you must hold recognized charitable status in your country/region and sign Microsoft’s non-discrimination policy. Microsoft reserves the right to verify eligibility at any time and to suspend the service for ineligible organizations.
 
 ## O
 
