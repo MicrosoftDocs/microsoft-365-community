@@ -838,7 +838,7 @@ In programming, namespaces can be far more complex - like List.Fields within Mic
 
 ### [Named Locations](/azure/active-directory/conditional-access/location-condition#named-locations)
 
-Locations are named in the Azure portal under Azure Active Directory > Security > Conditional Access > Named locations. These named network locations may include locations like an organization's headquarters network ranges, VPN network ranges, or ranges that you wish to block. Named locations can be defined by IPv4/IPv6 address ranges or by countries.
+Locations are named in the Azure portal under Azure Active Directory > Security > Conditional Access > Named locations. These named network locations may include locations like an organization's headquarters network ranges, VPN network ranges, or ranges that you wish to block. Named locations can be defined by IPv4/IPv6 address ranges or by countries/regions.
 
 ### [Network Policy Server (NPS)](/windows-server/remote/remote-access/vpn/always-on-vpn/deploy/vpn-deploy-nps)
 
