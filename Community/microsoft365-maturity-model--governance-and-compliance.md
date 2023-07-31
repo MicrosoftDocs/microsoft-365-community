@@ -32,11 +32,11 @@ The Governance, Risk, and Compliance Competency is focused on helping an organiz
 
 **Risk** enables an organization to evaluate all relevant business and regulatory risks and controls and monitor mitigation actions in a structured manner.
 
-**Compliance** refers to the country, state or federal laws or even multi-national regulations such as GDPR regulations that an organization must follow. These regulations define what types of data must be protected, what processes are required under the legislation, and what penalties are issued to organizations that fail to comply.
+**Compliance** refers to the country/region, state or federal laws or even multi-national regulations such as GDPR regulations that an organization must follow. These regulations define what types of data must be protected, what processes are required under the legislation, and what penalties are issued to organizations that fail to comply.
 
 For Microsoft 365, this means implementing specific policies, operational processes, and technical controls to protect the data in Microsoft and cover some or all of using, storing, sharing, disclosing, erasing and destruction of data. The data should also be secured appropriately to guard against loss, theft and misuse.
 
-Smaller organizations may only need to comply with the baseline general data protection rules that apply to every organization. Other organizations must comply with industry-specific and/ or country specific regulations which may overlap and/or conflict.
+Smaller organizations may only need to comply with the baseline general data protection rules that apply to every organization. Other organizations must comply with industry-specific and/ or country/region specific regulations which may overlap and/or conflict.
 
 Example compliance regulations are:
 
@@ -193,7 +193,7 @@ At this level:
 ### Level 400 - Predictable
 
 At level 400 maturity an organization’s approach to governance and compliance becomes more well defined and acts as a foundation for activity, the focus shifts from extensive written procedures to empowering individual employees to make informed decisions to reinforce the company’s compliance culture. This occurs as a by-product of establishing a culture with high compliance awareness.
-The Compliance framework is now tailored to include an up-to-date and accurate catalog of information and data laws, regulations, and policies by country and is readily accessible to all relevant employees.
+The Compliance framework is now tailored to include an up-to-date and accurate catalog of information and data laws, regulations, and policies by country/region and is readily accessible to all relevant employees.
 An overarching Governance, Risk, and Compliance process, through control, definition, enforcement, and monitoring, has the ability to coordinate and integrate these initiatives.
 Proactive rather than reactive
 
