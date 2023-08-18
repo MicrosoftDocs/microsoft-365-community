@@ -12,7 +12,7 @@ description: "A short guide on the many (many) options for managing tasks in M36
 ms.collection: M365Community
 ---
 
-# So many options
+# Which Task Management Tool is Right For Me
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
