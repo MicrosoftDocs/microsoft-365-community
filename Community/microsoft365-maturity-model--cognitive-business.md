@@ -140,9 +140,12 @@ At level 300, the organization is actively considering how to enhance its knowle
 
 #### 300 Governance, Risk, Compliance and Security
 
-- There is recognition that different solutions are associated with different risk and compliance profiles and can be designed and managed accordingly
-- Quality Systems incorporate key business process solutions, and the solutions are tested for compliance for processes that impact quality
-- New solutions are designed with tracking, performance metrics and out of bounds notifications
+- It is understood that AI needs some level of governance and oversight. This activity is probably vested in the IT team and is not aligned with broader business strategy and policies.
+- The organization develops and models rules of engagement and governance to take advantage of the benefits of the cognitive systems.
+- Governance of all aspects of the cognitive tools is proportionate to the impacts the system has on business and individuals.
+-	It is understood that using public platforms may indirectly place your IP in the public domain. This even applies to asking questions of GPT tools. Staff are briefed on this risk.
+-	[Responsible AI](/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai) standards are consulted when actively planning cognitive systems.
+
 
 #### Level 300 Impacts
 
@@ -205,12 +208,12 @@ Cognitive business has reached the stage of being a natural, continuous flow of 
 
 #### 500 General
 
--Resources and capabilities in the organization are sufficient to drive rapid and effective cognitive business value. This is supplemented by a broad range of partners and associates with expertise in specific applications of cognitive business. The organization uses these to both rapidly react to changing needs and proactively advance the business in response to strategy and vision.
-Content and document management actively uses automated classification, configured and trained with the organization's information and document set, with continuous retraining and active redesign to incorporate future-looking strategic and tactical changes in the business.
-AI assistants, versed in the knowledge and processes of the organization, are available to all staff to assist with their activities. They also have ‘a seat at the board table’ where they can retrieve relevant information, capture decisions and actions and provide summaries and feedback on the state of both the organization and previous meetings.
-AIs are used in the board room to advise directors/VPs, capture and track decision and actions and summarize and analyze information.
-Advanced human-machine interfaces are in careful use, which may include active monitoring of conversations and activities, prospective advice and insights.
-Cognitive business is built into the organization by design. It pervades staffing criteria, product and process development, sales and marketing strategy and pervades operations.
+- Resources and capabilities in the organization are sufficient to drive rapid and effective cognitive business value. This is supplemented by a broad range of partners and associates with expertise in specific applications of cognitive business. The organization uses these to both rapidly react to changing needs and proactively advance the business in response to strategy and vision.
+- Content and document management actively uses automated classification, configured and trained with the organization's information and document set, with continuous retraining and active redesign to incorporate future-looking strategic and tactical changes in the business
+- AI assistants, versed in the knowledge and processes of the organization, are available to all staff to assist with their activities. They also have ‘a seat at the board table’ where they can retrieve relevant information, capture decisions and actions and provide summaries and feedback on the state of both the organization and previous meetings.
+- AIs are used in the board room to advise directors/VPs, capture and track decision and actions and summarize and analyze information
+- Advanced human-machine interfaces are in careful use, which may include active monitoring of conversations and activities, prospective advice and insights.
+- Cognitive business is built into the organization by design. It pervades staffing criteria, product and process development, sales and marketing strategy and pervades operations.
 
 #### 500 Technology
 
