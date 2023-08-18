@@ -109,7 +109,9 @@ In a page it would be:
 
 `https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?env=Embedded`
 
-If your page or list are living on a Hub Site, you may notice the Hub Site navigation will remain when using `env=Embedded`. If this is not desirable, e.g. if you are embedding a page using the embed webpart, you can append `?env=WebView` instead. 
+If your page or list are living on a Hub Site, you may notice the Hub Site navigation will remain when using `env=Embedded`. If this is not desirable, e.g. if you are embedding a page using the embed webpart, you can append `?env=WebView` instead.
+
+**Note:** With SharePoint pages, the Org Chart Web Part does not support working with `?env=WebView`.
 
 ### Show Any SharePoint List as a _Microsoft Lists_ List
 
