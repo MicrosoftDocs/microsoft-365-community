@@ -69,7 +69,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ### Cons - Lists
 
-- **No built-in integration with other applications (e.g., Planner) therefore the assignment of tasks can easily get lost and end users have no way to see a holistic view of all their tasks across individual Lists (without additional configuration)**
+- No built-in integration with other applications (e.g., Planner) therefore the assignment of tasks can easily get lost and end users have no way to see a holistic view of all their tasks across individual Lists (without additional configuration)
 - Sub-tasks are not built-in and could be challenging to implement
 
 ## Microsoft To Do
@@ -127,7 +127,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ### Cons - Microsoft Loop
 
-- **No built-in integration with other applications (e.g., Planner) therefore the assignment of tasks can easily get lost and end users have no way to see a holistic view of all their tasks across individual Lists.**
+- No built-in integration with other applications (e.g., Planner) therefore the assignment of tasks can easily get lost and end users have no way to see a holistic view of all their tasks across individual Lists.
 - Cannot be used in Teams, only group chats and meetings
 - Can be hard to find after they have been used
 - Initially shared with specific people based on who the chat or meeting was with
