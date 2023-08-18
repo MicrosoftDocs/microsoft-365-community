@@ -6,6 +6,92 @@
 
 Note: Changelog started in January, 2021
 
+## August, 2023
+
+### New Articles - August, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - August, 2023
+
+| Article | Updated By |
+|[Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.mdd) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
+
+### New Contributors - August, 2023
+
+-
+
+## July, 2023
+
+### New Articles - July, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - July, 2023
+
+| Article | Updated By |
+|---|---|
+| [Which Task Management Tool is Right For Me](./Community/which-task-management-option.md) | [Ryan Gates]() |
+
+### New Contributors - July, 2023
+
+- [Ryan Gates]()
+
+## June, 2023
+
+### New Articles - June, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - June, 2023
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Cognitive Business Competency](./ommunity/which-task-management-option.md) | [Hiroshi Yoshioka](https://www.linkedin.com/in/hiroshi-yoshioka-766b35165/) |
+
+### New Contributors - June, 2023
+
+- [Hiroshi Yoshioka](https://www.linkedin.com/in/hiroshi-yoshioka-766b35165/)
+
+## May, 2023
+
+### New Articles - May, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - May, 2023
+
+| Article | Updated By |
+|---|---|
+| [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps.md) | [Tyler Farmer](https://www.linkedin.com/in/tylerfarmer1/) |
+
+### New Contributors - May, 2023
+
+- [Tyler Farmer](https://www.linkedin.com/in/tylerfarmer1/)
+
+## April, 2023
+
+### New Articles - April, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - April, 2023
+
+| Article | Updated By |
+|---|---|
+| [List and Library Formatting](./Community/list-formatting-101.md) | [Robert Finkley](https://www.linkedin.com/in/robert-finkley-a0252517/) |
+| [Taking Advantage of the Content Type Inheritance Model in SharePoing](./Community/taking-advantage-content-type-inheritance-sharepoint.md) | [Gaurav Mahajan](https://www.linkedin.com/in/imgauravmahajan/) |
+
+### New Contributors - April, 2023
+
+- [Robert Finkley](https://www.linkedin.com/in/robert-finkley-a0252517/)
+- [Gaurav Mahajan](https://www.linkedin.com/in/imgauravmahajan/)
+
 ## March, 2023
 
 ### New Articles - March, 2023
@@ -21,7 +107,7 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - March, 2023
 
-- 
+-
 
 ## February, 2023
 
