@@ -237,20 +237,19 @@ That same List view, showing only items where the Product column has _Tacos_ ind
 That same List view, showing only items where the Product column has _Pizza_ indicated... and now with a second filter to show where the Tasty column is set to _Yes_:
 `https://<mytenant>.sharepoint.com/Lists/mylist/AllItems.aspx?useFiltersInViewXml=1&FilterField1=Product&FilterValue1=Pizza&FilterField2=Tasty&FilterValue2=0`
 
-Your boss wants it sorted newest to oldest, so go ahead and add the query string to sort by _Modified_ date.
+Your boss wants it sorted newest to oldest, so go ahead and add the query string to sort by _Created_ date.
 
-`https://<mytenant>.sharepoint.com/Lists/mylist/AllItems.aspx?useFiltersInViewXml=1&FilterField1=Product&FilterValue1=Pizza&FilterField2=Tasty&FilterValue2=0sortField=Modified&isAscending=false`
+`https://<mytenant>.sharepoint.com/Lists/mylist/AllItems.aspx?sortField=Created&isAscending=false&useFiltersInViewXml=1&FilterField1=Product&FilterValue1=Pizza&FilterField2=Tasty&FilterValue2=0`
 
 
 
-### FilterField for mulitple values
+### FilterField for multiple values
 
-With a choice column, its possible to return multiple values from a single choice column.  Replace `FilterValue1` with `FilterValues1` and list each choice out sepearated by `%3B%23`
+With a choice column, its possible to return multiple list items/library files from a single query string URL.  Replace `FilterValue1` with `FilterValues1` and list each choice out separated by `%3B%23`
 
 Here's an example of a query string URL on a list view that returns any items where the Status field is either _Better_ or _Good_:
 
 `https://<mytenant>.sharepoint.com/Lists/mylist/AllItems.aspx?useFiltersInViewXml=1&FilterFields1=Status&FilterValues1=Better%3B%23Good`
-
 
 <!-- ### Further FilterField filtering
 
