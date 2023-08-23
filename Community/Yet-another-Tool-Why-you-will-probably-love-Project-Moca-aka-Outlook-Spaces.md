@@ -6,10 +6,10 @@ ms.reviewer: daisyfeller
 manager: pamgreen-msft
 ms.topic: article
 ms.author: daisyfeller
-ms.prod: outlook
 localization_priority:
 description: "Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces"
 ms.collection: M365Community
+ms.service: outlook
 ---
 
 # Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces
