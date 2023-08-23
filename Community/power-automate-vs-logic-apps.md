@@ -127,7 +127,7 @@ For ICT or SME users looking to improve their knowledge, there is a set of cours
 
 What services do you intend to connect with?, are they Office 365?, Azure or 3rd Party API.
 
-This is quite important to work out ahead of time as difference connectors bear a "Premium" or "Enterprise" (in the case of Logic Apps) which affect the overall cost of running the workflow in your decision-making process.
+This is quite important to work out ahead of time as different connectors bear a "Premium" or "Enterprise" (in the case of Logic Apps) which affect the overall cost of running the workflow in your decision-making process.
 
 You may find that within your Office licenses you already have what you need to start building Flows with Power Automate - however for Premium connectors, additional licenses may be required.
 
