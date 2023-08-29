@@ -194,8 +194,7 @@ Read the official documentation on [Disable SPFx web parts and extensions](/shar
 Built into Modern SharePoint and Microsoft Lists and Libraries are some powerful filtering and sorting query string URLs. Below are some examples.
 
 >[!TIP]
-> While the syntax here will help show you the way, you can also build and discover your own query string URLs by using the View's filtering pane. As you check boxes for columns in the pane, observe how the URL changes. These query string URLs are bookmarkable and sharable!
-
+> While the syntax here will help show you the way, you can also build and discover your own query string URLs by using the View's filtering pane. As you toggle boxes for columns in the pane, observe how the URL changes. These query string URLs are bookmarkable and sharable!
 
 ### Sort List and Library views in SharePoint and Microsoft Lists
 
@@ -203,7 +202,7 @@ Within any view, you can add a query string to the URL to sort by a column.  Her
 
 `https://<yoursite>.sharepoint.com/sites/Lists/mylist/AllItems.aspx?sortField=Complete&isAscending=true`
 
-`sortField` is your internal column name, and `isAscending` determines the sort direction (_true_ for ascending, _false_ for descending).
+The `sortField` key is your internal column name, and `isAscending` determines the sort direction (_true_ for ascending, _false_ for descending).
 
 ### Filter Lists and Library views by column values with FilterField and FilterValue
 
@@ -215,71 +214,44 @@ In a list or library, the minimum needed for this type of filter is:
 
 `AllItems.aspx?useFiltersInViewXml=1&FilterField1=<internalFieldName>&FilterValue1=<value>`
 
-(No `<` `>` brackets, you'd type the actual column value. No need for quotes either.)
+(No `<` `>` brackets, you'd type the actual column value.)
 
-- `?useFiltersInViewXml=1` tells the List or Library view that you're appending filtering criteria. This is only needed in SharePoint Online views.
-- `FilterField1=` is the _key_ and needs to be the internal name of the SharePoint column you want to filter by. (If you rename 'Title' to 'Product' in your list, you'll need to use 'Title' in your query string URL.)
+- `?useFiltersInViewXml=1` tells the List or Library view that you're appending filtering criteria.
+- `FilterField1=` is the _key_ and the value needs to be the internal name of the list/library column you want to filter by. (If you rename 'Title' to 'Product' in your list, you'll need to use 'Title' in your query string URL.)
 - When filtering yes/no columns, use the number `0` for _no_ and the number `1` for _yes_.
 - You can filter by multiple keys/values by incrementing the number pairs (up to 10), like this:
-`?useFiltersInViewXml=1&FilterField1=<internalFieldName>&FilterValue1=<value>&FilterField2=<internalFieldName2>&FilterValue2=<value>&FilterField3=<internalFieldName3>&FilterValue3=<value>`
+`?useFiltersInViewXml=1&FilterField1=<internalFieldName>&FilterValue1=<valueA>&FilterField2=<internalFieldName2>&FilterValue2=<valueB>&FilterField3=<internalFieldName3>&FilterValue3=<valueC>`
+
 >[!TIP]
 >You can find out the internal column name by going to List Settings, choosing the column, and looking after the `&Field=` key in the URL. That's using a query string URL to help you make a query string URL!
 
 **Example Scenario using FilterField**
-_You might have a Power Automate Flow set to email a List view status report URL based about a given product in a list… with hundreds of possible products. You wouldn't want to make separate views for each product._
+_You might have a Power Automate Flow set to email a List view status report URL based about a product in a list… with hundreds of possible products. You wouldn't want to make separate views for each product._
 
 To solve this, you start with your All Items view and append URL query strings to create dynamic URLs for your Flow emails:
 `https://<mytenant>.sharepoint.com/Lists/mylist/AllItems.aspx`
 
-That same List view, showing only items where the Product column has _Tacos_ indicated:
+Here's that same List view, showing only items where the _Product_ column is equal to _Tacos_:
 `https://<mytenant>.sharepoint.com/Lists/mylist/AllItems.aspx?useFiltersInViewXml=1&FilterField1=Product&FilterValue1=Tacos`
 
-That same List view, showing only items where the Product column has _Pizza_ indicated... and now with a second filter to show where the Tasty column is set to _Yes_:
-`https://<mytenant>.sharepoint.com/Lists/mylist/AllItems.aspx?useFiltersInViewXml=1&FilterField1=Product&FilterValue1=Pizza&FilterField2=Tasty&FilterValue2=0`
+That same List view, showing only items where the _Product_ column are equal to _Pizza_... and now with a second filter to show where the _Tasty_ column is set to _Yes_:
+`https://<mytenant>.sharepoint.com/Lists/mylist/AllItems.aspx?useFiltersInViewXml=1&FilterField1=Product&FilterValue1=Pizza&FilterField2=Tasty&FilterValue2=1`
 
 Your boss wants it sorted newest to oldest, so go ahead and add the query string to sort by _Created_ date.
 
-`https://<mytenant>.sharepoint.com/Lists/mylist/AllItems.aspx?sortField=Created&isAscending=false&useFiltersInViewXml=1&FilterField1=Product&FilterValue1=Pizza&FilterField2=Tasty&FilterValue2=0`
-
-
+`https://<mytenant>.sharepoint.com/Lists/mylist/AllItems.aspx?sortField=Created&isAscending=false&useFiltersInViewXml=1&FilterField1=Product&FilterValue1=Pizza&FilterField2=Tasty&FilterValue2=1`
 
 ### FilterField for multiple values
 
 With a choice column, its possible to return multiple list items/library files from a single query string URL.  Replace `FilterValue1` with `FilterValues1` and list each choice out separated by `%3B%23`
 
-Here's an example of a query string URL on a list view that returns any items where the Status field is either _Better_ or _Good_:
+Here's an example of a query string URL on a list view that returns any items where the _Status_ field is set to either _Better_ or _Awesome_:
 
-`https://<mytenant>.sharepoint.com/Lists/mylist/AllItems.aspx?useFiltersInViewXml=1&FilterFields1=Status&FilterValues1=Better%3B%23Good`
-
-<!-- ### Further FilterField filtering
-
-Building on the _FilterField_ filtering, there are a few other URL features you can take advantage of.
-
-#### FilterOp=
-
-Usage of this lets you be less explicit in your filtering.  
-
-If we take our example from before:
-`https://<mytenant>.sharepoint.com/Lists/mylist/AllItems.aspx?useFiltersInViewXml=1&FilterField1=Product&FilterValue1=Tacos`
-
-... and add the FilterOps key
-`https://<mytenant>.sharepoint.com/Lists/mylist/AllItems.aspx?useFiltersInViewXml=1&FilterField1=Product&FilterValue1=Tacos&FilterOps1=Neq`
-
-- Eq: equal (default)
-- Neq: not equal
-- Gt: greater than
-- Lt: less than
-- Geq: greater or equal to
-- Leq: less or equal to
-- BeginsWith: Start of a string
-- Contains: Part of a string -->
-
-
+`https://<mytenant>.sharepoint.com/Lists/mylist/AllItems.aspx?useFiltersInViewXml=1&FilterFields1=Status&FilterValues1=Better%3B%23Awesome`
 
 ## Further view filter reading from the experts
 
 The list/library view filtering capabilities are extensive. These articles go into further detail, including filtering with managed metadata.
-
 
 - Nate Chamberlain: [How to filter a SharePoint list or library using URL parameters](https://natechamberlain.com/2020/05/09/how-to-filter-a-sharepoint-list-or-library-using-url-parameters/)
 
