@@ -6,6 +6,22 @@
 
 Note: Changelog started in January, 2021
 
+## September, 2023
+
+### New Articles - September, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - September, 2023
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - September, 2023
+
+-
+
 ## August, 2023
 
 ### New Articles - August, 2023
