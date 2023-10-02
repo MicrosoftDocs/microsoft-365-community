@@ -107,7 +107,7 @@ On this level, people think about what led to the visible event and try to conne
 Digging one level deeper, we see which system supports and influences these patterns:
 
 * What affects these patterns? Where are the connections between practices?
-* On this level, people think about what influences these patterns and try to understand the *Why*, for example: "Working crazy hours, worrying about problems at work, and eating late at night affected my quality of sleep."
+* On this level, people think about what influences these patterns and try to understand the *Why*, for example: "Working many hours, worrying about problems at work, and eating late at night affected my quality of sleep."
 
 #### Level 4: Mental models
 
