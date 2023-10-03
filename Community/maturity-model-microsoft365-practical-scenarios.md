@@ -16,7 +16,9 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-As the Maturity Model for Microsoft 365 has become more well-known, people have found uses for it in many different contexts. In this set of articles, we're gathering examples of the application of the Maturity Model applied to specific content areas or to solve specific problems.
+As the Maturity Model for Microsoft 365 has become more well-known, people have found uses for it in many different contexts. However, practical application of the Maturity Model to specific tasks and needs is not addressed in the Competency or Elevate documents.
+
+The Practical Scenarios set of articles seeks to address this, gathering examples of the application of the Maturity Model applied to specific content areas or to solve specific problems. The hope is that this will provide easily digestible guidance and strategy for focused topics.
 
 As with all aspects of the Maturity Model, we'd love to get your examples and feedback, so if you've found an interesting use and would like to write it up, please do!
 
