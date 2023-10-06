@@ -3,7 +3,7 @@ title: Follow Microsoft 365 on Social Media
 ms.date: 8/23/2020
 author: PathToSharePoint
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365

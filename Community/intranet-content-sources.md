@@ -4,7 +4,7 @@ ms.date: 11/29/2021
 author: pkbullock
 ms.topic: article
 ms.author: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.service: sharepoint-online
 localization_priority: 
 description: Building a new Intranet from scratch, but struggling where to start. This article will go through the sources, patterns and ideas to help you get started.

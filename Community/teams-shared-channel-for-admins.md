@@ -3,7 +3,7 @@ title: Teams Shared Channels for Admins
 ms.date: 5/10/2022
 author: JimmyHang
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: msteams

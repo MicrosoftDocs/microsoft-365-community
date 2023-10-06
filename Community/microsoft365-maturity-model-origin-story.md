@@ -3,7 +3,7 @@ title:  Maturity Model for Microsoft 365 - Origin Story
 ms.date: 7/21/2022
 author: eemancini
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365

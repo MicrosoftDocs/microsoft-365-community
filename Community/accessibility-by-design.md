@@ -3,7 +3,7 @@ title: Accessibility by design
 author: MichaelRoth42
 ms.date: 4/11/2021
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365

@@ -3,7 +3,7 @@ title: Using Site Templates to Manage Project Life Cycles
 ms.date: 3/30/2022
 author: sympmarc
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: sharepoint-online

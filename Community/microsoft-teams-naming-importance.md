@@ -3,7 +3,7 @@ title: The Importance of a Teams Naming Convention
 ms.date: 12/19/2022
 author: dfrancoeur
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365

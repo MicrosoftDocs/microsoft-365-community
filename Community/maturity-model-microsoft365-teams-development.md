@@ -3,7 +3,7 @@ title: Maturity Model for Microsoft 365 and Teams Development
 ms.date: 8/23/2022
 author: appieschot
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365
