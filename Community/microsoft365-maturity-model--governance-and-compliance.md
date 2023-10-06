@@ -3,7 +3,7 @@ title: The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Com
 ms.date: 1/24/2022
 author: nikki-c
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365

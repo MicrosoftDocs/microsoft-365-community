@@ -3,7 +3,7 @@ title: Maturity Model for Microsoft 365 – How to run a Maturity Model for Micr
 ms.date: 08/04/2021
 author: simonjhudson
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: o365-solutions

@@ -3,7 +3,7 @@ title: Query String URL Tricks for SharePoint and Microsoft 365
 ms.date: 03/22/2022
 author: PatD
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: sharepoint-online

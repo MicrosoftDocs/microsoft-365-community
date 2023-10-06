@@ -3,7 +3,7 @@ title: Team Site vs. Communication Site -  Which one should I choose?
 ms.date: 5/1/2020
 author: SusanHanley
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: sharepoint-online

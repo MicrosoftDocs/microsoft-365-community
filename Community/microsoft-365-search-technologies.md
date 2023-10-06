@@ -3,7 +3,7 @@ title: Microsoft 365 Search Technologies
 ms.date: 12/07/2021
 author: davemehr
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365

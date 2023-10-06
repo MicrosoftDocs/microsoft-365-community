@@ -3,7 +3,7 @@ title: Document Sets for Fast Legacy Process Automation
 ms.date: 11/21/2020
 author: PatD
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: sharepoint-online

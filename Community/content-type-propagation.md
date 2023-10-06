@@ -3,7 +3,7 @@ title: Content Type Propagation
 ms.date: 3/8/2022
 author: JimmyHang
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: sharepoint-online
