@@ -12,6 +12,8 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
+| [Maturity Model for Microsoft 365 Practical Scenarios – Servicing Microsoft 365 Apps](./Community/maturity-model-microsoft365-servicing-microsoft365-apps.md) | [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/) |
+| [Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Change Management](./Community/maturity-model-microsoft365-servicing-microsoft365-service-change-management.md) | [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/) |
 
 ### Updated Articles - October, 2023
 
@@ -21,7 +23,7 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - October, 2023
 
-- 
+- [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/)
 
 ## September, 2023
 

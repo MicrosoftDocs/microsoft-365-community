@@ -16,7 +16,7 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-The [Maturity Model for Microsoft 365](/community/microsoft365-maturity-model--intro) is a useful tool for considering high level business capabilities and competencies, providing benchmarking and planning guidance.  However, practical application of the Maturity Model to specific tasks and needs is not addressed in the Competency or Elevate documents. The Practical Scenarios documents seek to address this, providing easily digestible guidance and strategy for focused topics.
+The [Maturity Model for Microsoft 365](microsoft365-maturity-model--intro.md) is a useful tool for considering high level business capabilities and competencies, providing benchmarking and planning guidance.  However, practical application of the Maturity Model to specific tasks and needs is not addressed in the Competency or Elevate documents. The Practical Scenarios documents seek to address this, providing easily digestible guidance and strategy for focused topics.
 
 This Practical Scenarios document covers the servicing (frequent periodic upgrades) for the Office desktop apps (Word, Excel, PowerPoint, Outlook, OneNote, Access, Publisher and any others that appear in future), including those in Microsoft 365 plans, M365 Apps for Enterprise and any other plans that include desktop-installed applications.
 
@@ -33,19 +33,19 @@ Organizations demonstrate increasingly mature Office servicing practices as foll
 1. How many workstations run Office?
 2. How many servers run Office?
 3. What versions and builds of Office are in our environment?
-  1. How does the version and build inventory break down by:
-    1. Server
-      1. What Server OS is on this server?
-      2. Application Development lifecycle – Is this a Development, Test, QA, or Production server?
-        1. Are we servicing and validating Dev/Test/QA first, and Production last?
-      3. Business unit
-      4. Server owner / responsible party
-      5. Application dependent on Office
-      6. Which Office Apps are needed on which servers
-    2. Workstation
-      1. What workstation OS is on this machine
-      2. Application dependent on Office
-      3. Business unit
+      1. How does the version and build inventory break down by:
+            1. Server
+                1. What Server OS is on this server?
+                2. Application Development lifecycle – Is this a Development, Test, QA, or Production server?
+                      1. Are we servicing and validating Dev/Test/QA first, and Production last?
+                3. Business unit
+                4. Server owner / responsible party
+                5. Application dependent on Office
+                6. Which Office Apps are needed on which servers
+            2. Workstation
+                1. What workstation OS is on this machine
+                2. Application dependent on Office
+                3. Business unit
 4. Can we map machines to users? Updates are deployed to machines, but communication about updates are sent to users.
 5. How many machines have been upgraded in this upgrade cycle and in this reporting period? What is the percent complete?
 6. When will we finish this upgrade cycle?
