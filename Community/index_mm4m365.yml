@@ -104,6 +104,10 @@ landingContent:
             url: maturity-model-microsoft365-practical-scenarios.md
           - text: Maturity Model for Microsoft 365 and Teams Development
             url: maturity-model-microsoft365-teams-development.md
+          - text: Maturity Model for Microsoft 365 Practical Scenarios - Servicing Microsoft 365 Apps
+            url: maturity-model-microsoft365-servicing-microsoft365-apps.md
+          - text: Maturity Model for Microsoft 365 Practical Scenarios - Microsoft 365 Service Change Management
+            url: maturity-model-microsoft365-servicing-microsoft365-service-change-management.md
 
   # Card (optional)
   - title: Practitioner Sessions
