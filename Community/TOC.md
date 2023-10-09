@@ -42,6 +42,8 @@
 ### Practical Scenarios
 #### [What are Practical Scenarios?](maturity-model-microsoft365-practical-scenarios.md)
 #### [Maturity Model for Microsoft 365 and Teams Development](maturity-model-microsoft365-teams-development.md)
+#### [Maturity Model for Microsoft 365 Practical Scenarios – Servicing Microsoft 365 Apps](maturity-model-microsoft365-servicing-microsoft365-apps.md)
+#### [Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Change Management](maturity-model-microsoft365-servicing-microsoft365-service-change-management.md)
 ## SharePoint Better Practices
 ### [Site Builder/Owner: New Site Checklist](new-site-checklist.md)
 ### [Versioning in SharePoint](versioning-basics-best-practices.md)
