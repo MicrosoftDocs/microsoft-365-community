@@ -6,6 +6,23 @@
 
 Note: Changelog started in January, 2021
 
+## October, 2023
+
+### New Articles - October, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - October, 2023
+
+| Article | Updated By |
+|---|---|
+| [What are Maturity Model for Microsoft 365 Practical Scenarios?](./Community/maturity-model-microsoft365-practical-scenarios.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+
+### New Contributors - October, 2023
+
+- 
+
 ## September, 2023
 
 ### New Articles - September, 2023
@@ -17,10 +34,11 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
+| [Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.md) | [Luca Bandinelli](https://www.linkedin.com/in/luca-bandinelli-37b209/) |
 
 ### New Contributors - September, 2023
 
--
+- [Luca Bandinelli](https://www.linkedin.com/in/luca-bandinelli-37b209/)
 
 ## August, 2023
 
