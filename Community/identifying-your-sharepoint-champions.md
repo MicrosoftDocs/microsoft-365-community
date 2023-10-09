@@ -3,7 +3,7 @@ title: Identifying Your Microsoft 365 Champions
 ms.date: 3/22/2020
 author: eemancini
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: sharepoint-online

@@ -3,7 +3,7 @@ title: Query String URL Tricks for SharePoint and Microsoft 365
 ms.date: 03/22/2022
 author: PatD
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: sharepoint-online
@@ -183,9 +183,9 @@ Read the official documentation on [View the vertical in the search result page]
 
 ### Debug SharePoint Framework Web Parts and Extensions
 
-You can troubleshoot a SharePoint page to see if there is a SharePoint Framework (SPFx) extension or web part causing trouble. Add this `?disable3PCode=1` to the end of the URL to disable loading anything SPFx-related:
+You can troubleshoot a SharePoint page to see if there is a SharePoint Framework (SPFx) extension or web part causing trouble. Add this `?disable3PCode` to the end of the URL to disable loading anything SPFx-related:
 
-`https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?disable3PCode=1`
+`https://<yoursite>.sharepoint.com/sites/<sitename>/SitePages/default.aspx?disable3PCode`
 
 Read the official documentation on [Disable SPFx web parts and extensions](/sharepoint/dev/general-development/client-side-web-parts-maintenance-mode#disable-spfx-web-parts-and-extensions).
 

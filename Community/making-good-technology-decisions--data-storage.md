@@ -3,7 +3,7 @@ title: "Making Good Technology Decisions: Data Storage"
 ms.date: 3/29/2021
 author: sympmarc
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365

@@ -3,7 +3,7 @@ title: Planning Permissions with Group-based SharePoint Sites... when you're use
 ms.date: 07/01/2020
 author: PatD
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: sharepoint-online

@@ -3,7 +3,7 @@ title: Use the Government Cloud for SharePoint and Microsoft 365
 ms.date: 10/30/2022
 author: PatD
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: sharepoint-online

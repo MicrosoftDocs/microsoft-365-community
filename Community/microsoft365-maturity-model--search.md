@@ -4,7 +4,7 @@ ms.date: 9/3/2020
 author: simonjhudson
 ms.author: daisyfeller
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.service: microsoft-365
 localization_priority:

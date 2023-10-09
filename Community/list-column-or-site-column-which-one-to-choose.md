@@ -3,7 +3,7 @@ title: List columns or Site columns Which one to choose?
 ms.date: 3/3/2020
 author: veronicageek
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: sharepoint-online

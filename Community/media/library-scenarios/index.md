@@ -3,7 +3,7 @@ title: library scenario images
 author: nyoung30
 ms.author: daisyfeller
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.service: o365-solutions
 ---
