@@ -21,12 +21,6 @@ Note: Changelog started in January, 2021
 |---|---|
 | [What are Maturity Model for Microsoft 365 Practical Scenarios?](./Community/maturity-model-microsoft365-practical-scenarios.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
 
-### Removed/retired Articles - October, 2023
-
-| Article | Updated By |
-|---|---|
-| [Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces](./Community/Yet-another-Tool-Why-you-will-probably-love-Project-Moca-aka-Outlook-Spaces.md) | [Luise Freese, MVP](https://www.linkedin.com/in/LuiseFreese)|
-
 ### New Contributors - October, 2023
 
 - [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/)
