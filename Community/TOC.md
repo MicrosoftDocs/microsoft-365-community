@@ -106,8 +106,6 @@
 ### [Teams Shared Channels for Admins](teams-shared-channel-for-admins.md)
 ### [The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1](power-platform-DLP-policies-you-should-be-considering-on-Day-1.md)
 ### [Using Microsoft Identity Governance to Perform Guest Reviews](performing-guest-reviews.md)
-## In Preview
-### [Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces](yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces.md)
 ## References
 ### [FastTrack onboarding and adoption services](https://fasttrack.microsoft.com/office)
 ### [Find a SharePoint certified partner](https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support)
