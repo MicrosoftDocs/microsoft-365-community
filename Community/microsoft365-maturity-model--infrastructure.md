@@ -61,7 +61,7 @@ There may continue to be servers under staff desks, portable hard drives in draw
 - No company-wide business processes are defined.
 - No consideration has been given to backup, data recovery, and business continuity.
 - Software is largely installed locally and manually, mostly by users.
-- Directory services are often not used (AD and/or AAD for example), with staff able to use local or unmanaged identities.
+- Directory services are often not used (AD and/or Microsoft Entra ID for example), with staff able to use local or unmanaged identities.
 
 #### 100 Technology
 
@@ -122,7 +122,7 @@ Processes are documented or widely understood to enable (but not enforce) the pr
 - Onboarding or offboarding processes tend to be manual and are often overlooked or delayed. Role Based Access is attempted, but not well designed. These can lead to inappropriate or absent user access to resources.
 - Backup, data recovery and business continuity are in place, but are not routinely tested and do not take future needs into account. Applications can be recovered manually from scheduled backups or redeployed via manual intervention if a failure happens, in the event of a total loss in a region the application and its dependent virtual infrastructure can be recovered from backup, backups are tested occasionally in isolation but falls short of a full business continuity test.
 - Updates and changes are batched up into monolithic releases applied periodically, however the impacts of downtime and user productivity are not carefully considered.
-- Directory services are in use (Active Directory and/or Azure Active Directory for example).
+- Directory services are in use (Active Directory and/or Microsoft Entra ID for example).
 - There is basic usage of monitoring and alerting, but this is not acted on promptly or reviewed proactively.
 
 #### 200 Technology
@@ -332,10 +332,10 @@ Security is well documented and understood and risk is easily identified and man
 ## Common Microsoft 365 Toolsets
 
 - Identity, Access Protection, and Management
-  - Azure Active Directory
-  - Microsoft Entra Identity Governance
-  - Microsoft Entra Verified ID
-  - Microsoft Entra Workload Identities
+  - Microsoft Entra ID
+  - Microsoft Entra ID Governance
+  - Microsoft Entra Verified I D
+  - Microsoft Entra Workload ID
   - Azure Key Vault: Cryptographic Key and Secret Management
 - Security Information and Event Management (SIEM) & Extended Detection and Response (XDR)
   - Microsoft Sentinel: Intelligent Security Analytics

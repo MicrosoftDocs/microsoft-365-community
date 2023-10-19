@@ -31,7 +31,7 @@ There are a few ways these channels can be re-used:
 
 While Shared Channels offer most of the same functionalities available within other channels, there are a few features that are not supported, including:
 
-- Only Azure AD work or school accounts are supported for external participants. **Guests cannot be added to Shared Channels (see [here](https://support.microsoft.com/office/guests-and-shared-channels-in-teams-612de4ce-e7a3-4579-b086-bb8ff9f2d11e)).**
+- Only Microsoft Entra work or school accounts are supported for external participants. **Guests cannot be added to Shared Channels (see [here](https://support.microsoft.com/office/guests-and-shared-channels-in-teams-612de4ce-e7a3-4579-b086-bb8ff9f2d11e)).**
 - Shared channels support tabs except for Stream, Planner, and Forms.
 - Line of business (LOB) apps, bots, connectors, and message extensions are not supported.
 - You cannot remove a shared channel from the parent team within which it was first created
@@ -57,7 +57,7 @@ Shared Channels promised to resolve a list of common challenges with effective c
 
 Without getting into the technical details, Teams Connect (Shared Channels) relies on something called Azure B2B Direct Connect, which is different than B2B Collaboration used for External Collaboration (Guests). The big difference is that this requires organizations to trust one another's security (essentially to 'federate' identities) in order for this feature to be available.
 
-The key portion here is that B2B Direct Connect requires **a mutual trust relationship between two Azure AD organizations** to allow access to each other's resources. Both the resource organization and the external organization need to mutually enable B2B Direct Connect in their cross-tenant access settings. While this may not seem like the end of the world, it does seem counter to the well-known concept in Cyber Security of Zero Trust, especially its well-known adage 'never trust, always verify.'
+The key portion here is that B2B Direct Connect requires **a mutual trust relationship between two Microsoft Entra organizations** to allow access to each other's resources. Both the resource organization and the external organization need to mutually enable B2B Direct Connect in their cross-tenant access settings. While this may not seem like the end of the world, it does seem counter to the well-known concept in Cyber Security of Zero Trust, especially its well-known adage 'never trust, always verify.'
 
 ![Shared Channel Mutual Trust](media/using-shared-channels-for-external-collaboration\sharedchannels1_2.png)
 
@@ -65,7 +65,7 @@ A more 'trusting' security stance may be possible for organizations with subsidi
 
 ## How To Set It Up
 
-1. Access Azure AD > Identity Governance > Cross-tenant Access Settings
+1. Access Microsoft Entra ID > Identity Governance > Cross-tenant Access Settings
 2. Add an organization to enable B2B Direct Connect
 3. Find an organization by domain or Azure ID
 4. Setup Default Inbound/Outbound Settings  (Host Tenant)

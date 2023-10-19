@@ -32,7 +32,7 @@ Microsoft Access is a database program which is part of the Microsoft Office sui
 
 ### [Access Reviews](/azure/active-directory/governance/access-reviews-overview)
 
-Azure Active Directory (Azure AD) access reviews enable organizations to efficiently manage group memberships, access to enterprise applications, and role assignments. User's access can be reviewed on a regular basis to make sure only the right people have continued access.
+Microsoft Entra access reviews enable organizations to efficiently manage group memberships, access to enterprise applications, and role assignments. User's access can be reviewed on a regular basis to make sure only the right people have continued access.
 
 ### [Accessibility](https://www.microsoft.com/accessibility/features?activetab=pivot_1:primaryr2)
 
@@ -68,7 +68,7 @@ You can use the alert policy and alert dashboard tools in the Microsoft Purview 
 
 ### [Always on VPN](/windows-server/remote/remote-access/vpn/always-on-vpn/)
 
-Always On VPN provides a single, cohesive solution for remote access and supports domain-joined, nondomain-joined (workgroup), or Azure AD–joined devices, even personally owned devices.
+Always On VPN provides a single, cohesive solution for remote access and supports domain-joined, nondomain-joined (workgroup), or Microsoft Entra ID–joined devices, even personally owned devices.
 
 ### [App](/sharepoint/monitor-apps)
 
@@ -92,7 +92,7 @@ App protection policies (APP) are rules that ensure an organization's data remai
 
 ### [Application Proxy](/azure/active-directory/app-proxy/application-proxy)
 
-Azure Active Directory's Application Proxy provides secure remote access to on-premises web applications. After a single sign-on to Azure AD, users can access both cloud and on-premises applications through an external URL or an internal application portal.
+Microsoft Entra application proxy provides secure remote access to on-premises web applications. After a single sign-on to Microsoft Entra ID, users can access both cloud and on-premises applications through an external URL or an internal application portal.
 
 ### [Attack Simulator](/microsoft-365/security/office-365-security/attack-simulation-training-get-started)
 
@@ -104,19 +104,25 @@ Use the audit log search tool in Microsoft Purview compliance portal to search t
 
 ### [Authenticator App](/azure/active-directory/authentication/concept-authentication-authenticator-app)
 
-The Microsoft Authenticator app provides an additional level of security to your Azure AD work or school account or your Microsoft account and is available for Android and iOS. With the Microsoft Authenticator app, users can authenticate in a passwordless way during sign-in, or as an additional verification option during self-service password reset (SSPR) or Azure AD Multi-Factor Authentication events.
+The Microsoft Authenticator app provides an additional level of security to your Microsoft Entra work or school account or your Microsoft account and is available for Android and iOS. With the Microsoft Authenticator app, users can authenticate in a passwordless way during sign-in, or as an additional verification option during self-service password reset (SSPR) or Microsoft Entra multifactor authentication events.
 
-### [Azure Active Directory (AAD)](/azure/active-directory/fundamentals/active-directory-whatis)
+<a name='azure-active-directory-aad'></a>
 
-Azure Active Directory is the Microsoft 365 source for all identity management, and much more. For example, Microsoft 365 Groups and applications permissions are stored in AAD.
+### [Microsoft Entra ID](/azure/active-directory/fundamentals/active-directory-whatis)
 
-### [Azure AD Connect](/azure/active-directory/hybrid/whatis-azure-ad-connect)
+Microsoft Entra ID is the Microsoft 365 source for all identity management, and much more. For example, Microsoft 365 Groups and applications permissions are stored in Microsoft Entra ID.
 
-Azure AD Connect is an on-premises Microsoft application that's designed to meet and accomplish your hybrid identity goals.
+<a name='azure-ad-connect'></a>
 
-### [Azure AD Connect Cloud Sync](/azure/active-directory/cloud-sync/what-is-cloud-sync)
+### [Microsoft Entra Connect](/azure/active-directory/hybrid/whatis-azure-ad-connect)
 
-Azure AD Connect cloud sync is new offering from Microsoft designed to meet and accomplish your hybrid identity goals for synchronization of users, groups and contacts to Azure AD. It accomplishes this by using the Azure AD cloud provisioning agent instead of the Azure AD Connect application. However, it can be used alongside Azure AD Connect sync.
+Microsoft Entra Connect is an on-premises Microsoft application that's designed to meet and accomplish your hybrid identity goals.
+
+<a name='azure-ad-connect-cloud-sync'></a>
+
+### [Microsoft Entra Connect cloud sync](/azure/active-directory/cloud-sync/what-is-cloud-sync)
+
+Microsoft Entra Connect cloud sync is new offering from Microsoft designed to meet and accomplish your hybrid identity goals for synchronization of users, groups and contacts to Microsoft Entra ID. It accomplishes this by using the Microsoft Entra cloud provisioning agent instead of the Microsoft Entra Connect application. However, it can be used alongside Microsoft Entra Connect Sync.
 
 ### [Azure Information Protection (AIP)](/azure/information-protection/what-is-information-protection)
 
@@ -134,7 +140,7 @@ Azure Virtual Desktop is a desktop and app virtualization service that runs on t
 
 ### [B2B](/azure/active-directory/external-identities/what-is-b2b)
 
-Azure Active Directory (Azure AD) business-to-business (B2B) collaboration is a feature within External Identities that lets you invite guest users to collaborate with your organization.
+Microsoft Entra business-to-business (B2B) collaboration is a feature within External Identities that lets you invite guest users to collaborate with your organization.
 
 ### [B2C](/azure/active-directory-b2c/overview)
 
@@ -230,7 +236,7 @@ The Microsoft Purview compliance portal provides easy access to the data and too
 
 ### [Conditional Access](/azure/active-directory/conditional-access/overview)
 
-Azure Active Directory (Azure AD) Conditional Access brings signals together, to make decisions, and enforce organizational policies. Conditional Access is at the heart of the new identity-driven control plane.
+Microsoft Entra Conditional Access brings signals together, to make decisions, and enforce organizational policies. Conditional Access is at the heart of the new identity-driven control plane.
 
 ### [Content Delivery Network (CDN)](/azure/cdn/cdn-overview)
 
@@ -406,7 +412,7 @@ Microsoft Endpoint Manager helps deliver the modern workplace and modern managem
 
 ### [Entitlement Management](/azure/active-directory/governance/entitlement-management-overview)
 
-Azure Active Directory (Azure AD) entitlement management is an identity governance feature that enables organizations to manage identity and access lifecycle at scale, by automating access request workflows, access assignments, reviews, and expiration.
+Microsoft Entra entitlement management is an identity governance feature that enables organizations to manage identity and access lifecycle at scale, by automating access request workflows, access assignments, reviews, and expiration.
 
 ### [Enterprise Applications](/azure/active-directory/manage-apps/view-applications-portal)
 
@@ -452,7 +458,7 @@ One convenient subscription for up to 6 people. Includes premium Office apps, up
 
 ### [FIDO2](/azure/active-directory/authentication/howto-authentication-passwordless-security-key)
 
-Sign in to web-based applications with your Azure AD account using a FIDO2 security key.
+Sign in to web-based applications with your Microsoft Entra account using a FIDO2 security key.
 
 ### Field Customizer
 
@@ -526,7 +532,7 @@ GitHub is where over 73 million developers shape the future of software, togethe
 
 ### [Global Administrator](/azure/active-directory/roles/permissions-reference#global-administrator)
 
-Users with this role have access to all administrative features in Azure Active Directory, as well as services that use Azure Active Directory identities like the Microsoft 365 Defender portal, the Microsoft Purview compliance portal, Exchange Online, SharePoint Online, and Skype for Business Online. Furthermore, Global Administrators can elevate their access to manage all Azure subscriptions and management groups.
+Users with this role have access to all administrative features in Microsoft Entra ID, as well as services that use Microsoft Entra identities like the Microsoft 365 Defender portal, the Microsoft Purview compliance portal, Exchange Online, SharePoint Online, and Skype for Business Online. Furthermore, Global Administrators can elevate their access to manage all Azure subscriptions and management groups.
 
 ### [Global Reader](/azure/active-directory/roles/permissions-reference#global-reader)
 
@@ -626,7 +632,7 @@ In a development sense, idempotent means that code you run more than once with t
 
 ### [Identity Models](/microsoft-365/enterprise/deploy-identity-solution-identity-model)
 
-Microsoft 365 uses Azure Active Directory (Azure AD), a cloud-based user identity and authentication service that is included with your Microsoft 365 subscription, to manage identities and authentication for Microsoft 365. Getting your identity infrastructure configured correctly is vital to managing Microsoft 365 user access and permissions for your organization.
+Microsoft 365 uses Microsoft Entra ID, a cloud-based user identity and authentication service that is included with your Microsoft 365 subscription, to manage identities and authentication for Microsoft 365. Getting your identity infrastructure configured correctly is vital to managing Microsoft 365 user access and permissions for your organization.
 
 ### [Information Barriers](/microsoft-365/compliance/information-barriers)
 
@@ -682,7 +688,7 @@ Just-enough-access is the core principle of Privileged Access Management in Micr
 
 ### [Just-in-Time (JIT) Access](/azure/active-directory/privileged-identity-management/pim-configure)
 
-Just-in-Time access is the core principle of Azure AD Privileged Identity Management and provides users with access to privileged roles on-demand instead of having them permanently assigned.
+Just-in-Time access is the core principle of Microsoft Entra Privileged Identity Management and provides users with access to privileged roles on-demand instead of having them permanently assigned.
 
 ## K
 
@@ -824,9 +830,11 @@ The nature of work has changed. Employees expect to work securely from anywhere,
 
 The MVP Award is a global program of recognized technology experts and community leaders who actively support technical communities through unique, innovative, and consistent knowledge sharing. These community leaders actively contribute to support the developer and IT Pro communities worldwide, helping them learn, build, and use our products. Learn below what seek for recognition in future community leaders.
 
-### [Multi-Factor Authentication (MFA)](/microsoft-365/admin/security-and-compliance/multi-factor-authentication-microsoft-365)
+<a name='multi-factor-authentication-mfa'></a>
 
-Multi-factor authentication refer to an additional security layer beyond just username and password. One way it is described is the user name and password shows who you are based on something you **know**, and MFA shows who you are by something you **have**. The most common example of MFA is the code you get in a text on your phone when you are logging into sites like your bank or Github.
+### [Multifactor authentication (MFA)](/microsoft-365/admin/security-and-compliance/multi-factor-authentication-microsoft-365)
+
+Multifactor authentication refer to an additional security layer beyond just username and password. One way it is described is the user name and password shows who you are based on something you **know**, and MFA shows who you are by something you **have**. The most common example of MFA is the code you get in a text on your phone when you are logging into sites like your bank or Github.
 
 ## N
 
@@ -838,7 +846,7 @@ In programming, namespaces can be far more complex - like List.Fields within Mic
 
 ### [Named Locations](/azure/active-directory/conditional-access/location-condition#named-locations)
 
-Locations are named in the Azure portal under Azure Active Directory > Security > Conditional Access > Named locations. These named network locations may include locations like an organization's headquarters network ranges, VPN network ranges, or ranges that you wish to block. Named locations can be defined by IPv4/IPv6 address ranges or by countries/regions.
+Locations are named in the Azure portal under Microsoft Entra ID > Security > Conditional Access > Named locations. These named network locations may include locations like an organization's headquarters network ranges, VPN network ranges, or ranges that you wish to block. Named locations can be defined by IPv4/IPv6 address ranges or by countries/regions.
 
 ### [Network Policy Server (NPS)](/windows-server/remote/remote-access/vpn/always-on-vpn/deploy/vpn-deploy-nps)
 
@@ -1050,9 +1058,11 @@ Quorum is designed to prevent split-brain scenarios which can happen when there 
 
 Access management for cloud resources is a critical function for any organization that is using the cloud. Azure role-based access control (Azure RBAC) helps you manage who has access to Azure resources, what they can do with those resources, and what areas they have access to. Azure RBAC is an authorization system built on Azure Resource Manager that provides fine-grained access management of Azure resources.
 
-### [RBAC (Azure AD)](/azure/active-directory/roles/custom-overview)
+<a name='rbac-azure-ad'></a>
 
-Built-in roles are out of box roles that have a fixed set of permissions. These role definitions cannot be modified. There are many built-in roles that Azure AD supports, and the list is growing. To round off the edges and meet your sophisticated requirements, Azure AD also supports custom roles. Granting permission using custom Azure AD roles is a two-step process that involves creating a custom role definition and then assigning it using a role assignment. A custom role definition is a collection of permissions that you add from a preset list. These permissions are the same permissions used in the built-in roles.
+### [RBAC (Microsoft Entra ID)](/azure/active-directory/roles/custom-overview)
+
+Built-in roles are out of box roles that have a fixed set of permissions. These role definitions cannot be modified. There are many built-in roles that Microsoft Entra ID supports, and the list is growing. To round off the edges and meet your sophisticated requirements, Microsoft Entra ID also supports custom roles. Granting permission using custom Microsoft Entra roles is a two-step process that involves creating a custom role definition and then assigning it using a role assignment. A custom role definition is a collection of permissions that you add from a preset list. These permissions are the same permissions used in the built-in roles.
 
 ### [Remote Connectivity Analyzer](/exchange/clients-and-mobile-in-exchange-online/remote-connectivity-analyzer-tests)
 
@@ -1125,7 +1135,7 @@ The Windows SDK (10.0.22000) for Windows 11 provides the latest headers, librari
 
 ### [Seamless Single Sign-on (SSSO)](/azure/active-directory/hybrid/how-to-connect-sso)
 
-Azure Active Directory Seamless Single Sign-On (Azure AD Seamless SSO) automatically signs users in when they are on their corporate devices connected to your corporate network. When enabled, users don't need to type in their passwords to sign in to Azure AD, and usually, even type in their usernames. This feature provides your users easy access to your cloud-based applications without needing any additional on-premises components.
+Microsoft Entra seamless single sign-on (Microsoft Entra seamless SSO) automatically signs users in when they are on their corporate devices connected to your corporate network. When enabled, users don't need to type in their passwords to sign in to Microsoft Entra ID, and usually, even type in their usernames. This feature provides your users easy access to your cloud-based applications without needing any additional on-premises components.
 
 ### [Search](https://resources.techcommunity.microsoft.com/microsoft-search/)
 
@@ -1141,7 +1151,7 @@ The Search Schema refers to the customizable data dictionary used by SharePoint 
 
 ### [Self-service password reset (SSPR)](/microsoft-365/security/defender/microsoft-secure-score)
 
-Azure Active Directory (Azure AD) self-service password reset (SSPR) gives users the ability to change or reset their password, with no administrator or help desk involvement. If a user's account is locked or they forget their password, they can follow prompts to unblock themselves and get back to work. This ability reduces help desk calls and loss of productivity when a user can't sign in to their device or an application. Microsoft recommend this video on how to enable and configure SSPR in Azure AD.
+Microsoft Entra self-service password reset (SSPR) gives users the ability to change or reset their password, with no administrator or help desk involvement. If a user's account is locked or they forget their password, they can follow prompts to unblock themselves and get back to work. This ability reduces help desk calls and loss of productivity when a user can't sign in to their device or an application. Microsoft recommend this video on how to enable and configure SSPR in Microsoft Entra ID.
 
 ### [Sensitive information type](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
@@ -1303,11 +1313,11 @@ Team Sites are generally used to facilitate teamwork. It generally has a set of 
 
 ### [Teams](/microsoftteams/teams-overview)
 
-Teams is built on Microsoft 365 groups, Microsoft Graph, and the same enterprise-level security, compliance, and manageability as the rest of Microsoft 365 and Office 365. Teams leverages identities stored in Azure Active Directory (Azure AD). Teams keeps working even when you're offline or experiencing spotty network conditions.
+Teams is built on Microsoft 365 groups, Microsoft Graph, and the same enterprise-level security, compliance, and manageability as the rest of Microsoft 365 and Office 365. Teams leverages identities stored in Microsoft Entra ID. Teams keeps working even when you're offline or experiencing spotty network conditions.
 
 ### [Teams Administrator roles](/microsoftteams/using-admin-roles)
 
-Using Azure Active Directory (Azure AD), you can designate administrators who need different levels of access for managing Microsoft Teams. Administrators can manage the entire Teams workload, or they can have delegated permissions for troubleshooting call quality problems or managing your organization's telephony needs.
+Using Microsoft Entra ID, you can designate administrators who need different levels of access for managing Microsoft Teams. Administrators can manage the entire Teams workload, or they can have delegated permissions for troubleshooting call quality problems or managing your organization's telephony needs.
 
 ### [Teams Advisor](/microsoftteams/use-advisor-teams-roll-out)
 
@@ -1409,7 +1419,7 @@ Unique Permissions do not [inherit](#inheritance) default site permission levels
 
 ### [Universal Print](/universal-print/fundamentals/universal-print-whatis)
 
-Universal Print is a modern print solution that organizations can use to manage their print infrastructure through cloud services from Microsoft. Learn how to get access. Universal Print runs entirely on Microsoft Azure. When it's deployed with Universal Print–compatible printers, it doesn't require any on-premises infrastructure. Universal Print is a Microsoft 365 subscription-based service that organizations use to centralize print management through the Universal Print portal. It's fully integrated with Azure Active Directory and supports single sign-on scenarios.
+Universal Print is a modern print solution that organizations can use to manage their print infrastructure through cloud services from Microsoft. Learn how to get access. Universal Print runs entirely on Microsoft Azure. When it's deployed with Universal Print–compatible printers, it doesn't require any on-premises infrastructure. Universal Print is a Microsoft 365 subscription-based service that organizations use to centralize print management through the Universal Print portal. It's fully integrated with Microsoft Entra ID and supports single sign-on scenarios.
 
 ### [Update Rings](/mem/intune/protect/windows-10-update-rings)
 
@@ -1433,7 +1443,7 @@ Assign the User admin role to users who need to Add users and groups, Assign lic
 
 ### [User Accounts](/microsoft-365/enterprise/manage-microsoft-365-accounts)
 
-You can manage Microsoft 365 user accounts in several different ways, depending on your configuration. You can manage user accounts in the Microsoft 365 admin center, PowerShell, in Active Directory Domain Services (AD DS), or in the Azure Active Directory (Azure AD) admin portal.
+You can manage Microsoft 365 user accounts in several different ways, depending on your configuration. You can manage user accounts in the Microsoft 365 admin center, PowerShell, in Active Directory Domain Services (AD DS), or in the Microsoft Entra admin center.
 
 ### [User data search (eDiscovery)](/compliance/regulatory/gdpr-manage-gdpr-data-subject-requests-with-the-dsr-case-tool)
 

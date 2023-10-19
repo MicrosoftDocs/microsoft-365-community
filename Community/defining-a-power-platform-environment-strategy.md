@@ -30,10 +30,10 @@ There are multiple types of environments. The type indicates the purpose of the 
 
 A single default environment is automatically created by Power Apps for each tenant and shared by all users in that tenant. Whenever a new user signs up for Power Apps, they're automatically added to the Maker role of the default environment.
 
-The default environment is created in the region closest to the default region of the Azure AD tenant.
+The default environment is created in the region closest to the default region of the Microsoft Entra tenant.
 There is specific guidance for the Default environment to call out because of its unique nature:
 
-- It’s automatically created with the first user in the region closest to the Azure AD tenant
+- It’s automatically created with the first user in the region closest to the Microsoft Entra tenant
 - New users that sign up for Power Apps are automatically added to the Maker role
 - Users are not automatically added to the Environment Admin role
 - The default environment can’t be deleted, but you can rename it – e.g., Personal Productivity (do it now, if you haven't!)
@@ -91,7 +91,7 @@ Based on successful experience with other customer engagements, below is a list 
 - Individual-use environments for Proof of Concepts and training workshops
 - Use a service account to deploy production solutions
 - Reduce the number of shared development environments
-- Share resources with Azure AD Security Groups.
+- Share resources with Microsoft Entra Security Groups.
 
 ## Further Reading
 
