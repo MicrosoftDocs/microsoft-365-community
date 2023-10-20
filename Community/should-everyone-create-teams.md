@@ -31,7 +31,7 @@ The key therefore is to balance these extremes.
 
 ![Solution overview chart containing the information found in the following paragraph.](media/should-everyone-create-teams/solution-overview.png)
 
-A user asks a chatbot for a new Team in natural language. A Power Automate flow picks up this information and checks if the user is already in an Azure AD security group called Educated Users. If the owner to be is already a member in this Educated Users security group, a second Power Automate flow gets the manager's approval and provisions the team. If the user is not a member of this group, the user will be invited for training and testing.
+A user asks a chatbot for a new Team in natural language. A Power Automate flow picks up this information and checks if the user is already in a Microsoft Entra security group called Educated Users. If the owner to be is already a member in this Educated Users security group, a second Power Automate flow gets the manager's approval and provisions the team. If the user is not a member of this group, the user will be invited for training and testing.
 
 If the user passes the tests, he/she will be added to the group of Educated Users (which means that for the next Team request, he/she doesn't need to pass a test again) and the second flow gets the manager's approval and provisions the Team.
 
@@ -39,7 +39,7 @@ If the user doesn't pass the test OR if the manager doesn't approve, notificatio
 
 ## What we need to build before we do the Chatbot
 
-- 2 Security Groups in Azure AD: Educated Users and Uneducated Users
+- 2 Security Groups in Microsoft Entra ID: Educated Users and Uneducated Users
 - Events for training in a calendar
 - Form for training session invitations in Microsoft Forms
 - Flow to send session invitations
@@ -48,7 +48,9 @@ If the user doesn't pass the test OR if the manager doesn't approve, notificatio
 - SharePoint list to calculate the result with a few calculated columns
 - SharePoint list to log all teams requests
 
-### 2 Security Groups in Azure AD
+<a name='2-security-groups-in-azure-ad'></a>
+
+### 2 Security Groups in Microsoft Entra ID
 
 Go to portal.azure.com, click on GROUPS and then on NEW GROUP. Give the group names like "Educated" and "Uneducated".  Assign your users to the groups. By default, all users should be in the group of Uneducated Users.
 
@@ -167,7 +169,9 @@ If the user passes the test, he/she will be added to the Educated Group and we l
 **Microsoft Graph**
 Power Automate doesn't provide an action "Create a Team". Therefore, we will call Microsoft Graph to create teams, add members, create channels, and a lot more, but we first need to authenticate to make this magic happen.
 
-### Register an app in Azure AD
+<a name='register-an-app-in-azure-ad'></a>
+
+### Register an app in Microsoft Entra ID
 
 Go to portal.azure.com and click on APP REGISTRATIONS, and click NEW REGISTRATION. Give it a name and save the ID of your tenant and the ID of our App (Client) After that, click on API PERMISSIONS (use APPLICATION) and select MICROSOFT GRAPH. We need to add the `Group.Read.Write.All` permission and grant admin consent for that as well.
 ![Application](media/should-everyone-create-teams/LuiseFreese-LowCodeTeamsProvisioning-Application.png)

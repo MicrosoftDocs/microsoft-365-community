@@ -204,7 +204,7 @@ Improving your People and Communities maturity means rethinking your processes a
 - Distribution lists
 - Microsoft Graph
 - Exchange
-- Azure Active Directory
+- Microsoft Entra ID
 - 
 ## Related documents
 
