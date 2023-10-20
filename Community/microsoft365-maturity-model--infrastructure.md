@@ -334,7 +334,7 @@ Security is well documented and understood and risk is easily identified and man
 - Identity, Access Protection, and Management
   - Microsoft Entra ID
   - Microsoft Entra ID Governance
-  - Microsoft Entra Verified I D
+  - Microsoft Entra Verified ID
   - Microsoft Entra Workload ID
   - Azure Key Vault: Cryptographic Key and Secret Management
 - Security Information and Event Management (SIEM) & Extended Detection and Response (XDR)
