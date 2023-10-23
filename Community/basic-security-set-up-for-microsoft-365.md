@@ -18,7 +18,7 @@ ms.collection: M365Community
 
 ## Security within Microsoft 365
 
-Microsoft 365, as a service, contains many administration portals, options, and configuration settings focused solely on Security. Each service is protected predominantly by Azure Active Directory for Authentication, with each application authorizing users to access either the app itself content that resides within. Out of the box, newer tenants have the Security Defaults enabled that implement some necessary and best-practice capabilities. These are a great start; however, they shouldn't be the only configuration organizations should use. Organization-specific security controls and procedures should augment all out of the box configuration.
+Microsoft 365, as a service, contains many administration portals, options, and configuration settings focused solely on Security. Each service is protected predominantly by Microsoft Entra ID for Authentication, with each application authorizing users to access either the app itself content that resides within. Out of the box, newer tenants have the Security Defaults enabled that implement some necessary and best-practice capabilities. These are a great start; however, they shouldn't be the only configuration organizations should use. Organization-specific security controls and procedures should augment all out of the box configuration.
 
 Security within Microsoft 365 is not just about enabling features and controls; it also involves the human side of teaching and guiding users to understand the restrictions and what they should be doing to help. Organization Security is a combination of Security Controls and Protection, combined with end-user training and guidance.
 
@@ -28,7 +28,7 @@ With all of the Microsoft 365 services, many-core security components come with 
 
 ## Enabling the Security Defaults
 
-The Security Defaults within Microsoft 365 reside within Azure Active Directory. By default, all Microsoft 365 Tenants, created on or after October 22nd, 2019, are equipped with these features. Tenants created previous to this date will not be enabled, though they may be available. These controls are available at no extra cost to the organizational license cost.
+The Security Defaults within Microsoft 365 reside within Microsoft Entra ID. By default, all Microsoft 365 Tenants, created on or after October 22nd, 2019, are equipped with these features. Tenants created previous to this date will not be enabled, though they may be available. These controls are available at no extra cost to the organizational license cost.
 
 These defaults enable five of the most common security features and controls.
 
@@ -43,7 +43,7 @@ A caveat to using these controls is that if you have custom created Conditional 
 To enable the Security Defaults within your Microsoft 365 directory:
 
 1. Sign in to the [Azure Portal](https://portal.azure.com) as either a Security Administrator, Conditional Access Administrator or Global Administrator
-2. Click on **Azure Active Directory**, then click **Properties**
+2. Click on **Microsoft Entra ID**, then click **Properties**
 3. Select the link at the bottom labeled **Manage Security Defaults**
 4. Set the **Enable Security Defaults** toggle to **Yes**
 5. Select **Save**
@@ -83,7 +83,7 @@ Multi-Factor Authentication can be explicitly assigned to users or administrator
 * [Enable a Conditional Access Policy for Multi-Factor for Administrator Accounts](/azure/active-directory/conditional-access/howto-conditional-access-policy-admin-mfa#create-a-conditional-access-policy)
 * [Enable a Conditional Access Policy for Multi-Factor for all User Accounts](/azure/active-directory/conditional-access/howto-conditional-access-policy-all-users-mfa#create-a-conditional-access-policy)
 
-**NOTE:** Be aware that adding a single Azure Active Directory Premium (Plan 1 or Plan 2) for an Administrator will enable the features, but not license it for every user.
+**NOTE:** Be aware that adding a single Microsoft Entra ID P1 or P2 (Plan 1 or Plan 2) for an Administrator will enable the features, but not license it for every user.
 
 ### Sign Out Inactive Users Automatically
 
@@ -97,7 +97,7 @@ Users will be signed out from all Microsoft 365 services with a time specified, 
 
 ### Block Legacy Authentication
 
-**Risk:** Legacy authentication protocols use basic authentication. These protocols, such as POP, SMTP, IMAP, and MAPI, can't enforce any second-factor authentication, making them preferred entry points for malicious actors attacking the organization. More than 99 percent of all password spray attacks within Azure Active Directory, utilized legacy authentication. To add, more than 97 percent of all Credential Stuffing attacks against Azure Active Directory also used legacy authentication.
+**Risk:** Legacy authentication protocols use basic authentication. These protocols, such as POP, SMTP, IMAP, and MAPI, can't enforce any second-factor authentication, making them preferred entry points for malicious actors attacking the organization. More than 99 percent of all password spray attacks within Microsoft Entra ID, utilized legacy authentication. To add, more than 97 percent of all Credential Stuffing attacks against Microsoft Entra ID also used legacy authentication.
 
 **Protection:** Though blocking legacy authentication is critical to the Microsoft 365 Tenant's Security, you need to ensure that all applications and mail protocols used to support the modern authentication approach and work without the legacy capabilities. Such applications and services that utilize legacy authentication are:
 
@@ -114,10 +114,10 @@ Users will be signed out from all Microsoft 365 services with a time specified, 
 * *Outlook Service POP3*
 * *Reporting Web Services*
 
-To help identify legacy authentication used within your organization, you can filter the Azure Active Directory Sign-ins and validate that legacy is either required or can be disabled.
+To help identify legacy authentication used within your organization, you can filter the Microsoft Entra Sign-ins and validate that legacy is either required or can be disabled.
 
 1. Sign in to the [Azure Portal](https://portal.azure.com) as either a Security Administrator, Conditional Access Administrator or Global Administrator
-2. Click on **Azure Active Directory**, then click **Sign-ins**
+2. Click on **Microsoft Entra ID**, then click **Sign-ins**
 3. Add the Client App column by clicking **Columns**, then **Client App**
 4. Click **Add Filters**, then **Client App**
 5. Select all **Legacy Authentication Protocols**, then click **Apply**
@@ -132,12 +132,12 @@ Blocking legacy authentication is performed by configuring conditional access po
 
 **Risk:** When enforcing periodic password resets, passwords become less secure. Users tend to pick a weaker password and vary it slightly for each reset. This type of behavior can often lead to the re-use of existing passwords, as well as malicious attackers, guessing the password. If a user creates a secure password (long, complicated, and without any pragmatic words present), it should remain as strong in 60 days as it is today.
 
-**Protection:** It is now recommended by the National Institute of Standards and Technology (NIST) to disable password expiration. The guidance is only to force a change or update a password if an account is confirmed as compromised. Azure Active Directory provides the ability to set password expiration policies and disable it for specific users or all users.
+**Protection:** It is now recommended by the National Institute of Standards and Technology (NIST) to disable password expiration. The guidance is only to force a change or update a password if an account is confirmed as compromised. Microsoft Entra ID provides the ability to set password expiration policies and disable it for specific users or all users.
 
 There are two options for disabling expiration of passwords:
 
-1. Disable password expiration either on a per-user or for the organization within Azure Active Directory
-2. Sync passwords from On-premises Active Directory using Azure AD Connect. This sync includes password policies
+1. Disable password expiration either on a per-user or for the organization within Microsoft Entra ID
+2. Sync passwords from On-premises Active Directory using Microsoft Entra Connect. This sync includes password policies
 
 **How:** Learn how to implement password expiration policies using the links below.
 
@@ -148,7 +148,7 @@ There are two options for disabling expiration of passwords:
 
 **Risk:** It is common practice for end-users to reuse existing passwords across multiple services, whether personal or business. It is also common for easy to discover passwords to be used. When accounts use either common or simple passwords, there is a higher chance of account breach.
 
-**Protection:** Azure Active Directory includes a global banned password list, that protects all Microsoft 365 services. Azure Active Directory also provides organizations the ability to add a list of banned passwords. As users change their passwords in the cloud, if the new password matches any of the prohibited passwords, the end-user will be notified, and they will need to change the password they typed. The custom banned password feature is limited to 1000 words. It is not for blocking large lists of passwords.
+**Protection:** Microsoft Entra ID includes a global banned password list, that protects all Microsoft 365 services. Microsoft Entra ID also provides organizations the ability to add a list of banned passwords. As users change their passwords in the cloud, if the new password matches any of the prohibited passwords, the end-user will be notified, and they will need to change the password they typed. The custom banned password feature is limited to 1000 words. It is not for blocking large lists of passwords.
 
 **How:** Learn how to [implement a banned password list](/azure/active-directory/authentication/tutorial-configure-custom-password-protection)
 
@@ -156,7 +156,7 @@ There are two options for disabling expiration of passwords:
 
 **Risk:** External sharing of content is always a risk for any organization. Due to how SharePoint assigns permissions and control access, data such as Personally Identifiable Information (PII) data might get shared externally with no protections, especially if any external email is allowed. *SharePoint External Sharing* is a top-level configuration setting which controls sharing content from SharePoint to anyone, including non-corporate accounts. This setting is available at the Tenant organization level, which is utilized at lower levels within Office 365 unless set explicitly at the application level.
 
-**Protection:** Microsoft 365 provides external sharing settings at the tenant and application levels. The decision to modify these settings should be business-related. Setting this to **Only people in your organization**, limits external sharing capabilities. Content can then only be shared using accounts that already exist within the existing Azure Active Directory, whether internal users or external guest accounts. Adding external accounts then becomes a controlled process.
+**Protection:** Microsoft 365 provides external sharing settings at the tenant and application levels. The decision to modify these settings should be business-related. Setting this to **Only people in your organization**, limits external sharing capabilities. Content can then only be shared using accounts that already exist within the existing Microsoft Entra ID, whether internal users or external guest accounts. Adding external accounts then becomes a controlled process.
 
 **How:** Learn how to [implement external sharing protections](/sharepoint/turn-external-sharing-on-or-off )
 
@@ -164,7 +164,7 @@ There are two options for disabling expiration of passwords:
 
 **Risk:** Many successful account compromises happen because simple protections aren't defined. The most common is the number of times a password can be entered incorrectly before locking the account. The higher the number, the more times a malicious actor has to **guess** the password freely.
 
-**Protection:** Azure Active Directory Smart lockout uses cloud intelligence to lock out malicious actors trying to guess end-users passwords. The intelligence platform recognizes sign-ins from valid users and treats those differently from those that attackers and other unknown sources. The smart lockout can lock out the attackers yet still allow users to continue to access their accounts. Smart lockout is on by default within all Azure Active Directory instances; however, organizations can customize them as needed. The default setting is ten failed sign-ins, with the recommendation to set lower as required and in conjunction with the organization.
+**Protection:** Microsoft Entra Smart lockout uses cloud intelligence to lock out malicious actors trying to guess end-users passwords. The intelligence platform recognizes sign-ins from valid users and treats those differently from those that attackers and other unknown sources. The smart lockout can lock out the attackers yet still allow users to continue to access their accounts. Smart lockout is on by default within all Microsoft Entra instances; however, organizations can customize them as needed. The default setting is ten failed sign-ins, with the recommendation to set lower as required and in conjunction with the organization.
 
 **How:** Learn how to [implement account lockout threshold](/azure/active-directory/authentication/howto-password-smart-lockout)
 
@@ -181,7 +181,7 @@ The core benefits of Mobile application management (MAM) policies are:
 3. Policies don't apply when app use is in a personal context
 4. App protection policies make sure that app protections are in place
 
-Using Mobile application management (MAM) policies will require end-users to have a license for Microsoft Intune assigned to their Azure Active Directory account.
+Using Mobile application management (MAM) policies will require end-users to have a license for Microsoft Intune assigned to their Microsoft Entra account.
 
 **How:** Learn how to [implement mobile application management policies](/mem/intune/apps/app-protection-policies)
 
@@ -201,7 +201,7 @@ Using Mobile application management (MAM) policies will require end-users to hav
 
 **Risk:** Before an application can access organizational data, a end-user must grant the application permissions. By default, all users can consent to applications for permissions that don't require administrator consent. By allowing users to give apps access to data, users can easily acquire useful applications and be productive. However, this configuration can represent a risk if it's not monitored and controlled carefully. There is even a possibility of data exfiltration from the tenant. Attackers can maintain persistent access to services through these integrated apps, without relying on compromised accounts.
 
-**Protection:** Azure Active Directory provides two core protections to mitigate the risk.
+**Protection:** Microsoft Entra ID provides two core protections to mitigate the risk.
 
 * Modify how end-user consent applications
 * Enable the administrator consent workflow

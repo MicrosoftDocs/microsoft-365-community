@@ -30,7 +30,7 @@ When we build a solution within the Microsoft 365 ecosystem, we almost always ne
 
 Reference content is the content which makes the transactions work. If we are recording outcomes of meetings, we want to know who was in the meeting; that content is provided from the set of users in our farm or tenant. If we want to track customer interactions, we need a consistent data set of customer information; that may be stored in a list or in Managed Metadata. If we want to process invoice documents, we’ll want to tag them with the appropriate metadata about which office or region is responsible for them; that may be stored in Managed Metadata or lists.
 
-You can see the pattern. Before we can think about performing transactions, we must lay down the sets of reference data to support them. In many cases, this reference data needs to be consistent across a wide range of transactional content, so we turn to centralized storage services like the Managed Metadata Service. We get a service to manage Users and Groups for “free” from Active Directory (AD) or Azure Active Directory (AAD).
+You can see the pattern. Before we can think about performing transactions, we must lay down the sets of reference data to support them. In many cases, this reference data needs to be consistent across a wide range of transactional content, so we turn to centralized storage services like the Managed Metadata Service. We get a service to manage Users and Groups for “free” from Active Directory (AD) or Microsoft Entra ID.
 
 In other cases, the reference data is purely local, like perhaps the responsible party for a certain process step within a department. In those cases, we can build our own lists or libraries to contain the data.
 
