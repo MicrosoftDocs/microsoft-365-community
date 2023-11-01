@@ -21,7 +21,11 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - March, 2023
 
-- 
+### Removed/retired Articles - October, 2023
+
+| Article | Updated By |
+|---|---|
+| [Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces](./Community/Yet-another-Tool-Why-you-will-probably-love-Project-Moca-aka-Outlook-Spaces.md) | [Luise Freese, MVP](https://www.linkedin.com/in/LuiseFreese)|
 
 ## February, 2023
 
