@@ -3,7 +3,7 @@ title: What task management platform is best for me?
 ms.date: 12/19/2022
 author: dfrancoeur
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365
@@ -12,11 +12,11 @@ description: "A short guide on the many (many) options for managing tasks in M36
 ms.collection: M365Community
 ---
 
-# So many options
+# Which Task Management Tool is Right For Me
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-There are a crazy number of ways to manage tasks in Microsoft 365, some of which overlap, while others don’t. Where are all the places we can create tasks?
+There are a number of ways to manage tasks in Microsoft 365, some of which overlap, while others don’t. Where are all the places we can create tasks?
 
 ![Task-oriented apps](media/task-management-options/Tasks1.png)
 
@@ -69,7 +69,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ### Cons - Lists
 
-- **No built-in integration with other applications (e.g., Planner) therefore the assignment of tasks can easily get lost and end users have no way to see a holistic view of all their tasks across individual Lists (without additional configuration)**
+- No built-in integration with other applications (e.g., Planner) therefore the assignment of tasks can easily get lost and end users have no way to see a holistic view of all their tasks across individual Lists (without additional configuration)
 - Sub-tasks are not built-in and could be challenging to implement
 
 ## Microsoft To Do
@@ -127,7 +127,7 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 
 ### Cons - Microsoft Loop
 
-- **No built-in integration with other applications (e.g., Planner) therefore the assignment of tasks can easily get lost and end users have no way to see a holistic view of all their tasks across individual Lists.**
+- No built-in integration with other applications (e.g., Planner) therefore the assignment of tasks can easily get lost and end users have no way to see a holistic view of all their tasks across individual Lists.
 - Cannot be used in Teams, only group chats and meetings
 - Can be hard to find after they have been used
 - Initially shared with specific people based on who the chat or meeting was with

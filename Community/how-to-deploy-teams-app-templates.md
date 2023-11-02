@@ -3,7 +3,7 @@ title: How to deploy Teams App templates into your tenant
 ms.date: 1/20/2021
 author: LuiseFreese
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365
@@ -26,9 +26,11 @@ As an example, I will use the [Group Activities App](/microsoftteams/platform/sa
 
 You can get the complete documentation, including all files, deployment guides, and architecture overview on [GitHub](https://github.com/OfficeDev/microsoft-teams-apps-groupactivities).
 
-## Register an App in Azure AD
+<a name='register-an-app-in-azure-ad'></a>
 
-First, you will need to register an Application in Azure AD, create an app secret and enable Graph API permissions.
+## Register an App in Microsoft Entra ID
+
+First, you will need to register an Application in Microsoft Entra ID, create an app secret and enable Graph API permissions.
 
 Remember to save your App secret immediately after creating it – you won’t be able to read or copy it once you click on something else in the Azure Portal. To understand which permissions you need, read the documentation for the specific app template. Don’t forget to grant admin consent for the permissions.
 
@@ -46,7 +48,7 @@ be a little bit patient. It can take a while. You don’t need to stay on that s
 
 ## Add authentication
 
-Azure AD can easily manage authentication, connect our bot with it, and set the scope as in our app registration.
+Microsoft Entra ID can easily manage authentication, connect our bot with it, and set the scope as in our app registration.
 
 ![Step 3: Add authentication.](media/how-to-deploy-teams-app-templates/3addauthentication.gif)
 

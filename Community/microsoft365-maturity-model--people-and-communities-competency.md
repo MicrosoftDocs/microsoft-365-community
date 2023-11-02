@@ -3,7 +3,7 @@ title: Maturity Model for Microsoft 365 – People and Communities Competency
 ms.date: 8/5/2020
 author: eemancini
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365
@@ -204,7 +204,7 @@ Improving your People and Communities maturity means rethinking your processes a
 - Distribution lists
 - Microsoft Graph
 - Exchange
-- Azure Active Directory
+- Microsoft Entra ID
 - 
 ## Related documents
 

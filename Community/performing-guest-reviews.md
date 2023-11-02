@@ -3,7 +3,7 @@ title: Performing Guests Reviews with Azure Identity Governance
 ms.date: 12/19/2022
 author: dfrancoeur
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365
@@ -25,14 +25,14 @@ There are a host of reasons justifying the need to review an organization’s gu
 - Guests are easily "forgotten" and retain lingering access to Teams, sites, apps, and content long after they need it. This presents a significant potential security risk, especially as new users join the sites or Teams and begin to add content to sites or Teams they assumed were private.
 - We often know little to nothing about guest accounts, meaning it is easy for users to share the wrong content with the wrong person. This again presents a significant possible security risk.
 - Many organizations do not archive or decommission sites or Teams that are no longer active. For internal users, this amounts to noise, but for guest users who retain their access, this can have more serious consequences.
-- Many guests never even redeem their invitation to collaborate with your tenant, but by virtue of being invited, they exist in your Azure Active Directory and can be selected again as a guest via search.
+- Many guests never even redeem their invitation to collaborate with your tenant, but by virtue of being invited, they exist in your Microsoft Entra ID and can be selected again as a guest via search.
 - Lack of controls and governance policies at the tenant or Microsoft 365 Group levels may have led guests to be inadvertently granted access to more than the sender realized.
 - In the vast majority of cases, there is a lack of a "reporting structure" for guests, meaning no one within an organization is assigned the role of managing/sponsoring/overseeing a particular guest. This general lack of responsibility and accountability often means disorder.
 - Even once guest policies are put in effect (e.g., Guest Group Setting in PowerShell, or Sensitivity Labels), existing guest users are left behind in these sites or Teams.
 
 ## What is required to set up a guest review process
 
-The features discussed below require Azure Active Directory Premium P2 licenses. See the [Resources](#resources) section for more details.
+The features discussed below require Microsoft Entra ID P2 licenses. See the [Resources](#resources) section for more details.
 
 ## How to set up a guest review process
 
@@ -80,7 +80,7 @@ To monitor an ongoing Access Review, the Access Review can be opened, and indivi
 ## Resources
 
 - [What are access reviews | Microsoft Learn](/azure/active-directory/governance/access-reviews-overview)
-- [MAU billing model for Azure AD External Identities | Microsoft Learn](/azure/active-directory/external-identities/external-identities-pricing).
+- [MAU billing model for Microsoft Entra External ID | Microsoft Learn](/azure/active-directory/external-identities/external-identities-pricing).
 
 ---
 

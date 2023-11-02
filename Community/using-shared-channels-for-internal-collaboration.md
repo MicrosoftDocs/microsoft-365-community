@@ -4,7 +4,7 @@ ms.date: 12/19/2022
 author: dfrancoeur
 ms.author: daisyfeller
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.service: microsoft-365
 localization_priority: 
@@ -31,7 +31,7 @@ There are a few ways these channels can be re-used:
 
 While Shared Channels offer most of the same functionalities available within other channels, there are a few features that are not supported, including:
 
-- Only Azure AD work or school accounts are supported for external participants. **Guests cannot be added to Shared Channels (see [Guests and shared channels in Teams](https://support.microsoft.com/office/guests-and-shared-channels-in-teams-612de4ce-e7a3-4579-b086-bb8ff9f2d11e)).**
+- Only Microsoft Entra work or school accounts are supported for external participants. **Guests cannot be added to Shared Channels (see [Guests and shared channels in Teams](https://support.microsoft.com/office/guests-and-shared-channels-in-teams-612de4ce-e7a3-4579-b086-bb8ff9f2d11e)).**
 - Shared channels support tabs except for Stream, Planner, and Forms.
 - LOB apps, bots, connectors, and message extensions are not supported.
 - When you create a team from an existing team, any shared channels in the existing team won't be copied over.

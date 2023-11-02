@@ -2,7 +2,7 @@
 title: Advanced Highlighted Content Web Part
 ms.date: 12/29/2021
 author: PatD
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: sharepoint-online

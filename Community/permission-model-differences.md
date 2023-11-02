@@ -3,7 +3,7 @@ title: Planning Permissions with Group-based SharePoint Sites... when you're use
 ms.date: 07/01/2020
 author: PatD
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: sharepoint-online
@@ -67,7 +67,7 @@ Product names overlap a little, so here are some stories describing common scena
 
 *My team needed to collaborate, so I signed into Teams and made a Team.  That also generated a Group SharePoint site, and a Planner Board!  When I add a user to the Team, they have access all over.*
 
-*I had to add some read-only users to my legacy SharePoint Online Site. I went to Site Permissions and added them to the existing Azure Active Directory Visitors Group.  I didn't see a link that said 'Members' on the screen.*
+*I had to add some read-only users to my legacy SharePoint Online Site. I went to Site Permissions and added them to the existing Microsoft Entra Visitors Group.  I didn't see a link that said 'Members' on the screen.*
 
 *My boss told me to own our group's Planner board, so my IT department made me an Owner of this Office 365 Group! I can now add users to a SharePoint Group Site! And delete Planner Boards.*
 

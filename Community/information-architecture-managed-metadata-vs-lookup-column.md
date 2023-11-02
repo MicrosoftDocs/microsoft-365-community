@@ -3,7 +3,7 @@ title: Information Architecture - Managed Metadata versus Lookup columns
 ms.date: 3/3/2020
 author: sympmarc
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: sharepoint-online

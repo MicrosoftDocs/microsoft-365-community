@@ -3,7 +3,7 @@ title: How to Elevate Staff and Training – supporting the Microsoft 365 Maturi
 ms.date: 10/1/2020
 author: eemancini
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365

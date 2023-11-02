@@ -3,7 +3,7 @@ title: How to elevate Collaboration - supporting the Maturity Model for Microsof
 ms.date: 4/4/2020
 author: eemancini
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365

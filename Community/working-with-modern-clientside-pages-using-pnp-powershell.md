@@ -3,7 +3,7 @@ title: Working with modern client-side pages using PnP PowerShell
 ms.date: 03/04/2020
 author: JimmyHang
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: sharepoint-online
@@ -44,7 +44,7 @@ This is the first command we need to know in PnP:
 
 > [!NOTE]
 > The switch "Interactive" will make sure you can authenticate if your account is configured with [MFA](glossary.md#multi-factor-authentication-mfa), and provides more features.
-> But this requires the tenant admin approval of the "PnP Management Shell" app in Azure AD, and it's not easy to get this approval sometimes.
+> But this requires the tenant admin approval of the "PnP Management Shell" app in Microsoft Entra ID, and it's not easy to get this approval sometimes.
 
 After connecting you can start working with the pages you have in the site.
 

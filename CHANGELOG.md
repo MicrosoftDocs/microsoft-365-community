@@ -6,6 +6,134 @@
 
 Note: Changelog started in January, 2021
 
+## October, 2023
+
+### New Articles - October, 2023
+
+| Article | Principal Author |
+|---|---|
+| [Maturity Model for Microsoft 365 Practical Scenarios – Servicing Microsoft 365 Apps](./Community/maturity-model-microsoft365-servicing-microsoft365-apps.md) | [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/) |
+| [Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Change Management](./Community/maturity-model-microsoft365-servicing-microsoft365-service-change-management.md) | [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/) |
+
+### Updated Articles - October, 2023
+
+| Article | Updated By |
+|---|---|
+| [What are Maturity Model for Microsoft 365 Practical Scenarios?](./Community/maturity-model-microsoft365-practical-scenarios.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+
+### Removed/retired Articles - October, 2023
+
+| Article | Updated By |
+|---|---|
+| [Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces](./Community/Yet-another-Tool-Why-you-will-probably-love-Project-Moca-aka-Outlook-Spaces.md) | [Luise Freese, MVP](https://www.linkedin.com/in/LuiseFreese)|
+
+### New Contributors - October, 2023
+
+- [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/)
+
+## September, 2023
+
+### New Articles - September, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - September, 2023
+
+| Article | Updated By |
+|---|---|
+| [Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.md) | [Luca Bandinelli](https://www.linkedin.com/in/luca-bandinelli-37b209/) |
+
+### New Contributors - September, 2023
+
+- [Luca Bandinelli](https://www.linkedin.com/in/luca-bandinelli-37b209/)
+
+## August, 2023
+
+### New Articles - August, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - August, 2023
+
+| Article | Updated By |
+|[Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.mdd) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
+
+### New Contributors - August, 2023
+
+-
+
+## July, 2023
+
+### New Articles - July, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - July, 2023
+
+| Article | Updated By |
+|---|---|
+| [Which Task Management Tool is Right For Me](./Community/which-task-management-option.md) | [Ryan Gates]() |
+
+### New Contributors - July, 2023
+
+- [Ryan Gates]()
+
+## June, 2023
+
+### New Articles - June, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - June, 2023
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Cognitive Business Competency](./ommunity/which-task-management-option.md) | [Hiroshi Yoshioka](https://www.linkedin.com/in/hiroshi-yoshioka-766b35165/) |
+
+### New Contributors - June, 2023
+
+- [Hiroshi Yoshioka](https://www.linkedin.com/in/hiroshi-yoshioka-766b35165/)
+
+## May, 2023
+
+### New Articles - May, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - May, 2023
+
+| Article | Updated By |
+|---|---|
+| [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps.md) | [Tyler Farmer](https://www.linkedin.com/in/tylerfarmer1/) |
+
+### New Contributors - May, 2023
+
+- [Tyler Farmer](https://www.linkedin.com/in/tylerfarmer1/)
+
+## April, 2023
+
+### New Articles - April, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - April, 2023
+
+| Article | Updated By |
+|---|---|
+| [List and Library Formatting](./Community/list-formatting-101.md) | [Robert Finkley](https://www.linkedin.com/in/robert-finkley-a0252517/) |
+| [Taking Advantage of the Content Type Inheritance Model in SharePoing](./Community/taking-advantage-content-type-inheritance-sharepoint.md) | [Gaurav Mahajan](https://www.linkedin.com/in/imgauravmahajan/) |
+
+### New Contributors - April, 2023
+
+- [Robert Finkley](https://www.linkedin.com/in/robert-finkley-a0252517/)
+- [Gaurav Mahajan](https://www.linkedin.com/in/imgauravmahajan/)
+
 ## March, 2023
 
 ### New Articles - March, 2023
@@ -21,11 +149,7 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - March, 2023
 
-### Removed/retired Articles - October, 2023
-
-| Article | Updated By |
-|---|---|
-| [Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces](./Community/Yet-another-Tool-Why-you-will-probably-love-Project-Moca-aka-Outlook-Spaces.md) | [Luise Freese, MVP](https://www.linkedin.com/in/LuiseFreese)|
+-
 
 ## February, 2023
 

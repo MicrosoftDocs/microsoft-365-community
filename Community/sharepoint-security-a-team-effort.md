@@ -3,7 +3,7 @@ title:  "Managing SharePoint Online Security: A Team Effort"
 ms.date: 6/27/2020
 author: veronicageek
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: sharepoint-online

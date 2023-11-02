@@ -3,7 +3,7 @@ title: How to Elevate People and Communities – supporting the Microsoft 365 Ma
 ms.date: 11/10/2020
 author: eemancini
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365

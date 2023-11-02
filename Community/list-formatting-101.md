@@ -4,7 +4,7 @@ ms.date: 12/19/2022
 author: dfrancoeur
 ms.author: daisyfeller
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.service: microsoft-365
 localization_priority: 
@@ -127,7 +127,7 @@ Critically, this function does not yet seem to allow for adding buttons to creat
 - As before, experiment with different ways to visualize your information that makes it easier to consume for end users but try to use consistent patterns for similar lists and libraries.
 - Use Command Bar formatting with caution as inconsistent action bars throughout several lists and libraries will cause confusion for end users.
 
-#### iew Formatting - Useful Resources
+#### View Formatting - Useful Resources
 
 - [Microsoft: Use view formatting to customize SharePoint](/sharepoint/dev/declarative-customization/view-formatting)
 - [Microsoft: Group Formatting](/sharepoint/dev/declarative-customization/view-group-formatting)

@@ -3,7 +3,7 @@ title: Teams Shared Channels for Admins
 ms.date: 5/10/2022
 author: JimmyHang
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: msteams
@@ -49,7 +49,7 @@ Collaborating in chats will show an "alert" with a message about the "shared cha
 
 ## Where is the "External" user?
 
-As you may know, when you add a external user in a Microsoft Team, they exist as a "Guest", and the guest record will exist in your [Azure Active Directory (AAD)](glossary.md#azure-active-directory-aad), meaning you can enforce policies, such as [Multi-Factor Authentication (MFA)](glossary.md#multi-factor-authentication-mfa) for the guest account.
+As you may know, when you add a external user in a Microsoft Team, they exist as a "Guest", and the guest record will exist in your [Microsoft Entra ID](glossary.md#azure-active-directory-aad), meaning you can enforce policies, such as [Multi-Factor Authentication (MFA)](glossary.md#multi-factor-authentication-mfa) for the guest account.
 
 But for shared channels, the "External" user only exists as an external user to that shared channel. Currently, there are three places where we can see those external users:
 

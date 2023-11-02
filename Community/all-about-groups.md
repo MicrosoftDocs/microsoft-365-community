@@ -3,7 +3,7 @@ title: Groups in Microsoft 365 and Azure, and Which is Right for You
 ms.date: 8/31/2020
 author: ToddKlindt
 ms.reviewer: daisyfeller
-manager: pamgreen-msft
+manager: pamgreen
 ms.topic: article
 ms.author: daisyfeller
 ms.service: microsoft-365
@@ -18,29 +18,39 @@ ms.collection: M365Community
 
 ## What's With All These Groups?
 
-Azure and Microsoft 365 are the culmination of decades of technical evolution and the desire to be as backwards compatible as possible. While those are noble and righteous goals, they do come with some baggage. In this case that baggage is many object types in Azure Active Directory and Microsoft 365 that are "groups" and it's not entirely obvious what each group is or isn't, and which group you should use for any given scenario. In this article we hope to unravel that mystery some and provide you with the tools you need to make the right choice. We will cover [Azure AD Security Groups](#azure-ad-security-groups), [Microsoft 365 Groups](#microsoft-365-groups), and [SharePoint Groups](#sharepoint-groups).
+Azure and Microsoft 365 are the culmination of decades of technical evolution and the desire to be as backwards compatible as possible. While those are noble and righteous goals, they do come with some baggage. In this case that baggage is many object types in Microsoft Entra ID and Microsoft 365 that are "groups" and it's not entirely obvious what each group is or isn't, and which group you should use for any given scenario. In this article we hope to unravel that mystery some and provide you with the tools you need to make the right choice. We will cover [Microsoft Entra Security Groups](#azure-ad-security-groups), [Microsoft 365 Groups](#microsoft-365-groups), and [SharePoint Groups](#sharepoint-groups).
 
-## Azure AD Security Groups
+<a name='azure-ad-security-groups'></a>
 
-### What are Azure AD Security Groups?
+## Microsoft Entra Security Groups
 
-Azure AD Security Groups are analogous to Security Groups in on-prem Windows Active Directory. They are Security Principals, which means they can be used to secure objects in Azure AD. They can be created natively in Azure AD, or synced from Windows AD with [Azure AD Connect](/azure/active-directory/cloud-sync/what-is-cloud-sync). Their membership can be static, or it can be [generated dynamically](/azure/active-directory/users-groups-roles/groups-create-rule) with rules.
+<a name='what-are-azure-ad-security-groups'></a>
 
-### Who can manage Azure AD Security Groups?
+### What are Microsoft Entra Security Groups?
 
-There are several groups of people that can manage Azure AD Security Groups. If the group is synced from on premises Windows AD they cannot be managed in Azure AD. They must be managed on-prem with tools like the Active Directory Users and Computers. Changes made there will sync up to Azure AD with Azure AD Connect. In the Azure AD Portal synced Security Groups will have a Source of "Windows server AD."
+Microsoft Entra Security Groups are analogous to Security Groups in on-prem Windows Active Directory. They are Security Principals, which means they can be used to secure objects in Microsoft Entra ID. They can be created natively in Microsoft Entra ID, or synced from Windows AD with [Microsoft Entra Connect](/azure/active-directory/cloud-sync/what-is-cloud-sync). Their membership can be static, or it can be [generated dynamically](/azure/active-directory/users-groups-roles/groups-create-rule) with rules.
 
-Azure AD Security Groups that are cloud-only can be managed by users in the tenant that have the appropriate [admin roles](/azure/active-directory/users-groups-roles/directory-assign-admin-roles). This includes, but is not limited to, Global Administrator, Directory Writers, Groups Administrator, Privileged Role Administrator, SharePoint Administrator, and User Administrator.
+<a name='who-can-manage-azure-ad-security-groups'></a>
 
-### How do they manage Azure AD Security Groups?
+### Who can manage Microsoft Entra Security Groups?
 
-Because Azure has good, well documented APIs, there are a variety of ways to manage them. The most common way to manage them with a UI is the [Azure Portal](/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal). The Azure Portal is fully featured, so users with the appropriate roles can create, edit, view, and delete Azure AD Security Groups from there.
+There are several groups of people that can manage Microsoft Entra Security Groups. If the group is synced from on premises Windows AD they cannot be managed in Microsoft Entra ID. They must be managed on-prem with tools like the Active Directory Users and Computers. Changes made there will sync up to Microsoft Entra ID with Microsoft Entra Connect. In the Microsoft Entra admin center synced Security Groups will have a Source of "Windows server AD."
 
-PowerShell can also be used to manage Azure AD Security Groups with the [Azure AD Module](/azure/active-directory/users-groups-roles/groups-settings-v2-cmdlets). This module does not work with .Net Core, so it requires a Windows PowerShell 5.x host.
+Microsoft Entra Security Groups that are cloud-only can be managed by users in the tenant that have the appropriate [admin roles](/azure/active-directory/users-groups-roles/directory-assign-admin-roles). This includes, but is not limited to, Global Administrator, Directory Writers, Groups Administrator, Privileged Role Administrator, SharePoint Administrator, and User Administrator.
 
-### How are Azure AD Security Groups used?
+<a name='how-do-they-manage-azure-ad-security-groups'></a>
 
-Azure AD Security Groups aren't used much in Microsoft 365. They can be used to [apply licenses to users](/azure/active-directory/users-groups-roles/licensing-groups-assign) based on their group membership. This can be part of an onboarding process to automate licensing a user to Microsoft 365. Azure AD Security Groups can also be added to SharePoint Groups to grant access to SharePoint resources. The risk with that approach is that the SharePoint Site Owners and Administrators don't necessarily have exposure to who is a member of that Azure AD Security Group, so they don't know who can access their SharePoint Site.
+### How do they manage Microsoft Entra Security Groups?
+
+Because Azure has good, well documented APIs, there are a variety of ways to manage them. The most common way to manage them with a UI is the [Azure Portal](/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal). The Azure Portal is fully featured, so users with the appropriate roles can create, edit, view, and delete Microsoft Entra Security Groups from there.
+
+PowerShell can also be used to manage Microsoft Entra Security Groups with the [Azure AD module](/azure/active-directory/users-groups-roles/groups-settings-v2-cmdlets). This module does not work with .Net Core, so it requires a Windows PowerShell 5.x host.
+
+<a name='how-are-azure-ad-security-groups-used'></a>
+
+### How are Microsoft Entra Security Groups used?
+
+Microsoft Entra Security Groups aren't used much in Microsoft 365. They can be used to [apply licenses to users](/azure/active-directory/users-groups-roles/licensing-groups-assign) based on their group membership. This can be part of an onboarding process to automate licensing a user to Microsoft 365. Microsoft Entra Security Groups can also be added to SharePoint Groups to grant access to SharePoint resources. The risk with that approach is that the SharePoint Site Owners and Administrators don't necessarily have exposure to who is a member of that Microsoft Entra Security Group, so they don't know who can access their SharePoint Site.
 
 ## Microsoft 365 Groups
 
@@ -70,7 +80,7 @@ These are the same SharePoint Groups we know and love from on premises SharePoin
 
 ### Who can manage SharePoint Groups?
 
-Anyone with the "Create Groups" and "Manage Permissions" permissions in the SharePoint site can manage SharePoint Groups. Since this not an Azure AD object, having elevated roles in Azure AD does not allow someone to manage SharePoint Groups. A user with the SharePoint admin Role could grant themselves Administrator permissions to a SharePoint site, then they could manage that site's SharePoint Groups.
+Anyone with the "Create Groups" and "Manage Permissions" permissions in the SharePoint site can manage SharePoint Groups. Since this not a Microsoft Entra object, having elevated roles in Microsoft Entra ID does not allow someone to manage SharePoint Groups. A user with the SharePoint admin Role could grant themselves Administrator permissions to a SharePoint site, then they could manage that site's SharePoint Groups.
 
 ### How do they manage SharePoint Groups?
 
