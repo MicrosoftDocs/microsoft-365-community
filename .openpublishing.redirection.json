@@ -4,6 +4,12 @@
       "source_path": "Community/powerplatformlicensingforcitizendeveloper.md",
       "redirect_url": "/power-platform/admin/pricing-billing-skus",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/Yet-another-Tool-Why-you-will-probably-love-Project-Moca-aka-Outlook-Spaces.md",
+      "redirect_url": "/microsoft-365/community/",
+      "redirect_document_id": false
     }
+
   ] 
 }
