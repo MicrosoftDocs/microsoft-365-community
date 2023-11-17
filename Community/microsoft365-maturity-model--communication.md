@@ -272,7 +272,7 @@ Every organization can choose how best to use the Microsoft 365 platform for com
 - Viva Goals
 - Viva Insights
 - Viva Pulse
-- Viva Topics
+- Topics
 - Yammer
 
 ## Resources
