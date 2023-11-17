@@ -328,7 +328,7 @@ Every organization can choose how best to use the Microsoft 365 platform for col
 - Viva Goals
 - Viva Insights
 - Viva Sales
-- Viva Topics
+- Topics
 - Word
 - Yammer
 
