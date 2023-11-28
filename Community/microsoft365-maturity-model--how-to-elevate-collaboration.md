@@ -150,7 +150,7 @@ At the 400 level, a more strategic view of platform apps and services leads to a
 - With the steering committee, determine a feedback cycle to continually review existing practices to support more effective collaboration. New releases and improvements to the collaboration guidelines are discussed throughout the year to ensure the newest Microsoft 365 releases and their impacts to existing processes are considered.
 - There is an increased focus on using existing metadata to present content in a search-based manner, reducing the manual work of content curation and decreasing the likelihood of duplication of content.
 
-For example, you may being exploring automation of metadata and centralized knowledge management through tools like [Viva Topics](/microsoft-365/knowledge/topic-experiences-overview) to create topic cards, automatically surface related documents, and showcase subject matter experts.
+For example, you may being exploring automation of metadata and centralized knowledge management through tools like [Topics](/microsoft-365/knowledge/topic-experiences-overview) to create topic cards, automatically surface related documents, and showcase subject matter experts.
 
 ### Content 400 to 500
 

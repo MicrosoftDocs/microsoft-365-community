@@ -40,15 +40,15 @@ These defaults enable five of the most common security features and controls.
 
 A caveat to using these controls is that if you have custom created Conditional Access Policies, you cannot utilize them.
 
-To enable the Security Defaults within your Microsoft 365 directory:
+To enable the Security Defaults:
 
-1. Sign in to the [Azure Portal](https://portal.azure.com) as either a Security Administrator, Conditional Access Administrator or Global Administrator
-2. Click on **Microsoft Entra ID**, then click **Properties**
-3. Select the link at the bottom labeled **Manage Security Defaults**
-4. Set the **Enable Security Defaults** toggle to **Yes**
-5. Select **Save**
+1. Sign in to the [Microsoft Entra admin center](https://entra.microsoft.com) as least a [Security Administrator](/entra/identity/role-based-access-control/permissions-reference#security-administrator).
+1. Browse to **Identity** > **Overview** > **Properties**.
+1. Select **Manage security defaults**.
+1. Set **Security defaults** to **Enabled**.
+1. Select **Save**.
 
-You can also choose to disable these features and create your own set of security rules and controls, by either not enabling the Security Defaults or if they are enabled setting the Enable Security Defaults toggle to No. Learn more about the [Security Defaults provided out of the box](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults).
+You can also choose to disable these features and create your own set of security rules and controls, by either not enabling the Security Defaults or if they are enabled setting Security Defaults toggle to **Disabled**. Learn more about the [Security Defaults provided out of the box](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults).
 
 ## Custom Security Configuration
 
