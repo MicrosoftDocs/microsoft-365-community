@@ -404,7 +404,7 @@ Microsoft 365 E5 combines best-in-class productivity apps with advanced security
 
 ### [eDiscovery](/microsoft-365/compliance/ediscovery)
 
-Electronic discovery, or eDiscovery, is the process of identifying and delivering electronic information that can be used as evidence in legal cases. You can use eDiscovery tools in Microsoft 365 to search for content in Exchange Online, OneDrive for Business, SharePoint Online, Microsoft Teams, Microsoft 365 Groups, and Yammer.
+Electronic discovery, or eDiscovery, is the process of identifying and delivering electronic information that can be used as evidence in legal cases. You can use eDiscovery tools in Microsoft 365 to search for content in Exchange Online, OneDrive for Business, SharePoint Online, Microsoft Teams, Microsoft 365 Groups, and Viva Engage.
 
 ### [Endpoint Manager](/mem/endpoint-manager-overview)
 
@@ -748,7 +748,7 @@ A library is a type of list where documents or other files are added as items, b
 
 ### [Live Events (Teams)](/microsoftteams/teams-live-events/what-are-teams-live-events)
 
-With Teams live events, users in your organization can broadcast video and meeting content to large online audiences. Microsoft 365 live events bring live video streaming to a new level. Live events encourage connection throughout the entire engagement lifecycle with attendees before, during, and after live events. You can create a live event wherever your audience, team, or community resides, using Microsoft Stream, Teams, or Yammer.
+With Teams live events, users in your organization can broadcast video and meeting content to large online audiences. Microsoft 365 live events bring live video streaming to a new level. Live events encourage connection throughout the entire engagement lifecycle with attendees before, during, and after live events. You can create a live event wherever your audience, team, or community resides, using Microsoft Stream, Teams, or Viva Engage.
 
 ### [Log Analytics](/azure/azure-monitor/logs/log-analytics-overview)
 
@@ -1545,9 +1545,9 @@ No, not the outdated Windows operating system.  In this case, XP stands for Expe
 
 ## Y
 
-### [Yammer](/office365/servicedescriptions/yammer-service-description/yammer-service-description)
+### [Viva Engage](/office365/servicedescriptions/Viva Engage-service-description/Viva Engage-service-description)
 
-Engaging your people is more critical than ever. Yammer connects leaders, communicators, and employees to build communities, share knowledge, and engage everyone. Yammer helps you connect and engage across your organization, so you can discuss ideas, share updates, and network with others.
+Engaging your people is more critical than ever. Viva Engage connects leaders, communicators, and employees to build communities, share knowledge, and engage everyone. Viva Engage helps you connect and engage across your organization, so you can discuss ideas, share updates, and network with others.
 
 ## Z
 
