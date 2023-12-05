@@ -37,7 +37,7 @@ When we feel our document is "ready" or has reached a point where we would like 
 
 Once we've collaborated on the document with the small circle, we may decide it is ready for our larger work team to review and give us feedback. At this point, we may move the document from our OneDrive into the Team Site (SharePoint) or Files tab (Microsoft Teams) where out team has access and we share a link again. This is the beginning of the shift from the inner loop to the outer loop.
 
-If our ideas in the document are truly useful or brilliant, we may end up publishing the content on our Intranet as part of our department's Communication Site (SharePoint) or on Yammer.
+If our ideas in the document are truly useful or brilliant, we may end up publishing the content on our Intranet as part of our department's Communication Site (SharePoint) or on Viva Engage.
 
 We may get such rave reviews for this document that we end up publishing it externally, perhaps on our Intranet site or in presentations at conferences or symposia. Usually before this happens, the document (or connected content in another form) goes through another round of editing in its new form, and that can happen by resetting back to the personal thoughts entry point above. Content we share externally generally requires a different tone and filter than that which we share internally.
 

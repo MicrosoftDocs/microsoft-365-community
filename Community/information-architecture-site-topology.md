@@ -44,7 +44,7 @@ Every new SharePoint site collection is created under the flat topology, with ne
 
 Also, when a user creates a new Team in Microsoft Teams, Office 365 creates an associated SharePoint site collection (also located under https://*tenantname*.sharepoint.com/sites/*sitename* or https://*tenantname*.sharepoint.com/teams/*sitename*); Microsoft Teams uses the associated SharePoint site collection to store documents and other relevant information.
 
-The same applies to Office 365 Groups from Outlook, Planner, or Yammer.
+The same applies to Office 365 Groups from Outlook, Planner, or Viva Engage.
 
 The flat topology helps support a self-service and cross-product architecture that would be practically impossible to manage in a top-down topology.
 
@@ -105,7 +105,7 @@ After you consider your *physical* and *logical* site topology, take a look at t
 
 As you develop your organization's site topology, you may wish to define a site collection naming convention. A naming convention can help users identify the function of a site collection, membership, geographic region, or who created the site collection.
 
-As Office 365 allows users to create site collections, either directly in SharePoint, or via any other group workloads (Outlook, Microsoft Teams, Planner, or Yammer), the only 100% reliable way to enforce a naming convention is by enabling *group naming policies*.
+As Office 365 allows users to create site collections, either directly in SharePoint, or via any other group workloads (Outlook, Microsoft Teams, Planner, or Viva Engage), the only 100% reliable way to enforce a naming convention is by enabling *group naming policies*.
 
 Since all Office 365 group workloads automatically create SharePoint site collections, naming policies affect all group workloads -- not just SharePoint.
 

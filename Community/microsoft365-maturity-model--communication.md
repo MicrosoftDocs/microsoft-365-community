@@ -26,7 +26,7 @@ Knowledge in the board room must get to the mailroom; likewise, senior staff nee
 
 ## Definition of this competency
 
-Communication is generally defined as a smaller number of people providing useful information to a larger group of people. This is most commonly the model for Intranet sites in SharePoint, Yammer groups, or organization-wide Teams.
+Communication is generally defined as a smaller number of people providing useful information to a larger group of people. This is most commonly the model for Intranet sites in SharePoint, Viva Engage groups, or organization-wide Teams.
 
 Communication encompasses the processes of creation, approval, and distribution of content. The content itself can take many forms, such as News Posts, discussions about broad topics, articles and blog posts, benefits descriptions, etc. It can also encompass high importance alerts and notifications, possibly with feedback and tracking.  Concepts like consistency, predictability, and relevance require both human investment and a robust technology platform.
 
@@ -273,7 +273,7 @@ Every organization can choose how best to use the Microsoft 365 platform for com
 - Viva Insights
 - Viva Pulse
 - Topics
-- Yammer
+- Viva Engage
 
 ## Resources
 
