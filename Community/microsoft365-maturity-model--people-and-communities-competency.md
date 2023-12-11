@@ -99,7 +99,7 @@ Employees may begin to see the value in separating communication into different 
 
 #### 300 Culture
 
-- Commonality across teams starts to drive where communities are created and set up. Microsoft Teams or Yammer Communities are created based on the type of work people are doing rather than a one-size-fits-all approach. 
+- Commonality across teams starts to drive where communities are created and set up. Microsoft Teams or Viva Engage Communities are created based on the type of work people are doing rather than a one-size-fits-all approach. 
 - Team communication channels are well defined and agreed upon as a standard business process. 
 - Community spaces connect a targeted set of users. The purpose and etiquette of community spaces is defined.
 
@@ -126,14 +126,14 @@ End users begin to see the ROI for completing their profiles as they can more ea
 
 #### 400 Culture
 
-- A strategic view of all communication channels including email, Yammer Communities, Teams (backed by Microsoft 365 Groups), distribution lists, and security groups increases engagement in the respective communities. These opportunities lead to serendipitous connections between people who might not have previously collaborated. 
+- A strategic view of all communication channels including email, Viva Engage Communities, Teams (backed by Microsoft 365 Groups), distribution lists, and security groups increases engagement in the respective communities. These opportunities lead to serendipitous connections between people who might not have previously collaborated. 
 - Communities flourish under governance.
 - Communities and their members are easily discoverable through search. End users begin following the groups and communities which match their interests, even if not directly aligned with their work.
 
 #### 400 Process
 
 - There is an increased focus on self-service for end users to apply solutions and technologies to their work so they can manage their own membership. 
-- Manually maintained distribution lists are uncommon having been replaced by dynamic distribution lists and groups, based upon employee characteristics for all company communication, Microsoft 365 Groups for teamwork conversations, and Yammer for company-wide and cultural communication.
+- Manually maintained distribution lists are uncommon having been replaced by dynamic distribution lists and groups, based upon employee characteristics for all company communication, Microsoft 365 Groups for teamwork conversations, and Viva Engage for company-wide and cultural communication.
 - Profile fields may integrate with Line of Business data.
 - Dynamic organization charts are available based on up-to-date data about each employee.
 - Staff photos are updated across multiple systems and profiles from definitive, managed source. Photography style is defined.
@@ -196,7 +196,7 @@ Improving your People and Communities maturity means rethinking your processes a
 
 - Delve
 - MyAnalytics
-- Yammer
+- Viva Engage
 - Microsoft Teams
 - SharePoint
 - Microsoft 365 Groups
@@ -209,7 +209,7 @@ Improving your People and Communities maturity means rethinking your processes a
 ## Related documents
 
 - [How to Share Org-Wide Communication in Microsoft 365](/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
-- [Join and create a community in Yammer](https://support.microsoft.com/office/join-and-create-a-community-in-yammer-56aaf591-1fbc-4160-ba26-0c4723c23fd6)
+- [Join and create a community in Viva Engage](https://support.microsoft.com/office/join-and-create-a-community-in-Viva Engage-56aaf591-1fbc-4160-ba26-0c4723c23fd6)
 - [Manage Dynamic Distribution Groups](/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups)
 - [Principles of Communication](/microsoft-365/community/principles-of-communication)
 

@@ -330,7 +330,7 @@ Every organization can choose how best to use the Microsoft 365 platform for col
 - Viva Sales
 - Topics
 - Word
-- Yammer
+- Viva Engage
 
 ## Resources
 

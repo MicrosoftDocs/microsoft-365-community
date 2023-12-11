@@ -40,7 +40,7 @@ Focus on known working groups, like project teams and departments, to begin tran
 
 A department, depending on the size and company culture, may also benefit from a Microsoft 365 Group. Large departments where all members are not actively collaborating may be best served by a Dynamic Distribution Group as communication is primarily one way and the smaller functions within the department are then collaborating with Microsoft 365 Groups.
 
-Begin to pilot open community spaces like Yammer or an org-wide Team. The "outer loop" is focused on sharing information widely across an organization outside the known working groups. There is not a known set of members as it can be fluid and communication is often focused on surfacing new ideas, gathering feedback, knowledge sharing, breaking down silos, and connecting the business with senior leaders. Focus on moving company-wide communication that seeks to foster two-way communication to Yammer or an org-wide Team ([depending on company culture and size](how-to-share-org-wide-communications-in-microsoft-365.md#company-culture)).
+Begin to pilot open community spaces like Viva Engage or an org-wide Team. The "outer loop" is focused on sharing information widely across an organization outside the known working groups. There is not a known set of members as it can be fluid and communication is often focused on surfacing new ideas, gathering feedback, knowledge sharing, breaking down silos, and connecting the business with senior leaders. Focus on moving company-wide communication that seeks to foster two-way communication to Viva Engage or an org-wide Team ([depending on company culture and size](how-to-share-org-wide-communications-in-microsoft-365.md#company-culture)).
 
 ### People (level 100 to 200)
 
@@ -54,11 +54,11 @@ To advance to the 300 level, consider the following activities:
 
 ### Communities (level 200 to 300)
 
-After piloting Microsoft 365 Groups (with associated Yammer community or Microsoft Team) and Dynamic Distribution Groups, focus on creating guidelines and associated training for what-to-use-when across the organization. The guidelines should consider the company culture, company size, persistence of communication, intent of communication, and audience.
+After piloting Microsoft 365 Groups (with associated Viva Engage community or Microsoft Team) and Dynamic Distribution Groups, focus on creating guidelines and associated training for what-to-use-when across the organization. The guidelines should consider the company culture, company size, persistence of communication, intent of communication, and audience.
 
 For example:
 
-- A running group previously sent emails to the company-wide distribution list managed by IT whenever they met for their weekly Thursday runs. The running group is open for anyone in the company to join and is not directly related to business objectives. This group should now transition to a Yammer community as they are communicating to an unknown and open audience, their communication is dynamic with a shorter lifespan, and there is no need to collaborate on files or other outputs. A company may decide all employee resource groups belong in Yammer.
+- A running group previously sent emails to the company-wide distribution list managed by IT whenever they met for their weekly Thursday runs. The running group is open for anyone in the company to join and is not directly related to business objectives. This group should now transition to a Viva Engage community as they are communicating to an unknown and open audience, their communication is dynamic with a shorter lifespan, and there is no need to collaborate on files or other outputs. A company may decide all employee resource groups belong in Viva Engage.
 
 - A project team previously worked with IT to manage a distribution list for a set of colleagues responsible for revamping the procurement process. This project team has a known set of members who need to collaborate on files privately until the new program is ready to be launched to the organization. This group should now transition to a Microsoft 365 Group (potentially with a Microsoft Team) as their audience is limited, their collaboration on documents is critical, and this content may need additional retention given the impact to the organization's business processes. After the project is completed, the new business process materials are moved from this working space to the company intranet (likely a SharePoint Communication Site) to support the larger audience consuming the new information.
 
@@ -68,8 +68,8 @@ The most effective guidelines are simple and easy to consume supporting quick de
 |--------------------|------------------------|-----------------------------------------------|--------------------------------|------------------------------------------------------------------------------------|
 | All company        | Static                 | One\-way communication informing the business | None                           | SharePoint Communication Site                                                      |
 | All company        | Dynamic                | One\-way communication informing the business | None or comments only          | SharePoint News \(potentially shared via email with a Dynamic Distribution Group\) |
-| All company, small | Dynamic                | Two\-way communication                        | Chat                           | Org\-wide Team or Yammer                                                           |
-| All company, large | Dynamic                | Two\-way communication                        | Chat                           | Yammer                                                                             |
+| All company, small | Dynamic                | Two\-way communication                        | Chat                           | Org\-wide Team or Viva Engage                                                           |
+| All company, large | Dynamic                | Two\-way communication                        | Chat                           | Viva Engage                                                                             |
 | Project Team       | Dynamic                | All members collaborating                     | Files, calendar, email or chat | Microsoft 365 Group \(potentially with Microsoft Team\)                            |
 | Department, small  | Dynamic                | All members collaborating                     | Files, calendar, email or chat | Microsoft 365 Group \(potentially with Microsoft Team\)                            |
 | Department, large  | Dynamic                | One\-way communication informing the business | None or comments only          | SharePoint News \(potentially shared via email with a Dynamic Distribution Group\) |
@@ -88,7 +88,7 @@ The most effective guidelines are simple and easy to consume supporting quick de
 
 ## How to move from Defined to Predictable to (level 300 to 400)
 
-At the 300 level, commonality across teams starts to drive where communities are created and set up. Microsoft Teams or Yammer Communities are created based on the type of work people are doing rather than a one-size-fits-all approach. Team communication channels are well defined and agreed upon as a standard business process.
+At the 300 level, commonality across teams starts to drive where communities are created and set up. Microsoft Teams or Viva Engage Communities are created based on the type of work people are doing rather than a one-size-fits-all approach. Team communication channels are well defined and agreed upon as a standard business process.
 
 People profiles have additional information populated for skills, expertise, and past projects which can maintained independently. People begin using search to identify subject matter experts in the organization instead of emailing multiple people across the organization because they can find better results with people profiles.
 
@@ -98,7 +98,7 @@ To advance to the 400 level, consider the following activities:
 
 The guidance for what-to-use-when was created in partnership with the business and training was launched to align the business on the new community spaces for collaboration. The focus can shift to creating opportunities for feedback, iterative improvements, and strategic planning as the Microsoft 365 platform continues to evolve.
 
-- Meet with your existing [champions group](identifying-your-sharepoint-champions.md) or begin to form one in your organization for each of the community platforms (Teams, Yammer, and SharePoint). The champions are not necessarily only the top users of these platforms. Including end users who push your governance boundaries, ask lots of questions in training, open tickets for common issues, or who are in the project queue for IT support can all add value to this group by offering diverse perspectives. When forming the champions group, including a spectrum of viewpoints, roles, and technical abilities will ensure you do not come to a false consensus as a group for what works best for the entire organization.
+- Meet with your existing [champions group](identifying-your-sharepoint-champions.md) or begin to form one in your organization for each of the community platforms (Teams, Viva Engage, and SharePoint). The champions are not necessarily only the top users of these platforms. Including end users who push your governance boundaries, ask lots of questions in training, open tickets for common issues, or who are in the project queue for IT support can all add value to this group by offering diverse perspectives. When forming the champions group, including a spectrum of viewpoints, roles, and technical abilities will ensure you do not come to a false consensus as a group for what works best for the entire organization.
 - Form a meeting and communication cadence with this group to share Microsoft announcements, project initiatives, and to serve as an open door for feedback. Staying closely aligned with the end users actively working in these systems will ensure you understand how people are working in Microsoft 365 and what they need to be productive. Your guidance will continue to evolve to meet their needs and as Microsoft makes shifts in their offerings.
 - Continue training and showcase the efforts of end users utilizing self-service opportunities. Share case studies of teams who created their own communities by following the training and guidance. Include specifics around their starting point, pain points that drove the change, and improvements while using new solutions to communicate.
 
@@ -114,7 +114,7 @@ Now that end users have added their skills, expertise, and project data into the
 
 ## How to move from Predictable to Optimizing (level 400 to 500)
 
-Organizations at the 400 level have a strategic view of all communication channels including email, Yammer Communities, Teams (backed by Microsoft 365 Groups), distribution lists, and security groups increasing engagement in the respective communities. There is an increased focus on self-service for end users to apply solutions and technologies to their work so they can manage their own membership.
+Organizations at the 400 level have a strategic view of all communication channels including email, Viva Engage Communities, Teams (backed by Microsoft 365 Groups), distribution lists, and security groups increasing engagement in the respective communities. There is an increased focus on self-service for end users to apply solutions and technologies to their work so they can manage their own membership.
 
 To advance to the 500 level, consider the following activities:
 
@@ -154,7 +154,7 @@ Improving your People and Communities maturity means rethinking your processes a
 - [Manage Dynamic Distribution Groups](/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups)
 - [Welcome to Microsoft Teams](/microsoftteams/teams-overview)
 - [Create and Share News on your SharePoint Sites](https://support.microsoft.com/office/create-and-share-news-on-your-sharepoint-sites-495f8f1a-3bef-4045-b33a-55e5abe7aed7)
-- [What is Yammer?](https://support.microsoft.com/office/what-is-yammer-1b0f3b3e-89ee-4b66-aac5-30def12f287c)
+- [What is Viva Engage?](https://support.microsoft.com/office/what-is-Viva Engage-1b0f3b3e-89ee-4b66-aac5-30def12f287c)
 - [What is Delve?](https://support.microsoft.com/office/what-is-office-delve-1315665a-c6af-4409-a28d-49f8916878ca)
 - [MyAnalytics](/workplace-analytics/myanalytics/mya-landing-page)
 
