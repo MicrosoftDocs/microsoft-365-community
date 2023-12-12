@@ -98,7 +98,7 @@ There is some appreciation of the emergence of potent cognitive tools and there 
 - There is no strategy for introducing AI, though some staff, in isolation, may identify possible areas where existing processes might be improved using AI approaches. A few staff experiment with the tools that are readily available, perhaps using in-house data; management support for this is limited or may be occurring without their knowledge.
 - There is a tendency to think that technology can solve the problem, without rigorously defining the needs. Where cognitive tools are used, they are taken at face value, without critical assessment or integration into business processes and staff response.
 - Staff with knowledge about how to build cognitive models, create appropriate training sets or choose better AI processing models and methods, are largely absent.
-- Content is vital to successful Generative AI solutions and at this level, there will be parts of the organisation that are not all-in and so cannot get the value from Generative AI. These parts of the organisation will start ingesting content into the cloud platform so that they can take advantage of the Generative AI.
+- Content is vital to successful Generative AI solutions and at this level, there will be parts of the organisation that are not all-in with their content not in the cloud. They therefore cannot get the value from Embedded AI. These parts of the organisation will start ingesting content into the cloud platform so that they can take advantage of Embedded AI tooling.
 - Source and training data is not well structured, clean and of sufficient quality and there are few metrics for the quality of this.
 
 #### 200 Technology
@@ -114,6 +114,7 @@ There is some appreciation of the emergence of potent cognitive tools and there 
 - Training data sets are used as-is, without considering ethics, bias or errors that may result from the data.
 - Limitations are not considered, and no safeguards are in place to correct poor AI decisions.
 - Intellectual Property implications are not considered.
+- Understanding the costs for implementing Cognitive Business tools.
 
 #### Level 200 Impacts
 
@@ -121,7 +122,7 @@ At this level, Cognitive business remains the domain of staff, with a few ‘mav
 
 #### Next Steps
 
-To be able to move towards Level 300, there must be sufficient people bought into the competency. To do this, think about the low-hanging fruit where Generative AI can help your organisation quickly. This may be looking at the departments which provide services to the rest of the organisation such as Human Resources. Use these 'quick-wins' to share success stories and show the organisation how Cognitive Business solutions can help the organisation.
+To be able to move towards Level 300, there must be sufficient people bought into the competency. To do this, think about the low-hanging fruit where Generative AI can help your organisation to transform quickly. Look at departments which provide services to the rest of the organisation such as Human Resources. Use Embedded AI to address self-service needs and 'quick-wins'. Share the 'quick-wins; and success stories across the organisations to show the value of Cognitive Business solutions.
 
 ### Level 300 - Defined
 
