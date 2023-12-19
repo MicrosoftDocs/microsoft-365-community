@@ -99,39 +99,46 @@ AI has no direct, measurable impact, which may mean that disruption, when it com
 
 ### Level 200 - Managed
 
-There is some appreciation of the emergence of potent cognitive tools and there may be some experimentation with narrow forms of these to enhance processes or address needs, mostly through configuration of platform-based services and some use of proprietary data for training. This is Proof of Concept work, with limited process design and little to no consideration of governance and risks initially. Most staff do not have an accurate understanding of the capabilities and limitations of the tools and there are unreasonable expectations of perceptions of risk.
+There is some appreciation of the emergence of potent cognitive tools and there may be some experimentation with narrow forms of these to enhance processes or address needs, mostly through the configuration of platform-based services and some use of proprietary data for training. This is Proof of Concept work, with limited process design and little to no consideration of governance and risks initially. Most staff do not have an accurate understanding of the capabilities and limitations of the tools and there are unreasonable expectations of perceptions of risk.
 
 **[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 General
 
 - AI to support a cognitive business is speculated about, often with unreasonable or incorrect assumptions about what it can and cannot do.
-- Staff and management are largely unaware of the AI tools built into their everyday off-the-shelf tools. Where they do, they use it to get answers to questions and copy the answer verbatim.
+- Staff and management are largely unaware of the AI tools built into their everyday off-the-shelf tools. Where they do, they use it to get answers to questions and copy the answers verbatim.
 - There is no strategy for introducing AI, though some staff, in isolation, may identify possible areas where existing processes might be improved using AI approaches. A few staff experiment with the tools that are readily available, perhaps using in-house data; management support for this is limited or may be occurring without their knowledge.
-- There is a tendency to think that technology can solve the problem, without rigorously defining the needs. Where cognitive tools are used, they are taken at face value, without critical assessment or the integration into business processes and the response of staff.
+- There is a tendency to think that technology can solve the problem, without rigorously defining the needs. Where cognitive tools are used, they are taken at face value, without critical assessment or integration into business processes and staff response.
 - Staff with knowledge about how to build cognitive models, create appropriate training sets or choose better AI processing models and methods, are largely absent.
+- Content is vital to successful Generative AI solutions and at this level, there will be parts of the organisation that are not all-in with their content not in the cloud. They therefore cannot get the value from Embedded AI. These parts of the organisation will start ingesting content into the cloud platform so that they can take advantage of Embedded AI tooling.
 - Source and training data is not well structured, clean and of sufficient quality and there are few metrics for the quality of this.
 
 #### 200 Technology
 
 - Content and document management uses some automated classification, though largely with the default configuration and limited training on topics etc. Categorization may be used to improve existing processes, often in a narrow way, usually with out-of-the-box capabilities.
-- AI may be in active use by the platforms used in the organization, such as protecting against security risks, or supporting web searches. Only a few people recognize that this is the case.
-- No technology-stack choices have been made and different platforms and services are being played with a different part of the organization at different depths.
+- AI may be in active use by the platforms used in the organization, such as protecting against security risks or supporting web searches. Only a few people recognize that this is the case.
+- No technology-stack choices have been made and different platforms and services are being played with different parts of the organization at different depths.
 - Cognitive capabilities are not designed into applications, products and services.
 
 #### 200 Governance, Risk, Compliance and Security
 
-- Training data sets are used as-is, without considering ethics, bias or errors that may result from the data
+- There may be instances of content that is overshared and therefore the AI has access to information that it should not have. The organisation will start to address this when these are found.
+- Training data sets are used as-is, without considering ethics, bias or errors that may result from the data.
 - Limitations are not considered, and no safeguards are in place to correct poor AI decisions.
 - Intellectual Property implications are not considered.
+- Understanding the costs for implementing Cognitive Business tools.
 
 #### Level 200 Impacts
 
-At this level Cognitive business remains the domain of staff, with a few ‘mavericks’ extolling the virtues of AI and playing with the capabilities, usually with no oversight by technology, governance or management functions. AI is not contributing to productivity other than through ‘invisible’ AI that is built into of-the-shelf applications and services.
+At this level, Cognitive business remains the domain of staff, with a few ‘mavericks’ extolling the virtues of AI and playing with the capabilities, usually with no oversight by technology, governance or management functions. AI is not contributing to productivity other than through ‘invisible’ AI that is built into off-the-shelf applications and services.
+
+#### Next Steps
+
+To be able to move towards Level 300, there must be sufficient people bought into the competency. To do this, think about the low-hanging fruit where Generative AI can help your organisation to transform quickly. Look at departments which provide services to the rest of the organisation such as Human Resources. Use Embedded AI to address self-service needs and 'quick-wins'. Share the 'quick-wins; and success stories across the organisations to show the value of Cognitive Business solutions.
 
 ### Level 300 - Defined
 
-At level 300, the organization is actively considering how to enhance its knowledge worker activities using AI. While the scope of this may be narrow, with point solutions rather than transformative projects and adoption, there is an outline strategy and intent to enhance the organization through cognitive services. Staff use AI to support their knowledge worker activities, taking advantage of built in tools and some standalone services to assist their day-to-day activity, while the organization begins to research or invest in bespoke business solutions.
+At level 300, the organization is actively considering how to enhance its knowledge worker activities using AI. While the scope of this may be narrow, with point solutions rather than transformative projects and adoption, there is an outline strategy and intent to enhance the organization through cognitive services. Staff use AI to support their knowledge worker activities, taking advantage of built-in tools and some standalone services to assist their day-to-day activity, while the organization begins to research or invest in bespoke business solutions.
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
