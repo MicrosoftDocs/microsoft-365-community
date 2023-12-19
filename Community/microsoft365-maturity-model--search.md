@@ -328,7 +328,7 @@ Organizations should capture success stories to provide examples of the benefits
 
 **Principal authors**:
 
-- [Simon Doy](https://www.linkedin.com/in/simondoy)
+- [Simon Doy, MVP](https://www.linkedin.com/in/simondoy)
 - [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson)
 
 **Contributing authors**:
