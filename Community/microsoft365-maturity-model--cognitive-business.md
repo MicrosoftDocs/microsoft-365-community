@@ -20,7 +20,7 @@ ms.collection: SPCommunity
 
 ## Overview of the Concepts [tl;dr]
 
-AI and ML are rapidly evolving fields, with new breakthroughs, services and capabilities seemingly every week.
+Artificial intelligence (AI) and machine learning (ML) are rapidly evolving fields, with new breakthroughs, services, and capabilities seemingly every week.
 
 In many ways, this revolution is following a [similar track](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle) to other world changing technologies, creating opportunity, threat, FUD, excesses of imagination and paranoia and more. While the technology and its monetization are fearsomely rapid, forward-thinking organizations should be anticipating the roles of various forms of cognitive business and incorporate these into their culture, ways of working, processes and thinking. While pessimists may be concerned about these technologies displacing ‘white-collar’ / knowledge worker roles, pragmatic organizations will be considering the impact of the changes and planning how they can be integrated into their cognitive functions – knowledge creation and access, analysis and assessment, task planning and decision making.
 
@@ -28,35 +28,37 @@ In many ways, this revolution is following a [similar track](https://en.wikipedi
 
 ## Definition of this competency
 
-Cognitive businesses are those that actively employ thinking in its many forms across operational activities and decision making. They are characterized by having significant numbers of ‘[knowledge worker](https://en.wikipedia.org/wiki/Knowledge_worker)’ staff in operational roles, not just management roles.
+Cognitive businesses are those that actively employ thinking in its many forms across operational activities and decision making. They are characterized by having significant numbers of '[knowledge worker](https://en.wikipedia.org/wiki/Knowledge_worker)' staff in operational roles, not just management roles.
 
 This Cognitive Business Competency considers how and where organizations might deploy advanced, computer based cognitive services across their teams and operations.
 
-The technologies used will encompass (narrow and generalized narrow) AI, Machine Learning and other advanced technologies that simulate or mimic human intellectual, analytical and creative activity. For convenience, these will be referred to simply as AI in the rest of this article. The technology scope includes pre-built AI, including those integrated into off the shelf products and suites, ‘invisible’ technologies that don’t provide an apparent user interface, direct human-machine interfaces (such as voice assistants & chat bots), AI platforms and services and custom-built engines for the using organization’s own data. The competency also acknowledges the continued and essential role of human cognition and the relationship between how people and AI work together.
+The technologies used will encompass (narrow and generalized narrow) AI, ML and other advanced technologies that simulate or mimic human intellectual, analytical and creative activity. For convenience, these will be referred to simply as AI in the rest of this article; from a Microsoft 365 perspective, we also will refer to Copilot, in its many forms. There are several hundred different Copilots in development across Microsoft 365.
+
+The technology scope includes pre-built AI, including those integrated into off the shelf products and suites, ‘invisible’ technologies that don’t provide an apparent user interface, direct human-machine interfaces (such as voice assistants & chat bots), AI platforms and services and custom-built engines for the using organization’s own data. The competency also acknowledges the continued and essential role of human cognition and the relationship between how people and AI work together.
 
 Cognitive Business maturity describes the extent to which organizations have understood, adopted and embedded AI-related capabilities in the right combination to improve and, ultimately, optimize the business.
 
 ## Where are we today?
 
-At the time of writing, Cognitive business and AI developments are in the Enthusiasts and Visionaries stage. As noted, AI-related technology is changing quickly and use of this competency should reflect that.
+Cognitive business and AI developments are primarily in the Enthusiasts and Visionaries stages. As noted, AI-related technology is changing quickly and use of this competency should reflect that.
 
 ChatGPT has this to say about Cognitive Business:
 
-> “Cognitive business is a term used to describe the integration of cognitive computing technologies, such as artificial intelligence (AI), machine learning, natural language processing, and robotics, into various business processes and decision-making frameworks. It involves leveraging the power of these technologies to enhance business operations, automate tasks, and gain insights from data to drive innovation, improve customer experiences, and increase efficiency.
+> "Cognitive business is a term used to describe the integration of cognitive computing technologies, such as artificial intelligence (AI), machine learning, natural language processing, and robotics, into various business processes and decision-making frameworks. It involves leveraging the power of these technologies to enhance business operations, automate tasks, and gain insights from data to drive innovation, improve customer experiences, and increase efficiency.
 
 > The goal of cognitive business is to create a more intelligent and adaptive organization that can quickly respond to changing market conditions and customer needs. By using cognitive technologies to analyze vast amounts of data and make better decisions, businesses can gain a competitive edge and create new opportunities for growth.
 
-> Cognitive business can be applied across a range of industries, including healthcare, finance, retail, manufacturing, and more. Examples of cognitive business applications include chatbots and virtual assistants for customer service, predictive analytics for supply chain management, and autonomous vehicles for transportation and logistics.”
+> Cognitive business can be applied across a range of industries, including healthcare, finance, retail, manufacturing, and more. Examples of cognitive business applications include chatbots and virtual assistants for customer service, predictive analytics for supply chain management, and autonomous vehicles for transportation and logistics."
 
 ## Evolution of this competency
 
-There are many aspects to cognitive business, but an important consideration is how cognitive business enables people and ‘intelligent machines’ to work together. The maturity model considers this alongside the deepening capabilities, integration and governance of AI in organizations.
+There are many aspects to cognitive business, but an important consideration is how cognitive business enables people and 'intelligent machines' to work together. The maturity model considers this alongside the deepening capabilities, integration, and governance of AI in organizations.
 
 ![AI Evolution](media/microsoft365-maturity-model--cognitive-business/evolution.png)
 
-As Satya Nadella has said, AI is moving from Autopilot to Co-Pilot:
+As Satya Nadella has said, AI is moving from Autopilot to Copilot:
 
-![Autopilot to CoPilot](media/microsoft365-maturity-model--cognitive-business/Autopilot%20to%20CoPilot.png)
+![Diagram that shows the pathway of AI from Autopilot to Copilot.](media/microsoft365-maturity-model--cognitive-business/Autopilot%20to%20CoPilot.png)
 
 See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
 
@@ -69,57 +71,74 @@ Organizations at this level are unaware of, uninterested in or dismissive of AI 
 #### 100 General
 
 - AI is not knowingly used. It may be unknowingly used in standard products and services.
-- There is no strategy for a cognitive business beyond the capabilities of employees. Not is there any intent to explore it. The cognitive nature of the business is not considered.
+- Internal technology teams are not aware of or have not evaluated any the add-on services which provide AI capabilities, like Copilot.
+- Organizational content is not centrally stored and available for AI ingestion.
+- There is no strategy for a cognitive business beyond the capabilities of employees, nor is there any intent to explore it. The cognitive nature of the business is not considered.
 - AI may be looked on with disdain, as a passing fad or as unable to outperform members of staff.
-- People are doing almost all the cognitive activities across the business, perhaps supported by ‘ordinary’ technology. These may be efficient and effective, and, as such, they see no reason to change.
+- People are doing almost all the cognitive activities across the business, perhaps supported by 'ordinary' technology. These may be efficient and effective, and, as such, they see no reason to change.
 
 #### 100 Technology
 
-- AI embedded in applications and suites is not noticed or used by most staff; no attempt is made to adopt, adapt or explore it.
+- AI embedded in applications and suites is not noticed or used by most staff; no attempt is made to adopt, adapt, or explore it.
 
 #### 100 Governance, Risk, Compliance and Security
 
-- No consideration is given to governance or risks associated with cognitive business activities. Staff are unaware of IP implications where AI tools are used.
+- No consideration is given to governance or risks associated with cognitive business activities. Staff are unaware of intellectual property (IP) implications where AI tools are used.
+- Some part of the organization may be using unsanctioned AI capabilities in multiple platforms, leading to a lack of data sovereignty.
 
 #### 100 Impacts
 
-AI has no direct impact, which may mean that disruption, when it comes, is unanticipated. Competitive advantage arises through investments in the skills or staff; human limitations may create intractable challenges.
+AI has no direct, measurable impact, which may mean that disruption, when it comes, is unanticipated. Competitive advantage arises through investments in the skills or staff; human limitations may create intractable challenges.
+
+#### 100 Next Steps
+
+- Inventory - as best as possible - the ways people in the organization are using AI functionality.
+- Begin to identify some simple use cases to use for testing and piloting cognitive business capabilities.
+- Identify processes with significant repetition where human action could be replaced by AI. At the same time, identify instances where content generation might get a jump start from using AI.
+- Begin evaluating the AI capabilities which are available in in Microsoft 365.
 
 ### Level 200 - Managed
 
-There is some appreciation of the emergence of potent cognitive tools and there may be some experimentation with narrow forms of these to enhance processes or address needs, mostly through configuration of platform-based services and some use of proprietary data for training. This is Proof of Concept work, with limited process design and little to no consideration of governance and risks initially. Most staff do not have an accurate understanding of the capabilities and limitations of the tools and there are unreasonable expectations of perceptions of risk.
+There is some appreciation of the emergence of potent cognitive tools and there may be some experimentation with narrow forms of these to enhance processes or address needs, mostly through the configuration of platform-based services and some use of proprietary data for training. This is Proof of Concept work, with limited process design and little to no consideration of governance and risks initially. Most staff do not have an accurate understanding of the capabilities and limitations of the tools and there are unreasonable expectations of perceptions of risk.
 
 **[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
 
 #### 200 General
 
 - AI to support a cognitive business is speculated about, often with unreasonable or incorrect assumptions about what it can and cannot do.
-- Staff and management are largely unaware of the AI tools built into their everyday off-the-shelf tools. Where they do, they use it to get answers to questions and copy the answer verbatim.
+- Staff and management are largely unaware of the AI tools built into their everyday off-the-shelf tools. Where they do, they use it to get answers to questions and copy the answers verbatim.
 - There is no strategy for introducing AI, though some staff, in isolation, may identify possible areas where existing processes might be improved using AI approaches. A few staff experiment with the tools that are readily available, perhaps using in-house data; management support for this is limited or may be occurring without their knowledge.
-- There is a tendency to think that technology can solve the problem, without rigorously defining the needs. Where cognitive tools are used, they are taken at face value, without critical assessment or the integration into business processes and the response of staff.
+- There is a tendency to think that technology can solve the problem, without rigorously defining the needs. Where cognitive tools are used, they are taken at face value, without critical assessment or integration into business processes and staff response.
 - Staff with knowledge about how to build cognitive models, create appropriate training sets or choose better AI processing models and methods, are largely absent.
+- Content is vital to successful Generative AI solutions and at this level, there will be parts of the organisation that are not all-in with their content not in the cloud. They therefore cannot get the value from Embedded AI. These parts of the organisation will start ingesting content into the cloud platform so that they can take advantage of Embedded AI tooling.
 - Source and training data is not well structured, clean and of sufficient quality and there are few metrics for the quality of this.
 
 #### 200 Technology
 
 - Content and document management uses some automated classification, though largely with the default configuration and limited training on topics etc. Categorization may be used to improve existing processes, often in a narrow way, usually with out-of-the-box capabilities.
-- AI may be in active use by the platforms used in the organization, such as protecting against security risks, or supporting web searches. Only a few people recognize that this is the case.
-- No technology-stack choices have been made and different platforms and services are being played with a different part of the organization at different depths.
+- AI may be in active use by the platforms used in the organization, such as protecting against security risks or supporting web searches. Only a few people recognize that this is the case.
+- No technology-stack choices have been made and different platforms and services are being played with different parts of the organization at different depths.
 - Cognitive capabilities are not designed into applications, products and services.
 
 #### 200 Governance, Risk, Compliance and Security
 
-- Training data sets are used as-is, without considering ethics, bias or errors that may result from the data
+- There may be instances of content that is overshared and therefore the AI has access to information that it should not have. The organisation will start to address this when these are found.
+- Training data sets are used as-is, without considering ethics, bias or errors that may result from the data.
 - Limitations are not considered, and no safeguards are in place to correct poor AI decisions.
 - Intellectual Property implications are not considered.
+- Understanding the costs for implementing Cognitive Business tools.
 
 #### Level 200 Impacts
 
-At this level Cognitive business remains the domain of staff, with a few ‘mavericks’ extolling the virtues of AI and playing with the capabilities, usually with no oversight by technology, governance or management functions. AI is not contributing to productivity other than through ‘invisible’ AI that is built into of-the-shelf applications and services.
+At this level, Cognitive business remains the domain of staff, with a few ‘mavericks’ extolling the virtues of AI and playing with the capabilities, usually with no oversight by technology, governance or management functions. AI is not contributing to productivity other than through ‘invisible’ AI that is built into off-the-shelf applications and services.
+
+#### Next Steps
+
+To be able to move towards Level 300, there must be sufficient people bought into the competency. To do this, think about the low-hanging fruit where Generative AI can help your organisation to transform quickly. Look at departments which provide services to the rest of the organisation such as Human Resources. Use Embedded AI to address self-service needs and 'quick-wins'. Share the 'quick-wins; and success stories across the organisations to show the value of Cognitive Business solutions.
 
 ### Level 300 - Defined
 
-At level 300, the organization is actively considering how to enhance its knowledge worker activities using AI. While the scope of this may be narrow, with point solutions rather than transformative projects and adoption, there is an outline strategy and intent to enhance the organization through cognitive services. Staff use AI to support their knowledge worker activities, taking advantage of built in tools and some standalone services to assist their day-to-day activity, while the organization begins to research or invest in bespoke business solutions.
+At level 300, the organization is actively considering how to enhance its knowledge worker activities using AI. While the scope of this may be narrow, with point solutions rather than transformative projects and adoption, there is an outline strategy and intent to enhance the organization through cognitive services. Staff use AI to support their knowledge worker activities, taking advantage of built-in tools and some standalone services to assist their day-to-day activity, while the organization begins to research or invest in bespoke business solutions.
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
@@ -143,9 +162,8 @@ At level 300, the organization is actively considering how to enhance its knowle
 - It is understood that AI needs some level of governance and oversight. This activity is probably vested in the IT team and is not aligned with broader business strategy and policies.
 - The organization develops and models rules of engagement and governance to take advantage of the benefits of the cognitive systems.
 - Governance of all aspects of the cognitive tools is proportionate to the impacts the system has on business and individuals.
--	It is understood that using public platforms may indirectly place your IP in the public domain. This even applies to asking questions of GPT tools. Staff are briefed on this risk.
--	[Responsible AI](/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai) standards are consulted when actively planning cognitive systems.
-
+- It is understood that using public platforms may indirectly place your IP in the public domain. This even applies to asking questions of GPT tools. Staff are briefed on this risk.
+- [Responsible AI](/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai) standards are consulted when actively planning cognitive systems.
 
 #### Level 300 Impacts
 
@@ -155,18 +173,18 @@ Staff have use public tools, such as AI-driven internet search, saving time allo
 
 ### Level 400 - Predictable
 
-There are processes to build, deploy, integrate and manage AI alongside staff in many areas of the organization. There are mechanisms to manage and monitor AIs that are similar in importance and effect to those used with staff. Feedback processes and performance metrics drive improvements. The organization’s culture accepts and understands the role of AI and the relationship between staff and their AI tools. The organization uses its skills as a flexible cognitive business to create efficiency and business advantage.
+There are processes to build, deploy, integrate, and manage AI alongside staff in many areas of the organization. A clear process exists to accelerate AI integration into existing processes, along with budget commitments. There are mechanisms to manage and monitor AIs that are similar in importance and effect to those used with staff. Feedback processes and performance metrics drive improvements. The organization’s culture accepts and understands the role of AI and the relationship between staff and their AI tools. The organization uses its skills as a flexible cognitive business to create efficiency and business advantage.
 
 **[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
 #### 400 General
 
 - Staff are trained and competent in interacting with tools to optimize their useful outputs.
-- Policies are adopted regarding AI transparency, ethics, performance and scope. These are regularly reviewed and updated in recognition of the pace of change of the technology and regulatory environment.
+- Policies exist and are widely understood regarding AI transparency, ethics, performance, and scope. These policies are regularly reviewed and updated in recognition of the pace of change of the technology and regulatory environment.
 - AI services frequently work alongside human staff, with each complementing the other. Areas that do not require human intervention have human and AI oversight, with both reviewing feedback.
-- AIs that replace staff roles have line management processes, performances reviews, code of conduct guidelines etc. that perform the equivalent role to the staff they replace.
-- There is board level oversight of the cognitive business approaches and ensuring they support the organizations values, ethics and strategy.
-- Cognitive AI outputs are routinely audited and subjected to quality control in the same way as other quality processes. Methods have been developed to validate that training, queries and other inputs produce ‘correct’ outputs.
+- AI that replaces staff roles have line management processes, performance reviews, code of conduct guidelines, etc., that perform the equivalent role to the staff they replace.
+- There is board level oversight of the cognitive business approaches, ensuring they support the organizations values, ethics, and strategy.
+- Cognitive AI outputs are routinely audited and subjected to quality control in the same way as other quality processes. Methods have been developed to validate that training, queries and other inputs produce 'correct' outputs.
 - Cognitive business approaches enable the activities that could not have been done without the tools. Processes are transformed rather than simply enhanced.
 - The level of trust in the tools is understood, continuously re-evaluated and deficiencies addressed.
 - The limits of AI are well understood, and ‘unusual’ cases are handed off to experts. There is a coherent approach to people and AIs working together, with well-defined hand-offs.
@@ -175,14 +193,14 @@ There are processes to build, deploy, integrate and manage AI alongside staff in
 
 #### 400 Technology
 
-- The cognitive business landscape is scanned, and changes and improvements are previewed and incorporated into the business roadmap; the tools are actively ‘upskilled’ as technology advances.
+- The cognitive business landscape is scanned, and changes and improvements are previewed and incorporated into the business roadmap; the tools are actively 'upskilled' as technology advances.
 - Sources and training data are robust, updated, assessed and managed against quality and ethics standards.
 - Technology limitations are well understood; safeguards and feedback loops are in place.
-- Voice interfaces, natural language processing and other human-centric UIs are present across staff workspaces. There is some use of ‘always-on’ monitoring within the workplace and process areas.
-- New applications developed within or for the organization actively incorporate cognitive elements, and these incorporate AI ethics and governance by design.
-- Developments using custom AI models have a well-established process which includes data quality security, responsible use and audit.
+- Voice interfaces, natural language processing and other human-centric UIs are present across staff workspaces. There is some use of 'always-on; monitoring within the workplace and process areas.
+- New applications developed within or for the organization actively incorporate cognitive elements, and these incorporate AI ethics and governance by design. Budget commitments are in place to support development using AI tools.
+- Development using custom AI models have a well-established process which includes data quality security, responsible use, and audit.
 - A generalized narrow AI, capable of performing many different types of tasks and with a holistic view of the organization, starts to replace many discreet cognitive services.
-- The AIs are capable of identifying issues and carrying out auto remediation, handing off to a person where necessary.
+- AI is capable of identifying issues and carrying out auto remediation, handing off to a person where necessary.
 
 #### 400 Governance, Risk, Compliance and Security
 
@@ -192,7 +210,7 @@ There are processes to build, deploy, integrate and manage AI alongside staff in
 - Training data is reviewed regularly for historical bias and gaps that might compromise the ethics of the AI. There is special care taken with externally sourced and public data that may include such bias.
 - Attention is given to national and organizational culture and how this might create bias in the cognitive business. Systems are reviewed against clearly stated values and principles in place in the organization.
 - There are processes to hand off ethically complex issues or outliers from the systems to human arbiters.
-- Inputs to Cognitive systems are recorded so that they can be used to validate outputs.
+- Inputs to cognitive systems are recorded so that they can be used to validate outputs.
 - The risks of cognitive business tools deskilling staff are understood and addressed appropriately, such as through actively retaining skills or accepting that these are lost to the organization and external expertise is used when required.
 
 #### Level 400 Impacts
@@ -200,6 +218,12 @@ There are processes to build, deploy, integrate and manage AI alongside staff in
 At this level you can expect widespread adoption and acceptance of AI-based tools in many areas of an organization and that these create good competitive advantage. Staff are engaged with the tools and use them to great effect, whilst also watching for unexpected behaviors or under-performance.
 
 Staff and processes are productive, though there may be concerns about resilience of the technology and exposure to regulatory change.
+
+#### Level 400 Next Steps
+
+- Many AI-supported processes may be at a departmental level, so consider places where AI can monitor other AI-driven processes
+- Think of ways to use AI to monitor metrics and make process suggestions in real time
+- Capture knowledge gained in cognitive business work and contribute to the organization's knowledge bases
 
 ### Level 500 - Optimizing
 
@@ -252,7 +276,7 @@ At this level the organization fluidly adopts AI alongside staff in order to exc
 - Bing / ChatGPT
 - GitHub Copilot
 - Microsoft 365 (embedded AI elements)
-- Microsoft Power Platform 
+- Microsoft Power Platform
 - Microsoft Teams
 - Microsoft Syntex
 - Microsoft Viva
@@ -266,6 +290,8 @@ At this level the organization fluidly adopts AI alongside staff in order to exc
 ## Resources
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
+
+- [Responsible AI](/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai)
 
 ---
 

@@ -188,7 +188,7 @@ With collaboration at its core, the Microsoft 365 platform can be an incredible 
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
-- [Simon Doy]( https://www.linkedin.com/in/simondoy/)
+- [Simon Doy, MVP]( https://www.linkedin.com/in/simondoy/)
 
 ---
 
