@@ -6,6 +6,28 @@
 
 Note: Changelog started in January, 2021
 
+## December, 2023
+
+### New Articles - December, 2023
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - December, 2023
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Cognitive Business Competency](./Community/microsoft365-maturity-model--cognitive-business.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/), [Simon Doy, MVP](https://www.linkedin.com/in/simondoy/), [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+
+### Removed/retired Articles - December, 2023
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - December, 2023
+
+-
+
 ## October, 2023
 
 ### New Articles - October, 2023
@@ -306,7 +328,7 @@ Note: Changelog started in January, 2021
 | [Working with modern client-side pages using PnP PowerShell](./Community/working-with-modern-clientside-pages-using-pnp-powershell.md)|[Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson), [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
 | [Maturity Model for Microsoft 365 - Communication Competency](./Community/microsoft365-maturity-model--communication.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson), [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [Maturity Model for Microsoft 365 - Introduction](./Community/microsoft365-maturity-model--intro.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/), [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
-| Maturity Model Articles (Various) | [Simon Doy](https://www.linkedin.com/in/simondoy/) |
+| Maturity Model Articles (Various) | [Simon Doy, MVP](https://www.linkedin.com/in/simondoy/) |
 
 ### New Contributors - July, 2022
 
@@ -480,7 +502,7 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
-| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Simon Doy](https://www.linkedin.com/in/simondoy/) |
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Simon Doy, MVP](https://www.linkedin.com/in/simondoy/) |
 | [Power Automate vs Logic Apps](./power-automate-vs-logic-apps.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | Various - Markdown cleanup and content edits | [Daisy Feller](https://www.linkedin.com/in/daisy-feller/) |
 
@@ -613,7 +635,7 @@ No significant changes.
 
 | Article | Principal Author |
 |---|---|
-| [Customization and Development Competency](./Community/microsoft365-maturity-model--customization-and-development.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/), [Simon Doy](https://www.linkedin.com/in/simondoy/) |
+| [Customization and Development Competency](./Community/microsoft365-maturity-model--customization-and-development.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/), [Simon Doy, MVP](https://www.linkedin.com/in/simondoy/) |
 
 ### Updated Articles - March, 2021
 
@@ -681,7 +703,7 @@ No significant changes.
 | --- | --- |
 | [How Do Site Columns Become Managed Properties - Thus Available for Search?](./Community/how-do-site-columns-become-managed-properties-thus-available-for-search) | [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
 | [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/),
-[Simon Doy](https://www.linkedin.com/in/simondoy/) |
+[Simon Doy, MVP](https://www.linkedin.com/in/simondoy/) |
 | [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [Document Sets for Fast Legacy Process Automation](./Community/document-sets-are-magic) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
 
@@ -709,7 +731,7 @@ No significant changes.
 | [Elevating Staff and Training](./Community/microsoft-maturity-model-how-to-staff-and-training) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps) | [Paul Bullock](https://www.linkedin.com/in/pkbullock/) |
 | [How Do Site Columns Become Managed Properties - Thus Available for Search?](./Community/how-do-site-columns-become-managed-properties-thus-available-for-search) | [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
-| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/), [Simon Doy](https://www.linkedin.com/in/simondoy/) |
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/), [Simon Doy, MVP](https://www.linkedin.com/in/simondoy/) |
 | [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 
 ### Updated Articles - October, 2020

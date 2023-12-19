@@ -218,7 +218,7 @@ Improving your People and Communities maturity means rethinking your processes a
 **Principal authors**:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
-- [Simon Doy](https://www.linkedin.com/in/simondoy)
+- [Simon Doy, MVP](https://www.linkedin.com/in/simondoy)
 - [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson)
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit)
