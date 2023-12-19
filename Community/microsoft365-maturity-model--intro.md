@@ -138,7 +138,7 @@ Our goal is to apply the same core competencies that were the core of the origin
 **Principal authors**:
 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
-- [Simon Doy](https://www.linkedin.com/in/simondoy)
+- [Simon Doy, MVP](https://www.linkedin.com/in/simondoy)
 - [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson)
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit)

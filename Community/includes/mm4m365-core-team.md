@@ -6,7 +6,7 @@ The MM4M365 core team has evolved over time. These are the people who have been 
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Sharon Weaver](https://www.linkedin.com/in/sharonweaver/)
 - [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
-- [Simon Doy](https://www.linkedin.com/in/simondoy/)
+- [Simon Doy, MVP](https://www.linkedin.com/in/simondoy/)
 
 **Emeritus**:
 
