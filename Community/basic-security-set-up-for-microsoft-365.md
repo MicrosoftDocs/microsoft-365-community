@@ -18,7 +18,7 @@ ms.collection: M365Community
 
 ## Security within Microsoft 365
 
-Microsoft 365, as a service, contains many administration portals, options, and configuration settings focused solely on Security. Each service is protected predominantly by Microsoft Entra ID for Authentication, with each application authorizing users to access either the app itself content that resides within. Out of the box, newer tenants have the Security Defaults enabled that implement some necessary and best-practice capabilities. These are a great start; however, they shouldn't be the only configuration organizations should use. Organization-specific security controls and procedures should augment all out of the box configuration.
+Microsoft 365, as a service, contains many administration portals, options, and configuration settings focused solely on Security. Each service is protected predominantly by Microsoft Entra ID for Authentication, with each application authorizing users to access either the app itself or content that resides within. Out of the box, newer tenants have the Security Defaults enabled that implement some necessary and best-practice capabilities. These are a great start; however, they shouldn't be the only configuration organizations should use. Organization-specific security controls and procedures should augment all out of the box configuration.
 
 Security within Microsoft 365 is not just about enabling features and controls; it also involves the human side of teaching and guiding users to understand the restrictions and what they should be doing to help. Organization Security is a combination of Security Controls and Protection, combined with end-user training and guidance.
 
