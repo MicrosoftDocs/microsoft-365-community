@@ -176,7 +176,7 @@ At this level you can expect the following:
 Staff have use public tools, such as AI-driven internet search, saving time allowing them to focus on more creative and valuable activities. Some processes are improved through AI and an appetite has developed for doing more, with some limited funding. AI supports staff in their cognitive tasks. Risks and concerns are emerging that the organization is unsure how to address.
 
 #### 300 Next Steps
-To progress to level 400, the organization should work on developing staff critical thinking and expertise around AI prompts and interactions, expanding thinking into cross-function and across multiple apps. 
+To progress to level 400, the organization should work on driving adoption, creating an understanding of effective prompts and sharing success stories to drive productivity. In parallel developing critical thinking and expertise around AI prompts and interactions in key staff, across cross-functions and across multiple apps
 Effective practice, skills and learning need to be identified and shared together with their benefits. This might be combined with enhanced training. 
 The orgainsation would publish and enforce a  Responsible AI policy and framework.
 There should be processes for capturing new AI development ideas. This might include where AI might be allowed agency to act without human initiation, but with oversight.
