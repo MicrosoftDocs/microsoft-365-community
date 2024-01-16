@@ -38,6 +38,12 @@ The technology scope includes pre-built AI, including those integrated into off 
 
 Cognitive Business maturity describes the extent to which organizations have understood, adopted and embedded AI-related capabilities in the right combination to improve and, ultimately, optimize the business.
 
+## Terminology
+
+There are several new terms used within the AI space and these will be described briefly to help the digestion of this competency.
+
+**Retrieval Augmented Generation (RAG)** is used to improve the output of a large language model. It is the process of taking a user's input and using it with an external knowledge source to provide relevant information. It can be applied to natural language processing tasks such as question/answering, summarization and dialogue generation. The main reason is to use the external knowledge source to obtain the most relevant information and then use the large language model to process the response and give a more informative and digestible response to the user. For more information, read [Retrieval Augmented Generation in Azure AI Search](/azure/search/retrieval-augmented-generation-overview).
+
 ## Where are we today?
 
 Cognitive business and AI developments are primarily in the Enthusiasts and Visionaries stages. As noted, AI-related technology is changing quickly and use of this competency should reflect that.
