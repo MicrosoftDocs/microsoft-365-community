@@ -132,15 +132,16 @@ There is some appreciation of the emergence of potent cognitive tools and there 
 - Training data sets are used as-is, without considering ethics, bias or errors that may result from the data.
 - Limitations are not considered, and no safeguards are in place to correct poor AI decisions.
 - Intellectual Property implications are not considered.
-- Understanding the costs for implementing Cognitive Business tools.
+- Understanding the costs of implementing Cognitive Business tools.
 
 #### Level 200 Impacts
 
 At this level, Cognitive business remains the domain of staff, with a few ‘mavericks’ extolling the virtues of AI and playing with the capabilities, usually with no oversight by technology, governance or management functions. AI is not contributing to productivity other than through ‘invisible’ AI that is built into off-the-shelf applications and services.
 
-#### Next Steps
+#### 200 Next Steps
 
-To be able to move towards Level 300, there must be sufficient people bought into the competency. To do this, think about the low-hanging fruit where Generative AI can help your organisation to transform quickly. Look at departments which provide services to the rest of the organisation such as Human Resources. Use Embedded AI to address self-service needs and 'quick-wins'. Share the 'quick-wins; and success stories across the organisations to show the value of Cognitive Business solutions.
+To be able to move towards Level 300, there must be sufficient people bought into the competency. To do this, think about the low-hanging fruit where Generative AI can help your organisation to transform quickly. Look at departments which provide services to the rest of the organisation such as Human Resources. Use Embedded AI to address self-service needs and 'quick-wins'. Share the 'quick-wins'; and success stories across the organisations to show the value of Cognitive Business solutions.
+Additionally, to be able to move to Level 300, your data needs to be accessible by the Embedded AI models and secured to ensure that the right people have access to the right information when using AI.
 
 ### Level 300 - Defined
 
