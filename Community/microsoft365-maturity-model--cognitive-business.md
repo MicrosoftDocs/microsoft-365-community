@@ -42,7 +42,7 @@ Cognitive Business maturity describes the extent to which organizations have und
 
 There are several new terms used within the AI space and these will be described briefly to help the digestion of this competency.
 
-**Retrieval Augmented Generation (RAG)** is used to improve the output of a large language model. It is the process of taking a user's input and using it with an external knowledge source to provide relevant information. It can be applied to natural language processing tasks such as question/answering, summarization and dialogue generation. The main reason is to use the external knowledge source to obtain the most relevant information and then use the large language model to process the response and give a more informative and digestible response to the user. For more information, read [Retrieval Augmented Generation in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview).
+**Retrieval Augmented Generation (RAG)** is used to improve the output of a large language model. It is the process of taking a user's input and using it with an external knowledge source to provide relevant information. It can be applied to natural language processing tasks such as question/answering, summarization and dialogue generation. The main reason is to use the external knowledge source to obtain the most relevant information and then use the large language model to process the response and give a more informative and digestible response to the user. For more information, read [Retrieval Augmented Generation in Azure AI Search](/azure/search/retrieval-augmented-generation-overview).
 
 ## Where are we today?
 
