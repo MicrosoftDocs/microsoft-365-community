@@ -38,6 +38,12 @@ The technology scope includes pre-built AI, including those integrated into off 
 
 Cognitive Business maturity describes the extent to which organizations have understood, adopted and embedded AI-related capabilities in the right combination to improve and, ultimately, optimize the business.
 
+## Terminology
+
+There are several new terms used within the AI space and these will be described briefly to help the digestion of this competency.
+
+**Retrieval Augmented Generation (RAG)** is used to improve the output of a large language model. It is the process of taking a user's input and using it with an external knowledge source to provide relevant information. It can be applied to natural language processing tasks such as question/answering, summarization and dialogue generation. The main reason is to use the external knowledge source to obtain the most relevant information and then use the large language model to process the response and give a more informative and digestible response to the user. For more information, read [Retrieval Augmented Generation in Azure AI Search](/azure/search/retrieval-augmented-generation-overview).
+
 ## Where are we today?
 
 Cognitive business and AI developments are primarily in the Enthusiasts and Visionaries stages. As noted, AI-related technology is changing quickly and use of this competency should reflect that.
@@ -126,15 +132,16 @@ There is some appreciation of the emergence of potent cognitive tools and there 
 - Training data sets are used as-is, without considering ethics, bias or errors that may result from the data.
 - Limitations are not considered, and no safeguards are in place to correct poor AI decisions.
 - Intellectual Property implications are not considered.
-- Understanding the costs for implementing Cognitive Business tools.
+- Understanding the costs of implementing Cognitive Business tools.
 
 #### Level 200 Impacts
 
 At this level, Cognitive business remains the domain of staff, with a few ‘mavericks’ extolling the virtues of AI and playing with the capabilities, usually with no oversight by technology, governance or management functions. AI is not contributing to productivity other than through ‘invisible’ AI that is built into off-the-shelf applications and services.
 
-#### Next Steps
+#### 200 Next Steps
 
-To be able to move towards Level 300, there must be sufficient people bought into the competency. To do this, think about the low-hanging fruit where Generative AI can help your organisation to transform quickly. Look at departments which provide services to the rest of the organisation such as Human Resources. Use Embedded AI to address self-service needs and 'quick-wins'. Share the 'quick-wins; and success stories across the organisations to show the value of Cognitive Business solutions.
+To be able to move towards Level 300, there must be sufficient people bought into the competency. To do this, think about the low-hanging fruit where Generative AI can help your organisation to transform quickly. Look at departments which provide services to the rest of the organisation such as Human Resources. Use Embedded AI to address self-service needs and 'quick-wins'. Share the 'quick-wins'; and success stories across the organisations to show the value of Cognitive Business solutions.
+Additionally, to be able to move to Level 300, your data needs to be accessible by the Embedded AI models and secured to ensure that the right people have access to the right information when using AI.
 
 ### Level 300 - Defined
 
