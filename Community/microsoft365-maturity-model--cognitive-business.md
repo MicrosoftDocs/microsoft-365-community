@@ -64,7 +64,7 @@ There are many aspects to cognitive business, but an important consideration is 
 
 As Satya Nadella has said, AI is moving from Autopilot to Copilot:
 
-![Diagram that shows the pathway of AI from Autopilot to Copilot.](media/microsoft365-maturity-model--cognitive-business/Autopilot%20to%20CoPilot.png)
+![Diagram that shows the pathway of AI from manual activity through Autopilot to Copilot.](media/microsoft365-maturity-model--cognitive-business/Autopilot%20to%20CoPilot.png)
 
 See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
 
@@ -151,32 +151,43 @@ At level 300, the organization is actively considering how to enhance its knowle
 
 #### 300 General
 
-- Attempts are made to ensure source and training data is well structured, clean and of sufficient quality. The quality of the training input to cognitive models is managed, with attempts to minimize bias and errors.  A set of metrics is established to confirm this.
+-  Staff are trained in embedded AI tools in general applications (office apps, browsers, desktop etc.) and encouraged to use them productively. Training includes a requirement to check for veracity and 'real-person' language.
+-  AI use tends to be on a per-application basis; staff don't routinely think about multi-application interactions (for example, using email content to create a presentation).
+-  Chat-based AI for answering questions about the organisation are embedded in intranets, collaobrative workspaces and elsewhere the staff spend their time to ensure they can obtain answers rapidly.
+-  Attempts are made to ensure source and training data for custom AI is well structured, clean and of sufficient quality. The quality of the training input to cognitive models is managed, with attempts to minimize bias and errors.  A set of metrics is established to confirm this.
 - Staff have some understanding of how to ask questions of the AI tools to get useful outputs.
 - The limitations of the insights, knowledge and behaviors of people as the benchmark for AI ‘accuracy’ are considered.
 - The organization has laid out a broad strategy for AI setting out their aspirations. Elements of this may be naïve, lacking actionable detail and measurable objectives, and may lack resources and senior sponsorship, but it acts as an important starting point and touchstone.
 - The technology is not treated as internally or externally disruptive.
+- Built-in AI tools in applications and servcies are actively used by staff.
 
 #### 300 Technology
 
 - A range of AI services are used to improve existing processes, with multiple areas of improvement. Mostly these improve human-driven knowledge activities and support existing staff, however some areas no longer require human intervention.
-- Categorization is used to improve existing processes, often in a narrow way, usually with out-of-the-box capabilities; often this makes things easier for staff later in the process.
+- Content categorization is used to improve existing processes, often in a narrow way, usually with out-of-the-box capabilities; often this makes things easier for staff later in the process.
 - Content and document management actively uses automated classification, configured and trained with the organization's information and document set.
-- Developments are focused on the application of pre-trained models. Custom AI models are used in some cases and are being evaluated for wider application.
+- Most developments are focused on the application of pre-trained models. There are some tools developed using existing narrow organizational content to address narrow needs, creating Narrow Language Model solutions.
+- True custom AI models, using data sourced or created for key orgainsational purposes, are beginning to be  used and the effort and effectiveness are being evaluated for wider application.
 
 #### 300 Governance, Risk, Compliance and Security
 
 - It is understood that AI needs some level of governance and oversight. This activity is probably vested in the IT team and is not aligned with broader business strategy and policies.
 - The organization develops and models rules of engagement and governance to take advantage of the benefits of the cognitive systems.
 - Governance of all aspects of the cognitive tools is proportionate to the impacts the system has on business and individuals.
-- It is understood that using public platforms may indirectly place your IP in the public domain. This even applies to asking questions of GPT tools. Staff are briefed on this risk.
-- [Responsible AI](/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai) standards are consulted when actively planning cognitive systems.
+-	There is a content governance policy implemented to secure sensitive content and eliminate out-of-date content in order to ensure that AI using content in general business repositories provide approriate and current responses. 
 
 #### Level 300 Impacts
 
 At this level you can expect the following:
 
 Staff have use public tools, such as AI-driven internet search, saving time allowing them to focus on more creative and valuable activities. Some processes are improved through AI and an appetite has developed for doing more, with some limited funding. AI supports staff in their cognitive tasks. Risks and concerns are emerging that the organization is unsure how to address.
+
+#### 300 Next Steps
+To progress to level 400, the organization should work on driving adoption, creating an understanding of effective prompts and sharing success stories to drive productivity. In parallel developing critical thinking and expertise around AI prompts and interactions in key staff, across cross-functions and across multiple apps
+Effective practice, skills and learning need to be identified and shared together with their benefits. This might be combined with enhanced training. 
+The orgainsation would publish and enforce a  Responsible AI policy and framework.
+There should be processes for capturing new AI development ideas. This might include where AI might be allowed agency to act without human initiation, but with oversight.
+Staff will be expected to use AI tools and productivity gains will be measured.
 
 ### Level 400 - Predictable
 
@@ -295,6 +306,12 @@ At this level the organization fluidly adopts AI alongside staff in order to exc
 - Microsoft Purview Data Loss Prevention
 
 ## Resources
+
+[MS Responsible AI Principles](https://www.microsoft.com/en-gb/ai/responsible-ai)
+
+[Responsible AI Maturity Model](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/RAI_Maturity_Model_Aether_Microsoft_whitepaper.pdf)
+
+[MS - Governing AI:  A Legal and Regulatory Blueprint for the Future](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW14Gtw)
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
 
