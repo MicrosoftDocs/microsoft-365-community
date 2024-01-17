@@ -58,7 +58,7 @@ There are many aspects to cognitive business, but an important consideration is 
 
 As Satya Nadella has said, AI is moving from Autopilot to Copilot:
 
-![Diagram that shows the pathway of AI from Autopilot to Copilot.](media/microsoft365-maturity-model--cognitive-business/Autopilot%20to%20CoPilot.png)
+![Diagram that shows the pathway of AI from manual activity through Autopilot to Copilot.](media/microsoft365-maturity-model--cognitive-business/Autopilot%20to%20CoPilot.png)
 
 See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
 
@@ -304,7 +304,7 @@ At this level the organization fluidly adopts AI alongside staff in order to exc
 
 [Responsible AI Maturity Model](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/RAI_Maturity_Model_Aether_Microsoft_whitepaper.pdf)
 
-[MS - Governing AI:  A Legal and Regulatory Blueprint for the Future](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW14Gtw!)
+[MS - Governing AI:  A Legal and Regulatory Blueprint for the Future](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW14Gtw)
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
 
