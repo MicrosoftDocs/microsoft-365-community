@@ -54,8 +54,7 @@
       "open_source_feedback_productName": "Microsoft 365 community content",
       "searchScope": ["Microsoft 365 community"]
     },
-    "fileMetadata": {}
-    },
+    "fileMetadata": {},
     "template": [],
     "dest": "microsoft-365-community",
     "markdownEngineName": "markdig"
