@@ -47,7 +47,7 @@
       "breadcrumb_path": "/microsoft-365/community/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "OpenSource",
-      "open_source_feedback_contributorGuideUrl": "https://review.learn.microsoft.com/help",
+      "open_source_feedback_contributorGuideUrl": "https://learn.microsoft.com/contribute",
       "open_source_feedback_issueTitle": "Microsoft 365 community feedback - ",
       "open_source_feedback_issueUrl": "https://github.com/MicrosoftDocs/microsoft-365-community/issues/new?template=customer-feedback.yml",
       "open_source_feedback_productName": "Microsoft 365 community content",
