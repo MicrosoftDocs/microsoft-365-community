@@ -105,7 +105,8 @@ Select the DataCardValue3 (Combo Box) in the Country_DataCard1 (Card), and selec
 
 Because the **[Choices](/powerapps/maker/canvas-apps/functions/function-choices)** function only allows for two values (Id, Value) for the lookup to the Countries list, we have to make some additional changes.
 
-Make sure that the "Region" column is checked in the lookup field to the Country list. Basically this shows up in Power Apps as an additional table.
+Make sure that the "Region" column is checked in the lookup field to the Country list. Basically this shows up in Power Apps as an additional table.  
+Note: Choice fields and some other column types will not be available as Additional Fields in a SharePoint lookup column.  In this case, create a calculated column in the list to duplicate the value from the choice column which will then show up as an additional field in the Lookup Column configuration. If the column is neither available as a calculated column nor a lookup additional field, create a text column and sync the values using Power Automate.
 
 ![Demo Cascading Power Apps 3](media/working-with-cascading-lists-in-sharepoint-and-powerapps/demo-cascading-powerapps-3.png)
 
