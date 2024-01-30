@@ -6,7 +6,7 @@
 
 Note: Changelog started in January, 2021
 
-## January, 2023
+## January, 2024
 
 ### New Articles - January, 2024
 
