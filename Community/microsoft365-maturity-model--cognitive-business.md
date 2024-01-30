@@ -116,7 +116,7 @@ There is some appreciation of the emergence of potent cognitive tools and there 
 - There is no strategy for introducing AI, though some staff, in isolation, may identify possible areas where existing processes might be improved using AI approaches. A few staff experiment with the tools that are readily available, perhaps using in-house data; management support for this is limited or may be occurring without their knowledge.
 - There is a tendency to think that technology can solve the problem, without rigorously defining the needs. Where cognitive tools are used, they are taken at face value, without critical assessment or integration into business processes and staff response.
 - Staff with knowledge about how to build cognitive models, create appropriate training sets or choose better AI processing models and methods, are largely absent.
-- Content is vital to successful Generative AI solutions and at this level, there will be parts of the organisation that are not all-in with their content not in the cloud. They therefore cannot get the value from Embedded AI. These parts of the organisation will start ingesting content into the cloud platform so that they can take advantage of Embedded AI tooling.
+- Content is vital to successful Generative AI solutions and at this level, there will be parts of the organization that are not all-in with their content not in the cloud. They therefore cannot get the value from Embedded AI. These parts of the organization will start ingesting content into the cloud platform so that they can take advantage of Embedded AI tooling.
 - Source and training data is not well structured, clean and of sufficient quality and there are few metrics for the quality of this.
 
 #### 200 Technology
@@ -128,7 +128,7 @@ There is some appreciation of the emergence of potent cognitive tools and there 
 
 #### 200 Governance, Risk, Compliance and Security
 
-- There may be instances of content that is overshared and therefore the AI has access to information that it should not have. The organisation will start to address this when these are found.
+- There may be instances of content that is overshared and therefore the AI has access to information that it should not have. The organization will start to address this when these are found.
 - Training data sets are used as-is, without considering ethics, bias or errors that may result from the data.
 - Limitations are not considered, and no safeguards are in place to correct poor AI decisions.
 - Intellectual Property implications are not considered.
@@ -140,26 +140,28 @@ At this level, Cognitive business remains the domain of staff, with a few ‘mav
 
 #### 200 Next Steps
 
-To be able to move towards Level 300, there must be sufficient people bought into the competency. To do this, think about the low-hanging fruit where Generative AI can help your organisation to transform quickly. Look at departments which provide services to the rest of the organisation such as Human Resources. Use Embedded AI to address self-service needs and 'quick-wins'. Share the 'quick-wins'; and success stories across the organisations to show the value of Cognitive Business solutions.
+To be able to move towards Level 300, there must be sufficient people bought into the competency. To do this, think about the low-hanging fruit where Generative AI can help your organization to transform quickly. Look at departments which provide services to the rest of the organization such as Human Resources. Use Embedded AI to address self-service needs and 'quick-wins'. Share the 'quick-wins'; and success stories across the organizations to show the value of Cognitive Business solutions.
 Additionally, to be able to move to Level 300, your data needs to be accessible by the Embedded AI models and secured to ensure that the right people have access to the right information when using AI.
 
 ### Level 300 - Defined
 
 At level 300, the organization is actively considering how to enhance its knowledge worker activities using AI. While the scope of this may be narrow, with point solutions rather than transformative projects and adoption, there is an outline strategy and intent to enhance the organization through cognitive services. Staff use AI to support their knowledge worker activities, taking advantage of built-in tools and some standalone services to assist their day-to-day activity, while the organization begins to research or invest in bespoke business solutions.
 
+![AI value](media/microsoft365-maturity-model--cognitive-business/AI-value.jpg)
+
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
 #### 300 General
 
--  Staff are trained in embedded AI tools in general applications (office apps, browsers, desktop etc.) and encouraged to use them productively. Training includes a requirement to check for veracity and 'real-person' language.
--  AI use tends to be on a per-application basis; staff don't routinely think about multi-application interactions (for example, using email content to create a presentation).
--  Chat-based AI for answering questions about the organisation are embedded in intranets, collaobrative workspaces and elsewhere the staff spend their time to ensure they can obtain answers rapidly.
--  Attempts are made to ensure source and training data for custom AI is well structured, clean and of sufficient quality. The quality of the training input to cognitive models is managed, with attempts to minimize bias and errors.  A set of metrics is established to confirm this.
+- Staff are trained in embedded AI tools in general applications (office apps, browsers, desktop etc.) and encouraged to use them productively. Training includes a requirement to check for veracity and 'real-person' language.
+- AI use tends to be on a per-application basis; staff don't routinely think about multi-application interactions (for example, using email content to create a presentation).
+- Chat-based AI for answering questions about the organization are embedded in intranets, collaborative workspaces and elsewhere the staff spend their time to ensure they can obtain answers rapidly.
+- Attempts are made to ensure source and training data for custom AI is well structured, clean and of sufficient quality. The quality of the training input to cognitive models is managed, with attempts to minimize bias and errors.  A set of metrics is established to confirm this.
 - Staff have some understanding of how to ask questions of the AI tools to get useful outputs.
 - The limitations of the insights, knowledge and behaviors of people as the benchmark for AI ‘accuracy’ are considered.
 - The organization has laid out a broad strategy for AI setting out their aspirations. Elements of this may be naïve, lacking actionable detail and measurable objectives, and may lack resources and senior sponsorship, but it acts as an important starting point and touchstone.
 - The technology is not treated as internally or externally disruptive.
-- Built-in AI tools in applications and servcies are actively used by staff.
+- Built-in AI tools in applications and services are actively used by staff.
 
 #### 300 Technology
 
@@ -167,14 +169,14 @@ At level 300, the organization is actively considering how to enhance its knowle
 - Content categorization is used to improve existing processes, often in a narrow way, usually with out-of-the-box capabilities; often this makes things easier for staff later in the process.
 - Content and document management actively uses automated classification, configured and trained with the organization's information and document set.
 - Most developments are focused on the application of pre-trained models. There are some tools developed using existing narrow organizational content to address narrow needs, creating Narrow Language Model solutions.
-- True custom AI models, using data sourced or created for key orgainsational purposes, are beginning to be  used and the effort and effectiveness are being evaluated for wider application.
+- True custom AI models, using data sourced or created for key organizational purposes, are beginning to be  used and the effort and effectiveness are being evaluated for wider application.
 
 #### 300 Governance, Risk, Compliance and Security
 
 - It is understood that AI needs some level of governance and oversight. This activity is probably vested in the IT team and is not aligned with broader business strategy and policies.
 - The organization develops and models rules of engagement and governance to take advantage of the benefits of the cognitive systems.
 - Governance of all aspects of the cognitive tools is proportionate to the impacts the system has on business and individuals.
--	There is a content governance policy implemented to secure sensitive content and eliminate out-of-date content in order to ensure that AI using content in general business repositories provide approriate and current responses. 
+- There is a content governance policy implemented to secure sensitive content and eliminate out-of-date content in order to ensure that AI using content in general business repositories provide appropriate and current responses.
 
 #### Level 300 Impacts
 
@@ -183,9 +185,11 @@ At this level you can expect the following:
 Staff have use public tools, such as AI-driven internet search, saving time allowing them to focus on more creative and valuable activities. Some processes are improved through AI and an appetite has developed for doing more, with some limited funding. AI supports staff in their cognitive tasks. Risks and concerns are emerging that the organization is unsure how to address.
 
 #### 300 Next Steps
+
 To progress to level 400, the organization should work on driving adoption, creating an understanding of effective prompts and sharing success stories to drive productivity. In parallel developing critical thinking and expertise around AI prompts and interactions in key staff, across cross-functions and across multiple apps
-Effective practice, skills and learning need to be identified and shared together with their benefits. This might be combined with enhanced training. 
-The orgainsation would publish and enforce a  Responsible AI policy and framework.
+Effective practice, skills and learning need to be identified and shared together with their benefits. This might be combined with enhanced training.
+
+The organization would publish and enforce a  Responsible AI policy and framework.
 There should be processes for capturing new AI development ideas. This might include where AI might be allowed agency to act without human initiation, but with oversight.
 Staff will be expected to use AI tools and productivity gains will be measured.
 
@@ -257,7 +261,7 @@ Cognitive business has reached the stage of being a natural, continuous flow of 
 - AIs are used in the board room to advise directors/VPs, capture and track decision and actions and summarize and analyze information
 - Advanced human-machine interfaces are in careful use, which may include active monitoring of conversations and activities, prospective advice and insights.
 - Cognitive business is built into the organization by design. It pervades staffing criteria, product and process development, sales and marketing strategy and pervades operations.
-- There are active processes for personal and organizational knowledge transfer to AI assistants and partners. This ensure the AIs can use expertise embodied in people and the organsiation to create more informed content, take better decision and act on behalf of people in the system. This may involve something akin to AI Apprenticeships.
+- There are active processes for personal and organizational knowledge transfer to AI assistants and partners. This ensure the AIs can use expertise embodied in people and the organization to create more informed content, take better decision and act on behalf of people in the system. This may involve something akin to AI Apprenticeships.
 
 #### 500 Technology
 
@@ -307,15 +311,12 @@ At this level the organization fluidly adopts AI alongside staff in order to exc
 
 ## Resources
 
-[MS Responsible AI Principles](https://www.microsoft.com/en-gb/ai/responsible-ai)
-
-[Responsible AI Maturity Model](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/RAI_Maturity_Model_Aether_Microsoft_whitepaper.pdf)
-
-[MS - Governing AI:  A Legal and Regulatory Blueprint for the Future](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW14Gtw)
+- [MS Responsible AI Principles](https://www.microsoft.com/ai/responsible-ai)
+- [Responsible AI Maturity Model](https://www.microsoft.com/research/uploads/prod/2023/05/RAI_Maturity_Model_Aether_Microsoft_whitepaper.pdf)
+- [MS - Governing AI:  A Legal and Regulatory Blueprint for the Future](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW14Gtw)
+- [Responsible AI](/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai)
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
-
-- [Responsible AI](/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai)
 
 ---
 
