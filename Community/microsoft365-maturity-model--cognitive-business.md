@@ -114,6 +114,7 @@ There is some appreciation of the emergence of potent cognitive tools and there 
 - AI to support a cognitive business is speculated about, often with unreasonable or incorrect assumptions about what it can and cannot do.
 - Staff and management are largely unaware of the AI tools built into their everyday off-the-shelf tools. Where they do, they use it to get answers to questions and copy the answers verbatim.
 - There is no strategy for introducing AI, though some staff, in isolation, may identify possible areas where existing processes might be improved using AI approaches. A few staff experiment with the tools that are readily available, perhaps using in-house data; management support for this is limited or may be occurring without their knowledge.
+- There is no plan for who should get what licences, subscriptions or tools. 
 - There is a tendency to think that technology can solve the problem, without rigorously defining the needs. Where cognitive tools are used, they are taken at face value, without critical assessment or integration into business processes and staff response.
 - Staff with knowledge about how to build cognitive models, create appropriate training sets or choose better AI processing models and methods, are largely absent.
 - Content is vital to successful Generative AI solutions and at this level, there will be parts of the organisation that are not all-in with their content not in the cloud. They therefore cannot get the value from Embedded AI. These parts of the organisation will start ingesting content into the cloud platform so that they can take advantage of Embedded AI tooling.
@@ -152,6 +153,8 @@ At level 300, the organization is actively considering how to enhance its knowle
 #### 300 General
 
 -  Staff are trained in embedded AI tools in general applications (office apps, browsers, desktop etc.) and encouraged to use them productively. Training includes a requirement to check for veracity and 'real-person' language.
+-  There is some attempt to manage who gets what tools and licences; this is not especially rigourous or monitored; some staff who would benefit may struggle to justify licence and training investments, while others (often in positions of influence) may be allcoated these resouces without robust justification.
+-  There is some understanding that AI benefits can be around productivity gains, new capabilities, quality improvement, levelling up of less capable staff, enhanced accessibility and cost reduction. There are attempts to assess the nature and impact of the benefits of each of these in AI projects or alloation of tools and licences. 
 -  AI use tends to be on a per-application basis; staff don't routinely think about multi-application interactions (for example, using email content to create a presentation).
 -  Chat-based AI for answering questions about the organisation are embedded in intranets, collaobrative workspaces and elsewhere the staff spend their time to ensure they can obtain answers rapidly.
 -  Attempts are made to ensure source and training data for custom AI is well structured, clean and of sufficient quality. The quality of the training input to cognitive models is managed, with attempts to minimize bias and errors.  A set of metrics is established to confirm this.
@@ -198,6 +201,8 @@ There are processes to build, deploy, integrate, and manage AI alongside staff i
 #### 400 General
 
 - Staff are trained and competent in interacting with tools to optimize their useful outputs.
+- There is a well defined process for allocating AI licences, with training, to appropriate staff. Use and benefits are routinely assessed, with intervention and reallocation as required.
+- The different potential benefits and costs or AI are well understaod and underpin investments and licensing decisions. These align with strategy and culture, not just cost and productivity. Value extaction from AI use is well understood.
 - Policies exist and are widely understood regarding AI transparency, ethics, performance, and scope. These policies are regularly reviewed and updated in recognition of the pace of change of the technology and regulatory environment.
 - AI services frequently work alongside human staff, with each complementing the other. Areas that do not require human intervention have human and AI oversight, with both reviewing feedback.
 - AI that replaces staff roles have line management processes, performance reviews, code of conduct guidelines, etc., that perform the equivalent role to the staff they replace.
@@ -252,6 +257,8 @@ Cognitive business has reached the stage of being a natural, continuous flow of 
 #### 500 General
 
 - Resources and capabilities in the organization are sufficient to drive rapid and effective cognitive business value. This is supplemented by a broad range of partners and associates with expertise in specific applications of cognitive business. The organization uses these to both rapidly react to changing needs and proactively advance the business in response to strategy and vision.
+- Role and activity analysis identifies optimal allocation of AI tools and licences to staff, tracks impacts and outcomes and initiates training, upgrades and changes in allocation across the organization.
+- The cost-benefit impact of the spectrum of AI use is understood and tracked across the organization, allowing nuanced changes in line with strategy and values. Broad AI use is seen as a strategic asset and differentiator.
 - Content and document management actively uses automated classification, configured and trained with the organization's information and document set, with continuous retraining and active redesign to incorporate future-looking strategic and tactical changes in the business
 - AI assistants, versed in the knowledge and processes of the organization, are available to all staff to assist with their activities. They also have ‘a seat at the board table’ where they can retrieve relevant information, capture decisions and actions and provide summaries and feedback on the state of both the organization and previous meetings.
 - AIs are used in the board room to advise directors/VPs, capture and track decision and actions and summarize and analyze information
