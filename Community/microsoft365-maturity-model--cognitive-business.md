@@ -24,7 +24,7 @@ Artificial intelligence (AI) and machine learning (ML) are rapidly evolving fiel
 
 In many ways, this revolution is following a [similar track](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle) to other world changing technologies, creating opportunity, threat, FUD, excesses of imagination and paranoia and more. While the technology and its monetization are fearsomely rapid, forward-thinking organizations should be anticipating the roles of various forms of cognitive business and incorporate these into their culture, ways of working, processes and thinking. While pessimists may be concerned about these technologies displacing ‘white-collar’ / knowledge worker roles, pragmatic organizations will be considering the impact of the changes and planning how they can be integrated into their cognitive functions – knowledge creation and access, analysis and assessment, task planning and decision making.
 
-![AI Spectrum](media/microsoft365-maturity-model--cognitive-business/ai-spectrum.png)
+![AI Spectrum](media/microsoft365-maturity-model-cognitive-business/ai-spectrum.png)
 
 ## Definition of this competency
 
@@ -60,11 +60,11 @@ ChatGPT has this to say about Cognitive Business:
 
 There are many aspects to cognitive business, but an important consideration is how cognitive business enables people and 'intelligent machines' to work together. The maturity model considers this alongside the deepening capabilities, integration, and governance of AI in organizations.
 
-![AI Evolution](media/microsoft365-maturity-model--cognitive-business/evolution.png)
+![AI Evolution](media/microsoft365-maturity-model-cognitive-business/evolution.png)
 
 As Satya Nadella has said, AI is moving from Autopilot to Copilot:
 
-![Diagram that shows the pathway of AI from manual activity through Autopilot to Copilot.](media/microsoft365-maturity-model--cognitive-business/Autopilot%20to%20CoPilot.png)
+![Diagram that shows the pathway of AI from manual activity through Autopilot to Copilot.](media/microsoft365-maturity-model-cognitive-business/autopilot-to-copilot.png)
 
 See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
 
@@ -148,7 +148,7 @@ Additionally, to be able to move to Level 300, your data needs to be accessible 
 
 At level 300, the organization is actively considering how to enhance its knowledge worker activities using AI. While the scope of this may be narrow, with point solutions rather than transformative projects and adoption, there is an outline strategy and intent to enhance the organization through cognitive services. Staff use AI to support their knowledge worker activities, taking advantage of built-in tools and some standalone services to assist their day-to-day activity, while the organization begins to research or invest in bespoke business solutions.
 
-![AI value](media/microsoft365-maturity-model--cognitive-business/AI-value.jpg)
+![AI value](media/microsoft365-maturity-model-cognitive-business/AI-value.jpg)
 
 **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
 
