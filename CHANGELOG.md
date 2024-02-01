@@ -6,6 +6,29 @@
 
 Note: Changelog started in January, 2021
 
+## January, 2024
+
+### New Articles - January, 2024
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - January, 2024
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Cognitive Business Competency](./Community/microsoft365-maturity-model--cognitive-business.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [Working with Cascading Lists in SharePoint and Power Apps](./Community/working-with-cascading-lists-in-sharepoint-and-powerapps.md) | [RRFreemanArchitect](https://github.com/RRFreemanArchitect) |
+
+### Removed/retired Articles - January, 2024
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - January, 2024
+
+- [RRFreemanArchitect](https://github.com/RRFreemanArchitect)
+
 ## December, 2023
 
 ### New Articles - December, 2023
