@@ -27,6 +27,7 @@ This guide will help users understand the various options available to import fi
 | [Lists – Import Spreadsheet to SharePoint](#lists--import-spreadsheet-to-sharepoint-power-user) | Power user |
 | [Document Libraries – SharePoint Migration Tool](#document-libraries--sharepoint-migration-tool-power-user) | Power user |
 | [Document Libraries – Sync](#document-libraries--sync-power-user) | Power user |
+| [Warning – Breaking file links](#warning---breaking-file-links-power-user) | Power user |
 
 ## Document Libraries – Drag and drop files and folders (User)
 
@@ -238,6 +239,9 @@ Using Windows Explorer, open the source documents folder:
 - See the OneDrive sync app in the system tray to view progress and any sync messages.
 ![OneDrive systray](media/importing-data/onedrive-systray.png)
 
+## Warning - Breaking file links (Power user)
+
+- In many instances, moving documents will create broken links within those documents. This is something to be aware of, especially when you plan on moving thousands or even hundreds of thousands of files. You could end up with so many broken file links between documents that it would be extremely labor intensive to fix. The best thing to do is to protect the file links before you move so they don't break in the first place. Enter a tool like [LinkFixer Advanced](https://linktek.com/linkfixer-advanced/) or similar.
 ---
 
 Principal author: [Norm Young](https://www.linkedin.com/in/norm-young/)
