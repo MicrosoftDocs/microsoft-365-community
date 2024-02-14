@@ -105,7 +105,7 @@ You can install the extension (Azure Logic Apps for Visual Studio Code) from the
 
 Applies to: **Power Automate**
 
-Visio Plan 2 offers the feature to create a Business Process Model and Notation (BPMN) diagrams and export for Power Automate.
+Visio Plan 2 offers the feature to create Business Process Model and Notation (BPMN) diagrams and export for Power Automate.
 
 For more details of this feature, visit the Power Automate announcement for more information [Export Visio diagrams to Microsoft Flow is now generally available](https://flow.microsoft.com/blog/export-visio-diagrams-to-microsoft-flow-is-now-generally-available/)
 
