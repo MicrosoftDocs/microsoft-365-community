@@ -18,6 +18,8 @@ Note: Changelog started in January, 2021
 | Article | Updated By |
 |---|---|
 | [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps.md) | [Stefan Flegg](https://www.linkedin.com/in/stefan-flegg-623462a5/) |
+| [Which Task Management Tool is Right For Me](./Community/which-task-management-option.md) | [Darrell Webster](https://www.linkedin.com/in/darrellwebster/) |
+| [Creating Useful Views for Lists & Libraries](./Community/creating-useful-views-in-lists-libraries.md) | [Naveed Ahmed](https://www.linkedin.com/in/naveed3/) |
 
 ### Removed/retired Articles - February, 2024
 
@@ -27,6 +29,8 @@ Note: Changelog started in January, 2021
 ### New Contributors - February, 2024
 
 - [Stefan Flegg](https://www.linkedin.com/in/stefan-flegg-623462a5/)
+- [Darrell Webster](https://www.linkedin.com/in/darrellwebster/)
+- [Naveed Ahmed](https://www.linkedin.com/in/naveed3/)
 
 ## January, 2024
 
