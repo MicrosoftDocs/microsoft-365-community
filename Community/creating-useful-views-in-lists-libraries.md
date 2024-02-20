@@ -41,7 +41,7 @@ Set your users up for success when you help them create a List or Library: creat
 2. Think about _how_ your users might work in the List/Library
 3. Think about the _quantity_ of items/documents in play
 4. Think about the _devices_ or platforms being used
-5. Understand and apply proven _UX principals_ for laying out things on a screen.
+5. Understand and apply proven _UX principles_ for laying out things on a screen.
 6. Make that default View!
 
 ## Understanding List/Library View capability
@@ -74,7 +74,7 @@ As Site Owners or developers, we frequently have the privilege of modern equipme
 
 Ask the question, then shrink your monitor down, and put your browser's Developer tools into 3G mode, or mobile simulator mode (Edge, Chrome, Firefox all do this) to simulate the experience. Speed of the user interface is a critical component of good UX, and something you can control in a View with careful planning.
 
-## Apply proven User Experience principals to page layouts
+## Apply proven User Experience principles to page layouts
 
 Of which there are many, and it's better to think of this as a spectrum rather than a strict technical guideline. For instance: _simple_ is good, but _too simple_ reduces functionality and comprehension. Only displaying the _Title_ column is simple, but not showing the Modified date column might deny your user enough context to act.
 
@@ -93,7 +93,7 @@ Read more about this:
 - [Column formatting](/sharepoint/dev/declarative-customization/column-formatting)
 - [View formatting](/sharepoint/dev/declarative-customization/view-formatting)
 
-- **The F-shaped pattern** is another classic User Experience principal that directly applies to List/Library Views. The most important, most actionable columns in your default View should be on the left and sorted by what-needs-attention towards the top. If you imagine a large letter F superimposed on the page, this will help you visualize it. User Experience Researchers have used eye tracking to record this phenomenon. Users are reading left-to-right and scanning quickly to find the information they need. Does your View support this?
+- **The F-shaped pattern** is another classic User Experience principle that directly applies to List/Library Views. The most important, most actionable columns in your default View should be on the left and sorted by what-needs-attention towards the top. If you imagine a large letter F superimposed on the page, this will help you visualize it. User Experience Researchers have used eye tracking to record this phenomenon. Users are reading left-to-right and scanning quickly to find the information they need. Does your View support this?
 
 Read more: [F-shaped pattern for reading content](https://uxplanet.org/f-shaped-pattern-for-reading-content-80af79cd3394)
 
