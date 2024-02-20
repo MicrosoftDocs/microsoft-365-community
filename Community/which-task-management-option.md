@@ -124,14 +124,18 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 - Quick and easy to get started which can be useful live in a meeting or in a Chat with Self
 - Support for assignment and @mentions
 - Tasks can be assigned to multiple people
+- Integration with other applications (e.g. Planner, To Do, Trello and Jira boards). Tasks assigned to you are listed in the 'Assigned to you' view of Planner, giving you a wholistic view of all your tasks assigned in Loops and across Planner plans.
+- Bring your preferred task management app into Loop. Insert Planner, Trello and Jira boards as a component into a Loop page. View and update tasks directly from the Loop page. When you want to use the full features of the board, open the link to the full task management app.
+- View the Loop Task list as a board (Kanban). Change the view of the task table and see each item as cards, displayed in buckets. When you start from a Task list, it will also sync with Planner and To Do.
+- Task list Loop components can be used in Teams through group chats, meetings and channel conversations. Task list components added to chats and meetings are shared with participants of the meeting. Task list components in channel conversations are shared with all members of the team, including guests.
+- Loop components show up in "Recent files" in the M365 homepage and feed. They can be added to Loop workspaces where workspace members can find them easily and refer to the task list.
+- Task list Loop components can be inserted into a OneNote notebook. This is helpful for personal knowledge management, or for team knowledge management if your team uses OneNote notebooks. 
 
 ### Cons - Microsoft Loop
 
-- No built-in integration with other applications (e.g., Planner) therefore the assignment of tasks can easily get lost and end users have no way to see a holistic view of all their tasks across individual Lists.
-- Cannot be used in Teams, only group chats and meetings
-- Can be hard to find after they have been used
-- Initially shared with specific people based on who the chat or meeting was with
+- Tasks created in Loop workspaces are easy to find when you are a workspace member. But you need to be a member. Managing Loop workspace membership is separate from M365 groups, which means you can't easily include all members of a Teams team.
 - Sub-tasks are not supported
+- Tasks created in Loop Tasks list are synced with a Planner plan. But you can't choose an existing plan to add the tasks to. It creates a new plan that is linked to the Loop page. You can move a task from that Loop-connected Planner plan, to a plan in Teams. But that breaks the link between the task in Loop and Planner. 
 
 ## Microsoft Outlook
 
