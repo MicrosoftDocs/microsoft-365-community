@@ -1,6 +1,6 @@
 ---
 title: Maturity Model for Microsoft 365 – People and Communities Competency
-ms.date: 8/5/2020
+ms.date: 2/17/2024
 author: eemancini
 ms.reviewer: daisyfeller
 manager: pamgreen
@@ -47,6 +47,7 @@ Organizations at level 100 have done little to actively support the concepts aro
 - Limited internal communities inhibit supportive colleague relationships beyond immediate co-workers. 
 - Little has been done to actively support the concepts around people and communities, relying on organic and traditional approaches.
 - Email distribution lists are the hub of community activity; the processes to update information belong to IT, are essentially manual, undocumented, and lack formal processes to manage their members.
+- End users maybe lost and uncomfortable within the organisation.
 
 #### 100 Process 
 
@@ -54,7 +55,7 @@ Organizations at level 100 have done little to actively support the concepts aro
 - Staff profiles, accessible to colleagues, are absent or largely unmaintained; there is no expectation that profiles are completed and updated. Any that do exist are likely to be limited to identifying who works in the organization and in which department (with contact information). Hard copy staff directories may be in use.
 - Organization charts are created manually, inconsistently published, and frequently out of date. They may also be shared via email to department members.
 - Because staff have no access to a reliable directory and may not know the best communication mechanisms to use, colleagues are often overlooked or uninformed. Long-term staff are frequently interrupted with requests for their knowledge, even when others might have been able to assist.
-People use “reply all” despite the impact this has in colleagues’ inboxes. Employees are unable to easily identify who-does-what in the organization, find subject matter experts, or understand the reporting structure. Requests for expertise and questions are often asked via email and then forwarded around the company until the correct subject matter expert is identified; minimal shared insights are created.
+- People use “reply all” despite the impact this has in colleagues’ inboxes. Employees are unable to easily identify who-does-what in the organization, find subject matter experts, or understand the reporting structure. Requests for expertise and questions are often asked via email and then forwarded around the company until the correct subject matter expert is identified; minimal shared insights are created.
 - There is no company guidance on where to have different types of conversations, share interests, or seek advice and engagement from colleagues.
 - No process exists for discovering whether colleagues have particular skills, areas of expertise, or common interests and values. Communities of interest are serendipitous and do not take place digitally. They are effectively invisible to the organization.
 - Personal contact, telephone, and email are the primary means of communication.
@@ -62,6 +63,8 @@ People use “reply all” despite the impact this has in colleagues’ inboxes.
 #### 100 Impacts
 
 There is little company guidance or recommendation on where to have different types of conversations to be most effective. This leads to most people feeling that, while much information is coming at them, little is what they need to know or actionable. No processes or tools exist to discover whether colleagues have specific skills, areas of expertise, or common interests and values. In project-based environments, it’s difficult to find out who worked on past projects. Communities of interest are serendipitous and do not take place digitally. Most conversations use email as the only communication channel.
+
+Staff retention may be difficult as there is little in the way of glue to keep people together and create those connections. Users may feel lost and unsure of their purpose. This impact will be harder if the organisation is largely working remotely. 
 
 Systems may exist to support identifying who works in the organization and in which department. Distribution lists are used to communicate with groups such as “All Company” and each department. The processes to update information fall to IT, are essentially manual and undocumented, and lack formal processes to manage their members.
 
@@ -75,7 +78,8 @@ At this level, the focus tends to be on creating communication channels for the 
 
 - The focus tends to be on creating communication within known groups of people working on projects (the inner loop).
 - Community spaces may be piloted, though these are likely to be somewhat ad hoc with little management, oversight, or intended purpose.
-- Use is encouraged in some teams, but not enforced. 
+- Use is encouraged in some teams, but not enforced.
+- People are able to form better connections with one another. 
 
 #### 200 Process
 
@@ -85,6 +89,7 @@ At this level, the focus tends to be on creating communication channels for the 
 - It is possible to find people and skills across the organization, but this is neither efficient nor assured.
 - Self-service distribution lists (Microsoft 365 Groups) may begin to be leveraged.
 - Policies and guidance on aspects of People and Communities exist, but this is not tracked, lacks metrics and is not strongly advocated for within the management process. Each team may decide how to act on the guidance based on the project goal and their team preference.
+- The information in the Staff profiles is manually entered by the IT department.
 
 #### 200 Impacts
 
@@ -92,6 +97,7 @@ Staff productivity is reduced due to the time spent trying engage the right peop
 Avoidable mistakes are made due to the right people not being engaged.
 Project and other teams are slow to form.
 Employees may begin to see the value in separating communication into different channels where the communities are more focused on specific tasks and topics. Email communication diminishes as inner loop and outer loop conversations move to different and more targeted solutions. The way different communities communicate still varies widely by functional area.
+Staff retention levels are increased over level 100 as people feel more connected with one another and the organisation.
 
 ### Level 300 - Defined
 
@@ -102,6 +108,7 @@ Employees may begin to see the value in separating communication into different 
 - Commonality across teams starts to drive where communities are created and set up. Microsoft Teams or Viva Engage Communities are created based on the type of work people are doing rather than a one-size-fits-all approach. 
 - Team communication channels are well defined and agreed upon as a standard business process. 
 - Community spaces connect a targeted set of users. The purpose and etiquette of community spaces is defined.
+- End users share their knowledge and expertise within the communities and this fosters a culture of support and stronger connections.
 
 #### 300 Process
 
@@ -119,6 +126,7 @@ Employees may begin to see the value in separating communication into different 
 #### 300 Impacts
 
 End users begin to see the ROI for completing their profiles as they can more easily identify who-does-what across the organization. Working teams and employee interest groups experience an increase in engagement and productivity as they connect in communication channels specific to their goals. In order to solve problems in daily work, employees frequently reach across organizational boundaries based on content ownership, and subject matter expertise they recognize as useful.
+Staff retention levels increase as the sense of purpose and belonging is stronger between the users, organisation and one another. People feel like they are valued and this helps them stay connected and continue to support their colleagues.
 
 ### Level 400 - Predictable
 
@@ -135,12 +143,16 @@ End users begin to see the ROI for completing their profiles as they can more ea
 - There is an increased focus on self-service for end users to apply solutions and technologies to their work so they can manage their own membership. 
 - Manually maintained distribution lists are uncommon having been replaced by dynamic distribution lists and groups, based upon employee characteristics for all company communication, Microsoft 365 Groups for teamwork conversations, and Viva Engage for company-wide and cultural communication.
 - Profile fields may integrate with Line of Business data.
+- Tooling will indirectly establish who the subject matter experts are based on the authors of content.
 - Dynamic organization charts are available based on up-to-date data about each employee.
 - Staff photos are updated across multiple systems and profiles from definitive, managed source. Photography style is defined.
+- Staff are encouraged to ask questions within the communities and answer the questions.
 
 #### 400 Impacts
 
-Users rely on different communication channels to stay informed for their day-to-day work as well as for special interest areas that contribute to company culture. They understand and follow governance best practices to share knowledge in these separate channels, with a high degree of trust in the platform getting their message to the right people. Communication in separate communities is fluid and largely frictionless, allowing easy access to inner loops and outer loops, when useful. Organization charts are no longer manually created as end users use the dynamic organization chart in people cards to identify company structure.
+Users rely on different communication channels to stay informed for their day-to-day work as well as for special interest areas that contribute to company culture. They understand and follow governance best practices to share knowledge in these separate channels, with a high degree of trust in the platform getting their message to the right people. Communication in separate communities is fluid and largely frictionless, allowing easy access to inner loops and outer loops, when useful. Organization charts are no longer manually created as end users use the dynamic organization chart in people cards to identify company structure. 
+
+Staff retention levels are further increased as the feeling of belonging, purpose and value increases. Connections and friendships occur across office and team boundaries.
 
 ### Level 500 - Optimizing
 
@@ -176,6 +188,8 @@ At this level, business leaders and platform administrators implement continuous
 
 Anecdotes can be incredibly important for demonstrating the benefit of investments in expanding your People and Communities competency. It is powerful when a team says they reached a goal faster or better by centralizing their communication and identifying subject matter experts early that to be involved. A shift in company culture can be hard to measure, though capturing the anecdotes for how people feel more involved, informed, and engaged will demonstrate value. Stories about how an innovation occurred or an insight was gained can be traced back to specific technology investments and support.
 
+A major cost benefit is with the improvement of staff retention levels which can dramatically reduce the cost to businesses when people leave and need replacing. The impact of rehiring is both financial but also on relationships and the level of knowledge that stays in the business.
+
 Some examples of collaboration ROI include:
 
 - Reduced time to locate critical company updates
@@ -187,6 +201,8 @@ Some examples of collaboration ROI include:
 ## Conclusion
 
 Improving your People and Communities maturity means rethinking your processes and decentralizing communication from one channel to multiple areas which best support the topics and tasks at hand. Embracing different levels of persistence and types of interaction with communication in these channels supports end users’ ability to be more focused and deeply engaged in conversation, achieving better results. Empowering your end users to manage their own communities enables IT professionals to focus on a higher strategic level and reduce friction with end users.
+
+These improvements have a huge benefit to staff well-being and retention levels which is often a hidden benefit.
 
 ## Resources
 
@@ -205,11 +221,11 @@ Improving your People and Communities maturity means rethinking your processes a
 - Microsoft Graph
 - Exchange
 - Microsoft Entra ID
-- 
+ 
 ## Related documents
 
 - [How to Share Org-Wide Communication in Microsoft 365](/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
-- [Join and create a community in Viva Engage](https://support.microsoft.com/office/join-and-create-a-community-in-Viva Engage-56aaf591-1fbc-4160-ba26-0c4723c23fd6)
+- [Join and create a community in Viva Engage](https://support.microsoft.com/office/join-and-create-a-community-in-viva-engage-56aaf591-1fbc-4160-ba26-0c4723c23fd6)
 - [Manage Dynamic Distribution Groups](/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups)
 - [Principles of Communication](/microsoft-365/community/principles-of-communication)
 
