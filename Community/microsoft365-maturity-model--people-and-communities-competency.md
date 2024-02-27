@@ -221,7 +221,7 @@ These improvements have a huge benefit to staff well-being and retention levels 
 - Microsoft Graph
 - Exchange
 - Microsoft Entra ID
-- 
+ 
 ## Related documents
 
 - [How to Share Org-Wide Communication in Microsoft 365](/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
