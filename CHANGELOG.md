@@ -20,6 +20,7 @@ Note: Changelog started in January, 2021
 | [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps.md) | [Stefan Flegg](https://www.linkedin.com/in/stefan-flegg-623462a5/) |
 | [Which Task Management Tool is Right For Me](./Community/which-task-management-option.md) | [Darrell Webster](https://www.linkedin.com/in/darrellwebster/) |
 | [Creating Useful Views for Lists & Libraries](./Community/creating-useful-views-in-lists-libraries.md) | [Naveed Ahmed](https://www.linkedin.com/in/naveed3/) |
+| [Maturity Model for Microsoft 365 – People and Communities Competency](./Community/microsoft365-maturity-model--people-and-communities-competency.md) | [Simon Doy, MVP](https://www.linkedin.com/in/simondoy/) |
 
 ### Removed/retired Articles - February, 2024
 
