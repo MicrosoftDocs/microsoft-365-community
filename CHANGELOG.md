@@ -6,6 +6,32 @@
 
 Note: Changelog started in January, 2021
 
+## February, 2024
+
+### New Articles - February, 2024
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - February, 2024
+
+| Article | Updated By |
+|---|---|
+| [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps.md) | [Stefan Flegg](https://www.linkedin.com/in/stefan-flegg-623462a5/) |
+| [Which Task Management Tool is Right For Me](./Community/which-task-management-option.md) | [Darrell Webster](https://www.linkedin.com/in/darrellwebster/) |
+| [Creating Useful Views for Lists & Libraries](./Community/creating-useful-views-in-lists-libraries.md) | [Naveed Ahmed](https://www.linkedin.com/in/naveed3/) |
+
+### Removed/retired Articles - February, 2024
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - February, 2024
+
+- [Stefan Flegg](https://www.linkedin.com/in/stefan-flegg-623462a5/)
+- [Darrell Webster](https://www.linkedin.com/in/darrellwebster/)
+- [Naveed Ahmed](https://www.linkedin.com/in/naveed3/)
+
 ## January, 2024
 
 ### New Articles - January, 2024
@@ -114,11 +140,11 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
-| [Which Task Management Tool is Right For Me](./Community/which-task-management-option.md) | [Ryan Gates]() |
+| [Which Task Management Tool is Right For Me](./Community/which-task-management-option.md) | [Ryan Gates](https://github.com/gatesry) |
 
 ### New Contributors - July, 2023
 
-- [Ryan Gates]()
+- [Ryan Gates](https://github.com/gatesry)
 
 ## June, 2023
 
@@ -335,7 +361,7 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
-| [Origin Story of the Maturity Model for Microsoft 365](./Community//microsoft365-maturity-model-origin-story.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
+| [Origin Story of the Maturity Model for Microsoft 365](./Community//microsoft365-maturity-model-origin-story.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 
 ### Updated Articles - July, 2022
 
@@ -719,8 +745,7 @@ No significant changes.
 | Article | Principal Author |
 | --- | --- |
 | [How Do Site Columns Become Managed Properties - Thus Available for Search?](./Community/how-do-site-columns-become-managed-properties-thus-available-for-search) | [Jimmy Hang](https://www.linkedin.com/in/jimmyhang/) |
-| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/),
-[Simon Doy, MVP](https://www.linkedin.com/in/simondoy/) |
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/), [Simon Doy, MVP](https://www.linkedin.com/in/simondoy/) |
 | [Elevating People and Communities](./Community/microsoft-maturity-model-how-to-people-communities) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [Document Sets for Fast Legacy Process Automation](./Community/document-sets-are-magic) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
 
