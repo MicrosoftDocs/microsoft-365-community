@@ -1,6 +1,6 @@
 ---
 title: Maturity Model for Microsoft 365 – People and Communities Competency
-ms.date: 8/5/2020
+ms.date: 2/17/2024
 author: eemancini
 ms.reviewer: daisyfeller
 manager: pamgreen
@@ -64,7 +64,7 @@ Organizations at level 100 have done little to actively support the concepts aro
 
 There is little company guidance or recommendation on where to have different types of conversations to be most effective. This leads to most people feeling that, while much information is coming at them, little is what they need to know or actionable. No processes or tools exist to discover whether colleagues have specific skills, areas of expertise, or common interests and values. In project-based environments, it’s difficult to find out who worked on past projects. Communities of interest are serendipitous and do not take place digitally. Most conversations use email as the only communication channel.
 
-Staff retention maybe difficult as there is little in the way of glue to keep people together and create those connections. Users may feel lost and unsure of their purpose. This impact will be harder if the organisation is largely working remotely. 
+Staff retention may be difficult as there is little in the way of glue to keep people together and create those connections. Users may feel lost and unsure of their purpose. This impact will be harder if the organisation is largely working remotely. 
 
 Systems may exist to support identifying who works in the organization and in which department. Distribution lists are used to communicate with groups such as “All Company” and each department. The processes to update information fall to IT, are essentially manual and undocumented, and lack formal processes to manage their members.
 
@@ -143,7 +143,7 @@ Staff retention levels increase as the sense of purpose and belonging is stronge
 - There is an increased focus on self-service for end users to apply solutions and technologies to their work so they can manage their own membership. 
 - Manually maintained distribution lists are uncommon having been replaced by dynamic distribution lists and groups, based upon employee characteristics for all company communication, Microsoft 365 Groups for teamwork conversations, and Viva Engage for company-wide and cultural communication.
 - Profile fields may integrate with Line of Business data.
-- AI tools start to establish and tag the subject matter experts.
+- Tooling will indirectly establish who the subject matter experts are based on the authors of content.
 - Dynamic organization charts are available based on up-to-date data about each employee.
 - Staff photos are updated across multiple systems and profiles from definitive, managed source. Photography style is defined.
 - Staff are encouraged to ask questions within the communities and answer the questions.
@@ -225,7 +225,7 @@ These improvements have a huge benefit to staff well-being and retention levels 
 ## Related documents
 
 - [How to Share Org-Wide Communication in Microsoft 365](/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
-- [Join and create a community in Viva Engage](https://support.microsoft.com/office/join-and-create-a-community-in-Viva Engage-56aaf591-1fbc-4160-ba26-0c4723c23fd6)
+- [Join and create a community in Viva Engage](https://support.microsoft.com/office/join-and-create-a-community-in-viva-engage-56aaf591-1fbc-4160-ba26-0c4723c23fd6)
 - [Manage Dynamic Distribution Groups](/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups)
 - [Principles of Communication](/microsoft-365/community/principles-of-communication)
 
