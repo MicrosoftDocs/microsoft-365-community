@@ -2,6 +2,14 @@
 
 
 
+## Week of February 26, 2024
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 2/27/2024 | [Maturity Model for Microsoft 365 – People and Communities Competency](/microsoft-365/community/microsoft365-maturity-model--people-and-communities-competency) | modified |
+
+
 ## Week of February 19, 2024
 
 
