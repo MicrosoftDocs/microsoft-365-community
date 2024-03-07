@@ -107,6 +107,19 @@ The Filters Pane - available in any modern View - is the underrated biggest impr
 
 As the Site Owner, you're doing your users a service by _pinning_ choice and date columns to the Filters Pane, and maybe those columns from the default View. You'll need to instruct your users about the pane's existence, but if they've ever used SharePoint Search refiners or any shopping website before, they'll totally get it.
 
+### Using Save As to Customize Modern Views
+
+TIP: Instead of going into the View properties to modify an existing view, you can make the changes you want by applying sorting and filtering directly on the list or library and then saving the view. 
+This technique allows you to apply a filter on a multi-select choice column, which is otherwise not possible. (The Edit View page in Settings does not support defining this type of filter.) 
+
+#### EXAMPLE: Filtering on a Multi-Choice Select Column
+
+1.	Create a view that contains the multi-select choice column you want to filter on.
+2.	Select the new view in the list or library.
+3.	Use the column header to filter the multi-choice select column by multiple values. 
+4.	In the view menu, select **Save view as**.
+5.	Click the **Save** button (without changing the name).
+
 ## General and _usually-correct_ default View strategies
 
 Sometimes little-to-no UX research will be done, and sometimes you won't know how or where your List/Library will be used. These tips will help you establish a good default View that applies in most cases:
@@ -126,6 +139,8 @@ Sometimes little-to-no UX research will be done, and sometimes you won't know ho
 - **You almost never need a Multiline column in a default View** as it breaks up the flow of rows in your list by adding different heights of text. This can slow down your user's reading/scanning of content in the View.
 
 - **Maybe, consider setting the List/Library to Classic** if performance is an issue with your user's machines or connection. Classic won't work forever, but it still works now. In Classic, the View is rendered _server side_ and takes the load off the browser having to do the heavy lifting. Modern List/Library Views do _all_ the lifting in the browser now. If your machine isn't great, you're _waiting_ instead of working in Modern. Know your customer's gear.
+
+
 
 ---
 
