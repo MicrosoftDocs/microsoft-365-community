@@ -109,8 +109,9 @@ As the Site Owner, you're doing your users a service by _pinning_ choice and dat
 
 ### Using Save As to Customize Modern Views
 
-TIP: Instead of going into the View properties to modify an existing view, you can make the changes you want by applying sorting and filtering directly on the list or library and then saving the view. 
-This technique allows you to apply a filter on a multi-select choice column, which is otherwise not possible. (The Edit View page in Settings does not support defining this type of filter.) 
+> [!TIP]
+>  Instead of going into the View properties to modify an existing view, you can make the changes you want by applying sorting and filtering directly on the list or library and then saving the view. 
+> This technique allows you to apply a filter on a multi-select choice column, which is otherwise not possible. (The Edit View page in Settings does not support defining this type of filter.) 
 
 #### EXAMPLE: Filtering on a Multi-Choice Select Column
 
