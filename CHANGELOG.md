@@ -6,6 +6,28 @@
 
 Note: Changelog started in January, 2021
 
+## March, 2024
+
+### New Articles - March, 2024
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - March, 2024
+
+| Article | Updated By |
+|---|---|
+| [Creating Useful Views for Lists & Libraries](./Community\creating-useful-views-in-lists-libraries.md) | [hkbourne](https://github.com/hermi14) |
+
+### Removed/retired Articles - March, 2024
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - March, 2024
+
+- [hkbourne](https://github.com/hermi14)
+
 ## February, 2024
 
 ### New Articles - February, 2024

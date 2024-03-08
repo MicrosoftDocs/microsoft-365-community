@@ -1,6 +1,6 @@
 ---
 title: Creating Useful Views for Lists & Libraries
-ms.date: 7/10/2020
+ms.date: 3/8/2024
 author: PatD
 ms.reviewer: daisyfeller
 manager: pamgreen
@@ -8,7 +8,7 @@ ms.topic: article
 ms.author: daisyfeller
 ms.service: sharepoint-online
 localization_priority:
-description: Support your end users by creating effiicent and effective Views
+description: Support your end users by creating efficient and effective Views
 ms.collection: M365Community
 
 ---
@@ -22,7 +22,7 @@ ms.collection: M365Community
 As a SharePoint Site Owner, you benefit directly by having users who find the product _useful_ with a good _user experience._ Some things you have control over  - navigation structure, page structure, content types, and List/Library Views. If you totally ignore what you have influence over, your users might perceive SharePoint as _something IT imposed on us_. If you lend a hand as Site Owner, you can change that perception. You can be the one who makes Lists/Libraries a joy to work in, a _useful_ thing to work in.
 
 > [!NOTE]
-> Microsoft Lists is available both in SharePoint and on its own as the Lists app.
+> Microsoft Lists is available both in SharePoint and on its own as the Microsoft Lists app.
 
 You should lend a hand to your users by making List/Library default Views meaningful and useful from the start. Users can make their own Views, of course, but by showing them what a good View is like, you can empower them to work efficiently.
 
@@ -46,10 +46,10 @@ Set your users up for success when you help them create a List or Library: creat
 
 ## Understanding List/Library View capability
 
-As a site owner, get yourself up to speed on [SharePoint List/Library View features and capabilities](https://support.microsoft.com/office/create-change-or-delete-a-view-of-a-list-or-library-27ae65b8-bc5b-4949-b29b-4ee87144a9c9). You should know how to show/hide columns, change the sort order, make multiple views, and how to add column choices to the Modern UI filters pane.
+As a site owner, get yourself up to speed on [SharePoint List/Library View features and capabilities](https://support.microsoft.com/office/create-change-or-delete-a-view-of-a-list-or-library-27ae65b8-bc5b-4949-b29b-4ee87144a9c9). You should know how to show/hide columns, change the sort order, make multiple views, and how to add column choices to the filters pane.
   
 >**SharePoint Designer Views:**
->If someone told you to make a View in _SharePoint Designer_, years ago, this was a viable tool for customizing views, but SharePoint Designer is deprecated and will be unsupported in a few years. Do not use it.
+>If someone told you to make a View in _SharePoint Designer_, years ago, this was a viable tool for customizing views, but SharePoint Designer is deprecated and will be unsupported in a few years. SharePoint Designer doesn't work with modern SharePoint views.
 
 You should also learn concepts like item/document View metadata filtering and grouping content.
 
@@ -64,7 +64,7 @@ By taking a beat and thinking about the _tasks_ your users will perform, you'll 
 
 ## How many items are in this List/Library?
 
-It can be tough to know the answer to this up front, but once you've been a Site Owner for a few years, you'll get a feel for it. This question lends itself to thinking about performance, pagination in Classic (i.e., _1-30 of 3000 items_), folders in Libraries, Grouping content in a View, and data-driven views.
+It can be tough to know the answer to this up front, but once you've been a Site Owner for a few years, you'll get a feel for it. This question lends itself to thinking about performance, pagination in Classic (e.g., _1-30 of 3000 items_), folders in Libraries, Grouping content in a View, and data-driven views.
 
 Check the guide to handling Views where there is a lot of content: [Living Large with Large Lists and Large Libraries](/microsoft-365/community/large-lists-large-libraries-in-sharepoint)
 
@@ -113,7 +113,7 @@ Sometimes little-to-no UX research will be done, and sometimes you won't know ho
 
 - **Title column on the left** side of the view (same with _Name_, if it's a Library). Maybe the most left you can, but not in the middle or the right. Give users a target to click on where they're looking.
 
-- **In a browser, zero percent of users want to scroll horizontally** even though it's super easy to three-finger horizontal swipe on your brand-new state-of-the-art developer-grade laptop trackpad. Use the Filters Pane instead. Or create a secondary View that shows more columns.
+- **In a browser, zero percent of users want to scroll horizontally** even though it's super easy to three-finger horizontal swipe on your brand-new state-of-the-art developer-grade laptop track pad. Use the Filters Pane instead. Or create a secondary View that shows more columns.
 
 - **In a Modern View, Item Count (Pagination) is often ignored** in favor of infinite scrolling. This comes at performance tradeoff at your user's expense. Additional rows are loaded and rendered dynamically as the user scrolls. Displaying _fewer_ columns in your View can increase perceived scrolling speed. Smooth scrolling is what your users want in a View. Let the filters pane work for you.
 
@@ -124,8 +124,6 @@ Sometimes little-to-no UX research will be done, and sometimes you won't know ho
 - **Display 1 or 2 extra metadata columns for the default View** but more than that may be a higher cognitive load than what your users can handle. And more columns could lead to horizontal scrolling.
 
 - **You almost never need a Multiline column in a default View** as it breaks up the flow of rows in your list by adding different heights of text. This can slow down your user's reading/scanning of content in the View.
-
-- **Maybe, consider setting the List/Library to Classic** if performance is an issue with your user's machines or connection. Classic won't work forever, but it still works now. In Classic, the View is rendered _server side_ and takes the load off the browser having to do the heavy lifting. Modern List/Library Views do _all_ the lifting in the browser now. If your machine isn't great, you're _waiting_ instead of working in Modern. Know your customer's gear.
 
 ---
 
