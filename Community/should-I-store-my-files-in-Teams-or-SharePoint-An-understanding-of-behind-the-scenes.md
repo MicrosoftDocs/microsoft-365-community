@@ -1,5 +1,5 @@
 ---
-ms.date: 04/19/2020
+ms.date: 04/04/2024
 title: Should I store my files in Microsoft Teams or in SharePoint? An understanding of behind the scenes
 author: veronicageek
 ms.reviewer: daisyfeller
@@ -41,7 +41,7 @@ As you can see above, a site is created to store your documents. Meaning that ea
 
 The exact location depends on which Team channel you share(d) them in. By default, there's a _General_ channel (which can't be deleted), and the files shared in this channel will be stored in the SharePoint site, in the _Documents_ library, within the _General_ folder. If you create a Team channel called "Project A", files shared in this channel will be stored in SharePoint under the folder called "Project A", and so on...
 
-_This applies to 'Standard' channels. Private channels have a different architecture which consists in having a separate site with different permissions from the Team. More information is available on the official Microsoft documentation: [Private Channels in Microsoft Teams](/microsoftteams/private-channels)_.
+_This applies to 'Standard' channels. Private channels and Shared channels have a different architecture which consists in having a separate site with different permissions from the Team. More information is available on the official Microsoft documentation: [Private Channels in Microsoft Teams](/microsoftteams/private-channels)_ and [Shared Channels in Microsoft Teams](/microsoftteams/shared-channels)_.
 
 ![Image of the General channel in a Microsoft Teams team.](media/should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes/TeamsGeneral.png)
 
@@ -51,19 +51,18 @@ _This applies to 'Standard' channels. Private channels have a different architec
 
 ## How do I access my files?
 
-There are different ways to access your files. Within Microsoft Teams, or via SharePoint Online. All depends on which interface you feel the most comfortable with. Of course, if you need to do more with your files (i.e.: advanced settings) then you'll need to go into SharePoint.
+There are different ways to access your files. Within Microsoft Teams, or via SharePoint Online. All depends on which interface you feel the most comfortable with. Of course, if you need to do more with your files (e.g. apply advanced settings, implement views and columns) then you'll need to go into SharePoint.
 
-**Accessing via Microsoft Teams**
-You can access your files by navigating into the channel, on the tab at the top called _Files_. Here, will be listed all the files, folders, and other documents.
-The interface is "almost" similar to SharePoint. At the top, you can create new files, upload files, download files, etc.
+###Accessing via Microsoft Teams###
+You can reach your files by first going into the channel, then selecting the _Files_ tab to the right of the _Posts_ tab at the top. All the folders and files are listed, with their _Modified_ and _Modified by_ columns (which can be clicked to change the sort order).
+The interface is "almost" similar to SharePoint. At the top, you can create new files and folders, upload files, download files, etc. You can also select different _Views_, which mimic those created in SharePoint, filter the view and use the 'i' icon to open the details pane.
 
-Another way from Microsoft Teams would be to open the associated site directly.
-If you are in the _Posts_ tab of a channel, click on the ellipses (...) on the top right corner under your profile picture, and select **Open in SharePoint**. You'll then be redirected to the folder containing your files/documents.
+Another way from Microsoft Teams would be to open the associated site directly. Simply select **Open in SharePoint** from the _Files_ tab menu. The associated SharePoint site will open in a browser and show the contents of the channel folder.
 
 In case you only want to open a specific file, this is also possible.
-This time, navigate to the _Files_ tab of the channel, click on the ellipses (...) next to the file itself, and select **Open in SharePoint**. Although you'd think it would filter the view for only that document, but unfortunately it doesn't.
+This time, navigate to the _Files_ tab of the channel, click on the ellipses (...) that appears when you _mouseover_ a file, and select **Open in SharePoint** from the menu that appears. Although you'd think it would filter the view for only that document, or select it or something, it doesn't. You will still need to scroll or filter or search in the SharePoint library.
 
-**Accessing via SharePoint Online**
+###Accessing via SharePoint Online###
 If you feel comfortable in using the SharePoint Online interface, feel free to go directly to the site. The common URL is structured like this: `https://<tenant-name>.sharepoint.com/sites/<Team-name>/Shared%20Documents/<channel-name>`
 
 The site should also appear in your SharePoint home page, along with all the other sites you have access to.
@@ -76,7 +75,13 @@ As with all content in Microsoft 365, _security trimming_ applies to these files
 
 Yes. Wherever you are making changes to files and documents, they are saved. And you always have the latest version of the document, whether you are in Microsoft Teams or in SharePoint Online.
 
+## Conclusion ##
+It turns out that there is literally no difference between storing your files in Microsoft Teams or in SharePoint. They are, in reality, just two views of the same file store. You can access, create, edit or otherwise interact with them in either place. 
+SharePoint will give you more control and extra capabilities, which is great for power users. You can create and trigger workflows from SharePoint, and access _Version History_ for example. However Teams feels simpler and more 'in their workflow' for many users. They may feel that they can collaborate more easily. There are some also nice touches, such as making a document into a channel tab for extra focus/rapid access (though both let you _Pin to top_, which has a similar benefit). 
+Whichever way people prefer is fine. Your power users and content owners may need to know about both.
+
 ---
 
 **Principal author**: [Veronique Lengelle, MVP](https://www.linkedin.com/in/veronique-lengelle-48a71b31)
+**Updates**: [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 
