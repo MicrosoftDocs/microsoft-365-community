@@ -1,6 +1,6 @@
 ---
 title: The Principles of Communication – supporting the Microsoft 365 MaturityModel
-ms.date: 7/28/2020
+ms.date: 04/02/2024
 author: SimonJHudson
 ms.reviewer: daisyfeller
 manager: pamgreen
