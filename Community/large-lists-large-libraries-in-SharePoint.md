@@ -128,9 +128,9 @@ For the best user experience you should be proactively ensuring the appropriate 
 - Currency
 - Date and Time
 - Yes/No
-- Lookup (Lookup)
+- Lookup (single value)
 - Person or Group (single value) (Lookup)
-- Managed Metadata (Lookup)
+- Managed Metadata (single value) (Lookup)
 
 ### Column types that cannot be Indexed
 
@@ -139,7 +139,9 @@ For the best user experience you should be proactively ensuring the appropriate 
 - Calculated
 - Hyperlink or Picture
 - Custom Columns
+- Lookup (multi-valued)
 - Person or Group (multi-valued) (Lookup)
+- Managed Metadata (multi-valued) (Lookup)
 - External data
   
 ## But *why* are we indexing columns?
