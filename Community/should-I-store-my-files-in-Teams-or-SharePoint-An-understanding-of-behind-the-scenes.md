@@ -51,14 +51,14 @@ _This applies to 'Standard' channels. Private channels and Shared channels have 
 
 ## How do I access my files?
 
-There are different ways to access your filesithin Microsoft Teams or via SharePoint Online. It depends on which interface you feel the most comfortable with. Of course, if you need to do more with your files (such as apply advanced settings, implement views and columns) then you'll need to go into SharePoint.
+You can access your files within Microsoft Teams or via SharePoint Online. It depends on which interface you feel the most comfortable with. Of course, if you need to do more with your files (such as apply advanced settings, implement views and columns), then you need to go into SharePoint.
 
 ### Accessing via Microsoft Teams
 You can reach your files by first going into the channel, and then selecting the _Files_ tab to the right of the _Posts_ tab at the top. All the folders and files are listed with their _Modified_ and _Modified by_ columns (which can be clicked to change the sort order).
 
-The interface is similar to SharePoint. At the top, you can create new files and folders, upload files, download files, and so on. You can also select different _Views_, which mimic those created in SharePoint, filter the view and use the 'i' icon to open the details pane.
+The interface is similar to SharePoint. At the top, you can create new files and folders, upload files, download files, and so on. You can also select different _Views_, which mimic those created in SharePoint, filter the view, and use the 'i' icon to open the details pane.
 
-Another way from Microsoft Teams is to open the associated site directly. Select **Open in SharePoint** from the _Files_ tab menu. The associated SharePoint site will open in a browser and show the contents of the channel folder.
+You can also open the associated site directly from Microsoft Teams. Select **Open in SharePoint** from the _Files_ tab menu. The associated SharePoint site will open in a browser and show the contents of the channel folder.
 
 In case you only want to open a specific file, this is also possible.
 This time, navigate to the _Files_ tab of the channel, click on the ellipses (...) that appears when you _mouseover_ a file, and select **Open in SharePoint** from the menu that appears. Although you'd think it would filter the view for only that document, or select it or something, it doesn't. You will still need to scroll or filter or search in the SharePoint library.
