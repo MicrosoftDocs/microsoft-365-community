@@ -35,7 +35,8 @@ Every time you create a new _Team_, the following are also created in the backgr
 
 As you can see above, a site is created to store your documents. Meaning that each time you share files in a Team, they are stored in the associated site in SharePoint! **Not** in Microsoft Teams.
 
-> _Note: Files shared in private chats will be stored in the sender's OneDrive for Business._
+> [!Note]
+> Files shared in private chats are stored in the sender's OneDrive for Business.
 
 ## But where are my files exactly?
 
