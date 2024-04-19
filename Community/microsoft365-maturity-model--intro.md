@@ -64,7 +64,7 @@ In developing a maturity model for Microsoft 365 we aimed to create a toolkit wh
 
 ## Maturity Levels
 
-The 5 levels within the Maturity Model for Micorosft 365 can be summarized as:
+The 5 levels within the Maturity Model for Microsoft 365 can be summarized as:
 
 ### Level 100 - Initial
 

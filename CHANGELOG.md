@@ -6,6 +6,33 @@
 
 Note: Changelog started in January, 2021
 
+## April, 2024
+
+### New Articles - April, 2024
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - April, 2024
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Introduction](./Community/microsoft365-maturity-model--intro.md) | [Rob Ellis](https://www.linkedin.com/in/robellis1/) |
+| [Living Large with Large Lists and Large Libraries](./Community/large-lists-large-libraries-in-SharePoint.md) | [msznwska](https://github.com/msznwska) |
+| [The Principles of Communication](./Community/principles-of-communication.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [Should I store my files in Microsoft Teams or in SharePoint? An understanding of behind the scenes](./Community/should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+
+### Removed/retired Articles - April, 2024
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - April, 2024
+
+- [Rob Ellis](https://www.linkedin.com/in/robellis1/)
+- [msznwska](https://github.com/msznwska)
+
 ## March, 2024
 
 ### New Articles - March, 2024
