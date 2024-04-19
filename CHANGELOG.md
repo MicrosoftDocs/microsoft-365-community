@@ -21,6 +21,7 @@ Note: Changelog started in January, 2021
 | [Living Large with Large Lists and Large Libraries](./Community/large-lists-large-libraries-in-SharePoint.md) | [msznwska](https://github.com/msznwska) |
 | [The Principles of Communication](./Community/principles-of-communication.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
 | [Should I store my files in Microsoft Teams or in SharePoint? An understanding of behind the scenes](./Community/should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [Versioning in SharePoint](./Community/versioning-basics-best-practices.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 
 ### Removed/retired Articles - April, 2024
 
