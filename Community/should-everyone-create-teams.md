@@ -2,10 +2,10 @@
 title: Should everyone create Teams - Low Code Provisioning solution
 ms.date:  9/02/2020
 author: LuiseFreese
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: msteams
 localization_priority:
 description: "Should everyone create Teams - Low Code Provisioning solution"

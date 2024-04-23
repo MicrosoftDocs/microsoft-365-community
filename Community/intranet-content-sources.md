@@ -3,7 +3,7 @@ title: Building great content for your Intranet
 ms.date: 11/29/2021
 author: pkbullock
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 manager: pamgreen
 ms.service: sharepoint-online
 localization_priority: 

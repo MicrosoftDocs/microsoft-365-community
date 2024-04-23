@@ -2,10 +2,10 @@
 title: What task management platform is best for me?
 ms.date: 12/19/2022
 author: dfrancoeur
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: microsoft-365
 localization_priority: 
 description: "A short guide on the many (many) options for managing tasks in M365 and how they stack up."

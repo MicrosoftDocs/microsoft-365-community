@@ -2,10 +2,10 @@
 title: Dataverse and Model-Driven Apps Standards and Naming Conventions
 ms.date: 3/29/2021
 author:  sympmarc
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: power-platform
 ms.subservice: dataverse
 localization_priority: 

@@ -2,10 +2,10 @@
 title: Performing Guests Reviews with Azure Identity Governance
 ms.date: 12/19/2022
 author: dfrancoeur
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: microsoft-365
 localization_priority: 
 description: A short guide on performing Guests Reviews using Azure P2 and its Identity Governance features.

@@ -2,10 +2,10 @@
 title: Follow Microsoft 365 on Social Media
 ms.date: 8/23/2020
 author: PathToSharePoint
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: microsoft-365
 localization_priority: 
 description: Useful links to help you follow the Microsoft 365 community on social media

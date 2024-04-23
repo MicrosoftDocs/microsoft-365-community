@@ -2,8 +2,8 @@
 title: Using Shared Channels (Teams Connect) for Internal Collaboration
 ms.date: 12/19/2022
 author: dfrancoeur
-ms.author: daisyfeller
-ms.reviewer: daisyfeller
+ms.author: pamgreen
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
 ms.service: microsoft-365

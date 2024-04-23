@@ -2,10 +2,10 @@
 title: Maturity Model for Microsoft 365 – Cognitive Business Competency
 ms.date: 3/19/2023
 author: SimonJHudson
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: microsoft-365
 localization_priority:
 description: Maturity Model for Microsoft 365 - Cognitive Business Competency

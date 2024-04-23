@@ -1,8 +1,8 @@
 ---
 title: library scenario images
 author: nyoung30
-ms.author: daisyfeller
-ms.reviewer: daisyfeller
+ms.author: pamgreen
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
 ms.service: o365-solutions
