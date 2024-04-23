@@ -2,8 +2,8 @@
 title: Maturity Model for Microsoft 365 – Search Competency
 ms.date: 9/3/2020
 author: simonjhudson
-ms.author: daisyfeller
-ms.reviewer: daisyfeller
+ms.author: pamgreen
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
 ms.service: microsoft-365

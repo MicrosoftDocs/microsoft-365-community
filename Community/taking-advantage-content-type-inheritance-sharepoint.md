@@ -2,10 +2,10 @@
 title: Taking Advantage of the Content Type Inheritance Model in SharePoint
 ms.date: 10/26/2022
 author: sympmarc
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: sharepoint-online
 localization_priority: 
 description: "Taking Advantage of the Content Type Inheritance Model in SharePoint"

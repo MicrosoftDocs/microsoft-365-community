@@ -2,10 +2,10 @@
 title: Identifying Your Microsoft 365 Champions
 ms.date: 3/22/2020
 author: eemancini
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: sharepoint-online
 localization_priority: 
 description: Identifying influencers in your organization to help support SharePoint and Microsoft 365 initiatives through feedback, change management support, and self-service opportunities.

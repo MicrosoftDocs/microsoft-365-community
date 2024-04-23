@@ -2,10 +2,10 @@
 title: OneDrive PC Folder Backup Benefits for End Users
 ms.date: 8/3/2020
 author: jimmyhang
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: one-drive
 localization_priority: 
 description: OneDrive PC Folder Backup Benefits for End Users

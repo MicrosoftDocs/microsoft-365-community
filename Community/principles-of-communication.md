@@ -3,10 +3,10 @@
 title: The Principles of Communication – supporting the Microsoft 365 Maturity Model
 ms.date: 04/03/2024
 author: SimonJHudson
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: microsoft-365
 localization_priority:
 description: Seven principles of communication as used to inform the Communication Competency within the Microsoft 365 Maturity Model

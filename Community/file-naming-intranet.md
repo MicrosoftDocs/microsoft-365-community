@@ -2,10 +2,10 @@
 title: File Naming on an Intranet
 ms.date: 2/13/2023
 author: sympmarc
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: sharepoint-online
 localization_priority: 
 description: File Naming on an Intranet

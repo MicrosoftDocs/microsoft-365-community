@@ -2,10 +2,10 @@
 title: Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces
 ms.date:  9/16/2020
 author: LuiseFreese
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 localization_priority:
 description: "Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces"
 ms.collection: M365Community
