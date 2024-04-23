@@ -2,10 +2,10 @@
 title: Site Builder/Owner - New Site Checklist
 ms.date: 3/3/2020
 author: nyoung30
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: sharepoint-online
 localization_priority: 
 description: "Site Builder/Owner: New Site Checklist"

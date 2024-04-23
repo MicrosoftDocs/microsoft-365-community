@@ -2,10 +2,10 @@
 title: Basic Security Set Up for Microsoft 365
 ms.date: 7/9/2020
 author: helloitsliam
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: security
 localization_priority: 
 description: Basic Security Set Up for Microsoft 365

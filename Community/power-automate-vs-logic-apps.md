@@ -2,8 +2,8 @@
 title: Power Automate vs Logic Apps
 ms.date: 10/28/2020
 author: pkbullock
-ms.author: daisyfeller
-ms.reviewer: daisyfeller
+ms.author: pamgreen
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
 ms.service: power-platform

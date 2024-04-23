@@ -2,10 +2,10 @@
 title: Power Automate - Send SharePoint files as attachments
 ms.date: 03/04/2020
 author: JimmyHang
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: power-platform
 localization_priority: 
 description: "Power Automate - Send SharePoint files as attachments"

@@ -2,10 +2,10 @@
 title: What are Maturity Model for Microsoft 365 Practical Scenarios?
 ms.date: 9/14/2022
 author: sympmarc
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: microsoft-365
 localization_priority:
 description: What are Maturity Model for Microsoft 365 Practical Scenarios?

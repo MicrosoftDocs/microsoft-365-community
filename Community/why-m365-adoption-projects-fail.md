@@ -2,10 +2,10 @@
 title: Why Microsoft 365 adoption projects fail
 ms.date: 01/20/2021
 author: LuiseFreese
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: microsoft-365
 localization_priority: 
 description: Why Microsoft 365 adoption projects fail - a deeper look into corporate mental models, organizational structures, and patterns in working behavior

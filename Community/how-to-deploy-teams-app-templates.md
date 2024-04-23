@@ -2,10 +2,10 @@
 title: How to deploy Teams App templates into your tenant
 ms.date: 1/20/2021
 author: LuiseFreese
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: microsoft-365
 localization_priority: 
 description: "Microsoft Teams app templates are ready to production, easy to deploy apps that extend Teams to your needs- this is a guide how to deploy them"

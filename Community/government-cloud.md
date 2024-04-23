@@ -2,10 +2,10 @@
 title: Use the Government Cloud for SharePoint and Microsoft 365
 ms.date: 10/30/2022
 author: PatD
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: sharepoint-online
 localization_priority: 
 description: "A quick knowledge primer for site owners and Microsoft 365 experts on working in the M365 government cloud."

@@ -10,8 +10,8 @@ metadata:
   ms.subservice: subservice
   ms.topic: landing-page # Required
   ms.collection: M365-collaboration
-  author: daisyfeller #Required; your GitHub user alias, with correct capitalization.
-  ms.author: daisyfeller #Required; microsoft alias of author; optional team alias.
+  author: pamgreen #Required; your GitHub user alias, with correct capitalization.
+  ms.author: pamgreen #Required; microsoft alias of author; optional team alias.
   ms.date: 07/12/2022 #Required; mm/dd/yyyy format
   localization_priority: Priority
 

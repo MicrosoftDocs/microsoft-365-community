@@ -2,10 +2,10 @@
 title:  "Managing SharePoint Online Security: A Team Effort"
 ms.date: 6/27/2020
 author: veronicageek
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: sharepoint-online
 localization_priority: 
 description: "Managing SharePoint Online Security: A Team Effort"
