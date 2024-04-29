@@ -78,9 +78,9 @@ The most effective guidelines are simple and easy to consume supporting quick de
 
 - Review the feedback from the pilot group using Delve and create guidelines for the company on how to complete profiles and use search to locate expertise across the company. Include specifics in your guidelines on how each field will be used at your organization.
 
-  * For example, if employees are completing the "projects" field, does this include only active projects? What should be included in "skills"? If you are a small start-up, it may be helpful for employees to identify all their skills even if it is not relevant to their current position. Your start-up, with no corporate communications department, may need video editing help and finding an internal resource is the only option due to a limited project budget. If you are a large organization, including skills not specific to employees' roles may cause confusion on who-does-what.
+  - For example, if employees are completing the "projects" field, does this include only active projects? What should be included in "skills"? If you are a small start-up, it may be helpful for employees to identify all their skills even if it is not relevant to their current position. Your start-up, with no corporate communications department, may need video editing help and finding an internal resource is the only option due to a limited project budget. If you are a large organization, including skills not specific to employees' roles may cause confusion on who-does-what.
 
-  * These guidelines should be created in partnership with company leadership to ensure alignment with company objectives and ensure their support implementing the new process across all departments. Include any additional enterprise solutions or business processes for identifying expertise. For example, if there is an IT ticketing solution in place, include in the guidelines that this search is not a replacement for submitting tickets for IT support.
+  - These guidelines should be created in partnership with company leadership to ensure alignment with company objectives and ensure their support implementing the new process across all departments. Include any additional enterprise solutions or business processes for identifying expertise. For example, if there is an IT ticketing solution in place, include in the guidelines that this search is not a replacement for submitting tickets for IT support.
 
 - Eliminate any alternate solutions previously used to surface expertise. Only solutions identified as the enterprise solution should include this information. Reducing shadow copies of data will ensure data is accurate, within any audit scopes, and reduce confusion for employees transitioning to the new business process.
 
@@ -154,7 +154,7 @@ Improving your People and Communities maturity means rethinking your processes a
 - [Manage Dynamic Distribution Groups](/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups)
 - [Welcome to Microsoft Teams](/microsoftteams/teams-overview)
 - [Create and Share News on your SharePoint Sites](https://support.microsoft.com/office/create-and-share-news-on-your-sharepoint-sites-495f8f1a-3bef-4045-b33a-55e5abe7aed7)
-- [What is Viva Engage?](https://support.microsoft.com/office/what-is-Viva Engage-1b0f3b3e-89ee-4b66-aac5-30def12f287c)
+- [Microsoft Viva Engage](https://www.microsoft.com/microsoft-viva/engage)
 - [What is Delve?](https://support.microsoft.com/office/what-is-office-delve-1315665a-c6af-4409-a28d-49f8916878ca)
 - [MyAnalytics](/workplace-analytics/myanalytics/mya-landing-page)
 
