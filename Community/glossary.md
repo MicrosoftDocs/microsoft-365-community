@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 Glossary
-ms.date: 9/2/2020
+ms.date: 04/29/2024
 author: sympmarc
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -586,7 +586,7 @@ Viva Insights has introduced a curated set of guided meditations and Focus music
 
 The Device Health Attestation (DHA) service validates the TPM and PCR logs for a device and then issues a DHA report.
 
-### [Hello for Business (Windows)](/security/identity-protection/hello-for-business/hello-overview)
+### [Hello for Business (Windows)](/windows/security/identity-protection/hello-for-business/)
 
 In Windows 10, Windows Hello for Business replaces passwords with strong two-factor authentication on devices. This authentication consists of a new type of user credential that is tied to a device and uses a biometric or PIN.
 
@@ -1538,10 +1538,6 @@ Microsoft Word is a word processing software developed by Microsoft.
 ### [XDR (Extended Detection and Response)](/microsoft-365/security/defender/eval-overview)
 
 Microsoft 365 Defender provides XDR capabilities for end-user environments (email, documents, identity, apps, and endpoint); and Microsoft Defender for Cloud provides XDR capabilities for infrastructure and multi-cloud platforms including virtual machines, databases, containers, and IoT.
-
-### [XP](/answers/questions/126532/xp-level-points.html)
-
-No, not the outdated Windows operating system.  In this case, XP stands for Experience Points in Microsoft Learn training.
 
 ## Y
 

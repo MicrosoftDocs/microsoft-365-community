@@ -46,7 +46,7 @@ By default, comments are turned on for SharePoint news posts, inviting all emplo
 
 #### Viva Engage
 
-[Viva Engage](https://support.microsoft.com/Viva Engage) excels at supporting serendipitous connections across your organization and creating communities for knowledge sharing, special interest groups, or communities of practice in an informal setting. Viva Engage communities are self-service and most successful when run independently by interested parties. In an organization with open communication, Viva Engage is an excellent place to socialize, crowd source ideas and solutions, informally share updates, increase communication between executives and employees, and break down silos initiating cross-department collaboration.
+[Viva Engage](https://www.microsoft.com/microsoft-viva/engage) excels at supporting serendipitous connections across your organization and creating communities for knowledge sharing, special interest groups, or communities of practice in an informal setting. Viva Engage communities are self-service and most successful when run independently by interested parties. In an organization with open communication, Viva Engage is an excellent place to socialize, crowd source ideas and solutions, informally share updates, increase communication between executives and employees, and break down silos initiating cross-department collaboration.
 
 ### Restricted Communication
 
@@ -123,7 +123,6 @@ To make your org-wide communications more effective, engaging, and actionable, c
 ## Resources
 
 - [The Evolution of Company-wide Email Communication to SharePoint News](/microsoft-365/community/evolution-of-company-wide-email-communication-to-sharepoint-news)
-- [Which is better for collaboration – Viva Engage or Microsoft Teams?](https://www.computerworld.com/article/3568210/which-is-better-for-collaboration-Viva Engage-or-microsoft-teams)
 
 ---
 

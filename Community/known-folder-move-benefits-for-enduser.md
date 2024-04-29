@@ -37,15 +37,15 @@ OneDrive PC Folder Backup is a OneDrive sync feature that works with Windows 7, 
 
 Follow this [Guide](https://support.office.com/article/back-up-your-documents-pictures-and-desktop-folders-with-onedrive-d61a7930-a6fb-4b95-b28a-6552e77c3057) at Microsoft support.
 
-![OneDrive PC Folder Backup Options](media/known-folder-move-benefits-for-endusers/KFM01.png)
+![Screenshot of OneDrive PC Folder Backup Options.](media/known-folder-move-benefits-for-endusers/KFM01.png)
 
-![OneDrive PC Folder Backup Options](media/known-folder-move-benefits-for-endusers/KFM02.png)
+![Screenshot of OneDrive PC Choose Folders.](media/known-folder-move-benefits-for-endusers/KFM02.png)
 
 ## Tips & Tricks
 
 Here are few things I've experienced with this feature that might help in case of troubleshooting:
 
-1. OneDrive PC Folder Backup is similar to Windows Offline Files or folder redirection. Meaning they don't work well together so you need to turn of Offline files before using OneDrive PC Folder Backup. 
+1. OneDrive PC Folder Backup is similar to Windows Offline Files or folder redirection. Meaning they don't work well together so you need to turn of Offline files before using OneDrive PC Folder Backup.
 2. OneDrive PC Folder Backup uses your OneDrive site as storage, meaning the user account in question have to be "Site Collection Owner" of that OneDrive site, this is normally the case but if not then OneDrive PC Folder Backup won't work.
 3. .PST files is not supported. This is often the case when users have limited mailbox storage on premises, normally we export the mailbox as backup and stores this in the Documents folder leading to error when activating the feature.
 4. OneNote files outside of OneDrive is not supported. This is the case if you have used OneNote locally before OneDrive PC Folder Backup normally the OneNote apps stores the files in the Documents folder. Move the OneNote files to OneDrive first.
