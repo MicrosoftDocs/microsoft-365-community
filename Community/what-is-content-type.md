@@ -1,6 +1,6 @@
 ---
 title: What is a content type?
-ms.date: 3/3/2020
+ms.date: 04/29/2024
 author: sympmarc
 ms.reviewer: daisyfeller
 manager: pamgreen
@@ -24,7 +24,7 @@ SharePoint comes with some out of the box Content Types which represent generic 
 
 ## Real World Example
 
-You work with Content Types at home every day. You probably have grocery lists, bills, and maybe a mortgage around your house right now. Each of these objects are second nature to you; you don't think about what they are or what to call them.
+You work with Content Types at home every day. You probably have grocery lists, bills, and maybe a mortgage document around your house right now. Each of these objects are second nature to you; you don't think about what they are or what to call them.
 
 For sake of discussion, let's say you do have a mortgage and you've put it into a manila folder in your drawer.
 
@@ -40,7 +40,7 @@ Now, you may wonder why we're looking at a folder at all. Folders are supposed t
 
 Now imagine you work at a mortgage company. Instead of one (or maybe two) mortgages, you're responsible for thousands. The Content Type becomes even more important, and you may want some additional metadata, like maybe the mortgage originator, the servicing company, and the mortgage due date.
 
-![Document in a manila folder with metadata](media/what-is-content-type/folder-with-more-metadata.png)
+![Document in a manila folder with more detailed metadata](media/what-is-content-type/folder-with-more-metadata.png)
 
 We don't add these metadata columns just for fun. We decide to collect the metadata which will enable the use cases we want, but not too much more than that. For example, if we'd like to have a view which shows all the mortgages which are going to be due in the next month, we need the Content Type = Mortgage and the mortgage due date >= [Today] and mortgage due date <= [Today+30]. We can't satisfy that use case unless we've made the document a Mortgage and added the mortgage due date metadata column - and populated it!
 
