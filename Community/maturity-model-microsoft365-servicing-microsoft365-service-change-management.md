@@ -28,7 +28,7 @@ The [Microsoft 365 Admin Centre](https://admin.microsoft.com/#/homepage) provide
 
 ![Mobile advisories in the Microsoft 365 Admin Center](media/maturity-model-microsoft365-servicing-microsoft365-service-change-management\advisories-mobile.jpg)
 
-Microsoft makes planned service changes to the M365 services daily, resulting in over 1000 change announcements per year. Effective IT operations will maintain awareness of current and future changes and assess their impacts on the business. These changes are primarily announced via the [Message Center](https://admin.microsoft.com/?source=applauncher#/MessageCenter), with support from the [Microsoft 365 roadmap](/microsoft-365/roadmap) and supporting blogs.
+Microsoft makes planned service changes to the M365 services daily, resulting in over 1000 change announcements per year. Effective IT operations will maintain awareness of current and future changes and assess their impacts on the business. These changes are primarily announced via the [Message Center](https://admin.microsoft.com/?source=applauncher#/MessageCenter), with support from the [Microsoft 365 roadmap](https://www.microsoft.com/microsoft-365/roadmap) and supporting blogs.
 
 This operates in conjunction with [Service Health](https://admin.microsoft.com/?source=applauncher#/servicehealth/advisories) advisory messages which describe active issues and the health status of all services that are available for your current subscriptions. Service Change management for Microsoft 365 involves monitoring the change announcements and determining what action is required, if any.
 
@@ -76,7 +76,7 @@ This operates in conjunction with [Service Health](https://admin.microsoft.com/?
 
 - The Book of News published on the first day of the Microsoft Ignite and Microsoft Build conferences
 - The monthly Technical Update Briefing that Microsoft can provide to its customers that have paid for access to a proactive support team
-- The [product roadmap](/microsoft-365/roadmap) for Microsoft 365
+- The [product roadmap](https://www.microsoft.com/microsoft-365/roadmap) for Microsoft 365
 - Internal business conditions, projects, and priorities
 
 ## Level 500 - Optimizing (Efficient)
