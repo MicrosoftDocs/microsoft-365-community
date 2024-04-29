@@ -40,10 +40,10 @@ Now, you may wonder why we're looking at a folder at all. Folders are supposed t
 
 Now imagine you work at a mortgage company. Instead of one (or maybe two) mortgages, you're responsible for thousands. The Content Type becomes even more important, and you may want some additional metadata, like maybe the mortgage originator, the servicing company, and the mortgage due date.
 
-![Document in a manila folder with more detailed metadata](media/what-is-content-type/folder-with-more-metadata.png)
+![Screenshot of a document in a manila folder with more detailed metadata.](media/what-is-content-type/folder-with-more-metadata.png)
 
 We don't add these metadata columns just for fun. We decide to collect the metadata which will enable the use cases we want, but not too much more than that. For example, if we'd like to have a view which shows all the mortgages which are going to be due in the next month, we need the Content Type = Mortgage and the mortgage due date >= [Today] and mortgage due date <= [Today+30]. We can't satisfy that use case unless we've made the document a Mortgage and added the mortgage due date metadata column - and populated it!
-
+Sc
 ## Extra Detail
 
 Content Types can be defined in an individual site, in the Content Type Hub, or using Site Scripts. We make this choice based on the *scope* where we want to use the Content Type. We may have a Content Type which only makes sense in the context of a single site, like perhaps a Benefits Description in the Human Resources site. Other Content Types may have utility across the tenant, like perhaps a Contract, if we want each department to store and manage their Contracts in their own sites.
