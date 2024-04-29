@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 Glossary
-ms.date: 9/2/2020
+ms.date: 04/29/2024
 author: sympmarc
 ms.reviewer: daisyfeller
 manager: pamgreen
