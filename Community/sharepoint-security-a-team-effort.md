@@ -170,7 +170,7 @@ Should I _manage and create_ those as a SharePoint Administrator? Probably not. 
 
 Ideally, this should be directed by company requirements, thoughtfully planned, and carefully implemented.
 
->_Note: Depending on your current Microsoft 365 licensing subscription(s), and the way features evolve quickly, please refer to the official Microsoft documentation: [Microsoft 365 compliance](/microsoft-365/compliance/?view=o365-worldwide)_.
+>_Note: Depending on your current Microsoft 365 licensing subscription(s), and the way features evolve quickly, please refer to the official Microsoft documentation: [Microsoft 365 compliance](/purview/)_.
 
 ### Devices Accessing SharePoint Data
 
