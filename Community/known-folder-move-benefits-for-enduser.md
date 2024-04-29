@@ -37,9 +37,9 @@ OneDrive PC Folder Backup is a OneDrive sync feature that works with Windows 7, 
 
 Follow this [Guide](https://support.office.com/article/back-up-your-documents-pictures-and-desktop-folders-with-onedrive-d61a7930-a6fb-4b95-b28a-6552e77c3057) at Microsoft support.
 
-![OneDrive PC Folder Backup Options](media/known-folder-move-benefits-for-endusers/KFM01.png)
+![Screenshot of OneDrive PC Folder Backup Options.](media/known-folder-move-benefits-for-endusers/KFM01.png)
 
-![OneDrive PC Choose Folders](media/known-folder-move-benefits-for-endusers/KFM02.png)
+![Screenshot of OneDrive PC Choose Folders.](media/known-folder-move-benefits-for-endusers/KFM02.png)
 
 ## Tips & Tricks
 
