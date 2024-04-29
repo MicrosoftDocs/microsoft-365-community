@@ -2,10 +2,10 @@
 title: What is a content type?
 ms.date: 04/29/2024
 author: sympmarc
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: sharepoint-online
 localization_priority: 
 description: "What is a content type?"

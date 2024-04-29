@@ -2,10 +2,10 @@
 title: Microsoft 365 Search Technologies
 ms.date: 12/07/2021
 author: davemehr
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: microsoft-365
 localization_priority: 
 description: "Content can be searched using various search technologies. The existing variants are based on the same search index, but differ in usage and configuration."

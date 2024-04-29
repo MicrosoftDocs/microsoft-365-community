@@ -2,10 +2,10 @@
 title: Maturity Model for Microsoft 365 – How to run a Maturity Model for Microsoft 365 workshop
 ms.date: 08/04/2021
 author: simonjhudson
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: o365-solutions
 localization_priority:  
 description: Maturity Model for Microsoft 365 -  How to run a Maturity Model for Microsoft 365 workshop

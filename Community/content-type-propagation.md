@@ -2,10 +2,10 @@
 title: Content Type Propagation
 ms.date: 3/8/2022
 author: JimmyHang
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: sharepoint-online
 localization_priority: 
 description: "Content Type Propagation"

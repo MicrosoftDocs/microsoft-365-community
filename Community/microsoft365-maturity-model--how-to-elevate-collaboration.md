@@ -2,10 +2,10 @@
 title: How to elevate Collaboration - supporting the Maturity Model for Microsoft 365
 ms.date: 4/4/2020
 author: eemancini
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: microsoft-365
 localization_priority: 
 description: Elevate your organization through the Collaboration Competency maturity levels

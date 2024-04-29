@@ -2,10 +2,10 @@
 title: Query String URL Tricks for SharePoint and Microsoft 365
 ms.date: 03/22/2022
 author: PatD
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: sharepoint-online
 localization_priority:
 description: Creative ways to filter, embed, and change page content by learning the secrets of URL query strings.

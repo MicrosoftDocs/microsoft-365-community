@@ -2,10 +2,10 @@
 title: Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Change Management
 ms.date: 10/9/2023
 author: michaelblumenthal
-ms.reviewer: daisyfeller
+ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
-ms.author: daisyfeller
+ms.author: pamgreen
 ms.service: microsoft-365
 localization_priority:
 description: Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Change Management
