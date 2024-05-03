@@ -101,9 +101,11 @@ Sometimes, you might need to share only a library or a document with a user, and
 
 When you create a site and then start creating libraries, lists, and upload documents, all users accessing the site also have access to those libraries and documents. Remember the _crescendo_ thing? 😉
 
-When breaking permission inheritance **_after_** creating the library or list, the default SharePoint groups (_i.e.: Owners, Members, Visitors_) will still appear under the _site permissions_ settings.
+When breaking permission inheritance _**after**_ creating the library or list, the default SharePoint groups (_i.e.: Owners, Members, Visitors_) will still appear under the _site permissions_ settings.
 Add your account (to keep access), then _remove_ the default SharePoint groups, and _add_ whoever needs access to this library, which has now unique permissions.
 
+> [!NOTE]
+> If you opt to break inheritance after creating the library or list *and* choose to leave the default permissions in place (*i.e.: Owners, Members, Visitors*), then changes at the parent level to those permissions will be rolled down to the child object.  For example, if you had a user with explicit permissions at the parent level when breaking inheritance, if you choose to leave that person in the list or library, then decide later to remove that person from the parent site, they will also be removed from the list or library with broken inheritance.
 ### Site Sharing
 
 Site sharing will differ if your site is connected to a Microsoft 365 Group or not. The modern interface allows for a more comprehensive way to control permissions, and offers more granularity when sharing.
