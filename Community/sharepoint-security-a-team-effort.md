@@ -21,7 +21,8 @@ We want our users to securely access the environment, share files, and our IT te
 
 In this article, we'll look at the _most important settings_ in Microsoft 365 to help you secure your SharePoint Online environment, and see how it involves more than SharePoint administrators!
 
->_Note: Details on how to configure each settings is out of scope of this article, but links to the official Microsoft documentation will be provided whenever possible._
+> [!NOTE]
+> Details on how to configure each settings is out of scope of this article, but links to the official Microsoft documentation will be provided whenever possible.
 
 ## Tenant settings
 
@@ -39,7 +40,8 @@ So unless you're absolutely sure that you want to keep it that way, slide down o
 
 ![Image of the SharePoint sharing settings slider for SharePoint and OneDrive.](media\managing-sharepoint-online-security-a-team-effort\external-sharing-settings-default.png)
 
->_Note: You don't even need to know the exact company policy for OneDrive for Business at this point. The slider will also follow the SharePoint setting down one level. That's because you can't have a more permissive sharing policy for OneDrive for Business than you have for SharePoint._
+> [!NOTE]
+> You don't even need to know the exact company policy for OneDrive for Business at this point. The slider will also follow the SharePoint setting down one level. That's because you can't have a more permissive sharing policy for OneDrive for Business than you have for SharePoint.
 
 When you know what the company policy is, you can choose the appropriate sharing settings between the following:
 
@@ -53,11 +55,13 @@ Again, we have a few options available to help securing a bit more if necessary.
 
 **Limit external sharing by domain**: If selected, you can _Allow_ or _Block_ specific domains. A common scenario would be collaborating with specific customers or partners. This setting is available at the _tenant_ level, as well as at the _site_ level.
 
->_Note: From the moment you choose to "Allow" one or more domains, the other ones will be blocked. If you decide to "Block" one or more domains, the other ones will be allowed._
+> [!NOTE]
+> From the moment you choose to "Allow" one or more domains, the other ones will be blocked. If you decide to "Block" one or more domains, the other ones will be allowed.
 
 **Allow only users in specific Security Groups to share externally**: If selected, members of the security group(s) will be the only ones capable of sharing externally.
 
->_Note: This option is only available if your sharing settings (tenant) are set to "New and Existing Guests" or "Anyone". For more information, please refer to the official Microsoft documentation: [Manage Security Groups](/sharepoint/manage-security-groups)._
+> [!NOTE]
+> This option is only available if your sharing settings (tenant) are set to "New and Existing Guests" or "Anyone". For more information, please refer to the official Microsoft documentation: [Manage Security Groups](/sharepoint/manage-security-groups).
 
 **Guests must sign in using the same account to which sharing invitations are sent**: This adds an extra layer of security to make sure that the user accessing the file(s) is the one you expect to. Selecting this option is highly recommended when possible.
 
@@ -83,7 +87,8 @@ Each (built-in) group has a _permission level_ assigned to it. Use those ones fi
 
 You can copy a permission level, and select or deselect options for your requirements.
 
-> _Best Practice: If necessary, create your own SharePoint group and permission level, and avoid modifying or deleting the built-in groups. For more information, please refer to the official Microsoft documentation about the [Default SharePoint Groups](/sharepoint/default-sharepoint-groups)._
+> [!TIP]
+> **Best Practice**. If necessary, create your own SharePoint group and permission level, and avoid modifying or deleting the built-in groups. For more information, please refer to the official Microsoft documentation about the [Default SharePoint Groups](/sharepoint/default-sharepoint-groups).
 
 ### Active Directory (AD) Groups
 
@@ -93,7 +98,8 @@ However, it's entirely possible to create Microsoft 365 security groups directly
 
 Active Directory groups are different from SharePoint groups. When you create a SharePoint group, it will only be available within the site where it's been created.
 
->_Best Practice: Add security groups to your SharePoint groups for easy management. Although it's possible to add users individually to sites, it will be harder to manage down the line._
+> [!TIP]
+> **Best Practice**. Add security groups to your SharePoint groups for easy management. Although it's possible to add users individually to sites, it will be harder to manage down the line.
 
 ### Breaking permission inheritance
 
@@ -101,8 +107,11 @@ Sometimes, you might need to share only a library or a document with a user, and
 
 When you create a site and then start creating libraries, lists, and upload documents, all users accessing the site also have access to those libraries and documents. Remember the _crescendo_ thing? 😉
 
-When breaking permission inheritance **_after_** creating the library or list, the default SharePoint groups (_i.e.: Owners, Members, Visitors_) will still appear under the _site permissions_ settings.
+When breaking permission inheritance _**after**_ creating the library or list, the default SharePoint groups (_i.e.: Owners, Members, Visitors_) will still appear under the _site permissions_ settings.
 Add your account (to keep access), then _remove_ the default SharePoint groups, and _add_ whoever needs access to this library, which has now unique permissions.
+
+> [!NOTE]
+> If you opt to break inheritance after creating the library or list *and* choose to leave the default permissions in place (*i.e.: Owners, Members, Visitors*), then changes at the parent level to those permissions will be rolled down to the child object.  For example, if you had a user with explicit permissions at the parent level when breaking inheritance, if you choose to leave that person in the list or library, then decide later to remove that person from the parent site, they will also be removed from the list or library with broken inheritance.
 
 ### Site Sharing
 
@@ -170,7 +179,8 @@ Should I _manage and create_ those as a SharePoint Administrator? Probably not. 
 
 Ideally, this should be directed by company requirements, thoughtfully planned, and carefully implemented.
 
->_Note: Depending on your current Microsoft 365 licensing subscription(s), and the way features evolve quickly, please refer to the official Microsoft documentation: [Microsoft 365 compliance](/purview/)_.
+> [!NOTE]
+> Depending on your current Microsoft 365 licensing subscription(s), and the way features evolve quickly, please refer to the official Microsoft documentation: [Microsoft 365 compliance](/purview/)_.
 
 ### Devices Accessing SharePoint Data
 
