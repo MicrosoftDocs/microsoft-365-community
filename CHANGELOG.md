@@ -6,6 +6,28 @@
 
 Note: Changelog started in January, 2021
 
+## May, 2024
+
+### New Articles - May, 2024
+
+| Article | Principal Author |
+|---|---|
+| [The Microsoft 365 Maturity Model - Employee Experience Competency](./Community/microsoft365-maturity-model--employee-experience.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+
+### Updated Articles - May, 2024
+
+| Article | Updated By |
+|---|---|
+
+### Removed/retired Articles - May, 2024
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - May, 2024
+
+-
+
 ## April, 2024
 
 ### New Articles - April, 2024
