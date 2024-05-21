@@ -12,7 +12,7 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
-| [The Microsoft 365 Maturity Model - Employee Experience Competency](./Community/microsoft365-maturity-model--employee-experience.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [The Microsoft 365 Maturity Model - Employee Experience Competency](./Community/microsoft365-maturity-model--employee-experience.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/), [Sharon Weaver](https://www.linkedin.com/in/sharonweaver/) |
 
 ### Updated Articles - May, 2024
 

@@ -36,8 +36,8 @@ landingContent:
     linkLists:
       - linkListType: whats-new
         links:
-          - text: Cognitive Business Competency
-            url: microsoft365-maturity-model--cognitive-business.md
+          - text: Employee Experience Competency
+            url: microsoft365-maturity-model--employee-experience.md
 
   # Card (optional)
   - title: Competencies - A-L
@@ -54,16 +54,18 @@ landingContent:
             url:  microsoft365-maturity-model--communication.md
           - text: Customization and Development Competency
             url: microsoft365-maturity-model--customization-and-development.md
+          - text: Employee Experience Competency
+            url: microsoft365-maturity-model--employee-experience.md
           - text: Governance, Risk, and Compliance Competency
             url: microsoft365-maturity-model--governance-and-compliance.md
-          - text: Infrastructure Competency
-            url: microsoft365-maturity-model--infrastructure.md
 
   # Card (optional)
   - title: Competencies - M-Z
     linkLists:
       - linkListType: concept
         links:
+          - text: Infrastructure Competency
+            url: microsoft365-maturity-model--infrastructure.md
           - text: Management of Content Competency
             url: microsoft365-maturity-model--management-of-content.md
           - text: People and Communities Competency
