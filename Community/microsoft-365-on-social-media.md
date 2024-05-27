@@ -1,7 +1,7 @@
 ---
 title: Follow Microsoft 365 on Social Media
-ms.date: 8/23/2020
-author: PathToSharePoint
+ms.date: 5/27/2024
+author: PathToSharePoint    
 ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
@@ -122,6 +122,7 @@ If you're having general issues with Microsoft 365, be sure to check the [Micros
 |[#PnPjs](https://twitter.com/hashtag/PnPjs)|[@m365pnpjs](https://twitter.com/m365pnpjs)|
 |[#M365PnP](https://twitter.com/hashtag/M365PnP)|[@m365pnp](https://twitter.com/m365pnp)|
 |[#CLIMicrosoft365](https://twitter.com/hashtag/CLIMicrosoftM365)|[@climicrosoft365](https://twitter.com/climicrosoft365)|
+|[#PnPControls](https://twitter.com/hashtag/PnPControls)|[@M365PnPControls](https://twitter.com/M365PnPControls)|
 
 ## Security
 
