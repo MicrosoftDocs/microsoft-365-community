@@ -65,10 +65,8 @@ Management of the processes includes deliberate and systematic process improveme
 
 Not every organization needs to be at the top level. NASA or Airbus have different goals, constraints, and risks to manage than a small marketing or retail organization. Not every department, team or function needs to be at the same level; Operations often needs to function with higher levels of maturity than, for example, Sales and this is reflected in their respective technology strategy and investment. As with any organizational capability, the organization should decide if the capability should be a strategic differentiator or simply a basic operational capability based on the organizational strategy. The former may require optimized and fool proof capabilities, where the latter only requires relative efficiency.
 
-
 ## Resources
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
-
 
 [!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]
