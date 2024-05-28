@@ -51,6 +51,7 @@ In developing a maturity model for Microsoft 365 we aimed to create a toolkit wh
 - [Collaboration](microsoft365-maturity-model--collaboration.md)
 - [Communication](microsoft365-maturity-model--communication.md)
 - [Customization & Development](microsoft365-maturity-model--customization-and-development.md)
+- [Employee Experience](microsoft365-maturity-model--employee-experience.md)
 - [Governance, Risk, and Compliance](microsoft365-maturity-model--governance-and-compliance.md)
 - [Infrastructure](microsoft365-maturity-model--infrastructure.md)
 - [Management of Content](microsoft365-maturity-model--management-of-content.md)
@@ -131,7 +132,6 @@ Our goal is to apply the same core competencies that were the core of the origin
 [Origin of the Maturity Model for Microsoft 365](microsoft365-maturity-model-origin-story.md)
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
-
 
 ---
 
