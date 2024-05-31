@@ -6,6 +6,27 @@
 
 Note: Changelog started in January, 2021
 
+## June, 2024
+
+### New Articles - June, 2024
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - June, 2024
+
+| Article | Updated By |
+|---|---|
+
+### Removed/retired Articles - June, 2024
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - June, 2024
+
+-
+
 ## May, 2024
 
 ### New Articles - May, 2024
@@ -18,6 +39,8 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
+| [The Evolution of Company-wide Email Communication to SharePoint News](./Community/evolution-of-company-wide-email-communication-to-sharepoint-news.md) | [Daniel Glenn, MVP](https://www.linkedin.com/in/danielglenn/) |
+| [Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md) | [Michaël Maillot](https://twitter.com/michael_maillot) |
 
 ### Removed/retired Articles - May, 2024
 
@@ -26,7 +49,7 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - May, 2024
 
--
+- [Daniel Glenn, MVP](https://www.linkedin.com/in/danielglenn/)
 
 ## April, 2024
 
