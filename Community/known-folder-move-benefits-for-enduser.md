@@ -1,6 +1,6 @@
 ---
 title: OneDrive PC Folder Backup Benefits for End Users
-ms.date: 8/3/2020
+ms.date: 4/30/2024
 author: jimmyhang
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -16,7 +16,7 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-OneDrive PC Folder Backup is a OneDrive sync feature that works with Windows 7, Windows 8/8.1, Windows 10. This feature allows business users to automatically backup/redirect their Windows clients Desktops, Documents and Pictures folders to OneDrive for Business.
+OneDrive PC Folder Backup is a OneDrive sync feature that works with Windows 10 and 11. This feature allows business users to automatically backup/redirect their Windows clients Desktops, Documents and Pictures folders to OneDrive for Business.
 
 > [!NOTE]
 > OneDrive PC Folder Backup was previously known as Known Folder Mode (KFM)
