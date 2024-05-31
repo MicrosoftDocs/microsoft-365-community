@@ -51,6 +51,7 @@ In developing a maturity model for Microsoft 365 we aimed to create a toolkit wh
 - [Collaboration](microsoft365-maturity-model--collaboration.md)
 - [Communication](microsoft365-maturity-model--communication.md)
 - [Customization & Development](microsoft365-maturity-model--customization-and-development.md)
+- [Employee Experience](microsoft365-maturity-model--employee-experience.md)
 - [Governance, Risk, and Compliance](microsoft365-maturity-model--governance-and-compliance.md)
 - [Infrastructure](microsoft365-maturity-model--infrastructure.md)
 - [Management of Content](microsoft365-maturity-model--management-of-content.md)
@@ -122,7 +123,7 @@ Optimal, systematic, statistical, improvement-focus, automated, assured, proacti
 
 ## What's next?
 
-The goal of expanding the SPMM to the Microsoft 365 level is to help practitioners in the community think through how they can improve their capabilities or decide which capabilities matter most to them. These decisions should be based not just on the technology capabilities themselves, but driven by specific outcome objectives derived from the organizational strategy, possibly at a reasonably granular level as well as at the over-arching organization level.
+The goal of expanding the SharePoint Maturity Model (SPMM) to the Microsoft 365 level is to help practitioners in the community think through how they can improve their capabilities or decide which capabilities matter most to them. These decisions should be based not just on the technology capabilities themselves, but driven by specific outcome objectives derived from the organizational strategy, possibly at a reasonably granular level as well as at the over-arching organization level.
 
 Our goal is to apply the same core competencies that were the core of the original SharePoint Maturity Model, updated and extended to reflect the current business and technical environment. As Microsoft 365 is a much deeper and wider toolkit, the project is creating a guidance document for each competency, in a consistent format. Although these are clearly linked to Microsoft 365, we have deliberately avoided detailing particular features and functions, focusing on the business needs and processes in the competency documents. We will continue to expand the document set to drill into the technologies; provide a ‘how to’ for achieving different levels with the tools Microsoft 365 provides; and highlight some practical scenarios.  
 
@@ -131,7 +132,6 @@ Our goal is to apply the same core competencies that were the core of the origin
 [Origin of the Maturity Model for Microsoft 365](microsoft365-maturity-model-origin-story.md)
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
-
 
 ---
 
