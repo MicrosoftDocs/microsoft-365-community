@@ -147,9 +147,9 @@ Items:
       href: how-to-share-org-wide-communications-in-microsoft-365.md
   - name: Making Better Decisions
     items:
-    - name: Team Site vs. Communication Site: Which one should I choose?
+    - name: Team Site vs. Communication Site—Which one should I choose?
       href: team-site-or-communication-site.md
-    - name: List columns or Site columns: Which one to choose?
+    - name: List columns or Site columns—Which one to choose?
       href: list-column-or-site-column-which-one-to-choose.md
     - name: Changing Microsoft Teams from Private to Public, what to expect in SharePoint?
       href: changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md
@@ -171,11 +171,11 @@ Items:
       href: which-task-management-option.md
     - name: Making Good Technology Decisions
       items:
-      - name: Making Good Technology Decisions: Establishing Decision Criteria
+      - name: Making Good Technology Decisions—Establishing Decision Criteria
         href: making-good-technology-decisions--establishing-decision-criteria.md
-      - name: Making Good Technology Decisions: Data Storage
+      - name: Making Good Technology Decisions—Data Storage
         href: making-good-technology-decisions--data-storage.md
-      - name: Making Good Technology Decisions: Front End
+      - name: Making Good Technology Decisions—Front End
         href: making-good-technology-decisions--front-end.md
   - name: Useful Scenarios
     items:
@@ -207,7 +207,7 @@ Items:
       href: benefits-of-using-powershell-with-sharepoint.md
   - name: Security
     items:
-    - name: Managing SharePoint Online Security: A Team Effort
+    - name: Managing SharePoint Online Security—A Team Effort
       href: sharepoint-security-a-team-effort.md
     - name: Basic Security Set Up for Microsoft 365
       href: basic-security-set-up-for-microsoft-365.md
