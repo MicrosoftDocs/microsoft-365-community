@@ -97,7 +97,7 @@ Items:
         href: maturity-model-microsoft365-servicing-microsoft365-service-change-management.md
   - name: SharePoint Better Practices
     items:
-    - name: Site Builder/Owner--New Site Checklist
+    - name: Site Builder/Owner—New Site Checklist
       href: new-site-checklist.md
     - name: Versioning in SharePoint
       href: versioning-basics-best-practices.md
