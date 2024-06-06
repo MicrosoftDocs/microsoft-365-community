@@ -1,0 +1,251 @@
+Items:
+- name: Microsoft 365 Community Content
+  href: index.yml
+  items:
+  - name: Basics and Definitions
+    items:
+    - name: Glossary
+      href: glossary.md
+    - name: Follow Microsoft 365 on Social Media
+      href: microsoft-365-on-social-media.md
+    - name: Microsoft 365 Search Technologies
+      href: microsoft-365-search-technologies.md
+    - name: What is a Site Column?
+      href: what-is-site-column.md
+    - name: What is a Content Type?
+      href: what-is-content-type.md
+    - name: Groups in Microsoft 365 and Azure, and Which is Right for You
+      href: all-about-groups.md
+    - name: What kind of apps can you build on Microsoft 365?
+      href: type-of-apps-microsoft-365.md
+    - name: Query String URL Tricks for SharePoint and Microsoft 365
+      href: query-string-url-tricks-sharepoint-m365.md
+    - name: Use the Government Cloud for SharePoint and Microsoft 365
+      href: government-cloud.md
+  - name: Microsoft 365 Better Practices
+    items:
+    - name: Accessibility by Design
+      href: accessibility-by-design.md
+    - name: Content Type Propagation
+      href: content-type-propagation.md
+    - name: OneDrive PC Folder Backup Benefits for End Users
+      href: known-folder-move-benefits-for-enduser.md
+    - name: Why Microsoft 365 adoption projects fail
+      href: why-m365-adoption-projects-fail.md
+    - name: Microsoft Teams Naming Best Practices
+      href: microsoft-teams-naming-importance.md
+  - name: Maturity Model for Microsoft 365
+    items:
+    - name: Overview
+      href: index_mm4m365.yml
+      items:
+      - name: Introduction
+        href: microsoft365-maturity-model--intro.md
+      - name: Origin Story
+        href: microsoft365-maturity-model-origin-story.md
+    - name: Business Process Competency
+      href: microsoft365-maturity-model--business-process.md
+    - name: Cognitive Business Competency
+      href: microsoft365-maturity-model--cognitive-business.md
+    - name: Collaboration Competency
+      items:
+      - name: Collaboration Competency
+        href: microsoft365-maturity-model--collaboration.md
+      - name: Elevating Collaboration
+        href: microsoft365-maturity-model--how-to-elevate-collaboration.md
+    - name: Communication Competency
+      items:
+      - name: Communication Competency
+        href: microsoft365-maturity-model--communication.md
+      - name: Elevating Communication
+        href: microsoft365-maturity-model--how-to-elevate-communication.md
+    - name: Customization and Development Competency
+      href: microsoft365-maturity-model--customization-and-development.md
+    - name: Employee Experience Competency
+      href: microsoft365-maturity-model--employee-experience.md
+    - name: Governance, Risk, and Compliance Competency
+      href: microsoft365-maturity-model--governance-and-compliance.md
+    - name: How to run a Maturity Model for Microsoft 365 workshop
+      href: microsoft365-maturity-model--run-workshop.md
+    - name: Management of Content Competency
+      href: microsoft365-maturity-model--management-of-content.md
+    - name: Infrastructure Competency
+      href: microsoft365-maturity-model--infrastructure.md
+    - name: People and Communities
+      items:
+      - name: People and Communities Competency
+        href: microsoft365-maturity-model--people-and-communities-competency.md
+      - name: Elevating People and Communities
+        href: microsoft-maturity-model-how-to-people-communities.md
+    - name: Search Competency
+      href: microsoft365-maturity-model--search.md
+    - name: Staff & Training
+      items:
+      - name: Staff & Training Competency
+        href: microsoft365-maturity-model--staff-and-training.md
+      - name: Elevating Staff and Training
+        href: microsoft-maturity-model-how-to-staff-and-training.md
+    - name: Practical Scenarios
+      items:
+      - name: What are Practical Scenarios?
+        href: maturity-model-microsoft365-practical-scenarios.md
+      - name: Maturity Model for Microsoft 365 and Teams Development
+        href: maturity-model-microsoft365-teams-development.md
+      - name: Maturity Model for Microsoft 365 Practical Scenarios – Servicing Microsoft 365 Apps
+        href: maturity-model-microsoft365-servicing-microsoft365-apps.md
+      - name: Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Change Management
+        href: maturity-model-microsoft365-servicing-microsoft365-service-change-management.md
+  - name: SharePoint Better Practices
+    items:
+    - name: Site Builder/Owner—New Site Checklist
+      href: new-site-checklist.md
+    - name: Versioning in SharePoint
+      href: versioning-basics-best-practices.md
+    - name: Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions.
+      href: permission-model-differences.md
+    - name: Importing Data
+      href: importing-data.md
+    - name: SharePoint Naming Guidelines
+      href: sharepoint-naming-guidelines.md
+    - name: Why SharePoint Training is Important
+      href: why-sharepoint-training-is-important.md
+    - name: Building great content for your Intranet
+      href: intranet-content-sources.md
+    - name: Identifying Your SharePoint Champions
+      href: identifying-your-sharepoint-champions.md
+    - name: Empowering Your SharePoint Champions
+      href: empowering-your-SharePoint-champions.md
+    - name: File Naming on an Intranet
+      href: file-naming-intranet.md
+  - name: Information Architecture
+    items:
+    - name: Information Architecture - Site Topology
+      href: information-architecture-site-topology.md
+    - name: Information Architecture - Managed Metadata vs Lookup columns
+      href: information-architecture-managed-metadata-vs-lookup-column.md
+    - name: Living Large with Large Lists and Large Libraries
+      href: large-lists-large-libraries-in-SharePoint.md
+    - name: Creating Useful Views for Lists & Libraries
+      href: creating-useful-views-in-lists-libraries.md
+    - name: How Do Site Columns Become Managed Properties - Thus Available for Search?
+      href: how-do-site-columns-become-managed-properties-thus-available-for-search.md
+    - name: Document Sets for Fast Legacy Process Automation
+      href: document-sets-are-magic.md
+    - name: Taking Advantage of the Content Type Inheritance Model in SharePoint
+      href: taking-advantage-content-type-inheritance-sharepoint.md
+    - name: List Formatting 101
+      href: list-formatting-101.md
+  - name: Effective Communication
+    items:
+    - name: The Principles of Communication
+      href: principles-of-communication.md
+    - name: The Principles of Search
+      href: principles-of-search.md
+    - name: The Evolution of Company-wide Email Communication to SharePoint News
+      href: evolution-of-company-wide-email-communication-to-sharepoint-news.md
+    - name: How to Share Org-Wide Communication in Microsoft 365
+      href: how-to-share-org-wide-communications-in-microsoft-365.md
+  - name: Making Better Decisions
+    items:
+    - name: Team Site vs. Communication Site—Which one should I choose?
+      href: team-site-or-communication-site.md
+    - name: List columns or Site columns—Which one to choose?
+      href: list-column-or-site-column-which-one-to-choose.md
+    - name: Changing Microsoft Teams from Private to Public, what to expect in SharePoint?
+      href: changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md
+    - name: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
+      href: select-an-effective-navigation-strategy.md
+    - name: Auto Apply Retention Labels in Office 365 Using Content Types and Metadata
+      href: auto-apply-retention-labels-in-office-365-using-content-types-and-metadata.md
+    - name: Can Machine Learning be used to assign managed metadata attributes for items?
+      href: machine-learning-and-managed-metadata.md
+    - name: Designing your solution for scale
+      href: designing-solution-for-scale.md
+    - name: Should I store my files in Microsoft Teams or in SharePoint?
+      href: should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md
+    - name: Defining a Power Platform Environment Strategy
+      href: defining-a-power-platform-environment-strategy.md
+    - name: Power Automate vs Logic Apps
+      href: power-automate-vs-logic-apps.md
+    - name: What Task Management Tool is Right For Me
+      href: which-task-management-option.md
+    - name: Making Good Technology Decisions
+      items:
+      - name: Making Good Technology Decisions—Establishing Decision Criteria
+        href: making-good-technology-decisions--establishing-decision-criteria.md
+      - name: Making Good Technology Decisions—Data Storage
+        href: making-good-technology-decisions--data-storage.md
+      - name: Making Good Technology Decisions—Front End
+        href: making-good-technology-decisions--front-end.md
+  - name: Useful Scenarios
+    items:
+    - name: Library Scenarios
+      href: library-scenarios.md
+    - name: Using Site Designs to Manage Project Life Cycles
+      href: site-design-life-cycle.md
+    - name: Working with Cascading Lists in SharePoint and Power Apps
+      href: working-with-cascading-lists-in-sharepoint-and-powerapps.md
+    - name: Document Lifecycle Scenarios
+      href: document-lifecycle-scenarios.md
+    - name: Power Automate - Send SharePoint files as attachments
+      href: power-automate-send-sharepoint-files-as-attachments.md
+    - name: How can I use Learning Pathways in my organization?
+      href: how-can-i-use-learning-pathways-in-my-organization.md
+    - name: Advanced Highlighted Content Web Part
+      href: highlighted-content-web-part.md
+    - name: Using Shared Channels for External Collaboration
+      href: using-shared-channels-for-external-collaboration.md
+    - name: Using Shared Channels for Internal Collaboration
+      href: using-shared-channels-for-internal-collaboration.md
+  - name: Automation
+    items:
+    - name: Working with modern client-side pages using PnP PowerShell
+      href: working-with-modern-clientside-pages-using-pnp-powershell.md
+    - name: Should everyone create Teams? A Low Code Provisioning solution
+      href: should-everyone-create-teams.md
+    - name: Benefits of using PowerShell with SharePoint
+      href: benefits-of-using-powershell-with-sharepoint.md
+  - name: Security
+    items:
+    - name: Managing SharePoint Online Security—A Team Effort
+      href: sharepoint-security-a-team-effort.md
+    - name: Basic Security Set Up for Microsoft 365
+      href: basic-security-set-up-for-microsoft-365.md
+    - name: Managing External Guests in SharePoint vs Teams
+      href: managing-external-guest-in-SharePoint-vs-Teams.md
+    - name: Teams Shared Channels for Admins
+      href: teams-shared-channel-for-admins.md
+    - name: The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1
+      href: power-platform-DLP-policies-you-should-be-considering-on-Day-1.md
+    - name: Using Microsoft Identity Governance to Perform Guest Reviews
+      href: performing-guest-reviews.md
+  - name: In Preview
+    items:
+    - name: Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces
+      href: yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces.md
+  - name: References
+    items:
+    - name: FastTrack onboarding and adoption services
+      href: https://fasttrack.microsoft.com/office
+    - name: Find a SharePoint certified partner
+      href: https://products.office.com/sharepoint/sharepoint-partners-sharepoint-support
+    - name: Visit the SharePoint community
+      href: https://techcommunity.microsoft.com/t5/SharePoint/ct-p/SharePoint
+    - name: Suggest a feature
+      href: https://sharepoint.uservoice.com/
+  - name: Microsoft 365 official documentation
+    items:
+    - name: SharePoint
+      href: /sharepoint/
+    - name: Microsoft Teams
+      href: /microsoftteams/microsoft-team/s
+    - name: Microsoft 365 Enterprise
+      href: /microsoft-365/enterprise/
+    - name: Microsoft 365 Business
+      href: /microsoft-365/business/
+    - name: All Microsoft 365 documentation
+      href: /microsoft-365/
+  - name: Contribute
+    items:
+    - name: Learn how to be a community contributor
+      href: https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/README.md
