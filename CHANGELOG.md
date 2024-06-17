@@ -17,6 +17,7 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Simon Doy, MVP](https://www.linkedin.com/in/simondoy/), [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 
 ### Removed/retired Articles - June, 2024
 
