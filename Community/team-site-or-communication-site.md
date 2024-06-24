@@ -30,7 +30,7 @@ If you are doing this right, you will have **a lot of team sites**. Why? Because
 
 **Collaborating with people outside the organization? Create a team site for each customer or partner.**
 
-Keeping in mind that many governance and security boundaries are scoped to the _site collection_, **create a new team site for each of your different customers or partners** if you have an extranet environment. This will ensure that Customer or Partner A doesn&#39;t accidentally &quot;see&quot; any content or information from Customer or Partner B. By default, team sites are enabled with **external sharing turned on**. This can be changed by the SharePoint administrator in the Admin Center.
+Keeping in mind that many governance and security boundaries are scoped to the _site collection_, **create a new team site for each of your different customers or partners** if you have an extranet environment. This will ensure that Customer or Partner A doesn't accidentally &quot;see&quot; any content or information from Customer or Partner B. By default, team sites are enabled with **external sharing turned on**. This can be changed by the SharePoint administrator in the Admin Center.
 
 **Each member has the same permissions.**
 
@@ -38,7 +38,7 @@ While your team site will have one or more Owners, typically every Member of the
 
 **The SharePoint start page brings your team sites together**
 
-Don&#39;t panic about how your users will possibly keep track of all of these team sites—because the SharePoint start page has got your back!
+Don't panic about how your users will possibly keep track of all of these team sites—because the SharePoint start page has got your back!
 
 The [SharePoint start page](https://support.microsoft.com/office/discover-content-with-the-sharepoint-start-page-6b85097a-87e0-4611-a29a-dfd49b1a1220) in Microsoft 365 brings together, for each individual person, news from all of the team sites in which they are a member (and sites they are following), sites they visit frequently, and other news suggested by the Microsoft Graph. It also shows the most recent activity in the sites each person visits frequently.
 
@@ -55,7 +55,7 @@ The [SharePoint start page](https://support.microsoft.com/office/discover-conten
 
 **Create a communication site to showcase, share, or tell a story.**
 
-Here&#39;s a way to think about the difference between a team site and a communication site. A team site is where the sausage is made—it&#39;s behind the counter and typically private. A communication site is where the sausage is sold—where it&#39;s visible to all our &quot;customers&quot; and where they come to buy our sausage. Typically, our customers don&#39;t want to know how we make the sausage (or how many times we had to edit that document to get it &quot;ready to share&quot;). They just want to get the finished product.
+Here's a way to think about the difference between a team site and a communication site. A team site is where the sausage is made—it's behind the counter and typically private. A communication site is where the sausage is sold—where it's visible to all our &quot;customers&quot; and where they come to buy our sausage. Typically, our customers don't want to know how we make the sausage (or how many times we had to edit that document to get it &quot;ready to share&quot;). They just want to get the finished product.
 
 **Communication sites have two distinct user personas.**
 
@@ -84,7 +84,7 @@ When they are ready to _share_, the HR team moves the document to or writes the 
 | Default Setting for External Sharing | External Sharing Enabled (but can be disabled by the SharePoint Admin) | External Sharing Disabled (but can be enabled by the SharePoint Admin) |
 | Navigation | Left | Top |
 |Multilingual features? | Yes | Yes |
-| When you create, you ALSO get … | Planner board, OneNote notebook, Email address for the group, Shared Calendar, shared mailbox, opportunity to connect with a Microsoft Team  (if the site wasn&#39;t created as part of provisioning a Microsoft Teams) | NOTHING but a SharePoint communication site! |
+| When you create, you ALSO get … | Planner board, OneNote notebook, Email address for the group, Shared Calendar, shared mailbox, opportunity to connect with a Microsoft Team  (if the site wasn't created as part of provisioning a Microsoft Teams) | NOTHING but a SharePoint communication site! |
 
 ---
 
