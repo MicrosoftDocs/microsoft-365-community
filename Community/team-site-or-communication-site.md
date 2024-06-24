@@ -1,6 +1,6 @@
 ---
 title: Team Site vs. Communication Site -  Which one should I choose?
-ms.date: 5/1/2020
+ms.date: 6/24/2024
 author: SusanHanley
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -37,11 +37,15 @@ Keeping in mind that many governance and security boundaries are scoped to the _
 
 While your team site has one or more Owners, typically every Member of the team has the same privileges in the site.
 
-**The SharePoint start page brings your team sites together**
+**The SharePoint start page and the app bar bring your team sites together**
 
-Don't panic about how your users will possibly keep track of all of these team sites—because the SharePoint start page has got your back!
+Don't panic about how your users will possibly keep track of all of these team sites, because the [SharePoint start page](https://support.microsoft.com/office/6b85097a-87e0-4611-a29a-dfd49b1a1220) and the [app bar](https://support.microsoft.com/office/b2ab82d5-9af7-445e-ad24-236c5a86b5f8) have got your back!
 
-The [SharePoint start page](https://support.microsoft.com/office/discover-content-with-the-sharepoint-start-page-6b85097a-87e0-4611-a29a-dfd49b1a1220) in Microsoft 365 brings together, for each individual person, news from all of the team sites in which they're a member (and sites they're following), sites they visit frequently, and other news suggested by the Microsoft Graph. It also shows the most recent activity in the sites each person visits frequently.
+The SharePoint start page in Microsoft 365 brings together, for each individual person, news from all of the team sites in which they're a member (and sites they're following), sites they visit frequently, and other news suggested by the Microsoft Graph. It also shows the most recent activity in the sites each person visits frequently.
+
+The app bar's **My sites** shows each user's frequent and followed sites.
+
+Together, these two navigation options provide personalized navigation for each user based on their own interests and activity - including all their team sites.
 
 **Examples of team site scenarios.**
 
@@ -62,7 +66,7 @@ Here's a way to think about the difference between a team site and a communicati
 
 Most often, a communication site has a small number of people with permission to author content and many people who only have permission to read content. Team sites use Microsoft 365 Groups for permissions. Communication sites use SharePoint groups.
 
-**Think about your team sites as where you**  **collaborate**  **and your communication sites as where you**  **communicate****.**
+**Think about your team sites as where you**  **collaborate**  **and your communication sites as where you _communicate_.**
 
 As an example, consider your Human Resources (HR) department. Typically, HR has at least one team site where the members of the HR team can work on defining a new benefits program or crafting the announcement about an organizational restructuring. During the process of creation, the HR team works _privately_ on a team site open just to the members of HR (or individual &quot;friends of HR&quot; who contribute to one or more specific documents). Once all the back and forth about the message or document or program is complete, the HR team is ready to _share_ the information with the rest of the company.
 
@@ -70,7 +74,7 @@ When they're ready to _share_, the HR team moves the document to or writes the s
 
 **Examples of communication site scenarios.**
 
-- &quot;Official&quot; corporate news.
+- "Official" corporate news.
 - HR team communicating benefits and compensation information.
 - Travel team publishing guidelines about corporate travel.
 - Policies and procedures.
@@ -83,11 +87,11 @@ When they're ready to _share_, the HR team moves the document to or writes the s
 | Who creates content? | **All members are content authors** who jointly create and edit content. | **Small number of content authors** and a much larger number of content readers or consumers. |
 | Security | Microsoft 365 Groups | SharePoint Groups |
 | Default Setting for External Sharing | External Sharing Enabled (but can be disabled by the SharePoint Admin) | External Sharing Disabled (but can be enabled by the SharePoint Admin) |
-| Navigation | Left | Top |
+| Default Navigation | Left | Top |
 |Multilingual features? | Yes | Yes |
-| When you create, you ALSO get … | Planner board, OneNote notebook, Email address for the group, Shared Calendar, shared mailbox, opportunity to connect with a Microsoft Team  (if the site wasn't created as part of provisioning a Microsoft Teams) | NOTHING but a SharePoint communication site! |
+| When you create, you ALSO get … | Planner board, OneNote notebook, Email address for the group, Shared Calendar, shared mailbox, opportunity to connect with a Microsoft Team  (if the site wasn't created as part of provisioning a Microsoft Team) | NOTHING but a SharePoint communication site! |
+
 
 ---
 
 **Principal author**: [Susan Hanley, MVP](https://www.linkedin.com/in/susanhanley)
-
