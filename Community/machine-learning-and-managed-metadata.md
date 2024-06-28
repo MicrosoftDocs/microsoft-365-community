@@ -6,7 +6,7 @@ ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
-ms.service: machine-learning
+ms.service: sharepoint-online
 localization_priority: 
 description: "Can Machine Learning be used to assign managed metadata attributes for items?"
 ms.collection: M365Community
