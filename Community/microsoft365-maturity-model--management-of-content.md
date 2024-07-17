@@ -26,10 +26,18 @@ Content and its management are a large topic area, with many decades of technolo
 
 Content covers a wide variety of different types of digital items, including files, snippets of information, emails, media content such as audio and video, chats and conversations, and many other things. Often these are discrete files such as Office documents, but equally they can be web pages, list items, or content records in a database. A key characteristic of these many types of content is that they have a life cycle which includes their creation, use, and ultimately their disposal: they typically require storing somewhere, need to be described in some way, presented in such a way that people can find and use them when required and made available in a format suitable for their intended use which may include being machine readable and interpretable by people.
 
-This competency focuses on many aspects of the management of content, including presentation, life cycle, identification and classification and storage. For the sake of clarity and relative brevity, it does not cover management of 'content containers' such as SharePoint libraries and sites, Teams channels, Planner plans, etc. It does cover:
+This competency focuses on many aspects of the management of content, including presentation, life cycle, identification and classification and storage. For the sake of clarity and relative brevity, it does not cover management of 'content containers' such as SharePoint libraries and sites, Teams channels, Planner plans, etc. 
+
+### Business Value & Related Competencies (Why)
+Managing an organization’s content and its lifecycle is a crucial success factor for the following business competencies:
+- **Governance, Risks, and Compliance (GRC):** The requirements for content and content lifecycle management may stem directly from GRC objectives and activities (e.g., GDPR, SOX). Conversely, failure to manage content can introduce risks or hinder the success of GRC activities.
+- **Information Security:** Information security addresses information Availability, Integrity, and Confidentiality. It therefore relates to content management in terms of findability (A), content quality (I), and content tagging and identification ©.
+- **Cognitive Business:** The advent of generative AI has led to increased usage of unstructured data, such as data contained in documents, emails, conversations, web pages, and so on. Managing the quality and lifecycle of an organization’s content is becoming a key success factor for efficient AI adoption.
+- **Business Process and Quality Management:** Content management should prevent any out-of-date information from being used inappropriately, while ensuring that important and job-related information is timely and easily accessible. This ensures that business processes are carried out correctly. Additionally, the business process is typically the starting point for defining content management requirements.
+
 
 ### Types of content
-
+Types of content cover but are not limited to the following : 
 - Documents - any files we can store in Microsoft 365
 - Web pages & News
 - Conversations
