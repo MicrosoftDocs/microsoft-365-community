@@ -32,7 +32,7 @@ Whilst Power Automate is built on top of Azure Logic Apps, there are differences
 
 | Description | Power Automate | Logic Apps |
 |-------------|----------------|------------|
-| Focus    | End Users and Makers in Office 365   | IT Pros, Developers, Admins using Office 365 and Azure Services |
+| Focus    | End Users and Makers in Office 365, Users of Microsoft Power Platform Solutions | IT Pros, Developers, Admins using Office 365 and Azure Services |
 | Licensing Model* | Per-User License in Office 365 | Consumption-Based or Fixed Pricing Model via an Azure Subscription |
 | Flow Creation | Web-Based Designer, Web and Mobile UI | Visual Studio, JSON Definition and Web-Based Designer |
 | Restricting Connectors | [Data Loss Prevention](/power-platform/admin/wp-data-loss-prevention) | [Azure Policy](/azure/logic-apps/block-connections-connectors) |
