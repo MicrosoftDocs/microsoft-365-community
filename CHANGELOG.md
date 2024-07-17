@@ -6,6 +6,30 @@
 
 Note: Changelog started in January, 2021
 
+## July, 2024
+
+### New Articles - July, 2024
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - July, 2024
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Kevin Stocky](https://www.linkedin.com/in/kevin-stocky-296527120/)  |
+| [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps.md) | [Thibault Barthelet](https://www.linkedin.com/in/thibault-barthelet/) |
+
+### Removed/retired Articles - July, 2024
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - July, 2024
+
+- [Kevin Stocky](https://www.linkedin.com/in/kevin-stocky-296527120/)
+- [Thibault Barthelet](https://www.linkedin.com/in/thibault-barthelet/)
+
 ## June, 2024
 
 ### New Articles - June, 2024
