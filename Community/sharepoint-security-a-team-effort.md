@@ -63,8 +63,6 @@ Again, we have a few options available to help securing a bit more if necessary.
 > [!NOTE]
 > This option is only available if your sharing settings (tenant) are set to "New and Existing Guests" or "Anyone". For more information, please refer to the official Microsoft documentation: [Manage Security Groups](/sharepoint/manage-security-groups).
 
-**Guests must sign in using the same account to which sharing invitations are sent**: This adds an extra layer of security to make sure that the user accessing the file(s) is the one you expect to. Selecting this option is highly recommended when possible.
-
 **People who use a verification code must reauthenticate after this many days [number of days]**: New method where guests will authenticate using a one-time passcode for the number of days you configured.
 
 For more information about this feature, please refer to the official Microsoft documentation: [Secure external sharing recipient experience](/sharepoint/what-s-new-in-sharing-in-targeted-release).
