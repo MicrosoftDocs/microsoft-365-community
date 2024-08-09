@@ -116,7 +116,7 @@ Users will be signed out from all Microsoft 365 services with a time specified, 
 
 To help identify legacy authentication used within your organization, you can filter the Microsoft Entra Sign-ins and validate that legacy is either required or can be disabled.
 
-1. Sign in to the [Azure Portal](https://portal.azure.com) as either a Security Administrator, Conditional Access Administrator or Global Administrator
+1. Sign in to the [Azure Portal](https://portal.azure.com) as either a Security Administrator or Conditional Access Administrator.
 2. Click on **Microsoft Entra ID**, then click **Sign-ins**
 3. Add the Client App column by clicking **Columns**, then **Client App**
 4. Click **Add Filters**, then **Client App**
