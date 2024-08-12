@@ -94,6 +94,7 @@ Explained!](https://www.yourarticlelibrary.com/management/communication/7-princi
 - [The Seven C’s Of Effective
 Communication](https://www.proofhub.com/articles/effective-communication#The_Seven_C8217s_Of_Effective_Communication)
 - Duncan Thorne, [Thorne PR Ltd](https://www.thornepr.co.uk)
+- [Tackling Project Hurdles with Clear Communication](https://www.workstatus.io/blog/workforce-management/tackling-project-hurdles-with-clear-communication)
 
 ---
 
