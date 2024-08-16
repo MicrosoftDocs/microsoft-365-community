@@ -66,7 +66,7 @@ In classic interfaces, I often create the column without spaces and special char
 
 Modern interfaces remove spaces when users with edit permissions add columns to lists or libraries.
 
-Internal names are limited to a specific length up to 255 Characters in SharePoint Online.
+Internal names are limited to a specific length up to 32 characters in SharePoint Online.
 
 ### Multilingual Display Names
 
