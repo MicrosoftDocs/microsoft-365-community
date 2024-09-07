@@ -18,19 +18,21 @@ ms.collection: M365Community
 
 The [Maturity Model for Microsoft 365](microsoft365-maturity-model--intro.md) is a useful tool for considering high level business capabilities and competencies, providing benchmarking, and planning guidance. However, practical application of the Maturity Model to specific tasks and needs is not addressed in the Competency or Elevate documents. The Practical Scenarios documents seek to address this, providing easily digestible guidance and strategy for focused topics.
 
-This Practical Scenarios document covers service change management as surfaced in the [Microsoft 365 Admin Center](https://admin.cloud.microsoft/?source=applauncher#/homepage), specifically Service Health advisories and Message Center. Interaction with these should be a key practice in operational management of M365.
+This Practical Scenarios document covers service change management as surfaced in the [Microsoft 365 Admin Center](https://admin.cloud.microsoft/?source=applauncher#/homepage), specifically in the Message Center. Frequent review of Message Center Messages should be a key practice in operational management of Microsoft 365 (including Power Platform).
+
+Note that we distinguish Service Change Management from Service Health Management.  Service Change Management is about planned change, including the arrival of new features and capabilities and the departure via deprecation of exisitng features and communication about these changes. Service Health Management is about unplanned service failures and outages and communication about service health incidents.
 
 ## Introduction to Service Change Management
 
-The [Microsoft 365 Admin Center](https://admin.cloud.microsoft/#/homepage) provides 2 key service change tools: [Message Center](https://admin.cloud.microsoft/?source=applauncher#/MessageCenter) and [Service Health](https://admin.cloud.microsoft/?source=applauncher#/servicehealth/advisories), available via the browser portal and the mobile Microsoft 365 Admin app. Both are accessible only to users who have been granted access.
+The [Microsoft 365 Admin Center](https://admin.cloud.microsoft/#/homepage) provides several ways to learn about upcoming changes.  There is the M365 Product Roadmap, there are blogs, there are announcements at conferences, there are podcasts and webinars, and more - however, the most direct communication about what changes are coming to your specific tenant and approximately when is via [Message Center](https://admin.cloud.microsoft/?source=applauncher#/MessageCenter), available via the browser portal and the mobile Microsoft 365 Admin app. Both are accessible only to users who have been granted access. 
 
-![Advisories in the Microsoft 365 Admin Center](media/maturity-model-microsoft365-servicing-microsoft365-service-change-management\advisories.jpg)
+![Messages in the Microsoft 365 Admin Center](media/maturity-model-microsoft365-servicing-microsoft365-service-change-management\advisories.jpg)
 
-![Mobile advisories in the Microsoft 365 Admin Center](media/maturity-model-microsoft365-servicing-microsoft365-service-change-management\advisories-mobile.jpg)
+![Messages in the Microsoft 365 Admin Center mobile app](media/maturity-model-microsoft365-servicing-microsoft365-service-change-management\advisories-mobile.jpg)
 
-Microsoft makes planned service changes to the M365 services daily, resulting in over 1000 change announcements per year. Effective IT operations will maintain awareness of current and future changes and assess their impacts on the business. These changes are primarily announced via the [Message Center](https://admin.cloud.microsoft/?source=applauncher#/MessageCenter), with support from the [Microsoft 365 roadmap](https://www.microsoft.com/microsoft-365/roadmap) and supporting blogs.
+Microsoft makes planned service changes to the M365 services daily, resulting in over 1400 change announcements per year. Effective IT operations will maintain awareness of current and future changes and assess their impacts on the business. These changes are primarily announced via the [Message Center](https://admin.cloud.microsoft/?source=applauncher#/MessageCenter), with support from the [Microsoft 365 roadmap](https://www.microsoft.com/microsoft-365/roadmap) and supporting blogs.
 
-This operates in conjunction with [Service Health](https://admin.cloud.microsoft/?source=applauncher#/servicehealth/advisories) advisory messages which describe active issues and the health status of all services that are available for your current subscriptions. Service Change management for Microsoft 365 involves monitoring the change announcements and determining what action is required, if any.
+Service Change management for Microsoft 365 involves triaging the change announcements (messages in the Message Center) and determining what action is required, if any.
 
 ## Applying the Maturity Model to Service Change Management
 
