@@ -22,7 +22,7 @@ This Practical Scenarios document covers service change management as surfaced i
 
 ## Introduction to Service Change Management
 
-The [Microsoft 365 Admin Centre](https://admin.microsoft.com/#/homepage) provides 2 key service change tools: [Message Centre](https://admin.microsoft.com/?source=applauncher#/MessageCenter) and [Service Health](https://admin.microsoft.com/?source=applauncher#/servicehealth/advisories), available via the browser portal and the mobile Microsoft 365 Admin app. Both are accessible only to users who have been granted access.
+The [Microsoft 365 Admin Center](https://admin.microsoft.com/#/homepage) provides 2 key service change tools: [Message Center](https://admin.microsoft.com/?source=applauncher#/MessageCenter) and [Service Health](https://admin.microsoft.com/?source=applauncher#/servicehealth/advisories), available via the browser portal and the mobile Microsoft 365 Admin app. Both are accessible only to users who have been granted access.
 
 ![Advisories in the Microsoft 365 Admin Center](media/maturity-model-microsoft365-servicing-microsoft365-service-change-management\advisories.jpg)
 
