@@ -18,19 +18,19 @@ ms.collection: M365Community
 
 The [Maturity Model for Microsoft 365](microsoft365-maturity-model--intro.md) is a useful tool for considering high level business capabilities and competencies, providing benchmarking, and planning guidance. However, practical application of the Maturity Model to specific tasks and needs is not addressed in the Competency or Elevate documents. The Practical Scenarios documents seek to address this, providing easily digestible guidance and strategy for focused topics.
 
-This Practical Scenarios document covers service change management as surfaced in the Microsoft 365 [Admin Center dashboard](https://admin.microsoft.com/?source=applauncher#/homepage), specifically Service Health advisories and Message Center. Interaction with these should be a key practice in operational management of M365.
+This Practical Scenarios document covers service change management as surfaced in the [Microsoft 365 Admin Center](https://admin.cloud.microsoft/?source=applauncher#/homepage), specifically Service Health advisories and Message Center. Interaction with these should be a key practice in operational management of M365.
 
 ## Introduction to Service Change Management
 
-The [Microsoft 365 Admin Center](https://admin.microsoft.com/#/homepage) provides 2 key service change tools: [Message Center](https://admin.microsoft.com/?source=applauncher#/MessageCenter) and [Service Health](https://admin.microsoft.com/?source=applauncher#/servicehealth/advisories), available via the browser portal and the mobile Microsoft 365 Admin app. Both are accessible only to users who have been granted access.
+The [Microsoft 365 Admin Center](https://admin.cloud.microsoft/#/homepage) provides 2 key service change tools: [Message Center](https://admin.cloud.microsoft/?source=applauncher#/MessageCenter) and [Service Health](https://admin.cloud.microsoft/?source=applauncher#/servicehealth/advisories), available via the browser portal and the mobile Microsoft 365 Admin app. Both are accessible only to users who have been granted access.
 
 ![Advisories in the Microsoft 365 Admin Center](media/maturity-model-microsoft365-servicing-microsoft365-service-change-management\advisories.jpg)
 
 ![Mobile advisories in the Microsoft 365 Admin Center](media/maturity-model-microsoft365-servicing-microsoft365-service-change-management\advisories-mobile.jpg)
 
-Microsoft makes planned service changes to the M365 services daily, resulting in over 1000 change announcements per year. Effective IT operations will maintain awareness of current and future changes and assess their impacts on the business. These changes are primarily announced via the [Message Center](https://admin.microsoft.com/?source=applauncher#/MessageCenter), with support from the [Microsoft 365 roadmap](https://www.microsoft.com/microsoft-365/roadmap) and supporting blogs.
+Microsoft makes planned service changes to the M365 services daily, resulting in over 1000 change announcements per year. Effective IT operations will maintain awareness of current and future changes and assess their impacts on the business. These changes are primarily announced via the [Message Center](https://admin.cloud.microsoft/?source=applauncher#/MessageCenter), with support from the [Microsoft 365 roadmap](https://www.microsoft.com/microsoft-365/roadmap) and supporting blogs.
 
-This operates in conjunction with [Service Health](https://admin.microsoft.com/?source=applauncher#/servicehealth/advisories) advisory messages which describe active issues and the health status of all services that are available for your current subscriptions. Service Change management for Microsoft 365 involves monitoring the change announcements and determining what action is required, if any.
+This operates in conjunction with [Service Health](https://admin.cloud.microsoft/?source=applauncher#/servicehealth/advisories) advisory messages which describe active issues and the health status of all services that are available for your current subscriptions. Service Change management for Microsoft 365 involves monitoring the change announcements and determining what action is required, if any.
 
 ## Applying the Maturity Model to Service Change Management
 
