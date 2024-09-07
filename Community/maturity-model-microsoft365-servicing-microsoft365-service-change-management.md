@@ -42,14 +42,13 @@ Service Change management for Microsoft 365 involves triaging the change announc
 - Announced changes take the organization by surprise.
 - New features and capabilities are not taken advantage of.
 - Unexpected deprecations disrupt business processes and harm the business.
-- Service outages are not recognized and staff time is wasted attempting to resolve issues within their environment.
 
 ## Level 200 – Managed
 
 - Someone in the organization reviews the message services on an ad hoc or infrequent basis.
 - Changes are communicated, acted upon and tracked based on their judgement. Communication is not always timely or effective and many staff do not review, understand or act on the information provided.
 - Little or no planning takes place to introduce or mitigate the effects of changes organizationally, though some teams may be effective at taking local action.
-- Service desk or support roles review health advisories reactively in response to user reports.
+
 
 ## Level 300 – Defined
 
@@ -57,10 +56,9 @@ Service Change management for Microsoft 365 involves triaging the change announc
 - Relevant IT staff meet regularly, probably integrating it into a weekly meeting, to review the latest Message Center messages. The "What you need to do to prepare:" section is reviewed and acted on, usually by passively notifying staff. Tasks are manually added to Planner or its equivalent for tracking and collaboration on completion.
 - Relevant services are filtered via Preferences in Message Center.
 - Message Center is configured to pump announcements to Planner as Tasks. Each week, relevant IT staff meet to review the new tasks and assess if action is required or not. Task status (Not started, in progress, or closed) is tracked.
-- Change announcements that are unclear or have a negative impact are given a Thumbs Down feedback in Message Center. Support tickets may be opened as a result of Message Center posts.
+- Change announcements that are unclear or have a negative impact are given a Thumbs Down feedback in Message Center. Support tickets with Microsoft may be opened as a result of Message Center posts.
 - Reviewed and acted on messages may not be consistently archived.
-- Relevant Service Health notifications are emailed to key roles and may be posted to the intranet, Teams and via email.
-- Service desk staff are briefed on Service Health issues.
+  
 
 ## Level 400 - Managed (Capable)
 
@@ -70,9 +68,6 @@ Service Change management for Microsoft 365 involves triaging the change announc
 - The length of time that tasks remain open and the effect of actions taken is tracked and reported on.
 - Change announcements that are unclear or have a negative impact are given a Thumbs Down feedback in Message Center. Support tickets may be opened as a result of Message Center posts. If the organization has the benefit of a proactive support team from Microsoft as part of their enterprise agreement, message center announcements that cause concern or question are brought to that team weekly for investigation.
 - Selected changes are brought into the organization's existing change management processes, such as being brought before a Change Review Board. Bringing changes from Message Center or Planner into the enterprise change management tool that the Change Review Board and Change Owners use is a manual process.
-- Service Health issues are assessed for impact and communicated appropriately and across multiple communication channels, with flagging of impact and severity. Staff heed notifications when issued. Mitigation options and advice are provided/implemented.
-- Service desk staff are involved in developing responses to Service Health issues and are prepared to support staff as needed.
-- Staff are advised when incidents are resolved and supported with any remediation needs.
 - IT staff are engaged in preview activities such as Insider programs and use these to assess impacts and make recommendations.
 - Horizon scanning proactively occurs, with other sources of change information such as the following are also reviewed as appropriate (weekly, bi-weekly, monthly, or annually), including:
 
@@ -83,11 +78,11 @@ Service Change management for Microsoft 365 involves triaging the change announc
 
 ## Level 500 - Optimizing (Efficient)
 
-- At Level 500, the organization has invested in a change management solution that goes beyond what Planner can offer. This solution is aware of who in the organization is responsible for managing what workload and is designed to streamline all processes for managing these changes.
-- Workflows and communications processes are in place to automatically notify appropriate staff of incidents, issues and forthcoming changes.
+- At Level 500, the organization has invested in a change management solution that goes beyond what Planner can offer. This solution is aware of who in the organization is responsible for managing what workload and is designed to streamline all processes for managing these changes. This process may be enterprise-wide, so that its scope is to manage application change announcements across all applications in use in the enterprise, not just M365 applications.
+- Workflows and communications processes are in place to automatically notify appropriate staff of forthcoming changes.
 - Some staff across the business are engaged in preview activities such as Insider programs and use these collaboratively assess impacts and make recommendations. These feed into strategic technology and business change activities.
 - Impacts of changes are actively monitored, and new ways of working are introduced and updated in response to feedback and analysis.
-- The organization actively provides feedback to Microsoft around the changes and requests changes via the Microsoft Feedback portal.
+- The organization actively provides feedback to Microsoft around the changes and requests changes via the Microsoft Feedback portal and their Microsoft acount team (if they have one).
 - Support staff actively maintain their knowledge of current and forthcoming technologies and are prepared when incidents or staff needs arise from these.
 
 ---
