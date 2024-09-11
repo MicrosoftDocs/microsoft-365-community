@@ -1,4 +1,4 @@
-The MM4M365 core team has evolved over time. These are the people who have been a part of it.
+The MM4M365 core team has evolved over time and these are the people who have been a part of it.
 
 **Core team**:
 
