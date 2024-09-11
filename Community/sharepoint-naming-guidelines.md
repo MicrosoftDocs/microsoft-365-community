@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority: 
+ms.localizationpriority:
 description: "SharePoint Naming Guidelines"
 ms.collection: M365Community
 ---
