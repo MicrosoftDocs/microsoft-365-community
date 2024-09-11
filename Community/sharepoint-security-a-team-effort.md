@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority: 
+ms.localizationpriority: low 
 description: "Managing SharePoint Online Security: A Team Effort"
 ms.collection: M365Community
 ---
