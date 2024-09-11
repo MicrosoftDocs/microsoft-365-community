@@ -88,7 +88,7 @@ You can copy a permission level, and select or deselect options for your require
 > [!TIP]
 > **Best Practice**. If necessary, create your own SharePoint group and permission level, and avoid modifying or deleting the built-in groups. For more information, please refer to the official Microsoft documentation about the [Default SharePoint Groups](/sharepoint/default-sharepoint-groups).
 
-### Active Directory (AD) Groups
+### Active Directory (AD) Security Groups
 
 Most organizations already have an on-premises Active Directory, which is synchronized to Microsoft 365. When assigning permissions to a SharePoint site, the recommended approach is to **_add security groups to those SharePoint groups_**.
 
@@ -139,7 +139,7 @@ Something else that might also mitigate how sharing occurs, is the possibility t
 
 - Only site owners can share files, folders, and the site.
 
-With regards to first 2 bullet points, the difference is that in option 2, only the site owner will be able to share the site. Members will not. I have to admit, it confused me at first, and I had to read it a few times!
+With regards to first 2 bullet points, the difference is that in option 2, only the site owner will be able to share the entire site. Members will not. I have to admit, it confused me at first, and I had to read it a few times!
 
 While the 3rd bullet point is self explanatory, we can imagine that it might prevent users from performing their tasks? What if you need to share something with a colleague or a customer? And this will also add more work for the site owner...
 
@@ -165,7 +165,7 @@ To know more about how to configure Access Requests, have a look at the official
 
 ### Multi-Factor Authentication (MFA)
 
-The first that springs to mind, and not only related to SharePoint, is MFA to secure your identities. A few years back, we were only thinking about applying MFA to (at least) Global Admins, but really it should be applied on all accounts whenever possible.
+The first that springs to mind, and not only related to SharePoint, is MFA to secure your identities. A few years back, we were only thinking about applying MFA to (at least) Global Admins, but really we recommend that it be applied on all accounts whenever possible.
 
 ### Security and Compliance
 
