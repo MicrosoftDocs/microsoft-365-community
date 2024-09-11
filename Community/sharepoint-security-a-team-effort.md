@@ -165,7 +165,7 @@ To know more about how to configure Access Requests, have a look at the official
 
 ### Multi-Factor Authentication (MFA)
 
-The first that springs to mind, and not only related to SharePoint, is MFA to secure your identities. A few years back, we were only thinking about applying MFA to (at least) Global Admins, but really it is recommended be applied on all accounts whenever possible.
+The first that springs to mind, and not only related to SharePoint, is MFA to secure your identities. A few years back, we were only thinking about applying MFA to (at least) Global Admins, but really we recommend that it be applied on all accounts whenever possible.
 
 ### Security and Compliance
 
