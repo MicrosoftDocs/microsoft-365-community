@@ -6,6 +6,51 @@
 
 Note: Changelog started in January, 2021
 
+## September, 2024
+
+### New Articles - September, 2024
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - September, 2024
+
+| Article | Updated By |
+|---|---|
+
+### Removed/retired Articles - September, 2024
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - September, 2024
+
+-
+
+## August, 2024
+
+### New Articles - August, 2024
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - August, 2024
+
+| Article | Updated By |
+|---|---|
+| [SharePoint Naming Guidelines](./Community/sharepoint-naming-guidelines.md) | [Miroslav Kačena](https://www.linkedin.com/in/miroslav-ka%C4%8Dena-96616b39/) |
+| [Managing SharePoint Online Security: A Team Effort](./Community/sharepoint-security-a-team-effort.md) | [Greg Rojas](https://www.linkedin.com/in/gregrojas/)) |
+
+### Removed/retired Articles - August, 2024
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - August, 2024
+
+- [Miroslav Kačena](https://www.linkedin.com/in/miroslav-ka%C4%8Dena-96616b39/)
+- [Greg Rojas](https://www.linkedin.com/in/gregrojas/)
+
 ## July, 2024
 
 ### New Articles - July, 2024
