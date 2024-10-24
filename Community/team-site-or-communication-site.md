@@ -81,15 +81,15 @@ When they're ready to _share_, the HR team moves the document to or writes the s
 
 ## Feature Comparison
 
-| Feature | Team Site | Communication Site |
-| --- | --- | --- |
-| Who creates the site? | Site Owner (or Admins) | Site Owner (or Admins) |
-| Who creates content? | **All members are content authors** who jointly create and edit content. | **Small number of content authors** and a much larger number of content readers or consumers. |
-| Security | Microsoft 365 Groups | SharePoint Groups |
-| Default Setting for External Sharing | External Sharing Enabled (but can be disabled by the SharePoint Admin) | External Sharing Disabled (but can be enabled by the SharePoint Admin) |
-| Default Navigation | Left | Top |
-|Multilingual features? | Yes | Yes |
-| When you create, you ALSO get … | Planner board, OneNote notebook, Email address for the group, Shared Calendar, shared mailbox, opportunity to connect with a Microsoft Team  (if the site wasn't created as part of provisioning a Microsoft Team) | NOTHING but a SharePoint communication site! |
+| Feature | Team Site | Communication Site | Team Site (not groups connected)
+| --- | --- | --- | --- |
+| Who creates the site? | Site Owner (or Admins) | Site Owner (or Admins) | Site Owner (or Admins) |
+| Who creates content? | **All members are content authors** who jointly create and edit content. | **Small number of content authors** and a much larger number of content readers or consumers. | **A defined group of members are content authors** also different SharePoint lists and libraries can have different permissions | 
+| Security | Microsoft 365 Groups | SharePoint Groups | SharePoint Groups |
+| Default Setting for External Sharing | External Sharing Enabled (but can be disabled by the SharePoint Admin) | External Sharing Disabled (but can be enabled by the SharePoint Admin) | External Sharing Disabled (but can be enabled by the SharePoint Admin) |
+| Default Navigation | Left | Top | Left (but can be changed to Top)
+|Multilingual features? | Yes | Yes | Yes |
+| When you create, you ALSO get … | Planner board, OneNote notebook, Email address for the group, Shared Calendar, shared mailbox, opportunity to connect with a Microsoft Team  (if the site wasn't created as part of provisioning a Microsoft Team) | NOTHING but a SharePoint communication site! | OneNote notebook |
 
 
 ---
