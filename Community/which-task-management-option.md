@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: microsoft-365
-localization_priority: 
+ms.localizationpriority: Low
 description: "A short guide on the many (many) options for managing tasks in M365 and how they stack up."
 ms.collection: M365Community
 ---

@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: microsoft-365
-localization_priority:
+ms.localizationpriority: Low
 description: The Microsoft 365 Maturity Model - Customization and Development Competency
 ms.collection: SPCommunity
 ---

@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority: 
+ms.localizationpriority: Low
 description: "Site Builder/Owner: New Site Checklist"
 ms.collection: M365Community
 ---

@@ -6,7 +6,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority:
+ms.localizationpriority: Low
 description: A learning strategy for querying and filtering Highlighted Content Web Parts, with KQL, CAML and Managed Properties. Includes example scenarios
 ms.collection: M365Community
 ---

@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority: 
+ms.localizationpriority: Low
 description: "Team Site vs. Communication Site: Which one should I choose?"
 ms.collection: M365Community
 ---

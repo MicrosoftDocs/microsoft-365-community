@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: o365-solutions
-localization_priority:
+ms.localizationpriority: Low
 description: Maturity Model for Microsoft 365 - Communication Competency
 ms.collection: M365Community
 ---
