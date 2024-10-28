@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: microsoft-365
-localization_priority: 
+ms.localizationpriority: Low
 description: A short guide on performing Guests Reviews using Azure P2 and its Identity Governance features.
 ms.collection: M365Community
 ---

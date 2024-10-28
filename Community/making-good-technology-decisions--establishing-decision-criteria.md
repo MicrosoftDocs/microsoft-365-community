@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: microsoft-365
-localization_priority: 
+ms.localizationpriority: Low
 description: "Making Good Technology Decisions: Establishing Decision Criteria"
 ms.collection: M365Community
 ---

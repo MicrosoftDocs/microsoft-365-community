@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: msteams
-localization_priority:
+ms.localizationpriority: Low
 description: "Should everyone create Teams - Low Code Provisioning solution"
 ms.collection: M365Community
 

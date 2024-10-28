@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority: 
+ms.localizationpriority: Low
 description: "Information Architecture - Managed Metadata versus Lookup columns"
 ms.collection: M365Community
 ---

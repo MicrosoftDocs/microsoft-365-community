@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: microsoft-365
-localization_priority: 
+ms.localizationpriority: Low
 description: Why Microsoft 365 adoption projects fail - a deeper look into corporate mental models, organizational structures, and patterns in working behavior
 ms.collection: M365Community
 ---

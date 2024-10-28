@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority: 
+ms.localizationpriority: Low
 description: "Planning Permissions with Group-based SharePoint Sites... when you're used to Regular SharePoint Permissions."
 ms.collection: M365Community
 ---

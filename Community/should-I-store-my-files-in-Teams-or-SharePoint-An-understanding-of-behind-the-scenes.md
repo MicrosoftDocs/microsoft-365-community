@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: msteams
-localization_priority: 
+ms.localizationpriority: Low
 description: "Should I store my files in Microsoft Teams or in SharePoint? An understanding of behind the scenes"
 ms.collection: M365Community
 ---

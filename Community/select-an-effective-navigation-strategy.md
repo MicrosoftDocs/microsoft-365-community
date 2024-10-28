@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority: 
+ms.localizationpriority: Low
 description: "A Guided Tour Designed to Help You Select an Effective Navigation Strategy"
 ms.collection: M365Community
 ---

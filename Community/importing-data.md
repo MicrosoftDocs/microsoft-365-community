@@ -7,7 +7,7 @@ ms.author: pamgreen
 manager: pamgreen
 ms.topic: article
 ms.service: sharepoint-online
-localization_priority: 
+ms.localizationpriority: Low
 description: Importing data into SharePoint
 ms.collection: M365Community
 ---
