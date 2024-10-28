@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority:
+ms.localizationpriority: Low
 description: Creative ways to filter, embed, and change page content by learning the secrets of URL query strings.
 ms.collection: M365Community
 ---

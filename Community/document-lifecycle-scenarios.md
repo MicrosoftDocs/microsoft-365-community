@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority: 
+ms.localizationpriority: Low
 description: Document Lifecycle Scenarios - showing different ways to think through how we manage documents based on their relative weight and importance
 ms.collection: M365Community
 ---

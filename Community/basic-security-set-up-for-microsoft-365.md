@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: security
-localization_priority: 
+ms.localizationpriority: Low
 description: Basic Security Set Up for Microsoft 365
 ms.collection: M365Community
 ---
