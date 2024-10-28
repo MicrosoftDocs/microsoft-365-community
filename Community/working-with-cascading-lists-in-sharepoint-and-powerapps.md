@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority: 
+ms.localizationpriority: Low
 description: "Working with Cascading Lists in SharePoint and Power Apps"
 ms.collection: M365Community
 ---

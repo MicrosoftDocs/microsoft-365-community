@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: microsoft-365
-localization_priority:
+ms.localizationpriority: Low
 description: Using the Microsoft Maturity model as a developer for building Microsoft Teams solutions
 ms.collection: M365Community
 ---

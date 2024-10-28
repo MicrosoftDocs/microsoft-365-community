@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: microsoft-365
-localization_priority: 
+ms.localizationpriority: Low
 description: "Content can be searched using various search technologies. The existing variants are based on the same search index, but differ in usage and configuration."
 ms.collection: M365Community
 ---

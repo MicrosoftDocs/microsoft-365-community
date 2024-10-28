@@ -8,7 +8,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: microsoft-365
-localization_priority:
+ms.localizationpriority: Low
 description: Seven principles of communication as used to inform the Communication Competency within the Microsoft 365 Maturity Model
 ms.collection: M365Community
 ---

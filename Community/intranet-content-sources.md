@@ -6,7 +6,7 @@ ms.topic: article
 ms.author: pamgreen
 manager: pamgreen
 ms.service: sharepoint-online
-localization_priority: 
+ms.localizationpriority: Low
 description: Building a new Intranet from scratch, but struggling where to start. This article will go through the sources, patterns and ideas to help you get started.
 ms.collection: M365Community
 ---

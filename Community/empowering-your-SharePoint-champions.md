@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority: 
+ms.localizationpriority: Low
 description: How to support a Microsoft 365 champions group in your organization. A follow up to Identifying Your Microsoft 365 Champions.
 ms.collection: M365Community
 ---

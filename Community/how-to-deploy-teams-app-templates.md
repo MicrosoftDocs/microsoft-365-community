@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: microsoft-365
-localization_priority: 
+ms.localizationpriority: Low
 description: "Microsoft Teams app templates are ready to production, easy to deploy apps that extend Teams to your needs- this is a guide how to deploy them"
 ms.collection: M365Community
 ---

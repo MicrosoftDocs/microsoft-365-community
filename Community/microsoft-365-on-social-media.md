@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: microsoft-365
-localization_priority: 
+ms.localizationpriority: Low
 description: Useful links to help you follow the Microsoft 365 community on social media
 ms.collection: M365Community
 ---
