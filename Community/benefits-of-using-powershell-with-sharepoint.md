@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-powershell
-localization_priority: 
+ms.localizationpriority: Low
 description: "Benefits of using PowerShell with SharePoint"
 ms.collection: M365Community
 ---

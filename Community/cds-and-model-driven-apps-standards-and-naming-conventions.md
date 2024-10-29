@@ -8,7 +8,7 @@ ms.topic: article
 ms.author: pamgreen
 ms.service: power-platform
 ms.subservice: dataverse
-localization_priority: 
+ms.localizationpriority: Low
 description: "Dataverse and Model-Driven Apps Standards and Naming Conventions"
 ms.collection: M365Community
 ---

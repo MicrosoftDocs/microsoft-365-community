@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority:
+ms.localizationpriority: Low
 description: Support your end users by creating efficient and effective Views
 ms.collection: M365Community
 

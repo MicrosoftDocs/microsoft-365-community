@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: microsoft-365
-localization_priority: 
+ms.localizationpriority: Low
 description: Elevate your organization through the Staff and Training Competency maturity levels 
 ms.collection: M365Community
 ---

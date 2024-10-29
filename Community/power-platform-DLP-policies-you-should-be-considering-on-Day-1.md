@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: power-platform
-localization_priority: 
+ms.localizationpriority: Low
 description: "The Power Platform DLP policies you should be considering on Day 1"
 ms.collection: M365Community
 ---

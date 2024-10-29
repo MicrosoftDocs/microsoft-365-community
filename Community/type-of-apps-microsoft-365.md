@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: wmastyka
 ms.service: microsoft-365
-localization_priority: 
+ms.localizationpriority: Low
 description: Microsoft 365 is a rich platform for building applications. Here are the types of apps you can build on Microsoft 365.
 ms.collection: M365Community
 ---
