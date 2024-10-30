@@ -1,7 +1,7 @@
 ---
 title: Maturity Model for Microsoft 365 – Collaboration Competency
 ms.date: 8/4/2020
-author: sympmarc
+author: SimonJHudson
 ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
@@ -41,6 +41,7 @@ With collaboration, we have a similar set of states:
 - Innovation
 
 These states align roughly with the levels below.
+Note: Some characteristics should, perhaps, be addressed a little more urgently than others; these have been  marked with the 'Sparkles' emoji: ✨
 
 ### Level 100 - Initial
 
@@ -86,37 +87,37 @@ At this level, the focus tends to be on document and file collaboration; workspa
 
 #### Process
 
-- There is agreement (but not enforcement) not to send attachments.
+- ✨ There is agreement (but not enforcement) not to send attachments.
 - Training and knowledge remain inconsistent.
 
 #### Governance, Risk, Compliance and Security
 
-- Some mechanisms are in place for new site requests, whether instantiated technically or by convention.
+- ✨ Some mechanisms are in place for new collaboration workspace requests, whether instantiated technically or by convention.
 - External access uses default settings and is not controlled.
 - Most users have had little training on how to use the tools.
 - Better practices have not been established.
 
 ### Information Architecture
 
-- Unique document libraries are created for specific team needs.
-- Specialized views become more common to enable better decision making.
-- Metadata is used to organize documents beyond the default values e.g. status, dates etc.
+- ✨ Additional. unique document libraries are created for specific team needs.
+- ✨ Specialized views become more common to enable better decision making.
+- ✨ Metadata is used to organize documents beyond the default values e.g. status, dates etc.
 
 #### Content
 
-- Links are shared or emailed rather than documents as attachments, starting to lead to one version of truth.
-- Collaboration efforts are collected in document libraries using coauthoring and automatic versioning.
+- ✨ Links are shared or emailed rather than documents as attachments, starting to lead to one version of truth.
+- ✨ Collaboration efforts are collected in document libraries using coauthoring and automatic versioning.
 - External access uses default settings and is not controlled.
 - Introduction of File naming conventions.
 
 #### Task Management
 
-- There is some use of status indicators in documents or metadata.
+- ✨ There is some use of status indicators in documents or metadata.
 - Shared lists allow visibility of activities and task status; interaction with the list is via read-only views or require downloading of a file. There is no aggregated progress overview or reporting within the shared activities; requiring manual reports to be issued.
 
 #### Culture
 
-- There is recognition that collaboration needs to happen.
+- ✨ There is recognition that collaboration needs to happen, using a platform common to all staff.
 
 #### Impacts
 
@@ -133,38 +134,39 @@ The process of collaboration is well defined and agreed as a standard business p
 #### Process
 
 - Teams are able to determine their own style of collaboration; this is defined in policy and procedure
-- Processes exist to manage site and content lifecycles, external access, document status, ownership, task allocation etc.
+- ✨ Processes exist to manage site and content lifecycles, external access, document status, ownership, task allocation etc.
 
 #### Culture
 
 - Discussions, meetings and actions are wrapped around collaboration activities.
-- Collaboration is enabled and encouraged within projects etc.
+- ✨ Collaboration is enabled and encouraged within projects etc.
 
 #### Governance, Risk, Compliance and Security
 
-- External access is audited and managed to remove access when collaboration ends
+- ✨ External access is audited and managed to remove access when collaboration ends
 - Site de-provisioning process is established as manual process
-- People profiles are completed to identify roles and responsibilities, supporting expertise location
+- ✨ People profiles are completed to identify roles and responsibilities, supporting expertise location
 - Better practices have been identified but are not strongly implemented
-- Deviation from established tools and approaches is discouraged
+- ✨ Deviation from established tools and approaches is discouraged
 
 #### Information Architecture
 
 - Information architecture is centrally considered and managed across the enterprise.
 - There is consistency in terminology, naming conventions and formats.
-- Company-wide metadata is standardized, and document libraries include this standard taxonomy, where appropriate.
+- ✨ Company-wide metadata is standardized, and document libraries include this standard taxonomy, where appropriate.
 
 ### Content
 
-- Site templates are developed for specific site needs.
+- ✨ Site templates are developed for specific site needs.
 - Sites are provisioned with rich solutions, including template documents and features appropriate to the need.
 - Collaboration extends beyond documents and is supported by other apps and features
 - Mobile access is considered with every solution implementation.
-- There is a mechanism to differentiate Work-in-Progress from Final / Approved.
+- ✨ There is a mechanism to differentiate Work-in-Progress from Final / Approved.
+- Definitive content areas are identified and prioritized.
 
 #### Task Management
 
-- Tools to allow shared ownership and management of tasks are in place and adopted by project teams and some other task-focused teams. Where this is the case, there is a degree of automated reporting and ‘at-a-glance’ insights into progress.
+- ✨ Tools to allow shared ownership and management of tasks are in place and adopted by project teams and some other task-focused teams. Where this is the case, there is a degree of automated reporting and ‘at-a-glance’ insights into progress.
 
 #### Impacts
 
@@ -178,53 +180,52 @@ Rather than focusing on specific point solutions, a more strategic view of platf
 
 #### Culture
 
--Templates are continuously improved based on usage statistics/feedback
-
+- Templates are continuously improved based on usage statistics/feedback
 - The culture is collaborative – empowerment, trust and permission
-- Tacit knowledge is transferred through departments and roles
-- Collaboration is understood beyond task-based activities
+- ✨ Tacit knowledge is transferred through departments and roles
+- ✨ Collaboration is understood beyond task-based activities
 
 #### Process
 
 - Collaboration is governed and compliant
 - Collaboration supports line of business systems.
 - Diary management is well-established, and availability for collaborative work is managed (including real-time presence and ‘focus’ time slots).
-- Asynchronous collaboration is facilitated by features (e.g. @mentions) that signpost colleagues to content and actions, ensuring notifications are productive rather than interruptions.
+- ✨ Asynchronous collaboration is facilitated by features (e.g. @mentions) that signpost colleagues to content and actions, ensuring notifications are productive rather than interruptions.
 - Productivity and other collaboration metrics provide insights.
-- Opportunities for informal conversations are actively created (water-cooler conversations), especially within disciplines
+- ✨ Opportunities for informal conversations are actively created (water-cooler conversations), specifically involving remote staff, especially within disciplines. 
 
 #### Governance, Risk, Compliance and Security
 
-- There is a strong understanding of the value and risk of collaboration and governance and security approaches are implemented to minimize data leakage, allow and prevent sharing as needed, to reactively review or investigate activities.
+- ✨ There is a strong understanding of the value and risk of collaboration and governance and security approaches are implemented to minimize data leakage, allow and prevent sharing as needed, to reactively review or investigate activities.
 - There are time, location, device and person limits on access to content and collaboration between people
-- Content is protected to ensure history of changes, prior versions etc. remain accessible for productivity and compliance purposes.
-- Duplicate content is actively disallowed unless a scenario requires it - single version of the truth.
-- Processes are in place to minimize the risk of staff using out-dated information and files in collaborative decision making or activities.
+- ✨ Content is protected to ensure history of changes, prior versions etc. remain accessible for productivity and compliance purposes.
+- ✨ Duplicate content is actively disallowed unless a scenario requires it - single version of the truth.
+- ✨ Processes are in place to minimize the risk of staff using out-dated information and files in collaborative decision making or activities.
 - There is an auditable history of collaboration activities with an understanding of how it can help support effective governance.
 - Collaboration extends to appropriate solutions within Microsoft 365 (ex. Task management in Planner).
 
 #### Information Architecture
 
 - Company-wide metadata may integrate with other enterprise systems (e.g., ERP, CRM). Consistency extends across platforms.
-- Enforcement of information structure, metadata, site and directory design ensures consistent use across roles and departments
+- ✨ Enforcement of information structure, metadata, site and directory design ensures consistent use across roles and departments
 
 #### Content
 
-- Communication channels are used to segregate topics.
-- There is a mechanism to segregate Work-in-Progress from Final / Approved, and to protect Finalized versions from change.
-- Content can be shared across organizational boundaries enabling efficient collaboration with partners, clients etc. without loss of control or governance.
-- Strategies are in place and effective for remote and offline working on collaborative content.
+- ✨ Communication channels are used to segregate topics.
+- ✨ There is a mechanism to segregate Work-in-Progress from Final / Approved, and to protect Finalized versions from change.
+- ✨ Content can be shared across organizational boundaries enabling efficient collaboration with partners, clients etc. without loss of control or governance.
+- ✨ Strategies are in place and effective for remote and offline working on collaborative content.
 
 #### Task Management
 
 - Task management tools are consistently and widely used to track and monitor team, department and organizational activities.
 - There are shared notifications for activity updates alongside on-demand ‘at-a-glance’ insights.
-- There is active support for multiple collaboration modes, including real-time co-working and co-editing, ‘as-needed’ collaboration.
+- ✨ There is active support for multiple collaboration modes, including real-time co-working and co-editing, ‘as-needed’ collaboration.
 - Collaborative activities are largely unconstrained by geography or time zone.
 - Most activities can be completed collaboratively, with simple mechanisms to find and access co-workers.
-- There are tools and processes in place to protect individuals’ time from interruptions.
-- Diary management is well-established, and availability for collaborative work is managed (including real-time presence and ‘focus’ time slots).
-- Mobile, remote, and office scenarios are equally supported.
+- ✨ There are tools and processes in place to protect individuals’ time from interruptions.
+- ✨ Diary management is well-established, and availability for collaborative work is managed (including real-time presence and ‘focus’ time slots).
+- ✨ Mobile, remote, and office scenarios are equally supported.
 - Asynchronous collaboration is facilitated by features (e.g. @mentions) that signpost colleagues to content and actions, ensuring notifications are productive rather than interruptions.
 - Productivity and other collaboration metrics provide insights.
 
@@ -240,32 +241,33 @@ At this level, many transactional actions are automated to ensure consistency an
 
 #### Culture
 
-- Collaboration is baked into the culture.
-- Staff are expected to do non-traditional/non-task collaboration
+- ✨ Collaboration is baked into the culture.
+- ✨ Staff are expected to do non-traditional/non-task collaboration
 - Deep collaboration enabled through cross-skilling, placements and multi-disciplinary meetings.
-- Informal and formal knowledge transfer are designed into the organizational culture (water-cooler conversations) across disciplines. No one needs an excuse to collaborate.
+- ✨ Informal and formal knowledge transfer are designed into the organizational culture (water-cooler conversations) across disciplines. No one needs an excuse to collaborate.
 
 #### Process
 
 - Automation enables and protects collaborative efforts, in line with understood policies.
 - Downstream collaboration processes are automated & optimised.
 - Staff are accountable for tasks and commitments; with feedback used to assure productivity.
-- Collaboration processes and benefits extend to external partners.
+- ✨ Collaboration processes and benefits extend to external partners.
+- AI is actively used to supprt collaboration, including providing summaries, transaltions and task management.
 
 #### Governance, Risk, Compliance and Security
 
-- Automated processes exist for de-provisioning and archiving sites when collaboration ends.
+- ✨ Automated processes exist for de-provisioning and archiving sites when collaboration ends.
 - A policy or mechanism is in place to check for duplicates, reducing site and content sprawl.
-- Active data loss prevention is in place, including keyword/term flagging, communication monitoring and deep dive eDiscovery across all technologies.
+- ✨ Active data loss prevention is in place, including keyword/term flagging, communication monitoring and deep dive eDiscovery across all technologies.
 - Graded security with policy enforcement is leveraged to provide different levels of protection during collaboration depending on sensitivity, risk and environment.
 - Governance and security intervention are seen as business enablers that provides a safe framework for collective endeavors.
-- Metrics are used to measure and improve collaboration outcomes, clearly connected to strategy.
+- ✨ Metrics are used to measure and improve collaboration outcomes, clearly connected to strategy.
 
 #### Information Architecture
 
 - Metadata is used across site collections to centralize relevant information so that it can live anywhere but still be found / leveraged.
-- Automated tagging may be present.
-- Sensitivity labelling is automated and related to the content, purpose and risk of the collaborative activity.
+- ✨ Automated tagging is implemented where appriopriate.
+- ✨ Sensitivity labelling is automated and related to the content, purpose and risk of the collaborative activity.
 - Better practices are continually developed to enable effective collaboration across a wide range of tools, scenarios and roles; existing practice is routinely reviewed and teams are helped to collaborate more effectively based on insights.
 
 #### Content
@@ -273,18 +275,18 @@ At this level, many transactional actions are automated to ensure consistency an
 - Site designs or templates are enforced and used to reflect project phases.
 - Content and task status are actively used to provide insights and trigger actions, including automation of downstream processes.
 - There is active monitoring of content shared across organizational boundaries.
-- Lifecycles, redaction, and access revocation are enabled and largely automated.
-- Live documents are shared as attachments in email only as exceptions.
+- ✨ Lifecycles, redaction, and access revocation are enabled and largely automated.
+- ✨ Live documents are shared as attachments in email only as exceptions.
 
 #### Task Management
 
 - The collaborative platform is highly integrated, serving a wide range of tools and capabilities that seamlessly support many simultaneous modes of collaboration.
-- Task management tools are required at multiple levels across an organization and individuals and teams are held accountable for their collective tasks, including to board level.
+- ✨ Task management tools are required at multiple levels across an organization and individuals and teams are held accountable for their collective tasks, including to board level.
 - There is organizational level monitoring of collaboration activities, with targets for the degree of interaction expected based on roles.
-- There is specific focus on optimizing collaborative activity to enhance productivity, minimize cost and risk.
+- ✨ There is specific focus on optimizing collaborative activity to enhance productivity, minimize cost and risk.
 - Collaborative work is a strategic element of the organization’s culture.
-- External partners are supported in adopting collaborative approaches.
-- Legacy ways of working are actively replaced or removed through an active continuous improvement.
+- ✨ External partners are supported in adopting collaborative approaches.
+- ✨ Legacy ways of working are actively replaced or removed through an active continuous improvement.
 
 #### Impacts
 
@@ -314,22 +316,24 @@ With collaboration at its core, the Microsoft 365 platform can be an incredible 
 Every organization can choose how best to use the Microsoft 365 platform for collaboration. The best answer for a large multi-national conglomerate would make little sense for a five-person financial advisory firm. The Microsoft 365 apps and services most likely included in the mix for collaboration include the following:
 
 - Excel
+- Word
+- PowerPoint
 - Loop
 - Microsoft Teams
-- OneDrive
+- Microsoft 365 Copilot
 - OneNote
 - Outlook
 - Planner
-- PowerPoint
+- To Do
+- Whiteboard 
 - Project Online
 - SharePoint Team Sites
-- To Do
+- Microsoft Lists
+- OneDrive
 - Viva Engage
 - Viva Goals
 - Viva Insights
-- Viva Sales
-- Topics
-- Word
+- Microsoft Sales Copilot
 - Viva Engage
 
 ## Resources
