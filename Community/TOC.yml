@@ -37,7 +37,7 @@ Items:
   - name: Maturity Model for Microsoft 365
     items:
     - name: Overview
-      href: index_mm4m365.yml
+      href: index-mm4m365.yml
       items:
       - name: Introduction
         href: microsoft365-maturity-model--intro.md
