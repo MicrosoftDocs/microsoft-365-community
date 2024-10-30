@@ -13,7 +13,7 @@ metadata:
   author: jhendr #Required; your GitHub user alias, with correct capitalization.
   ms.author: pamgreen #Required; microsoft alias of author; optional team alias.
   ms.date: 10/28/2020 #Required; mm/dd/yyyy format
-  localization_priority: Priority
+  ms.localizationpriority: Low
 
 # linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | tutorial | video | whats-new
 
