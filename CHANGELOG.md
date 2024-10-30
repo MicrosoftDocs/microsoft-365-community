@@ -17,6 +17,9 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
+| [Maturity Model for Microsoft 365 - AI & Cognitive Business Competency](./Community/microsoft365-maturity-model--cognitive-business.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 - Collaboration](./Community/microsoft365-maturity-model--collaboration.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [Team Site vs. Communication Site: Which one should I choose?](./Community/team-site-or-communication-site.md) | [Dave Mehr](https://www.linkedin.com/in/david-mehr-055b46181/) |
 
 ### Removed/retired Articles - October, 2024
 
@@ -25,7 +28,7 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - October, 2024
 
-- 
+-
 
 ## September, 2024
 
@@ -60,7 +63,7 @@ Note: Changelog started in January, 2021
 | Article | Updated By |
 |---|---|
 | [SharePoint Naming Guidelines](./Community/sharepoint-naming-guidelines.md) | [Miroslav Kačena](https://www.linkedin.com/in/miroslav-ka%C4%8Dena-96616b39/) |
-| [Managing SharePoint Online Security: A Team Effort](./Community/sharepoint-security-a-team-effort.md) | [Greg Rojas](https://www.linkedin.com/in/gregrojas/)) |
+| [Managing SharePoint Online Security: A Team Effort](./Community/sharepoint-security-a-team-effort.md) | [Greg Rojas](https://www.linkedin.com/in/gregrojas/) |
 
 ### Removed/retired Articles - August, 2024
 
