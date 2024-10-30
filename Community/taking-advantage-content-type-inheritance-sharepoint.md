@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority: 
+ms.localizationpriority: Low
 description: "Taking Advantage of the Content Type Inheritance Model in SharePoint"
 ms.collection: M365Community
 ---
