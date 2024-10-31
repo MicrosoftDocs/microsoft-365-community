@@ -9,7 +9,11 @@
       "source_path": "Community/Yet-another-Tool-Why-you-will-probably-love-Project-Moca-aka-Outlook-Spaces.md",
       "redirect_url": "/microsoft-365/community/",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/index_mm4m365.yml",
+      "redirect_url": "/microsoft-365/community/index-mm4m365",
+      "redirect_document_id": true
     }
-
   ] 
 }
