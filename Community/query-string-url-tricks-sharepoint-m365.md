@@ -1,6 +1,6 @@
 ---
 title: Query String URL Tricks for SharePoint and Microsoft 365
-ms.date: 03/22/2022
+ms.date: 10/31/2024
 author: PatD
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -223,7 +223,7 @@ In a list or library, the minimum needed for this type of filter is:
 `?useFiltersInViewXml=1&FilterField1=<internalFieldName>&FilterValue1=<valueA>&FilterField2=<internalFieldName2>&FilterValue2=<valueB>&FilterField3=<internalFieldName3>&FilterValue3=<valueC>`
 
 >[!TIP]
->You can find out the internal column name by going to List Settings, choosing the column, and looking after the `&Field=` key in the URL. That's using a query string URL to help you make a query string URL!
+>Internal field name is not the column name. You can find out the internal filed name by going to [List Settings](https://support.microsoft.com/office/edit-list-settings-4d35793b-246e-42a3-990c-563a83795b7f), choosing the column, and looking after the `&Field=` key in the URL. That's using a query string URL to help you make a query string URL!
 
 **Example Scenario using FilterField**
 _You might have a Power Automate Flow set to email a List view status report URL based about a product in a list… with hundreds of possible products. You wouldn't want to make separate views for each product._
