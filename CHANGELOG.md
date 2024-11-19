@@ -6,6 +6,27 @@
 
 Note: Changelog started in January, 2021
 
+## November, 2024
+
+### New Articles - November, 2024
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - November, 2024
+
+| Article | Updated By |
+|---|---|
+
+### Removed/retired Articles - November, 2024
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - November, 2024
+
+-
+
 ## October, 2024
 
 ### New Articles - October, 2024
