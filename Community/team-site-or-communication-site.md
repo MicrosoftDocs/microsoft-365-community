@@ -21,7 +21,7 @@ Choosing between a [team site](https://support.microsoft.com/office/what-is-a-sh
 
 - **Showcase, Share, Story:** When you want to &quot;broadcast&quot; a message, tell a story, share content for viewing (but not editing) to a large audience or the entire organization, or showcase services or people, you want a **Communication Site**. In a Communication Site, there will most often be a small number of content authors and a much larger number of content readers or consumers. Think about your corporate intranet. Even if you have collaborative _parts_ of the intranet, the primary purpose of your intranet is to communicate a story such as corporate news or showcase services and information such as your benefits and policies. Your intranet sites are examples of Communication Sites.
 
-- **Create, Store, Use, Permissions, Apps:** When you use a store for SharePoint libraries and lists, without M365 groups services, you want a Team Site (not groups connected). With Teams Sites (not groups connected) you can use a store for all SharePoint based elements like documents, list items, news, docsets and many more. You will not compete with the concepts of groups and SharePoint permissions. Any you can choose, where you want to see the SharePoint site navigation, on top or on left side. Use this kind of Team Site, when you create SharePoint based Apps with libraries, lists and other SharePoint topics or for an SharePoint list based Microsoft Power Apps.
+- **Create, Store, Use, Permissions, Apps:** When you use a store for SharePoint libraries and lists, without M365 groups services, you want a Team Site (not groups connected). With Teams Sites (not groups connected) you can use a store for all SharePoint based elements like documents, list items, news, docsets, and many more. You will not compete with the concepts of groups and SharePoint permissions. Any you can choose, where you want to see the SharePoint site navigation, on top or on left side. Use this kind of Team Site, when you create SharePoint based Apps with libraries, lists and other SharePoint topics or for a SharePoint list based Microsoft Power Apps.
 
 ## When should I create a team site?
 
@@ -85,7 +85,7 @@ When they're ready to _share_, the HR team moves the document to or writes the s
 
 **Create a team site (not groups connected) to create, store and use SharePoint elements and items.**
 
-A team site (not groups connected) is a long time kind of a SharePoint site, you know it when you work with SharePoint since on-prem time. It's similiar to a communication site, but it's not a Team Site with M365 services, it's a SharePoint site only.
+A team site (not groups connected) is a long time kind of a SharePoint site, you know it when you work with SharePoint since on-prem time. It's similar to a communication site, but it's not a Team Site with M365 services, it's a SharePoint site only.
 
 **Differences to communication site:**
 
@@ -115,7 +115,7 @@ Use it, when you need a SharePoint site but you don't need M365 groups services.
 
 **Examples of team site (not groups connected) scenarios.**
 
-- I need "only" a SharePoint site, without goups services
+- I need "only" a SharePoint site, without groups services
 - Sites for SharePoint based apps, also for Power Apps
 - A site with lists and libraries with a lot different permissions
 
