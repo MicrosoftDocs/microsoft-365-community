@@ -1,6 +1,6 @@
 ---
 title: The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency
-ms.date: 1/24/2022
+ms.date: 12/10/2024
 author: nikki-c
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -55,6 +55,9 @@ To address the gap between compliance and security many organizations also follo
 :::image type="content" source="media/microsoft365-maturity-model--governance-and-compliance/grc-competency-overview.png" alt-text="Governance, Risk, and Compliance Competency Levels":::
 
 See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
+
+> [!NOTE]
+> Some characteristics should, perhaps, be addressed a little more urgently than others; these have been marked with the 'Sparkles' emoji: ✨
 
 ### Level 100 - Initial
 
@@ -117,17 +120,17 @@ At this maturity level organizations acknowledge compliance regulations and stan
 #### Process (200)
 
 - Governance and compliance management is local, uncoordinated or sporadic It is dependent on individual people to action and monitor.
-- Processes exist but are manual and lack standardization, making it hard to measure their effectiveness, enforce them or obtain an overview of activity and status.
+- ✨ Processes exist but are manual and lack standardization, making it hard to measure their effectiveness, enforce them or obtain an overview of activity and status.
 - Limited collaboration between compliance and operational teams. Often compliance is an afterthought.
 - Response to incidents is reactive /ad hoc, lacking consistency, formality and may result in ineffective actions.
 - Risk management is perceived as a process.
 
 #### Technology (200)
 
+- ✨ Basic technical controls may exist but may not be appropriately implemented to ensure compliance.
+- ✨ Technical controls to manage retention and deletion exist, however there are minimal processes to implement these effectively; retention and deletion is largely a manual, ad hoc activity, though there may be reminders and triggers in processes to act as prompts.
 - Storage locations for documentation and supporting evidence are inconsistent and fragmented.
-- Basic technical controls may exist but may not be appropriately implemented to ensure compliance.
 - There is a tendency to focus on email rather than a wider view of content and processes that need to be compliant.
-- Technical controls to manage retention and deletion exist, however there are minimal processes to implement these effectively; retention and deletion is largely a manual, ad hoc activity, though there may be reminders and triggers in processes to act as prompts.
 
 #### Impacts (200)
 
@@ -153,42 +156,43 @@ Processes measured and controlled
 
 #### People and Culture (300)
 
-- The leadership team see compliance as essential to business continuity and may value the rigor as a business improvement tool.
-- Compliance roles and responsibilities are assigned to accountable individuals, who have been trained but may lack expertise and experience. They understand the importance of the role and will reach out, reactively to legal and other experts for guidance and counsel.
-- Where GRC sits across multiple departments and activities in the organization individuals with those roles will coordinate their activities, possibly through a Compliance committee or similar mechanism.
-- A Compliance framework, in some form, has been documented and communicated to process owners. However, the implementation decisions are left to local business and system owners so GRC initiatives are managed in silos.
+- ✨ The leadership team see compliance as essential to business continuity and may value the rigor as a business improvement tool.
+- ✨ Compliance roles and responsibilities are assigned to accountable individuals, who have been trained but may lack expertise and experience. They understand the importance of the role and will reach out, reactively to legal and other experts for guidance and counsel.
+- ✨ A Compliance framework, in some form, has been documented and communicated to process owners. However, the implementation decisions are left to local business and system owners so GRC initiatives are managed in silos.
+- ✨ Training, education, and awareness are run annually. Staff have a broad awareness of their responsibilities.
 - Compliance activities are frequently event driven, such as an audit or a regulatory deadline.
-- Training, education, and awareness are run annually. Staff have a broad awareness of their responsibilities.
+- Where GRC sits across multiple departments and activities in the organization individuals with those roles will coordinate their activities, possibly through a Compliance committee or similar mechanism.
 - The organization invests significant time on stakeholder education, ensuring that the new ways of working together and the value of risk and adopting compliant processes are understood. However, commitment to upholding standards varies across the organization.
 
 #### Process (300)
 
-- There are staff with a role that includes monitoring regulatory updates and translating them into new company policies. In large organizations or those in industries with strong compliance needs, example roles may include Director of Compliance, General Counsel, Senior Information Risk Officer, Data Protection Officer). In smaller organizations it is likely to sit with members of the executive team or the functional head of departments with strong compliance alignment. This is in addition to staff dedicated to security measures (for example a Chief Information Security Officer).
-- The organization measures and assesses controls and activity, but largely at an individual or devolved level.
-- Risk level is periodically reviewed & updated.
-- Limited information and records available for audit, these are generally specific to the function rather than providing an aggregated or holistic vie.
+- ✨ There are staff with a role that includes monitoring regulatory updates and translating them into new company policies. In large organizations or those in industries with strong compliance needs, example roles may include Director of Compliance, General Counsel, Senior Information Risk Officer, Data Protection Officer). In smaller organizations it is likely to sit with members of the executive team or the functional head of departments with strong compliance alignment. This is seperate from or in addition to staff dedicated to security measures (for example a Chief Information Security Officer).
+- ✨ Risk level is periodically reviewed & updated.
+- ✨ Limited information and records are available for audit, these are generally specific to the function rather than providing an aggregated or holistic vie.
 - There is limited or misplaced confidence that all governance and compliance risks are known and managed.
-- There are systems, tools and processes for managing the Governance, Risk and Compliance processes. While these vary according to the standards and requirements imposed, they may include: training and knowledge content; risk, issue and status logs; asset and impact lists; action plans; processes for reviews and updates; systematic audits and assessments, staff training and competency logs.
-- Strong content management tools and processes that include effective lifecycle management are in place.
+- ✨ There are systems, tools and processes for managing the Governance, Risk and Compliance processes. While these vary according to the standards and requirements imposed, they may include: training and knowledge content; risk, issue and status logs; asset and impact lists; action plans; processes for reviews and updates; systematic audits and assessments, staff training and competency logs.
+- ✨ Strong content management tools and processes that include effective lifecycle management are in place.
+- The organization measures and assesses controls and activity, but largely at an individual or devolved level.
 
 #### Technology (300)
 
-- Has a central (digital) system of record for compliance. However, usage varies across the organization and local solutions may be in use.
+- ✨ Technical controls to manage retention and deletion are in use and are generally effective for recognized classes of content (e.g. finance and HR files). A degree of automation supports this, reducing user burden and driving some level of consistency.
+- There is a central (digital) system of record for compliance. However, usage varies across the organization and local solutions may be in use.
 - Software solutions are used but typically in a tactical manner, without a thought for a broader set of requirements. This results in multiple systems to manage individual governance, risk and compliance initiatives, each operating in its own silo.
 - Governance, risk and compliance controls are implemented but are reliant on the user to apply the right controls to the right content.
-- Technical controls to manage retention and deletion are in use and are generally effective for recognized classes of content (e.g. finance and HR files). A degree of automation supports this, reducing user burden and driving some level of consistency.
 - Use of automated tagging, sensitivity labelling and policies is not broadly or well implemented, though it may be being piloted.
 
 #### Impacts (300)
 
 At this level:
 
-- The organization starts to build a compliance culture with roles and responsibilities being defined.
-- A Governance, Risk and Compliance framework, consisting of strategy, policies, processes, controls, technologies and staff competence, is implemented. However, implementation is uncoordinated and siloed
-- Employees start to understand the impact of non-compliance in their job roles.
+- ✨ The organization starts to build a compliance culture with roles and responsibilities being defined.
+- ✨ Employees start to understand the impact of non-compliance in their job roles.
+- ✨ There are processes for dealing with finding, breaches and risks, however there are gaps and a tendency to be reactive.
+- A Governance, Risk and Compliance framework, consisting of strategy, policies, processes, controls, technologies and staff competence, is implemented. However, implementation is uncoordinated and siloed.
 - eDiscovery investigations are still complex and costly as multiple versions of data exist
 - Not all Governance, Risk and Compliance risks are addressed and there are frequently unknown risks.
-- There are processes for dealing with finding, breaches and risks, however there are gaps and a tendency to be reactive.
+
 
 ### Level 400 - Predictable
 
@@ -201,33 +205,35 @@ Proactive rather than reactive
 
 #### People and Culture (400)
 
-- The leadership team sees value in continuously improving the governance, risk and compliance program. Governance, risk and compliance are factored into all business decisions and GRC is represented at board level.
-- Dedicated teams and individuals are in place with clearly defined roles and responsibilities. The limits of competency are understood, with supporting metrics, and reflected in defined decision making authority for accountable individuals. Processes are in place to support GRC decision making when these limits are reached, with defined access to legal and other expert external advisors.
- Compliance and operations teams work in partnership to assess risk and compliance. 
+- ✨ The leadership team sees value in continuously improving the governance, risk and compliance program. Governance, risk and compliance are factored into all business decisions and GRC is represented at board level.
+- ✨ Dedicated teams and individuals are in place with clearly defined roles and responsibilities. The limits of competency are understood, with supporting metrics, and reflected in defined decision making authority for accountable individuals. Processes are in place to support GRC decision making when these limits are reached, with defined access to legal and other expert external advisors.
+- ✨ Compliance and operations teams work in partnership to assess risk and compliance. 
+- ✨ Training, education, and awareness includes annual training matched to business needs. Who has been trained in what is tracked.
 - Compliance workloads are reduced through standardization, process improvements and use of technology.
 - Policy communications are routine and semi-automated. Most employees understand the importance of risk and compliance and their role in protecting the organization.
-- Training, education, and awareness includes annual training matched to business needs. Who has been trained in what is tracked.
 - Regular training needs analysis for compliance training is undertaken to identity gaps and improve content.
 
 #### Process (400)
 
-- Conversations about risks and compliance are held at all levels of the organization and compliance is embedded into business processes.
-- Organization wide processes and policies are streamlined & simplified, they are reviewed and updated as needed according to an approved schedule.
-- Process metrics are in place, controls monitored, and compliance is measured.
-- Feedback processes are used to improve consistency.
-- There are mechanisms to continuously assess compliance control and process gaps to prevent compliance failures.
+- ✨ Conversations about risks and compliance are held at all levels of the organization and compliance is embedded into business processes.
+- ✨ Organization wide processes and policies are streamlined & simplified, they are reviewed and updated as needed according to an approved schedule.
+- ✨ Process metrics are in place, controls monitored, and compliance is measured.
+- ✨ Feedback processes are used to improve consistency.
+- ✨ There are mechanisms to continuously assess compliance control and process gaps to prevent compliance failures.
+- ✨ Business continuity planning and disaster recovery plans are well developed, maintained and tested.
 - A data architecture has been implemented to govern which data is collected, how it is used, where it is stored, how long it is stored when it is destroyed  
-- Business continuity planning and disaster recovery plans are well developed, maintained and tested.
+
 
 #### Technology (400)
 
+- ✨ There is a central digital system of record to manage compliance program and to store evidence.
+- ✨ Content can be shared across organizational boundaries enabling efficient and secure collaboration with partners, clients, and other third parties without loss of control or governance.
+- ✨ Integrated dashboards, balanced scorecards etc. are available to executives and across the organization as needed.
+- Compliance specific solutions are purchased to manage compliance requirements.
+- There is an auditable history of data activities with an understanding of how it can help support effective Governance, Risk and Compliance.
 - Productivity and analytical tools are in place to make tracking tasks, reporting and collaboration easy.
 - Compliance controls are automated and tailored to different usage scenarios.
-- There is a central digital system of record to manage compliance program and to store evidence.
-- There is an auditable history of data activities with an understanding of how it can help support effective Governance, Risk and Compliance.
-- Content can be shared across organizational boundaries enabling efficient and secure collaboration with partners, clients, and other third parties without loss of control or governance.
-- Compliance specific solutions purchased to manage compliance requirements.
-- Integrated dashboards, balanced scorecards etc. are available to executives and across the organization as needed.
+
 
 #### Impacts (400)
 
@@ -251,29 +257,30 @@ Organizations at this level use technology strategically to gain operational eff
 
 #### People and Culture (500)
 
-- Leadership team sees value in achieving compliance as providing a strategic advantage to the organization.
-- The dedicated compliance team now includes a focus on strategy, is future looking, proactively identifying emerging  regulation and market change to understand the impact, risks and opportunities for the business; these are fed into the board as a basis for strategic decision making. Process improvement and continuous professional development for the accountable people is embedded int eh GRC and executive functions.
-- Collaboration between the compliance team, security team, operations teams, and system owners to ensure systems (e.g., data storage and processing systems) are secure and compliant by design.
+- ✨ The leadership team sees value in achieving compliance as providing a strategic advantage to the organization.
+- ✨ The dedicated compliance team now includes a focus on strategy, is future looking, proactively identifying emerging  regulation and market change to understand the impact, risks and opportunities for the business; these are fed into the board as a basis for strategic decision making. Process improvement and continuous professional development for the accountable people is embedded int eh GRC and executive functions.
+- ✨ There is a pervasive compliance culture where all employees understand the importance of compliance and their role in protecting the organization.
+- ✨ Collaboration occurs between the compliance team, security team, operations teams, and system owners to ensure systems (e.g., data storage and processing systems) are secure and compliant by design.
 - Compliance workload shifts from administrative to strategic (due to automation).
-- Decision-makers becoming risk seeking rather than risk adverse, knowing that they can and must manage the risks they identify.
-- There is a pervasive compliance culture where all employees understand the importance of compliance and their role in protecting the organization.
+- ✨ Decision-makers becoming risk seeking rather than risk adverse, knowing that they can and must manage the risks they identify.
+
 
 #### Process (500)
 
 - Compliance and risk are coordinated across upstream and downstream processes / requirements to ensure consistency.
-- The organization proactively reviews and updates risk and compliance metrics to address gaps and prevent compliance failures. Results are monitored & used for continuous improvement.
+- ✨ The organization proactively reviews and updates risk and compliance metrics to address gaps and prevent compliance failures. Results are monitored & used for continuous improvement.
 - Processes and controls and reporting are automated and centralized
-- Independent information security compliance standards such as ISO/IEC 27001 are used to benchmark best practice and align security and compliance.
-- Metrics are used to measure and improve collaboration outcomes and these metrics are clearly connected to business strategy.
-- Compliance embedded in strategic planning as well as in daily strategic and tactical decision-making.
-- Business continuity planning and disaster recovery are regularly tested.
+- ✨ Independent information security compliance standards such as ISO/IEC 27001 are used to benchmark best practice and align security and compliance.
+- ✨ Metrics are used to measure and improve collaboration outcomes and these metrics are clearly connected to business strategy.
+- Compliance is embedded in strategic planning as well as in daily strategic and tactical decision-making.
+- ✨ Business continuity planning and disaster recovery are regularly tested.
 - Compliance processes and practices are externally audited.
 
 #### Technology (500)
 
-- Compliance and DLP rules are comprehensively applied and enforced.
+- ✨ Compliance and DLP rules are comprehensively applied and enforced.
 - Controls are automated and subject to continuous improvement
-- Tailored compliance controls with policy enforcement are implemented to provide different levels of protection during collaboration depending on sensitivity, risk, and environment.
+- ✨ Tailored compliance controls with policy enforcement are implemented to provide different levels of protection during collaboration depending on sensitivity, risk, and environment.
 - The organization invests in compliance management solutions that encompass multiple systems.
 
 #### Impacts (500)
@@ -284,7 +291,7 @@ Compliance maturity is benchmarked against industry best practice.
 
 ## Scenarios
 
-TBD - please submit suggestions or role plays for this
+<!--- TBD --->
 
 ## Cost & benefit
 
