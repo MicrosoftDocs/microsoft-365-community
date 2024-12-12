@@ -55,7 +55,9 @@ To address the gap between compliance and security many organizations also follo
 :::image type="content" source="media/microsoft365-maturity-model--governance-and-compliance/grc-competency-overview.png" alt-text="Governance, Risk, and Compliance Competency Levels":::
 
 See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
-Note: Some characteristics should, perhaps, be addressed a little more urgently than others; these have been marked with the 'Sparkles' emoji: ✨
+
+> [!NOTE]
+> Some characteristics should, perhaps, be addressed a little more urgently than others; these have been marked with the 'Sparkles' emoji: ✨
 
 ### Level 100 - Initial
 
