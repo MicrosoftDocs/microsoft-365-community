@@ -289,7 +289,7 @@ Compliance maturity is benchmarked against industry best practice.
 
 ## Scenarios
 
-TBD - <please submit suggestions or role plays for this>
+<!--- TBD --->
 
 ## Cost & benefit
 
