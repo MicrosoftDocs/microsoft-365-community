@@ -18,13 +18,15 @@ ms.collection: M365Community
 
 The [Maturity Model for Microsoft 365](microsoft365-maturity-model--intro.md) is a useful tool for considering high level business capabilities and competencies, providing benchmarking, and planning guidance. However, practical application of the Maturity Model to specific tasks and needs is not addressed in the Competency or Elevate documents. The Practical Scenarios documents seek to address this, providing easily digestible guidance and strategy for focused topics.
 
-This Practical Scenarios document covers service change management as surfaced in the [Microsoft 365 Admin Center](https://admin.cloud.microsoft/?source=applauncher#/homepage), specifically in the Message Center. Frequent review of Message Center Messages should be a key practice in operational management of Microsoft 365 (including Power Platform).
+This Practical Scenarios document covers service heal management as surfaced in the [Microsoft 365 Admin Center](https://admin.cloud.microsoft/?source=applauncher#/homepage), specifically in the Service Health Dashboard. Use of the Service Health Dashboard should be a key practice in operational management of Microsoft 365 (including Power Platform).
 
-Note that we distinguish Service Change Management from Service Health Management.  Service Change Management is about planned change, including the arrival of new features and capabilities and the departure via deprecation of exisitng features and communication about these changes. Service Health Management is about unplanned service failures and outages and communication about service health incidents.
-
+Note that we distinguish Service Health Management from Service Change Management. Service Health Management is about unplanned service failures and outages and communication about service health incidents.
+Service Change Management is about planned change, including the arrival of new features and capabilities and the departure via deprecation of exisitng features and communication about these changes. 
+Note that planned outages, such as for a Power Platform service upgrade, are communicated via the Message Center.
+ 
 ## Introduction to Service Health Management
 
-The [Microsoft 365 Admin Center](https://admin.cloud.microsoft/#/homepage) provides the Service Health Dashboard and an API.
+The [Microsoft 365 Admin Center](https://admin.cloud.microsoft/#/homepage) provides the Service Health Dashboard, the Message Center, and an API through which service health and message center data can be accessed.
 
 ## Applying the Maturity Model to Service Change Management
 
