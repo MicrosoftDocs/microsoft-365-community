@@ -30,9 +30,9 @@ There are many ways to learn about upcoming changes.  There is the M365 Product 
 
 ![Messages in the Microsoft 365 Admin Center mobile app](media/maturity-model-microsoft365-servicing-microsoft365-service-change-management\advisories-mobile.jpg)
 
-Microsoft makes planned service changes to the M365 services daily, resulting in over 1400 change announcements per year. Effective IT operations will maintain awareness of current and future changes and assess their impacts on the organization and its people and processes. These changes are primarily announced via the [Message Center](https://admin.cloud.microsoft/?source=applauncher#/MessageCenter), with support from the [Microsoft 365 roadmap](https://www.microsoft.com/microsoft-365/roadmap) and supporting Microsoft official blogs.
+Microsoft makes planned service changes to the M365 services daily, resulting in over 1400 change announcements per year. Effective IT operations will maintain awareness of current and future changes and assess their impacts on the organization and its people and processes. These changes are primarily announced via the [Message Center](https://admin.cloud.microsoft/?source=applauncher#/MessageCenter), with support from the [Microsoft 365 roadmap](https://www.microsoft.com/microsoft-365/roadmap) and supporting Microsoft official blogs, usually on the [Microsoft Technical Community site](https://techcommunity.microsoft.com/).
 
-Service Change management for Microsoft 365 involves triaging the change announcements (messages in the Message Center) and determining what action is required, if any.
+Service Change management for Microsoft 365 involves triaging the change announcements (messages in the Message Center) and determining what action is required, if any. In organizations with sufficient IT staff tasked with managing their Microsoft products, this is a team activity.
 
 ## Applying the Maturity Model to Service Change Management
 
@@ -61,15 +61,14 @@ Service Change management for Microsoft 365 involves triaging the change announc
 
 ## Level 400 - Managed (Capable)
 
-- Message Center is configured to pump announcements to Planner as Tasks. Each week, relevant IT staff meet to review the new tasks and assess if action is required or not.
+- Message Center is configured (using [Planner Sync](https://learn.microsoft.com/en-us/planner/track-message-center-tasks-planner)) to pump announcements to Planner as Tasks. Each week, relevant IT staff meet to review the new tasks and assess if action is required or not.
 - Task status (Not started, in progress, or closed) is monitored and reprioritized and impact of actions taken is reviewed.
 - As a result of the tasks identified, meetings take place between relevant IT staff and selected business staff.  For example, IT staff might meet with the business owner of the intranet, department representatives, roles responsible for employee experience, internal communications, and/or learning and professional development.
 - The length of time that tasks remain open and the effect of actions taken is tracked and reported on.
 - Effectiveness of change communications is measured.
 - Change announcements that are unclear or have a negative impact are given a Thumbs Down feedback in Message Center. Support tickets may be opened as a result of Message Center posts. If the organization has the benefit of a having a dedicated proactive support team (sometimes refered to as a support pod) from Microsoft as part of their support agreement with Microsoft, message center announcements that cause concern or question are brought to that team weekly for investigation.
-- Selected changes are brought into the organization's existing change management processes, such as being brought before a Change Review Board. Bringing changes from Message Center or Planner into the enterprise change management tool that the Change Review Board and Change Owners use is a manual process at this level.
+- Selected changes are brought into the organization's existing change management processes, such as being brought before a Change Review Board. Bringing changes from Message Center or Planner into the enterprise change management tool that the Change Review Board and Change Owners use is often a manual process at this level. 
 - Other sources of change information such as the following are also reviewed at an appropriate (weekly, bi-weekly, monthly, or annually) cadence, including:
-
 -- The Book of News published on the first day of the Microsoft Ignite and Microsoft Build conferences
 -- Posts about product announcements from Microsoft staff and Microsoft MVPs on social networks such as X or LinkedIn 
 -- The monthly Technical Update Briefing that Microsoft can provide to its customers that have paid for access to a proactive support team
@@ -77,16 +76,25 @@ Service Change management for Microsoft 365 involves triaging the change announc
 -- The [Message Center Show on YouTube](https://www.youtube.com/@365MCS) 
 -- Internal business conditions, projects, and priorities
 
+  For more information on using Planner Sync in Message Center, also see the slides from [session THR586 at Microsoft Ignite 2024](https://www.slideshare.net/slideshow/what-s-new-in-copilot-in-your-tenant-ignite-2024-thr586-pptx/273606182)
+
 ## Level 500 - Optimizing (Efficient)
 
-- At Level 500, the organization has invested in a change management solution that goes beyond what Planner can offer. This solution is aware of who in the organization is responsible for managing what workload and is designed to streamline all processes for managing these changes. This process may be enterprise-wide, so that its scope is to manage application change announcements across all applications in use in the enterprise, not just M365 applications.
+At Level 500, the organization has invested in a change management solution that goes beyond what Planner can offer. Characteristics of a level 500 maturity of service change management processes are:
+- This solution is aware of who in the organization is responsible for managing what workload and is designed to streamline all processes for managing these changes.
+  -- This process may be enterprise-wide, so that its scope is to manage application change announcements across all applications in use in the enterprise, not just M365 applications.
+  -- Alternatively, the process may be specific to Microsoft applications but heavily customized and automated, such as with custom workflows that automate a variety of dependent business processes such as submitting tasks into the enterprise change control system so they get reviewed by the Change Review Board or submitting communication support requests to the internal communications team. 
+  -- Or it could be a combination thereof.
+- This can be a homegrown or 3rd party solution.
+- If an organization operates more than one tenancy, effort is spent on automatically deduplicating Message Center announcements in order to eliminate the effort needed to triage the same post in different tenants. 
 - Workflows and communications processes are in place to automatically notify appropriate staff of forthcoming changes. Communications are as targeted as possible.   Effectiveness of communications is measured and feeds into continuous improvement efforts. 
-- Some staff across the business are engaged in preview activities such as Insider programs and use these collaboratively assess impacts and make recommendations. These feed into strategic technology and business change activities.
+- Some staff across the business are engaged in preview activities such as Insider programs and use these to assess the impact of upcoming changes and make recommendations. These feed into strategic technology management, employee experience management, and business change activities.
 - Impacts of changes are actively monitored, and new ways of working are introduced and updated in response to feedback and analysis.
 - The organization actively provides feedback to Microsoft around the changes and requests changes via the Microsoft Feedback portal and their Microsoft acount team (if they have one).
-- Support staff actively maintain their knowledge of current and forthcoming technologies and are prepared when incidents or staff needs arise from these.
-- IT staff are engaged in preview activities such as Insider programs and use these to assess impacts and make recommendations.
+- Support staff actively maintain their knowledge of current and forthcoming technologies and are prepared when incidents or support needs arise from these.
 ---
+
+This model is intended to give you a reference and some inspiration for improving your service change management processes. Feedback is always welcome.
 
 **Principal author**: [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/)
 
