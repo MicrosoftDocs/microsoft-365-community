@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority:  
+ms.localizationpriority: Low
 description: How to Share Org-Wide Communications in Microsoft 365
 ms.collection: M365Community 
 --- 

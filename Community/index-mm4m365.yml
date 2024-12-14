@@ -13,7 +13,7 @@ metadata:
   author: pamgreen #Required; your GitHub user alias, with correct capitalization.
   ms.author: pamgreen #Required; microsoft alias of author; optional team alias.
   ms.date: 07/12/2022 #Required; mm/dd/yyyy format
-  localization_priority: Priority
+  ms.localizationpriority: Low
 
 # linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | tutorial | video | whats-new
 
@@ -46,7 +46,7 @@ landingContent:
         links:
           - text: Business Process Competency
             url: microsoft365-maturity-model--business-process.md
-          - text: Cognitive Business Competency
+          - text: AI & Cognitive Business Competency
             url: microsoft365-maturity-model--cognitive-business.md
           - text: Collaboration Competency
             url:  microsoft365-maturity-model--collaboration.md

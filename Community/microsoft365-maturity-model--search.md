@@ -7,7 +7,7 @@ ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
 ms.service: microsoft-365
-localization_priority:
+ms.localizationpriority: Low
 description: Maturity Model for Microsoft 365 - Search Competency
 ms.collection: M365Community
 ---

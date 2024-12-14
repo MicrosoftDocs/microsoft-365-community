@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: microsoft-365
-localization_priority: 
+ms.localizationpriority: Low
 description: "A short guide on selecting a naming convention in Microsoft Teams."
 ms.collection: M365Community
 ---

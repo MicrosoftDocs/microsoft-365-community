@@ -6,7 +6,7 @@ ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
-localization_priority:
+ms.localizationpriority: Low
 description: "Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces"
 ms.collection: M365Community
 ms.service: outlook

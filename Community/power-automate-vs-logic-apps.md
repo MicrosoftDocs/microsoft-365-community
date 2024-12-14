@@ -7,7 +7,7 @@ ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
 ms.service: power-platform
-localization_priority: 
+ms.localizationpriority: Low
 description: "Power Automate vs Logic Apps"
 ms.collection:  SPCommunity
 ---

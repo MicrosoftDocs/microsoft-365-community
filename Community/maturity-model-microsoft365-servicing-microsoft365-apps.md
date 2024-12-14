@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: microsoft-365
-localization_priority:
+ms.localizationpriority: Low
 description: Maturity Model for Microsoft 365 Practical Scenarios – Servicing Microsoft 365 Apps
 ms.collection: M365Community
 ---

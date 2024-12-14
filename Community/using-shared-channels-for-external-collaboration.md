@@ -7,7 +7,7 @@ ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: article
 ms.service: microsoft-365
-localization_priority: 
+ms.localizationpriority: Low
 description: A short guide on setting up Shared Channels for Cross-Tenant (External) Collaboration.
 ms.collection: M365Community
 ---

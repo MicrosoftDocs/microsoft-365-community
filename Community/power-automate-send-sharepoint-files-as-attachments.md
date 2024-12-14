@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: power-platform
-localization_priority: 
+ms.localizationpriority: Low
 description: "Power Automate - Send SharePoint files as attachments"
 ms.collection: M365Community
 ---

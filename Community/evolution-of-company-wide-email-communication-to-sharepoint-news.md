@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority: 
+ms.localizationpriority: Low
 description: The Evolution of Company-wide Email Communication to SharePoint News
 ms.collection: M365Community
 ---

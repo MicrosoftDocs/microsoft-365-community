@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: sharepoint-online
-localization_priority:
+ms.localizationpriority: Low
 description: Best practices and strategies for building and operating large SharePoint Lists and Libraries well above the 5000 item threshold.
 ms.collection: M365Community
 ---

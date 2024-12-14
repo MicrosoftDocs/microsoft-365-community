@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: o365-solutions
-localization_priority:
+ms.localizationpriority: Low
 description: Maturity Model for Microsoft 365 - Communication Competency
 ms.collection: M365Community
 ---
@@ -36,6 +36,7 @@ Communication professionals will sometimes refer to the [Principles of Communica
 ## Evolution of this competency
 
 See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
+Note: Some characteristics should, perhaps, be addressed a little more urgently than others; these have been marked with the 'Sparkles' emoji: ✨
 
 ### Level 100 - Initial
 
@@ -84,21 +85,21 @@ Processes are documented or managed by a central group to enable (but not enforc
 
 - Nominated functions for reviewing/creating/releasing some classes of communications, i.e. nominated communications roles.
 - A policy is available to guide users on appropriate communications and there are mechanisms to support them.
-- Example ‘tone of voice’ guidance, reinforcement of company values and phrases (including mission statements).
+- ✨ Example and guidance are provided for ‘tone of voice’ guidance, reinforcement of company values and phrases (including mission statements).
 
 #### 200 Information Architecture
 
-- Some degree of targeting, based on groups and distribution lists; users are not necessarily aware of the ability to do this
-- Basic mechanisms for prioritization of higher importance messaging exist, but are ungoverned
+- Some degree of targeting is implemented, based on groups and distribution lists; users are not necessarily aware of the ability to do this.
+- ✨ Basic mechanisms for prioritization of higher importance messaging exist, but may be ungoverned.
 
 #### 200 Content
 
-- Use of templates for messages, newsletters, documents are in place, but not enforced
-- Standardized images and logos (stored in a shared location)
-- More than a single method of pushing communication to internal users, leading to some consideration of which tool in the portfolio is best for specific communication
-- Publication of key messages to an intranet or other persistent system for ad hoc access and later retrieval
-- Some mechanisms for feedback or further interaction resulting from communications
-- Ability to schedule future communications
+- Use of templates for messages, newsletters, documents are in place, but not enforced.
+- ✨ Standardized images and logos are stored in a shared location, but with minimal control.
+- More than a single method of pushing communication to internal users is used, leading to some consideration of which tool in the portfolio is best for specific communication.
+- ✨ There is publication of key messages to an intranet or other persistent system for ad hoc access and later retrieval.
+- Some mechanisms for feedback or further interaction resulting from communications have been established.
+- Ability to schedule future communications is available.
 
 #### 200 Impacts
 
@@ -112,24 +113,24 @@ The process is well defined and agreed as a standard business process. There are
 
 #### 300 Governance, Risk, Compliance & Security
 
-- Communications policies are published and widely understood; some monitoring and reinforcement is in place.
-- Guidance exists on writing style; spelling and grammar checking is in active use.
+- ✨ Communications policies are published and widely understood; some monitoring and reinforcement is in place.
+- ✨ Guidance exists on writing style; spelling and grammar checking is in active use.
 - Feedback and corrections are acted on.
-- Brand guidelines cover internal as well as external use.
+- ✨ Brand guidelines cover internal as well as external use.
 
 #### 300 Information Architecture
 
-- Different communication mechanisms/channels are understood at an organizational level and often used effectively by staff
+- Different communication mechanisms/channels are understood at an organizational level and often used effectively by staff.
 - The purpose of different types of communication are considered and understood and appropriate strategies are defined for different categories and constraints.
-- The portfolio of communication options is broader, and a clear set of rules determine which to use for specific content types
-- Mechanisms exist for sharing localized messages with other parts of the organization; these are based on author judgement
+- The portfolio of communication options is broader, and a clear set of rules determine which to use for specific content types.
+- ✨ Mechanisms exist for sharing localized messages with other parts of the organization; these are based on author judgement.
 
 #### 300 Content
 
-- Templates, images, and logo assets etc. are available and encouraged.
-- Top down, bottom up, and peer to peer communications are supported
-- Mechanisms to prioritize messages exist in multiple channels, are well defined and broadly understood
-- Basic, mostly manual mechanisms are in place for scheduling communication, updating, removing or archiving superseded or expired communications.
+- ✨ Templates, images, and logo assets etc. are available and encouraged.
+- ✨ Top down, bottom up, and peer to peer communications are supported.
+- Mechanisms to prioritize messages exist in multiple channels, are well defined and broadly understood.
+- ✨ Basic, mostly manual mechanisms are in place for scheduling communication, updating, removing or archiving superseded or expired communications.
 
 #### 300 Impacts
 
@@ -146,24 +147,24 @@ The communication process is actively managed in accordance with agreed processe
 #### 400 Governance, Risk, Compliance & Security
 
 - Message life cycle management ensures timeliness, approvals, moderation, accuracy, tracking, and removal at the appropriate time.
-- Logs, feedback, site usage etc. confirms that content and messages are being received and that tracking analytics and reporting are available
+- ✨ Logs, feedback, site usage etc. confirms that content and messages are being received and that tracking analytics and reporting are available.
 
 #### 400 Information Architecture
 
-- Communications are displayed in as many locations as needed, in the proper context, but without duplication of content.
-- Individuals, groups and roles are consistently targeted, based on well-maintained profiles and tagging
-- Different media types are employed to ensure reach and comprehension across the workforce, e.g. live chat, published documents and pages, live briefings, on demand video and podcast/audio (for road warriors, for example)
-- The process for aggregating information from multiple sources, or for pushing messages from one part of an organization to another are actively curated
+- ✨ Communications are displayed in as many locations as needed, in the proper context, but without duplication of content.
+- Individuals, groups and roles are consistently targeted, based on well-maintained profiles and tagging.
+- Different media types are employed to ensure reach and comprehension across the workforce, e.g. live chat, published documents and pages, live briefings, on demand video and podcast/audio (for road warriors, for example).
+- The process for aggregating information from multiple sources, or for pushing messages from one part of an organization to another are actively curated.
 
 #### 400 Content
 
-- Templates and standards are mandated and embedded in the communication process
+- ✨ Templates and standards are mandated and embedded in the communication process.
 - Mechanisms to prioritize messages are standardized and broadly adopted.
-- Processes exist to manage inappropriate use and these processes are connected to incentives
-- [Organizational Assets](/sharepoint/organization-assets-library), such as agreed imagery, iconography, are standardized for communications use.
-- Written content is formatted and presented to support online reading patterns and accessibility standards
+- ✨ Processes exist to manage inappropriate use and these processes are connected to incentives.
+- ✨ [Organizational Assets](/sharepoint/organization-assets-library), such as agreed imagery, iconography, are standardized for communications use.
+- Written content is formatted and presented to support online reading patterns and accessibility standards.
 - Communications are sampled for style, effectiveness etc. and guidance on improvement is offered.
-- Some Compliance and DLP rules are enabled
+- Some Compliance and DLP rules are enabled.
 
 #### 400 Impacts
 
@@ -177,9 +178,9 @@ Management of the communication process includes deliberate and systematic proce
 
 #### 500 Governance, Risk, Compliance & Security
 
-- Communications are automatically sampled for style, effectiveness etc. and guidance on improvement is implemented.
-- Communication training is provided across multiple media types.
-- Lifecycle management is strongly implemented and largely automated.
+- ✨ Communications are automatically sampled for style, effectiveness etc. and guidance on improvement is implemented.
+- ✨ Communication training is provided across multiple media types.
+- ✨ Lifecycle management is strongly implemented and largely automated.
 - Compliance and DLP rules are comprehensively applied and enforced.
 
 #### 500 Information Architecture
@@ -190,10 +191,10 @@ Management of the communication process includes deliberate and systematic proce
 
 #### 500 Content
 
-- Formatting and publication of content to different media types is automated or instantiated in robust processes (e.g. text to speech, speech to text, automated publishing, multi-lingual or multi-cultural content)
+- ✨ Formatting and publication of content to different media types is automated or instantiated in robust processes (e.g. text to speech, speech to text, automated publishing, multi-lingual or multi-cultural content).
 - Longitudinal communications are well understood and carefully managed.
 - A-B testing of messaging may be in place.
-- Focus time (non-communication periods) are encouraged and protected.
+- ✨ Focus time (non-communication periods) are encouraged and protected.
 
 #### 500 Impacts
 
