@@ -38,15 +38,17 @@ The [Microsoft 365 Admin Center](https://admin.cloud.microsoft/#/homepage) provi
 
 ## Level 200 – Managed
 
-- Someone in the organization reviews the Service Health Dashboard.
-- Little or no planning takes place to introduce or mitigate the effects of incidents organizationally, though some teams may be effective at taking local action.
+-The Service Health Dashboard is reviewed only when incidents are reported to the organization's helpdesk.
+- No formal incident response plan has been created.
 - Service desk or support roles review health advisories reactively in response to user reports.
 
 ## Level 300 – Defined
 
 - Relevant staff receive incident notifications via email
-- Relevant Service Health notifications are emailed to key roles and may be posted to the intranet, Teams and via email.
-- Service desk staff are briefed on Service Health issues.
+- Someone in the organization reviews the Service Health Dashboard, perhaps as often as daily.
+- The organization has documented a formal incident response plan.
+- Relevant end-user-impacting advisories  are communicated to key roles and may be posted to the intranet, the helpdesk ticketing system's landing page, Teams and via email.
+- Service desk staff are briefed on Service Health issues as needed.
 
 ## Level 400 - Managed (Capable)
 
