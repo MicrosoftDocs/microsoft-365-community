@@ -28,7 +28,7 @@ Note that planned outages, such as for a Power Platform service upgrade, are com
 
 The [Microsoft 365 Admin Center](https://admin.cloud.microsoft/#/homepage) provides the Service Health Dashboard, the Message Center, and an API through which service health and message center data can be accessed.
 
-## Applying the Maturity Model to Service Change Management
+## Applying the Maturity Model to Service Health Management
 
 ## Level 100 - Initial
 
@@ -53,12 +53,14 @@ The [Microsoft 365 Admin Center](https://admin.cloud.microsoft/#/homepage) provi
 ## Level 400 - Managed (Capable)
 
 - Service Health issues are assessed for impact and communicated appropriately and across multiple communication channels, with flagging of impact and severity. Staff heed notifications when issued. Mitigation options and advice are provided/implemented.
-- Service desk staff are involved in developing responses to Service Health issues and are prepared to support staff as needed.
+- Service desk staff are involved in developing responses (usually workarounds as it's usually Microsoft's responsibility to fix the issue) to Service Health issues and are prepared to support staff as needed.
 - Staff are advised when incidents are resolved and supported with any remediation needs.
-- IT staff are engaged in preview activities such as Insider programs and use these to assess impacts and make recommendations.
+- Incident response and disaster recovery plans are documented and tested on a regular basis, at least annually.  Many of the steps are manual.
 
 ## Level 500 - Optimizing (Efficient)
-
+- Incident response and disaster recovery plans are documented and tested on a regular basis, at least annually. Much of the response is automated and the organization is seeking to continously improve its response and maximize the level of automation
+- When a service goes down, a well-rehearsed plan is put into action.
+- Service Health status and incident data is monitored through automated systems using the API 
 
 ---
 
