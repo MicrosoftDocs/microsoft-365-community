@@ -82,9 +82,9 @@ Service Change management for Microsoft 365 involves triaging the change announc
 
 At Level 500, the organization has invested in a change management solution that goes beyond what Planner can offer. Characteristics of a level 500 maturity of service change management processes are:
 - This solution is aware of who in the organization is responsible for managing what workload and is designed to streamline all processes for managing these changes.
-  -- This process may be enterprise-wide, so that its scope is to manage application change announcements across all applications in use in the enterprise, not just M365 applications.
-  -- Alternatively, the process may be specific to Microsoft applications but heavily customized and automated, such as with custom workflows that automate a variety of dependent business processes such as submitting tasks into the enterprise change control system so they get reviewed by the Change Review Board or submitting communication support requests to the internal communications team. 
-  -- Or it could be a combination thereof.
+  - This process may be enterprise-wide, so that its scope is to manage application change announcements across all applications in use in the enterprise, not just M365 applications.
+  - Alternatively, the process may be specific to Microsoft applications but heavily customized and automated, such as with custom workflows that automate a variety of dependent business processes such as submitting tasks into the enterprise change control system so they get reviewed by the Change Review Board or submitting communication support requests to the internal communications team. 
+  - Or it could be a combination thereof.
 - This can be a homegrown or 3rd party solution.
 - If an organization operates more than one tenancy, effort is spent on automatically deduplicating Message Center announcements in order to eliminate the effort needed to triage the same post in different tenants. 
 - Workflows and communications processes are in place to automatically notify appropriate staff of forthcoming changes. Communications are as targeted as possible.   Effectiveness of communications is measured and feeds into continuous improvement efforts. 
