@@ -69,12 +69,12 @@ Service Change management for Microsoft 365 involves triaging the change announc
 - Change announcements that are unclear or have a negative impact are given a Thumbs Down feedback in Message Center. Support tickets may be opened as a result of Message Center posts. If the organization has the benefit of a having a dedicated proactive support team (sometimes refered to as a support pod) from Microsoft as part of their support agreement with Microsoft, message center announcements that cause concern or question are brought to that team weekly for investigation.
 - Selected changes are brought into the organization's existing change management processes, such as being brought before a Change Review Board. Bringing changes from Message Center or Planner into the enterprise change management tool that the Change Review Board and Change Owners use is often a manual process at this level. 
 - Other sources of change information such as the following are also reviewed at an appropriate (weekly, bi-weekly, monthly, or annually) cadence, including:
--- The Book of News published on the first day of the Microsoft Ignite and Microsoft Build conferences
--- Posts about product announcements from Microsoft staff and Microsoft MVPs on social networks such as X or LinkedIn 
--- The monthly Technical Update Briefing that Microsoft can provide to its customers that have paid for access to a proactive support team
--- The [product roadmap](https://www.microsoft.com/microsoft-365/roadmap) for Microsoft 365
--- The [Message Center Show on YouTube](https://www.youtube.com/@365MCS) 
--- Internal business conditions, projects, and priorities
+  - The Book of News published on the first day of the Microsoft Ignite and Microsoft Build conferences
+  - Posts about product announcements from Microsoft staff and Microsoft MVPs on social networks such as X or LinkedIn 
+  - The monthly Technical Update Briefing that Microsoft can provide to its customers that have paid for access to a proactive support team
+  - The [product roadmap](https://www.microsoft.com/microsoft-365/roadmap) for Microsoft 365
+  - The [Message Center Show on YouTube](https://www.youtube.com/@365MCS) 
+  - Internal business conditions, projects, and priorities
 
   For more information on using Planner Sync in Message Center, also see the slides from [session THR586 at Microsoft Ignite 2024](https://www.slideshare.net/slideshow/what-s-new-in-copilot-in-your-tenant-ignite-2024-thr586-pptx/273606182)
 
