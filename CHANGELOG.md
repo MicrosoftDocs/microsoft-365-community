@@ -6,6 +6,27 @@
 
 Note: Changelog started in January, 2021
 
+## December, 2024
+
+### New Articles - December, 2024
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - December, 2024
+
+| Article | Updated By |
+|---|---|
+
+### Removed/retired Articles - December, 2024
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - December, 2024
+
+-
+
 ## November, 2024
 
 ### New Articles - November, 2024
@@ -17,6 +38,7 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
+| [The Microsoft 365 Maturity Model – Governance, Risk, and Compliance Competency](./Community/microsoft365-maturity-model--governance-and-compliance.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
 
 ### Removed/retired Articles - November, 2024
 
@@ -41,6 +63,7 @@ Note: Changelog started in January, 2021
 | [Maturity Model for Microsoft 365 - AI & Cognitive Business Competency](./Community/microsoft365-maturity-model--cognitive-business.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
 | [Maturity Model for Microsoft 365 - Collaboration](./Community/microsoft365-maturity-model--collaboration.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
 | [Team Site vs. Communication Site: Which one should I choose?](./Community/team-site-or-communication-site.md) | [Dave Mehr](https://www.linkedin.com/in/david-mehr-055b46181/) |
+| [Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.md) | [Rui Hu](https://www.linkedin.com/in/ruihu-learn/) |
 
 ### Removed/retired Articles - October, 2024
 
@@ -49,7 +72,7 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - October, 2024
 
--
+- [Rui Hu](https://www.linkedin.com/in/ruihu-learn/)
 
 ## September, 2024
 
