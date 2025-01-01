@@ -16,6 +16,7 @@ ms.collection: M365Community
 # Change your organization's display name
   
 You can make changes to your organization profile, such as your organization name, but this change has far reaching implications. **You must be a global admin to update this information.**
+For more information on changing your organizational profile, see [this article](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide)
   
 ## Edit organization information
 
@@ -30,7 +31,7 @@ To change your company's display name:
 
 |**Field**  |**Description**  |
 |---------|---------|
-|Name  <br/>   | The name entered here is the organization's name, also known as the tenant display name. See [Change the organization's name](./change-address-contact-and-more.md#change-the-organizations-name) for more information on where this is used.  <br/>  |
+|Name  <br/>   | The name entered here is the organization's name, also known as the tenant display name.  <br/>  |
 
 ## Change the organization's name
 
