@@ -2,7 +2,7 @@
 
 title: Maturity Model for Microsoft 365 – Infrastructure Competency
 
-ms.date: 21/01/2025
+ms.date: 01/21/2025
 author: SimonJHudson
 ms.reviewer: pamgreen
 manager: pamgreen
