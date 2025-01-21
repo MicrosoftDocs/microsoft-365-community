@@ -257,7 +257,7 @@ The organization begins to see positive impacts on areas like profitability, pro
 
 ### Level 400 - Predictable
 
-Employee Experience is a core activity for the organisation, with executive accountability and metrics that demonstrate the impact on the organization and support its progress.
+Employee Experience is a core activity for the organization, with executive accountability and metrics that demonstrate the impact on the organization and support its progress.
 
 **[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
