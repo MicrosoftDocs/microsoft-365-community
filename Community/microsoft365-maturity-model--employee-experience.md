@@ -1,6 +1,6 @@
 ---
 title:  Maturity Model for Microsoft 365 – Employee Experience Competency
-ms.date: 05/16/2024
+ms.date: 01/21/2025
 author: simonjhudson
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -99,8 +99,6 @@ This is the starting level for a new or dysfunctional organization. Strategy may
 
 #### Growth (100)
 
-At this level you can expect the following:
-
 - There are limited examples of innovation.
 - There is little or no training of either staff or managers.
 - Processes and objectives for improving skills, competence and knowledge are absent; up-skilling by motivated staff is not recognized or rewarded.
@@ -144,7 +142,7 @@ There are efforts to ensure that the company strategy is trickled down to staff.
 
 - There are attempts at informing, including and inspiring staff through briefings and email communication. These tend to be one way. Absent staff hear about what was said second hand and from a variety of sources.  
 - Organizational news tends to be published on the website but not internally.
-- Team members tend to support each other, often in the face of adversity. They socialize, share insights and develop friendships.
+- ✨ Team members tend to support each other, often in the face of adversity. They socialize, share insights and develop friendships.
 - 'Bad actors' often cause frustration and discontent; active intervention to address this is sporadic.
 - The needs of some staff are not adequately addressed and there are observable biases and discrimination.
 - Staff lack trust in leadership, other teams and some colleagues. There are no established tools or processes to allow multiway dialog between colleagues or between staff and leadership, to share and build on ideas or establish communities of interest and expertise.
@@ -155,13 +153,11 @@ There are efforts to ensure that the company strategy is trickled down to staff.
 - A minority of staff say they are actively engaged in surveys.
 - Staff sometimes feel uncertain, frustrated or excluded, often because they do not know why decisions, especially about them and their roles, have been made.  
 - There are occasional attempts to gather staff feedback about employee satisfaction, engagement and possible improvements via surveys and a suggestion box. Many managers solicit feedback and insights from staff, but co-ordination with other managers is limited and ad hoc. There is a lack of consistency in this and in the ability or commitment to act on it.
-- Managers are encouraged to adopt effective line-management approaches, one-to-one and regular team meetings. Active encouragement and mentoring may be included in these.
+- ✨ Managers are encouraged to adopt effective line-management approaches, one-to-one and regular team meetings. Active encouragement and mentoring may be included in these.
 - Staff and managers are concerned for the well-being of their staff, but often lack the knowledge of how best to intervene.
-- Some managers consider employee workload, activities and team composition. Some experiment with skills & capability assessment and team profiles & dynamics.
+- ✨ Some managers consider employee workload, activities and team composition. Some experiment with skills & capability assessment and team profiles & dynamics.
 
 #### Growth (200)
-
-At this level you can expect the following:
 
 - Training is unstructured, inconsistent, and largely left to line managers.  
 - Managers are rarely trained to be effective supervisors and leaders; they are expected to learn on the job.
@@ -169,18 +165,18 @@ At this level you can expect the following:
 - There are some attempts in some teams to share knowledge and best practice. There is little to drive adoption of this and most attempts fall into disuse or have limited impact.
 - Individual objectives prioritize business needs, not personal development.
 - Staff are expected to learn on the job without having access to specific learning resources. Many staff willingly give their time, but this impacts their own productivity without this necessarily being recognized by their line-management.
-- Some individuals may be picked out for mentorships and development.
+- ✨ Some individuals may be picked out for mentorships and development.
 - Some communities of interest emerge spontaneously, largely with organizational support.
 - 'Water-cooler' meetings for informal knowledge exchange and peer to peer learning do occur but are seen as eating into work time in many cases.  
 
 #### Purpose (200)
 
-- Management is conscious of culture and attempt to articulate it. There is some attempt to create coherent values or principles in the business.
+- ✨ Management is conscious of culture and attempt to articulate it. There is some attempt to create coherent values or principles in the business.
 - The organization publishes some form of strategy, vision and/or mission, but this tends to be confused, unapproachable, idealistic or appear unrealistic and unachievable.
 - Objectives are mostly in place, but may not be consistent, tracked or linked to organizational needs.
-- There are 1-to- 1 sessions between managers and staff, though these may be sporadic, lack structure and lack clarity on the purpose of the meetings.
+- ✨ There are 1-to-1 sessions between managers and staff, though these may be sporadic, lack structure and lack clarity on the purpose of the meetings.
 - Equipment and tools that are not fit for purpose or are faulty are slow to be replaced or repaired.
-- Managers and colleagues do what they can to address failures in behavior and professional standards; though they are not exactly clear what the organization’s standards are, relying on their personal values.
+- ✨ Managers and colleagues do what they can to address failures in behavior and professional standards; though they are not exactly clear what the organization’s standards are, relying on their personal values.
 
 #### Impacts 200
 
@@ -200,74 +196,68 @@ The organization understands the key drivers of Employee Experience.
 
 #### Connection (300)
 
-- Tools are in place, including an intranet and other portals which act as hubs or gateways to news, communication, information and connection between staff. This is consistent, regular but not personalized and not always up-to-date. Some members of the leadership team provide updates in the form of blogs or other reflections and staff are enabled to add comments to these.
+- ✨ Tools are in place, including an intranet and other portals which act as hubs or gateways to news, communication, information and connection between staff. This is consistent, regular but not personalized and not always up-to-date. Some members of the leadership team provide updates in the form of blogs or other reflections and staff are enabled to add comments to these.
 - There are useful tools and processes to allow multi-way dialog between colleagues or between staff and leadership, to share and build on ideas. There are active communities of interest and expertise.
-- Staff briefings are captured and can be accessed, sometimes in video form, after the initial briefing. Questions can be raised by staff after the briefings and communications.  
-- The structure of the company is published and maintained. Staff are encouraged to update their profiles, with interests and skill areas as well as such personal information as they are comfortable with, and to engage in communities of interest.
-- The need for inclusiveness is recognized and this is reflected in attempts to ensure accessibility standards are met, that day to day work related needs can be catered for; there isn’t an assumption that 'one size fits all'.
+- ✨ Staff briefings are captured and can be accessed, sometimes in video form, after the initial briefing. Questions can be raised by staff after the briefings and communications.  
+- ✨ The structure of the company is published and maintained. Staff are encouraged to update their profiles, with interests and skill areas as well as such personal information as they are comfortable with, and to engage in communities of interest.
+- ✨ The need for inclusiveness is recognized and this is reflected in attempts to ensure accessibility standards are met, that day to day work related needs can be catered for; there isn’t an assumption that 'one size fits all'.
 - A collaborative work environment is encouraged that promotes teamwork, cross-functional collaboration. Competitive or ‘us and them’ behavior is frowned upon.
-- There is a palpable sense of belonging and pride in the organization. There are mechanisms for identifying and reporting disruptive behaviors.  
+- ✨ There is a palpable sense of belonging and pride in the organization. There are mechanisms for identifying and reporting disruptive behaviors.  
 - The organization recognizes that experience doesn’t end when they leave, and the act of leaving is treated as a positive for all involved.
-- The organization understands its values and expected behaviors; it attempts to recruit and develop staff based on these; policies and standards support them.
-- There are frequent, purposeful 1-to-1 sessions between managers and staff. There is some involvement of staff in decision making.
+- ✨ The organization understands its values and expected behaviors; it attempts to recruit and develop staff based on these; policies and standards support them.
+- ✨ There are frequent, purposeful 1-to-1 sessions between managers and staff. There is some involvement of staff in decision making.
 - The importance of recognizing and appreciating employees’ efforts is tacitly and visibly acted upon. There may be reward programs, employee of the month or other forms of recognition, though these are not consistent or analyzed across functions. There are active attempts to avoid exclusion and to eliminate all forms of discrimination. Staff feel fairly treated.
-- Processes for providing equipment and other work tools are regarded as reasonably fair and appropriate. They operate in a timely fashion to provide people get what they need with little delay.
+- ✨ Processes for providing equipment and other work tools are regarded as reasonably fair and appropriate. They operate in a timely fashion to provide people get what they need with little delay.
 - Staff trust their leadership for the most part, though aren’t always clear about why certain decisions are made.
 
 ### Insight (300)
 
 - Surveys that gather feedback on a range of employee engagement, satisfaction and attitudes are regularly published. The results of these and attendant actions are shared.
 - Feedback, suggestions box processes and a range of 360° feedback options are in place and actively promoted.
-- They generally feel informed about organization decisions and can discuss changes to their roles and teams. Staff have opportunities to receive support and clarity when they feel uncertain, frustrated or excluded.
+- Staff generally feel informed about organization decisions and can discuss changes to their roles and teams. Staff have opportunities to receive support and clarity when they feel uncertain, frustrated or excluded.
 - Staff absences and sickness, staff turnover and other metrics are monitored; both line-management and HR act on this via a consistent process.  
-- Managers use feedback and insights from staff and discuss their observations and seek advice from their peers as well as with HR. This includes staff performance and well-being and related ‘soft’ measures.
+- ✨ Managers use feedback and insights from staff and discuss their observations and seek advice from their peers as well as with HR. This includes staff performance and well-being and related ‘soft’ measures.
 - There are a range of tools, including workplace analytics, staff profile models (DiSC, Myers-Briggs etc.) that are used, though these tend to be driven by intermittent initiatives and may not be consistently applied.  
 - Staff skills & capability are assessed and fed into learning and growth activities.
-- Individuals also have access to tools and workplace analytics to enable them to make decisions about their approaches, balance or priorities.  
-- Staff are allowed to take breaks, reserve focus time and decline meetings when needed and appropriate.  
+- ✨ Individuals also have access to tools and workplace analytics to enable them to make decisions about their approaches, balance or priorities.  
+- ✨ Staff are allowed to take breaks, reserve focus time and decline meetings when needed and appropriate.  
 
 #### Growth (300)
-
-At this level you can expect the following:
 
 - There are policies and programs for staff skills development and staff records that capture this.
 - Key staff have regular training appropriate to their roles and development. Not everyone accesses this or understands the benefits.
 - Line managers are expected to improve their management & leadership abilities.
-- Employees have opportunities to play to personal strengths, to be successful, to grow, develop new skills and take on new challenges.
-- There are attempts at disseminating knowledge, best practice and experience, though these are only partly systematized.
+- ✨ Employees have opportunities to play to personal strengths, to be successful, to grow, develop new skills and take on new challenges.
+- ✨ There are attempts at disseminating knowledge, best practice and experience, though these are only partly systematized.
 - Learning and growth begin to appear in individual objectives, mostly at the instigation of individuals and managers.
 - There are attempts to make it easy for staff to learn on the job and easily find the knowledge, resources and expertise they need on demand.
 - There are some programs to introduce individual and organizational growth through networking, mentorships, and communities.
-- Stories are increasingly used to communicate knowledge and to establish culture and values.
+- ✨ Stories are increasingly used to communicate knowledge and to establish culture and values.
 - Interactive Frequently Asked Question tools allow open requests for knowledge and provide timely responses.  
-- 'Water-cooler' meetings, 'non-purposeful' get-togethers and 'fika' breaks encourage knowledge exchange and peer to peer learning.
+- ✨ 'Water-cooler' meetings, 'non-purposeful' get-togethers and 'fika' breaks encourage knowledge exchange and peer to peer learning.
 
 #### Purpose (300)
 
-- There is active promotion of company ethos and values and a tangible culture in line with this. Executive vision and strategy link to these. This is measured via some feedback from staff and external contacts.
+- ✨ There is active promotion of company ethos and values and a tangible culture in line with this. Executive vision and strategy link to these. This is measured via some feedback from staff and external contacts.
 - Staff understand and value the organization’s vision and principles, as well as accountability.
-- Opportunities to contribute to Vision.
-- There are well-established company standards and staff are expected to adhere to them.
-- Equipment and workplace are of good quality and maintained in reasonable condition. Faults are rectified when notified.  
+- There are opportunities to contribute to Vision.
+- ✨ There are well-established company standards and staff are expected to adhere to them.
+- ✨ Equipment and workplace are of good quality and maintained in reasonable condition. Faults are rectified when notified.  
 - Personal SMART objectives are consistently in place. They are tracked via line management but are only tenuously linked to organizational needs and are not integrated across teams.
 - The importance of ‘First Impressions count’ is recognized and attempts are made to provide a positive pre-employee experience as well as a welcoming and organized onboarding process to set the tone for new hires’ journey with the organization.  
-- Health and well-being are considered alongside productivity and objectives.
+- ✨ Health and well-being are considered alongside productivity and objectives.
 
 #### Impacts 300
 
 Staff, and customers, are advocates for the organization, leading to improved recruitment.
 
-They take initiative, and they are proactive, including taking responsibility for their own development.  
-
-They hold themselves accountable for delivering on their promises.  
-
-They work collaboratively and synergistically with other team members.  
+Staff take initiative, and they are proactive, including taking responsibility for their own development. They hold themselves accountable for delivering on their promises. They work collaboratively and synergistically with other team members.  
 
 The organization begins to see positive impacts on areas like profitability, productivity, efficiency, quality, creativity, safety, compliance, employee well-being, and staff retention.  
 
 ### Level 400 - Predictable
 
-Employee Experience is a core activity for the organisation, with executive accountability and metrics that demonstrate the impact on the organization and support its progress.
+Employee Experience is a core activity for the organization, with executive accountability and metrics that demonstrate the impact on the organization and support its progress.
 
 **[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
@@ -275,32 +265,30 @@ Employee Experience is a core activity for the organisation, with executive acco
 
 - Employees feel engaged in the ownership of the company, contributing to and sharing in its success.
 - An employee experience hub or suite centralizes and manages staff connection with each other and their leadership. News, communication, information and connections are personalized, relevant and up to date. There are active leadership interactions and leaders and managers are trained and expected to nurture their staff engagement through these as well as personal channels.
-- Staff briefings are delivered in multiple forms to ensure inclusiveness and accessibility, including for remote and field staff, front-line workers and those on leave or otherwise outside the organization. There are processes to ensure important communications are seen by staff and that no one is overlooked. This is matched with multiple forms of interaction to ensure concerns, questions and opportunities are captured.  
-- Staff are well informed about company structure, reporting lines and nuances. Staff are required to meet a minimum level of profile completion. Changes are rapidly reflected in both.
+- ✨ Staff briefings are delivered in multiple forms to ensure inclusiveness and accessibility, including for remote and field staff, front-line workers and those on leave or otherwise outside the organization. There are processes to ensure important communications are seen by staff and that no one is overlooked. This is matched with multiple forms of interaction to ensure concerns, questions and opportunities are captured.  
+- ✨ Staff are well informed about company structure, reporting lines and nuances. Staff are required to meet a minimum level of profile completion. Changes are rapidly reflected in both.
 - Inclusiveness, diversity and equality are baked into the culture, policies and processes.  Staff and managers are trained in knowing how to support colleagues to ensure everyone has as positive a work and personal experience as possible. Individual needs are actively addressed and staff or not marginalized because of their needs or circumstances; this pervades the culture. Diversity in teams is considered an asset and people are brought into teams specifically to contribute their particular perspectives and experiences.  
-- Behaviors inconsistent with the values of the organization are not tolerated at any level. Communication, values and mission are purposefully maintained in colleague, line management and leadership interactions. Breaches in these are actively and appropriately dealt with.
+- ✨ Behaviors inconsistent with the values of the organization are not tolerated at any level. Communication, values and mission are purposefully maintained in colleague, line management and leadership interactions. Breaches in these are actively and appropriately dealt with.
 - Staff are actively and publicly proud to work for the organization.  
 - The organizational brand is actively managed to create great first and ongoing impressions and this is routinely measured to confirm it is maintained throughout the employee journey and beyond.
-- The recruitment and hiring processes focus strongly on values, these are assessed as part of the hiring decision. Likewise, tools such as DiSC or other behavior and personality type models are used to build effective teams and enhance colleague interactions.
+- ✨ The recruitment and hiring processes focus strongly on values, these are assessed as part of the hiring decision. Likewise, tools such as DiSC or other behavior and personality type models are used to build effective teams and enhance colleague interactions.
 - There is an active reward and recognition culture which is valued by staff, visible at senior levels and analysis warns of potential issues in teams and functions.
 - There is a thriving alumni community.
 - Constructive critical feedback is considered a gift and welcomed across the organization.
-- Processes are efficient, fair, and generally anticipate needs.
+- ✨ Processes are efficient, fair, and generally anticipate needs.
 - Staff trust and respect their leadership and feel involved in decisions and mission.
 
 #### Insight (400)
 
 - The organization understands that you build your people, and they build the business.  
-- Multiple tools are in place to assess the breadth of Employee Engagement, including surveys, workplace analytics, insights and sentiment from communities of interest and soft observations. Staff and team profile techniques are used to develop teams and resolve challenges. Staff skills & capability are routinely monitored and updated. Sentiment analysis aids with understanding the tone of the organization. There is integration of all these to provide feedback and actions at multiple levels. Insights from these form part of board communication, strategy and action plans.
-- A sophisticated set of performance, well-being and organization’s values measures are used, and these are subject to regular analysis to inform strategy, policy and initiatives.  
+- ✨ Multiple tools are in place to assess the breadth of Employee Engagement, including surveys, workplace analytics, insights and sentiment from communities of interest and soft observations. Staff and team profile techniques are used to develop teams and resolve challenges. Staff skills & capability are routinely monitored and updated. Sentiment analysis aids with understanding the tone of the organization. There is integration of all these to provide feedback and actions at multiple levels. Insights from these form part of board communication, strategy and action plans.
+- A sophisticated set of performance, organizational values and well-being measures are used, and these are subject to regular analysis to inform strategy, policy and initiatives.  
 - Staff actively engage in feedback, innovation and communication. Management recognizes these contributions in multiple ways and uses gamification and other techniques to drive it.
-- Staff feel included and well informed about organization decisions and contribute to changes.  
+- ✨ Staff feel included and well informed about organization decisions and contribute to changes.  
 - Managers are challenged, via their objectives and mentoring, to use feedback and insights from staff.  
-- Individuals actively engage with their tools and workplace analytics and are skilled at using them to ensure balance in their habits, roles and activities.  
+- ✨ Individuals actively engage with their tools and workplace analytics and are skilled at using them to ensure balance in their habits, roles and activities.  
 
 #### Growth (400)
-
-At this level you can expect the following:
 
 - The organization has an Action Plan for improving engagement and experience.
 - There are effective policies and programs to deliver training and for skills development at all levels and roles, with monitored outcomes, certifications and methods of developing the required skills blend for current needs and individual staff development into future roles.
@@ -316,12 +304,12 @@ At this level you can expect the following:
 
 #### Purpose (400)
 
-- Culture, values and employee behavior (including executive staff) is monitored as being consistent with this.
+- Culture, values and employee behavior (including executive staff) are monitored as being consistent with company culture.
 - There is active use of story-telling and other cultural reinforcement techniques to maintain and advance values, etc.
-- Culture and value alignment are an essential part of the hiring process.
+- ✨ Culture and value alignment are an essential part of the hiring process.
 - Equipment and workplace actively maintained to a high standard and staff take pride in their surroundings. They are routinely reviewed, and most staff take steps to report or address issues they observe. Issues and failures are acted on appropriately quickly.  
-- Personal and team SMART objectives are well established, tracked and regularly monitored and reviewed by both line management and executives, they are linked to organizational needs using a KPR approach.
-- Health and well-being are as important as productivity and objectives.
+- ✨ Personal and team SMART objectives are well established, tracked and regularly monitored and reviewed by both line management and executives, they are linked to organizational needs using a KPR approach.
+- ✨ Health and well-being are as important as productivity and objectives.
 
 #### Impacts 400
 
@@ -345,25 +333,23 @@ Employee Experience is pervasive in the organization, from shop floor staff to t
 
 - There are sophisticated strategies for driving Employee Engagement based on analytics at every level. Staff capabilities, well-being and interactions are considered as part of high-level strategy and decision making, with impact assessments and contingency provision.
 - AI is used to assess and create insights from feedback, surveys and workplace analytics.
-- Staff are passionate about their organization’s vision and values and their ability to contribute to it.  
+- ✨ Staff are passionate about their organization’s vision and values and their ability to contribute to it.  
 - Staff and management understand how to improve and optimize their activities, contributions and how to help their peers and colleagues using the tools and analytics they have.
 
 #### Growth (500)
 
-At this level you can expect the following:
-
 - The organization has an agile Action Plan for improving engagement and experience, which responds to Insights across the organization and is personalized to individuals and teams.
-- Training and development programs aim to deliver the Right Knowledge to the Right People at the Right Time. Personalized and managed learning for employees matches the learning process to the learning styles of the individuals and type of knowledge or skills to be acquired.
+- ✨ Training and development programs aim to deliver the Right Knowledge to the Right People at the Right Time. Personalized and managed learning for employees matches the learning process to the learning styles of the individuals and type of knowledge or skills to be acquired.
 - There is a form of organizational knowledge graph that reflects and responds to strategy and vision.
-- There are tools and platforms that deliver real-time answers to critical questions, and ‘right-time’ answers to important needs. These extend beyond the organization to other sources of expertise.
+- ✨ There are tools and platforms that deliver real-time answers to critical questions, and ‘right-time’ answers to important needs. These extend beyond the organization to other sources of expertise.
 - Knowledge management, best practice and experience automatically extended and updated, with sophisticated mechanisms to ensure relevance and optimize absorption. There are AI and other tools to identify and capture tacit knowledge. The knowledge in systems and staff is quantitatively tracked, perhaps as a financial value on the balance sheet and further capitalized.
-- Being a Learning Organization is part of the vision and mission.  
+- ✨ Being a Learning Organization is part of the vision and mission.  
 
 #### Purpose (500)
 
 - The organization has a self-supporting culture, where everyone creates, reinforces, monitors and supports values, vision and priorities. Everyone works to their common goals and understands the part they, and their colleagues across the organization play in achieving this.
-- Organizational Goals and priorities are actively flowed into personal and team SMART objectives; these are proactively tracked and updated rapidly in response to changes in the business. Executives are actively involved in promoting and communicating KPRs.
-- Vision and values are intimately connected to mission and KPRs. All staff understand this and how they contribute. Staff are personally aligned with these and committed to making a difference.
+- Organizational goals and priorities are actively flowed into personal and team SMART objectives; these are proactively tracked and updated rapidly in response to changes in the business. Executives are actively involved in promoting and communicating KPRs.
+- ✨ Vision and values are intimately connected to mission and KPRs. All staff understand this and how they contribute. Staff are personally aligned with these and committed to making a difference.
 - The workplace, equipment and surroundings are exciting and attractive and actively maintained. Frequent monitoring, plus staff notifications about issues or failures leads to rapid improvement.
 
 #### Impacts 500
