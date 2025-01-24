@@ -2,7 +2,7 @@
 
 title: Maturity Model for Microsoft 365 – Infrastructure Competency
 
-ms.date: 11/11/2022
+ms.date: 01/21/2025
 author: SimonJHudson
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -353,7 +353,7 @@ Security is well documented and understood and risk is easily identified and man
   - Microsoft Defender External Attack Surface Management
   - Azure Firewall
   - Azure Web App Firewall
-  - Azure DDos Protection
+  - Azure DDoS Protection
   - GitHub Advanced Security
 - Endpoint Security
   - Microsoft 365 Defender for Endpoint
