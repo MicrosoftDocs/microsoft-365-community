@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: article
 ms.author: pamgreen
 ms.service: microsoft-365
-localization_priority:  Low
+ms.localizationpriority:  Low
 description: Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Health Management
 ms.collection: M365Community
 ---
