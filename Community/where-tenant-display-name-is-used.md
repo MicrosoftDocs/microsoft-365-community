@@ -11,9 +11,10 @@ ms.service: microsoft-365
 ms.localizationpriority: Low
 ms.collection: M365Community
 ---
-[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
 # Change your organization's display name
+
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
   
 You can make changes to your organization profile, such as your organization name, but this change has far reaching implications. **You must be a global admin to update this information.**
 For more information on changing your organizational profile, see [this article](/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide&preserve-view=true)
