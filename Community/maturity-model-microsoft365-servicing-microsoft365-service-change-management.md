@@ -24,7 +24,7 @@ Note that we distinguish Service *Change* Management from Service *Health* Manag
 
 ## Introduction to Service Change Management
 
-There are many ways to learn about upcoming changes.  There is the M365 Product Roadmap, there are blogs, there are announcements at conferences, press releases, press releases tied to conferences (Microsoft Ignite's Book of News for example),  there are podcasts and webinars, and more! The most direct communication, however, about what changes are coming to your specific tenant and approximately when is via [Message Center](https://admin.cloud.microsoft/?source=applauncher#/MessageCenter).  Message Center lives in the Microsoft Admin Center web app and the mobile Microsoft 365 Admin app. Both are accessible only to users [who have been granted access](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/message-center?view=o365-worldwide#frequently-asked-questions). 
+There are many ways to learn about upcoming changes.  There is the M365 Product Roadmap, there are blogs, there are announcements at conferences, press releases, press releases tied to conferences (Microsoft Ignite's Book of News for example),  there are podcasts and webinars, and more! The most direct communication, however, about what changes are coming to your specific tenant and approximately when is via [Message Center](https://admin.cloud.microsoft/?source=applauncher#/MessageCenter).  Message Center lives in the Microsoft Admin Center web app and the mobile Microsoft 365 Admin app. Both are accessible only to users [who have been granted access](/microsoft-365/admin/manage/message-center?view=o365-worldwide&preserve-view=true#frequently-asked-questions). 
 
 ![Messages in the Microsoft 365 Admin Center](media/maturity-model-microsoft365-servicing-microsoft365-service-change-management\advisories.jpg)
 
@@ -61,7 +61,7 @@ Service Change management for Microsoft 365 involves triaging the change announc
 
 ## Level 400 - Managed (Capable)
 
-- Message Center is configured (using [Planner Sync](https://learn.microsoft.com/en-us/planner/track-message-center-tasks-planner)) to pump announcements to Planner as Tasks. Each week, relevant IT staff meet to review the new tasks and assess if action is required or not.
+- Message Center is configured (using [Planner Sync](/planner/track-message-center-tasks-planner)) to pump announcements to Planner as Tasks. Each week, relevant IT staff meet to review the new tasks and assess if action is required or not.
 - Task status (Not started, in progress, or closed) is monitored and reprioritized and impact of actions taken is reviewed.
 - As a result of the tasks identified, meetings take place between relevant IT staff and selected business staff.  For example, IT staff might meet with the business owner of the intranet, department representatives, roles responsible for employee experience, internal communications, and/or learning and professional development.
 - The length of time that tasks remain open and the effect of actions taken is tracked and reported on.
