@@ -1008,7 +1008,7 @@ No significant changes.
 
 ### Updated Articles - January, 2021
 
-| Article | Updates By |
+| Article | Updated By |
 |---|---|
 |[Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)| [Luise Freese, MVP](https://www.linkedin.com/in/LuiseFreese) |
 
@@ -1054,7 +1054,7 @@ No significant changes.
 
 ### Updated Articles - October, 2020
 
-| Article | Upddates by |
+| Article | Updates by |
 | --- | --- |
 | [Maturity Model for Microsoft 365 - Introduction](./Community/microsoft365-maturity-model--intro) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media) | [Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/) |
