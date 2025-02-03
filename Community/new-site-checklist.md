@@ -1,6 +1,6 @@
 ---
 title: Site Builder/Owner - New Site Checklist
-ms.date: 3/3/2020
+ms.date: 02/02/2025
 author: nyoung30
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -15,18 +15,18 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-The purpose of this guide is to help document the initial setup of a site and provide resources for next steps and ongoing support.
+The purpose of this guide is to help document the initial setup of a site and provide resources for next steps and ongoing support. Consider this a starting checklist, which you may well adapt for your own purposes.
 
 ## Checklist
 
 - [ ] Site build
-    - [ ] Site information
-    - [ ] Site Ownership
-    - [ ] Site permissions
-    - [ ] Site features
-    - [ ] Document libraries
-    - [ ] Lists
-    - [ ] Apps
+  - [ ] Site information
+  - [ ] Site Ownership
+  - [ ] Site permissions
+  - [ ] Site features
+  - [ ] Document libraries
+  - [ ] Lists
+  - [ ] Apps
 - [ ] Site owner training
 - [ ] Site user training
 - [ ] Site support
@@ -44,12 +44,13 @@ The purpose of this guide is to help document the initial setup of a site and pr
 - Description:
 - Hub site (Yes/No):
 - Joined to Hub site (Yes/No):
-    - HUB site name:
+  - Hub Site name:
 
 ### Site Ownership
+
 - Content Owner 1:
 - Content Owner 2:
-- Technical Owner: 
+- Technical Owner:
 
 ### Site permissions
 
@@ -112,13 +113,13 @@ The purpose of this guide is to help document the initial setup of a site and pr
 
 ## Site owner training
 
-### Custom training resources
+### Custom training resources - Site owners
 
 | Name                             | URL                             |
 |----------------------------------|---------------------------------|
 | *Name*                           | *URL*                           |
 
-### Microsoft training resources
+### Microsoft training resources - Site owners
 
 | Name                             | URL                             |
 |----------------------------------|---------------------------------|
@@ -127,13 +128,13 @@ The purpose of this guide is to help document the initial setup of a site and pr
 
 ## Site user training
 
-### Custom training resources
+### Custom training resources - Site members
 
 | Name                             | URL                             |
 |----------------------------------|---------------------------------|
 | *Name*                           | *URL*                           |
 
-### Microsoft training resources
+### Microsoft training resources - Site members
 
 | Name                             | URL                             |
 |----------------------------------|---------------------------------|
