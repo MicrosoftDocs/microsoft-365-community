@@ -6,6 +6,49 @@
 
 Note: Changelog started in January, 2021
 
+## January, 2025
+
+### New Articles - February, 2025
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - February, 2025
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+
+### Removed/retired Articles - February, 2025
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - February, 2025
+
+-## January, 2025
+
+### New Articles - January, 2025
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - January, 2025
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Infrastructure Competency](./Community/microsoft365-maturity-model--infrastructure.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [The Microsoft 365 Maturity Model - Employee Experience Competency](./Community/microsoft365-maturity-model--employee-experience.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+
+### Removed/retired Articles - January, 2025
+
+| Article | Updated By |
+|---|---|
+
+### New Contributors - January, 2025
+
+-
+
 ## December, 2024
 
 ### New Articles - December, 2024
@@ -965,7 +1008,7 @@ No significant changes.
 
 ### Updated Articles - January, 2021
 
-| Article | Updates By |
+| Article | Updated By |
 |---|---|
 |[Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)| [Luise Freese, MVP](https://www.linkedin.com/in/LuiseFreese) |
 
@@ -1011,7 +1054,7 @@ No significant changes.
 
 ### Updated Articles - October, 2020
 
-| Article | Upddates by |
+| Article | Updates by |
 | --- | --- |
 | [Maturity Model for Microsoft 365 - Introduction](./Community/microsoft365-maturity-model--intro) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 | [Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media) | [Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/) |
