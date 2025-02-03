@@ -1,6 +1,6 @@
 ---
 title:  Maturity Model for Microsoft 365 – Management of Content Competency
-ms.date: 06/17/2024
+ms.date: 02/02/2025
 author: simonjhudson
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -29,15 +29,18 @@ Content covers a wide variety of different types of digital items, including fil
 This competency focuses on many aspects of the management of content, including presentation, life cycle, identification and classification and storage. For the sake of clarity and relative brevity, it does not cover management of 'content containers' such as SharePoint libraries and sites, Teams channels, Planner plans, etc. 
 
 ### Business Value & Related Competencies (Why)
+
 Managing an organization’s content and its lifecycle is a crucial success factor for the following business competencies:
+
 - **Governance, Risks, and Compliance (GRC):** The requirements for content and content lifecycle management may stem directly from GRC objectives and activities (e.g., GDPR, SOX). Conversely, failure to manage content can introduce risks or hinder the success of GRC activities.
 - **Information Security:** Information security addresses information Availability, Integrity, and Confidentiality. It therefore relates to content management in terms of findability (A), content quality (I), and content tagging and identification ©.
 - **Cognitive Business:** The advent of generative AI has led to increased usage of unstructured data, such as data contained in documents, emails, conversations, web pages, and so on. Managing the quality and lifecycle of an organization’s content is becoming a key success factor for efficient AI adoption.
 - **Business Process and Quality Management:** Content management should prevent any out-of-date information from being used inappropriately, while ensuring that important and job-related information is timely and easily accessible. This ensures that business processes are carried out correctly. Additionally, the business process is typically the starting point for defining content management requirements.
 
-
 ### Types of content
-Types of content cover but are not limited to the following : 
+
+Types of content cover but are not limited to the following:
+
 - Documents - any files we can store in Microsoft 365
 - Web pages & News
 - Conversations
@@ -240,8 +243,8 @@ At this level you can expect the following:
 - There is guidance on effective use of email and recommendations on how to store email. Some email activity has migrated to real time conversations, there is limited recognition that this represents another type of content to manage.
 - Items previously stored in freeform documents or in Excel are beginning to be managed in dedicated List applications. This allows granular management of each item, with item level security, version history etc.
 - The use of List applications enables content reuse, with list items able to act as data sources. Column/field headings show some evidence of standardization as a result. Column/Field types are generally appropriate; some consistency and standards are emerging.
+
 ![Lifecycle Management - Level 300]( media/microsoft365-maturity-model--management-of-content/lifecycle-management-level-300.jpg)
-:::image type="content" source="media/microsoft365-maturity-model--management-of-content/lifecycle-management-level-300.jpg" alt-text="Lifecycle Management - Level 300":::
 
 ##### 300 Identification
 
@@ -300,12 +303,9 @@ At this level you can expect the following:
 - Document Retention mechanisms are in -lace for all important classes of content and are reviewed annually to ensure policies and technical controls are effective and appropriate. attempted, sporadically. A governance board reviews new needs and oversees decisions on retention, disposition and destruction of content.
 - SchemaSchemas exist for common list types, often based on open standards, to ensure consistency and interoperability. Extensions to the schema are carefully considered, reviewed against other schemas in use and rolled out in an integrated way that updates all dependent lists.
 - Content classes are developed based on the agreed schema.
+
 ![Lifecycle Management - Level 400a]( media/microsoft365-maturity-model--management-of-content/lifecycle-management-level-400a.jpg)
 ![Lifecycle Management - Level 400b]( media/microsoft365-maturity-model--management-of-content/lifecycle-management-level-400b.jpg)
-
-:::image type="content" source="media/microsoft365-maturity-model--management-of-content/lifecycle-management-level-400a.jpg" alt-text="Lifecycle Management - Level 400a":::
-
-:::image type="content" source="media/microsoft365-maturity-model--management-of-content/lifecycle-management-level-400b.jpg" alt-text="Lifecycle Management - Level 400b":::
 
 ##### 400 Identification
 
@@ -363,9 +363,8 @@ At this level you can expect the following:
 - Proactive deduplication is in place. Potential duplicates are identified at the point of content creation.
 - Role-based access, governance and protection are deeply embedded in processes and are designed with minimal "friction" for the task or process.
 - Live, multi-author use of content via links, active discovery and graph-based personalization is the norm, ensuring content remains live, up to date and relevant.
- ![Lifecycle Management - Level 500]( media/microsoft365-maturity-model--management-of-content/lifecycle-management-level-500.jpg)
 
-:::image type="content" source="media/microsoft365-maturity-model--management-of-content/lifecycle-management-level-500.jpg" alt-text="Lifecycle Management - Level 500":::
+ ![Lifecycle Management - Level 500]( media/microsoft365-maturity-model--management-of-content/lifecycle-management-level-500.jpg)
 
 ##### 500 Identification
 
