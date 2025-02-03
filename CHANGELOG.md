@@ -1008,7 +1008,7 @@ No significant changes.
 
 ### Updated Articles - January, 2021
 
-| Article | Updates By |
+| Article | Updated By |
 |---|---|
 |[Follow Microsoft 365 on Social Media](./Community/microsoft-365-on-social-media.md)| [Luise Freese, MVP](https://www.linkedin.com/in/LuiseFreese) |
 
