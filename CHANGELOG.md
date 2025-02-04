@@ -6,7 +6,7 @@
 
 Note: Changelog started in January, 2021
 
-## January, 2025
+## February, 2025
 
 ### New Articles - February, 2025
 
@@ -18,6 +18,7 @@ Note: Changelog started in January, 2021
 | Article | Updated By |
 |---|---|
 | [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+| [Team Site vs. Communication Site: Which one should I choose?](./Community/team-site-or-communication-site.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 
 ### Removed/retired Articles - February, 2025
 
@@ -26,7 +27,7 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - February, 2025
 
--## January, 2025
+## January, 2025
 
 ### New Articles - January, 2025
 
