@@ -93,7 +93,7 @@ A team site (not group connected) is in a way a legacy SharePoint site type - on
 
 - We can choose the location for the site navigation on the top or the left
 - There is a default OneNote files stored in the site and available initially through the site navigation as Notebook
-- A team site - especially one without a Microsoft 365 GRoup - should not a SharePoint landing page. For that, use a Communication Site.
+- A team site - especially one without a Microsoft 365 Group - should not a SharePoint landing page. For that, use a Communication Site.
 - You can "groupify" or "teamify" a team site. Groupify a team site (not group connected) to a groups connected team site and teamify to a Microsoft Teams. These actions do not change the underlying site template, however, so these site will always be "a little bit different".
 
 **Differences from team sites which are group connected**
