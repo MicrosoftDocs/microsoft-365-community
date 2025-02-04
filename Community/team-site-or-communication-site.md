@@ -1,6 +1,6 @@
 ---
 title: Team Site vs. Communication Site -  Which one should I choose?
-ms.date: 6/24/2024
+ms.date: 2/4/2025
 author: SusanHanley
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -66,7 +66,7 @@ Here's a way to think about the difference between a team site and a communicati
 
 **Communication sites have two distinct user personas.**
 
-Most often, a communication site has a small number of people with permission to author content and many people who only have permission to read content. Team sites use Microsoft 365 Groups for permissions. Communication sites use SharePoint groups.
+Most often, a communication site has a small number of people with permission to author content and many people who only have permission to read content. While team sites usually use Microsoft 365 Groups for permissions, communication sites use SharePoint groups.
 
 **Think about your team sites as where you**  **collaborate**  **and your communication sites as where you _communicate_.**
 
@@ -81,56 +81,56 @@ When they're ready to _share_, the HR team moves the document to or writes the s
 - Travel team publishing guidelines about corporate travel.
 - Policies and procedures.
 
-## When should I create a team site (not groups connected)?
+## When should I create a team site which is not group connected?
 
-**Create a team site (not groups connected) to create, store and use SharePoint elements and items.**
+When an administrator creates a new team site, they can choose not to connect it to a Microsoft 365 Group. While the general advice is to use Microsoft 365 Groups for team site membership management, there are some useful exceptions.
 
-A team site (not groups connected) is a long time kind of a SharePoint site, you know it when you work with SharePoint since on-prem time. It's similar to a communication site, but it's not a Team Site with M365 services, it's a SharePoint site only.
+**Create a team site which is not group connected to create, store, and use SharePoint elements and items**
 
-**Differences to communication site:**
+A team site (not group connected) is in a way a legacy SharePoint site type - one which you may be familiar with from working with SharePoint on-prem. It's more similar to a communication site, as it's not a Team Site connected with with Microsoft 365 services: it's a SharePoint site only.
 
-- Choose the place for the site navigation on top or left
-- With a default OneNote stored on the site
-- A team site can NOT BE a SharePoint landing page, for that, use a Communication Site!!
-- You can groupify and teamify a team site. Groupify a team site (not groups connected) to a groups connected team site and teamify to a Microsoft Teams
+**Differences from communication sites**
 
-**Differences to team site:**
+- We can choose the location for the site navigation on the top or the left
+- There is a default OneNote files stored in the site and available initially through the site navigation as Notebook
+- A team site - especially one without a Microsoft 365 GRoup - should not a SharePoint landing page. For that, use a Communication Site.
+- You can "groupify" or "teamify" a team site. Groupify a team site (not group connected) to a groups connected team site and teamify to a Microsoft Teams. These actions do not change the underlying site template, however, so these site will always be "a little bit different".
 
-- It's not connected with other M365 services like Exchange, Entra ID object per group
-- Team sites permissions based on M365 Groups, Members and Owners
+**Differences from team sites which are group connected**
+
+- The site is not connected with other Microsoft 365 services like Exchange or Planner, nor does it have an Entra ID object for a Microsoft 365 Group
+- Team site permissions based on Microsoft 365 Groups, with Members and Owners
 - Use SharePoint groups for permissions, not M365 groups with members and owners. You can use Entra ID groups in SharePoint groups.
-- Site navigation is left or on top, it's your choice
 
-**Work with SharePoint elements and itmes.**
+**Work with SharePoint elements and items**
 
-Your SharePoint site can have all different SharePoint elements and items, different, granular, permissions, news, themes and the site navigation on top or on left side and many more, all are based on native SharePoint, without Exchange or other M365 services. 
+Your SharePoint site can have all of the different SharePoint elements and items, granular permissions, news, themes, and the site navigation on top or on left side and many more, all are based on native SharePoint, without Exchange or other Microsoft 365 services.
 
-**Different SharePoint lists and libraries can have different permissions.**
+**Different SharePoint lists and libraries can have different permissions**
 
-A Team site (not groups connected) is the perfect store to use SharePoint lists and libraries with different permissions. You can use different permission levels on different elements, also use approvals or other Microsoft PowerAutomate Flows into your SharePoint site. You can use SharePoint groups or security groups for permissions on sites or other SharePoint elements. Set permissions on different levels like sites, lists/libraries, folders or items, on items, it's not recommended. When you use Power Apps based on SharePoint site, it's a good choice to use this kind of site type.
+A Team site (not group connected) is the perfect store to use SharePoint lists and libraries with different permissions. You can use different permission levels on different elements and also use approvals or other Microsoft Power Automate Flows in your SharePoint site. You can use SharePoint groups or security groups for permissions on sites or other SharePoint elements and set permissions on different levels like sites, lists/libraries, folders, or items. When you use Power Apps based on data in a SharePoint site, a non-group connected site may be a good alternative.
 
-**So when do i take a team site (not groups connected)?**
+**So when should I create a team site (not group connected)?**
 
-Use it, when you need a SharePoint site but you don't need M365 groups services. It's the place do create, work and use SharePoint elements and items, native, without M365 Groups. You can define your own permissions, you do not come into conflict with M365 group permission, it's an other concept.
+Use it when you need a SharePoint site but you don't need Microsoft 365 Groups or other services. It's the place to create, work, and use SharePoint elements and items, native, without Microsoft 365 Groups. You can define your own permissions and you do not come into conflict with Microsoft 365 group permissions.
 
-**Examples of team site (not groups connected) scenarios.**
+**Examples of team sites (not group connected) scenarios**
 
 - I need "only" a SharePoint site, without groups services
-- Sites for SharePoint based apps, also for Power Apps
-- A site with lists and libraries with a lot different permissions
+- Sites to contain data for SharePoint based apps, also for Power Apps
+- A site with lists and libraries with a lot of different permissions
 
 ## Feature Comparison
 
 | Feature | Team Site | Communication Site | Team Site (not groups connected)
-| --- | --- | --- | --- |
-| Who creates the site? | Site Owner (or Admins) | Site Owner (or Admins) | Site Owner (or Admins) |
-| Who creates content? | **All members are content authors** who jointly create and edit content. | **Small number of content authors** and a much larger number of content readers or consumers. | **A defined group of members are content authors** also different SharePoint lists and libraries can have different permissions | 
-| Security | Microsoft 365 Groups | SharePoint Groups | SharePoint Groups |
-| Default Setting for External Sharing | External Sharing Enabled (but can be disabled by the SharePoint Admin) | External Sharing Disabled (but can be enabled by the SharePoint Admin) | External Sharing Disabled (but can be enabled by the SharePoint Admin) |
+| --- | --- | --- | ---
+| Who creates the site? | Site Owner (or Admins) | Site Owner (or Admins) | Site Owner (or Admins)
+| Who creates content? | **All members are content authors** who jointly create and edit content. | **Small number of content authors** and a much larger number of content readers or consumers. | **A defined group of members are content authors** also different SharePoint lists and libraries can have different permissions
+| Security | Microsoft 365 Groups | SharePoint Groups | SharePoint Groups
+| Default Setting for External Sharing | External Sharing Enabled (but can be disabled by the SharePoint Admin) | External Sharing Disabled (but can be enabled by the SharePoint Admin) | External Sharing Disabled (but can be enabled by the SharePoint Admin)
 | Default Navigation | Left | Top | Left (but can be changed to Top)
-|Multilingual features? | Yes | Yes | Yes |
-| When you create, you ALSO get … | Planner board, OneNote notebook, Email address for the group, Shared Calendar, shared mailbox, opportunity to connect with a Microsoft Team  (if the site wasn't created as part of provisioning a Microsoft Team) | NOTHING but a SharePoint communication site! | OneNote notebook |
-
+|Multilingual features? | Yes | Yes | Yes
+| When you create, you ALSO get … | Planner board, OneNote notebook, Email address for the group, Shared Calendar, shared mailbox, opportunity to connect with a Microsoft Team  (if the site wasn't created as part of provisioning a Microsoft Team) | NOTHING but a SharePoint communication site! | OneNote notebook
 
 ---
 
