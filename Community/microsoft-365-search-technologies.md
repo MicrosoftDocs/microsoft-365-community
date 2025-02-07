@@ -26,7 +26,7 @@ A distinction is made between the following possibilities:
 
 ## Microsoft Search (Modern search)
 
-Microsoft Search is based on the Microsoft Search engine, which provides data using the Microsoft Graph and other sources. Microsoft Search uses AI components and the Bing algorithm to display the information and data in a more user-friendly way. In most Microsoft applications, the Microsoft Search Box is available at the top of the header. Results are displayed in the context of the application. In the Microsoft Productivity Apps (Word, Excel, PowerPoint, etc.) you can search for content as well as for functions, e.g. reusable slides. The contents of documents are full-text indexed and it is possible to search for metadata or content. Overview of which elements are available and indexed in Microsoft Search with Microsoft Graph [Overview of Microsoft Graph](https://learn.microsoft.com/en-us/graph/overview) .
+Microsoft Search is based on the Microsoft Search engine, which provides data using the Microsoft Graph and other sources. Microsoft Search uses AI components and the Bing algorithm to display the information and data in a more user-friendly way. In most Microsoft applications, the Microsoft Search Box is available at the top of the header. Results are displayed in the context of the application. In the Microsoft Productivity Apps (Word, Excel, PowerPoint, etc.) you can search for content as well as for functions, e.g. reusable slides. The contents of documents are full-text indexed and it is possible to search for metadata or content. Overview of which elements are available and indexed in Microsoft Search with Microsoft Graph [Overview of Microsoft Graph](https://learn.microsoft.com/graph/overview) .
 
 ### Why use Microsoft Search?
 
@@ -45,7 +45,7 @@ You can consider using Microsoft Search in the following examples:
 
 ## SharePoint Search (Classic Search with PnP Modern search Web Parts)
 
-SharePoint Search is based on the index of the SharePoint Search Engine and contains content and documents from SharePoint as well as OneDrive. Content, lists, and their metadata can be searched. The PnP Modern Search WebParts can be added and configured on modern SharePoint pages. The SharePoint search engine or the Microsoft search engine can be used as the data source. Overview of which elements are available and indexed with SharePoint Search [Search experiences in SharePoint](https://learn.microsoft.com/en-us/sharepoint/get-started-with-modern-search-experience) .
+SharePoint Search is based on the index of the SharePoint Search Engine and contains content and documents from SharePoint as well as OneDrive. Content, lists, and their metadata can be searched. The PnP Modern Search WebParts can be added and configured on modern SharePoint pages. The SharePoint search engine or the Microsoft search engine can be used as the data source. Overview of which elements are available and indexed with SharePoint Search [Search experiences in SharePoint](https://learn.microsoft.com/sharepoint/get-started-with-modern-search-experience) .
 
 ### Why use SharePoint Search (PnP Modern Search Web Parts)?
 
