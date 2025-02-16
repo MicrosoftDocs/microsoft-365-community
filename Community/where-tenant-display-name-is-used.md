@@ -16,8 +16,8 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
   
-You can make changes to your organization profile, such as your organization name, but this change has far reaching implications. **You must be a global admin to update this information.**
-For more information on changing your organizational profile, see [this article](/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide&preserve-view=true)
+You can make changes to your organization profile, such as your organization name, but this change has far reaching implications as explained below. **You must be a global admin to update this information.**
+For instructions on changing your organizational profile, see [this article](/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide&preserve-view=true)
   
 ## Edit organization information
 
@@ -34,10 +34,10 @@ To change your company's display name:
 |---------|---------|
 |Name  <br/>   | The name entered here is the organization's name, also known as the tenant display name.  <br/>  |
 
-## Change the organization's name
+## Impact of changing the organization's display name
 
 The organization's name is used throughout Microsoft 365, including but not limited to:  
-* Azure Active Directory Sign-in dialogs and multifactor authentication prompts. This includes multifactor authentication prompts provided by the Microsoft Authenticator app on iOS and Android devices. 
+* Entra ID (formerly Azure Active Directory) Sign-in dialogs and multifactor authentication prompts. This includes multifactor authentication prompts provided by the Microsoft Authenticator app on iOS and Android devices. 
  * If your users have set up other Microsoft accounts with their business or school email address, they may see the organization name on the sign-in page. This helps them distinguish between their work or school account and their other accounts, so they can identify which one to use when they sign in.
 * Viva Engage navigation
   * In Viva Engage, the organization name is used as the name of the home Engage network, and this shows up in the left navigation.  
@@ -45,14 +45,14 @@ The organization's name is used throughout Microsoft 365, including but not limi
   * The organization name is shown in File Explorer on Windows and Finder on Mac. 
     * On Windows, in File Explorer, in the navigation pane, the blue cloud icon for OneDrive for your Microsoft 365 tenant is labeled:
     *   On Windows 10: "OneDrive - \<organization name\>" (for example, "OneDrive - Contoso").
-    *   On Windows 11: "&lt; User first name &gt; - \<organization name\>" (for example, "Michael - Contoso").
+    *   On Windows 11: "\< User first name \> - \<organization name\>" (for example, "Michael - Contoso").
     * When a user syncs a SharePoint library, it shows up in File Explorer under a node in the left navigation that bears a blue office building icon and the organization name.
   * The organization name is used in file paths:
-    * The file path for the root of the OneDrive for that user defaults to C:\users\  &lt;username&gt; \OneDrive - \<organization Name>\
-    * The file path for SharePoint libraries that get synced is  C:\users\  &lt;username&gt; \<organization Name>\
-    * The file path for the Documents Known Folder is C:\users\ &lt;username&gt; \OneDrive - \<organization Name>\Documents
-    * The file path for the Pictures Known Folder is C:\users\  &lt;username&gt; \OneDrive - \<organization Name>\Pictures
-    * The file path for the Desktop Known Folder is C:\users\  &lt;username&gt; \OneDrive - \<organization Name>\Desktop
+    * The file path for the root of the OneDrive for that user defaults to C:\users\\<username\>\OneDrive - \<organization name\>\
+    * The file path for SharePoint libraries that get synced is C:\users\\<username\>\\<organization name\>\
+    * The file path for the Documents Known Folder is C:\users\\<username\>\OneDrive - \<organization name\>\Documents\
+    * The file path for the Pictures Known Folder is C:\users\\<username\>\OneDrive - \<organization name\>\Pictures\
+    * The file path for the Desktop Known Folder is C:\users\\<username\>\OneDrive - \<organization name\>\Desktop\
   * The organization name is shown in:
     * The OneDrive activity center
     * The tooltip of the OneDrive cloud icon
