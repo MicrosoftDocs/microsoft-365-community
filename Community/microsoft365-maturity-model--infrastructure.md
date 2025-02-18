@@ -311,7 +311,7 @@ Management of the process includes deliberate and systematic process improvement
 - ✨ Guard-rails block all non-best practice configurations.
 - End-to-end deployment from development to production automated, with prescheduled automated test-cases for everything, is stronly implemented.
 - A/B (blue/green) releases for new features is in place.
-- ✨ Automated failover or expansion of service instances between cloud regions is desigtned to route around failures, redeploying or scaling-out application instances where required in regions that see a significant uptick in traffic.
+- ✨ Automated failover or expansion of service instances between cloud regions is designed to route around failures, redeploying or scaling-out application instances where required in regions that see a significant uptick in traffic.
 - True Zero-trust architecture exists between elements of applications and internal users through access control and de-centralized firewalls - by design, identity is the functional security perimeter and possibly spans multiple hyperscale cloud providers over the Internet.
 
 #### 500 Impacts
