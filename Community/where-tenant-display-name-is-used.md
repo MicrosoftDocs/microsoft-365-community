@@ -30,7 +30,7 @@ To change your company's display name:
 
 ## What does the name field mean?
 
-|**Field**  |**Description**  |
+| Field | Description |
 |---------|---------|
 |Name  <br/>   | The name entered here is the organization's name, also known as the tenant display name.  <br/>  |
 
