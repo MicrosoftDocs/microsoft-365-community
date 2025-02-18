@@ -32,7 +32,7 @@ To change your company's display name:
 
 | Field | Description |
 |---------|---------|
-|Name  <br/>   | The name entered here is the organization's name, also known as the tenant display name.  <br/>  |
+|Name | The name entered here is the organization's name, also known as the tenant display name. |
 
 ## Impact of changing the organization's display name
 
