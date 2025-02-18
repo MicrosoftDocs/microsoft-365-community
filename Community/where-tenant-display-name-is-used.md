@@ -17,7 +17,7 @@ ms.collection: M365Community
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
   
 You can make changes to your organization profile, such as your organization name, but this change has far reaching implications as explained below. **You must be a global admin to update this information.**
-For instructions on changing your organizational profile, see [this article](/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide&preserve-view=true)
+For instructions on changing your organizational profile, see [this article](/microsoft-365/admin/manage/change-address-contact-and-more?view=o365-worldwide&preserve-view=true).
   
 ## Edit organization information
 
@@ -37,6 +37,7 @@ To change your company's display name:
 ## Impact of changing the organization's display name
 
 The organization's name is used throughout Microsoft 365, including but not limited to:  
+
 * Entra ID (formerly Azure Active Directory) Sign-in dialogs and multifactor authentication prompts. This includes multifactor authentication prompts provided by the Microsoft Authenticator app on iOS and Android devices. 
  * If your users have set up other Microsoft accounts with their business or school email address, they may see the organization name on the sign-in page. This helps them distinguish between their work or school account and their other accounts, so they can identify which one to use when they sign in.
 * Viva Engage navigation
@@ -60,15 +61,15 @@ The organization's name is used throughout Microsoft 365, including but not limi
   *  Currently, updating the organization name does not update it for configured clients. 
 *  Microsoft Teams
     * Tenant Switcher in Teams displays the organization name when a user participates in Teams in more than one tenant.
-    * Organizations that are under a certain size (get an organization-wide team created automatically)[../../microsoftteams/create-an-org-wide-team]. That team gets its name from the organization's name, but the team name does not change if the organization's Name field value changes.
-*  OneNote:  End users may have a notebook named in this pattern: \<first name>@\<organization name>.
+    * Organizations that are under a certain size [get an organization-wide team created automatically](../../microsoftteams/create-an-org-wide-team). That team gets its name from the organization's name, but the team name does not change if the organization's Name field value changes.
+*  OneNote: End users may have a notebook named in this pattern: \<first name>@\<organization name>.
 *  Windows desktop applications for Word, Excel, and PowerPoint: The File Save and File Open screens display the organization name.  
 *  Mobile apps such as Word, Excel, PowerPoint, OneNote, Outlook, and the Microsoft 365 App may display the organization name on various screens, especially ones that let you pick files from Microsoft 365 services such as SharePoint and OneDrive.
 *  Power Platform: The default environment takes its name from the organization name. The organization name (referred to as the TenantName in [this article](/power-platform/guidance/adoption/secure-default-environment#rename-the-default-environment)) is the default environment name, but can be changed, though that is a manual step after a tenant rename.
 
 Note that only Microsoft Teams will automatically detect the change to the organization name and reflect the change in the tenant switcher. Any teams, such as an organization-wide team named with the company name, will not update. 
 None of the other applications pick up the name change automatically. Mobile apps may require you to sign out and sign back in or reinstall them before they will display the new name. 
-[This script](/office/troubleshoot/activation/reset-office-365-proplus-activation-state) can help you force Office desktop applications to pick up the new name, but it forces the user to sign back into the Ofice desktop apps again.
+[This script](/office/troubleshoot/activation/reset-office-365-proplus-activation-state) can help you force Office desktop applications to pick up the new name, but it forces the user to sign back into the Office desktop apps again.
 
 If you change the organization name, OneDrive Sync will not automatically update the organization name it uses. The OneDrive Sync client will not notice the new name unless you [unlink OneDrive Sync client and re-link it](https://support.microsoft.com/office/unlink-and-re-link-onedrive-3c4680bf-cc36-4204-9ca5-e7b24cdd23ea) by signing in again. Note that you may need to do some file system cleanup after that. Also, you don't want to unlink your OneDrive Sync client if you have unsynced files. Make sure syncing has been completed before unlinking. Relinking will resync your OneDrive, but if you had previously synced SharePoint libraries that are listed under the blue office building in File Explorer, you would need to re-sync those libraries individually. A better alternative is to use the Add to OneDrive feature to add a shortcut in your OneDrive to a SharePoint library. With an Add to OneDrive shortcut, the folder contents syncs within your OneDrive blue cloud instead of your OneDrive blue office building and would automatically be included in syncing when relinking.
 

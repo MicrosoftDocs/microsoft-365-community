@@ -21,7 +21,7 @@ The [Maturity Model for Microsoft 365](microsoft365-maturity-model--intro.md) is
 This Practical Scenarios document covers service heal management as surfaced in the [Microsoft 365 Admin Center](https://admin.cloud.microsoft/?source=applauncher#/homepage), specifically in the Service Health Dashboard. Use of the Service Health Dashboard should be a key practice in operational management of Microsoft 365 (including Power Platform).
 
 Note that we distinguish Service Health Management from Service Change Management. Service Health Management is about unplanned service failures and outages and communication about service health incidents.
-Service Change Management is about planned change, including the arrival of new features and capabilities and the departure via deprecation of exisitng features and communication about these changes. 
+Service Change Management is about planned change, including the arrival of new features and capabilities and the departure via deprecation of existing features and communication about these changes. 
 Note that planned outages, such as for a Power Platform service upgrade, are communicated via the Message Center.
  
 ## Introduction to Service Health Management
@@ -32,13 +32,13 @@ The [Microsoft 365 Admin Center](https://admin.cloud.microsoft/#/homepage) provi
 
 ## Level 100 - Initial
 
-- No-one in the organization is explicitly responsible for reviewing the Service Health Dashboard and health incidents and advisories are ignored.
+- No one in the organization is explicitly responsible for reviewing the Service Health Dashboard and health incidents and advisories are ignored.
 - Service interruptions take the organization by surprise. They disrupt business processes and harm the business.
 - Service outages are not recognized and staff time is wasted attempting to resolve issues within their environment, when it is actually Microsoft's responsibility to resolve the problem.
 
 ## Level 200 – Managed
 
--The Service Health Dashboard is reviewed only when incidents are reported to the organization's helpdesk.
+-The Service Health Dashboard is reviewed only when incidents are reported to the organization's HelpDesk.
 - No formal incident response plan has been created.
 - Service desk or support roles review health advisories reactively in response to user reports.
 
@@ -47,7 +47,7 @@ The [Microsoft 365 Admin Center](https://admin.cloud.microsoft/#/homepage) provi
 - Relevant staff receive incident notifications via email
 - Someone in the organization reviews the Service Health Dashboard, perhaps as often as daily.
 - The organization has documented a formal incident response plan.
-- Relevant end-user-impacting advisories  are communicated to key roles and may be posted to the intranet, the helpdesk ticketing system's landing page, Teams and via email.
+- Relevant end-user-impacting advisories  are communicated to key roles and may be posted to the intranet, the HelpDesk ticketing system's landing page, Teams and via email.
 - Service desk staff are briefed on Service Health issues as needed.
 
 ## Level 400 - Managed (Capable)
@@ -58,7 +58,8 @@ The [Microsoft 365 Admin Center](https://admin.cloud.microsoft/#/homepage) provi
 - Incident response and disaster recovery plans are documented and tested on a regular basis, at least annually.  Many of the steps are manual.
 
 ## Level 500 - Optimizing (Efficient)
-- Incident response and disaster recovery plans are documented and tested on a regular basis, at least annually. Much of the response is automated and the organization is seeking to continously improve its response and maximize the level of automation
+
+- Incident response and disaster recovery plans are documented and tested on a regular basis, at least annually. Much of the response is automated and the organization is seeking to continuously improve its response and maximize the level of automation.
 - When a service goes down, a well-rehearsed plan is put into action.
 - Service Health status and incident data is monitored through automated systems using the API 
 
