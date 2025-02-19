@@ -52,7 +52,7 @@ Effective branding is far more than simply a logo and some colors. It should be 
 
 ## Applying the Maturity Model to Brand Management
 
-## Level 100: Initial
+### Level 100: Initial
 
 **Scenario:** A small startup has a logo and a basic color scheme but lacks comprehensive brand guidelines. Each department creates its own marketing materials as a need arises, resulting in inconsistent use of fonts, colors, and messaging. The brand identity is weak and often confused with competitors; potential customers are unable to describe what the company purpose or differentiator is.
 
@@ -63,18 +63,18 @@ Effective branding is far more than simply a logo and some colors. It should be 
 - Little, if any, thought has been given to what the brand is intended to communicate.
 - It is likely that the use of brand echoes weaknesses in company culture, governance and employee engagement.
 
-### 100 Development actions & activities
+#### 100 Development actions & activities
 
 - **Awareness:** Introduce the basic concepts of brand identity to staff and management. Outline the core brand elements: logos, fonts, colors, imagery, tone of voice.
 - **Brand definition**: Define organizational personality and values to be represented by the brand asset, based on thinking around:
   - Know Your Audience and identify your ‘tribe’, the people you really want as your supporters and influencers.
   - Define your story; what you want people to know about you and say about you.
   - Identify your key differentiators; what it is like doing business with you and why you offer the products and services you do. This is the basis for your brand promise.
-  - Read around branding concepts: <https://fabrikbrands.com/branding-matters/branding/branding-and-brand-essentials/>
+  - Read more about [branding concepts](https://fabrikbrands.com/branding-matters/branding/branding-and-brand-essentials/)
 - **Build brand assets:** Create core brand elements to support your brand. Review these to ensure they meet accessibility standards and work across digital and print. Create template documents and slide decks (Word .dotx and PowerPoint .potx files) and store these in the brand folder.
 - **Share assets and brand:** Create a shared location for storing core brand assets. Upload essential brand assets (e.g., logos, primary color palette, etc.) to shared location.
 
-## Level 200: Managed
+### Level 200: Managed
 
 **Scenario:** The company becomes aware that its brand is ineffective and starts to formalize the approach.
 
@@ -91,14 +91,14 @@ Effective branding is far more than simply a logo and some colors. It should be 
 
 ![Email signature](media/maturity-model-microsoft365-ps-enhancing-brand-management/email-signature.png)
 
-### 200 Development actions & activities
+#### 200 Development actions & activities
 
 - **Asset Organization:** Categorize types of brand assets (e.g., Logos, Templates, Fonts) and how/where they should be used (internal, external, social media, formal reports, and articles, etc.).
 - **Guideline Development:** Draft basic brand guidelines covering logo usage and primary colors to describe why, how, and where to use the brand. Publish for staff use.
 - **Communicate:** Ensure the availability of these resources is promoted to all departments and explain that they must use the official versions.
 - **Protect assets and Intellectual Property**: Register logos and other visual devices as trademarks.
 
-## Level 300: Defined
+### Level 300: Defined
 
 **Scenario:** The organization has developed detailed brand guidelines that include logo usage, color palettes, typography, and tone of voice. These are accessible to all employees, and training/refresher sessions on the brand and intellectual property are held to drive understanding and compliance. The brand reflects the company culture and ethics and is consistently represented across all marketing materials and customer touch points. Core elements are established as trademarks.
 
@@ -119,7 +119,7 @@ Effective branding is far more than simply a logo and some colors. It should be 
 - High impact external and internal communications are reviewed for being on-brand and compliant with guidelines.
 - Email signatures are standardized ‘on-brand’ and tools for central management are being introduced.
 
-### 300 Development actions & activities
+#### 300 Development actions & activities
 
 - **Expand:** extend the range and flexibility of templates. Add branding to other tools, such as Teams meeting lobby, Planner, SharePoint site (via themes)
 - **Deploy Asset libraries**: Define templates and images for use as [organizational Assets](https://noviaworks.co.uk/2024/10/10/unlocking-sharepoints-brand-centre-for-your-organization/#Asset-Libraries)
@@ -127,7 +127,7 @@ Effective branding is far more than simply a logo and some colors. It should be 
 - **Enhance processes**: Add governance and lifecycle management to brand activities. Scan for inappropriate trademark use internally and externally.
 - **Extend accountability**: Assign brand and communication managers to oversee brand asset usage.
 
-## Level 400: Quantitatively Managed
+### Level 400: Quantitatively Managed
 
 **Scenario:** A large corporation has a dedicated brand management team that oversees all aspects of branding. The brand guidelines are not only comprehensive but also regularly updated to reflect market trends and company evolution. Advanced analytics tools are used to track brand perception and performance, and the company actively creates customer engagement to mould the brand experience. The brand is strong, recognizable, and trusted globally.
 
@@ -144,7 +144,7 @@ Effective branding is far more than simply a logo and some colors. It should be 
 - Cross-functional teams working together on campaigns and branding projects, using Microsoft Teams and Viva Engage to communicate and collaborate.
 - The brand guide is a controlled document with similar impact and governance as other policies and operating procedures, e.g. subject to review and updates.
 
-### 400 Development actions & activities
+#### 400 Development actions & activities
 
 - **Monitoring:** Implement a system to monitor the use of brand assets, ensure compliance and assess impact of storytelling. Collect and analyze feedback from employees to improve the Brand Center.
 - **Feedback Mechanism:** Establish a feedback loop for continuous improvement of multiple aspects of the brand.
@@ -153,7 +153,7 @@ Effective branding is far more than simply a logo and some colors. It should be 
 
 ![Copilot Starter Nov 2024](media/maturity-model-microsoft365-ps-enhancing-brand-management/copilot-starter-2024.png)
 
-## Level 500: Optimizing
+### Level 500: Optimizing
 
 **Scenario:** A multinational corporation has both central and regional/national brand management teams who proactively ensure the brand and associated assets and processes anticipate market trends and company evolution. Analytics tools are used to track brand perception, and the company actively engages with customers to gather feedback and improve the brand experience. The brand is recognizable and trusted.
 
