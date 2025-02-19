@@ -85,7 +85,7 @@ For iOS and Android, there is a Power Automate app that can allow you to build F
 
 Applies to: **Logic Apps**
 
-Visual Studio is an enterprise grade integrated development environment that allows you to create cloud, ASP.NET C#, VB, Visual J#, Xamarin projects including Windows API, Forms, Windows Presentation Foundation apps even classic SharePoint On-Premises Farm & Sandbox solutions.
+Visual Studio is an enterprise grade integrated development environment that allows you to create cloud, ASP.NET C#, VB, Visual J#, Windows Forms, Windows Presentation Foundation apps even classic SharePoint On-Premises Farm & Sandbox solutions.
 
 Visual Studio supports working with Azure solutions, including Logic Apps, that allows you to connect to a subscription and provides a logic app editor experience.
 
