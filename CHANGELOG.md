@@ -12,6 +12,7 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
+| [Practical Scenario: Enhancing Brand Management](./Community/maturity-model-microsoft365-ps-enhancing-brand-management.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
 
 ### Updated Articles - February, 2025
 
