@@ -20,6 +20,7 @@ Note: Changelog started in January, 2021
 |---|---|
 | [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 | [Team Site vs. Communication Site: Which one should I choose?](./Community/team-site-or-communication-site.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+| [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps.md) | [David Britch](https://github.com/davidbritch) |
 
 ### Removed/retired Articles - February, 2025
 

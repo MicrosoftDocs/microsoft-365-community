@@ -113,7 +113,7 @@ Effective branding is far more than simply a logo and some colors. It should be 
 - Staff have reviewed and updated their day-to-day documents and collateral to the brand standard. They use templates as the basis for new documents and articles, adding further brand elements as required and considering tone of voice.
 - Organization templates (Word documents and PowerPoint slide decks) are published to Brand Center and staff are shown how to make the location a default in Office applications.
 
-![MOrganization templates](media/maturity-model-microsoft365-ps-enhancing-brand-management/organization-templates.png)
+![Organization templates](media/maturity-model-microsoft365-ps-enhancing-brand-management/organization-templates.png)
 
 - There is a process for reviewing and maintaining trademarks.
 - High impact external and internal communications are reviewed for being on-brand and compliant with guidelines.
