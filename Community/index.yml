@@ -115,6 +115,8 @@ landingContent:
             url: taking-advantage-content-type-inheritance-sharepoint.md
           - text: List Formatting 101
             url: list-formatting-101.md
+          - text: Change your organization's display name
+            url: where-tenant-display-name-is-used.md
 
   # Card (optional)
   - title: Effective Communication
