@@ -105,7 +105,7 @@ Effective branding is far more than simply a logo and some colors. It should be 
 - Senior management are _united_ around the organization brand and the vision, mission, and business principles. Staff understand the value of the brand and respect the purpose and application. Brand training is available.
 - Brand guidelines have been refined and evolved to be impactful, consistent, and flexible; they are shared across the organization and well used. It clearly defines logos and their use, corporate fonts, corporate colors (with their RGB, Hex and Pantone codes), and differentiates between primary and secondary colors and offers examples of use. Tone of voice is described, with examples. It offers guidance and some flexibility.
 - Logos and trademarks are actively managed, registered and actively managed with national intellectual property administration. A range of suitable sizes, formats, and variants for dark and light mode, physical and digital, with and without transparency are provided.
-- [SharePoint Brand Center](https://noviaworks.co.uk/2024/10/10/unlocking-sharepoints-brand-centre-for-your-organization/) has been implemented. Logos, corporate images, and other brand assets are stored in Brand Center libraries, within appropriate folders. The brand guidelines and other brand related documents are published to a library here; these are supplemented with further information using SharePoint pages, exposing the key content of the brand guidelines.
+- [SharePoint Brand Center](https://noviaworks.co.uk/2024/10/10/unlocking-sharepoints-brand-centre-for-your-organisation/) has been implemented. Logos, corporate images, and other brand assets are stored in Brand Center libraries, within appropriate folders. The brand guidelines and other brand related documents are published to a library here; these are supplemented with further information using SharePoint pages, exposing the key content of the brand guidelines.
 - Marketing/ Comms are responsible for managing the backend of Brand Centre and have set up brand colors and fonts. Core themes have been produced from these to define the intranet look and feel and site owners are requested to use these themes.
 
 ![Custom theme](media/maturity-model-microsoft365-ps-enhancing-brand-management/custom-theme.png)
@@ -122,7 +122,7 @@ Effective branding is far more than simply a logo and some colors. It should be 
 #### 300 Development actions & activities
 
 - **Expand:** extend the range and flexibility of templates. Add branding to other tools, such as Teams meeting lobby, Planner, SharePoint site (via themes)
-- **Deploy Asset libraries**: Define templates and images for use as [organizational Assets](https://noviaworks.co.uk/2024/10/10/unlocking-sharepoints-brand-centre-for-your-organization/#Asset-Libraries)
+- **Deploy Asset libraries**: Define templates and images for use as [organizational Assets](https://noviaworks.co.uk/2024/10/10/unlocking-sharepoints-brand-centre-for-your-organisation/#Asset-Libraries)
 - **Continuing training and awareness**: Host training sessions and workshops to educate employees on brand usage. Develop step-by-step guides and video tutorials for using brand assets.
 - **Enhance processes**: Add governance and lifecycle management to brand activities. Scan for inappropriate trademark use internally and externally.
 - **Extend accountability**: Assign brand and communication managers to oversee brand asset usage.
