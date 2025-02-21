@@ -14,6 +14,11 @@
       "source_path": "Community/index_mm4m365.yml",
       "redirect_url": "/microsoft-365/community/index-mm4m365",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "Community/where-tenant-display-name-is-used.md",
+      "redirect_url": "Community/understanding-where-tenant-display-name-is-used.md",
+      "redirect_document_id": true
     }
   ] 
 }
