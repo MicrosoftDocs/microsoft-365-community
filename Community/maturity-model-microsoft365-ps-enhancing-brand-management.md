@@ -14,7 +14,7 @@ ms.collection: M365Community
 
 # Practical Scenario: Enhancing Brand Management
 
-[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
+[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
 ## Overview
 
