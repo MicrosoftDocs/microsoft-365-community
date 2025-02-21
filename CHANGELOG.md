@@ -24,10 +24,11 @@ Note: Changelog started in January, 2021
 | [Team Site vs. Communication Site: Which one should I choose?](./Community/team-site-or-communication-site.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 | [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps.md) | [David Britch](https://github.com/davidbritch) |
 
-### Removed/retired Articles - February, 2025
+### Removed/Retired Articles - February, 2025
 
-| Article | Updated By |
-|---|---|
+| Article |
+|---|
+| [Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces](./Community/yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces) |
 
 ### New Contributors - February, 2025
 
