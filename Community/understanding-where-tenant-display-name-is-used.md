@@ -12,7 +12,7 @@ ms.localizationpriority: Low
 ms.collection: M365Community
 ---
 
-# Change your organization's display name
+# Understanding where your tenant's display name is used
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
   

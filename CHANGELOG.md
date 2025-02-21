@@ -14,7 +14,7 @@ Note: Changelog started in January, 2021
 |---|---|
 | [Practical Scenario: Enhancing Brand Management](./Community/maturity-model-microsoft365-ps-enhancing-brand-management.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
 | [Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Health Management](./Community/maturity-model-microsoft365-servicing-microsoft365-service-health-management.md) | [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/) |
-| [Change your organization's display name](./Community/where-tenant-display-name-is-used.md) | [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/) |
+| [Understanding where your tenant's display name is used](./Community/understanding-where-tenant-display-name-is-used.md) | [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/) |
 
 ### Updated Articles - February, 2025
 
