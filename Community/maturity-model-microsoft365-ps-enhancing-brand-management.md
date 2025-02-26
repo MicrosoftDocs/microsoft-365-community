@@ -89,7 +89,7 @@ Effective branding is far more than simply a logo and some colors. It should be 
 - Signage and other physical representations of the brand are updated to be consistent with the new approach.
 - Staff are told to create and use email signatures in a standard ‘on-brand’ format.
 
-  :::image type="content" alt-text="Email signature" source="media/maturity-model-microsoft365-ps-enhancing-brand-management/email-signature.png" lightbox="media/maturity-model-microsoft365-ps-enhancing-brand-management/email-signature.png":::
+  :::image type="content" alt-text="Email signature" source="media/maturity-model-microsoft365-ps-enhancing-brand-management/email-signature.png":::
 
 #### 200 Development actions & activities
 
@@ -108,12 +108,12 @@ Effective branding is far more than simply a logo and some colors. It should be 
 - [SharePoint Brand Center](https://noviaworks.co.uk/2024/10/10/unlocking-sharepoints-brand-centre-for-your-organisation/) has been implemented. Logos, corporate images, and other brand assets are stored in Brand Center libraries, within appropriate folders. The brand guidelines and other brand related documents are published to a library here; these are supplemented with further information using SharePoint pages, exposing the key content of the brand guidelines.
 - Marketing/ Comms are responsible for managing the backend of Brand Centre and have set up brand colors and fonts. Core themes have been produced from these to define the intranet look and feel and site owners are requested to use these themes.
 
-  :::image type="content" alt-text="Custom theme" source="media/maturity-model-microsoft365-ps-enhancing-brand-management/custom-theme.png" lightbox="media/maturity-model-microsoft365-ps-enhancing-brand-management/custom-theme.png":::
+  :::image type="content" alt-text="Custom theme" source="media/maturity-model-microsoft365-ps-enhancing-brand-management/custom-theme.png":::
 
 - Staff have reviewed and updated their day-to-day documents and collateral to the brand standard. They use templates as the basis for new documents and articles, adding further brand elements as required and considering tone of voice.
 - Organization templates (Word documents and PowerPoint slide decks) are published to Brand Center and staff are shown how to make the location a default in Office applications.
 
-  :::image type="content" alt-text="Organization templates" source="media/maturity-model-microsoft365-ps-enhancing-brand-management/organization-templates.png" lightbox="media/maturity-model-microsoft365-ps-enhancing-brand-management/organization-templates.png":::
+  :::image type="content" alt-text="Organization templates" source="media/maturity-model-microsoft365-ps-enhancing-brand-management/organization-templates.png":::
 
 - There is a process for reviewing and maintaining trademarks.
 - High impact external and internal communications are reviewed for being on-brand and compliant with guidelines.
@@ -151,7 +151,7 @@ Effective branding is far more than simply a logo and some colors. It should be 
 - **Embed governance**: Regularly review and update brand assets and guidelines.
 - **Enable AI**: Introduce the standard ‘golden’ template into all PowerPoint templates (Read [guidance](https://techcommunity.microsoft.com/blog/microsoft365insiderblog/keep-your-presentations-on-brand-with-copilot-in-powerpoint/4295913); download the [template master slides here](https://techcommunity.microsoft.com/t5/s/gxcuf89792/attachments/gxcuf89792/Microsoft365InsiderBlog/559/5/Copilot%20PowerPoint%20Starter%20Template%20Nov%202024.pptx))
 
-  :::image type="content" alt-text="Copilot Starter Nov 2024" source="media/maturity-model-microsoft365-ps-enhancing-brand-management/copilot-starter-2024.png" lightbox="media/maturity-model-microsoft365-ps-enhancing-brand-management/copilot-starter-2024.png":::
+  :::image type="content" alt-text="Copilot Starter Nov 2024" source="media/maturity-model-microsoft365-ps-enhancing-brand-management/copilot-starter-2024.png":::
 
 ### Level 500: Optimizing
 

@@ -28,21 +28,21 @@ After you have enabled Shared Channels and created your first Shared Channel, th
 
 When you add a external user to your Team, you will see that the user is labeled as a "Guest".
 
-:::image type="content" alt-text="Adding a guest to Teams" source="media/teams-shared-channel-for-admins/tsc01.png" lightbox="media/teams-shared-channel-for-admins/tsc01.png":::
+:::image type="content" alt-text="Adding a guest to Teams" source="media/teams-shared-channel-for-admins/tsc01.png":::
 
 When you add the same user to a Shared Channel, that external user will be labeled with "External", meaning there won't be a "conflict" related to the user for this channel.
 
-:::image type="content" alt-text="Adding an external user to Teams" source="media/teams-shared-channel-for-admins/tsc02.png" lightbox="media/teams-shared-channel-for-admins/tsc02.png":::
+:::image type="content" alt-text="Adding an external user to Teams" source="media/teams-shared-channel-for-admins/tsc02.png":::
 
 After the External user is added, in their Teams client they will receive a notification and the External team will show up. This works almost instantly for the user.
 
 This is also super sweet, as the users don't need to switch tenants.
 
-:::image type="content" alt-text="Notification about external channel" source="media/teams-shared-channel-for-admins/tsc03.png" lightbox="media/teams-shared-channel-for-admins/tsc03.png":::
+:::image type="content" alt-text="Notification about external channel" source="media/teams-shared-channel-for-admins/tsc03.png":::
 
 Collaborating in chats will show an "alert" with a message about the Shared Channel.
 
-:::image type="content" alt-text="Alert about external sharing" source="media/teams-shared-channel-for-admins/tsc04.png" lightbox="media/teams-shared-channel-for-admins/tsc04.png":::
+:::image type="content" alt-text="Alert about external sharing" source="media/teams-shared-channel-for-admins/tsc04.png":::
 
 ## Where is the "External" user?
 
@@ -58,27 +58,27 @@ But for Shared Channels, the "External" user only exists as an external user to 
 
 In the Manage channel settings, you can see the external users in the Members section.
 
-:::image type="content" alt-text="Manage channel settings" source="media/teams-shared-channel-for-admins/tsc08.png" lightbox="media/teams-shared-channel-for-admins/tsc08.png":::
+:::image type="content" alt-text="Manage channel settings" source="media/teams-shared-channel-for-admins/tsc08.png":::
 
 ### Teams Admin Center
 
 In the Teams Admin Center, you can drill into the Team and the Shared Channel to see the Members.
 
-:::image type="content" alt-text="Manage channel settings in the Teams Admin Center" source="media/teams-shared-channel-for-admins/tsc09.png" lightbox="media/teams-shared-channel-for-admins/tsc09.png":::
+:::image type="content" alt-text="Manage channel settings in the Teams Admin Center" source="media/teams-shared-channel-for-admins/tsc09.png":::
 
 ### SharePoint Site Permissions
 
 In the SharePoint site which is created for the Shared Channel, you won't have a link option for "Site permissions" in the "Site settings" menu to check there, either.
 
-:::image type="content" alt-text="Shared Channel site settings" source="media/teams-shared-channel-for-admins/tsc05.png" lightbox="media/teams-shared-channel-for-admins/tsc05.png":::
+:::image type="content" alt-text="Shared Channel site settings" source="media/teams-shared-channel-for-admins/tsc05.png":::
 
 But it doesn't mean that the permission page is not there. Navigating to your Shared Channel site with the extra url `/_layouts/15/user.aspx` will take you to the classic permission page you're used to.
 
-:::image type="content" alt-text="Shared Channel site permission settings" source="media/teams-shared-channel-for-admins/tsc06.png" lightbox="media/teams-shared-channel-for-admins/tsc06.png":::
+:::image type="content" alt-text="Shared Channel site permission settings" source="media/teams-shared-channel-for-admins/tsc06.png":::
 
 Here, you can see your External users with their "ObjectId" and "HomeTenantId".
 
-:::image type="content" alt-text="External user information" source="media/teams-shared-channel-for-admins/tsc07.png" lightbox="media/teams-shared-channel-for-admins/tsc07.png":::
+:::image type="content" alt-text="External user information" source="media/teams-shared-channel-for-admins/tsc07.png":::
 
 ## Tips and tricks before enabling Shared Channels for production
 
