@@ -17,8 +17,8 @@ metadata:
 # linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | tutorial | video | whats-new
 
 landingContent:
-# Cards and links should be based on top customer tasks or top subjects
-# Start card title with a verb
+  # Cards and links should be based on top customer tasks or top subjects
+  # Start card title with a verb
 
   # Card (optional)
   - title: Overview
@@ -26,9 +26,9 @@ landingContent:
       - linkListType: overview
         links:
           - text: Introduction to the Maturity Model for Microsoft 365
-            url:  microsoft365-maturity-model--intro.md
+            url: microsoft365-maturity-model--intro.md
           - text: Origin of the Maturity Model for Microsoft 365
-            url:  microsoft365-maturity-model-origin-story.md
+            url: microsoft365-maturity-model-origin-story.md
 
   # Card (optional)
   - title: What's New
@@ -48,9 +48,9 @@ landingContent:
           - text: AI & Cognitive Business Competency
             url: microsoft365-maturity-model--cognitive-business.md
           - text: Collaboration Competency
-            url:  microsoft365-maturity-model--collaboration.md
+            url: microsoft365-maturity-model--collaboration.md
           - text: Communication Competency
-            url:  microsoft365-maturity-model--communication.md
+            url: microsoft365-maturity-model--communication.md
           - text: Customization and Development Competency
             url: microsoft365-maturity-model--customization-and-development.md
           - text: Employee Experience Competency
@@ -109,6 +109,8 @@ landingContent:
             url: maturity-model-microsoft365-servicing-microsoft365-apps.md
           - text: Maturity Model for Microsoft 365 Practical Scenarios - Microsoft 365 Service Change Management
             url: maturity-model-microsoft365-servicing-microsoft365-service-change-management.md
+          - text: Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Health Management
+            url: maturity-model-microsoft365-servicing-microsoft365-service-health-management.md
 
   # Card (optional)
   - title: Practitioner Sessions
@@ -118,7 +120,7 @@ landingContent:
           - text: Download the Practitioner Sessions meeting invitation
             url: https://aka.ms/mm4m365/invite
           - text: Microsoft 365 Maturity Model Practitioner Sessions (YouTube)
-            url: https://symp.info/MM4M365Videos 
+            url: https://symp.info/MM4M365Videos
           - text: Microsoft 365 Maturity Model Practitioner Sessions Slide Decks
             url: https://symp.info/MM4M365Slides
 
@@ -127,7 +129,7 @@ landingContent:
     linkLists:
       - linkListType: reference
         links:
-        - text: Capability Maturity Model Integration (Wikipedia)
-          url: https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
-        - text: "Automation Maturity Model: Power Up your RPA and hyper-automation adoption journey!"
-          url: https://powerautomate.microsoft.com/en-us/blog/automation-maturity-model-power-up-your-rpa-and-hyper-automation-adoption-journey/
+          - text: Capability Maturity Model Integration (Wikipedia)
+            url: https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
+          - text: "Automation Maturity Model: Power Up your RPA and hyper-automation adoption journey!"
+            url: https://powerautomate.microsoft.com/en-us/blog/automation-maturity-model-power-up-your-rpa-and-hyper-automation-adoption-journey/
