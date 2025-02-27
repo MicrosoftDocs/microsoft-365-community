@@ -95,6 +95,8 @@ Items:
         href: maturity-model-microsoft365-servicing-microsoft365-apps.md
       - name: Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Change Management
         href: maturity-model-microsoft365-servicing-microsoft365-service-change-management.md
+      - name: Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Health Management
+        href: maturity-model-microsoft365-servicing-microsoft365-service-health-management.md
   - name: SharePoint Better Practices
     items:
     - name: Site Builder/Owner—New Site Checklist
@@ -135,6 +137,7 @@ Items:
       href: taking-advantage-content-type-inheritance-sharepoint.md
     - name: List Formatting 101
       href: list-formatting-101.md
+
   - name: Effective Communication
     items:
     - name: The Principles of Communication
@@ -219,10 +222,12 @@ Items:
       href: power-platform-DLP-policies-you-should-be-considering-on-Day-1.md
     - name: Using Microsoft Identity Governance to Perform Guest Reviews
       href: performing-guest-reviews.md
-  - name: In Preview
+
+  - name: Administration
     items:
-    - name: Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces
-      href: yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces.md
+    - name: Understanding where your tenant's display name is used
+      href: understanding-where-tenant-display-name-is-used.md
+
   - name: References
     items:
     - name: FastTrack onboarding and adoption services

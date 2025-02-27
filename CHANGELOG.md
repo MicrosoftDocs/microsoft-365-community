@@ -12,6 +12,11 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
+| [Practical Scenario: Enhancing Brand Management](./Community/maturity-model-microsoft365-ps-enhancing-brand-management.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Health Management](./Community/maturity-model-microsoft365-servicing-microsoft365-service-health-management.md) | [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/) |
+| [Understanding where your tenant's display name is used](./Community/understanding-where-tenant-display-name-is-used.md) | [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/) |
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Simon Doy, MVP](https://www.linkedin.com/in/simondoy/) |
+| [Microsoft 365 Search Technologies](./Community/microsoft-365-search-technologies.md) | [Dave Mehr](https://www.linkedin.com/in/david-mehr-055b46181/)|
 
 ### Updated Articles - February, 2025
 
@@ -19,11 +24,13 @@ Note: Changelog started in January, 2021
 |---|---|
 | [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 | [Team Site vs. Communication Site: Which one should I choose?](./Community/team-site-or-communication-site.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+| [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps.md) | [David Britch](https://github.com/davidbritch) |
 
-### Removed/retired Articles - February, 2025
+### Removed/Retired Articles - February, 2025
 
-| Article | Updated By |
-|---|---|
+| Article |
+|---|
+| [Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces](./Community/yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces) |
 
 ### New Contributors - February, 2025
 
