@@ -26,7 +26,7 @@ A distinction is made between the following possibilities:
 
 ## Microsoft Search (Modern search)
 
-Microsoft Search is based on the Microsoft Search engine, which provides data using the Microsoft Graph and other sources. Microsoft Search uses AI components and the Bing algorithm to display the information and data in a more user-friendly way. In most Microsoft applications, the Microsoft Search Box is available at the top of the header. Results are displayed in the context of the application. In the Microsoft Productivity Apps (Word, Excel, PowerPoint, etc.) you can search for content as well as for functions, e.g. reusable slides. The contents of documents are full-text indexed and it is possible to search for metadata or content. For an verview of which elements are available and indexed in Microsoft Search with Microsoft Graph, see [Overview of Microsoft Graph](/graph/overview) .
+Microsoft Search is based on the Microsoft Search engine, which provides data using the Microsoft Graph and other sources. Microsoft Search uses AI components and the Bing algorithm to display the information and data in a more user-friendly way. In most Microsoft applications, the Microsoft Search Box is available at the top of the header. Results are displayed in the context of the application. In the Microsoft Productivity Apps (Word, Excel, PowerPoint, etc.) you can search for content as well as for functions, e.g. reusable slides. The contents of documents are full-text indexed and it is possible to search for metadata or content. For an overview of which elements are available and indexed in Microsoft Search with Microsoft Graph, see [Overview of Microsoft Graph](/graph/overview) .
 
 ### Why use Microsoft Search?
 
