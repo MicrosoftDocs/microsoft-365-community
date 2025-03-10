@@ -1,5 +1,5 @@
 ---
-title: "Maturity Model for Microsoft - Practical Scenario: Enhancing Brand Management"
+title: "Maturity Model for Microsoft Practical Scenarios - Enhancing Brand Management"
 ms.date: 9/14/2022
 author: simonjhudson
 ms.reviewer: pamgreen
@@ -8,11 +8,11 @@ ms.topic: article
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low
-description: "Maturity Model for Microsoft - Practical Scenario: Enhancing Brand Management"
+description: "Maturity Model for Microsoft Practical Scenarios - Enhancing Brand Management"
 ms.collection: M365Community
 ---
 
-# Practical Scenario: Enhancing Brand Management
+# Practical Scenarios - Enhancing Brand Management
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
