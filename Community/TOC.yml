@@ -97,6 +97,8 @@ Items:
         href: maturity-model-microsoft365-servicing-microsoft365-service-change-management.md
       - name: Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Health Management
         href: maturity-model-microsoft365-servicing-microsoft365-service-health-management.md
+      - name: Maturity Model for Microsoft 365 Practical Scenarios - Enhancing Brand Management
+        href: maturity-model-microsoft365-ps-enhancing-brand-management.md
   - name: SharePoint Better Practices
     items:
     - name: Site Builder/Owner—New Site Checklist
