@@ -45,7 +45,7 @@ In SharePoint Online or on premises, versioning is enabled in the List Settings 
 If you can enable versioning, you can disable versioning. Disabling versioning doesn't delete the old versions. End users receive no notification of this change.
 
 > [!NOTE]
-> **A Cautionary Tale:**  As site owner, if you disable Versioning and *don't* tell your end users, they'll notify you. In person.
+> **Recommendation:**  As site owner, ensure you inform your end users if you disable versioning as this will directly impact their ability to reverse changes.
 
 > [!NOTE]
 > Since the No Versioning option was removed from SharePoint Online，it can only be enabled or disabled through PowerShell or by a developer using CSOM. Versioning, however, is one of the capabilities which enables things like coauthoring, so don't turn it off unless you have a specific reason to do so.
