@@ -74,6 +74,10 @@ Always On VPN provides a single, cohesive solution for remote access and support
 
 An App is a term in SharePoint that means a packaged extension or customization that you can add to a site. An app can simply be a list that you add to a site to store information, or it can be a package that installs web parts that are available to use on pages, customizations that give you extra functionality within existing lists and libraries, or it could be an entire application that runs outside of SharePoint but has the ability to read and write back to your SharePoint site.
 
+### [App Bar](https://support.microsoft.com/office/use-the-sharepoint-app-bar-b2ab82d5-9af7-445e-ad24-236c5a86b5f8)
+
+The SharePoint app bar makes important content and resources easier to find no matter where you are in SharePoint. You'll find it on the left-hand side anywhere in modern sites.
+
 ### [App Catalog](/sharepoint/use-app-catalog)
 
 As a SharePoint or global admin in Microsoft 365, you can acquire solutions from the SharePoint Store or distribute custom apps that can be used across SharePoint, Microsoft Teams, and Viva Connections. The first step in acquiring solutions is to have an App Catalog you can use to store and distribute solutions.
