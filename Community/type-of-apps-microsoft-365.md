@@ -56,7 +56,7 @@ Finally, you can [send notifications](/microsoftteams/platform/webhooks-and-conn
 
 ### Extend portals
 
-Many organizations that use Microsoft 365 use [portals](https://lookbook.microsoft.com/?WT.mc_id=m365-16324-wmastyka) to facilitate communication and manage knowledge. Using rich pages, they publish content and build interactive dashboards. These pages consist of reusable building blocks - web parts, that end-users put together.
+Many organizations that use Microsoft 365 use [portals](https://adoption.microsoft.com/sharepoint-look-book//?WT.mc_id=m365-16324-wmastyka) to facilitate communication and manage knowledge. Using rich pages, they publish content and build interactive dashboards. These pages consist of reusable building blocks - web parts, that end-users put together.
 
 ![Custom SharePoint portal on Microsoft 365](media/type-of-apps-microsoft-365/full-layout-thelanding.jpg)
 
