@@ -798,9 +798,9 @@ Microsoft Mesh enables presence and shared experiences from anywhere – on any 
 
 Generically, metadata means information about something else. In SharePoint metadata is additional information applied to documents, pages, or list items. We use metadata all the time in our lives, but rarely think of it as metadata. For example, the information we write on a file we put into a filing cabinet or the way we organize spices in the kitchen is driven by metadata.
 
-### [Microsoft Certified Professional (MCP)](https://mcp.microsoft.com/Home.html)
+### Microsoft Certified Professional (MCP)
 
-A Microsoft Certified Professional (MCP) is a person who has successfully completed professional training for Microsoft products through a certification program run by Microsoft.
+The Microsoft Certified Professional (MCP) certification was decommissioned in February 2019 and replaced with role-based certifications that validate skills across various Microsoft technologies.
 
 ### [Microsoft Certified Trainer (MCT)](/certifications/mct-certification)
 
@@ -1024,9 +1024,9 @@ The term 'putability' is the complement to the term 'findability'; it is a measu
 
 ## Q
 
-### [QBasic](https://www.microsoft.com/p/qbasic/9ntmcqwn2sqm#activetab=pivot:overviewtab)
+### QBasic
 
-QBasic is Quick Basic interpreter.This application can be used to run quick basic program and software developed for your Windows10 desktop or tablet.
+QBasic is Quick Basic interpreter.This application could be used to run quick basic program and software developed for your Windows10 desktop or tablet.
 
 ### [QnA Maker](/azure/cognitive-services/qnamaker/overview/overview)
 
@@ -1269,7 +1269,7 @@ As both Standard and [Targeted Release](#targeted-release) options can be applie
 
 The Style Library is a document library in the Root Web of a SharePoint site that is used mainly in Classic SharePoint Sites. One of the purposes of this library is as a recognized "secure location" to store XSL Templates that are used by the Content Query Web Part (XSL templates outside of the Style Library cannot be used in Content Query Web Parts).
 
-### [Store](https://www.microsoft.com/store/apps/windows)
+### [Store](https://apps.microsoft.com/apps)
 
 Download Windows apps for your Windows tablet or computer. Browse thousands of free and paid apps by category, read user reviews, and compare ratings.
 

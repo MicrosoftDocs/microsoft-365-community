@@ -18,7 +18,7 @@ ms.collection: SPCommunity
 
 ## Introduction
 
-Learning Pathways is a [customizable](/office365/customlearning/custom_accessadmin), on-demand learning solution in Microsoft 365. Learning Pathways offers a fully customizable SharePoint Online communication site (that may be used as a training portal), easy provisioning from the [SharePoint Look Book](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239?source=default), the ability to make your own [training playlists with custom assets](/office365/customlearning/custom_addassets), [a custom web part](/office365/customlearning/custom_whereiswebpart) to surface training content across your SharePoint site collections, and up-to-date Microsoft documentation for Microsoft 365 solutions.
+Learning Pathways is a [customizable](/office365/customlearning/custom_accessadmin), on-demand learning solution in Microsoft 365. Learning Pathways offers a fully customizable SharePoint Online communication site (that may be used as a training portal), easy provisioning from the [Microsoft 365 Learning Pathways](https://adoption.microsoft.com/en-us/microsoft-365-learning-pathways/), the ability to make your own [training playlists with custom assets](/office365/customlearning/custom_addassets), [a custom web part](/office365/customlearning/custom_whereiswebpart) to surface training content across your SharePoint site collections, and up-to-date Microsoft documentation for Microsoft 365 solutions.
 
 ## Use Cases
 
