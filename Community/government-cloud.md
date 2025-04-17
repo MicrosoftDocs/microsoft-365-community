@@ -121,13 +121,9 @@ Then for specific guidance, review the [SharePoint for US governments](/office36
 A shared affinity for public service helps technologists, developers, site owners, and M365 experts working in the government cloud to support one another. These resources can get you answers quickly from people with similar government cloud configurations.
 
 - [Microsoft Public Sector Community](https://techcommunity.microsoft.com/t5/public-sector/ct-p/PublicSector)
-
-- [Microsoft Public Sector Blog](https://techcommunity.microsoft.com/t5/public-sector-blog/bg-p/PublicSectorBlog) [[RSS](https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=336335429204089405&board=PublicSectorBlog&size=25)]
-
+- [Microsoft Public Sector Blog](https://techcommunity.microsoft.com/t5/public-sector-blog/bg-p/PublicSectorBlog)
 - [Social media – mention your government cloud instance with these hash tags](/microsoft-365/community/microsoft-365-on-social-media)
-
 - [M365 User Group of Washington DC](https://www.meetup.com/m365dc/)
-
 - [Government Community Call – AvePoint Public Sector](https://www.youtube.com/playlist?list=PLyJFOtpJV3wNOExhHa6Uo5XLieb0RC_EW)
 
 Thanks to these community members for article input: _Adrienne Andrews, Ed Bellman, Sean Bugler, Jason Byrd, Nate Chamberlain, Joseph Dunn, Christophe Humbert, Naveen Karla, Matt Wade, Fred Yano_.
