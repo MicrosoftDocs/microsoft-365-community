@@ -8,7 +8,7 @@ may be either trademarks or registered trademarks of Microsoft in the United Sta
 The licenses for this project do not grant you rights to use any Microsoft names, logos, or trademarks. 
 You can find Microsoft general trademark guidelines at [Microsoft Trademark and Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks).
 
-For privacy information, see [privacy at Microsoft](https://privacy.microsoft.com/en-us/).
+For privacy information, see [privacy at Microsoft](https://privacy.microsoft.com).
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
