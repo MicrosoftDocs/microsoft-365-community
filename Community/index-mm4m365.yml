@@ -31,12 +31,12 @@ landingContent:
             url: microsoft365-maturity-model-origin-story.md
 
   # Card (optional)
-  - title: What's New
+  - title: What's New 🆕
     linkLists:
       - linkListType: whats-new
         links:
-          - text: Employee Experience Competency
-            url: microsoft365-maturity-model--employee-experience.md
+          - text: Maturity Model for Microsoft 365 Practical Scenarios - Enhancing Brand Management
+            url: maturity-model-microsoft365-ps-enhancing-brand-management.md
 
   # Card (optional)
   - title: Competencies - A-L
