@@ -88,7 +88,9 @@ The organization addresses compliance in a reactive mode — doing assessments w
 - No individual or department is responsible for governance, risk and compliance, nor is it clear where these activities are taking place on a devolved basis
 - Roles, training, and competencies needed for compliance are not developed. Employees are not aware of how compliance impacts their daily work.
 - No training on technology usage—Users lack understanding of metadata, labels, and retention policies, leading to chaotic, inconsistent content classification.
-- No defined roles for information governance—Managers and business owners do not take responsibility for structuring information.
+- No defined roles for Information Architecture governance—Managers and business owners do not take responsibility for structuring information.
+- Unclear ownership—anyone can create and share content without oversight.
+
 
 #### Process (100)
 
@@ -99,17 +101,16 @@ The organization addresses compliance in a reactive mode — doing assessments w
 - There is ad-hoc implementation and response to incidents (reactive).
 - Compliance controls and evidence is ad hoc or does not exist.
 - External sharing is unmanaged—users freely share content externally via email attachments, Teams invites, SharePoint sharing, and calendar invitations without oversight or tracking.
-
-#### Information Architecture (100)
 - No naming conventions for Teams, SharePoint sites, or documents.
 - No metadata strategy—content is stored without categorization or retention considerations.
-- Unclear ownership—anyone can create and share content without oversight.
-- Lack of Governance Policies—Absence of policies and principles governing information management, leading to user overwhelm and inefficient content handling.
+- Lack of Governance Policies for Information Architecture —Absence of policies and principles governing information management, leading to user overwhelm and inefficient content handling.
+
 
 #### Technology (100)
 
 - No standardized storage location for documentation, records and supporting evidence.
 - No technical controls in place to support compliance.
+- No usage of central taxonomy
 
 
 #### Impacts (100)
@@ -141,7 +142,9 @@ At this maturity level organizations acknowledge compliance regulations and stan
 - No formal GRC training; communication is ad hoc or occurs in response to a GRC event. Most employees are not aware of how governance, risk and compliance impact their daily work.
 - Training for information owners (e.g., managers)—Organizations begin training leaders to understand the importance of structured information, how data should be classified, and why governance matters.
 - Discussions on metadata and retention policies begin but are not widely adopted.
-- Ownership roles identified (e.g., Site Owners, Data Stewards), but not enforced.
+- Ownership roles identified for information (e.g., Site Owners, Team Owners, Data Stewards), but not enforced.
+- Ownership roles for content management are identified (e.g., Site Owners, Data Stewards), but they are not strictly enforced.
+
 
 #### Process (200)
 
@@ -152,12 +155,10 @@ At this maturity level organizations acknowledge compliance regulations and stan
 - Risk management is perceived as a process.
 - External sharing awareness emerges—the organization begins discussions on what should be shared externally but without formalized governance.
 - Basic restrictions on external sharing—some organizations introduce guidelines but lack enforcement.
-
-#### Information Architecture (200)
 - Initial metadata framework is introduced, but usage is inconsistent across the organization.
 - Basic site and document structure discussions begin, but they are not standardized.
-- Ownership roles for content management are identified (e.g., Site Owners, Data Stewards), but they are not strictly enforced.
 - Discussions on content categorization and retention policies emerge, but adoption is limited.
+
 
 #### Technology (200)
 
@@ -217,24 +218,10 @@ Processes measured and controlled
 - External sharing policies are defined and controlled—who can share what, with whom, and under what conditions.
 - External users in Teams and SharePoint require approval before access is granted.
 - Email attachments containing sensitive data trigger a review process before sending.
-
-#### Information Architecture (300)
-- A structured metadata framework is widely used, improving consistency across document management, but enforcement is not yet mandatory across all areas.
-- Standardized site and document structures are implemented, reducing redundant storage and improving findability.
-- Ownership of content is clearly defined, with formalized processes for maintaining document integrity.
-- Retention policies are systematically applied to content types, ensuring compliance with governance requirements.
 - Clear categorization of sensitive and critical business data, with guidelines on storage and protection.
-- Formal metadata schema is applied to:
-  - Identify personal data.
-  - Define retention requirements—how long data should be stored.
-  - Clarify the purpose of storage and regulatory requirements.
-  - Apply disposition policies—deletion and archival timelines.
-  - Defined Trigger Dates (when rules start to apply based on laws, regulations, or company policies) such as signing date, decision date, publish date, employee exit date, purchase date.
-- A structured metadata framework is widely used, improving consistency across document management, but enforcement is not yet mandatory across all areas.
-- Standardized site and document structures are implemented, reducing redundant storage and improving findability.
 - Ownership of content is clearly defined, with formalized processes for maintaining document integrity.
-- Retention policies are systematically applied to content types, ensuring compliance with governance requirements.
-- Clear categorization of sensitive and critical business data, with guidelines on storage and protection.
+- Standardized site and document structures are implemented, reducing redundant storage and improving findability.
+- A structured metadata framework is widely used, improving consistency across document management, but enforcement is not yet mandatory across all areas.
 
 #### Technology (300)
 
@@ -246,6 +233,14 @@ Processes measured and controlled
 - Standardized Information Architecture Models—Adoption of consistent IA models and examples to ensure uniformity across sites and improve user experience.
 - In-Place Records Management is introduced, ensuring documents remain in their original location while being classified as records.
 - Enhanced Metadata Usage—Leveraging metadata over folders to facilitate easier filtering and searching of content.
+- Formal metadata schema is applied to:
+  - Identify personal data.
+  - Define retention requirements—how long data should be stored.
+  - Clarify the purpose of storage and regulatory requirements.
+  - Apply disposition policies—deletion and archival timelines.
+  - Defined Trigger Dates (when rules start to apply based on laws, regulations, or company policies) such as signing date, decision date, publish date, employee exit date, purchase date.
+  - Retention policies are systematically applied to content types, ensuring compliance with governance requirements.
+  
 
 #### Impacts (300)
 
@@ -294,18 +289,8 @@ Proactive rather than reactive.
 - External sharing policies are fully automated, ensuring only approved users can share externally through predefined workflows.
 - Teams meeting policies regulate external guests, requiring pre-approval for access to certain types of meetings.
 - External sharing of SharePoint files is restricted based on sensitivity labels and automated rules.
-
-#### Information Architecture (400)
 - A structured metadata framework is enforced across all systems, ensuring compliance and consistency in document management.
-- Automated metadata tagging is introduced to classify and protect sensitive information.
-- Ownership of content is fully established, with clear accountability for document governance.
-- Retention policies are systematically enforced through automation, ensuring regulatory compliance.
-- Formal metadata schema is fully applied to:
-  - Identify personal data.
-  - Define retention requirements—how long data should be stored.
-  - Clarify the purpose of storage and regulatory requirements.
-  - Apply disposition policies—deletion and archival timelines.
-  - Set Trigger Dates (when rules start to apply based on laws, regulations, or company policies) such as signing date, decision date, publish date, employee exit date, purchase date.
+- Ownership of content and Information Architecture is fully established, with clear accountability for document governance.
 
 
 #### Technology (400)
@@ -327,6 +312,14 @@ Proactive rather than reactive.
   - Ensures accessibility and compliance with regulatory requirements.
   - Expands archiving beyond SharePoint to include CRM, logistics, finance, and other document repositories.
 - Automated Archiving with Power Automate—workflows move records to designated archive locations as part of the lifecycle policy.
+- Automated metadata tagging is introduced to classify and protect sensitive information.
+- Retention policies are systematically enforced through automation, ensuring regulatory compliance.
+- Formal metadata schema is fully applied to:
+  - Identify personal data.
+  - Define retention requirements—how long data should be stored.
+  - Clarify the purpose of storage and regulatory requirements.
+  - Apply disposition policies—deletion and archival timelines.
+  - Set Trigger Dates (when rules start to apply based on laws, regulations, or company policies) such as signing date, decision date, publish date, employee exit date, purchase date.
 
 #### Impacts (400)
 
@@ -376,18 +369,6 @@ Organizations at this level use technology strategically to gain operational eff
 - Automated identity verification for external users—guest access is dynamically adjusted based on trust level and previous engagements.
 - Adaptive external sharing policies—real-time risk analysis adjusts sharing permissions dynamically based on user behavior and external access trends.
 
-#### Information Architecture (500)
-
-- AI-driven metadata classification dynamically applies and refines metadata structures based on document usage and context.
-- Intelligent document lifecycle management—automation ensures content is archived, retained, or deleted based on AI-driven insights.
-- Risk-based metadata tagging adapts dynamically to evolving compliance needs and security risks.
-- Formal metadata schema is continuously optimized through AI to:
-  - Identify personal data dynamically.
-  - Automate retention adjustments based on regulatory updates.
-  - Ensure compliance with evolving legal requirements.
-  - Proactively manage disposition policies with predictive analytics.
-  - Trigger automated governance actions based on organizational rules and real-time changes.
-
 #### Technology (500)
 
 - ✨ Compliance and DLP rules are comprehensively applied and enforced.
@@ -400,6 +381,15 @@ Organizations at this level use technology strategically to gain operational eff
 - Automated compliance auditing—AI-driven monitoring ensures policy adherence without manual intervention.
 - Enterprise-Wide Archiving Strategy—compliance-driven archiving covers all document storage locations, ensuring long-term preservation and regulatory adherence across the entire organization.
 - AI-Driven Information Management—Deployment of AI technologies to dynamically organize, classify, and manage content, leading to predictive content delivery and enhanced user engagement.
+- AI-driven metadata classification dynamically applies and refines metadata structures for Information Architecture based on document usage and context.
+- Intelligent document lifecycle management—automation ensures content is archived, retained, or deleted based on AI-driven insights.
+- Risk-based metadata tagging adapts dynamically to evolving compliance needs and security risks.
+- Formal metadata schema is continuously optimized through AI to:
+  - Identify personal data dynamically.
+  - Automate retention adjustments based on regulatory updates.
+  - Ensure compliance with evolving legal requirements.
+  - Proactively manage disposition policies with predictive analytics.
+  - Trigger automated governance actions based on organizational rules and real-time changes.
 
 #### Impacts (500)
 
