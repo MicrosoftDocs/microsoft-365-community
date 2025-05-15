@@ -90,6 +90,7 @@ At Level 500, the organization has invested in a change management solution that
 - Impacts of changes are actively monitored, and new ways of working are introduced and updated in response to feedback and analysis.
 - The organization actively provides feedback to Microsoft around the changes and requests changes via the Microsoft Feedback portal and their Microsoft acount team (if they have one).
 - Support staff actively maintain their knowledge of current and forthcoming technologies and are prepared when incidents or support needs arise from these.
+ 
 ---
 
 This model is intended to give you a reference and some inspiration for improving your service change management processes. Feedback is always welcome.

@@ -74,6 +74,10 @@ Always On VPN provides a single, cohesive solution for remote access and support
 
 An App is a term in SharePoint that means a packaged extension or customization that you can add to a site. An app can simply be a list that you add to a site to store information, or it can be a package that installs web parts that are available to use on pages, customizations that give you extra functionality within existing lists and libraries, or it could be an entire application that runs outside of SharePoint but has the ability to read and write back to your SharePoint site.
 
+### [App Bar](https://support.microsoft.com/office/use-the-sharepoint-app-bar-b2ab82d5-9af7-445e-ad24-236c5a86b5f8)
+
+The SharePoint app bar makes important content and resources easier to find no matter where you are in SharePoint. You'll find it on the left-hand side anywhere in modern sites.
+
 ### [App Catalog](/sharepoint/use-app-catalog)
 
 As a SharePoint or global admin in Microsoft 365, you can acquire solutions from the SharePoint Store or distribute custom apps that can be used across SharePoint, Microsoft Teams, and Viva Connections. The first step in acquiring solutions is to have an App Catalog you can use to store and distribute solutions.
@@ -798,9 +802,9 @@ Microsoft Mesh enables presence and shared experiences from anywhere – on any 
 
 Generically, metadata means information about something else. In SharePoint metadata is additional information applied to documents, pages, or list items. We use metadata all the time in our lives, but rarely think of it as metadata. For example, the information we write on a file we put into a filing cabinet or the way we organize spices in the kitchen is driven by metadata.
 
-### [Microsoft Certified Professional (MCP)](https://mcp.microsoft.com/Home.html)
+### Microsoft Certified Professional (MCP)
 
-A Microsoft Certified Professional (MCP) is a person who has successfully completed professional training for Microsoft products through a certification program run by Microsoft.
+The Microsoft Certified Professional (MCP) certification was decommissioned in February 2019 and replaced with role-based certifications that validate skills across various Microsoft technologies.
 
 ### [Microsoft Certified Trainer (MCT)](/certifications/mct-certification)
 
@@ -1024,9 +1028,9 @@ The term 'putability' is the complement to the term 'findability'; it is a measu
 
 ## Q
 
-### [QBasic](https://www.microsoft.com/p/qbasic/9ntmcqwn2sqm#activetab=pivot:overviewtab)
+### QBasic
 
-QBasic is Quick Basic interpreter.This application can be used to run quick basic program and software developed for your Windows10 desktop or tablet.
+QBasic is Quick Basic interpreter.This application could be used to run quick basic program and software developed for your Windows10 desktop or tablet.
 
 ### [QnA Maker](/azure/cognitive-services/qnamaker/overview/overview)
 
@@ -1269,7 +1273,7 @@ As both Standard and [Targeted Release](#targeted-release) options can be applie
 
 The Style Library is a document library in the Root Web of a SharePoint site that is used mainly in Classic SharePoint Sites. One of the purposes of this library is as a recognized "secure location" to store XSL Templates that are used by the Content Query Web Part (XSL templates outside of the Style Library cannot be used in Content Query Web Parts).
 
-### [Store](https://www.microsoft.com/store/apps/windows)
+### [Store](https://apps.microsoft.com/apps)
 
 Download Windows apps for your Windows tablet or computer. Browse thousands of free and paid apps by category, read user reviews, and compare ratings.
 
