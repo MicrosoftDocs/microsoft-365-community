@@ -4,7 +4,7 @@ ms.date: 8/4/2020
 author: SimonJHudson
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: overview
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low

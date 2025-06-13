@@ -4,7 +4,7 @@ ms.date: 8/31/2020
 author: eemancini
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: overview
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low
