@@ -4,7 +4,7 @@ ms.date: 9/9/2020
 author: sadalit
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: overview
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low
