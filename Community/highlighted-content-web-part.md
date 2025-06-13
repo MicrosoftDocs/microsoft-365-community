@@ -3,7 +3,7 @@ title: Advanced Highlighted Content Web Part
 ms.date: 12/29/2021
 author: PatD
 manager: pamgreen
-ms.topic: article
+ms.topic: solution-overview
 ms.author: pamgreen
 ms.service: sharepoint-online
 ms.localizationpriority: Low
