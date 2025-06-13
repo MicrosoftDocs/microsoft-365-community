@@ -5,7 +5,7 @@ author: nyoung30
 ms.reviewer: pamgreen
 ms.author: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: how-to
 ms.service: sharepoint-online
 ms.localizationpriority: Low
 description: Importing data into SharePoint
