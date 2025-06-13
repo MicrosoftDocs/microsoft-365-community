@@ -4,7 +4,7 @@ ms.date: 7/9/2020
 author: helloitsliam
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: install-set-up-deploy
 ms.author: pamgreen
 ms.service: security
 ms.localizationpriority: Low
