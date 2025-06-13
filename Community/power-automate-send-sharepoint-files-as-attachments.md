@@ -4,7 +4,7 @@ ms.date: 03/04/2020
 author: JimmyHang
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: how-to
 ms.author: pamgreen
 ms.service: power-platform
 ms.localizationpriority: Low
