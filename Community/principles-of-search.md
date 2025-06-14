@@ -5,7 +5,7 @@ ms.date: 8/25/2020
 author: SimonJHudson
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
 ms.service: mssearch
 localization\_priority:

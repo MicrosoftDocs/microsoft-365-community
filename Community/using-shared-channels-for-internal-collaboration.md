@@ -5,7 +5,7 @@ author: dfrancoeur
 ms.author: pamgreen
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.service: microsoft-365
 ms.localizationpriority: Low
 description: A short guide on setting up Shared Channels for Internal Collaboration within your Tenant.

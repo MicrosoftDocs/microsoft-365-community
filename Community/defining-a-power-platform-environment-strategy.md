@@ -4,7 +4,7 @@ ms.date: 8/10/2020
 author: aaronrendell
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
 ms.service: power-platform
 ms.localizationpriority: Low
