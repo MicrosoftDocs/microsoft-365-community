@@ -4,7 +4,7 @@ ms.date: 04/29/2024
 author: sympmarc
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: glossary
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low
