@@ -4,7 +4,7 @@ ms.date: 12/07/2021
 author: davemehr
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: overview
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low
