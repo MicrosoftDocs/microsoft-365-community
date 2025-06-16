@@ -5,7 +5,7 @@ author: simonjhudson
 ms.author: pamgreen
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: overview
 ms.service: microsoft-365
 ms.localizationpriority: Low
 description: Maturity Model for Microsoft 365 - Search Competency

@@ -5,7 +5,7 @@ author: dfrancoeur
 ms.author: pamgreen
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: overview
 ms.service: microsoft-365
 ms.localizationpriority: Low
 description: A short guide on the many options for styling Lists and Libraries in SharePoint and Microsoft365.

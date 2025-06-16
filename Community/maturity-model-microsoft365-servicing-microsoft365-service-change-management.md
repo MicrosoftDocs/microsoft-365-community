@@ -4,7 +4,7 @@ ms.date: 10/9/2023
 author: michaelblumenthal
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: overview
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low
