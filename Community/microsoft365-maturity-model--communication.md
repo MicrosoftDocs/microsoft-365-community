@@ -4,7 +4,7 @@ ms.date: 8/5/2020
 author: sympmarc
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: overview
 ms.author: pamgreen
 ms.service: o365-solutions
 ms.localizationpriority: Low

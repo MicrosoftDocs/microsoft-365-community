@@ -6,7 +6,7 @@ ms.date: 02/05/2025
 author: SimonJHudson
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: overview
 ms.author: pamgreen
 ms.service: o365-solutions
 ms.localizationpriority: Low
