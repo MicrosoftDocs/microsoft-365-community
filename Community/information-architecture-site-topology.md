@@ -4,7 +4,7 @@ ms.date: 3/3/2020
 author: hugoabernier
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: overview
 ms.author: pamgreen
 ms.service: sharepoint-online
 ms.localizationpriority: Low
