@@ -16,7 +16,7 @@ ms.collection:  SPCommunity
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-There are many ways to link to web hosted content within SharePoint Online.  On pages you can use hyperlinks within Text web parts, and many other web parts such as Quick Links, Heros, Call to Action, etc.  In lists and libraries you can use Hyperlink columns or more specialized files or content types including the Link, News Link, and Link to a Document content type.
+There are many ways to link to web hosted content within SharePoint Online.  On pages you can use hyperlinks within Text web parts, and many other web parts such as Quick Links, Heros, Call to Action, etc.  In lists and libraries you can use Hyperlink columns within columns.  In addition, there are more specialized files or content types including the Link, News Link, and Link to a Document content type which will automatically redirect you to the target url.
 
 Link, News Link, and Link to a Document are similar in capabilities, but also differ in some aspects.  This document outlines the similarities and differences to help you determine which option best meets your needs.
 
