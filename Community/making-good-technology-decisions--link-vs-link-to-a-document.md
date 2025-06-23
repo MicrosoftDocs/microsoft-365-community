@@ -27,7 +27,7 @@ After creating a SharePoint Online site (Team or Communication), you can add a *
 When adding a Link, you enter the URL of the target page or document. You can link to internal or external content and optionally use a picker to select files from your tenant.  
 For more information about using the Link functionality, please see: [Add a link in a document library](https://support.microsoft.com/en-us/office/add-a-link-in-a-document-library-346b1eb9-1e71-4155-80ca-f868d058a56a)
 
-![Creating a web link from Site Pages library](media/making-good-technology-decisions--link-vs-link-to-a-document/link-sitepages-web.png)
+![Creating a web link from Site Pages library](media/making-good-technology-decisions--link-vs-link-to-a-document/link-site-pages-web.png)
 ![Creating a document link from a document library](media/making-good-technology-decisions--link-vs-link-to-a-document/link-documents-create-internal-link.png)
 
 Creating a Link generates a `.url` file which is a shortcut that opens the specified URL. The link is embedded in the file, not stored as metadata.  It is stored in a portable format that opens the link in SharePoint and also on desktop operating systems such as Windows and Mac OS if downloaded.  The format of the file is:
@@ -90,7 +90,7 @@ Create a Link to a Document from the New menu. Enter the name and URL (internal 
 
 This feature creates an `.aspx` file, which acts as a SharePoint-only redirect. These files cannot be used as shortcuts outside SharePoint.  The `.aspx` files can be awkward to see in a document library since you typically only see them in Site Pages libraries.
 
-![Link to a Document as an aspx file](media/making-good-technology-decisions--link-vs-link-to-a-document/link-to-a-document-aspx.jpg)
+![Link to a Document as an aspx file in a document library](media/making-good-technology-decisions--link-vs-link-to-a-document/link-to-a-document-file-type-in-document-library.jpg)
 
 By default, Link to a Document items may not appear in Highlighted Content web parts unless you adjust the source or filter settings.
 
