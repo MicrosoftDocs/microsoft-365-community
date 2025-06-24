@@ -25,17 +25,17 @@ While these features are similar, each has unique characteristics and behaviors.
 After creating a SharePoint Online site (Team or Communication), you can add a **Link** in any document library, including default libraries like "Site Pages" and "Documents." This feature is also available in any new library you create.
 
 When adding a Link, you enter the URL of the target page or document. You can link to internal or external content and optionally use a picker to select files from your tenant.  
-For more information about using the Link functionality, please see: [Add a link in a document library](https://support.microsoft.com/en-us/office/add-a-link-in-a-document-library-346b1eb9-1e71-4155-80ca-f868d058a56a)
+For more information about using the Link functionality, see [Add a link in a document library](https://support.microsoft.com/en-us/office/add-a-link-in-a-document-library-346b1eb9-1e71-4155-80ca-f868d058a56a)
 
 ![Creating a web link from Site Pages library](media/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document/link-site-pages-web.png)
 ![Creating a document link from a document library](media/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document/link-documents-create-internal-link.png)
 
-Creating a Link generates a `.url` file which is a shortcut that opens the specified URL. The link is embedded in the file, not stored as metadata.  It is stored in a portable format that opens the link in SharePoint and also on desktop operating systems such as Windows and Mac OS if downloaded.  The format of the file is:
+Creating a Link generates a `.url` file which is a shortcut that opens the specified URL. The link is embedded in the file, not stored as metadata.  It is stored in a portable format that opens the link in SharePoint and also on desktop operating systems such as Windows and Mac OS if downloaded. The format of the file is:
 
 ```
 [InternetShortcut]
-URL=https://www.example.com
-```
+URL=https://www.example.comi9k
+ ```
 
 The Link is assigned the library’s default content type (e.g., "Document" or "Site Page"). You cannot customize the New Form for a Link; metadata can be edited after creation using the edit form or properties panel.
 
@@ -44,7 +44,9 @@ The Link is assigned the library’s default content type (e.g., "Document" or "
 ### Link in Highlighted Content Web Part
 
 Links display a generic browser icon and use the file name as the card title. For better usability, rename Link files to meaningful names. Author and date reflect the Link file, not the original content.  
-Note: Clicking a Link in Highlighted Content opens a view item page, but displays as a warning and requires extra user interaction to navigate to the Link.
+
+> [!NOTE]
+> Clicking a Link in Highlighted Content opens a view item page, but displays as a warning and requires extra user interaction to navigate to the Link.
 
 ![Clicking a Link from a Highlighted Content Web Part](media/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document/link-document-highlighted-content.jpg)
 
@@ -67,7 +69,7 @@ News Links are created from the site home page or News web part, not from the Si
 ![Creating a new News Link](media/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document/news-link-create.jpg)
 
 When creating a News Link, SharePoint attempts to populate the preview image, title, and description from the target page’s metadata. These fields can be edited as needed.  
-See: [Create and share news on your SharePoint sites](https://support.microsoft.com/en-us/office/create-and-share-news-on-your-sharepoint-sites-495f8f1a-3bef-4045-b33a-55e5abe7aed7#bkmk_newslink)
+For more information, see [Create and share news on your SharePoint sites](https://support.microsoft.com/en-us/office/create-and-share-news-on-your-sharepoint-sites-495f8f1a-3bef-4045-b33a-55e5abe7aed7#bkmk_newslink).
 
 A News Link creates an `.aspx` file with the "Repost Page" content type, which inherits from "Site Page." These work seamlessly with News and Highlighted Content web parts and redirect users directly to the target page.
 
@@ -88,7 +90,7 @@ Create a Link to a Document from the New menu. Enter the name and URL (internal 
 ![New Form for Link to a Document](media/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document/link-to-a-document-new-form.jpg)
 ![New Form for Link to a Document with custom properties](media/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document/link-to-a-document-new-form-custom-properties.jpg)
 
-This feature creates an `.aspx` file, which acts as a SharePoint-only redirect. These files cannot be used as shortcuts outside SharePoint.  The `.aspx` files can be awkward to see in a document library since you typically only see them in Site Pages libraries.
+This feature creates an `.aspx` file, which acts as a SharePoint-only redirect. These files can't be used as shortcuts outside SharePoint. The `.aspx` files can be awkward to see in a document library since you typically only see them in Site Pages libraries.
 
 ![Link to a Document as an aspx file in a document library](media/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document/link-to-a-document-file-type-in-document-library.jpg)
 
