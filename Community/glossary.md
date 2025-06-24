@@ -94,7 +94,7 @@ Set of standards and processes to analyze, design, build, test and deploy a soft
 
 App protection policies (APP) are rules that ensure an organization's data remains safe or contained in a managed app. A policy can be a rule that is enforced when the user attempts to access or move "corporate" data, or a set of actions that are prohibited or monitored when the user is inside the app. A managed app is an app that has app protection policies applied to it, and can be managed by Intune.
 
-### [Application Proxy](/azure/active-directory/app-proxy/application-proxy)
+### [Application Proxy](/entra/identity/app-proxy/)
 
 Microsoft Entra application proxy provides secure remote access to on-premises web applications. After a single sign-on to Microsoft Entra ID, users can access both cloud and on-premises applications through an external URL or an internal application portal.
 
