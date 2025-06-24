@@ -84,7 +84,7 @@ News Links are intended for news scenarios. While the Promoted State can be chan
 
 ![Adding Link to a Document to a library](media/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document/link-to-a-document-add-to-library.jpg)
 
-Create a Link to a Document from the New menu. Enter the name and URL (internal or external). If your content type includes additional metadata, it can be edited after creation.
+Create a Link to a Document from the **New** menu. Enter the name and URL (internal or external). If your content type includes additional metadata, it can be edited after creation.
 
 ![New Link to a Document](media/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document/link-to-a-document-new.jpg)
 ![New Form for Link to a Document](media/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document/link-to-a-document-new-form.jpg)
@@ -94,11 +94,11 @@ This feature creates an `.aspx` file, which acts as a SharePoint-only redirect. 
 
 ![Link to a Document as an aspx file in a document library](media/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document/link-to-a-document-file-type-in-document-library.jpg)
 
-By default, Link to a Document items may not appear in Highlighted Content web parts unless you adjust the source or filter settings.
+By default, **Link to a Document** items may not appear in Highlighted Content web parts unless you adjust the source or filter settings.
 
 ![Link to a Document in Highlighted Content Web Part](media/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document/link-to-a-document-highlighted-content-web-part.jpg)
 
-In search results, Link to a Document displays the specified name and redirects directly to the target without seeing an interim view item page.
+In search results, **Link to a Document** displays the specified name and redirects directly to the target without seeing an interim view item page.
 
 ![Link to a Document in search results](media/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document/link-to-a-document-search-results.jpg)
 
