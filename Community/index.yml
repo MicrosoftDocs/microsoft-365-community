@@ -115,6 +115,9 @@ landingContent:
             url: taking-advantage-content-type-inheritance-sharepoint.md
           - text: List Formatting 101
             url: list-formatting-101.md
+          - text: Changing Microsoft Teams from private to public - What to expect in SharePoint
+            url: changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md
+
 
   # Card (optional)
   - title: Effective Communication
@@ -139,8 +142,6 @@ landingContent:
             url: team-site-or-communication-site.md         
           - text: List columns or Site columns - which one to choose?
             url: list-column-or-site-column-which-one-to-choose.md
-          - text: Changing Microsoft Teams from private to public - What to expect in SharePoint
-            url: changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md
           - text: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
             url: select-an-effective-navigation-strategy.md
           - text: Auto Apply Retention Labels in Office 365 Using Content Types and Metadata
@@ -155,6 +156,8 @@ landingContent:
             url: defining-a-power-platform-environment-strategy.md
           - text: What Task Management Tool is Right For Me
             url: which-task-management-option.md
+          - text: Link vs News Link vs Link to a Document
+            url: making-good-technology-decisions--compare-link-news-link-and-link-to-a-document.md
 
   # Card (optional)
   - title: Useful Scenarios
