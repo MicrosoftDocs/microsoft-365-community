@@ -129,6 +129,7 @@ Items:
       href: empowering-your-SharePoint-champions.md
     - name: File Naming on an Intranet
       href: file-naming-intranet.md
+
   - name: Information Architecture
     items:
     - name: Information Architecture - Site Topology
@@ -158,6 +159,7 @@ Items:
       href: evolution-of-company-wide-email-communication-to-sharepoint-news.md
     - name: How to Share Org-Wide Communication in Microsoft 365
       href: how-to-share-org-wide-communications-in-microsoft-365.md
+
   - name: Making Better Decisions
     items:
     - name: Team Site vs. Communication Site—Which one should I choose?
@@ -190,6 +192,9 @@ Items:
         href: making-good-technology-decisions--data-storage.md
       - name: Making Good Technology Decisions—Front End
         href: making-good-technology-decisions--front-end.md
+      - name: Link vs News Link vs Link to a Document
+        href: making-good-technology-decisions--compare-link-news-link-and-link-to-a-document.md
+
   - name: Useful Scenarios
     items:
     - name: Library Scenarios
