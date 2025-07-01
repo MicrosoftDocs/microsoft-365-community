@@ -1,6 +1,6 @@
 ---
 title: The Microsoft 365 Maturity Model – Customization and Development Competency
-ms.date: 2/25/2021
+ms.date: 07/01/2025
 author: simondoy
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -111,7 +111,7 @@ Development is characterized by _build to live, though there may be some testing
 
 #### 200 No Code
 
-- Customized business solutions are developed using no-code technologies; however, these are done with limited knowledge of good practice. Solutions are modelled on existing practice, using superficial capabilities and generally avoid use of deeper platform features.
+- Customized business solutions are developed using no-code technologies; however, these are done with limited knowledge of good practice. Solutions are modeled on existing practice, using superficial capabilities and generally avoid use of deeper platform features.
 - Solutions tend to be built 'on the fly', without a clear deliverable and specification. There is no documentation around the design and build process.
 - Users are shown how to use the system and core documentation may exist, within the process or procedure documents.
 - Updates and changes are ad-hoc. There is no equivalent of source control.
