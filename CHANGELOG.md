@@ -6,6 +6,24 @@
 
 Note: Changelog started in January, 2021
 
+## July, 2025
+
+### New Articles - July, 2025
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - July, 2025
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Customization and Development Competency](./Community/microsoft365-maturity-model--customization-and-development.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+
+### Removed/Retired Articles - July, 2025
+
+| Article |
+|---|
+
 ## June, 2025
 
 ### New Articles - June, 2025
@@ -425,7 +443,7 @@ Note: Changelog started in January, 2021
 ### Updated Articles - August, 2023
 
 | Article | Updated By |
-|[Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.mdd) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
+|[Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.md) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
 
 ### New Contributors - August, 2023
 
@@ -663,7 +681,7 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
-| [Origin Story of the Maturity Model for Microsoft 365](./Community//microsoft365-maturity-model-origin-story.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
+| [Origin Story of the Maturity Model for Microsoft 365](./Community/microsoft365-maturity-model-origin-story.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 
 ### Updated Articles - July, 2022
 

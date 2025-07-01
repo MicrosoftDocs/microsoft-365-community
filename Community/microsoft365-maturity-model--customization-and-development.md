@@ -1,6 +1,6 @@
 ---
 title: The Microsoft 365 Maturity Model – Customization and Development Competency
-ms.date: 2/25/2021
+ms.date: 07/01/2025
 author: simondoy
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -42,6 +42,7 @@ The reality is that there has always been a dynamic equilibrium between what can
 
 
 ## Evolution of this competency
+Some characteristics should, perhaps, be addressed a little more urgently than others; we have marked these with the 'Sparkles' emoji: ✨
 
 ### Level 100 - Initial
 
@@ -111,9 +112,9 @@ Development is characterized by _build to live, though there may be some testing
 
 #### 200 No Code
 
-- Customized business solutions are developed using no-code technologies; however, these are done with limited knowledge of good practice. Solutions are modelled on existing practice, using superficial capabilities and generally avoid use of deeper platform features.
+- Customized business solutions are developed using no-code technologies; however, these are done with limited knowledge of good practice. Solutions are modeled on existing practice, using superficial capabilities and generally avoid use of deeper platform features.
 - Solutions tend to be built 'on the fly', without a clear deliverable and specification. There is no documentation around the design and build process.
-- Users are shown how to use the system and core documentation may exist, within the process or procedure documents.
+- ✨ Users are shown how to use the system and core documentation may exist, within the process or procedure documents.
 - Updates and changes are ad-hoc. There is no equivalent of source control.
 - A small number of people have some expertise with configuring the platform. Maintenance and support of the solutions are dependent on the availability of these people. The 'experts' maintain their knowledge of platform capabilities, road map etc. out of personal interest.
 
@@ -121,26 +122,26 @@ Development is characterized by _build to live, though there may be some testing
 
 - Some Power Platform projects have consistent color standards and make use of components.
 - Some low-code solutions are exported to basic source control.
-- Some low code solutions have separate environments for development, user acceptance testing, and production.
-- There is some guidance on the decision to use low-code approaches and who to engage to do the development, for instance a citizen developer or an external partner.
+- ✨ Some low code solutions have separate environments for development, user acceptance testing, and production.
+- ✨ There is some guidance on the decision to use low-code approaches and who to engage to do the development, for instance a citizen developer or an external partner.
 
 #### 200 Pro Code
 
-- Source Control is used for some projects. However, the source control system is not standardized across the organization. There are multiple repositories and multiple source control systems in use.
+- ✨ Source Control is used for some projects. However, the source control system is not standardized across the organization. There are multiple repositories and multiple source control systems in use.
 - Deployment processes are ad hoc and unreliable, frequently requiring roll back.
 - Projects start to use Microsoft 365 design standards when delivering systems.
-- Development approaches and best practice start to be understood and are adopted by members of the project team. However, they are not enforced.
+- ✨ Development approaches and best practice start to be understood and are adopted by members of the project team. However, they are not enforced.
 
 #### 200 Governance, Risk, Compliance and Security
 
 - Developers don't know the platform, so write code instead of using native features which often creates unnecessary technical debt and confusion.
-- Some projects deliver systems with user guides and administration guides.
+- ✨ Some projects deliver systems with user guides and administration guides.
 - Release Management is considered, and the delivery of a system and its upgrades are announced before deployment. However, there are no testing environments which the deployment is released to first.
 - The organization's Microsoft 365 community start to share wins and stories via ad hoc discussions.
 - There are no development standards shared between projects.
 - Solutions are often developed, especially using no-code and low-code, without having a related plan for deployment, support and management and without assessment of impact on other processes and solutions.
 - Basic Source Control maybe used, with multiple source control systems in use.
-- Some projects make use of Cloud platforms such as Microsoft Azure.
+- ✨ Some projects make use of Cloud platforms such as Microsoft Azure.
 - There are little in the way of DevOps Practices.
 
 #### 200 Impacts
@@ -162,43 +163,42 @@ Staff are generally satisfied with functionality but struggle to consistently ge
 
 #### 300 No Code
 
-- Steps to create customized business solutions are captured with some form of specification, setup is documented, and a final solution description exists.
-- Developers are aware of and use some normal development methodologies or hybrids of them.
+- ✨ Steps to create customized business solutions are captured with some form of specification, setup is documented, and a final solution description exists.
+- ✨ Developers are aware of and use some normal development methodologies or hybrids of them.
 - Legacy approaches are modified to take advantage of platform capabilities and some business processes are actively redesigned to deliver improvement based on these.
-- Updates and enhancement should be scheduled, planned, and executed, but exceptions to this are frequent.
+- Updates and enhancement are intended to be scheduled, planned, and executed, but exceptions to this are frequent.
 - User documentation and training is appropriate to the system, though tends to lag updates. Documentation is still not seen as part of the deliverable.
 - Solutions considered important to the business are recognized and some level of support has been implemented. Support staff are skilled up to maintain the platform and any solutions, reducing the reliance on 'solution experts'.
 - There is some consolidation of no-code platforms; road maps and updates for standard platforms are actively tracked.
-- Customization of live platforms is only carried out after consideration of impact on staff and other systems.
+- ✨ Customization of live platforms is only carried out after consideration of impact on staff and other systems.
 
 #### 300 Low Code
 
-- Rigor is put in place around the documentation of low code solutions such as solutions built on the Power Platform.
-
-- Low code solutions are backed up as solutions and stored in source control.
-- Low code solutions have separate environments or equivalent for development, user acceptance testing, and production.
+- ✨ Rigor is put in place around the documentation of low code solutions such as solutions built on the Power Platform.
+- ✨ Low code solutions are backed up as solutions and stored in source control.
+- ✨ Low code solutions have separate environments or equivalent for development, user acceptance testing, and production.
 
 #### 300 Pro Code
 
-- Source control is used for the majority of development projects.
+- ✨ Source control is used for the majority of development projects.
 - Systems are deployed mainly through manual processes but augmented with scripts for some of the steps.
-- Solutions have separate environments or equivalent for development, user acceptance testing, and production.
+- ✨ Solutions have separate environments or equivalent for development, user acceptance testing, and production.
 - Continuous Integration and Continuous Deployment may be introduced alongside other approaches.
-- Pro Code developers appreciate when not to develop solutions, only writing code when it is necessary and can make a difference. They begin to hand off to Low Code and configuration alternatives.
+- ✨ Pro Code developers appreciate when not to develop solutions, only writing code when it is necessary and can make a difference. They begin to hand off to Low Code and configuration alternatives.
 
 #### 300 Governance, Risk, Compliance and Security
 
-- There is an appreciation of the limits of the no-code approach, low-code, and pro-code approaches. Needs that trigger a transition from one approach to another are often identified and options for delivering extended needs or features with pro code are understood. This is often based on business need with measurable return on investment.
+- ✨ There is an appreciation of the limits of the no-code approach, low-code, and pro-code approaches. Needs that trigger a transition from one approach to another are often identified and options for delivering extended needs or features with pro code are understood. This is often based on business need with measurable return on investment.
 - Good practice is understood by a core of experts and is used to guide solution development. There is a recognition of the roles of no-code and low-code alongside pro-code approaches. The 80/20 rule is increasingly applied, using out of the box functionality that is good enough to provide utility, often adapting a process to accommodate Out of the Box (OOTB) functionality rather than build customer solutions.
 - Build is focused on solutions that represent the organization's &quot;special sauce&quot;, delivering the highest impact.
-- There is understanding around technical debt and how to service it.
-- Systems are delivered which are documented and can be managed, maintained, and supported.
+- ✨ There is understanding around technical debt and how to service it.
+- ✨ Systems are delivered which are documented and can be managed, maintained, and supported.
 - The pro development team and citizen developer community understand how to build solutions on the Microsoft 365 platform. Resources from Microsoft and the community are used to enhancing their knowledge. Pro developers and citizen developers support each other.
 - Development at all levels starts to be underpinned by training and learning to improve skills. There may be formal certifications to support and demonstrate competence.
 - Release Management processes are put in place but are manual.
 - Standards for user interface (UI), themes and styling are created and shared. Design standards are published and allow a consistent approach for UI and functional behavior. Existing solutions may be updated in line with these.
 - Source Control is standardized and used for Pro-code development but not for low code approaches.
-- DevOps practices are being introduced, though non-Pro-code often are not included in these standards.
+- ✨ DevOps practices are being introduced, though non-Pro-code often are not included in these standards.
 - User research employed to define requirements for some systems; there is some attempt to standardize approaches to capturing and defining requirements, such as user stories, etc.
 - There is an emergence of a community of [M365 Champions](/microsoft-365/community/empowering-your-sharepoint-champions). This supports the need for governance, documentation, training, and development processes to support alignment of solutions to the strategic plan. Community members meet periodically to discuss problems citizen developers are trying to solve. These meet ups are part tech therapy and part continued training as Microsoft 365 is continually changing. There is management appreciation and support for these efforts.
 - Separate environments or equivalent are available for Development, Test, and Production for Pro Code and, often to a limited extent, for other approaches.
@@ -223,12 +223,12 @@ Staff are able to work efficiently across the spectrum of solutions and adopt ne
 #### 400 No Code
 
 - Configurations are well documented and used as the basis for scripts and templates to automate site creation and updates. These are well managed and maintained via source control.
-- Solutions are developed and tested against a set of good practice guidelines that include common layout based on good User Interface/User Experience (UI/UX) approaches, incorporating company branding and standards.
+- ✨ Solutions are developed and tested against a set of good practice guidelines that include common layout based on good User Interface/User Experience (UI/UX) approaches, incorporating company branding and standards.
 - No code developers have strong knowledge of the platform and are supported to maintain and extend their knowledge. They also know when to reach out for advice and guidance from colleagues with complementary development skills.
 - Solution design and information architecture are carefully considered; constraints are understood and approaches to avoid these are implemented, including inclusion of or switch to low-code and pro-code development.
-- Security, governance, management, and integration are considered as part of solution design and are included in the specification for important business solutions. These are therefore tested as part of the development lifecycle.
+- ✨ Security, governance, management, and integration are considered as part of solution design and are included in the specification for important business solutions. These are therefore tested as part of the development lifecycle.
 - The purpose, impact, and anticipated lifecycle and scale of the solution are considered, and appropriate development methodologies are applied accordingly.
-- Solutions are reviewed to ensure they remain fit for purpose. Changes are managed appropriately.
+- ✨ Solutions are reviewed to ensure they remain fit for purpose. Changes are managed appropriately.
 - Changing platform capabilities are proactively applied to existing solutions.
 - Important business solutions are actively managed and supported.
 - The organization invests in a full range of platform skills against a broad development strategy that includes no-code, low code and pro-code standards and an integrated design and development approach.
@@ -238,8 +238,8 @@ Staff are able to work efficiently across the spectrum of solutions and adopt ne
 - Solution design is carefully considered; constraints are understood and approaches to avoid or mitigate these are implemented.
 - Low code solutions make use of source control to help manage the release process, where possible. The release process includes metrics which can be shared within the organization to show the benefit of the low code solutions.
 - Low code solutions use metrics from tools such as Application Insights to measure adoption. This allows decisions to be made as to where to focus effort on successful applications and cancel or rework unsuccessful applications. These metrics are published and shared within the organization.
-- There is an active process for testing and for user evaluation and feedback, which is used to drive a road map for ongoing enhancements.
-- Lifecycle of the solutions is anticipated, and solution designs take this into consideration.
+- ✨ There is an active process for testing and for user evaluation and feedback, which is used to drive a road map for ongoing enhancements.
+- ✨ Lifecycle of the solutions is anticipated, and solution designs take this into consideration.
 - Standardized User-Centric-Design processes ensure that the solution meets the needs of the users and is designed appropriately for the audience.
 - The organization continues to invest in training for citizen developers and in the tools to support them.
 - The organization has invested in the licensing to ensure that there is low friction and decisions are easier to make when building low code solutions.
@@ -258,11 +258,11 @@ Staff are able to work efficiently across the spectrum of solutions and adopt ne
 
 - Application usage is measured using tooling such as Application Insights.
 - Applications are instrumented to detect errors and events using tools such as Application Insights.
-- Development integration occurs across the code-continuum, pro code component, and solutions are built to be consumed by low code and no code solutions. Libraries of these 'extensions' and registers of where they are employed published and maintained.
+- ✨ Development integration occurs across the code-continuum, pro code component, and solutions are built to be consumed by low code and no code solutions. Libraries of these 'extensions' and registers of where they are employed published and maintained.
 - Statistics on the number of deployments and releases are provided by release management tools such as Azure DevOps.
-- User research is employed to define requirements and provide metrics on usability, enhancements, and productivity.
+- ✨ User research is employed to define requirements and provide metrics on usability, enhancements, and productivity.
 - Design standards are applied consistently to ensure all applications meet staff expectations for UI and behavior.
-- Source control is used effectively and consistently, some automated testing is in place.
+- ✨ Source control is used effectively and consistently, some automated testing is in place.
 - A Steering Committee is created to develop and oversee solution road maps.
 - Code reviews occur to ensure code quality before being introduced into the codebase.
 
@@ -290,7 +290,7 @@ The effectiveness of solutions is continually assessed via a range of metrics to
 
 #### 500 Low Code
 
-- The repository for components, modules and templates which promotes solution reuse is actively maintained by the business and enhanced based on emerging technologies and business needs.
+- ✨ The repository for components, modules and templates which promotes solution reuse is actively maintained by the business and enhanced based on emerging technologies and business needs.
 - Low code citizen developers use the hooks and extension points built by the pro code developers, and provide enhancements to no code. These are standardized, with defined integration points and embedded monitoring elements.
 - Compliance with standards is routinely assessed and used to improve the quality of the solution and the developer.
 
@@ -298,17 +298,17 @@ The effectiveness of solutions is continually assessed via a range of metrics to
 
 - A Package Management feed (such as internal NuGet or NPM feed) is used for managing and promoting the reuse of components and patterns.
 - Pro code develops extension points and components for no code/low code citizen developers to use. Examples include custom connectors for Power Platform or SPFx web parts for SharePoint and Teams.
-
-Analytics on the use of APIs for data sources, functions and business automations is used to optimize their use and performance.
+- ✨ Analytics on the use of APIs for data sources, functions and business automations is used to optimize their use and performance.
 
 #### 500 Governance, Risk, Compliance and Security
 
-- Development is proactively managed across the code-continuum; a dynamic equilibrium is maintained between the different code approaches, shifting to take advantage of changes in the technology and platform landscape. Active monitoring of the source technologies allows these changes to be anticipated and included in the development road maps.
+- Development is proactively managed across the code-continuum; a dynamic equilibrium is maintained between the different code approaches, shifting to take advantage of changes in the technology and platform landscape.
+- Active monitoring of the source technologies allows these changes to be anticipated and included in the development road maps.
 - There is granular insight into the developed solution portfolio and code-continuum, with understanding of origination costs, technical debt, support costs, and benefits. These are integrated with user metrics. These are used to direct development strategies and investments.
-- Application Insights metrics are used to measure adoption and are shared with the organization.
+- ✨ Application Insights metrics are used to measure adoption and are shared with the organization.
 - Application Insights funnels and user flows are used to see how people are behaving and using the solutions.
 - A/B Testing with usability metrics in place allow the organization to measure which approaches are best.
-- Source control provides robust and highly automated testing, Continuous Integration / Continuous Delivery (CI/CD) techniques.
+- ✨ Source control provides robust and highly automated testing, Continuous Integration / Continuous Delivery (CI/CD) techniques.
 - A Centre of Excellence and Steering Committee is empowered to drive a road map to guide the extensibility points built with pro code for the no/Low code citizen developers.
 - Solutions are designed and published to the organization's App Stores such as SharePoint and Microsoft Teams.
 
