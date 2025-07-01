@@ -443,7 +443,7 @@ Note: Changelog started in January, 2021
 ### Updated Articles - August, 2023
 
 | Article | Updated By |
-|[Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.mdd) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
+|[Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.md) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
 
 ### New Contributors - August, 2023
 
