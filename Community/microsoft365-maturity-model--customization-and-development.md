@@ -1,6 +1,6 @@
 ---
 title: The Microsoft 365 Maturity Model – Customization and Development Competency
-ms.date: 2/25/2021
+ms.date: 07/01/2025
 author: simondoy
 ms.reviewer: pamgreen
 manager: pamgreen
