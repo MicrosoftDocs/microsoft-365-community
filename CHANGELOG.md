@@ -18,6 +18,7 @@ Note: Changelog started in January, 2021
 | Article | Updated By |
 |---|---|
 | [Maturity Model for Microsoft 365 - Customization and Development Competency](./Community/microsoft365-maturity-model--customization-and-development.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [List and Library Formatting](./Community/list-formatting-101.md) |  [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 
 ### Removed/Retired Articles - July, 2025
 
