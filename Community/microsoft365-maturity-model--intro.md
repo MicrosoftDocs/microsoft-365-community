@@ -1,6 +1,6 @@
 ---
 title:  Maturity Model for Microsoft 365 - Introduction
-ms.date: 6/12/2020
+ms.date: 7/29/2025
 author: sympmarc
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -33,20 +33,21 @@ Taking a holistic view of the technology through the lens of the Maturity Model 
 
 ## Maturity Model for Microsoft 365 summary
 
-The Microsoft 365 platform is vast and changes rapidly, but business needs are common and slower. The Maturity Model for Microsoft 365 concentrates on defining a set of business competencies, that resonate with Microsoft 365 yet underpin real business activities. Together, the documents create a set of tools, not just information. These should allow organizations to figure out where they are in any function or department and what ‘better’ entails. Not only should the Maturity Model for Microsoft 365 not be about features, but it shouldn't be just about IT either; so we it uses common language that all sorts of business roles can understand so that everyone can use the model.
+The Microsoft 365 platform is vast and changes rapidly, but business needs are common and change more slowly. With the Maturity Model for Microsoft 365, we concentrate on defining a set of business competencies that resonate with Microsoft 365 yet underpin real business activities. Together, the documents create a set of tools, not just information. These should allow organizations to figure out where they are in any function or department and what ‘better’ entails. Not only should the Maturity Model for Microsoft 365 not be about features, but it shouldn't be just about IT either; so it uses common language that all sorts of business roles can understand so that everyone can use the model.
 
 In developing a maturity model for Microsoft 365 we aimed to create a toolkit which follows a set of principles:
 
 - Non-partisan, i.e. informed by but not driven by today’s features in any specific platform
 - Led by business needs rather than technology features
-- Identifies key business *and- technical competencies
-- Enables organizations to evaluate the current state in a systematic and consistent way
+- Identifies key business *and* technical competencies
+- Enables organizations to evaluate their current state in a systematic and consistent way
 - Applicable to various roles in the organization
 
 ## Competencies
 
 ### Published
 
+- [AI & Cognitive Business](microsoft365-maturity-model--cognitive-business.md)
 - [Business Process](microsoft365-maturity-model--business-process.md)
 - [Collaboration](microsoft365-maturity-model--collaboration.md)
 - [Communication](microsoft365-maturity-model--communication.md)
@@ -123,7 +124,7 @@ Optimal, systematic, statistical, improvement-focus, automated, assured, proacti
 
 ## What's next?
 
-The goal of expanding the SharePoint Maturity Model (SPMM) to the Microsoft 365 level is to help practitioners in the community think through how they can improve their capabilities or decide which capabilities matter most to them. These decisions should be based not just on the technology capabilities themselves, but driven by specific outcome objectives derived from the organizational strategy, possibly at a reasonably granular level as well as at the over-arching organization level.
+The goal of expanding the SharePoint Maturity Model (SPMM) into the Microsoft 365 level was to help practitioners in the community think through how they can improve their capabilities or decide which capabilities matter most to them. These decisions should be based not just on the technology capabilities themselves, but driven by specific outcome objectives derived from the organizational strategy, possibly at a reasonably granular level as well as at the over-arching organization level.
 
 Our goal is to apply the same core competencies that were the core of the original SharePoint Maturity Model, updated and extended to reflect the current business and technical environment. As Microsoft 365 is a much deeper and wider toolkit, the project is creating a guidance document for each competency, in a consistent format. Although these are clearly linked to Microsoft 365, we have deliberately avoided detailing particular features and functions, focusing on the business needs and processes in the competency documents. We will continue to expand the document set to drill into the technologies; provide a ‘how to’ for achieving different levels with the tools Microsoft 365 provides; and highlight some practical scenarios.  
 

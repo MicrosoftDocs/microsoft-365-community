@@ -4,7 +4,7 @@ ms.date: 2/17/2021
 author: eemancini
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
 ms.service: o365-solutions
 ms.localizationpriority: Low

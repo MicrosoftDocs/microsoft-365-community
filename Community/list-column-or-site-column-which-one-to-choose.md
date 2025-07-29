@@ -1,10 +1,10 @@
 ---
-title: List columns or Site columns Which one to choose?
+title: List columns or Site columns - Which one to choose?
 ms.date: 3/3/2020
 author: veronicageek
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
 ms.service: sharepoint-online
 ms.localizationpriority: Low

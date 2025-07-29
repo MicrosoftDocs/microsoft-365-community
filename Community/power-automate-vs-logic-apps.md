@@ -5,7 +5,7 @@ author: pkbullock
 ms.author: pamgreen
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: product-comparison
 ms.service: power-platform
 ms.localizationpriority: Low
 description: "Power Automate vs Logic Apps"

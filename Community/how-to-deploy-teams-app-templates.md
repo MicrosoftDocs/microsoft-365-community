@@ -4,7 +4,7 @@ ms.date: 1/20/2021
 author: LuiseFreese
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: how-to
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low

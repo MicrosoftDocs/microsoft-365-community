@@ -43,10 +43,10 @@ landingContent:
     linkLists:
       - linkListType: concept
         links:
-          - text: Business Process Competency
-            url: microsoft365-maturity-model--business-process.md
           - text: AI & Cognitive Business Competency
             url: microsoft365-maturity-model--cognitive-business.md
+          - text: Business Process Competency
+            url: microsoft365-maturity-model--business-process.md
           - text: Collaboration Competency
             url: microsoft365-maturity-model--collaboration.md
           - text: Communication Competency

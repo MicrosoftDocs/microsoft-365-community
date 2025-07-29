@@ -4,7 +4,7 @@ ms.date:  9/02/2020
 author: LuiseFreese
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
 ms.service: msteams
 ms.localizationpriority: Low
