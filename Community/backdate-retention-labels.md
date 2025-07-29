@@ -2,6 +2,9 @@
 title: Backdate Retention Labels
 ms.date: 7/29/2025
 author: stevegoodyear
+ms.reviewer: stevegoodyear
+manager: stevegoodyear
+ms.author: stevegoodyear
 ms.topic: article
 ms.service: sharepoint-online
 ms.localizationpriority: Low
