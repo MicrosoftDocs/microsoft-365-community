@@ -1,6 +1,6 @@
 ---
 title: Taking Advantage of the Content Type Inheritance Model in SharePoint
-ms.date: 10/26/2022
+ms.date: 7/29/2025
 author: sympmarc
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -21,7 +21,7 @@ Let's use this example to illustrate the points:
 
 ![Content Type Hierarchy](media/taking-advantage-content-type-inheritance-sharepoint/content-type-hierarchy.png)
 
-SharePoint gives us the ___Document__ Content Type "out of the box". Every Document Library you create in SharePoint (assuming you don't use some fancy template) has the __Document__ Content Type enabled for it. So many people just start dumping their files into the Documents (aka Shared Documents) library with every file becoming a __Document__ and then wonder why no magic is happening.
+SharePoint gives us the __Document__ Content Type "out of the box". Every Document Library you create in SharePoint (assuming you don't use some fancy template) has the __Document__ Content Type enabled for it. So, many people just start dumping their files into the Documents (aka Shared Documents) library with every file becoming a __Document__ and then wonder why no magic is happening.
 
 In the example above, we have two [interstitial](https://www.dictionary.com/browse/interstice) Content Types. (Interstitial - or interstices - means spaces between things.) We can create these interstitial Content Types, but never enable them in a Document Library; they generally only exist to create a strong content hierarchy.
 

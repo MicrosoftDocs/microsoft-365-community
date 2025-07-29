@@ -1,6 +1,6 @@
 ---
 title: Document Lifecycle Scenarios
-ms.date: 8/11/2020
+ms.date: 7/29/2025
 author: sympmarc
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -22,13 +22,13 @@ No one of these scenarios will be appropriate for all of your documents. Instead
 
 ## *Ad hoc* Document Becoming More Permanent
 
-When smaller teams of people work together in Microsoft Teams, they frequently come up with "chunks" of content spread across Files, OneNote, posts, Wiki pages, etc. As the ideas gel, those chunks often need to be assembled into more complete documents, whether for sharing with the entire organization, a customer, or perhaps management.
+When smaller teams of people work together in Microsoft Teams, they frequently come up with "chunks" of content spread across Files, OneNote, Posts, etc. As the ideas gel, those chunks often need to be assembled into more complete documents, whether for sharing with the entire organization, a customer, or perhaps management.
 
-The effort of assembly in this case takes the *ad hoc* components and glues them together into a coherent document for further editing and polish. Common file formats in this case are Word or PowerPoint.
+The effort of assembly in this case takes the *ad hoc* components and glues them together into a coherent document for further editing and polish. Common file formats in this case might be Word or PowerPoint.
 
 ## Personal Thoughts Turning into Organizational Document
 
-This scenario is similar to the inner and outer loop ideas presented by Microsoft over the last few years. We usually test concepts first by writing them up for ourselves. The document generally sits on our desktop or in our OneDrive for Business.
+This scenario is similar to the inner and outer loop ideas presented by Microsoft years ago. We usually test concepts first by writing them up for ourselves. The document generally sits on our desktop or in our OneDrive for Business.
 
 > [!TIP]
 > Ideally if we are working with documents on our desktops, they are also synching to OneDrive with [OneDrive PC Folder Backup](known-folder-move-benefits-for-enduser.md) (née Known Folder Move).
@@ -48,6 +48,10 @@ That little personal idea we had can have long legs!
 Some documents are simply too important organizationally to arise informally. They also may require some organized and sometimes mandated processes. In this case, the document is generally created in a SharePoint Document Library with important, required metadata columns. It may be moved through a process using a Power Automate flow for approvals or other important state changes.
 
 The goal with documents like this - perhaps a company policy or regulatory filing - is to ensure accuracy and adherence to all organizational constraints.
+
+# References
+
+* [Maturity Model for Microsoft 365 - Management of Content Competency](microsoft365-maturity-model--management-of-content.md)
 
 ---
 
