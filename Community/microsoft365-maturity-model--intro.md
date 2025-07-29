@@ -1,6 +1,6 @@
 ---
 title:  Maturity Model for Microsoft 365 - Introduction
-ms.date: 67/29/2025
+ms.date: 7/29/2025
 author: sympmarc
 ms.reviewer: pamgreen
 manager: pamgreen
