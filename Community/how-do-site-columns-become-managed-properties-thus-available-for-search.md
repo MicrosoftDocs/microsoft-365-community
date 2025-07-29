@@ -4,7 +4,7 @@ ms.date: 4/15/2021
 author: JimmyHang
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
 ms.service: sharepoint-online
 ms.localizationpriority: Low

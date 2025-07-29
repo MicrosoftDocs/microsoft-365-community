@@ -4,7 +4,7 @@ ms.date: 12/19/2022
 author: dfrancoeur
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low

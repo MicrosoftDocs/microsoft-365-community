@@ -4,7 +4,7 @@ ms.date: 01/20/2021
 author: LuiseFreese
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low

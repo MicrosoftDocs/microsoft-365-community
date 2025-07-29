@@ -4,7 +4,7 @@ author: joannecklein
 ms.date: 3/3/2020
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: how-to
 ms.author: pamgreen
 ms.service: priva
 ms.localizationpriority: Low
