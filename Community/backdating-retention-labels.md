@@ -1,10 +1,7 @@
 ---
-title: Backdating Retention Labels
+title: Backdate Retention Labels
 ms.date: 7/29/2025
 author: stevegoodyear
-ms.reviewer: 
-manager: 
-ms.author: 
 ms.topic: article
 ms.service: sharepoint-online
 ms.localizationpriority: Low
@@ -12,7 +9,7 @@ description: Backdating Retention Labels by setting the retention label applied 
 ms.collection: M365Community
 ---
 
-# Backdating Retention Labels
+# Backdate Retention Labels
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
@@ -29,7 +26,7 @@ Sometimes the created or last modified date works well, in which cases maintaini
 To backdate a retention label, apply the retention label using the setComplianceTagWithMetaInfo method on the List Item. This method is available in the CSOM API and available in PowerShell.
 
 >To learn more about the ListItem.SetComplianceTagWithMetaInfo method, please see the documentation.
-><https://learn.microsoft.com/en-us/dotnet/api/microsoft.sharepoint.client.listitem.setcompliancetagwithmetainfo>
+><https://learn.microsoft.com/dotnet/api/microsoft.sharepoint.client.listitem.setcompliancetagwithmetainfo>
 
 The following PowerShell script provides an example using PnP PowerShell to backdate the retention label applied date for a document in the default Documents library. The document has the list item ID of 1 and will have a retention label called Technical Specification applied with the label applied date set to December 25, 2023. Note that method also accepts an email address that specifies the user for the Label Applied By property value.
 
