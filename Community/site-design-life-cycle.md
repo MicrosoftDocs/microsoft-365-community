@@ -1,6 +1,6 @@
 ---
 title: Using Site Templates to Manage Project Life Cycles
-ms.date: 3/30/2022
+ms.date: 7/29/2025
 author: sympmarc
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -20,21 +20,21 @@ One possible use for Site Templates (which used to be called Site Designs) is to
 
 ![Project Lifecycle](media/site-design-life-cycle/Lifecycle.png)
 
-We can also trigger a Flow, so that opens up a whole additional world of possibilities. If we can’t accomplish what we need to do in the Flow, we can also call a custom Web Service from the Flow. In the Web Service, we can do anything CSOM opens up to us. In other words, Site Templates are the entry point we can use to do pretty much anything we need in our sites.
+We can also trigger a Power Automate Flow, so that opens up a whole additional world of possibilities. If we can’t accomplish what we need to do in the Flow, we can also call a custom Web Service from the Flow. In the Web Service, we can do anything CSOM opens up to us. In other words, Site Templates are the entry point we can use to do pretty much anything we need in our sites.
 
 So what does this have to do with project life cycle? Well think about it like this:
 
 * A project may start as just a proposal. In order to work on that proposal, we may need a library to store the information we are using to put the proposal together. (For some reason, many organizations I work with don’t see the value of connecting the proposal artifacts with the project itself. I do!)
 * Once the proposal is accepted, we need some libraries to store our working documents.
 * When the project starts to wrap up, we’ll want to collect our important learnings and high value artifacts for later reuse.
-* Finally, when the project is truly done we may want to “archive” it.
+* Finally, when the project is truly done we may want to "archive" it.
 
 Site Templates could help us move through this process:
 
-* When we create the site, we might apply the **Proposal Site** Site Template. It might create a **Proposal Documents** library and associate the site with the **Active Proposals** Hub Site. Associating with the Hub site would set the theme to theme to “active proposal blue“.
-* If the proposal is accepted, we might apply the **Project Site** Site Template. This Site Template might instantiate a few Content Types, create a few Document Libraries and apply the Content Types, associate the site with the **Active Projects** Hub Site, and add the **Executive Team** to the Site Members. By associating the site with the Active Projects Hub Site, the theme would be set to “active project green“,
+* When we create the site, we might apply the **Proposal Site** Site Template. It might create a **Proposal Documents** library and associate the site with the **Active Proposals** Hub Site. Associating with the Hub site would set the theme to theme to "active proposal blue".
+* If the proposal is accepted, we might apply the **Project Site** Site Template. This Site Template might instantiate a few Content Types, create a few Document Libraries and apply the Content Types, associate the site with the **Active Projects** Hub Site, and add the **Executive Team** to the Site Members. By associating the site with the Active Projects Hub Site, the theme would be set to "active project green",
 * When the project is nearing completion, we could apply the **Knowledge Capture** Site Template. This might instantiate a few Content Types, create a Document Library to capture the important outcomes and apply the Content Types, set the theme to "knowledge capture teal", and add the **KM Team** to the Site Members.
-* When the project wraps up apply the **Archive Project** Site Template, which disassociates the site from the **Active Projects** Hub Site and associates with the **Archived Projects** Hub Site. (This would naturally apply the “archived project grey” theme.)
+* When the project wraps up apply the **Archive Project** Site Template, which disassociates the site from the **Active Projects** Hub Site and associates with the **Archived Projects** Hub Site. (This would naturally apply the "archived project grey" theme.)
 
 This scenario may not fully match yours, but you probably could see something similar applying in your world. Because Site Templates are generally additive and always should be idempotent, each application of a new Site Template should have no detrimental effect on the existing containers of content.
 
