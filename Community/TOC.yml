@@ -197,8 +197,8 @@ Items:
 
   - name: Useful Scenarios
     items:
-    - name: Backdating Retention Labels
-      href: backdating-retention-labels.md
+    - name: Backdate Retention Labels
+      href: backdate-retention-labels.md
     - name: Library Scenarios
       href: library-scenarios.md
     - name: Using Site Designs to Manage Project Life Cycles
