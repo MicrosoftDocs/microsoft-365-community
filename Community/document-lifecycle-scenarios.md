@@ -49,7 +49,7 @@ Some documents are simply too important organizationally to arise informally. Th
 
 The goal with documents like this - perhaps a company policy or regulatory filing - is to ensure accuracy and adherence to all organizational constraints.
 
-# References
+## References
 
 * [Maturity Model for Microsoft 365 - Management of Content Competency](microsoft365-maturity-model--management-of-content.md)
 
