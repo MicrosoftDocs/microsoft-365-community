@@ -6,7 +6,27 @@
 
 Note: Changelog started in January, 2021
 
+## August, 2025
+
+### New Articles - August, 2025
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - August, 2025
+
+| Article | Updated By |
+|---|---|
+
+### Removed/Retired Articles - August, 2025
+
+| Article |
+|---|
+
 ## July, 2025
+
+* Many fixes to `ms.topic` values to reflect changes to allowable values.
+* Multiple articles updated for freshness and validity.
 
 ### New Articles - July, 2025
 
