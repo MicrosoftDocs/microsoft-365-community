@@ -5,7 +5,7 @@ ms.date: 01/01/2025
 author: michaelblumenthal
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low

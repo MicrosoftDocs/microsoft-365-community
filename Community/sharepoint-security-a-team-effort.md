@@ -4,7 +4,7 @@ ms.date: 6/27/2020
 author: veronicageek
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
 ms.service: sharepoint-online
 ms.localizationpriority: low 

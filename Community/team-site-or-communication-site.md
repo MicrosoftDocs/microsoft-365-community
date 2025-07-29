@@ -4,7 +4,7 @@ ms.date: 2/4/2025
 author: SusanHanley
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
 ms.service: sharepoint-online
 ms.localizationpriority: Low

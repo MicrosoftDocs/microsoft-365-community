@@ -3,8 +3,8 @@ ms.date: 04/13/2020
 title: Working with Cascading Lists in SharePoint and Power Apps
 author: yllemo
 ms.reviewer: pamgreen
-manager: pamgreen
-ms.topic: article
+manager: concept-article
+ms.topic: concept-article
 ms.author: pamgreen
 ms.service: sharepoint-online
 ms.localizationpriority: Low

@@ -4,7 +4,7 @@ ms.date: 04/19/2024
 author: PatD
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: best-practice
 ms.author: pamgreen
 ms.service: sharepoint-online
 ms.localizationpriority: Low

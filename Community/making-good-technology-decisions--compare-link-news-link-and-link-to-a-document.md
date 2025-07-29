@@ -5,7 +5,7 @@ author: brianpmccullough
 ms.author: pamgreen
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.service: microsoft-365
 ms.localizationpriority: Low
 description: "Comparison of Link, News Link, and Link to a Document in SharePoint Online"

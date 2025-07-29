@@ -4,7 +4,7 @@ ms.date: 2/13/2023
 author: sympmarc
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: how-to
 ms.author: pamgreen
 ms.service: sharepoint-online
 ms.localizationpriority: Low
