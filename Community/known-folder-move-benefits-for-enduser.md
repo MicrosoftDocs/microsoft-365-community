@@ -4,7 +4,7 @@ ms.date: 4/30/2024
 author: jimmyhang
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
 ms.service: one-drive
 ms.localizationpriority: Low

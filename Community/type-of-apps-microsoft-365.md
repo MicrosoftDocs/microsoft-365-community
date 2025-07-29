@@ -4,7 +4,7 @@ ms.date: 2/17/2021
 author: waldekmastykarz
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: wmastyka
 ms.service: microsoft-365
 ms.localizationpriority: Low
