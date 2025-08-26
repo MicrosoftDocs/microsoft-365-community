@@ -1,6 +1,6 @@
 ---
 title: Maturity Model for Microsoft 365 – Search Competency
-ms.date: 9/3/2020
+ms.date: 08/26/2025
 author: simonjhudson
 ms.author: pamgreen
 ms.reviewer: pamgreen
@@ -20,16 +20,17 @@ ms.collection: M365Community
 
 ## Overview of the Concepts [tl;dr]
 
-People search for many reasons. Any effective search strategy and supporting technology needs to reflect this and include a person-centric and organization-scoped approach to helping people find the things they need. Great search is about discovery, not the search experience itself, i.e., search is only as good as its results.
+People search for many reasons. Any effective search strategy and supporting technology needs to reflect this and include a person-centric and organization-scoped approach to helping people find the things they need. Great search is about discovery and understanding, not the search experience itself, i.e., search is only as good as its results and the abilitity to assimilate them.
 
 With modern organizations creating huge volumes of content and data every year, a search experience where users can find what they want, when they want is essential.
 
-A good search experience benefits the organization by reducing time to find knowledge in the organization. This becomes particularly powerful when users do not need to know where the content is stored. It helps reduce &quot;re-inventing the wheel&quot; and content duplication because the originals could not be found.
+A good search experience benefits the organization by reducing time to find knowledge in the organization and use it to advnave a process or insight. This becomes particularly powerful when users do not need to know where the content is stored. It helps reduce &quot;re-inventing the wheel&quot; and content duplication because the originals could not be found.
+
+The emergence of AI-enhanced search technologies evolves search further. Search is no longer only about “finding” but also about synthesizing; search can summarize across multiple documents, extract key points, and answer in natural language. Search with AI can integrate traditional advanced Search, backend enterprise knowledge graphs, and large language models (LLMs) to deliver contextual, conversational answers rather than just lists of links and file previews. It can access disparate knowledge stores, or intentionally restricted to specificsets of content. Furthermore, it has multi-modal capabilities, allowing both input and output to use or combine text, voice, image and live video/vision.
 
 ## Definition of this competency
 
-Search is about enabling people to find the authoritative information within the organization easily using a set of keywords or search terms, or based in their activities. The results may come from the Microsoft 365 platform or other systems which have been connected into the search process.
-
+Search is about enabling people to find the authoritative information within the organization easily using a set of keywords or search terms, through natural language conversations, or based in their activities and environment. The results may come from the Microsoft 365 platform or other systems which have been connected into the search process.
 
 ## Evolution of this competency
 
@@ -46,16 +47,13 @@ People search for many reasons:
 
 The evolution of Search starts from the basic 'index card' concept, which tells you where to find the document etc. you are looking for, epitomized by the Dewey Decimal system found in libraries. As technology developed, it become possible to search limited metadata (filename) in file repositories, then other attributes and eventually search engines were able to index contents (Semantic analysis), file properties and metadata/tags across multiple repositories. In parallel, the user experience of the search, especially for creating the query and presenting results has improved from basic or cluttered to strongly structured with previews and interaction points, plus post-search filtering or refinement. In parallel, the technologies have become aware of security and governance, reporting and feedback, content weighting and relevance (e.g. headings are more important than text), context, relevancy and 'freshness' (more recent content is likely to be more useful) and can deal with advanced content management technologies.
 
-Search provides two 'experiences' within Microsoft 365 – [classic and modern](/sharepoint/differences-classic-modern-search) - both of which use the same Search Index.
+Search provides mutiple 'experiences', often using one or more Indexes based on proprietary organizational data (semantic index), public data and 3rd party knowledge sources.
 
-- Classic search, which is configured via the SharePoint Admin Centre and available through SharePoint Online.
-- Modern search, which is also known as Microsoft Search.
-
-Microsoft Search has evolved through the improvement of the search indexing and categorization processes using Microsoft Graph, Artificial Intelligence, and Bing algorithms to build results which are personalized for each user. This enables more insightful results based on understanding of the context, where the search is performed and importance of the content.
+Search has evolved through the improvement of the search indexing and categorization processes using graphs, Artificial Intelligence, and Bing algorithms to build results which are personalized for each user. This enables more insightful results based on understanding of the context, where the search is performed and importance of the content.
 
 Today we are moving into AI driven search which understands the person and provides very context specific results based on who they are, where they search from. This is supplemented by AI driven interfaces, including voice and image search. We can expect to see AI increasingly pervade search experiences combined with greatly enhanced personalization based on a wide range of context types.
 
-Search relies heavily on several other competencies including Collaboration and Information Architecture which enables more mature search capabilities within the organization.
+This Search competency relies heavily on several other competencies including Collaboration and Information Architecture which enables more mature search capabilities within the organization. See the Maturity Model for Microsoft 365 - Introduction for definitions of the Maturity Model levels. Some characteristics should, perhaps, be addressed a little more urgently than others; we have marked these with the 'Sparkles' emoji: ✨
 
 ### Level 100 - Initial
 
@@ -65,13 +63,13 @@ Search relies heavily on several other competencies including Collaboration and 
 
 - Out of the box search experience, the quality of results varies wildly with users often unable to find what they are looking without knowing the terms to search for.
 - No formal process to curate search results or analyze search patterns.
-- End users are often unaware of search and have had no training.
 - The danger of search finding inappropriate content is not well understood.
 - Search often does not respect user privileges and access rights.
 
 #### 100 Technology
 
 - Search may be restricted to File System search and a few specific applications.
+- No AI based search has been deployed within the organization.
 - Default out of the box configuration is in place; often with very limited capabilities (filename, title, date).
 - No customizations have been made to Microsoft Search.
 - Search indexes a small volume of organization content.
@@ -82,6 +80,7 @@ Search relies heavily on several other competencies including Collaboration and 
 #### 100 User Experience
 
 - The user experience is basic.
+- End users are often unaware of search tools and have had no training. They are not familiar with using AI search tools and have not integrated them into their search regime.
 - User's may not always find content that they want without knowing the right search terms.
 - User confusion with the different ways of searching.
 
@@ -113,21 +112,26 @@ Productivity is compromised; compliance activities are weak; organizational and 
 
 #### 200 Governance, Risk, Compliance & Security
 
-- Some search tools respect user access rights, but inconsistencies exist, and inappropriate content may be surfaced.
+- Some search tools respect user access rights, but inconsistencies exist, and inappropriate content may be surfaced. This is exacerbated by the power of AI based search, which is grounded in incorrect or conflciting data due to ineffective content management and governance.
 - Some effort is made to promote or identify current or authoritative versions, but with limited consistency.
 - Filenames are used as a substitute for metadata.
 - There is no overall search governance and strategy plan.
+- There is no formal process for approving or curating data sources for the semantic index.
 - Users are not encouraged to use Search instead of legacy approaches.
 - No role defined to administer and refine search experience.
+- Risk considerations for AI use are ad hoc and reactive; often resulting in extremes like complete bans or no oversight.
 
 #### 200 Technology
 
 - There are some search-based point solutions which have enhanced configuration to improve user experience.
 - Some custom specific organization search results have been configured.
-- Microsoft Search may be enabled within Bing for Business, however most users bypass this and open other search engines.
+- AI search may be enabled in some areas, but without full semantic index configuration
+- Search may be enabled within the organization, however most users bypass this and open other search engines.
 - There are efforts to standardize search interfaces from system to system, however this tends to be limited to the presentation, not the format of the underlying business logic.
 - Re-indexing is automated and typically occurs overnight. As such new content isn't initially findable.
 - Different search syntax exists between applications.
+- Limited integration of external or third‑party data sources.
+- Search analytics collected but not actively used to improve AI performance.
 
 #### 200 User Experience
 
@@ -136,13 +140,18 @@ Productivity is compromised; compliance activities are weak; organizational and 
 - Search tools do find content; however, this can be slow.
 - Some standardization is attempted for terms, metadata, naming conventions etc. However, this is not enforced and does not apply to legacy content.
 - Users frequently cannot find the content they need and fall back to other methods to confirm that they are using the correct document etc.
-- Some signposting is in place, i.e. there are visual or text devices to assist the user to navigate to the correct content or location.
+- ✨ Some signposting is in place, i.e. there are visual or text devices to assist the user to navigate to the correct content or location.
+- Some users are aware of AI search but treat it as a novelty; rely mainly on keyword search.
+- Minimal training on natural language queries or AI answer interpretation has been provided.
+- There are inconsistent experiences across systems.
+
 
 #### 200 Impact
 
 At this level, search usage is not ubiquitously or consistently present throughout the organization but is more popular as employees see the benefits of being able to find content. However, the search experience differs depending on where the search takes place. There may have been the migration of file content from file servers into SharePoint; it becomes possible to search across all content stored in platforms, such as Microsoft 365.
 
 There is an increase in usage of search in general, as users find out more about the benefits of search within the organization. Users begin using search when they don't know where a specific document or item is, however, differences between search experiences confuses staff and they avoid using search in systems they are less familiar with. Colleagues remain a primary source of information or signposting to where to look. Lack of immediacy in search ensures duplicate creation remains commonplace, especially across different teams.
+AI search delivers occasional value but is inconsistent, with limited trust from users due to variable accuracy and incomplete coverage of relevant sources.
 
 Productivity and compliance remain compromised; and frustration at the inability to find things persists.
 
@@ -152,30 +161,41 @@ Productivity and compliance remain compromised; and frustration at the inability
 
 #### 300 Governance, Risk, Compliance & Security
 
-- User access rights are consistently applied, and processes exist to manage access.
+- ✨ User access rights are consistently applied, and processes exist to manage access.
+- Basic governance policies exist for search, but AI‑driven search may not be explicitly covered.
+- There is some attempt to ensure content governance in order to provide confidence in the search results, but this is not comprehensive.
+- ✨ The compliance team is aware of AI summarisation risks; early review processes are in place for sensitive domains.
 
 #### 300 Technology
 
 - Commonly searched keywords are configured with tailored results.
 - An enterprise search exists that is connected to other file repositories and line of business applications to break down information silos and allow search across the enterprise. (This could be hybrid, Salesforce etc.). This may not be consistently available nor address all the needs of users, however.
-- Search is applied consistently across services.
-- 'Search verticals', which provide scopes focused on specific topics, business functions, file types and more are available, specific to the business and aim to improve precision and findability for key business functions.
+- ✨ Search is applied consistently across services.
+- ✨ 'Search verticals', which provide scopes focused on specific topics, business functions, file types and more are available, specific to the business and aim to improve precision and findability for key business functions.
 - Search results are customized for key organization assets to improve findability and discovery of useful assets.
-- Search is used in business applications to access large volumes of content quickly and efficiently. This gives users access to information in a way that they have not had before.
+- ✨ Search is used in business applications to access large volumes of content quickly and efficiently. This gives users access to information in a way that they have not had before.
 - The business is using modern search web parts to enhance the user interface and search experience.
-- People are understood as information assets. Skills and expertise are captured and returned in response to search queries.
+- ✨ People are understood as information assets. Skills and expertise are captured and returned in response to search queries.
+- A semantic index is configured for priority repositories; AI search is available in many core applications.
+- Basic monitoring of AI search performance and adoption is available.
+
 
 #### 300 User Experience
 
-- Users are educated on search and how to make best use of it.
+- ✨ Users are educated on search and how to make best use of it. This incudes standardised guidance on effective AI search use, including prompt examples.
 - Search boxes are presented consistently and provide guidance.
 - Search results are consistently laid out and provide content summaries and previews.
+- Initial training is provided on interpreting AI‑generated answers and verifying against authoritative sources. There is some guidance on creating appropriate prompts, together with how to review responses for hallucinations.
+- ✨ Training covers how to validate AI‑generated answers and locate source documents.
+- ✨ Early adoption champions have been identified to support peers.
 
 #### 300 Impact
 
 Search actively adds value to organizations, releasing staff time, improving compliance, and creating confidence that correct versions of documents, etc. are in use. Staff can locate some physical assets, skills.
 
 At this level, Search becomes an asset to the organization. This has been recognized as an enabler that develops more efficient and effective employees. The capabilities of search are harnessed to improve the experience of businesses applications.
+AI search begins to measurably improve findability and productivity, though benefits are still dependent on user skill in crafting effective queries and content governance limitations erodes search confidence.
+
 
 ### Level 400 - Predictable
 
@@ -184,35 +204,48 @@ At this level, Search becomes an asset to the organization. This has been recogn
 #### 400 Governance, Risk, Compliance & Security
 
 - A role exists in the organization to manage enterprise search, to review keywords, feedback and search metrics with a view to ensuring effectiveness.
-- Processes are in place to ensure staff maintain their profiles, including skills and expertise.
-
+- ✨ Processes are in place to ensure staff maintain their profiles, including skills and expertise.
+- ✨ The governance framework includes AI search, with defined roles for oversight and accountability. AI search governance is integrated into broader information governance, with regular audits of outputs.
+- Approved content sources for grounding are documented and maintained.
+- Risk registers include AI‑specific risks (e.g., hallucination, bias, sensitive data exposure) with mitigation plans.
+- Compliance workflows include automated checks for regulated content in AI answers.
 - Search is used to identify records and other artifacts that should be tagged.
-- Centrally managed thesauri and term sets are used across search scopes that understand synonyms.
-- Search is be used to assist compliance processes such as subject access request and, legal eDiscovery.
-- There are tools and processes to ensure staff maintain their profiles and update content to improve findability.
+- ✨ Centrally managed thesauri and term sets are used across search scopes that understand synonyms.
+- ✨ Search is be used to assist compliance processes such as subject access request and, legal eDiscovery.
+
 
 #### 400 Technology
 
 - Search usage is analyzed and used to improve search results.
 - Contextual search is embedded in line of business systems.
 - Most systems and workplace tools provide consistent access to the enterprise search.
-- Information is stored in such a way as to enhance findability.
-- Search extends beyond files and information to locations, physical assets, relationships and more.
+- ✨ Information is stored in such a way as to enhance findability.
+- ✨ Search extends beyond files and information to locations, physical assets, relationships and more.
 - Content discovery emerges as a business tool that exposes content to users who might not have known about it, by displaying information related to the search items.
 - Prospective search is used to display content without the need to enter a search term, such as commonly viewed news, article documents; context drives the relevancy of this.
 - Predictive search begins suggesting matches to search terms as the user enters the search query.
-- Advanced queries can be created using a defined query language.
+- Advanced queries can be created using a defined query language or natural language via AI.
 - Frequency of content indexing is appropriate to the periodicity (&quot;freshness&quot;) of change of different repositories and business processes.
+- ✨ AI search is fully integrated across all relevant systems, with consistent semantic index coverage.
+- Automated ingestion pipelines keep indexed content fresh and security‑trimmed.
+- Search analytics is actively used to tune AI relevance, verify grounding and identify content gaps.
+- Integration with related knowledge and collaboration tools provides cross‑platform knowledge surfacing.
+
 
 #### 400 User Experience
 
 - Users are skilled at discovery of content, information, and skills across the organization.
-- Search results provide previews across most content types; offer interaction (such as email, save for later), and display useful information dependent on content.
+- ✨ Search results provide previews across most content types; offer interaction (such as email, save for later), and display useful information dependent on content.
 - Users can access search from most applications and elements of their digital workspace, including mobile.
 - Common queries can be saved by users and notifications relating to new results are possible.
 - Recommended content and [common bookmarks](/microsoftsearch/manage-bookmarks) to standard or 'best bet' results are proactively published by the organization.
 - Users are frequently unaware that search is used to retrieve information within their workspace.
-- External and public domain content is included in content activities, such as finding appropriate images.
+- ✨ External and public domain content is included in content activities, such as finding appropriate images.
+- ✨ AI search is embedded in daily workflows; users confident in crafting effective prompts.
+- ✨ Feedback mechanisms are in place for users to flag inaccurate or incomplete AI answers, and peers help with alternative prompt design.
+- ✨ Personalisation and AI memory are used to improve relevance and engagement.
+- ✨ AI search adoption metrics are tracked and reported to leadership.
+
 
 #### 400 Impact
 
@@ -220,6 +253,7 @@ This level sees Search being managed throughout the organization. Processes are 
 
 Search is a key business information tool that enables most processes. It is widely seen as the most effective means of discovering, retrieving, and confirming business information, for identifying skills and expertise across the business and integrating knowledge from multiple systems. Most staff update profiles and participate in appropriate tagging
 
+AI search consistently accelerates access to accurate, context‑relevant information, reducing time spent locating and validating content across the organisation.
 Search results can be relied on; the current versions are reliably returned; inappropriate or incorrect content is rare.
 
 ### Level 500 - Optimizing
@@ -231,37 +265,51 @@ Search is part of everyday life for an employee at the organization. New innovat
 #### 500 Governance, Risk, Compliance & Security
 
 - The organization seeks to continually enhance all aspects of the search process and experience; extending scopes, optimizing results and linking related information based on continual feedback
-- Advanced analytics are used to understand search usage and this provides further insights into activities across the company
-- Search is actively used to identify potential threats to information governance, security and legal obligations.
-- Automated tagging and other metadata are in use
-- Context (staff profiles, locations etc.) is integrated with source processes such as Joiners-Leavers, in order to maintain high quality of data
+- ✨ Advanced analytics are used to understand search usage and this provides further insights into activities across the company
+- ✨ Search is actively used to identify potential threats to information governance, security and legal obligations.
+- ✨ Automated tagging and other metadata are in use
+- Context (staff profiles, locations etc.) is integrated with source processes such as Joiners-Leavers, in order to maintain high quality of data.
+- AI search governanceis subject to continuous improvement loop, using analytics and feedback to refine policies, with proactive compliance monitoring of AI outputs in high‑risk areas.
+- AI risk posture reviewed regularly, with adjustments based on emerging regulations and technology changes.
+- Governance extends to prompt libraries, ensuring consistent, compliant, and bias‑aware AI interactions.
 
 #### 500 Technology
 
 - The search corpus is broadened with search being available across bespoke and line of business systems.
-- The search corpus is used to enhance knowledge management tools such as Project Cortex.
+- The search corpus is used to enhance knowledge management tools.
 - Opportunities to enhance search are looked for to ensure data is surfaced to improve productivity based on effective analysis.
-- Effective search is ubiquitous and uniformly available across desktop, mobile and other experiences.
+- ✨ Effective search is ubiquitous and uniformly available across desktop, mobile and other experiences.
 - External resources are included in the search scope.
 - Staff profile updates are monitored and automated to ensure accuracy and completeness.
 - Search is used to discover and auto-tag content.
-- Users are highly skilled at finding information using tools and new staff are trained in the tools for their role.
-- Automated classifiers are used to add tags to all content types, including image, audio and video, in order to ensure it is discoverable.
+- ✨ Users are highly skilled at finding information using tools and new staff are trained in the tools for their role.
+- ✨ Automated classifiers are used to add tags to all content types, including image, audio and video, in order to ensure it is discoverable.
 - SEO approaches are applied to content.
+- ✨ AI search is extended to all relevant enterprise platforms, including custom applications, providing focused retrieval and integration of knowledge. This supports multi‑modal inputs (voice, image, text) and outputs (summaries, charts, action items).
+- Predictive and proactive search experiences are deployed, including autonomous agents, surfacing relevant content before queries are made and identifying content issues.
+- Continuous optimisation of semantic index and connectors is based on usage patterns and business priorities.
+
 
 #### 500 User Experience
 
-- Custom Search Results are created to augment key information in the search results to support improved discovery and findability. These are monitored and a process exists for updating search scopes, presentation, filters etc. as the business needs evolve.
-- Search is ubiquitous; users can access search consistently from all applications and locations within their digital workspace, including mobile and voice.
+- ✨ Custom Search Results are created to augment key information in the search results to support improved discovery and findability. These are monitored and a process exists for updating search scopes, presentation, filters etc. as the business needs evolve.
+- ✨ Search is ubiquitous; users can access search consistently from all applications and locations within their digital workspace, including mobile and voice.
 - Users can proactively provide feedback on search results, to drive improvements.
-- AI is used to enhance search based on deeper knowledge of the user context and business activity.
+- ✨ AI is used to enhance search based on deeper knowledge of the user context and business activity.
 - Search experiences are embedded in business processes and in many cases, users aren't even aware that search is supporting their work.
+- Users routinely use AI search for synthesis, decision support, and proactive insight discovery.
+- ✨ Prompt libraries and role‑specific templates are widely adopted to accelerate common tasks.
+- AI search experience is continuously refined based on behavioural analytics and feedback.
+- ✨ Culture shift: search is seen as a collaborative partner, not just a retrieval tool.
+
 
 #### 500 Impact
 
 Search technologies are considered critical business systems, carefully managed with designed-in resilience. They are a key tool for ensuring compliance; it also unpins staff and process effectiveness.
 
 Staff are committed to the content processes that maintain search; at the same time search is highly automated and 'invisible' delivering insights and finding knowledge without user input. Search itself provides management key insights into the health, activities, and productivity of the business.
+
+AI search proactively surfaces insights and connections before they are requested, driving continuous knowledge discovery and informed decision‑making at scale.
 
 ## Scenarios
 
@@ -305,21 +353,21 @@ Organizations should capture success stories to provide examples of the benefits
 
 - Microsoft Search (using Microsoft Graph)
   - Office search
-  - Microsoft Search in Bing
+  - Microsoft 365 Copilot
+  - Copilot Studio
   - SharePoint Modern Search
   - Modern Search Web Parts
-  - Delve
   - Search Connectors
-- Bing
+  - Semantic Index for Copilot
+  - Microsoft Graph Connectors
+  - Prometheus orchestration layer
+  - Azure OpenAI Service
+  - Search Analytics 
 - SharePoint Search
-  - Classic/Enterprise Search
-- SQL Search
-- Business Data Services (BDS)
-- Cortana
 - Power BI Q&A
 - Managed Metadata/Term Stores
-- eDiscovery and audit (Compliance Centre)
-- 
+- eDiscovery and audit (Microsoft Purview)
+ 
 ## Resources
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
