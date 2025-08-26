@@ -182,7 +182,7 @@ Productivity and compliance remain compromised; and frustration at the inability
 
 #### 300 User Experience
 
-- ✨ Users are educated on search and how to make best use of it. This incudes standardised guidance on effective AI search use, including prompt examples.
+- ✨ Users are educated on search and how to make best use of it. This includes standardised guidance on effective AI search use, including prompt examples.
 - Search boxes are presented consistently and provide guidance.
 - Search results are consistently laid out and provide content summaries and previews.
 - Initial training is provided on interpreting AI‑generated answers and verifying against authoritative sources. There is some guidance on creating appropriate prompts, together with how to review responses for hallucinations.
@@ -211,7 +211,7 @@ AI search begins to measurably improve findability and productivity, though bene
 - Compliance workflows include automated checks for regulated content in AI answers.
 - Search is used to identify records and other artifacts that should be tagged.
 - ✨ Centrally managed thesauri and term sets are used across search scopes that understand synonyms.
-- ✨ Search is be used to assist compliance processes such as subject access request and, legal eDiscovery.
+- ✨ Search is used to assist compliance processes such as subject access request and, legal eDiscovery.
 
 
 #### 400 Technology
