@@ -29,7 +29,7 @@ Note: Changelog started in January, 2021
 ## July, 2025
 
 * Many fixes to `ms.topic` values to reflect changes to allowable values.
-* Multiple articles updated for freshness and validity
+* Multiple articles updated for freshness and validity.
 
 ### New Articles - July, 2025
 
