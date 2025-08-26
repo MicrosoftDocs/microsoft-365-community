@@ -20,13 +20,13 @@ ms.collection: M365Community
 
 ## Overview of the Concepts [tl;dr]
 
-People search for many reasons. Any effective search strategy and supporting technology needs to reflect this and include a person-centric and organization-scoped approach to helping people find the things they need. Great search is about discovery and understanding, not the search experience itself, i.e., search is only as good as its results and the abilitity to assimilate them.
+People search for many reasons. Any effective search strategy and supporting technology needs to reflect this and include a person-centric and organization-scoped approach to helping people find the things they need. Great search is about discovery and understanding, not the search experience itself, i.e., search is only as good as its results and the ability to assimilate them.
 
 With modern organizations creating huge volumes of content and data every year, a search experience where users can find what they want, when they want is essential.
 
-A good search experience benefits the organization by reducing time to find knowledge in the organization and use it to advnave a process or insight. This becomes particularly powerful when users do not need to know where the content is stored. It helps reduce &quot;re-inventing the wheel&quot; and content duplication because the originals could not be found.
+A good search experience benefits the organization by reducing time to find knowledge in the organization and use it to advance a process or insight. This becomes particularly powerful when users do not need to know where the content is stored. It helps reduce &quot;re-inventing the wheel&quot; and content duplication because the originals could not be found.
 
-The emergence of AI-enhanced search technologies evolves search further. Search is no longer only about “finding” but also about synthesizing; search can summarize across multiple documents, extract key points, and answer in natural language. Search with AI can integrate traditional advanced Search, backend enterprise knowledge graphs, and large language models (LLMs) to deliver contextual, conversational answers rather than just lists of links and file previews. It can access disparate knowledge stores, or intentionally restricted to specificsets of content. Furthermore, it has multi-modal capabilities, allowing both input and output to use or combine text, voice, image and live video/vision.
+The emergence of AI-enhanced search technologies evolves search further. Search is no longer only about “finding” but also about synthesizing; search can summarize across multiple documents, extract key points, and answer in natural language. Search with AI can integrate traditional advanced Search, backend enterprise knowledge graphs, and large language models (LLMs) to deliver contextual, conversational answers rather than just lists of links and file previews. It can access disparate knowledge stores, or intentionally restricted to specific sets of content. Furthermore, it has multi-modal capabilities, allowing both input and output to use or combine text, voice, image and live video/vision.
 
 ## Definition of this competency
 
@@ -45,9 +45,9 @@ People search for many reasons:
 - They need to find someone who can offer advice or skills
 - They want to see what the organization has or knows
 
-The evolution of Search starts from the basic 'index card' concept, which tells you where to find the document etc. you are looking for, epitomized by the Dewey Decimal system found in libraries. As technology developed, it become possible to search limited metadata (filename) in file repositories, then other attributes and eventually search engines were able to index contents (Semantic analysis), file properties and metadata/tags across multiple repositories. In parallel, the user experience of the search, especially for creating the query and presenting results has improved from basic or cluttered to strongly structured with previews and interaction points, plus post-search filtering or refinement. In parallel, the technologies have become aware of security and governance, reporting and feedback, content weighting and relevance (e.g. headings are more important than text), context, relevancy and 'freshness' (more recent content is likely to be more useful) and can deal with advanced content management technologies.
+The evolution of Search starts from the basic 'index card' concept, which tells you where to find the document etc. you are looking for, epitomized by the Dewey Decimal system found in libraries. As technology developed, it became possible to search limited metadata (filename) in file repositories, then other attributes and eventually search engines were able to index contents (Semantic analysis), file properties and metadata/tags across multiple repositories. In parallel, the user experience of the search, especially for creating the query and presenting results has improved from basic or cluttered to strongly structured with previews and interaction points, plus post-search filtering or refinement. In parallel, the technologies have become aware of security and governance, reporting and feedback, content weighting and relevance (e.g. headings are more important than text), context, relevancy and 'freshness' (more recent content is likely to be more useful) and can deal with advanced content management technologies.
 
-Search provides mutiple 'experiences', often using one or more Indexes based on proprietary organizational data (semantic index), public data and 3rd party knowledge sources.
+Search provides multiple 'experiences', often using one or more Indexes based on proprietary organizational data (semantic index), public data and 3rd party knowledge sources.
 
 Search has evolved through the improvement of the search indexing and categorization processes using graphs, Artificial Intelligence, and Bing algorithms to build results which are personalized for each user. This enables more insightful results based on understanding of the context, where the search is performed and importance of the content.
 
@@ -112,7 +112,7 @@ Productivity is compromised; compliance activities are weak; organizational and 
 
 #### 200 Governance, Risk, Compliance & Security
 
-- Some search tools respect user access rights, but inconsistencies exist, and inappropriate content may be surfaced. This is exacerbated by the power of AI based search, which is grounded in incorrect or conflciting data due to ineffective content management and governance.
+- Some search tools respect user access rights, but inconsistencies exist, and inappropriate content may be surfaced. This is exacerbated by the power of AI based search, which is grounded in incorrect or conflicting data due to ineffective content management and governance.
 - Some effort is made to promote or identify current or authoritative versions, but with limited consistency.
 - Filenames are used as a substitute for metadata.
 - There is no overall search governance and strategy plan.
@@ -269,7 +269,7 @@ Search is part of everyday life for an employee at the organization. New innovat
 - ✨ Search is actively used to identify potential threats to information governance, security and legal obligations.
 - ✨ Automated tagging and other metadata are in use
 - Context (staff profiles, locations etc.) is integrated with source processes such as Joiners-Leavers, in order to maintain high quality of data.
-- AI search governanceis subject to continuous improvement loop, using analytics and feedback to refine policies, with proactive compliance monitoring of AI outputs in high‑risk areas.
+- AI search governance is subject to continuous improvement loop, using analytics and feedback to refine policies, with proactive compliance monitoring of AI outputs in high‑risk areas.
 - AI risk posture reviewed regularly, with adjustments based on emerging regulations and technology changes.
 - Governance extends to prompt libraries, ensuring consistent, compliant, and bias‑aware AI interactions.
 
@@ -305,7 +305,7 @@ Search is part of everyday life for an employee at the organization. New innovat
 
 #### 500 Impact
 
-Search technologies are considered critical business systems, carefully managed with designed-in resilience. They are a key tool for ensuring compliance; it also unpins staff and process effectiveness.
+Search technologies are considered critical business systems, carefully managed with designed-in resilience. They are a key tool for ensuring compliance; it also underpins staff and process effectiveness.
 
 Staff are committed to the content processes that maintain search; at the same time search is highly automated and 'invisible' delivering insights and finding knowledge without user input. Search itself provides management key insights into the health, activities, and productivity of the business.
 
