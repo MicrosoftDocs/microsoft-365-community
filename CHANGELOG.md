@@ -17,6 +17,9 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
+| [Maturity Model for Microsoft 365 - Business Process Competency](./Community/microsoft365-maturity-model--business-process.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 - Search Competency](./Community/microsoft365-maturity-model--search.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+
 
 ### Removed/Retired Articles - August, 2025
 
