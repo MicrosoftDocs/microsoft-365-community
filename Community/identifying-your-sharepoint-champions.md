@@ -28,7 +28,7 @@ There is a wide spectrum of technical capabilities in the room to learn the same
 
 They have a specific task in mind and can strong arm your environment to do what they need regardless of parameters put in place. This person is interested and passionate enough to dig past what you delivered in a training session for Microsoft 365. These end users want to build in your environment so empowering them, not limiting them, will help you both come up with the best solutions for the organization.
 
-### The End User Who Ask Lots of Question
+### The End User Who Ask Lots of Questions
 
 If your training is not fully sticking with all people in the room this is very valuable feedback as you aren't just targeting the tech savvy end users in your organization. When you launch the next solution, everyone in this room will need to understand the why and the how for it to be successfully adopted. Including these end users who ask the most questions in the conversation will help identify where your content is unclear. They are also showing a lot of motivation to understand so support them by inviting them to be Microsoft 365 champions which provides more opportunities for education and questions.
 
