@@ -6,6 +6,23 @@
 
 Note: Changelog started in January, 2021
 
+## October, 2025
+
+### New Articles - October, 2025
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - October, 2025
+
+| Article | Updated By |
+|---|---|
+
+### Removed/Retired Articles - October, 2025
+
+| Article |
+|---|
+
 ## September, 2025
 
 ### New Articles - September, 2025
@@ -20,6 +37,10 @@ Note: Changelog started in January, 2021
 
 ### Removed/Retired Articles - September, 2025
 
+| Article |
+|---|
+
+
 ## August, 2025
 
 ### New Articles - August, 2025
@@ -33,7 +54,6 @@ Note: Changelog started in January, 2021
 |---|---|
 | [Maturity Model for Microsoft 365 - Business Process Competency](./Community/microsoft365-maturity-model--business-process.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
 | [Maturity Model for Microsoft 365 - Search Competency](./Community/microsoft365-maturity-model--search.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
-
 
 ### Removed/Retired Articles - August, 2025
 
