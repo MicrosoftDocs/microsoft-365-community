@@ -12,6 +12,7 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
+| [Practical Scenario: Knowledge Management](./Community/maturity-model-microsoft365-ps-knowledge-management.md) |[Rebecka Isaksson MVP](https://www.linkedin.com/in/rebeckaisaksson/), [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
 
 ### Updated Articles - October, 2025
 
@@ -39,7 +40,6 @@ Note: Changelog started in January, 2021
 
 | Article |
 |---|
-
 
 ## August, 2025
 
