@@ -35,8 +35,8 @@ landingContent:
     linkLists:
       - linkListType: whats-new
         links:
-          - text: Maturity Model for Microsoft 365 Practical Scenarios - Enhancing Brand Management
-            url: maturity-model-microsoft365-ps-enhancing-brand-management.md
+          - text: Maturity Model for Microsoft 365 Practical Scenarios - Knowledge Management
+            url: maturity-model-microsoft365-ps-knowledge-management.md
 
   # Card (optional)
   - title: Competencies - A-L
@@ -113,6 +113,8 @@ landingContent:
             url: maturity-model-microsoft365-servicing-microsoft365-service-health-management.md
           - text: Maturity Model for Microsoft 365 Practical Scenarios - Enhancing Brand Management
             url: maturity-model-microsoft365-ps-enhancing-brand-management.md
+          - text: Maturity Model for Microsoft 365 Practical Scenarios - Knowledge Management
+            url: maturity-model-microsoft365-ps-knowledge-management.md
 
   # Card (optional)
   - title: Practitioner Sessions
