@@ -1,6 +1,6 @@
 ---
 title: Maturity Model for Microsoft 365 Practical Scenarios – Knowledge Management
-ms.date: 10/20/2025
+ms.date: 11/04/2025
 author: Bex-Sthlm
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -98,9 +98,9 @@ At this initial level, there is no concerted effort to cultivate a unified organ
 - Lack of measurement limits visibility into knowledge sharing and collaboration.
 - Lack of measurement limits visibility into collaboration effectiveness and content findability.
 
-#### Development actions & activities (L100 à L200)
+#### Development actions & activities (L100 → L200)
 
-##### Content **(L100 à L200):**
+##### Content **(L100 → L200):
 
 - Designate SharePoint as the official repository for organizational content, starting with policy documents and forms.
 - Begin migrating content from local drives and third-party tools to SharePoint and OneDrive, with guidance on what goes where, with particular emphasis on when to use SharePoint and when to use OneDrive.
@@ -109,7 +109,7 @@ At this initial level, there is no concerted effort to cultivate a unified organ
 - Raise awareness of Microsoft Purview capabilities, even if not yet enforced, to prepare for future classification and compliance efforts.
 - Encourage cross-team visibility by reducing silos and promoting shared spaces for work-in-progress and deliverables.
 
-##### Collaboration **(L100 → L200):**
+##### Collaboration **(L100 → L200):
 
 - Introduce basic governance for Microsoft Teams: set naming conventions, lifecycle rules, and channel creation guidelines to reduce tool sprawl.
 - Encourage collaborative behaviors through informal recognition and storytelling, even if not yet tied to performance metrics.
@@ -117,7 +117,7 @@ At this initial level, there is no concerted effort to cultivate a unified organ
 - Support early adoption with light training and peer sharing to build confidence in using productivity tools.
 - Monitor usage patterns to identify gaps and opportunities for shifting collaboration from email and chat to more structured channels.
 
-##### Communities**/Expertise (L100 à L200):**
+##### Communities**/Expertise (L100 → L200):
 
 - Encourage organic community formation by promoting Viva Engage and Teams as starting points, even without a formal strategy.
 - Support early experimentation with Viva Learning and begin identifying potential use cases for readiness and training content.
@@ -179,7 +179,7 @@ Metrics are emerging but not yet standardized or consistently applied across tea
 
 #### Development actions & activities (L200 → L300)
 
-##### Content (L200 à L300)
+##### Content (L200 → L300)
 
 - Standardize governance practices by aligning taxonomies, RBACs, and lifecycle policies with compliance requirements, even if not yet fully enforced.
 - A content management model is published to guide what should be stored where and is monitored for compliance.
@@ -192,14 +192,14 @@ Metrics are emerging but not yet standardized or consistently applied across tea
 
 ![Diagram of the Content Management Model.](media/maturity-model-microsoft365-ps-knowledge-management/content-management-model.jpg)
 
-##### Collaboration (L200 **à** L300)
+##### Collaboration (L200 → L300)
 
 - Integrate collaborative behaviors into performance management to reinforce team success and shared outcomes.
 - Standardize tool usage by promoting Microsoft Teams for both synchronous and asynchronous collaboration, supported by templates for consistency.
 - Shift internal collaboration away from Outlook to Teams and Channels, reserving email for external communication.
 - Actively promote personal productivity tools like Loop, Planner, To Do, and Lists during team formation and project kick-offs to drive consistent adoption.
 
-##### Communities/Expertise (L200 **à** L300)
+##### Communities/Expertise (L200 → L300)
 
 - Formalize communities by defining roles, creating charters, and promoting respectful engagement across Viva Engage and Teams.
 - Align SME recognition with job roles and career stages and begin documenting expertise systematically.
@@ -264,9 +264,9 @@ Metrics on content usage, collaboration, and community engagement are actively t
 - **Microsoft Teams Analytics & Reporting** is used to track collaboration patterns and guide improvements.
 - **Microsoft 365 Admin Center** data is regularly reviewed by IT to monitor service health and usage.
 
-#### Development actions & activities (L300 à L400)
+#### Development actions & activities (L300 → L400)
 
-##### Content (L300 à L400)
+##### Content (L300 → L400)
 
 - Apply governance and lifecycle policies consistently across all content types, ensuring metadata tagging and access controls are standard practice.
 - Centralize content repositories and reinforce SharePoint as the primary collaboration and storage platform, with OneDrive limited to personal or limited work files, in accordance with the content management model.
@@ -274,14 +274,14 @@ Metrics on content usage, collaboration, and community engagement are actively t
 - Leverage automation tools like SharePoint Premium to streamline tagging, reduce duplication, and manage semi-structured content at scale.
 - Ensure compliance awareness is embedded in content practices across geographies and business units.
 
-##### Collaboration (L300 à L400)
+##### Collaboration (L300 → L400)
 
 - Reward collaborative behaviors by embedding recognition into performance reviews and celebrating cross-team success openly.
 - Promote open sharing and learning from both successes and failures to strengthen trust and team resilience.
 - Expand use of Teams features like Engage Storyline and Praise to foster a culture of appreciation and visibility.
 - Embed productivity tools like Loop, Planner, To Do, and Lists into collaborative workflows, making them a natural part of project execution.
 
-##### Communities/Expertise (L300 à L400)
+##### Communities/Expertise (L300 → L400)
 
 - Formalize community governance with clear roles, lifecycle processes, and leadership appointment models across all Viva Engage communities.
 - Recognize communities as strategic assets, with leadership sponsorship and integration into business planning and success metrics.
@@ -344,9 +344,9 @@ Metrics are fully integrated into individual and team performance management sys
 - **Microsoft 365 Adoption Score** and **Teams Analytics & Reporting** are monitored on an exception basis to detect usage drops or setbacks.
 - **Microsoft 365 Admin Center** is proactively monitored by IT, with service issues managed through formal channels.
 
-#### Development actions & activities (L400 à L500)
+#### Development actions & activities (L400 → L500)
 
-##### Content (L400 à L500)
+##### Content (L400 → L500)
 
 - Automate governance and lifecycle management using SharePoint Premium and/or third-party tools to reduce manual effort and ensure consistency.
 - Appoint Information Owners accountable for content lifecycle, including archiving and deletion aligned with governance policies.
@@ -354,7 +354,7 @@ Metrics are fully integrated into individual and team performance management sys
 - Fully deploy Microsoft Purview to automate classification, retention, and encryption, reducing human error and enhancing compliance.
 - Use SharePoint Premium for intelligent content processing, including OCR, auto-tagging, and content assembly to streamline document creation and management.
 
-##### Collaboration (L400 à L500)
+##### Collaboration (L400 → L500)
 
 - Normalize collaboration by coaching individuals who default to solo work, reinforcing shared success and continuous learning.
 - Systematize lessons learned to inform process improvements and foster a culture of openness and growth.
@@ -362,7 +362,7 @@ Metrics are fully integrated into individual and team performance management sys
 - Monitor and manage Outlook use, limiting it to external communication and notifications.
 - Continuously evaluate and integrate new tools from Microsoft 365 into collaboration workflows, ensuring alignment with organizational processes.
 
-##### Communities/Expertise (L400 à L500)
+##### Communities/Expertise (L400 → L500)
 
 - Embed communities into organizational culture, with leadership actively recognizing their role in innovation, problem-solving, and continuous improvement.
 - Reward Community Leaders and SMEs through performance management and incentive systems, aligning contributions with career growth.
