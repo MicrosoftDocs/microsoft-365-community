@@ -100,7 +100,7 @@ At this initial level, there is no concerted effort to cultivate a unified organ
 
 #### Development actions & activities (L100 → L200)
 
-##### Content **(L100 → L200):
+##### Content (L100 → L200):
 
 - Designate SharePoint as the official repository for organizational content, starting with policy documents and forms.
 - Begin migrating content from local drives and third-party tools to SharePoint and OneDrive, with guidance on what goes where, with particular emphasis on when to use SharePoint and when to use OneDrive.
@@ -109,7 +109,7 @@ At this initial level, there is no concerted effort to cultivate a unified organ
 - Raise awareness of Microsoft Purview capabilities, even if not yet enforced, to prepare for future classification and compliance efforts.
 - Encourage cross-team visibility by reducing silos and promoting shared spaces for work-in-progress and deliverables.
 
-##### Collaboration **(L100 → L200):
+##### Collaboration (L100 → L200):
 
 - Introduce basic governance for Microsoft Teams: set naming conventions, lifecycle rules, and channel creation guidelines to reduce tool sprawl.
 - Encourage collaborative behaviors through informal recognition and storytelling, even if not yet tied to performance metrics.
@@ -117,7 +117,7 @@ At this initial level, there is no concerted effort to cultivate a unified organ
 - Support early adoption with light training and peer sharing to build confidence in using productivity tools.
 - Monitor usage patterns to identify gaps and opportunities for shifting collaboration from email and chat to more structured channels.
 
-##### Communities**/Expertise (L100 → L200):
+##### Communities/Expertise (L100 → L200):
 
 - Encourage organic community formation by promoting Viva Engage and Teams as starting points, even without a formal strategy.
 - Support early experimentation with Viva Learning and begin identifying potential use cases for readiness and training content.
