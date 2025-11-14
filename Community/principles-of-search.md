@@ -7,8 +7,9 @@ ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: concept-article
 ms.author: pamgreen
-ms.service: mssearch
-localization\_priority:
+ms.service: microsoft-365
+ms.custom: mssearch
+ms.localization_priority: Low
 description: Principles of Search as used to inform the Search Competency within the Microsoft 365 Maturity Model
 ms.collection: SPCommunity
 

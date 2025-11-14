@@ -6,7 +6,8 @@ ms.reviewer: pamgreen
 ms.author: pamgreen
 manager: pamgreen
 ms.topic: how-to
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: Importing data into SharePoint
 ms.collection: M365Community
