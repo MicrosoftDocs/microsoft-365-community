@@ -6,7 +6,8 @@ ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: concept-article
 ms.author: pamgreen
-ms.service: o365-solutions
+ms.service: microsoft-365
+ms.custom: o365-solutions
 ms.localizationpriority: Low
 description: Maturity Model for Microsoft 365 -  How to run a Maturity Model for Microsoft 365 workshop
 ms.collection: SPCommunity

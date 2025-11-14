@@ -6,7 +6,8 @@ ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: concept-article
 ms.author: pamgreen
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: Identifying influencers in your organization to help support SharePoint and Microsoft 365 initiatives through feedback, change management support, and self-service opportunities.
 ms.collection: M365Community

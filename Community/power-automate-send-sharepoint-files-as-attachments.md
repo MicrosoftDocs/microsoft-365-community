@@ -6,7 +6,8 @@ ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: how-to
 ms.author: pamgreen
-ms.service: power-platform
+ms.service: microsoft-365
+ms.custom: power-platform
 ms.localizationpriority: Low
 description: "Power Automate - Send SharePoint files as attachments"
 ms.collection: M365Community

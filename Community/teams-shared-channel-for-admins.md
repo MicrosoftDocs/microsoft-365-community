@@ -6,7 +6,8 @@ ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: concept-article
 ms.author: pamgreen
-ms.service: msteams
+ms.service: microsoft-365
+ms.custom: msteams
 ms.localizationpriority: Low
 description: "Teams Shared Channels for Admins"
 ms.collection: M365Community
