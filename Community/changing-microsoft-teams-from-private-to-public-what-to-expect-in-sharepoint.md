@@ -6,7 +6,8 @@ ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: concept-article
 ms.author: pamgreen
-ms.service: msteams
+ms.service: microsoft-365
+ms.custom: msteams
 ms.localizationpriority: Low
 description: "Changing Microsoft Teams from Private to Public, what to expect in SharePoint?"
 ms.collection: M365Community

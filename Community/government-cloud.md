@@ -6,7 +6,8 @@ ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: concept-article
 ms.author: pamgreen
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: "A quick knowledge primer for site owners and Microsoft 365 experts on working in the M365 government cloud."
 ms.collection: M365Community

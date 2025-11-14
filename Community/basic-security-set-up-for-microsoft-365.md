@@ -6,7 +6,8 @@ ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: how-to
 ms.author: pamgreen
-ms.service: security
+ms.service: microsoft-365
+ms.custom: security
 ms.localizationpriority: Low
 description: Basic Security Set Up for Microsoft 365
 ms.collection: M365Community

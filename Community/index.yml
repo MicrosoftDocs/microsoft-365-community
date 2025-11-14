@@ -6,7 +6,7 @@ summary: Learn about Microsoft 365 from the community!  All content is community
 metadata:
   title: Microsoft 365 Community Content # Required; page title displayed in search results. Include the brand. < 60 chars.
   description: Community contributed documentation # Required; article description that is displayed in search results. < 160 chars.
-  ms.service: sharepoint-online #Required; service per approved list. service slug assigned to your service by ACOM.
+  ms.service: microsoft-365 #Required; service per approved list. service slug assigned to your service by ACOM.
   ms.topic: landing-page # Required
   ms.collection: M365-collaboration
   author: jhendr #Required; your GitHub user alias, with correct capitalization.

@@ -6,7 +6,8 @@ ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: overview
 ms.author: pamgreen
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: "Information Architecture - Site Topology"
 ms.collection: M365Community

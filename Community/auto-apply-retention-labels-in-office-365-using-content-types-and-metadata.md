@@ -6,7 +6,8 @@ ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: how-to
 ms.author: pamgreen
-ms.service: priva
+ms.service: microsoft-365
+ms.custom: priva
 ms.localizationpriority: Low
 description: "Auto Apply Retention Labels in Office 365 Using Content Types and Metadata"
 ms.collection: M365Community
