@@ -6,8 +6,7 @@ summary: The Maturity Model for Microsoft 365 concentrates on defining a set of 
 metadata:
   title: Maturity Model for Microsoft 365 # Required; page title displayed in search results. Include the brand. < 60 chars.
   description: Maturity Model for Microsoft 365 # Required; article description that is displayed in search results. < 160 chars.
-  ms.service: microsoft-365
-ms.custom: sharepoint-online #Required; service per approved list. service slug assigned to your service by ACOM.
+  ms.service: microsoft-365 #Required; service per approved list. service slug assigned to your service by ACOM.
   ms.topic: landing-page # Required
   ms.collection: M365-collaboration
   author: pamgreen #Required; your GitHub user alias, with correct capitalization.
