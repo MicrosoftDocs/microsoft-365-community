@@ -7,7 +7,7 @@ manager: pamgreen
 ms.topic: concept-article
 ms.author: pamgreen
 ms.service: microsoft-365
-ms.custom: one-drive
+ms.custom: onedrive
 ms.localizationpriority: Low
 description: OneDrive PC Folder Backup Benefits for End Users
 ms.collection: M365Community
