@@ -46,13 +46,13 @@ Active Directory Federation Service (AD FS) enables Federated Identity and Acces
 
 Activity explorer provides a historical view of activities on your labeled content. The activity information is collected from the Microsoft 365 unified audit logs, transformed, and made available in the Activity explorer UI. Activity explorer reports on up to 30 days worth of data.
 
-### [Adaptive Cards](/power-automate/overview-adaptive-cards)
+### [Adaptive Cards (Teams)](https://learn.microsoft.com/en-us/microsoftteams/platform/teams-ai-library/in-depth-guides/adaptive-cards/overview)
 
-Adaptive Cards are a platform-agnostic method of sharing and displaying blocks of information without the complexity of customizing CSS or HTML to render them. You author Adaptive Cards in JSON format, with integrations that cloud apps and services can openly exchange. When delivered to a specific host, such as Microsoft Teams, the JSON is transformed into native UI that automatically adapts to its host. Therefore, process designers can now offer consistent UI patterns whenever they need to display information as part of a business process/automation.
+Adaptive Cards are platform‑agnostic UI snippets authored in JSON and rendered natively by host apps. In Microsoft Teams they power rich interactive messages, dialogs, message extensions, link unfurling, and configuration forms. See also: the [Adaptive Cards documentation hub](https://adaptivecards.io/).
 
 ### [Adaptive Scopes (Retention)](/microsoft-365/compliance/retention-settings#configuration-information-for-adaptive-scopes)
 
-Adaptive scopes as a new feature is currently in preview and subject to change. The alternative option is a static scope, which provides the same behavior before adaptive scopes were introduced and can be used if adaptive scopes don't meet your business requirements.
+daptive scopes let you target Microsoft Purview retention and communication compliance policies dynamically using query‑based membership (for example, department, geography, or Microsoft Entra administrative units). Scopes evaluate daily and scale without the overhead of maintaining static groups.
 
 ### [Administrative units](/azure/active-directory/roles/administrative-units)
 
@@ -112,9 +112,9 @@ The Microsoft Authenticator app provides an additional level of security to your
 
 <a name='azure-active-directory-aad'></a>
 
-### [Microsoft Entra ID](/azure/active-directory/fundamentals/active-directory-whatis)
+### [Microsoft Entra ID (formerly Azure Active Directory)](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis)
 
-Microsoft Entra ID is the Microsoft 365 source for all identity management, and much more. For example, Microsoft 365 Groups and applications permissions are stored in Microsoft Entra ID.
+Microsoft Entra ID is the Microsoft 365 source for all identity management, and much more. It stores users, groups, app registrations, authentication methods, and permissions used across Microsoft 365 services such as Teams, SharePoint, Exchange, Purview, and the Microsoft 365 Defender portal.
 
 <a name='azure-ad-connect'></a>
 
@@ -131,6 +131,8 @@ Microsoft Entra Connect cloud sync is new offering from Microsoft designed to me
 ### [Azure Information Protection (AIP)](/azure/information-protection/what-is-information-protection)
 
 A cloud solution that supports labeling of documents and emails to classify and protect information. Labeled items can be protected by encryption, marked with a watermark or restricted to specific actions or users and is bound to the item. This cloud based solution relies on Azure Rights Management Service (RMS) for enforcing restrictions.
+
+### [Azure Information Protection Unified Labeling add‑in (retired)](https://techcommunity.microsoft.com/t5/microsoft-security-blog/retirement-notification-for-the-azure-information-protection-unified/ba-p/3791908)
 
 ### [Azure Marketplace](/azure/marketplace/overview)
 
@@ -152,7 +154,7 @@ Azure Active Directory B2C provides business-to-customer identity as a service. 
 
 ### [Backup](/exchange/back-up-email)
 
-Always a hot topic. There is no native traditional backup and restore capability within Microsoft 365.  The link to the left shows Microsoft’s stance in relation to backup of Exchange Online as an example.  Third-party products are available, but are they worth it, and are they needed?  The debate goes on.
+icrosoft operates robust data resilience and service‑level protections, but traditional “backup” (independent, point‑in‑time copies under your control) follows a shared responsibility model. Many organizations use third‑party backup to meet RPO/RTO targets, long‑term retention, or cross‑tenant restore scenarios.
 
 ### [Billing](/dynamics365/commerce/)
 
@@ -274,6 +276,21 @@ The Content Type Gallery is the modernized view of the [Content Type Hub](#conte
 
 The Content Type Hub is a Site Collection where you can manage [Content Types](#content-type) and [Site Columns](#site-column) which should be available across your entire tenant. The Content Type Hub is older technology and generally is used less than in the past, primarily because it is slow to publish and it published to all [Site Collections](#site-collection) in the tenant. There is a modernized view of the Content Type Hub in the SharePoint Admin Center's Content Services [Content Type Gallery](#content-type-gallery).
 
+
+### [Copilot](https://www.microsoft.com/en-us/microsoft-365/enterprise/copilot-for-microsoft-365)
+
+Copilot brings the power of large language models to your organization’s data and context through Microsoft Graph. It works seamlessly across Word, Excel, PowerPoint, Outlook, Teams, Loop, and more—helping you draft, analyze, summarize, and create with ease. Built on your existing security, permissions, and compliance controls, Copilot uses advanced features like the Semantic Index to surface the most relevant content, ensuring every response is grounded in your organization’s knowledge.
+
+### [Copilot Pages & Notebooks (Loop)](https://techcommunity.microsoft.com/blog/microsoft_365blog/copilot-pages--notebooks-microsoft-loop-it-admin-update-%E2%80%93-december-2025/4474306)
+
+Copilot Pages are editable, shareable canvases created from Copilot Chat. They turn a conversation or intent (“draft a proposal,” “pull a summary”) into a living page you can refine, structure, and share. Copilot Notebooks are AI‑powered workspaces that bring together files, chats, pages, links, and meeting notes so Copilot can reason over that context and help you explore, summarize, and create with more tailored responses.
+
+Both Pages and Notebooks are saved as `.loop` files in user‑owned SharePoint Embedded containers (“My workspace/Pages”), and storage counts toward your tenant’s SharePoint quota. Admins can enable/disable creation via Cloud Policy.
+
+### [Copilot Studio (formerly Power Virtual Agents)](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/microsoft-power-virtual-agents-now-part-of-microsoft-copilot-studio/)
+
+Microsoft Copilot Studio is a low‑code platform to build custom copilots/agents, connect to data via plugins/actions, orchestrate workflows, and customize Microsoft 365 Copilot.
+
 ### Crawled Property
 
 A Crawled Property is one of the basic units of the Search Schema. They are created automatically by the SharePoint Search Indexer (or Crawler) when it is discovering content that can be searched. The information stored in Crawled Properties is made available in queries by mapping them to Managed Properties.
@@ -334,9 +351,9 @@ Microsoft Defender for Identity (formerly Azure Advanced Threat Protection, also
 
 Microsoft Defender for Office 365 safeguards your organization against malicious threats posed by email messages, links (URLs), and collaboration tools.
 
-### [Delve](https://support.microsoft.com/office/what-is-delve-1315665a-c6af-4409-a28d-49f8916878ca)
+### [Delve (Retired)](https://support.microsoft.com/office/what-is-delve-1315665a-c6af-4409-a28d-49f8916878ca)
 
-Use Delve to manage your Microsoft 365 profile, and to discover and organize the information that's likely to be most interesting to you right now - across Microsoft 365.
+**Delve** retired in **December 2024**. Use modern **profile cards** and people search at Microsoft365.com/Office.com/SharePoint to view org information and custom user profile properties. Content and Graph signals remain accessible across Microsoft 365 experiences.
 
 ### [Denial of Service Defence Strategy](/compliance/assurance/assurance-microsoft-dos-defense-strategy)
 
@@ -550,6 +567,10 @@ Microsoft Purview Data Lifecycle Management provides capabilities to govern your
 
 The Microsoft Graph API offers a single endpoint, [Microsoft Graph](https://graph.microsoft.com), to provide access to rich, people-centric data and insights in the Microsoft cloud, including Microsoft 365, Windows 10, and Enterprise Mobility + Security. You can use REST APIs or SDKs to access the endpoint and build apps that support Microsoft 365 scenarios, spanning across productivity, collaboration, education, people and workplace intelligence, and much more.
 
+### [Graph Connectors](https://learn.microsoft.com/en-us/microsoftsearch/connectors-overview)
+
+Graph connectors bring external systems (e.g., Salesforce, ServiceNow, websites, file shares) into **Microsoft Search** and **Copilot** so users can find and act on content beyond Microsoft 365. Govern access with Microsoft Entra ID, Purview, and search admin settings
+
 ### [Graphical User Interface (GUI)](https://microsoft.fandom.com/wiki/Graphical_user_interface)
 
 A graphical user interface (GUI) is a user interface that incorporates graphical elements, such as windows, icons, and buttons – unlike a command-line interface (CLI), which is text-based.
@@ -696,7 +717,7 @@ Just-in-Time access is the core principle of Microsoft Entra Privileged Identity
 
 ## K
 
-### [Kaizala](https://www.microsoft.com/garage/profiles/kaizala/)
+### [Kaizala (Retired)](https://www.microsoft.com/garage/profiles/kaizala/)
 
 Microsoft Kaizala is a mobile app and service designed for large group communications and work management. Kaizala makes it easy to connect and coordinate work with your entire value chain, including field employees, vendors, partners, and customers wherever they are. With Kaizala you efficiently assign and track tasks or collect data with individuals or large groups–even if they’re not within your organisation.
 
@@ -754,6 +775,8 @@ A library is a type of list where documents or other files are added as items, b
 
 With Teams live events, users in your organization can broadcast video and meeting content to large online audiences. Microsoft 365 live events bring live video streaming to a new level. Live events encourage connection throughout the entire engagement lifecycle with attendees before, during, and after live events. You can create a live event wherever your audience, team, or community resides, using Microsoft Stream, Teams, or Viva Engage.
 
+Microsoft continues to maintain **Teams Live Events**, but new feature investment is focused on **Teams Town halls**. Plan migration to Town halls for modern production and engagement features while Live Events remains available.
+
 ### [Log Analytics](/azure/azure-monitor/logs/log-analytics-overview)
 
 Log Analytics is a tool in the Azure portal used to edit and run log queries with data in Azure Monitor Logs. You may write a simple query that returns a set of records and then use features of Log Analytics to sort, filter, and analyze them.
@@ -764,7 +787,7 @@ Azure Logic Apps s a cloud-based platform for creating and running automated wor
 
 ### [Loop](https://www.microsoft.com/microsoft-loop?ms.url=microsoftcommicrosoft-loop)
 
-Microsoft Loop is a new app that combines a powerful and flexible canvas with portable components that stay in sync and move freely across Microsoft 365 apps.
+Loop enables multiplayer co‑creation using pages, components, and workspaces. Loop content is stored in SharePoint (via SharePoint Embedded) and supports eDiscovery, audit, retention labels, and sensitivity labels. Admins can configure group‑managed workspaces, guest sharing, and lifecycle controls
 
 ## M
 
@@ -801,6 +824,11 @@ Microsoft Mesh enables presence and shared experiences from anywhere – on any 
 ### [Metadata](/sharepoint/managed-metadata)
 
 Generically, metadata means information about something else. In SharePoint metadata is additional information applied to documents, pages, or list items. We use metadata all the time in our lives, but rarely think of it as metadata. For example, the information we write on a file we put into a filing cabinet or the way we organize spices in the kitchen is driven by metadata.
+
+### [Microsoft 365 & Power Platform Community](https://pnp.github.io/)
+Formerly known as Patterns and Practices (PnP), this community provides guidance, reusable components, and best practices for building solutions on Microsoft 365 and Power Platform. It offers open-source tools, samples, and documentation to help developers and IT professionals extend, customize, and integrate Microsoft services effectively.
+
+See [Patterns and Practices](#patterns-and-practices-pnp)
 
 ### Microsoft Certified Professional (MCP)
 
@@ -932,6 +960,10 @@ Microsoft Outlook is an email program for Windows, Mac, and mobile operating sys
 
 ## P
 
+## [PAYGO storage for SharePoint](https://modernworkplace.site/microsoft-ignite-2025-recap/)
+
+A pay‑as‑you‑go storage option gives admins finer control over bursty repository growth and lifecycle costs—particularly useful for content‑heavy intranets and file archives. Details are evolving post‑Ignite 2025 announcements; expect parity with other SharePoint Premium PAYGO scenarios.
+
 ### Pascal Case
 
 In programming, Pascal case is the practice of naming variables or controls by capitalizing all words. Examples: `TotalQuantity`, `EmailAddress`, `ShippingPlant`.
@@ -956,7 +988,12 @@ Phishing attacks attempt to steal sensitive information through emails, websites
 
 Microsoft Planner is an intuitive, collaborative task management tool that enables people to plan, manage, and complete task-based initiatives. Users assign and manage tasks on a Kanban board using task cards, which they can populate with various important plan information, such as due dates, status, checklists, labels, and file attachments. Planner integrates with several Microsoft solutions, including Microsoft Teams. As a web-based tool, Planner is accessible from anywhere and available as a mobile app for both iOS and Android.
 
-### PnP
+### Profile cards (People search)
+
+Modern **profile cards** surface contact details, org information, skills, and custom properties across Microsoft365.com, Office.com, SharePoint, and other experiences, replacing Delve profile pages. Use Microsoft Search to find people and open their profile pages.
+
+### [PnP (Now Microsoft 365 & Power Platform Community)](https://pnp.github.io/)
+Formerly known as Patterns and Practices (PnP), this community provides guidance, reusable components, and best practices for building solutions on Microsoft 365 and Power Platform. It offers open-source tools, samples, and documentation to help developers and IT professionals extend, customize, and integrate Microsoft services effectively.
 
 See [Patterns and Practices](#patterns-and-practices-pnp)
 
@@ -990,13 +1027,7 @@ The version that ships on Windows devices is called Windows PowerShell, and the 
 
 ### [Power Virtual Agents](/power-virtual-agents/fundamentals-what-is-power-virtual-agents)
 
-Power Virtual Agents (PVA) empowers organizations to create powerful bots using a guided, no-code graphical interface without the need for data scientists or developers.
-
-Using Power Virtual Agents, you can:
-
-* Empower your teams by allowing them to easily build bots themselves without needing intermediaries, or coding or AI expertise.
-* Reduce costs by easily automating common inquiries and freeing human agent time to deal with more complex issues.
-* Improve customer satisfaction by allowing customers to self-help and resolve issues quickly 24/7 using rich personalized bot conversations.
+Power Virtual Agents capabilities are now part of Microsoft Copilot Studio, a low‑code platform to build custom copilots/agents, connect to data via plugins/actions, orchestrate workflows, and customize Copilot for Microsoft 365.
 
 ### Power Platform Data Loss Prevention
 
@@ -1032,7 +1063,7 @@ The term 'putability' is the complement to the term 'findability'; it is a measu
 
 QBasic is Quick Basic interpreter.This application could be used to run quick basic program and software developed for your Windows10 desktop or tablet.
 
-### [QnA Maker](/azure/cognitive-services/qnamaker/overview/overview)
+### [QnA Maker (Retiring)](/azure/cognitive-services/qnamaker/overview/overview)
 
 QnA Maker is a cloud-based Natural Language Processing (NLP) service that allows you to create a natural conversational layer over your data. It is used to find the most appropriate answer for any input from your custom knowledge base (KB) of information. QnA Maker is commonly used to build conversational client applications, which include social media applications, chat bots, and speech-enabled desktop applications.
 
@@ -1157,6 +1188,9 @@ The Search Schema refers to the customizable data dictionary used by SharePoint 
 
 Microsoft Entra self-service password reset (SSPR) gives users the ability to change or reset their password, with no administrator or help desk involvement. If a user's account is locked or they forget their password, they can follow prompts to unblock themselves and get back to work. This ability reduces help desk calls and loss of productivity when a user can't sign in to their device or an application. Microsoft recommend this video on how to enable and configure SSPR in Microsoft Entra ID.
 
+### [Semantic Index for Copilot](https://learn.microsoft.com/en-us/MicrosoftSearch/semantic-index)
+The semantix index is a retrieval layer that understands relationships across your Microsoft 365 content (SharePoint, OneDrive, Teams), improving Copilot’s grounding and answer quality. It complements Microsoft Search and your information architecture.
+
 ### [Sensitive information type](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 A defined pattern of data that can be identified in order to be protected by DLP or sensitivity labels. Common examples include social security numbers, credit card numbers but can also include any type of data considered sensitive by the organization that matches a pattern.
@@ -1172,6 +1206,10 @@ Microsoft Sentinel is a scalable, cloud-native, security information and event m
 ### [Session Border Controller (SBC)](/microsoftteams/direct-routing-border-controllers)
 
 Microsoft partners with selected Session Border Controllers (SBC) vendors to certify that their SBCs work with Direct Routing.
+
+### [SharePoint agents](https://support.microsoft.com/en-us/office/get-started-with-sharepoint-agents-69e2faf9-2c1e-4baa-8305-23e625021bcf)
+
+AI assistants scoped to SharePoint sites, pages, and libraries that answer questions, summarize content, and assist with task‑specific workflows—respecting user permissions and sensitivity labels. Every site includes a “ready‑made” agent; site owners and members can create custom agents, brand them, and expand knowledge sources. Agents are stored as `.agent` files (Site Assets/Copilots or the originating library) and can be shared to Teams/Copilot.
 
 ### [SharePoint Framework](/sharepoint/dev/spfx/sharepoint-framework-overview)
 
@@ -1277,9 +1315,12 @@ The Style Library is a document library in the Root Web of a SharePoint site tha
 
 Download Windows apps for your Windows tablet or computer. Browse thousands of free and paid apps by category, read user reviews, and compare ratings.
 
-### [Stream](/stream/)
+### [Stream (Classic) (retired)](https://techcommunity.microsoft.com/blog/streamblog/update-on-stream-classic-retirement-last-day-of-service-set-for-feb-15-2024/3712075)
 
-With video that will be stored in Microsoft 365, the new version of Stream builds on the rich content management features of SharePoint and unlocks the intelligence of Microsoft Graph to enhance videos across Microsoft 365. The earlier version of Stream will now be known as Microsoft Stream (Classic) and the new version will be known as Microsoft Stream (built on SharePoint) or Stream (on SharePoint).
+Microsoft **Stream (Classic)** retired in 2024. Migrate videos to **Stream (on SharePoint)** so content lives alongside files in SharePoint/OneDrive/Teams, inheriting the same permissions, compliance, and eDiscovery capabilities.
+
+### [Stream (on SharePoint)](https://learn.microsoft.com/en-us/stream/))
+Stream stores and manages videos as standard files in SharePoint, OneDrive, and Teams. It offers modern playback features like transcripts, chapters, and markers, along with easy sharing, detailed analytics, multi-geo support, and full compliance and eDiscovery parity with other file types.
 
 ### [Subsite](/sharepoint/manage-site-creation#manage-detailed-site-and-subsite-creation-settings-in-the-classic-sharepoint-admin-center)
 
@@ -1386,6 +1427,10 @@ Transport Layer Security (TLS), the successor of the now-deprecated Secure Socke
 ### [To Do](/connectors/todo/)
 
 Microsoft To-Do is an intelligent task management app that makes it easy to plan and manage your day. Connect to Microsoft To-Do to manage your tasks from various services. You can perform actions such as creating tasks.
+
+### [Town halls (Teams)](https://support.microsoft.com/en-us/office/switch-from-microsoft-teams-live-events-to-town-halls-c71bf6e2-ece1-4809-900e-51271f39ac72)
+
+Teams Town halls are optimized for one‑to‑many events with green room, structured Q&A, email communications, RTMP‑in, and higher capacities (additional options with Teams Premium). Town halls are the strategic replacement for Live Events.
 
 ### [TPM](/windows/security/information-protection/tpm/trusted-platform-module-overview)
 
@@ -1497,6 +1542,9 @@ When you install the DirectAccess and VPN (RAS) role service, you are deploying 
 
 An employee experience platform that brings together communications, knowledge, learning, resources, and insights.
 
+### [Viva Topics (Retired)](https://learn.microsoft.com/en-us/microsoft-365/topics/changes-coming-to-topics?view=o365-worldwi
+Viva Topics retired on February 22, 2025. Topic pages published by users become standard SharePoint pages; AI‑generated topic pages and automatic topic surfaces wind down. Use **SharePoint** for publishing and **Microsoft Search** and **Copilot** for discovery and knowledge experiences.
+
 ### [Volume Licencing Service Center (VLSC)](/licensing/)
 
 The VLSC is where organizations manage licenses purchased via the following volume licensing programs: Microsoft Enterprise, Enterprise Subscription, Select Plus, Select, Academic – Education Enrolment or School Enrolment, Open Value, Open Value Subscription and Open Licenses programs.
@@ -1536,6 +1584,10 @@ Windows Hello provides reliable, fully integrated biometric authentication based
 ### [Word](/office/client-developer/word/word-home)
 
 Microsoft Word is a word processing software developed by Microsoft.
+
+### [Work IQ (Microsoft 365)](https://practical365.com/microsoft-ignite-2025-copilot-updates-agent-365-sharepoint-turns-25-practical-365-podcast-s04e46/)
+
+A new intelligence layer that makes Copilot and agents context‑aware by default, combining signals from your documents, emails, meetings, and SharePoint to personalize assistance and predict next actions. It extends the Semantic Index and Context IQ, improving relevance and agent routing in everyday workflows.
 
 ## X
 
