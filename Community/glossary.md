@@ -306,7 +306,7 @@ The General Data Protection Regulation (GDPR) introduces new rules for organizat
 
 ### Microsoft Dataverse
 
-[Microsoft Microsoft Dataverse](https://powerplatform.microsoft.com/common-data-service/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Microsoft Dataverse enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
+[Microsoft Microsoft Dataverse](https://powerplatform.microsoft.com/dataverse/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Microsoft Dataverse enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
 
 ### Microsoft Dataverse for Teams
 
