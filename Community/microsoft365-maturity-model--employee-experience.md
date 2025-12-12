@@ -412,7 +412,7 @@ Use of technologies can help, but these must always be blended with good managem
 - [The difference Between Employee Experience and Engagement](https://www.effectory.com/knowledge/the-difference-between-employee-experience-and-engagement/).  
 - [Employee Experience vs Employee Engagement](https://peopleinsight.co.uk/employee-experience-vs-engagement/) | People Insight
 - [Back To Basics: Employee Engagement Vs. Employee Experience](https://www.forbes.com/sites/ericmosley/2020/08/27/back-to-basics-employee-engagement-vs-employee-experience/) - Forbes  
-- [Difference between employee engagement and employee experience.](https://www.seenit.io/blog/difference-between-employee-engagement-and-employee-experience/)
+- [Difference between employee engagement and employee experience.](https://www.chrmp.com/employee-engagement-vs-employee-experience/)
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
 
