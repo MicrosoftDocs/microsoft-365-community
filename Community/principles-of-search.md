@@ -5,10 +5,11 @@ ms.date: 8/25/2020
 author: SimonJHudson
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
-ms.service: mssearch
-localization\_priority:
+ms.service: microsoft-365
+ms.custom: mssearch
+ms.localizationpriority: Low
 description: Principles of Search as used to inform the Search Competency within the Microsoft 365 Maturity Model
 ms.collection: SPCommunity
 
@@ -49,7 +50,7 @@ The human-machine interface also evolves in response to the changing nature of b
 
 ## History of Search
 
-Search, as a concept, has been around for as long as people have been storing knowledge in the form of written words. The [Pinakes](https://en.wikipedia.org/wiki/Pinakes) may well have been the 1st library index, based on the contents of the library of Alexandria around 300 BCE. With around half a million papyrus scrolls stored in the library, the great repository of knowledge already far exceeded ability of even a team of librarians to know the content. Today, even the smallest organizations have vast quantities of internal information, supplemented by externally accessible knowledge. Since the dawn of the computing age around 80 years ago, [machines have assisted](https://en.wikipedia.org/wiki/Search_engine_technology#History_of_Search_Technology) us with finding the information we need. With the advent of digitization, digital search has become the only realistic way of accessing the internal and external information at our disposal, and has become a critical capability since the turn of the Millennium. Web search started in the early 90s, arguably culminating with the release of Google. [Enterprise search](https://searchresearch.online/a-history-of-enterprise-search-starting-out/) actually precedes this; Microsoft became active around 2001, adding search capabilities to Microsoft Office SharePoint Server, which it later spun out as the stand alone Search Server in 2008. This marked the start of Microsoft's vision for search, to break down information silos and provide a single point to search for all content across the enterprise. Even their first engine was able to search through multiple content sources including SharePoint, Exchange, Lotus Notes and File servers.
+Search, as a concept, has been around for as long as people have been storing knowledge in the form of written words. The [Pinakes](https://en.wikipedia.org/wiki/Pinakes) may well have been the 1st library index, based on the contents of the library of Alexandria around 300 BCE. With around half a million papyrus scrolls stored in the library, the great repository of knowledge already far exceeded ability of even a team of librarians to know the content. Today, even the smallest organizations have vast quantities of internal information, supplemented by externally accessible knowledge. Since the dawn of the computing age around 80 years ago, [machines have assisted](https://en.wikipedia.org/wiki/Search_engine_technology#History_of_Search_Technology) us with finding the information we need. With the advent of digitization, digital search has become the only realistic way of accessing the internal and external information at our disposal, and has become a critical capability since the turn of the Millennium. Web search started in the early 90s, arguably culminating with the release of Google. Enterprise search actually precedes this; Microsoft became active around 2001, adding search capabilities to Microsoft Office SharePoint Server, which it later spun out as the stand alone Search Server in 2008. This marked the start of Microsoft's vision for search, to break down information silos and provide a single point to search for all content across the enterprise. Even their first engine was able to search through multiple content sources including SharePoint, Exchange, Lotus Notes and File servers.
 
 As SharePoint gained popularity so did the amount of content stored in the system. As the amount of content grew, a more sophisticated search engine was needed. In 2008, Microsoft acquired FAST, a true enterprise search product When they integrated the technology into SharePoint 2013, organizations were provided with powerful enterprise search, able to scale to large volumes of information. Further development of search integrated it into Windows desktop, many desktop and server applications and ultimately into online services, including The Bing web search engine and the search capabilities embedded across the Microsoft Graph.
 

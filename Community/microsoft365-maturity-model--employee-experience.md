@@ -4,7 +4,7 @@ ms.date: 01/21/2025
 author: simonjhudson
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: overview
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low
@@ -411,8 +411,7 @@ Use of technologies can help, but these must always be blended with good managem
 - [Work Trend Index](https://www.microsoft.com/worklab/work-trend-index/)
 - [The difference Between Employee Experience and Engagement](https://www.effectory.com/knowledge/the-difference-between-employee-experience-and-engagement/).  
 - [Employee Experience vs Employee Engagement](https://peopleinsight.co.uk/employee-experience-vs-engagement/) | People Insight
-- [Back To Basics: Employee Engagement Vs. Employee Experience](https://www.forbes.com/sites/ericmosley/2020/08/27/back-to-basics-employee-engagement-vs-employee-experience/) - Forbes  
-- [Difference between employee engagement and employee experience.](https://www.seenit.io/blog/difference-between-employee-engagement-and-employee-experience/)
+- [Back To Basics: Employee Engagement Vs. Employee Experience](https://www.forbes.com/sites/ericmosley/2020/08/27/back-to-basics-employee-engagement-vs-employee-experience/) - Forbes   
 
 [!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
 

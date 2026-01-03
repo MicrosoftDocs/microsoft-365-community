@@ -4,9 +4,10 @@ ms.date: 8/17/2020
 author: aaronrendell
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
-ms.service: power-platform
+ms.service: microsoft-365
+ms.custom: power-platform
 ms.localizationpriority: Low
 description: "The Power Platform DLP policies you should be considering on Day 1"
 ms.collection: M365Community

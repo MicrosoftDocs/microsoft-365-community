@@ -4,9 +4,10 @@ ms.date: 2/4/2025
 author: SusanHanley
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: "Team Site vs. Communication Site: Which one should I choose?"
 ms.collection: M365Community

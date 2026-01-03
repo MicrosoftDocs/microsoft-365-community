@@ -4,9 +4,10 @@ ms.date: 10/31/2024
 author: PatD
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: Creative ways to filter, embed, and change page content by learning the secrets of URL query strings.
 ms.collection: M365Community

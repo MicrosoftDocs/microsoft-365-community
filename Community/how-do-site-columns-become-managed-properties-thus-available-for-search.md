@@ -4,9 +4,10 @@ ms.date: 4/15/2021
 author: JimmyHang
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: "How Do Site Columns Become Managed Properties - Thus Available for Search?"
 ms.collection: M365Community

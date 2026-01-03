@@ -3,9 +3,10 @@ title: Advanced Highlighted Content Web Part
 ms.date: 12/29/2021
 author: PatD
 manager: pamgreen
-ms.topic: article
+ms.topic: how-to
 ms.author: pamgreen
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: A learning strategy for querying and filtering Highlighted Content Web Parts, with KQL, CAML and Managed Properties. Includes example scenarios
 ms.collection: M365Community

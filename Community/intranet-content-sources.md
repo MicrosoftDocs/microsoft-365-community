@@ -2,10 +2,11 @@
 title: Building great content for your Intranet
 ms.date: 11/29/2021
 author: pkbullock
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
 manager: pamgreen
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: Building a new Intranet from scratch, but struggling where to start. This article will go through the sources, patterns and ideas to help you get started.
 ms.collection: M365Community

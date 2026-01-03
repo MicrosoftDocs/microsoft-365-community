@@ -4,9 +4,10 @@ ms.date: 8/13/2020
 author: eemancini
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: how-to
 ms.author: pamgreen
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: How to Share Org-Wide Communications in Microsoft 365
 ms.collection: M365Community 

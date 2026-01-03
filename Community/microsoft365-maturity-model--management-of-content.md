@@ -4,7 +4,7 @@ ms.date: 02/02/2025
 author: simonjhudson
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: overview
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low
@@ -109,7 +109,7 @@ There is a lot of frustration at this level because people spend a lot of time f
 
 - Content is created and stored inconsistently in a variety of applications, in many styles. Often the content format is not appropriate, for example, notifications are created as documents attached to an email, contacts are stored in Excel, images are stored in slide decks.
 - No process for lifecycle management is in place.
-- Documents are created on an ad hoc basis either from a blank copy or by re-using a previous version (without clearing previous metadata).
+- ✨ Documents are created on an ad hoc basis either from a blank copy or by re-using a previous version (without clearing previous metadata).
 - File formats for newly created content are not standardized and out of date or unexpected formats are in use.
 - Content creation tools are not standardized, may use older versions of software, or tools from different companies, creating further content inconsistencies.
 - Templates may exist, but they are "lost" in the folder hierarchy and infrequently used; templates are not integrated into the into the 'New Document' settings in Office applications
@@ -131,7 +131,7 @@ There is a lot of frustration at this level because people spend a lot of time f
 
 ##### 100 Presentation
 
-- Templates are not managed and deployed across the organization to ensure standards. Templates that do exist are not managed, updated, tested for effectiveness nor do they include appropriate settings such as language, default fonts.
+- ✨ Templates are not managed and deployed across the organization to ensure standards. Templates that do exist are not managed, updated, tested for effectiveness nor do they include appropriate settings such as language, default fonts.
 - Consistent styling and branding are not used consistently. Formatting is left to the end user, without guidance. Staff make their own decisions on logos and images to include.
 - A large proportion of content fails to meet accessibility guidelines.
 - Users are not well trained in use of content creation tools, not is there a process for review and quality improvement.
@@ -152,10 +152,10 @@ There is a lot of frustration at this level because people spend a lot of time f
 
 At this level you can expect the following:
 
-- Users must guess where content is stored and where to store their content, consuming significant amounts of time.
+- ✨ Users must guess where content is stored and where to store their content, consuming significant amounts of time.
 - Search is seen as a primary navigational tool, and is generally considered to be ineffective
 - Cognitive load is high due to inconsistencies in document layouts and styles; staff find it hard to scan, understand and assimilate information.
-- Content is lost and misplaced.
+- ✨ Content is lost and misplaced.
 - Multiple copies of content with slight differences exist and there is no central source of truth.
 - Applications that use the content have usability issues and mistakes are easily made.
 - Poor decisions are made due to incomplete or out of date information.
@@ -173,11 +173,11 @@ At this level you can expect the following:
 - Document lifecycle tracking is largely managed through external lists and document registers. Documents are generally created from a blank copy or by re-using a previous version. Staff remain free to deviate from the processes and there is little enforcement by the system or management.
 - Lifecycle management of list items is largely absent.
 - Content creation tools and file formats have been standardized across the organization, but this is not enforced, and some staff continue to use non-compliant formats. There is no systematic standardization of legacy content. There may be overzealous application of the standards in some areas, overlooking the specific business need in the local pursuit of standardization.
-- Templates exist, but are not well managed and not published in a way that promotes their active use across the organization; templates are not integrated into the 'New Document settings
+- ✨ Templates exist, but are not well managed and not published in a way that promotes their active use across the organization; templates are not integrated into the 'New Document settings
 ![Personal Templates](media/microsoft365-maturity-model--management-of-content/personal-templates.jpg)
 - Some teams and staff understand the power of multi-author editing by storing their content in an online content management platform. While they use and promote this approach, many staff still expect to receive attachments rather than live links, resulting in serial editing in many cases. Content management approaches are rarely mandated outside critical documents.
 - Version control is in use in these cases though much remains unmanaged or handled through manual update of document registers. Staff members are often unaware of how to use version history and version control.
-- Files within the content management platforms have some level of role-based access, governance and protection, though this is not mandated, well documented, centrally managed or built to best practice.
+- ✨ Files within the content management platforms have some level of role-based access, governance and protection, though this is not mandated, well documented, centrally managed or built to best practice.
 - Disposal of superseded content remains ad hoc, though there may be a periodic clean up and bulk review, especially for managed content. This is true of documents, web pages, items and most other forms of content. There is limited appreciation of the need to declutter, deduplicate, decommission and delete.
 - There are no standards or expectations for how emails should be managed; staff frequently have thousands of emails in their Inbox, many unread. Flagging, storage in email folders or offloading of content and actions to other systems is not well understood and adopted.
 - List items tend to be created in spreadsheets, allowing a limited degree of item level management and versioning. Some users understand how to sort and filter. Headings, field types and structure remain inconsistent. Default names are used rather using a naming convention
@@ -194,7 +194,7 @@ At this level you can expect the following:
 
 ##### 200 Presentation
 
-- Templates are created for many types of content and are made available to staff. They are often updated. Users generally know where to find them, but default to using previously published documents. Some staff have added templates to their default location to make it easier to access, especially for frequent processes; however, this is not embedded across the organization. Some effort has been put into creating well-formed templates and many have been tested for standardized style, language and other settings. These have reasonably consistent styling and branding.
+- ✨ Templates are created for many types of content and are made available to staff. They are often updated. Users generally know where to find them, but default to using previously published documents. Some staff have added templates to their default location to make it easier to access, especially for frequent processes; however, this is not embedded across the organization. Some effort has been put into creating well-formed templates and many have been tested for standardized style, language and other settings. These have reasonably consistent styling and branding.
 - Many users understand the importance of using Headings headings and other styles in content, however poor, ad hoc formatting remains commonplace.
 - A large proportion of content fails to meet accessibility guidelines.
 - Some users are trained, however most are expected to learn on the job, line management are thought to manage this process to drive improvements, however it is likely that most managers also lack the understanding and skills.
@@ -205,7 +205,7 @@ At this level you can expect the following:
 
 ##### 200 Storage
 
-- Users remain uncertain where to save documents and content; frequently creating multiple copies in different places. No deduplication process exists.
+- ✨ Users remain uncertain where to save documents and content; frequently creating multiple copies in different places. No deduplication process exists.
 
 - Multiple file management strategies exist, often with overlap. File server storage is the predominant approach, with local storage on hard drives or removable devices discouraged or disallowed.
 - There is often an attempt to create structure within the storage solution, especially at department or project levels; however, the limitations of hierarchical approaches are poorly understood and largely unaddressed. Folder/directory structures are inconsistent across different parts of the organization and rely on "local" knowledge to navigate. Where content management platforms are used, storage strategy replicates directory structures.
@@ -233,13 +233,13 @@ At this level you can expect the following:
 
 #### 300 Lifecycle Management
 
-- Basic Content Lifecycle Management is in place for key business operations, commonly via content management systems (CMS) rather than file servers; this ensures that draft, active/published and superseded content items are easily identified. Document registers are discouraged in favor of tools with the CMS, though legacy registers may persist. There is some effort to ensure important content is retained and there are occasional efforts to cleanse old documents; this may result in loss of important information due to absence of robust controls. Staff can deviate from many processes, though this is actively discouraged.
+- ✨ Basic Content Lifecycle Management is in place for key business operations, commonly via content management systems (CMS) rather than file servers; this ensures that draft, active/published and superseded content items are easily identified. Document registers are discouraged in favor of tools with the CMS, though legacy registers may persist. There is some effort to ensure important content is retained and there are occasional efforts to cleanse old documents; this may result in loss of important information due to absence of robust controls. Staff can deviate from many processes, though this is actively discouraged.
 - Content creation tools and file formats have been standardized across the organization, policies and management processes actively discourage use of non-compliant formats. Some effort is made to update legacy content where it is in current use.
 - Templates are lifecycle- managed and processes make it easy to create new content from these.
 - Use of CMS storage widely enables multi-author editing and staff are generally aware of this approach, though some (passive and active) resistance remains. Use of email attachments is in decline,decline; many staff actively discourage this and remind others about the storage and sharing policy.
-- Version control is in general use and version-duplicates are largely absent (though other sources of duplicates do occur)
+- ✨ Version control is in general use and version-duplicates are largely absent (though other sources of duplicates do occur)
 - Role-based access, governance and protection is in use; comprehensive implementation has not yet been achieved.
-- Important content has processes for lifecycle tracking, with periodic clean up and disposal. Retention mechanisms are attempted, sporadically. Many documents lack appropriate protection or governance, despite an understanding of the need for compliance and other controls.
+- ✨ Important content has processes for lifecycle tracking, with periodic clean up and disposal. Retention mechanisms are attempted, sporadically. Many documents lack appropriate protection or governance, despite an understanding of the need for compliance and other controls.
 - There is guidance on effective use of email and recommendations on how to store email. Some email activity has migrated to real time conversations, there is limited recognition that this represents another type of content to manage.
 - Items previously stored in freeform documents or in Excel are beginning to be managed in dedicated List applications. This allows granular management of each item, with item level security, version history etc.
 - The use of List applications enables content reuse, with list items able to act as data sources. Column/field headings show some evidence of standardization as a result. Column/Field types are generally appropriate; some consistency and standards are emerging.
@@ -257,7 +257,7 @@ At this level you can expect the following:
 - Routine processes have well defined and maintained templates which are accessible from withing the process and are mandated and adopted for those processes. Templates are generally "on-brand", fit for purpose, and have been reviewed for quality. These have reasonably consistent styling and branding. Re-use of previous documents is avoided, though prior content is often copied into the new documents. Some staff have added general templates to their default location to make it easier to access and there may be efforts to implement this across the organization.
 - Emails have automated signature blocks.
 - Templates and many ad hoc documents are developed using Headings headings and other presentation and layout formats; some effort has been put into creating company-wide document styles. Content tends to meet basic accessibility guidelines by default. There are some management processes to drive adoption of this practice and to drive improvements.
-- Basic content skills are provided through training or self-learning as well as through on the job mentoring and feedback.
+- ✨ Basic content skills are provided through training or self-learning as well as through on the job mentoring and feedback.
 - Regionalization is actively addressed through templates, configuration and policy; however, gaps remain and are often allowed to persist.
 - Custom dictionaries use is in place in some parts of the organization, though there is limited understanding of how to maintain and cleanse these dictionaries, leading to degradation over time.
 - Standard media and content libraries are commonly used, through maintenance is variable and managed at a department level.
@@ -278,7 +278,7 @@ At this level you can expect the following:
 
 - Use of content across core business process applications has improved markedly, resulting in fewer mistakes and less wasted time.
 - Users understand where content should be stored. Exceptions, conflicts and inconsistencies are greatly reduced, and staff have some confidence, begin to understand the benefits and are more willing to adopt it.
-- Staff find it easier to find, understand and act on existing content. Productivity improves; rework and errors are noticeably in decline.
+- ✨ Staff find it easier to find, understand and act on existing content. Productivity improves; rework and errors are noticeably in decline.
 - Staff recognize central sources of truth and turn to it in preference to other sources.
 - Improvements can be introduced and are widely adopted in key processes. Managers are seen as leaders of this adoption and benefit from their staff productivity. Some changes remain ineffective, rushed or only partially effective due to the corrosive effects of legacy content and some staff resistance.
 
@@ -288,7 +288,7 @@ At this level you can expect the following:
 
 #### 400 Lifecycle Management
 
-- Content Lifecycle Management is in active use in all regulated or quality assured processes and elsewhere that has impacts on the business. Most documents are tagged with sensitivity, status, and retention information or reside in a location where this is enforced.
+- ✨ Content Lifecycle Management is in active use in all regulated or quality assured processes and elsewhere that has impacts on the business. Most documents are tagged with sensitivity, status, and retention information or reside in a location where this is enforced.
 - All types of content have similar levels of management:
   - List items have version control, retention, deletion etc. at the item level.
   - Media files are managed in the same way as documents, with metadata, reviews and lifecycles. They are linked to associated assets, such as transcriptions and related media and lifecycle management applies to both the components and the content sets.
@@ -297,8 +297,8 @@ At this level you can expect the following:
 - Document management capabilities are designed into repositories to be compliant with lifecycle policies. Most content is based on managed content types; these include definitions of the template, identification metadata, lifecycle and disposition markers, status and other policies by default.
 - File servers and local file systems are not in general use except where there is a documented need.
 - There is active, managed removal of content from managed content areas in accordance with policies and staff are responsible for ongoing "decluttering" and organization of collaboration and personal content. Controls and monitoring are in place and used to review these activities, though typically without automation or strong enforcement.
-- Multi-author content creation and editing is the norm and extends beyond organization boundaries to incorporate suppliers, partners and clients where appropriate and with well understood and monitored security and governance (such as use of time windows for editability). Use of email attachments is the exception within the company and is in decline with external content sharing.
-- Duplication of content is actively avoided and there are periodic checks to identify unnecessary duplicates. There is a good understanding of version control and version history, and these are appropriately used.
+- ✨ Multi-author content creation and editing is the norm and extends beyond organization boundaries to incorporate suppliers, partners and clients where appropriate and with well understood and monitored security and governance (such as use of time windows for editability). Use of email attachments is the exception within the company and is in decline with external content sharing.
+- ✨ Duplication of content is actively avoided and there are periodic checks to identify unnecessary duplicates. There is a good understanding of version control and version history, and these are appropriately used.
 - Role-based access, governance and protection is well designed, documented and consistently implemented.
 - Document Retention mechanisms are in -lace for all important classes of content and are reviewed annually to ensure policies and technical controls are effective and appropriate. attempted, sporadically. A governance board reviews new needs and oversees decisions on retention, disposition and destruction of content.
 - SchemaSchemas exist for common list types, often based on open standards, to ensure consistency and interoperability. Extensions to the schema are carefully considered, reviewed against other schemas in use and rolled out in an integrated way that updates all dependent lists.
@@ -316,7 +316,7 @@ At this level you can expect the following:
 
 - There is an active process for updating templates across the organization to ensure they are up to date, fit for purpose and support brand and style guidelines
 - Emails have automated footers, with role-based variants and active insertion of content in support of campaigns and other business communication needs.
-- Documents are carefully structured, with consistent use of semantic elements such as headings, default styling, insertable standard content and images. They are designed to support the appropriate and effective presentation of content (i.e. the purpose of the document defines the style of the document) while supporting accessibility guidelines, effective search and other business needs. Staff are well versed in use of these and use them consistently.
+- ✨ Documents are carefully structured, with consistent use of semantic elements such as headings, default styling, insertable standard content and images. They are designed to support the appropriate and effective presentation of content (i.e. the purpose of the document defines the style of the document) while supporting accessibility guidelines, effective search and other business needs. Staff are well versed in use of these and use them consistently.
 - Staff are familiar with best practice across a wide range of content creation. Presentation and management and actively skilled for the needs within their role.
 - Regionalization is actively addressed and implemented through templates, configuration and policy. There are processes for identifying errors and inconsistencies and flagging these for action
 - Custom and industry dictionaries are deployed to users" computers. There is a process for correcting and updating these.
@@ -336,7 +336,7 @@ At this level you can expect the following:
 
 At this level you can expect the following:
 
-- Content is strongly managed across business applications and processes, feels largely seamless to users and is easy for them to recognize value in and adopt. Staff focus on task completion, contributing to content management consistently, recognizing that their contributions benefit other parts of the system.
+- ✨ Content is strongly managed across business applications and processes, feels largely seamless to users and is easy for them to recognize value in and adopt. Staff focus on task completion, contributing to content management consistently, recognizing that their contributions benefit other parts of the system.
 - In many cases, content storage is a function of the type of content and not at the discretion of staff; ["putability"](glossary.md#putability) decisions are driven by well-established principles that staff are fluent at applying.
 - Productivity is consistently high and metrics are in place to identify and act on exceptions. Rework and errors are rare.
 - Staff intuitively use definitive reference content; they know how to validate that they are using appropriate information and are collectively confident of decisions based on their sources.
@@ -350,10 +350,10 @@ At this level you can expect the following:
 #### 500 Lifecycle Management
 
 - Content Lifecycle Management operates at most levels of the organization, is optimized, tracked and reviewed for effectiveness and actively drives quality, productivity and risk reduction – this may be reflected in certifications, standards and reduced insurance costs. It remains consistent as it spans different types of content and platform.
-- Most content is created based on well-defined and managed "content classes or content types. There is visibility of use of content types across the organization and an understanding of the content type schema and inheritance.
+- ✨ Most content is created based on well-defined and managed "content classes or content types. There is visibility of use of content types across the organization and an understanding of the content type schema and inheritance.
 - Linkages between types of content are respected, retaining referential integrity, to ensure that changes at a granular (item, file or document) level do not cause a degradation to sets or collections of content.
 
-- Content tagging for classification, access, sensitivity, status and retention is widely automated as are relationships between content.
+- ✨ Content tagging for classification, access, sensitivity, status and retention is widely automated as are relationships between content.
 - Retention policies are actively managed and tested. Unmanaged documents are the exception. Document Retention is applied to almost all content, including items in lists, emails other non-file types of content.
 - Policies and technical controls are actively updated in response to changing needs and regulatory and business landscape.
 - Default removal policies and notifications drive broad compliance and clutter avoidance. Removal of content is largely automated.
@@ -368,7 +368,7 @@ At this level you can expect the following:
 
 ##### 500 Identification
 
-- Content categorization is largely automated; existing content is analyzed on an ongoing basis to apply tagging and labelling in order to ensure that new context, topics, classes and policies are applied dynamically as these emerge in the business.
+- ✨ Content categorization is largely automated; existing content is analyzed on an ongoing basis to apply tagging and labelling in order to ensure that new context, topics, classes and policies are applied dynamically as these emerge in the business.
 - Images, other media and related content are automatically suggested for inclusion based on tags, context and insights from "the graph" of the organization.
 - "Content classes" are the norm for almost all content. Externally sourced content is likewise assigned to a class and tagged.
 
@@ -385,7 +385,7 @@ At this level you can expect the following:
 
 ##### 500 Storage
 
-- There is a wide reaching, flexible and inclusive strategy for storage of all types of content which ensures everything is available to staff and partners who need it, regardless of location, device, region etc. ["Putability"](glossary.md#putability) is actively guided or fully automated, based on AI classifiers.
+- ✨ There is a wide reaching, flexible and inclusive strategy for storage of all types of content which ensures everything is available to staff and partners who need it, regardless of location, device, region etc. ["Putability"](glossary.md#putability) is actively guided or fully automated, based on AI classifiers.
 - Storage is largely "invisible" to staff. Content is created, stored and accessed without a need to learn the storage structures.
 - There are effectively no limits to the volume of storage or type of content that can be stored and accessed.
 
@@ -393,7 +393,7 @@ At this level you can expect the following:
 
 At this level you can expect the following:
 
-- Content is proactively managed and monitored across all business applications and processes. The user experience is seamless and feels fluid to staff, with minimal silos or boundaries to negotiate. Staff focus on task completion, often without having to actively contribute to content management due to high degrees of automation and embedding of content management in content processes. Staff are actively willing to undertake some content management tasks, Pay It Forward is intuitively accepted.
+- ✨ Content is proactively managed and monitored across all business applications and processes. The user experience is seamless and feels fluid to staff, with minimal silos or boundaries to negotiate. Staff focus on task completion, often without having to actively contribute to content management due to high degrees of automation and embedding of content management in content processes. Staff are actively willing to undertake some content management tasks, Pay It Forward is intuitively accepted.
 - Content storage predominantly a function of the content type and the process. Staff rarely concern themselves with where to store anything or how to retrieve it.
 - Productivity is maintained at a high level through active interventions and a cycle of continuous improvement based on data driven insights. Statistical methods monitor for out of bounds errors and exceptions and ensure content errors and exceptions are systematically eliminated.
 - Unreliable content and information sources are actively improved or eliminated. AI monitoring continually assesses content quality and suggests improvements and interventions.

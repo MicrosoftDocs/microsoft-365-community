@@ -4,7 +4,7 @@ ms.date: 12/10/2024
 author: nikki-c
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: overview
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low
@@ -18,7 +18,7 @@ ms.collection: SPCommunity
 
 ## Overview of the Concepts [tl;dr]
 
-Organizations face increasing complexity and change in regulatory environments, calling for a more structured approach for managing Governance, Risk, and Compliance (GRC).
+Organizations face increasing complexity and change in regulatory environments, calling for a more structured approach for managing Governance, Risk, and Compliance (GRC). A key enabler of compliance success is Information Architecture (IA), ensuring that data and documents are properly categorized, tagged, and structured to enhance efficiency and control.
 
 The Governance, Risk, and Compliance Competency is focused on helping an organization reduce risk and improve compliance effectiveness by implementing a framework for compliance and risk management.
 
@@ -35,6 +35,16 @@ The Governance, Risk, and Compliance Competency is focused on helping an organiz
 **Compliance** refers to the country/region, state or federal laws or even multi-national regulations such as GDPR regulations that an organization must follow. These regulations define what types of data must be protected, what processes are required under the legislation, and what penalties are issued to organizations that fail to comply.
 
 For Microsoft 365, this means implementing specific policies, operational processes, and technical controls to protect the data in Microsoft and cover some or all of using, storing, sharing, disclosing, erasing and destruction of data. The data should also be secured appropriately to guard against loss, theft and misuse.
+
+A critical enabler of governance, risk, and compliance is **Information Architecture (IA)**, which ensures data and documents are structured, categorized, and governed effectively. IA supports compliance by:
+
+- Giving **end users** a clear understanding of where information should be stored and how it should be classified.
+- Enabling **information owners** to manage changes in governance frameworks and legal requirements effectively.
+- Allowing **legal and compliance teams** to quickly gain an overview of risks and identify areas requiring immediate attention.
+- Providing **management teams** with visibility into whether they are following established governance frameworks and where improvements are needed.
+- Helping **IT and system owners** identify sensitive data, apply appropriate security measures, and align new technological solutions with organizational resilience strategies.
+
+Without a structured Information Architecture, organizations face increased risks of compliance failures, inefficient data management, and security vulnerabilities. Unstructured or ad-hoc data storage results in poor findability, high costs for eDiscovery, and an inability to meet regulatory retention and privacy obligations. By embedding IA into their compliance strategies, organizations ensure that governance is predictable, scalable, and automated—reducing risk and improving operational efficiency.
 
 Smaller organizations may only need to comply with the baseline general data protection rules that apply to every organization. Other organizations must comply with industry-specific and/ or country/region specific regulations which may overlap and/or conflict.
 
@@ -77,6 +87,10 @@ The organization addresses compliance in a reactive mode — doing assessments w
 - Compliance obligations and risks are not understood.
 - No individual or department is responsible for governance, risk and compliance, nor is it clear where these activities are taking place on a devolved basis
 - Roles, training, and competencies needed for compliance are not developed. Employees are not aware of how compliance impacts their daily work.
+- No training on technology usage—Users lack understanding of metadata, labels, and retention policies, leading to chaotic, inconsistent content classification.
+- No defined roles for Information Architecture governance—Managers and business owners do not take responsibility for structuring information.
+- Unclear ownership—anyone can create and share content without oversight.
+
 
 #### Process (100)
 
@@ -86,11 +100,18 @@ The organization addresses compliance in a reactive mode — doing assessments w
 - Compliance and governance obligations are not reviewed or monitored
 - There is ad-hoc implementation and response to incidents (reactive).
 - Compliance controls and evidence is ad hoc or does not exist.
+- External sharing is unmanaged—users freely share content externally via email attachments, Teams invites, SharePoint sharing, and calendar invitations without oversight or tracking.
+- No naming conventions for Teams, SharePoint sites, or documents.
+- No metadata strategy—content is stored without categorization or retention considerations.
+- Lack of Governance Policies for Information Architecture —Absence of policies and principles governing information management, leading to user overwhelm and inefficient content handling.
+
 
 #### Technology (100)
 
-- No standardized storage location for documentation and supporting evidence.
+- No standardized storage location for documentation, records and supporting evidence.
 - No technical controls in place to support compliance.
+- No usage of central taxonomy
+
 
 #### Impacts (100)
 
@@ -101,6 +122,9 @@ Due to the lack of policies, controls and user training to support information/ 
 - Employees stealing information of value, such as customer lists or proprietary trade secrets.
 - Consequences such as data breaches, erosion of customer trust, severe fines and other penalties due to non-compliance with regulations.
 - Elevated eDiscovery costs.
+- Lack of structured information leads to inefficiency—users spend excessive time searching for documents.
+- Shadow IT emerges as employees create their own document storage solutions outside IT oversight.
+- Unclear accountability for information governance, leading to uncontrolled site sprawl and data loss risks.
 
 ### Level 200 - Managed
 
@@ -116,6 +140,11 @@ At this maturity level organizations acknowledge compliance regulations and stan
 - Some policies have been written but are not enforced or comprehensively adopted.
 - No formal compliance roles in place or roles have been allocated but without suitable training or assessment of competence. Governance, Risk and Compliance relies on individuals being responsible for actions and approaches in their own areas.
 - No formal GRC training; communication is ad hoc or occurs in response to a GRC event. Most employees are not aware of how governance, risk and compliance impact their daily work.
+- Training for information owners (e.g., managers)—Organizations begin training leaders to understand the importance of structured information, how data should be classified, and why governance matters.
+- Discussions on metadata and retention policies begin but are not widely adopted.
+- Ownership roles identified for information (e.g., Site Owners, Team Owners, Data Stewards), but not enforced.
+- Ownership roles for content management are identified (e.g., Site Owners, Data Stewards), but they are not strictly enforced.
+
 
 #### Process (200)
 
@@ -124,6 +153,12 @@ At this maturity level organizations acknowledge compliance regulations and stan
 - Limited collaboration between compliance and operational teams. Often compliance is an afterthought.
 - Response to incidents is reactive /ad hoc, lacking consistency, formality and may result in ineffective actions.
 - Risk management is perceived as a process.
+- External sharing awareness emerges—the organization begins discussions on what should be shared externally but without formalized governance.
+- Basic restrictions on external sharing—some organizations introduce guidelines but lack enforcement.
+- Initial metadata framework is introduced, but usage is inconsistent across the organization.
+- Basic site and document structure discussions begin, but they are not standardized.
+- Discussions on content categorization and retention policies emerge, but adoption is limited.
+
 
 #### Technology (200)
 
@@ -131,6 +166,7 @@ At this maturity level organizations acknowledge compliance regulations and stan
 - ✨ Technical controls to manage retention and deletion exist, however there are minimal processes to implement these effectively; retention and deletion is largely a manual, ad hoc activity, though there may be reminders and triggers in processes to act as prompts.
 - Storage locations for documentation and supporting evidence are inconsistent and fragmented.
 - There is a tendency to focus on email rather than a wider view of content and processes that need to be compliant.
+- Basic metadata framework begins, but users are not required to follow structured tagging.
 
 #### Impacts (200)
 
@@ -143,6 +179,9 @@ At this level you can expect the following:
   - The organization remains at risk from both deleted/lost information and from ‘over-retained’ information
 - Action is only taken after a major violation or ‘near miss’ has occurred, to show they are trying to meet compliance standards. Even then, it is implemented as a tactical response to a serious problem, rather than a strategy for permanent improvement.
 - Discovery exercises are costly and complex as no specialist tools are used.
+- Limited metadata adoption leads to difficulty in organizing and finding information.
+- Some compliance improvement, but retention policies are not systematically enforced.
+- Growing awareness of external sharing risks, but lack of standardization creates security gaps.
 
 ### Level 300 - Defined
 
@@ -163,6 +202,9 @@ Processes measured and controlled
 - Compliance activities are frequently event driven, such as an audit or a regulatory deadline.
 - Where GRC sits across multiple departments and activities in the organization individuals with those roles will coordinate their activities, possibly through a Compliance committee or similar mechanism.
 - The organization invests significant time on stakeholder education, ensuring that the new ways of working together and the value of risk and adopting compliant processes are understood. However, commitment to upholding standards varies across the organization.
+- Archivist Role Introduced—responsible for organizational storage governance, retention enforcement, and lifecycle management.
+- Core processes and all sensitive data are clearly defined—Information owners take responsibility for defining and structuring their critical data.
+- Formalized training for all users—Users are trained on metadata, labels, retention policies, and how misuse can impact security and compliance.
 
 #### Process (300)
 
@@ -173,6 +215,13 @@ Processes measured and controlled
 - ✨ There are systems, tools and processes for managing the Governance, Risk and Compliance processes. While these vary according to the standards and requirements imposed, they may include: training and knowledge content; risk, issue and status logs; asset and impact lists; action plans; processes for reviews and updates; systematic audits and assessments, staff training and competency logs.
 - ✨ Strong content management tools and processes that include effective lifecycle management are in place.
 - The organization measures and assesses controls and activity, but largely at an individual or devolved level.
+- External sharing policies are defined and controlled—who can share what, with whom, and under what conditions.
+- External users in Teams and SharePoint require approval before access is granted.
+- Email attachments containing sensitive data trigger a review process before sending.
+- Clear categorization of sensitive and critical business data, with guidelines on storage and protection.
+- Ownership of content is clearly defined, with formalized processes for maintaining document integrity.
+- Standardized site and document structures are implemented, reducing redundant storage and improving findability.
+- A structured metadata framework is widely used, improving consistency across document management, but enforcement is not yet mandatory across all areas.
 
 #### Technology (300)
 
@@ -181,6 +230,17 @@ Processes measured and controlled
 - Software solutions are used but typically in a tactical manner, without a thought for a broader set of requirements. This results in multiple systems to manage individual governance, risk and compliance initiatives, each operating in its own silo.
 - Governance, risk and compliance controls are implemented but are reliant on the user to apply the right controls to the right content.
 - Use of automated tagging, sensitivity labelling and policies is not broadly or well implemented, though it may be being piloted.
+- Standardized Information Architecture Models—Adoption of consistent IA models and examples to ensure uniformity across sites and improve user experience.
+- In-Place Records Management is introduced, ensuring documents remain in their original location while being classified as records.
+- Enhanced Metadata Usage—Leveraging metadata over folders to facilitate easier filtering and searching of content.
+- Formal metadata schema is applied to:
+  - Identify personal data.
+  - Define retention requirements—how long data should be stored.
+  - Clarify the purpose of storage and regulatory requirements.
+  - Apply disposition policies—deletion and archival timelines.
+  - Defined Trigger Dates (when rules start to apply based on laws, regulations, or company policies) such as signing date, decision date, publish date, employee exit date, purchase date.
+  - Retention policies are systematically applied to content types, ensuring compliance with governance requirements.
+  
 
 #### Impacts (300)
 
@@ -192,6 +252,8 @@ At this level:
 - A Governance, Risk and Compliance framework, consisting of strategy, policies, processes, controls, technologies and staff competence, is implemented. However, implementation is uncoordinated and siloed.
 - eDiscovery investigations are still complex and costly as multiple versions of data exist
 - Not all Governance, Risk and Compliance risks are addressed and there are frequently unknown risks.
+- Standardized site and document structures reduce redundant storage and improve findability.
+- Clear categorization of sensitive and critical business data enhances data protection measures.
 
 
 ### Level 400 - Predictable
@@ -199,7 +261,7 @@ At this level:
 At level 400 maturity an organization’s approach to governance and compliance becomes more well defined and acts as a foundation for activity, the focus shifts from extensive written procedures to empowering individual employees to make informed decisions to reinforce the company’s compliance culture. This occurs as a by-product of establishing a culture with high compliance awareness.
 The Compliance framework is now tailored to include an up-to-date and accurate catalog of information and data laws, regulations, and policies by country/region and is readily accessible to all relevant employees.
 An overarching Governance, Risk, and Compliance process, through control, definition, enforcement, and monitoring, has the ability to coordinate and integrate these initiatives.
-Proactive rather than reactive
+Proactive rather than reactive.
 
 **[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
 
@@ -212,6 +274,8 @@ Proactive rather than reactive
 - Compliance workloads are reduced through standardization, process improvements and use of technology.
 - Policy communications are routine and semi-automated. Most employees understand the importance of risk and compliance and their role in protecting the organization.
 - Regular training needs analysis for compliance training is undertaken to identity gaps and improve content.
+- Ongoing governance training for employees—users receive continuous education to keep up with evolving policies and risks.
+- Archivist Role Expanded—takes on a more automated approach, working with AI and compliance tools to manage document storage lifecycle.
 
 #### Process (400)
 
@@ -222,6 +286,11 @@ Proactive rather than reactive
 - ✨ There are mechanisms to continuously assess compliance control and process gaps to prevent compliance failures.
 - ✨ Business continuity planning and disaster recovery plans are well developed, maintained and tested.
 - A data architecture has been implemented to govern which data is collected, how it is used, where it is stored, how long it is stored when it is destroyed  
+- External sharing policies are fully automated, ensuring only approved users can share externally through predefined workflows.
+- Teams meeting policies regulate external guests, requiring pre-approval for access to certain types of meetings.
+- External sharing of SharePoint files is restricted based on sensitivity labels and automated rules.
+- A structured metadata framework is enforced across all systems, ensuring compliance and consistency in document management.
+- Ownership of content and Information Architecture is fully established, with clear accountability for document governance.
 
 
 #### Technology (400)
@@ -233,7 +302,24 @@ Proactive rather than reactive
 - There is an auditable history of data activities with an understanding of how it can help support effective Governance, Risk and Compliance.
 - Productivity and analytical tools are in place to make tracking tasks, reporting and collaboration easy.
 - Compliance controls are automated and tailored to different usage scenarios.
-
+- Automated metadata tagging is introduced to classify and protect sensitive information.
+- Azure AD Naming Policies (or equivalent) are enforced for Teams and sites.
+- Retention and compliance systematically enforced, ensuring regulatory alignment.
+- Automatic archiving of documents based on predefined lifecycle management rules tied to content types or equivalent.
+- Implementation of an eArchive that:
+  - Adheres to international standards for long-term preservation, such as PDF/A.
+  - Automates document archiving based on lifecycle policies.
+  - Ensures accessibility and compliance with regulatory requirements.
+  - Expands archiving beyond SharePoint to include CRM, logistics, finance, and other document repositories.
+- Automated Archiving with Power Automate—workflows move records to designated archive locations as part of the lifecycle policy.
+- Automated metadata tagging is introduced to classify and protect sensitive information.
+- Retention policies are systematically enforced through automation, ensuring regulatory compliance.
+- Formal metadata schema is fully applied to:
+  - Identify personal data.
+  - Define retention requirements—how long data should be stored.
+  - Clarify the purpose of storage and regulatory requirements.
+  - Apply disposition policies—deletion and archival timelines.
+  - Set Trigger Dates (when rules start to apply based on laws, regulations, or company policies) such as signing date, decision date, publish date, employee exit date, purchase date.
 
 #### Impacts (400)
 
@@ -242,6 +328,8 @@ At this level
 - Everyone in the company at all levels shares accountability for following a higher standard.
 - Compliance is embedded in the culture of the organization so all employees understand the importance of compliance and their role in protecting the organization. Policies are understood and the reasons behind the policies are clearly explained. Engagement is high at this level because all members of the organization are now responsible for the success of the program.
 - Data investigation become simpler due to advanced tools and only the right data being retained.
+- Automated processes ensure consistent application of retention policies, reducing the risk of non-compliance.
+- Ownership of content is fully established, with clear accountability for document governance.
 
 ### Level 500 - Optimizing
 
@@ -263,6 +351,8 @@ Organizations at this level use technology strategically to gain operational eff
 - ✨ Collaboration occurs between the compliance team, security team, operations teams, and system owners to ensure systems (e.g., data storage and processing systems) are secure and compliant by design.
 - Compliance workload shifts from administrative to strategic (due to automation).
 - ✨ Decision-makers becoming risk seeking rather than risk adverse, knowing that they can and must manage the risks they identify.
+- AI-assisted training and coaching for users—real-time feedback helps prevent labeling/tagging mistakes before they create compliance risks.
+- Archivist Role is fully AI-assisted—predictive content governance ensures retention, compliance, and access rules are continuously optimized.
 
 
 #### Process (500)
@@ -275,6 +365,9 @@ Organizations at this level use technology strategically to gain operational eff
 - Compliance is embedded in strategic planning as well as in daily strategic and tactical decision-making.
 - ✨ Business continuity planning and disaster recovery are regularly tested.
 - Compliance processes and practices are externally audited.
+- External sharing is seamlessly integrated with B2B connections and trusted relationships, ensuring secure collaboration across organizations while maintaining compliance and governance.
+- Automated identity verification for external users—guest access is dynamically adjusted based on trust level and previous engagements.
+- Adaptive external sharing policies—real-time risk analysis adjusts sharing permissions dynamically based on user behavior and external access trends.
 
 #### Technology (500)
 
@@ -282,12 +375,31 @@ Organizations at this level use technology strategically to gain operational eff
 - Controls are automated and subject to continuous improvement
 - ✨ Tailored compliance controls with policy enforcement are implemented to provide different levels of protection during collaboration depending on sensitivity, risk, and environment.
 - The organization invests in compliance management solutions that encompass multiple systems.
+- Full AI-driven governance—content classification and tagging handled dynamically by AI (e.g., Syntex, Copilot).
+- Intelligent site lifecycle management—Teams, sites, and documents are automatically archived, extended, or deleted based on usage patterns.
+- Risk-based access and retention policies—sensitive information is managed with adaptive security controls.
+- Automated compliance auditing—AI-driven monitoring ensures policy adherence without manual intervention.
+- Enterprise-Wide Archiving Strategy—compliance-driven archiving covers all document storage locations, ensuring long-term preservation and regulatory adherence across the entire organization.
+- AI-Driven Information Management—Deployment of AI technologies to dynamically organize, classify, and manage content, leading to predictive content delivery and enhanced user engagement.
+- AI-driven metadata classification dynamically applies and refines metadata structures for Information Architecture based on document usage and context.
+- Intelligent document lifecycle management—automation ensures content is archived, retained, or deleted based on AI-driven insights.
+- Risk-based metadata tagging adapts dynamically to evolving compliance needs and security risks.
+- Formal metadata schema is continuously optimized through AI to:
+  - Identify personal data dynamically.
+  - Automate retention adjustments based on regulatory updates.
+  - Ensure compliance with evolving legal requirements.
+  - Proactively manage disposition policies with predictive analytics.
+  - Trigger automated governance actions based on organizational rules and real-time changes.
 
 #### Impacts (500)
 
 At this level, the governance, risk and compliance controls are aligned to the organizations risk appetite. Employees, managers, and executives understand their responsibility to the organization to ensure the success of the compliance program. Honesty, accountability, respect, and leadership are principles of these organizations, and transparency is a default.
-
-Compliance maturity is benchmarked against industry best practice.
+- Compliance maturity is benchmarked against industry best practice.
+- AI-driven classification enables predictive governance, reducing administrative workload.
+- Seamless compliance and security integration, with dynamic risk-based policies.
+- Improved data-driven decision-making, as AI continuously optimizes metadata structures.
+- Business agility is maximized, with self-regulating information flows that support innovation.
+- Information governance is fully automated, allowing teams to focus on strategic initiatives rather than administrative tasks.
 
 ## Scenarios
 
@@ -303,7 +415,7 @@ Download the [Microsoft 365 Comparison table](https://go.microsoft.com/fwlink/?l
 
 ## Common toolsets
 
-Organizations have different compliance needs depending on the national, regional and industry-specific standards they need to comply with. Microsoft 365 provides a set of integrated capabilities that you can use to help you manage end-to-end compliance scenarios. The 4 groups of compliance and risk management capabilities are listed in the following section. Capabilities that require an E5 license are marked with an asterisk (*).
+Organizations have different compliance needs depending on the national, regional and industry-specific standards they need to comply with. Microsoft 365 provides a set of integrated capabilities that you can use to help you manage end-to-end compliance scenarios. The 4 groups of compliance and risk management capabilities are listed in the following section. Capabilities that require an E5 license are marked with an asterisk (*). SharePoint Advanced Management (SAM) can be required for some functionality, and is now a Pay-as-you-go model. 
 
 ### Information protection
 
@@ -325,6 +437,9 @@ Organizations have different compliance needs depending on the national, regiona
 - Retention labels for automated labelling*
 - Retention policies
 - Retention policies for rules based policies*
+- Expiration policies for inactive sites and OneDrives (SAM)
+- Access reviews and policy enforcement for SharePoint Online (SAM)
+- Site access insights and external sharing monitoring (SAM)
 
 ### Insider risk management
 
@@ -345,6 +460,9 @@ Organizations have different compliance needs depending on the national, regiona
 - Litigation hold
 - Microsoft Defender for Cloud Apps (MCAS)*
 - Search
+- Advanced sharing insights for SharePoint and OneDrive (SAM)
+- External user expiration policies (SAM)
+- Improved logging and audit capabilities for compliance tracking (SAM)
 
 The available compliance capabilities in your tenant will depend on your Microsoft 365 licensing. Some of the functionality requires additional licenses. Download the [Microsoft 365 Comparison table](https://go.microsoft.com/fwlink/?linkid=2139145) to see what security and compliance features you have with your licensing.
 
@@ -366,6 +484,7 @@ Achieving compliance is not a project. It is an ongoing process that needs embed
 - [Nikki Chapple](https://www.linkedin.com/in/nikkichapple/)
 - [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
 - [Mike Cox](https://www.linkedin.com/in/michaelgeoffreycox/)
+- [Pia Langenkrans](https://www.linkedin.com/in/pialangenkrans/)
 
 ---
 

@@ -4,9 +4,10 @@ ms.date: 11/21/2020
 author: PatD
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: how-to
 ms.author: pamgreen
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: A proven strategy for content classification in SharePoint libraries with the magic of no-code all-configuration content Document Sets.
 ms.collection: M365Community

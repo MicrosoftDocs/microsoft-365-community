@@ -4,9 +4,10 @@ ms.date: 3/3/2020
 author: veronicageek
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
-ms.service: msteams
+ms.service: microsoft-365
+ms.custom: msteams
 ms.localizationpriority: Low
 description: "Changing Microsoft Teams from Private to Public, what to expect in SharePoint?"
 ms.collection: M365Community

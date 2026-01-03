@@ -4,9 +4,10 @@ ms.date: 8/5/2020
 author: sympmarc
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: overview
 ms.author: pamgreen
-ms.service: o365-solutions
+ms.service: microsoft-365
+ms.custom: o365-solutions
 ms.localizationpriority: Low
 description: Maturity Model for Microsoft 365 - Communication Competency
 ms.collection: M365Community

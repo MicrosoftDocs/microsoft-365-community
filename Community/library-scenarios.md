@@ -4,9 +4,10 @@ ms.date: 3/3/2020
 author: nyoung30
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: "Library scenarios"
 ms.collection: M365Community

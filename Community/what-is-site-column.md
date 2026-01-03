@@ -1,12 +1,13 @@
 ---
 title: What is a site column?
-ms.date: 3/3/2020
+ms.date: 7/29/2025
 author: sympmarc
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: "What is a site column?"
 ms.collection: M365Community
@@ -44,7 +45,7 @@ For example, if we work with Contracts, we may want reusable columns for *Start 
 
 Site Columns each have a field type (like *Single line of text*, *Multiple lines of text*, *Choice (menu to choose from)*, *Currency ($, ¥, &euro;)*, *Date and Time*, etc.) Each Site Column also has the settings we can use whenever we add a column to a list or library directly, such as whether the Date/Time column should be *Date only* or *Date & Time* or whether the column should be required.
 
-When we create a Site Column and choose the settings we want, we get a column which we can add to multiple lists and libraries in the same site. If we want our columns to be consistent across several sites, we can create them in the Content Type Hub or with Site Designs. The latter is preferable these days, as the Content Type Hub was built in the days when we tended to have larger Site Collections, with many subsites.
+When we create a Site Column and choose the settings we want, we get a column which we can add to multiple lists and libraries in the same site. If we want our columns to be consistent across several sites, we can create them in the Content Type Gallery or with Site Templates.
 
 ## Summary
 

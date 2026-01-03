@@ -4,9 +4,10 @@ ms.date: 3/3/2020
 author: hugoabernier
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: overview
 ms.author: pamgreen
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: "Information Architecture - Site Topology"
 ms.collection: M365Community

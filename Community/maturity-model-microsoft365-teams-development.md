@@ -4,7 +4,7 @@ ms.date: 8/23/2022
 author: appieschot
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low

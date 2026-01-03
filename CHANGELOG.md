@@ -6,12 +6,111 @@
 
 Note: Changelog started in January, 2021
 
+## October, 2025
+
+### New Articles - October, 2025
+
+| Article | Principal Author |
+|---|---|
+| [Practical Scenario: Knowledge Management](./Community/maturity-model-microsoft365-ps-knowledge-management.md) |[Rebecka Isaksson MVP](https://www.linkedin.com/in/rebeckaisaksson/), [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+
+### Updated Articles - October, 2025
+
+| Article | Updated By |
+|---|---|
+
+### Removed/Retired Articles - October, 2025
+
+| Article |
+|---|
+
+## September, 2025
+
+### New Articles - September, 2025
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - September, 2025
+
+| Article | Updated By |
+|---|---|
+
+### Removed/Retired Articles - September, 2025
+
+| Article |
+|---|
+
+## August, 2025
+
+### New Articles - August, 2025
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - August, 2025
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Business Process Competency](./Community/microsoft365-maturity-model--business-process.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 - Search Competency](./Community/microsoft365-maturity-model--search.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+
+### Removed/Retired Articles - August, 2025
+
+| Article |
+|---|
+
+## July, 2025
+
+* Many fixes to `ms.topic` values to reflect changes to allowable values.
+* Multiple articles updated for freshness and validity.
+
+### New Articles - July, 2025
+
+| Article | Principal Author |
+|---|---|
+
+### Updated Articles - July, 2025
+
+| Article | Updated By |
+|---|---|
+| [Maturity Model for Microsoft 365 - Customization and Development Competency](./Community/microsoft365-maturity-model--customization-and-development.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [List and Library Formatting](./Community/list-formatting-101.md) |  [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+
+### Removed/Retired Articles - July, 2025
+
+| Article |
+|---|
+
+## June, 2025
+
+### New Articles - June, 2025
+
+| Article | Principal Author |
+|---|---|
+| [Link vs News Link vs Link to a Document](./Community/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document.md) | [Brian McCullough](https://www.linkedin.com/in/brianpmccullough/) |
+
+### Updated Articles - June, 2025
+
+| Article | Updated By |
+|---|---|
+
+### Removed/Retired Articles - June, 2025
+
+| Article |
+|---|
+
 ## February, 2025
 
 ### New Articles - February, 2025
 
 | Article | Principal Author |
 |---|---|
+| [Practical Scenario: Enhancing Brand Management](./Community/maturity-model-microsoft365-ps-enhancing-brand-management.md) | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
+| [Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Health Management](./Community/maturity-model-microsoft365-servicing-microsoft365-service-health-management.md) | [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/) |
+| [Understanding where your tenant's display name is used](./Community/understanding-where-tenant-display-name-is-used.md) | [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/) |
+| [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Simon Doy, MVP](https://www.linkedin.com/in/simondoy/) |
+| [Microsoft 365 Search Technologies](./Community/microsoft-365-search-technologies.md) | [Dave Mehr](https://www.linkedin.com/in/david-mehr-055b46181/)|
 
 ### Updated Articles - February, 2025
 
@@ -19,11 +118,13 @@ Note: Changelog started in January, 2021
 |---|---|
 | [Maturity Model for Microsoft 365 - Management of Content Competency](./Community/microsoft365-maturity-model--management-of-content.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
 | [Team Site vs. Communication Site: Which one should I choose?](./Community/team-site-or-communication-site.md) | [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson) |
+| [Power Automate vs Logic Apps](./Community/power-automate-vs-logic-apps.md) | [David Britch](https://github.com/davidbritch) |
 
-### Removed/retired Articles - February, 2025
+### Removed/Retired Articles - February, 2025
 
-| Article | Updated By |
-|---|---|
+| Article |
+|---|
+| [Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces](./Community/yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces) |
 
 ### New Contributors - February, 2025
 
@@ -400,7 +501,7 @@ Note: Changelog started in January, 2021
 ### Updated Articles - August, 2023
 
 | Article | Updated By |
-|[Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.mdd) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
+|[Query String URL Tricks for SharePoint and Microsoft 365](./Community/query-string-url-tricks-sharepoint-m365.md) | [Patrick Doran](https://www.linkedin.com/in/patrickdoran/) |
 
 ### New Contributors - August, 2023
 
@@ -638,7 +739,7 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
-| [Origin Story of the Maturity Model for Microsoft 365](./Community//microsoft365-maturity-model-origin-story.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
+| [Origin Story of the Maturity Model for Microsoft 365](./Community/microsoft365-maturity-model-origin-story.md) | [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/) |
 
 ### Updated Articles - July, 2022
 

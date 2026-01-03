@@ -4,9 +4,10 @@ ms.date: 4/30/2024
 author: jimmyhang
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
-ms.service: one-drive
+ms.service: microsoft-365
+ms.custom: onedrive
 ms.localizationpriority: Low
 description: OneDrive PC Folder Backup Benefits for End Users
 ms.collection: M365Community

@@ -4,7 +4,7 @@ ms.date: 3/29/2021
 author: sympmarc
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: product-comparison
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low

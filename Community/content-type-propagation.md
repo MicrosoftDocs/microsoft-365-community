@@ -4,9 +4,10 @@ ms.date: 3/8/2022
 author: JimmyHang
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: "Content Type Propagation"
 ms.collection: M365Community

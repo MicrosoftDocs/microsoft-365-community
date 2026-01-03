@@ -6,7 +6,7 @@ summary: Learn about Microsoft 365 from the community!  All content is community
 metadata:
   title: Microsoft 365 Community Content # Required; page title displayed in search results. Include the brand. < 60 chars.
   description: Community contributed documentation # Required; article description that is displayed in search results. < 160 chars.
-  ms.service: sharepoint-online #Required; service per approved list. service slug assigned to your service by ACOM.
+  ms.service: microsoft-365 #Required; service per approved list. service slug assigned to your service by ACOM.
   ms.topic: landing-page # Required
   ms.collection: M365-collaboration
   author: jhendr #Required; your GitHub user alias, with correct capitalization.
@@ -115,6 +115,9 @@ landingContent:
             url: taking-advantage-content-type-inheritance-sharepoint.md
           - text: List Formatting 101
             url: list-formatting-101.md
+          - text: Changing Microsoft Teams from private to public - What to expect in SharePoint
+            url: changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md
+
 
   # Card (optional)
   - title: Effective Communication
@@ -139,8 +142,6 @@ landingContent:
             url: team-site-or-communication-site.md         
           - text: List columns or Site columns - which one to choose?
             url: list-column-or-site-column-which-one-to-choose.md
-          - text: Changing Microsoft Teams from private to public - What to expect in SharePoint
-            url: changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md
           - text: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
             url: select-an-effective-navigation-strategy.md
           - text: Auto Apply Retention Labels in Office 365 Using Content Types and Metadata
@@ -155,6 +156,8 @@ landingContent:
             url: defining-a-power-platform-environment-strategy.md
           - text: What Task Management Tool is Right For Me
             url: which-task-management-option.md
+          - text: Link vs News Link vs Link to a Document
+            url: making-good-technology-decisions--compare-link-news-link-and-link-to-a-document.md
 
   # Card (optional)
   - title: Useful Scenarios
@@ -204,18 +207,18 @@ landingContent:
             url: basic-security-set-up-for-microsoft-365.md
           - text: "Managing External Guests in SharePoint vs Teams"
             url: managing-external-guest-in-SharePoint-vs-Teams.md
-          - text: Teams Shared Channels for Admins
-            url: teams-shared-channel-for-admins.md
           - text: The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1
             url: power-platform-DLP-policies-you-should-be-considering-on-Day-1.md
 
   # Card (optional)
-  - title: In Preview
+  - title: Administration
     linkLists:
       - linkListType: concept
         links:
-          - text: Yet another Tool? Why you will probably love Project Moca aka Outlook Spaces
-            url: yet-another-tool-why-you-will-probably-love-project-moca-aka-outlook-spaces.md
+          - text: Teams Shared Channels for Admins
+            url: teams-shared-channel-for-admins.md
+          - text: Understanding where your tenant's display name is used
+            url: understanding-where-tenant-display-name-is-used.md
 
   # Card (optional)
   - title: References

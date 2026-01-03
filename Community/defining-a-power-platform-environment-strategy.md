@@ -4,9 +4,10 @@ ms.date: 8/10/2020
 author: aaronrendell
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
-ms.service: power-platform
+ms.service: microsoft-365
+ms.custom: power-platform
 ms.localizationpriority: Low
 description: "Defining a Power Platform Environment Strategy"
 ms.collection: M365Community

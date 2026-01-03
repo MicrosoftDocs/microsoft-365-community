@@ -4,9 +4,10 @@ ms.date: 07/07/2021
 author: skaggej
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: "A Guided Tour Designed to Help You Select an Effective Navigation Strategy"
 ms.collection: M365Community

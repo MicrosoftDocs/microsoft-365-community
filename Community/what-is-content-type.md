@@ -4,9 +4,10 @@ ms.date: 04/29/2024
 author: sympmarc
 ms.reviewer: pamgreen
 manager: pamgreen
-ms.topic: article
+ms.topic: concept-article
 ms.author: pamgreen
-ms.service: sharepoint-online
+ms.service: microsoft-365
+ms.custom: sharepoint-online
 ms.localizationpriority: Low
 description: "What is a content type?"
 ms.collection: M365Community
