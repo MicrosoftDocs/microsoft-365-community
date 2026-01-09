@@ -44,7 +44,7 @@ Microsoft Entra Security Groups that are cloud-only can be managed by users in t
 
 Because Azure has good, well documented APIs, there are a variety of ways to manage them. The most common way to manage them with a UI is the [Azure Portal](/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal). The Azure Portal is fully featured, so users with the appropriate roles can create, edit, view, and delete Microsoft Entra Security Groups from there.
 
-PowerShell can also be used to manage Microsoft Entra Security Groups (/entra/identity/users/groups-settings-v2-cmdlets)). This module does not work with .Net Core, so it requires a Windows PowerShell 5.x host.
+PowerShell can also be used to manage Microsoft Entra Security Groups (/entra/identity/users/groups-settings-v2-cmdlets). This module does not work with .Net Core, so it requires a Windows PowerShell 5.x host.
 
 ### How are Microsoft Entra Security Groups used?
 
