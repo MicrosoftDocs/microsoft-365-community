@@ -1,5 +1,5 @@
 ﻿---
-title: Maturity Model for Microsoft 365 ��� People and Communities Competency
+â€“tâ€“iâ€“tâ€“lâ€“eâ€“:â€“ â€“Mâ€“aâ€“tâ€“uâ€“râ€“iâ€“tâ€“yâ€“ â€“Mâ€“oâ€“dâ€“eâ€“lâ€“ â€“fâ€“oâ€“râ€“ â€“Mâ€“iâ€“câ€“râ€“oâ€“sâ€“oâ€“fâ€“tâ€“ â€“3â€“6â€“5â€“ â€“�â€“�â€“�â€“ â€“Pâ€“eâ€“oâ€“pâ€“lâ€“eâ€“ â€“aâ€“nâ€“dâ€“ â€“Câ€“oâ€“mâ€“mâ€“uâ€“nâ€“iâ€“tâ€“iâ€“eâ€“sâ€“ â€“Câ€“oâ€“mâ€“pâ€“eâ€“tâ€“eâ€“nâ€“câ€“yâ€“
 ms.date: 1/16/2026
 author: mrsbeata
 ms.reviewer: pamgreen
@@ -8,7 +8,7 @@ ms.topic: overview
 ms.author: mrsbeata
 ms.service: microsoft-365
 ms.localizationpriority: Low
-description: Maturity Model for Microsoft 365 ��� People and Communities Competency
+â€“dâ€“eâ€“sâ€“câ€“râ€“iâ€“pâ€“tâ€“iâ€“oâ€“nâ€“:â€“ â€“Mâ€“aâ€“tâ€“uâ€“râ€“iâ€“tâ€“yâ€“ â€“Mâ€“oâ€“dâ€“eâ€“lâ€“ â€“fâ€“oâ€“râ€“ â€“Mâ€“iâ€“câ€“râ€“oâ€“sâ€“oâ€“fâ€“tâ€“ â€“3â€“6â€“5â€“ â€“�â€“�â€“�â€“ â€“Pâ€“eâ€“oâ€“pâ€“lâ€“eâ€“ â€“aâ€“nâ€“dâ€“ â€“Câ€“oâ€“mâ€“mâ€“uâ€“nâ€“iâ€“tâ€“iâ€“eâ€“sâ€“ â€“Câ€“oâ€“mâ€“pâ€“eâ€“tâ€“eâ€“nâ€“câ€“yâ€“
 ms.collection: M365Community
 ---
 
