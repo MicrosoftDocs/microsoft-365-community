@@ -320,6 +320,7 @@ These improvements have a huge benefit to staff well-being and retention levels 
 - [Simon Doy, MVP](https://www.linkedin.com/in/simondoy)
 - [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson)
 - [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
+- [Pia Langenkrans](https://www.linkedin.com/in/pialangenkrans/)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit)
 
 ---
