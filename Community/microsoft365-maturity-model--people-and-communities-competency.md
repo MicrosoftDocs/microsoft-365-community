@@ -1,327 +1,328 @@
-﻿---
-title: Maturity Model for Microsoft 365 ��� People and Communities Competency
-ms.date: 1/16/2026
-author: mrsbeata
-ms.reviewer: pamgreen
-manager: pamgreen
-ms.topic: overview
-ms.author: mrsbeata
-ms.service: microsoft-365
-ms.localizationpriority: Low
-description: Maturity Model for Microsoft 365 ��� People and Communities Competency
-ms.collection: M365Community
----
-
-# Maturity Model for Microsoft 365 ��� People and Communities Competency
-
-[!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
-
-![Image of the Maturity Model for Microsoft 365 logo.](media/maturity-model-for-microsoft-365/M365MM.png)
-
-## Overview of the Concepts [tl;dr]
-
-The People and Communities competency is focused on ensuring people have the information they need, can discover valuable conversations, ask questions, knowledge share, and loop in experts. It also focuses on individual (and team) skills, profiles, and insights into colleagues to enable effective teamwork and collective activities. It encompasses communities of interest, organizational culture, and working within common values.
-
-## Definition of this competency
-
-For organizations to be effective they need to ensure that their staff can work together effectively both as teams and individual contributors. People need to be able to interact with each other effectively, understand skillsets, access expertise, and share interests with the right audiences.
-This competency is different from the Communication competency, as it focuses on the interactions between people who are peers or at similar level in the organization, but who might not normally work together in the same department, business unit, or discipline.
-Within Microsoft 365, this means multiple individuals communicating across different channels (or as Microsoft sometimes calls them �ǣloops���) to target their messaging or requests to the right people, in the right place, at the right time.
-The solution for which channels to use can vary depending on the size of your organization. For example, a small company of 6 might fulfill their need for company-wide communication via an org-wide Team while this approach would be disruptive to productivity in a company of 6,000 people actively using Teams to collaborate on projects.
-
-## Evolution of this competency
-
-See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md) for definitions of the Maturity Model levels.
-
-### Level 100 - Initial
-
-You might recognize this one. Organizations at level 100 have done little to actively support the concepts around people and communities, relying on organic and traditional approaches. They may still have printed phone directories or Excel spreadsheets (which, to be fair, can be surprisingly useful during IT incidents). There are no expectations within the company that personal profiles are completed or updated. Much of the important interaction between employees occurs with in-person meetings, chat, or hallways and often with no clear outcomes.
-
-**[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
-
-#### 100 User Experience
-
-- No reliable way to find colleagues or understand who does what in the organization.
-- Communication is primarily through email, with "reply all" being the default approach.
-- Finding subject matter experts requires forwarding emails around until someone knows the answer.
-- No digital communities exist; connections happen by chance or through personal networks.
-
-#### 100 Culture
-
-- At this maturity level, many end users don���t know much about their colleagues and are unclear on how they should engage with them or reach out for help with projects and activities; this is also reflected in the amount of untargeted communications.
-- Team building is based on personal knowledge and has little scope. Many staff feel left out or under-utilized for their skillsets. Expertise in different locations is rarely leveraged. Insights and support are often a matter of luck or chance.
-- There is little reinforcement of organizational culture and vision.
-- Limited internal communities inhibit supportive colleague relationships beyond immediate co-workers.
-- Little has been done to actively support the concepts around people and communities, relying on organic and traditional approaches.
-- Email distribution lists are the hub of community activity; the processes to update information belong to IT, are essentially manual, undocumented, and lack formal processes to manage their members.
-- End users maybe lost and uncomfortable within the organisation.
-
-#### 100 Process
-
-- There is, at best, basic profile data. This is inconsistent across different systems (e.g. Active Directory, Human Resources Information Systems, etc.).
-- Staff profiles, accessible to colleagues, are absent or largely unmaintained; there is no expectation that profiles are completed and updated. Any that do exist are likely to be limited to identifying who works in the organization and in which department (with contact information). Hard copy staff directories may be in use.
-- Organization charts are created manually, inconsistently published, and frequently out of date. They may also be shared via email to department members.
-- Because staff have no access to a reliable directory and may not know the best communication mechanisms to use, colleagues are often overlooked or uninformed. Long-term staff are frequently interrupted with requests for their knowledge, even when others might have been able to assist.
-- People use �ǣreply all��� despite the impact this has in colleagues��� inboxes. Employees are unable to easily identify who-does-what in the organization, find subject matter experts, or understand the reporting structure. Requests for expertise and questions are often asked via email and then forwarded around the company until the correct subject matter expert is identified; minimal shared insights are created.
-- There is no company guidance on where to have different types of conversations, share interests, or seek advice and engagement from colleagues.
-- No process exists for discovering whether colleagues have particular skills, areas of expertise, or common interests and values. Communities of interest are serendipitous and do not take place digitally. They are effectively invisible to the organization.
-- Personal contact, telephone, and email are the primary means of communication.
-
-#### 100 Impacts
-
-There is little company guidance or recommendation on where to have different types of conversations to be most effective. This leads to most people feeling that, while much information is coming at them, little is what they need to know or actionable. No processes or tools exist to discover whether colleagues have specific skills, areas of expertise, or common interests and values. In project-based environments, it���s difficult to find out who worked on past projects. Communities of interest are serendipitous and do not take place digitally. Most conversations use email as the only communication channel.
-
-Staff retention may be difficult as there is little in the way of glue to keep people together and create those connections. Users may feel lost and unsure of their purpose. This impact will be harder if the organisation is largely working remotely.
-
-Systems may exist to support identifying who works in the organization and in which department. Distribution lists are used to communicate with groups such as �ǣAll Company��� and each department. The processes to update information fall to IT, are essentially manual and undocumented, and lack formal processes to manage their members.
-
-### Level 200 - Managed
-
-At this level, the focus tends to be on creating communication channels for the inner loop. This represents groups of people working together on projects - the organizations usual units of work. Each team may decide how to communicate internally, but there is no enterprise-level guidance on which solution to use based on the project goal. There may be pilots for capturing outer loop conversations (corporate communications, CEO town halls, employee interest groups) in another communication channel.
-
-**[Managed level](microsoft365-maturity-model--intro.md#level-200---managed)** characteristics include:
-
-#### 200 User Experience
-
-- Some teams have better communication tools, but approaches vary widely across the organization.
-- Finding people and skills is possible but neither efficient nor reliable.
-- Staff profiles exist but are inconsistently maintained and may have outdated or incomplete information.
-- Community spaces may be piloted, but they're ad hoc with little management or clear purpose.
-
-#### 200 Culture
-
-- The focus tends to be on creating communication within known groups of people working on projects (the inner loop).
-- Community spaces may be piloted, though these are likely to be somewhat ad hoc with little management, oversight, or intended purpose.
-- Use is encouraged in some teams, but not enforced.
-- People are able to form better connections with one another.
-
-#### 200 Process
-
-- There are likely to be multiple directories, often managed at the department or project level. These may be effective and maintained in some instances, but there is little aggregation, standardization or control. Some of these may draw on definitive sources, such as Active Directory, but without consistency. Centralized directories and people cards may be piloted but have not replaced local versions.
-- Staff profile technology is available, which can capture skills and other information, not just contact details.
-- Terminology is not standardized; quality and completion is variable.
-- It is possible to find people and skills across the organization, but this is neither efficient nor assured.
-- Self-service distribution lists (Microsoft 365 Groups) may begin to be leveraged.
-- Policies and guidance on aspects of People and Communities exist, but this is not tracked, lacks metrics and is not strongly advocated for within the management process. Each team may decide how to act on the guidance based on the project goal and their team preference.
-- The information in the Staff profiles is manually entered by the IT department.
-
-#### 200 Impacts
-
-At this level you can expect the following:
-
-- Staff productivity is reduced due to the time spent trying to engage the right people in activities, source knowledge and expertise.
-- The attempts to provide technology to support people, groups, and the company culture are compromised by poor data quality, inconsistent approaches, and a lack of commitment at all levels. Staff and management are equally frustrated by this but lack outlets for addressing the issue.
-- Avoidable mistakes are made due to the right people not being engaged.
-- Project and other teams are slow to form because finding the right people takes too long.
-- Employees may begin to see the value in separating communication into different channels where the communities are more focused on specific tasks and topics. Email communication diminishes as inner loop and outer loop conversations move to different and more targeted solutions, though the way different communities communicate still varies widely by functional area.
-- Staff retention levels are increased over level 100 as people feel more connected with one another and the organisation.
-
-### Level 300 - Defined
-
-This is where things start to click. **[Defined level](microsoft365-maturity-model--intro.md#level-300---defined)** characteristics include:
-
-#### 300 User Experience
-
-- People profiles have additional information populated for skills, expertise, and past projects, making it easier to find subject matter experts.
-- People begin using search to identify experts instead of emailing multiple people across the organization.
-- Team communication channels are well defined and agreed upon as a standard business process.
-- Community spaces connect a targeted set of users with clear purpose and etiquette.
-
-#### 300 Culture
-
-- Commonality across teams starts to drive where communities are created and set up. Microsoft Teams or Viva Engage Communities are created based on the type of work people are doing rather than a one-size-fits-all approach.
-- Team communication channels are well defined and agreed upon as a standard business process.
-- Community spaces connect a targeted set of users. The purpose and etiquette of community spaces is defined.
-- End users share their knowledge and expertise within the communities and this fosters a culture of support and stronger connections.
-
-#### 300 Process
-
-##### 300 Profile Management
-
-- Processes exist to create and populate staff profiles in appropriate systems in response to trigger events (new starter, role change, leaver). Compliance with maintaining profiles is a matter for line management.
-- Staff have the ability to update elements of their profile and request updates to other attributes.
-- People profiles have additional information populated for skills, expertise, and past projects which can be maintained by each individual.
-- Custom profile fields support subject matter expertise identification and other attributes important to the organization.
-- Photos are updated from a central source.
-- Profile information is sometimes used as a data source and integrated within systems and processes. It becomes possible to automate organization charts; attempts are made to resolve the inconsistencies this reveals.
-- Local directories are in the process of being eliminated.
-
-##### 300 Communities & Groups
-
-- Commonality across teams starts to drive where communities are created and set up. Microsoft Teams or Viva Engage Communities are created based on the type of work people are doing rather than a one-size-fits-all approach.
-- Community spaces connect a targeted set of users. The purpose and etiquette of community spaces is defined.
-- Staff know how to identify groups, distribution lists and other groupings for communication and engagement.
-- Processes may not be systemically or repeatedly used to the extent needed for their users to become fully competent in which community they should share information, forming gaps in adoption and consistency.
-
-##### 300 Expertise Discovery
-
-- People begin using search to identify subject matter experts in the organization instead of emailing multiple people across the organization because they can find better results with people profiles.
-
-#### 300 Impacts
-
-At this level you can expect the following:
-
-- End users begin to see the ROI for completing their profiles as they can more easily identify who-does-what across the organization.
-- Working teams and employee interest groups experience an increase in engagement and productivity as they connect in communication channels specific to their goals.
-- In order to solve problems in daily work, employees frequently reach across organizational boundaries based on content ownership and subject matter expertise they recognize as useful.
-- Staff retention levels increase as the sense of purpose and belonging is stronger between the users, organisation and one another. People feel like they are valued and this helps them stay connected and continue to support their colleagues.
-
-### Level 400 - Predictable
-
-**[Predictable level](microsoft365-maturity-model--intro.md#level-400---predictable)** characteristics include:
-
-#### 400 User Experience
-
-- Users rely on different communication channels to stay informed for their day-to-day work as well as for special interest areas that contribute to company culture.
-- Communities and their members are easily discoverable through search. End users begin following the groups and communities which match their interests, even if not directly aligned with their work.
-- Dynamic organization charts are available based on up-to-date data about each employee, eliminating the need for manually created charts.
-- Communication in separate communities is fluid and largely frictionless, allowing easy access to inner loops and outer loops when useful.
-
-#### 400 Culture
-
-- A strategic view of all communication channels including email, Viva Engage Communities, Teams (backed by Microsoft 365 Groups), distribution lists, and security groups increases engagement in the respective communities. These opportunities lead to serendipitous connections between people who might not have previously collaborated.
-- Communities flourish under governance.
-- Communities and their members are easily discoverable through search. End users begin following the groups and communities which match their interests, even if not directly aligned with their work.
-
-#### 400 Process
-
-##### 400 Profile Management
-
-- Profile fields may integrate with Line of Business data.
-- Staff photos are updated across multiple systems and profiles from definitive, managed source. Photography style is defined.
-- ✨ **HR is the master for personnel data**: HR systems (Identity and Access Management/IAM systems) serve as the single source of truth for employee information. This data automatically synchronizes to Microsoft 365, ensuring consistency across all systems. HR owns the profile structure and ensures data quality.
-
-##### 400 Communities & Groups
-
-- There is an increased focus on self-service for end users to apply solutions and technologies to their work so they can manage their own membership.
-- ✨ **Communications department owns channel strategy**: The Communications department is responsible for building and managing Viva Engage communities, defining channel strategy for mass emails, maintaining living communities, managing leadership corner, and coaching managers on effective communication. They ensure the right message reaches the right audience through the right channel.
-- ✨ **HR owns dynamic groups**: HR creates and maintains dynamic groups based on profile attributes (department, location, role, etc.) for targeted messaging and access control. This enables automated, accurate group membership without manual maintenance.
-- Manually maintained distribution lists are uncommon, having been replaced by dynamic distribution lists and groups, based upon employee characteristics for all company communication, Microsoft 365 Groups for teamwork conversations, and Viva Engage for company-wide and cultural communication.
-
-##### 400 Expertise Discovery
-
-- Tooling will indirectly establish who the subject matter experts are based on the authors of content.
-- Staff are encouraged to ask questions within the communities and answer the questions.
-
-#### 400 Impacts
-
-At this level you can expect the following:
-
-- Users understand and follow governance best practices to share knowledge in these separate channels, with a high degree of trust in the platform getting their message to the right people.
-- Organization charts are no longer manually created as end users use the dynamic organization chart in people cards to identify company structure.
-- Communication in separate communities is fluid and largely frictionless, allowing easy access to inner loops and outer loops when useful.
-- Staff retention levels are further increased as the feeling of belonging, purpose and value increases. Connections and friendships occur across office and team boundaries.
-- The strategic view of all communication channels increases engagement in the respective communities, leading to serendipitous connections between people who might not have previously collaborated.
-
-### Level 500 - Optimizing
-
-This is where you want to be. **[Optimizing level](microsoft365-maturity-model--intro.md#level-500---optimizing)** characteristics include:
-
-#### 500 User Experience
-
-- People are connected across the organization based on their skills, interests, and work, enabling innovative collaborations without formal structures.
-- End users use people cards to find more than just organization structure and expand the usage to seeing common documents to spur further collaboration.
-- Viva Insights / MyAnalytics helps inform end users on how they are spending their time working with different people and empowering them to keep stronger connections across the organization.
-- Communities and conversations extend to external participants when it makes a process more effective.
-
-#### 500 Culture
-
-- People are connected across the organization based on their skills, interests, and work.
-- Innovative collaborations arise without formal structures.
-- Communities and conversations extend to external participants when it makes a process more effective.
-- Employees are finding opportunities to innovate within the company spurred by new connections.
-
-#### 500 Process
-
-##### 500 Profile Management
-
-- Users can maintain important profile data that writes back to Active Directory or Human Resources Information Systems, ensuring bidirectional data flow and consistency.
-
-##### 500 Communities & Groups
-
-- Communities and conversations extend to external participants when it makes a process more effective, breaking down traditional organizational boundaries.
-
-##### 500 Expertise Discovery
-
-- End users use people cards to find more than just organization structure and expand the usage to seeing common documents to spur further collaboration.
-- Viva Insights / MyAnalytics helps inform end users on how they are spending their time working with different people and empowering them to keep stronger connections across the organization.
-
-#### 500 Impacts
-
-At this level you can expect the following:
-
-- Business leaders and platform administrators implement continuous improvements based on user activities and feedback.
-- Users are proud of the communities they have built and can show real ROI for increased engagement over the way they previously communicated.
-- Senior leadership is actively engaged across the organization, walking the walk and talking the talk.
-- Innovative collaborations arise without formal structures, and employees are finding opportunities to innovate within the company spurred by new connections.
-
-### Scenarios
-
-Here's what this looks like in practice:
-
-- An employee interest group is forming and needs a place to share how to get involved. At level 300+, they create a Viva Engage community with clear purpose and guidelines, making it discoverable through search.
-- An employee needs to share a personnel change with the rest of the organization. At level 400+, the Communications department uses a dynamic group based on HR profile attributes to ensure the right people receive the message through the appropriate channel.
-- A project team has been setup to investigate a new product and needs a place to work together, plan, and manage the project. They create a Microsoft Teams workspace with clear communication guidelines, knowing exactly which channel to use for different types of conversations.
-- A new employee reaches out to the organization for help understanding a technology the company uses. They use people search to find subject matter experts based on profile information, getting answers quickly without emailing the entire company.
-- A manager wants to recognize an employee or team for their hard work. They post in the appropriate community channel where it will be seen by the right audience, fostering a culture of appreciation and connection.
-- A marketing person is looking for success stories from the organization. They search communities and profiles to find relevant projects and experts, discovering connections they didn't know existed.
-
-### Cost & Benefit
-
-Let's be honest: building effective People and Communities capabilities requires investment in technology, processes, and most importantly, cultural change. But the returns are significant and often underestimated.
-
-Anecdotes can be incredibly important for demonstrating the benefit of investments in expanding your People and Communities competency. It is powerful when a team says they reached a goal faster or better by centralizing their communication and identifying subject matter experts early. A shift in company culture can be hard to measure, though capturing the anecdotes for how people feel more involved, informed, and engaged will demonstrate value. Stories about how an innovation occurred or an insight was gained can be traced back to specific technology investments and support.
-
-A major cost benefit is with the improvement of staff retention levels which can dramatically reduce the cost to businesses when people leave and need replacing. The impact of rehiring is both financial but also on relationships and the level of knowledge that stays in the business. When people feel connected, valued, and able to find what they need, they're more likely to stay.
-
-Some examples of collaboration ROI include:
-
-- Reduced time to locate critical company updates—no more searching through email threads or asking "did I miss something?"
-- Increased engagement in company initiatives as people find communities that match their interests and work
-- Reduced time locating subject matter experts to help answer questions or contribute to projects—from hours of email forwarding to minutes of search
-- Decreased stress as communication channels reflect urgency and topic, allowing people to focus on what matters
-- Innovation as new connections are made across outer loops, leading to unexpected collaborations and solutions
-
-## Conclusion
-
-Improving your People and Communities maturity means rethinking your processes and decentralizing communication from one channel to multiple areas which best support the topics and tasks at hand. Embracing different levels of persistence and types of interaction with communication in these channels supports end users��� ability to be more focused and deeply engaged in conversation, achieving better results. Empowering your end users to manage their own communities enables IT professionals to focus on a higher strategic level and reduce friction with end users.
-
-These improvements have a huge benefit to staff well-being and retention levels which is often a hidden benefit.
-
-## Resources
-
-[!INCLUDE [mm4m365-practitioners](includes/mm4m365-practitioners.md)]
-
-### Common Microsoft 365 Toolsets
-
-- MyAnalytics
-- Viva Engage
-- Microsoft Teams
-- SharePoint
-- Microsoft 365 Groups
-- Security Groups
-- Distribution lists
-- Microsoft Graph
-- Exchange
-- Microsoft Entra ID
-
-## Related documents
-
-- [How to Share Org-Wide Communication in Microsoft 365](/microsoft-365/community/how-to-share-org-wide-communications-in-microsoft-365)
-- [Join and create a community in Viva Engage](https://support.microsoft.com/office/join-and-create-a-community-in-viva-engage-56aaf591-1fbc-4160-ba26-0c4723c23fd6)
-- [Manage Dynamic Distribution Groups](/Exchange/recipients/dynamic-distribution-groups/dynamic-distribution-groups)
-- [Principles of Communication](/microsoft-365/community/principles-of-communication)
-
----
-
-**Principal authors**:
-
-- [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
-- [Simon Doy, MVP](https://www.linkedin.com/in/simondoy)
-- [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson)
-- [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
-- [Sadie Van Buren](https://www.linkedin.com/in/sadalit)
-
----
-
-[!INCLUDE [mm4m365-core-team](includes/mm4m365-core-team.md)]
+﻿"-"-"-""
+"t"i"t"l"e":" "M"a"t"u"r"i"t"y" "M"o"d"e"l" "f"o"r" "M"i"c"r"o"s"o"f"t" "3"6"5" "�"�"�" "P"e"o"p"l"e" "a"n"d" "C"o"m"m"u"n"i"t"i"e"s" "C"o"m"p"e"t"e"n"c"y""
+"m"s"."d"a"t"e":" "1"/"1"6"/"2"0"2"6""
+"a"u"t"h"o"r":" "m"r"s"b"e"a"t"a""
+"m"s"."r"e"v"i"e"w"e"r":" "p"a"m"g"r"e"e"n""
+"m"a"n"a"g"e"r":" "p"a"m"g"r"e"e"n""
+"m"s"."t"o"p"i"c":" "o"v"e"r"v"i"e"w""
+"m"s"."a"u"t"h"o"r":" "m"r"s"b"e"a"t"a""
+"m"s"."s"e"r"v"i"c"e":" "m"i"c"r"o"s"o"f"t"-"3"6"5""
+"m"s"."l"o"c"a"l"i"z"a"t"i"o"n"p"r"i"o"r"i"t"y":" "L"o"w""
+"d"e"s"c"r"i"p"t"i"o"n":" "M"a"t"u"r"i"t"y" "M"o"d"e"l" "f"o"r" "M"i"c"r"o"s"o"f"t" "3"6"5" "�"�"�" "P"e"o"p"l"e" "a"n"d" "C"o"m"m"u"n"i"t"i"e"s" "C"o"m"p"e"t"e"n"c"y""
+"m"s"."c"o"l"l"e"c"t"i"o"n":" "M"3"6"5"C"o"m"m"u"n"i"t"y""
+"-"-"-""
+""
+"#" "M"a"t"u"r"i"t"y" "M"o"d"e"l" "f"o"r" "M"i"c"r"o"s"o"f"t" "3"6"5" "�"�"�" "P"e"o"p"l"e" "a"n"d" "C"o"m"m"u"n"i"t"i"e"s" "C"o"m"p"e"t"e"n"c"y""
+""
+"["!"I"N"C"L"U"D"E" "["c"o"n"t"e"n"t"-"d"i"s"c"l"a"i"m"e"r"]"("i"n"c"l"u"d"e"s"/"c"o"n"t"e"n"t"-"d"i"s"c"l"a"i"m"e"r"."m"d")"]""
+""
+"!"["I"m"a"g"e" "o"f" "t"h"e" "M"a"t"u"r"i"t"y" "M"o"d"e"l" "f"o"r" "M"i"c"r"o"s"o"f"t" "3"6"5" "l"o"g"o"."]"("m"e"d"i"a"/"m"a"t"u"r"i"t"y"-"m"o"d"e"l"-"f"o"r"-"m"i"c"r"o"s"o"f"t"-"3"6"5"/"M"3"6"5"M"M"."p"n"g")""
+""
+"#"#" "O"v"e"r"v"i"e"w" "o"f" "t"h"e" "C"o"n"c"e"p"t"s" "["t"l";"d"r"]""
+""
+"T"h"e" "P"e"o"p"l"e" "a"n"d" "C"o"m"m"u"n"i"t"i"e"s" "c"o"m"p"e"t"e"n"c"y" "i"s" "f"o"c"u"s"e"d" "o"n" "e"n"s"u"r"i"n"g" "p"e"o"p"l"e" "h"a"v"e" "t"h"e" "i"n"f"o"r"m"a"t"i"o"n" "t"h"e"y" "n"e"e"d"," "c"a"n" "d"i"s"c"o"v"e"r" "v"a"l"u"a"b"l"e" "c"o"n"v"e"r"s"a"t"i"o"n"s"," "a"s"k" "q"u"e"s"t"i"o"n"s"," "k"n"o"w"l"e"d"g"e" "s"h"a"r"e"," "a"n"d" "l"o"o"p" "i"n" "e"x"p"e"r"t"s"." "I"t" "a"l"s"o" "f"o"c"u"s"e"s" "o"n" "i"n"d"i"v"i"d"u"a"l" "("a"n"d" "t"e"a"m")" "s"k"i"l"l"s"," "p"r"o"f"i"l"e"s"," "a"n"d" "i"n"s"i"g"h"t"s" "i"n"t"o" "c"o"l"l"e"a"g"u"e"s" "t"o" "e"n"a"b"l"e" "e"f"f"e"c"t"i"v"e" "t"e"a"m"w"o"r"k" "a"n"d" "c"o"l"l"e"c"t"i"v"e" "a"c"t"i"v"i"t"i"e"s"." "I"t" "e"n"c"o"m"p"a"s"s"e"s" "c"o"m"m"u"n"i"t"i"e"s" "o"f" "i"n"t"e"r"e"s"t"," "o"r"g"a"n"i"z"a"t"i"o"n"a"l" "c"u"l"t"u"r"e"," "a"n"d" "w"o"r"k"i"n"g" "w"i"t"h"i"n" "c"o"m"m"o"n" "v"a"l"u"e"s".""
+""
+"#"#" "D"e"f"i"n"i"t"i"o"n" "o"f" "t"h"i"s" "c"o"m"p"e"t"e"n"c"y""
+""
+"F"o"r" "o"r"g"a"n"i"z"a"t"i"o"n"s" "t"o" "b"e" "e"f"f"e"c"t"i"v"e" "t"h"e"y" "n"e"e"d" "t"o" "e"n"s"u"r"e" "t"h"a"t" "t"h"e"i"r" "s"t"a"f"f" "c"a"n" "w"o"r"k" "t"o"g"e"t"h"e"r" "e"f"f"e"c"t"i"v"e"l"y" "b"o"t"h" "a"s" "t"e"a"m"s" "a"n"d" "i"n"d"i"v"i"d"u"a"l" "c"o"n"t"r"i"b"u"t"o"r"s"." "P"e"o"p"l"e" "n"e"e"d" "t"o" "b"e" "a"b"l"e" "t"o" "i"n"t"e"r"a"c"t" "w"i"t"h" "e"a"c"h" "o"t"h"e"r" "e"f"f"e"c"t"i"v"e"l"y"," "u"n"d"e"r"s"t"a"n"d" "s"k"i"l"l"s"e"t"s"," "a"c"c"e"s"s" "e"x"p"e"r"t"i"s"e"," "a"n"d" "s"h"a"r"e" "i"n"t"e"r"e"s"t"s" "w"i"t"h" "t"h"e" "r"i"g"h"t" "a"u"d"i"e"n"c"e"s".""
+"T"h"i"s" "c"o"m"p"e"t"e"n"c"y" "i"s" "d"i"f"f"e"r"e"n"t" "f"r"o"m" "t"h"e" "C"o"m"m"u"n"i"c"a"t"i"o"n" "c"o"m"p"e"t"e"n"c"y"," "a"s" "i"t" "f"o"c"u"s"e"s" "o"n" "t"h"e" "i"n"t"e"r"a"c"t"i"o"n"s" "b"e"t"w"e"e"n" "p"e"o"p"l"e" "w"h"o" "a"r"e" "p"e"e"r"s" "o"r" "a"t" "s"i"m"i"l"a"r" "l"e"v"e"l" "i"n" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n"," "b"u"t" "w"h"o" "m"i"g"h"t" "n"o"t" "n"o"r"m"a"l"l"y" "w"o"r"k" "t"o"g"e"t"h"e"r" "i"n" "t"h"e" "s"a"m"e" "d"e"p"a"r"t"m"e"n"t"," "b"u"s"i"n"e"s"s" "u"n"i"t"," "o"r" "d"i"s"c"i"p"l"i"n"e".""
+"W"i"t"h"i"n" "M"i"c"r"o"s"o"f"t" "3"6"5"," "t"h"i"s" "m"e"a"n"s" "m"u"l"t"i"p"l"e" "i"n"d"i"v"i"d"u"a"l"s" "c"o"m"m"u"n"i"c"a"t"i"n"g" "a"c"r"o"s"s" "d"i"f"f"e"r"e"n"t" "c"h"a"n"n"e"l"s" "("o"r" "a"s" "M"i"c"r"o"s"o"f"t" "s"o"m"e"t"i"m"e"s" "c"a"l"l"s" "t"h"e"m" "�"ǣ"l"o"o"p"s"�"�"�")" "t"o" "t"a"r"g"e"t" "t"h"e"i"r" "m"e"s"s"a"g"i"n"g" "o"r" "r"e"q"u"e"s"t"s" "t"o" "t"h"e" "r"i"g"h"t" "p"e"o"p"l"e"," "i"n" "t"h"e" "r"i"g"h"t" "p"l"a"c"e"," "a"t" "t"h"e" "r"i"g"h"t" "t"i"m"e".""
+"T"h"e" "s"o"l"u"t"i"o"n" "f"o"r" "w"h"i"c"h" "c"h"a"n"n"e"l"s" "t"o" "u"s"e" "c"a"n" "v"a"r"y" "d"e"p"e"n"d"i"n"g" "o"n" "t"h"e" "s"i"z"e" "o"f" "y"o"u"r" "o"r"g"a"n"i"z"a"t"i"o"n"." "F"o"r" "e"x"a"m"p"l"e"," "a" "s"m"a"l"l" "c"o"m"p"a"n"y" "o"f" "6" "m"i"g"h"t" "f"u"l"f"i"l"l" "t"h"e"i"r" "n"e"e"d" "f"o"r" "c"o"m"p"a"n"y"-"w"i"d"e" "c"o"m"m"u"n"i"c"a"t"i"o"n" "v"i"a" "a"n" "o"r"g"-"w"i"d"e" "T"e"a"m" "w"h"i"l"e" "t"h"i"s" "a"p"p"r"o"a"c"h" "w"o"u"l"d" "b"e" "d"i"s"r"u"p"t"i"v"e" "t"o" "p"r"o"d"u"c"t"i"v"i"t"y" "i"n" "a" "c"o"m"p"a"n"y" "o"f" "6","0"0"0" "p"e"o"p"l"e" "a"c"t"i"v"e"l"y" "u"s"i"n"g" "T"e"a"m"s" "t"o" "c"o"l"l"a"b"o"r"a"t"e" "o"n" "p"r"o"j"e"c"t"s".""
+""
+"#"#" "E"v"o"l"u"t"i"o"n" "o"f" "t"h"i"s" "c"o"m"p"e"t"e"n"c"y""
+""
+"S"e"e" "t"h"e" "["M"a"t"u"r"i"t"y" "M"o"d"e"l" "f"o"r" "M"i"c"r"o"s"o"f"t" "3"6"5" "-" "I"n"t"r"o"d"u"c"t"i"o"n"]"("m"i"c"r"o"s"o"f"t"3"6"5"-"m"a"t"u"r"i"t"y"-"m"o"d"e"l"-"-"i"n"t"r"o"."m"d")" "f"o"r" "d"e"f"i"n"i"t"i"o"n"s" "o"f" "t"h"e" "M"a"t"u"r"i"t"y" "M"o"d"e"l" "l"e"v"e"l"s".""
+""
+"#"#"#" "L"e"v"e"l" "1"0"0" "-" "I"n"i"t"i"a"l""
+""
+"Y"o"u" "m"i"g"h"t" "r"e"c"o"g"n"i"z"e" "t"h"i"s" "o"n"e"." "O"r"g"a"n"i"z"a"t"i"o"n"s" "a"t" "l"e"v"e"l" "1"0"0" "h"a"v"e" "d"o"n"e" "l"i"t"t"l"e" "t"o" "a"c"t"i"v"e"l"y" "s"u"p"p"o"r"t" "t"h"e" "c"o"n"c"e"p"t"s" "a"r"o"u"n"d" "p"e"o"p"l"e" "a"n"d" "c"o"m"m"u"n"i"t"i"e"s"," "r"e"l"y"i"n"g" "o"n" "o"r"g"a"n"i"c" "a"n"d" "t"r"a"d"i"t"i"o"n"a"l" "a"p"p"r"o"a"c"h"e"s"." "T"h"e"y" "m"a"y" "s"t"i"l"l" "h"a"v"e" "p"r"i"n"t"e"d" "p"h"o"n"e" "d"i"r"e"c"t"o"r"i"e"s" "o"r" "E"x"c"e"l" "s"p"r"e"a"d"s"h"e"e"t"s" "("w"h"i"c"h"," "t"o" "b"e" "f"a"i"r"," "c"a"n" "b"e" "s"u"r"p"r"i"s"i"n"g"l"y" "u"s"e"f"u"l" "d"u"r"i"n"g" "I"T" "i"n"c"i"d"e"n"t"s")"." "T"h"e"r"e" "a"r"e" "n"o" "e"x"p"e"c"t"a"t"i"o"n"s" "w"i"t"h"i"n" "t"h"e" "c"o"m"p"a"n"y" "t"h"a"t" "p"e"r"s"o"n"a"l" "p"r"o"f"i"l"e"s" "a"r"e" "c"o"m"p"l"e"t"e"d" "o"r" "u"p"d"a"t"e"d"." "M"u"c"h" "o"f" "t"h"e" "i"m"p"o"r"t"a"n"t" "i"n"t"e"r"a"c"t"i"o"n" "b"e"t"w"e"e"n" "e"m"p"l"o"y"e"e"s" "o"c"c"u"r"s" "w"i"t"h" "i"n"-"p"e"r"s"o"n" "m"e"e"t"i"n"g"s"," "c"h"a"t"," "o"r" "h"a"l"l"w"a"y"s" "a"n"d" "o"f"t"e"n" "w"i"t"h" "n"o" "c"l"e"a"r" "o"u"t"c"o"m"e"s".""
+""
+"*"*"["I"n"i"t"i"a"l" "l"e"v"e"l"]"("m"i"c"r"o"s"o"f"t"3"6"5"-"m"a"t"u"r"i"t"y"-"m"o"d"e"l"-"-"i"n"t"r"o"."m"d"#"l"e"v"e"l"-"1"0"0"-"-"-"i"n"i"t"i"a"l")"*"*" "c"h"a"r"a"c"t"e"r"i"s"t"i"c"s" "i"n"c"l"u"d"e":""
+""
+"#"#"#"#" "1"0"0" "U"s"e"r" "E"x"p"e"r"i"e"n"c"e""
+""
+"-" "N"o" "r"e"l"i"a"b"l"e" "w"a"y" "t"o" "f"i"n"d" "c"o"l"l"e"a"g"u"e"s" "o"r" "u"n"d"e"r"s"t"a"n"d" "w"h"o" "d"o"e"s" "w"h"a"t" "i"n" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n".""
+"-" "C"o"m"m"u"n"i"c"a"t"i"o"n" "i"s" "p"r"i"m"a"r"i"l"y" "t"h"r"o"u"g"h" "e"m"a"i"l"," "w"i"t"h" """r"e"p"l"y" "a"l"l""" "b"e"i"n"g" "t"h"e" "d"e"f"a"u"l"t" "a"p"p"r"o"a"c"h".""
+"-" "F"i"n"d"i"n"g" "s"u"b"j"e"c"t" "m"a"t"t"e"r" "e"x"p"e"r"t"s" "r"e"q"u"i"r"e"s" "f"o"r"w"a"r"d"i"n"g" "e"m"a"i"l"s" "a"r"o"u"n"d" "u"n"t"i"l" "s"o"m"e"o"n"e" "k"n"o"w"s" "t"h"e" "a"n"s"w"e"r".""
+"-" "N"o" "d"i"g"i"t"a"l" "c"o"m"m"u"n"i"t"i"e"s" "e"x"i"s"t";" "c"o"n"n"e"c"t"i"o"n"s" "h"a"p"p"e"n" "b"y" "c"h"a"n"c"e" "o"r" "t"h"r"o"u"g"h" "p"e"r"s"o"n"a"l" "n"e"t"w"o"r"k"s".""
+""
+"#"#"#"#" "1"0"0" "C"u"l"t"u"r"e""
+""
+"-" "A"t" "t"h"i"s" "m"a"t"u"r"i"t"y" "l"e"v"e"l"," "m"a"n"y" "e"n"d" "u"s"e"r"s" "d"o"n"�"�"�"t" "k"n"o"w" "m"u"c"h" "a"b"o"u"t" "t"h"e"i"r" "c"o"l"l"e"a"g"u"e"s" "a"n"d" "a"r"e" "u"n"c"l"e"a"r" "o"n" "h"o"w" "t"h"e"y" "s"h"o"u"l"d" "e"n"g"a"g"e" "w"i"t"h" "t"h"e"m" "o"r" "r"e"a"c"h" "o"u"t" "f"o"r" "h"e"l"p" "w"i"t"h" "p"r"o"j"e"c"t"s" "a"n"d" "a"c"t"i"v"i"t"i"e"s";" "t"h"i"s" "i"s" "a"l"s"o" "r"e"f"l"e"c"t"e"d" "i"n" "t"h"e" "a"m"o"u"n"t" "o"f" "u"n"t"a"r"g"e"t"e"d" "c"o"m"m"u"n"i"c"a"t"i"o"n"s".""
+"-" "T"e"a"m" "b"u"i"l"d"i"n"g" "i"s" "b"a"s"e"d" "o"n" "p"e"r"s"o"n"a"l" "k"n"o"w"l"e"d"g"e" "a"n"d" "h"a"s" "l"i"t"t"l"e" "s"c"o"p"e"." "M"a"n"y" "s"t"a"f"f" "f"e"e"l" "l"e"f"t" "o"u"t" "o"r" "u"n"d"e"r"-"u"t"i"l"i"z"e"d" "f"o"r" "t"h"e"i"r" "s"k"i"l"l"s"e"t"s"." "E"x"p"e"r"t"i"s"e" "i"n" "d"i"f"f"e"r"e"n"t" "l"o"c"a"t"i"o"n"s" "i"s" "r"a"r"e"l"y" "l"e"v"e"r"a"g"e"d"." "I"n"s"i"g"h"t"s" "a"n"d" "s"u"p"p"o"r"t" "a"r"e" "o"f"t"e"n" "a" "m"a"t"t"e"r" "o"f" "l"u"c"k" "o"r" "c"h"a"n"c"e".""
+"-" "T"h"e"r"e" "i"s" "l"i"t"t"l"e" "r"e"i"n"f"o"r"c"e"m"e"n"t" "o"f" "o"r"g"a"n"i"z"a"t"i"o"n"a"l" "c"u"l"t"u"r"e" "a"n"d" "v"i"s"i"o"n".""
+"-" "L"i"m"i"t"e"d" "i"n"t"e"r"n"a"l" "c"o"m"m"u"n"i"t"i"e"s" "i"n"h"i"b"i"t" "s"u"p"p"o"r"t"i"v"e" "c"o"l"l"e"a"g"u"e" "r"e"l"a"t"i"o"n"s"h"i"p"s" "b"e"y"o"n"d" "i"m"m"e"d"i"a"t"e" "c"o"-"w"o"r"k"e"r"s".""
+"-" "L"i"t"t"l"e" "h"a"s" "b"e"e"n" "d"o"n"e" "t"o" "a"c"t"i"v"e"l"y" "s"u"p"p"o"r"t" "t"h"e" "c"o"n"c"e"p"t"s" "a"r"o"u"n"d" "p"e"o"p"l"e" "a"n"d" "c"o"m"m"u"n"i"t"i"e"s"," "r"e"l"y"i"n"g" "o"n" "o"r"g"a"n"i"c" "a"n"d" "t"r"a"d"i"t"i"o"n"a"l" "a"p"p"r"o"a"c"h"e"s".""
+"-" "E"m"a"i"l" "d"i"s"t"r"i"b"u"t"i"o"n" "l"i"s"t"s" "a"r"e" "t"h"e" "h"u"b" "o"f" "c"o"m"m"u"n"i"t"y" "a"c"t"i"v"i"t"y";" "t"h"e" "p"r"o"c"e"s"s"e"s" "t"o" "u"p"d"a"t"e" "i"n"f"o"r"m"a"t"i"o"n" "b"e"l"o"n"g" "t"o" "I"T"," "a"r"e" "e"s"s"e"n"t"i"a"l"l"y" "m"a"n"u"a"l"," "u"n"d"o"c"u"m"e"n"t"e"d"," "a"n"d" "l"a"c"k" "f"o"r"m"a"l" "p"r"o"c"e"s"s"e"s" "t"o" "m"a"n"a"g"e" "t"h"e"i"r" "m"e"m"b"e"r"s".""
+"-" "E"n"d" "u"s"e"r"s" "m"a"y"b"e" "l"o"s"t" "a"n"d" "u"n"c"o"m"f"o"r"t"a"b"l"e" "w"i"t"h"i"n" "t"h"e" "o"r"g"a"n"i"s"a"t"i"o"n".""
+""
+"#"#"#"#" "1"0"0" "P"r"o"c"e"s"s""
+""
+"-" "T"h"e"r"e" "i"s"," "a"t" "b"e"s"t"," "b"a"s"i"c" "p"r"o"f"i"l"e" "d"a"t"a"." "T"h"i"s" "i"s" "i"n"c"o"n"s"i"s"t"e"n"t" "a"c"r"o"s"s" "d"i"f"f"e"r"e"n"t" "s"y"s"t"e"m"s" "("e"."g"." "A"c"t"i"v"e" "D"i"r"e"c"t"o"r"y"," "H"u"m"a"n" "R"e"s"o"u"r"c"e"s" "I"n"f"o"r"m"a"t"i"o"n" "S"y"s"t"e"m"s"," "e"t"c".")".""
+"-" "S"t"a"f"f" "p"r"o"f"i"l"e"s"," "a"c"c"e"s"s"i"b"l"e" "t"o" "c"o"l"l"e"a"g"u"e"s"," "a"r"e" "a"b"s"e"n"t" "o"r" "l"a"r"g"e"l"y" "u"n"m"a"i"n"t"a"i"n"e"d";" "t"h"e"r"e" "i"s" "n"o" "e"x"p"e"c"t"a"t"i"o"n" "t"h"a"t" "p"r"o"f"i"l"e"s" "a"r"e" "c"o"m"p"l"e"t"e"d" "a"n"d" "u"p"d"a"t"e"d"." "A"n"y" "t"h"a"t" "d"o" "e"x"i"s"t" "a"r"e" "l"i"k"e"l"y" "t"o" "b"e" "l"i"m"i"t"e"d" "t"o" "i"d"e"n"t"i"f"y"i"n"g" "w"h"o" "w"o"r"k"s" "i"n" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n" "a"n"d" "i"n" "w"h"i"c"h" "d"e"p"a"r"t"m"e"n"t" "("w"i"t"h" "c"o"n"t"a"c"t" "i"n"f"o"r"m"a"t"i"o"n")"." "H"a"r"d" "c"o"p"y" "s"t"a"f"f" "d"i"r"e"c"t"o"r"i"e"s" "m"a"y" "b"e" "i"n" "u"s"e".""
+"-" "O"r"g"a"n"i"z"a"t"i"o"n" "c"h"a"r"t"s" "a"r"e" "c"r"e"a"t"e"d" "m"a"n"u"a"l"l"y"," "i"n"c"o"n"s"i"s"t"e"n"t"l"y" "p"u"b"l"i"s"h"e"d"," "a"n"d" "f"r"e"q"u"e"n"t"l"y" "o"u"t" "o"f" "d"a"t"e"." "T"h"e"y" "m"a"y" "a"l"s"o" "b"e" "s"h"a"r"e"d" "v"i"a" "e"m"a"i"l" "t"o" "d"e"p"a"r"t"m"e"n"t" "m"e"m"b"e"r"s".""
+"-" "B"e"c"a"u"s"e" "s"t"a"f"f" "h"a"v"e" "n"o" "a"c"c"e"s"s" "t"o" "a" "r"e"l"i"a"b"l"e" "d"i"r"e"c"t"o"r"y" "a"n"d" "m"a"y" "n"o"t" "k"n"o"w" "t"h"e" "b"e"s"t" "c"o"m"m"u"n"i"c"a"t"i"o"n" "m"e"c"h"a"n"i"s"m"s" "t"o" "u"s"e"," "c"o"l"l"e"a"g"u"e"s" "a"r"e" "o"f"t"e"n" "o"v"e"r"l"o"o"k"e"d" "o"r" "u"n"i"n"f"o"r"m"e"d"." "L"o"n"g"-"t"e"r"m" "s"t"a"f"f" "a"r"e" "f"r"e"q"u"e"n"t"l"y" "i"n"t"e"r"r"u"p"t"e"d" "w"i"t"h" "r"e"q"u"e"s"t"s" "f"o"r" "t"h"e"i"r" "k"n"o"w"l"e"d"g"e"," "e"v"e"n" "w"h"e"n" "o"t"h"e"r"s" "m"i"g"h"t" "h"a"v"e" "b"e"e"n" "a"b"l"e" "t"o" "a"s"s"i"s"t".""
+"-" "P"e"o"p"l"e" "u"s"e" "�"ǣ"r"e"p"l"y" "a"l"l"�"�"�" "d"e"s"p"i"t"e" "t"h"e" "i"m"p"a"c"t" "t"h"i"s" "h"a"s" "i"n" "c"o"l"l"e"a"g"u"e"s"�"�"�" "i"n"b"o"x"e"s"." "E"m"p"l"o"y"e"e"s" "a"r"e" "u"n"a"b"l"e" "t"o" "e"a"s"i"l"y" "i"d"e"n"t"i"f"y" "w"h"o"-"d"o"e"s"-"w"h"a"t" "i"n" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n"," "f"i"n"d" "s"u"b"j"e"c"t" "m"a"t"t"e"r" "e"x"p"e"r"t"s"," "o"r" "u"n"d"e"r"s"t"a"n"d" "t"h"e" "r"e"p"o"r"t"i"n"g" "s"t"r"u"c"t"u"r"e"." "R"e"q"u"e"s"t"s" "f"o"r" "e"x"p"e"r"t"i"s"e" "a"n"d" "q"u"e"s"t"i"o"n"s" "a"r"e" "o"f"t"e"n" "a"s"k"e"d" "v"i"a" "e"m"a"i"l" "a"n"d" "t"h"e"n" "f"o"r"w"a"r"d"e"d" "a"r"o"u"n"d" "t"h"e" "c"o"m"p"a"n"y" "u"n"t"i"l" "t"h"e" "c"o"r"r"e"c"t" "s"u"b"j"e"c"t" "m"a"t"t"e"r" "e"x"p"e"r"t" "i"s" "i"d"e"n"t"i"f"i"e"d";" "m"i"n"i"m"a"l" "s"h"a"r"e"d" "i"n"s"i"g"h"t"s" "a"r"e" "c"r"e"a"t"e"d".""
+"-" "T"h"e"r"e" "i"s" "n"o" "c"o"m"p"a"n"y" "g"u"i"d"a"n"c"e" "o"n" "w"h"e"r"e" "t"o" "h"a"v"e" "d"i"f"f"e"r"e"n"t" "t"y"p"e"s" "o"f" "c"o"n"v"e"r"s"a"t"i"o"n"s"," "s"h"a"r"e" "i"n"t"e"r"e"s"t"s"," "o"r" "s"e"e"k" "a"d"v"i"c"e" "a"n"d" "e"n"g"a"g"e"m"e"n"t" "f"r"o"m" "c"o"l"l"e"a"g"u"e"s".""
+"-" "N"o" "p"r"o"c"e"s"s" "e"x"i"s"t"s" "f"o"r" "d"i"s"c"o"v"e"r"i"n"g" "w"h"e"t"h"e"r" "c"o"l"l"e"a"g"u"e"s" "h"a"v"e" "p"a"r"t"i"c"u"l"a"r" "s"k"i"l"l"s"," "a"r"e"a"s" "o"f" "e"x"p"e"r"t"i"s"e"," "o"r" "c"o"m"m"o"n" "i"n"t"e"r"e"s"t"s" "a"n"d" "v"a"l"u"e"s"." "C"o"m"m"u"n"i"t"i"e"s" "o"f" "i"n"t"e"r"e"s"t" "a"r"e" "s"e"r"e"n"d"i"p"i"t"o"u"s" "a"n"d" "d"o" "n"o"t" "t"a"k"e" "p"l"a"c"e" "d"i"g"i"t"a"l"l"y"." "T"h"e"y" "a"r"e" "e"f"f"e"c"t"i"v"e"l"y" "i"n"v"i"s"i"b"l"e" "t"o" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n".""
+"-" "P"e"r"s"o"n"a"l" "c"o"n"t"a"c"t"," "t"e"l"e"p"h"o"n"e"," "a"n"d" "e"m"a"i"l" "a"r"e" "t"h"e" "p"r"i"m"a"r"y" "m"e"a"n"s" "o"f" "c"o"m"m"u"n"i"c"a"t"i"o"n".""
+""
+"#"#"#"#" "1"0"0" "I"m"p"a"c"t"s""
+""
+"T"h"e"r"e" "i"s" "l"i"t"t"l"e" "c"o"m"p"a"n"y" "g"u"i"d"a"n"c"e" "o"r" "r"e"c"o"m"m"e"n"d"a"t"i"o"n" "o"n" "w"h"e"r"e" "t"o" "h"a"v"e" "d"i"f"f"e"r"e"n"t" "t"y"p"e"s" "o"f" "c"o"n"v"e"r"s"a"t"i"o"n"s" "t"o" "b"e" "m"o"s"t" "e"f"f"e"c"t"i"v"e"." "T"h"i"s" "l"e"a"d"s" "t"o" "m"o"s"t" "p"e"o"p"l"e" "f"e"e"l"i"n"g" "t"h"a"t"," "w"h"i"l"e" "m"u"c"h" "i"n"f"o"r"m"a"t"i"o"n" "i"s" "c"o"m"i"n"g" "a"t" "t"h"e"m"," "l"i"t"t"l"e" "i"s" "w"h"a"t" "t"h"e"y" "n"e"e"d" "t"o" "k"n"o"w" "o"r" "a"c"t"i"o"n"a"b"l"e"." "N"o" "p"r"o"c"e"s"s"e"s" "o"r" "t"o"o"l"s" "e"x"i"s"t" "t"o" "d"i"s"c"o"v"e"r" "w"h"e"t"h"e"r" "c"o"l"l"e"a"g"u"e"s" "h"a"v"e" "s"p"e"c"i"f"i"c" "s"k"i"l"l"s"," "a"r"e"a"s" "o"f" "e"x"p"e"r"t"i"s"e"," "o"r" "c"o"m"m"o"n" "i"n"t"e"r"e"s"t"s" "a"n"d" "v"a"l"u"e"s"." "I"n" "p"r"o"j"e"c"t"-"b"a"s"e"d" "e"n"v"i"r"o"n"m"e"n"t"s"," "i"t"�"�"�"s" "d"i"f"f"i"c"u"l"t" "t"o" "f"i"n"d" "o"u"t" "w"h"o" "w"o"r"k"e"d" "o"n" "p"a"s"t" "p"r"o"j"e"c"t"s"." "C"o"m"m"u"n"i"t"i"e"s" "o"f" "i"n"t"e"r"e"s"t" "a"r"e" "s"e"r"e"n"d"i"p"i"t"o"u"s" "a"n"d" "d"o" "n"o"t" "t"a"k"e" "p"l"a"c"e" "d"i"g"i"t"a"l"l"y"." "M"o"s"t" "c"o"n"v"e"r"s"a"t"i"o"n"s" "u"s"e" "e"m"a"i"l" "a"s" "t"h"e" "o"n"l"y" "c"o"m"m"u"n"i"c"a"t"i"o"n" "c"h"a"n"n"e"l".""
+""
+"S"t"a"f"f" "r"e"t"e"n"t"i"o"n" "m"a"y" "b"e" "d"i"f"f"i"c"u"l"t" "a"s" "t"h"e"r"e" "i"s" "l"i"t"t"l"e" "i"n" "t"h"e" "w"a"y" "o"f" "g"l"u"e" "t"o" "k"e"e"p" "p"e"o"p"l"e" "t"o"g"e"t"h"e"r" "a"n"d" "c"r"e"a"t"e" "t"h"o"s"e" "c"o"n"n"e"c"t"i"o"n"s"." "U"s"e"r"s" "m"a"y" "f"e"e"l" "l"o"s"t" "a"n"d" "u"n"s"u"r"e" "o"f" "t"h"e"i"r" "p"u"r"p"o"s"e"." "T"h"i"s" "i"m"p"a"c"t" "w"i"l"l" "b"e" "h"a"r"d"e"r" "i"f" "t"h"e" "o"r"g"a"n"i"s"a"t"i"o"n" "i"s" "l"a"r"g"e"l"y" "w"o"r"k"i"n"g" "r"e"m"o"t"e"l"y".""
+""
+"S"y"s"t"e"m"s" "m"a"y" "e"x"i"s"t" "t"o" "s"u"p"p"o"r"t" "i"d"e"n"t"i"f"y"i"n"g" "w"h"o" "w"o"r"k"s" "i"n" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n" "a"n"d" "i"n" "w"h"i"c"h" "d"e"p"a"r"t"m"e"n"t"." "D"i"s"t"r"i"b"u"t"i"o"n" "l"i"s"t"s" "a"r"e" "u"s"e"d" "t"o" "c"o"m"m"u"n"i"c"a"t"e" "w"i"t"h" "g"r"o"u"p"s" "s"u"c"h" "a"s" "�"ǣ"A"l"l" "C"o"m"p"a"n"y"�"�"�" "a"n"d" "e"a"c"h" "d"e"p"a"r"t"m"e"n"t"." "T"h"e" "p"r"o"c"e"s"s"e"s" "t"o" "u"p"d"a"t"e" "i"n"f"o"r"m"a"t"i"o"n" "f"a"l"l" "t"o" "I"T"," "a"r"e" "e"s"s"e"n"t"i"a"l"l"y" "m"a"n"u"a"l" "a"n"d" "u"n"d"o"c"u"m"e"n"t"e"d"," "a"n"d" "l"a"c"k" "f"o"r"m"a"l" "p"r"o"c"e"s"s"e"s" "t"o" "m"a"n"a"g"e" "t"h"e"i"r" "m"e"m"b"e"r"s".""
+""
+"#"#"#" "L"e"v"e"l" "2"0"0" "-" "M"a"n"a"g"e"d""
+""
+"A"t" "t"h"i"s" "l"e"v"e"l"," "t"h"e" "f"o"c"u"s" "t"e"n"d"s" "t"o" "b"e" "o"n" "c"r"e"a"t"i"n"g" "c"o"m"m"u"n"i"c"a"t"i"o"n" "c"h"a"n"n"e"l"s" "f"o"r" "t"h"e" "i"n"n"e"r" "l"o"o"p"." "T"h"i"s" "r"e"p"r"e"s"e"n"t"s" "g"r"o"u"p"s" "o"f" "p"e"o"p"l"e" "w"o"r"k"i"n"g" "t"o"g"e"t"h"e"r" "o"n" "p"r"o"j"e"c"t"s" "-" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n"s" "u"s"u"a"l" "u"n"i"t"s" "o"f" "w"o"r"k"." "E"a"c"h" "t"e"a"m" "m"a"y" "d"e"c"i"d"e" "h"o"w" "t"o" "c"o"m"m"u"n"i"c"a"t"e" "i"n"t"e"r"n"a"l"l"y"," "b"u"t" "t"h"e"r"e" "i"s" "n"o" "e"n"t"e"r"p"r"i"s"e"-"l"e"v"e"l" "g"u"i"d"a"n"c"e" "o"n" "w"h"i"c"h" "s"o"l"u"t"i"o"n" "t"o" "u"s"e" "b"a"s"e"d" "o"n" "t"h"e" "p"r"o"j"e"c"t" "g"o"a"l"." "T"h"e"r"e" "m"a"y" "b"e" "p"i"l"o"t"s" "f"o"r" "c"a"p"t"u"r"i"n"g" "o"u"t"e"r" "l"o"o"p" "c"o"n"v"e"r"s"a"t"i"o"n"s" "("c"o"r"p"o"r"a"t"e" "c"o"m"m"u"n"i"c"a"t"i"o"n"s"," "C"E"O" "t"o"w"n" "h"a"l"l"s"," "e"m"p"l"o"y"e"e" "i"n"t"e"r"e"s"t" "g"r"o"u"p"s")" "i"n" "a"n"o"t"h"e"r" "c"o"m"m"u"n"i"c"a"t"i"o"n" "c"h"a"n"n"e"l".""
+""
+"*"*"["M"a"n"a"g"e"d" "l"e"v"e"l"]"("m"i"c"r"o"s"o"f"t"3"6"5"-"m"a"t"u"r"i"t"y"-"m"o"d"e"l"-"-"i"n"t"r"o"."m"d"#"l"e"v"e"l"-"2"0"0"-"-"-"m"a"n"a"g"e"d")"*"*" "c"h"a"r"a"c"t"e"r"i"s"t"i"c"s" "i"n"c"l"u"d"e":""
+""
+"#"#"#"#" "2"0"0" "U"s"e"r" "E"x"p"e"r"i"e"n"c"e""
+""
+"-" "S"o"m"e" "t"e"a"m"s" "h"a"v"e" "b"e"t"t"e"r" "c"o"m"m"u"n"i"c"a"t"i"o"n" "t"o"o"l"s"," "b"u"t" "a"p"p"r"o"a"c"h"e"s" "v"a"r"y" "w"i"d"e"l"y" "a"c"r"o"s"s" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n".""
+"-" "F"i"n"d"i"n"g" "p"e"o"p"l"e" "a"n"d" "s"k"i"l"l"s" "i"s" "p"o"s"s"i"b"l"e" "b"u"t" "n"e"i"t"h"e"r" "e"f"f"i"c"i"e"n"t" "n"o"r" "r"e"l"i"a"b"l"e".""
+"-" "S"t"a"f"f" "p"r"o"f"i"l"e"s" "e"x"i"s"t" "b"u"t" "a"r"e" "i"n"c"o"n"s"i"s"t"e"n"t"l"y" "m"a"i"n"t"a"i"n"e"d" "a"n"d" "m"a"y" "h"a"v"e" "o"u"t"d"a"t"e"d" "o"r" "i"n"c"o"m"p"l"e"t"e" "i"n"f"o"r"m"a"t"i"o"n".""
+"-" "C"o"m"m"u"n"i"t"y" "s"p"a"c"e"s" "m"a"y" "b"e" "p"i"l"o"t"e"d"," "b"u"t" "t"h"e"y"'"r"e" "a"d" "h"o"c" "w"i"t"h" "l"i"t"t"l"e" "m"a"n"a"g"e"m"e"n"t" "o"r" "c"l"e"a"r" "p"u"r"p"o"s"e".""
+""
+"#"#"#"#" "2"0"0" "C"u"l"t"u"r"e""
+""
+"-" "T"h"e" "f"o"c"u"s" "t"e"n"d"s" "t"o" "b"e" "o"n" "c"r"e"a"t"i"n"g" "c"o"m"m"u"n"i"c"a"t"i"o"n" "w"i"t"h"i"n" "k"n"o"w"n" "g"r"o"u"p"s" "o"f" "p"e"o"p"l"e" "w"o"r"k"i"n"g" "o"n" "p"r"o"j"e"c"t"s" "("t"h"e" "i"n"n"e"r" "l"o"o"p")".""
+"-" "C"o"m"m"u"n"i"t"y" "s"p"a"c"e"s" "m"a"y" "b"e" "p"i"l"o"t"e"d"," "t"h"o"u"g"h" "t"h"e"s"e" "a"r"e" "l"i"k"e"l"y" "t"o" "b"e" "s"o"m"e"w"h"a"t" "a"d" "h"o"c" "w"i"t"h" "l"i"t"t"l"e" "m"a"n"a"g"e"m"e"n"t"," "o"v"e"r"s"i"g"h"t"," "o"r" "i"n"t"e"n"d"e"d" "p"u"r"p"o"s"e".""
+"-" "U"s"e" "i"s" "e"n"c"o"u"r"a"g"e"d" "i"n" "s"o"m"e" "t"e"a"m"s"," "b"u"t" "n"o"t" "e"n"f"o"r"c"e"d".""
+"-" "P"e"o"p"l"e" "a"r"e" "a"b"l"e" "t"o" "f"o"r"m" "b"e"t"t"e"r" "c"o"n"n"e"c"t"i"o"n"s" "w"i"t"h" "o"n"e" "a"n"o"t"h"e"r".""
+""
+"#"#"#"#" "2"0"0" "P"r"o"c"e"s"s""
+""
+"-" "T"h"e"r"e" "a"r"e" "l"i"k"e"l"y" "t"o" "b"e" "m"u"l"t"i"p"l"e" "d"i"r"e"c"t"o"r"i"e"s"," "o"f"t"e"n" "m"a"n"a"g"e"d" "a"t" "t"h"e" "d"e"p"a"r"t"m"e"n"t" "o"r" "p"r"o"j"e"c"t" "l"e"v"e"l"." "T"h"e"s"e" "m"a"y" "b"e" "e"f"f"e"c"t"i"v"e" "a"n"d" "m"a"i"n"t"a"i"n"e"d" "i"n" "s"o"m"e" "i"n"s"t"a"n"c"e"s"," "b"u"t" "t"h"e"r"e" "i"s" "l"i"t"t"l"e" "a"g"g"r"e"g"a"t"i"o"n"," "s"t"a"n"d"a"r"d"i"z"a"t"i"o"n" "o"r" "c"o"n"t"r"o"l"." "S"o"m"e" "o"f" "t"h"e"s"e" "m"a"y" "d"r"a"w" "o"n" "d"e"f"i"n"i"t"i"v"e" "s"o"u"r"c"e"s"," "s"u"c"h" "a"s" "A"c"t"i"v"e" "D"i"r"e"c"t"o"r"y"," "b"u"t" "w"i"t"h"o"u"t" "c"o"n"s"i"s"t"e"n"c"y"." "C"e"n"t"r"a"l"i"z"e"d" "d"i"r"e"c"t"o"r"i"e"s" "a"n"d" "p"e"o"p"l"e" "c"a"r"d"s" "m"a"y" "b"e" "p"i"l"o"t"e"d" "b"u"t" "h"a"v"e" "n"o"t" "r"e"p"l"a"c"e"d" "l"o"c"a"l" "v"e"r"s"i"o"n"s".""
+"-" "S"t"a"f"f" "p"r"o"f"i"l"e" "t"e"c"h"n"o"l"o"g"y" "i"s" "a"v"a"i"l"a"b"l"e"," "w"h"i"c"h" "c"a"n" "c"a"p"t"u"r"e" "s"k"i"l"l"s" "a"n"d" "o"t"h"e"r" "i"n"f"o"r"m"a"t"i"o"n"," "n"o"t" "j"u"s"t" "c"o"n"t"a"c"t" "d"e"t"a"i"l"s".""
+"-" "T"e"r"m"i"n"o"l"o"g"y" "i"s" "n"o"t" "s"t"a"n"d"a"r"d"i"z"e"d";" "q"u"a"l"i"t"y" "a"n"d" "c"o"m"p"l"e"t"i"o"n" "i"s" "v"a"r"i"a"b"l"e".""
+"-" "I"t" "i"s" "p"o"s"s"i"b"l"e" "t"o" "f"i"n"d" "p"e"o"p"l"e" "a"n"d" "s"k"i"l"l"s" "a"c"r"o"s"s" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n"," "b"u"t" "t"h"i"s" "i"s" "n"e"i"t"h"e"r" "e"f"f"i"c"i"e"n"t" "n"o"r" "a"s"s"u"r"e"d".""
+"-" "S"e"l"f"-"s"e"r"v"i"c"e" "d"i"s"t"r"i"b"u"t"i"o"n" "l"i"s"t"s" "("M"i"c"r"o"s"o"f"t" "3"6"5" "G"r"o"u"p"s")" "m"a"y" "b"e"g"i"n" "t"o" "b"e" "l"e"v"e"r"a"g"e"d".""
+"-" "P"o"l"i"c"i"e"s" "a"n"d" "g"u"i"d"a"n"c"e" "o"n" "a"s"p"e"c"t"s" "o"f" "P"e"o"p"l"e" "a"n"d" "C"o"m"m"u"n"i"t"i"e"s" "e"x"i"s"t"," "b"u"t" "t"h"i"s" "i"s" "n"o"t" "t"r"a"c"k"e"d"," "l"a"c"k"s" "m"e"t"r"i"c"s" "a"n"d" "i"s" "n"o"t" "s"t"r"o"n"g"l"y" "a"d"v"o"c"a"t"e"d" "f"o"r" "w"i"t"h"i"n" "t"h"e" "m"a"n"a"g"e"m"e"n"t" "p"r"o"c"e"s"s"." "E"a"c"h" "t"e"a"m" "m"a"y" "d"e"c"i"d"e" "h"o"w" "t"o" "a"c"t" "o"n" "t"h"e" "g"u"i"d"a"n"c"e" "b"a"s"e"d" "o"n" "t"h"e" "p"r"o"j"e"c"t" "g"o"a"l" "a"n"d" "t"h"e"i"r" "t"e"a"m" "p"r"e"f"e"r"e"n"c"e".""
+"-" "T"h"e" "i"n"f"o"r"m"a"t"i"o"n" "i"n" "t"h"e" "S"t"a"f"f" "p"r"o"f"i"l"e"s" "i"s" "m"a"n"u"a"l"l"y" "e"n"t"e"r"e"d" "b"y" "t"h"e" "I"T" "d"e"p"a"r"t"m"e"n"t".""
+""
+"#"#"#"#" "2"0"0" "I"m"p"a"c"t"s""
+""
+"A"t" "t"h"i"s" "l"e"v"e"l" "y"o"u" "c"a"n" "e"x"p"e"c"t" "t"h"e" "f"o"l"l"o"w"i"n"g":""
+""
+"-" "S"t"a"f"f" "p"r"o"d"u"c"t"i"v"i"t"y" "i"s" "r"e"d"u"c"e"d" "d"u"e" "t"o" "t"h"e" "t"i"m"e" "s"p"e"n"t" "t"r"y"i"n"g" "t"o" "e"n"g"a"g"e" "t"h"e" "r"i"g"h"t" "p"e"o"p"l"e" "i"n" "a"c"t"i"v"i"t"i"e"s"," "s"o"u"r"c"e" "k"n"o"w"l"e"d"g"e" "a"n"d" "e"x"p"e"r"t"i"s"e".""
+"-" "T"h"e" "a"t"t"e"m"p"t"s" "t"o" "p"r"o"v"i"d"e" "t"e"c"h"n"o"l"o"g"y" "t"o" "s"u"p"p"o"r"t" "p"e"o"p"l"e"," "g"r"o"u"p"s"," "a"n"d" "t"h"e" "c"o"m"p"a"n"y" "c"u"l"t"u"r"e" "a"r"e" "c"o"m"p"r"o"m"i"s"e"d" "b"y" "p"o"o"r" "d"a"t"a" "q"u"a"l"i"t"y"," "i"n"c"o"n"s"i"s"t"e"n"t" "a"p"p"r"o"a"c"h"e"s"," "a"n"d" "a" "l"a"c"k" "o"f" "c"o"m"m"i"t"m"e"n"t" "a"t" "a"l"l" "l"e"v"e"l"s"." "S"t"a"f"f" "a"n"d" "m"a"n"a"g"e"m"e"n"t" "a"r"e" "e"q"u"a"l"l"y" "f"r"u"s"t"r"a"t"e"d" "b"y" "t"h"i"s" "b"u"t" "l"a"c"k" "o"u"t"l"e"t"s" "f"o"r" "a"d"d"r"e"s"s"i"n"g" "t"h"e" "i"s"s"u"e".""
+"-" "A"v"o"i"d"a"b"l"e" "m"i"s"t"a"k"e"s" "a"r"e" "m"a"d"e" "d"u"e" "t"o" "t"h"e" "r"i"g"h"t" "p"e"o"p"l"e" "n"o"t" "b"e"i"n"g" "e"n"g"a"g"e"d".""
+"-" "P"r"o"j"e"c"t" "a"n"d" "o"t"h"e"r" "t"e"a"m"s" "a"r"e" "s"l"o"w" "t"o" "f"o"r"m" "b"e"c"a"u"s"e" "f"i"n"d"i"n"g" "t"h"e" "r"i"g"h"t" "p"e"o"p"l"e" "t"a"k"e"s" "t"o"o" "l"o"n"g".""
+"-" "E"m"p"l"o"y"e"e"s" "m"a"y" "b"e"g"i"n" "t"o" "s"e"e" "t"h"e" "v"a"l"u"e" "i"n" "s"e"p"a"r"a"t"i"n"g" "c"o"m"m"u"n"i"c"a"t"i"o"n" "i"n"t"o" "d"i"f"f"e"r"e"n"t" "c"h"a"n"n"e"l"s" "w"h"e"r"e" "t"h"e" "c"o"m"m"u"n"i"t"i"e"s" "a"r"e" "m"o"r"e" "f"o"c"u"s"e"d" "o"n" "s"p"e"c"i"f"i"c" "t"a"s"k"s" "a"n"d" "t"o"p"i"c"s"." "E"m"a"i"l" "c"o"m"m"u"n"i"c"a"t"i"o"n" "d"i"m"i"n"i"s"h"e"s" "a"s" "i"n"n"e"r" "l"o"o"p" "a"n"d" "o"u"t"e"r" "l"o"o"p" "c"o"n"v"e"r"s"a"t"i"o"n"s" "m"o"v"e" "t"o" "d"i"f"f"e"r"e"n"t" "a"n"d" "m"o"r"e" "t"a"r"g"e"t"e"d" "s"o"l"u"t"i"o"n"s"," "t"h"o"u"g"h" "t"h"e" "w"a"y" "d"i"f"f"e"r"e"n"t" "c"o"m"m"u"n"i"t"i"e"s" "c"o"m"m"u"n"i"c"a"t"e" "s"t"i"l"l" "v"a"r"i"e"s" "w"i"d"e"l"y" "b"y" "f"u"n"c"t"i"o"n"a"l" "a"r"e"a".""
+"-" "S"t"a"f"f" "r"e"t"e"n"t"i"o"n" "l"e"v"e"l"s" "a"r"e" "i"n"c"r"e"a"s"e"d" "o"v"e"r" "l"e"v"e"l" "1"0"0" "a"s" "p"e"o"p"l"e" "f"e"e"l" "m"o"r"e" "c"o"n"n"e"c"t"e"d" "w"i"t"h" "o"n"e" "a"n"o"t"h"e"r" "a"n"d" "t"h"e" "o"r"g"a"n"i"s"a"t"i"o"n".""
+""
+"#"#"#" "L"e"v"e"l" "3"0"0" "-" "D"e"f"i"n"e"d""
+""
+"T"h"i"s" "i"s" "w"h"e"r"e" "t"h"i"n"g"s" "s"t"a"r"t" "t"o" "c"l"i"c"k"." "*"*"["D"e"f"i"n"e"d" "l"e"v"e"l"]"("m"i"c"r"o"s"o"f"t"3"6"5"-"m"a"t"u"r"i"t"y"-"m"o"d"e"l"-"-"i"n"t"r"o"."m"d"#"l"e"v"e"l"-"3"0"0"-"-"-"d"e"f"i"n"e"d")"*"*" "c"h"a"r"a"c"t"e"r"i"s"t"i"c"s" "i"n"c"l"u"d"e":""
+""
+"#"#"#"#" "3"0"0" "U"s"e"r" "E"x"p"e"r"i"e"n"c"e""
+""
+"-" "P"e"o"p"l"e" "p"r"o"f"i"l"e"s" "h"a"v"e" "a"d"d"i"t"i"o"n"a"l" "i"n"f"o"r"m"a"t"i"o"n" "p"o"p"u"l"a"t"e"d" "f"o"r" "s"k"i"l"l"s"," "e"x"p"e"r"t"i"s"e"," "a"n"d" "p"a"s"t" "p"r"o"j"e"c"t"s"," "m"a"k"i"n"g" "i"t" "e"a"s"i"e"r" "t"o" "f"i"n"d" "s"u"b"j"e"c"t" "m"a"t"t"e"r" "e"x"p"e"r"t"s".""
+"-" "P"e"o"p"l"e" "b"e"g"i"n" "u"s"i"n"g" "s"e"a"r"c"h" "t"o" "i"d"e"n"t"i"f"y" "e"x"p"e"r"t"s" "i"n"s"t"e"a"d" "o"f" "e"m"a"i"l"i"n"g" "m"u"l"t"i"p"l"e" "p"e"o"p"l"e" "a"c"r"o"s"s" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n".""
+"-" "T"e"a"m" "c"o"m"m"u"n"i"c"a"t"i"o"n" "c"h"a"n"n"e"l"s" "a"r"e" "w"e"l"l" "d"e"f"i"n"e"d" "a"n"d" "a"g"r"e"e"d" "u"p"o"n" "a"s" "a" "s"t"a"n"d"a"r"d" "b"u"s"i"n"e"s"s" "p"r"o"c"e"s"s".""
+"-" "C"o"m"m"u"n"i"t"y" "s"p"a"c"e"s" "c"o"n"n"e"c"t" "a" "t"a"r"g"e"t"e"d" "s"e"t" "o"f" "u"s"e"r"s" "w"i"t"h" "c"l"e"a"r" "p"u"r"p"o"s"e" "a"n"d" "e"t"i"q"u"e"t"t"e".""
+""
+"#"#"#"#" "3"0"0" "C"u"l"t"u"r"e""
+""
+"-" "C"o"m"m"o"n"a"l"i"t"y" "a"c"r"o"s"s" "t"e"a"m"s" "s"t"a"r"t"s" "t"o" "d"r"i"v"e" "w"h"e"r"e" "c"o"m"m"u"n"i"t"i"e"s" "a"r"e" "c"r"e"a"t"e"d" "a"n"d" "s"e"t" "u"p"." "M"i"c"r"o"s"o"f"t" "T"e"a"m"s" "o"r" "V"i"v"a" "E"n"g"a"g"e" "C"o"m"m"u"n"i"t"i"e"s" "a"r"e" "c"r"e"a"t"e"d" "b"a"s"e"d" "o"n" "t"h"e" "t"y"p"e" "o"f" "w"o"r"k" "p"e"o"p"l"e" "a"r"e" "d"o"i"n"g" "r"a"t"h"e"r" "t"h"a"n" "a" "o"n"e"-"s"i"z"e"-"f"i"t"s"-"a"l"l" "a"p"p"r"o"a"c"h".""
+"-" "T"e"a"m" "c"o"m"m"u"n"i"c"a"t"i"o"n" "c"h"a"n"n"e"l"s" "a"r"e" "w"e"l"l" "d"e"f"i"n"e"d" "a"n"d" "a"g"r"e"e"d" "u"p"o"n" "a"s" "a" "s"t"a"n"d"a"r"d" "b"u"s"i"n"e"s"s" "p"r"o"c"e"s"s".""
+"-" "C"o"m"m"u"n"i"t"y" "s"p"a"c"e"s" "c"o"n"n"e"c"t" "a" "t"a"r"g"e"t"e"d" "s"e"t" "o"f" "u"s"e"r"s"." "T"h"e" "p"u"r"p"o"s"e" "a"n"d" "e"t"i"q"u"e"t"t"e" "o"f" "c"o"m"m"u"n"i"t"y" "s"p"a"c"e"s" "i"s" "d"e"f"i"n"e"d".""
+"-" "E"n"d" "u"s"e"r"s" "s"h"a"r"e" "t"h"e"i"r" "k"n"o"w"l"e"d"g"e" "a"n"d" "e"x"p"e"r"t"i"s"e" "w"i"t"h"i"n" "t"h"e" "c"o"m"m"u"n"i"t"i"e"s" "a"n"d" "t"h"i"s" "f"o"s"t"e"r"s" "a" "c"u"l"t"u"r"e" "o"f" "s"u"p"p"o"r"t" "a"n"d" "s"t"r"o"n"g"e"r" "c"o"n"n"e"c"t"i"o"n"s".""
+""
+"#"#"#"#" "3"0"0" "P"r"o"c"e"s"s""
+""
+"#"#"#"#"#" "3"0"0" "P"r"o"f"i"l"e" "M"a"n"a"g"e"m"e"n"t""
+""
+"-" "P"r"o"c"e"s"s"e"s" "e"x"i"s"t" "t"o" "c"r"e"a"t"e" "a"n"d" "p"o"p"u"l"a"t"e" "s"t"a"f"f" "p"r"o"f"i"l"e"s" "i"n" "a"p"p"r"o"p"r"i"a"t"e" "s"y"s"t"e"m"s" "i"n" "r"e"s"p"o"n"s"e" "t"o" "t"r"i"g"g"e"r" "e"v"e"n"t"s" "("n"e"w" "s"t"a"r"t"e"r"," "r"o"l"e" "c"h"a"n"g"e"," "l"e"a"v"e"r")"." "C"o"m"p"l"i"a"n"c"e" "w"i"t"h" "m"a"i"n"t"a"i"n"i"n"g" "p"r"o"f"i"l"e"s" "i"s" "a" "m"a"t"t"e"r" "f"o"r" "l"i"n"e" "m"a"n"a"g"e"m"e"n"t".""
+"-" "S"t"a"f"f" "h"a"v"e" "t"h"e" "a"b"i"l"i"t"y" "t"o" "u"p"d"a"t"e" "e"l"e"m"e"n"t"s" "o"f" "t"h"e"i"r" "p"r"o"f"i"l"e" "a"n"d" "r"e"q"u"e"s"t" "u"p"d"a"t"e"s" "t"o" "o"t"h"e"r" "a"t"t"r"i"b"u"t"e"s".""
+"-" "P"e"o"p"l"e" "p"r"o"f"i"l"e"s" "h"a"v"e" "a"d"d"i"t"i"o"n"a"l" "i"n"f"o"r"m"a"t"i"o"n" "p"o"p"u"l"a"t"e"d" "f"o"r" "s"k"i"l"l"s"," "e"x"p"e"r"t"i"s"e"," "a"n"d" "p"a"s"t" "p"r"o"j"e"c"t"s" "w"h"i"c"h" "c"a"n" "b"e" "m"a"i"n"t"a"i"n"e"d" "b"y" "e"a"c"h" "i"n"d"i"v"i"d"u"a"l".""
+"-" "C"u"s"t"o"m" "p"r"o"f"i"l"e" "f"i"e"l"d"s" "s"u"p"p"o"r"t" "s"u"b"j"e"c"t" "m"a"t"t"e"r" "e"x"p"e"r"t"i"s"e" "i"d"e"n"t"i"f"i"c"a"t"i"o"n" "a"n"d" "o"t"h"e"r" "a"t"t"r"i"b"u"t"e"s" "i"m"p"o"r"t"a"n"t" "t"o" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n".""
+"-" "P"h"o"t"o"s" "a"r"e" "u"p"d"a"t"e"d" "f"r"o"m" "a" "c"e"n"t"r"a"l" "s"o"u"r"c"e".""
+"-" "P"r"o"f"i"l"e" "i"n"f"o"r"m"a"t"i"o"n" "i"s" "s"o"m"e"t"i"m"e"s" "u"s"e"d" "a"s" "a" "d"a"t"a" "s"o"u"r"c"e" "a"n"d" "i"n"t"e"g"r"a"t"e"d" "w"i"t"h"i"n" "s"y"s"t"e"m"s" "a"n"d" "p"r"o"c"e"s"s"e"s"." "I"t" "b"e"c"o"m"e"s" "p"o"s"s"i"b"l"e" "t"o" "a"u"t"o"m"a"t"e" "o"r"g"a"n"i"z"a"t"i"o"n" "c"h"a"r"t"s";" "a"t"t"e"m"p"t"s" "a"r"e" "m"a"d"e" "t"o" "r"e"s"o"l"v"e" "t"h"e" "i"n"c"o"n"s"i"s"t"e"n"c"i"e"s" "t"h"i"s" "r"e"v"e"a"l"s".""
+"-" "L"o"c"a"l" "d"i"r"e"c"t"o"r"i"e"s" "a"r"e" "i"n" "t"h"e" "p"r"o"c"e"s"s" "o"f" "b"e"i"n"g" "e"l"i"m"i"n"a"t"e"d".""
+""
+"#"#"#"#"#" "3"0"0" "C"o"m"m"u"n"i"t"i"e"s" "&" "G"r"o"u"p"s""
+""
+"-" "C"o"m"m"o"n"a"l"i"t"y" "a"c"r"o"s"s" "t"e"a"m"s" "s"t"a"r"t"s" "t"o" "d"r"i"v"e" "w"h"e"r"e" "c"o"m"m"u"n"i"t"i"e"s" "a"r"e" "c"r"e"a"t"e"d" "a"n"d" "s"e"t" "u"p"." "M"i"c"r"o"s"o"f"t" "T"e"a"m"s" "o"r" "V"i"v"a" "E"n"g"a"g"e" "C"o"m"m"u"n"i"t"i"e"s" "a"r"e" "c"r"e"a"t"e"d" "b"a"s"e"d" "o"n" "t"h"e" "t"y"p"e" "o"f" "w"o"r"k" "p"e"o"p"l"e" "a"r"e" "d"o"i"n"g" "r"a"t"h"e"r" "t"h"a"n" "a" "o"n"e"-"s"i"z"e"-"f"i"t"s"-"a"l"l" "a"p"p"r"o"a"c"h".""
+"-" "C"o"m"m"u"n"i"t"y" "s"p"a"c"e"s" "c"o"n"n"e"c"t" "a" "t"a"r"g"e"t"e"d" "s"e"t" "o"f" "u"s"e"r"s"." "T"h"e" "p"u"r"p"o"s"e" "a"n"d" "e"t"i"q"u"e"t"t"e" "o"f" "c"o"m"m"u"n"i"t"y" "s"p"a"c"e"s" "i"s" "d"e"f"i"n"e"d".""
+"-" "S"t"a"f"f" "k"n"o"w" "h"o"w" "t"o" "i"d"e"n"t"i"f"y" "g"r"o"u"p"s"," "d"i"s"t"r"i"b"u"t"i"o"n" "l"i"s"t"s" "a"n"d" "o"t"h"e"r" "g"r"o"u"p"i"n"g"s" "f"o"r" "c"o"m"m"u"n"i"c"a"t"i"o"n" "a"n"d" "e"n"g"a"g"e"m"e"n"t".""
+"-" "P"r"o"c"e"s"s"e"s" "m"a"y" "n"o"t" "b"e" "s"y"s"t"e"m"i"c"a"l"l"y" "o"r" "r"e"p"e"a"t"e"d"l"y" "u"s"e"d" "t"o" "t"h"e" "e"x"t"e"n"t" "n"e"e"d"e"d" "f"o"r" "t"h"e"i"r" "u"s"e"r"s" "t"o" "b"e"c"o"m"e" "f"u"l"l"y" "c"o"m"p"e"t"e"n"t" "i"n" "w"h"i"c"h" "c"o"m"m"u"n"i"t"y" "t"h"e"y" "s"h"o"u"l"d" "s"h"a"r"e" "i"n"f"o"r"m"a"t"i"o"n"," "f"o"r"m"i"n"g" "g"a"p"s" "i"n" "a"d"o"p"t"i"o"n" "a"n"d" "c"o"n"s"i"s"t"e"n"c"y".""
+""
+"#"#"#"#"#" "3"0"0" "E"x"p"e"r"t"i"s"e" "D"i"s"c"o"v"e"r"y""
+""
+"-" "P"e"o"p"l"e" "b"e"g"i"n" "u"s"i"n"g" "s"e"a"r"c"h" "t"o" "i"d"e"n"t"i"f"y" "s"u"b"j"e"c"t" "m"a"t"t"e"r" "e"x"p"e"r"t"s" "i"n" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n" "i"n"s"t"e"a"d" "o"f" "e"m"a"i"l"i"n"g" "m"u"l"t"i"p"l"e" "p"e"o"p"l"e" "a"c"r"o"s"s" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n" "b"e"c"a"u"s"e" "t"h"e"y" "c"a"n" "f"i"n"d" "b"e"t"t"e"r" "r"e"s"u"l"t"s" "w"i"t"h" "p"e"o"p"l"e" "p"r"o"f"i"l"e"s".""
+""
+"#"#"#"#" "3"0"0" "I"m"p"a"c"t"s""
+""
+"A"t" "t"h"i"s" "l"e"v"e"l" "y"o"u" "c"a"n" "e"x"p"e"c"t" "t"h"e" "f"o"l"l"o"w"i"n"g":""
+""
+"-" "E"n"d" "u"s"e"r"s" "b"e"g"i"n" "t"o" "s"e"e" "t"h"e" "R"O"I" "f"o"r" "c"o"m"p"l"e"t"i"n"g" "t"h"e"i"r" "p"r"o"f"i"l"e"s" "a"s" "t"h"e"y" "c"a"n" "m"o"r"e" "e"a"s"i"l"y" "i"d"e"n"t"i"f"y" "w"h"o"-"d"o"e"s"-"w"h"a"t" "a"c"r"o"s"s" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n".""
+"-" "W"o"r"k"i"n"g" "t"e"a"m"s" "a"n"d" "e"m"p"l"o"y"e"e" "i"n"t"e"r"e"s"t" "g"r"o"u"p"s" "e"x"p"e"r"i"e"n"c"e" "a"n" "i"n"c"r"e"a"s"e" "i"n" "e"n"g"a"g"e"m"e"n"t" "a"n"d" "p"r"o"d"u"c"t"i"v"i"t"y" "a"s" "t"h"e"y" "c"o"n"n"e"c"t" "i"n" "c"o"m"m"u"n"i"c"a"t"i"o"n" "c"h"a"n"n"e"l"s" "s"p"e"c"i"f"i"c" "t"o" "t"h"e"i"r" "g"o"a"l"s".""
+"-" "I"n" "o"r"d"e"r" "t"o" "s"o"l"v"e" "p"r"o"b"l"e"m"s" "i"n" "d"a"i"l"y" "w"o"r"k"," "e"m"p"l"o"y"e"e"s" "f"r"e"q"u"e"n"t"l"y" "r"e"a"c"h" "a"c"r"o"s"s" "o"r"g"a"n"i"z"a"t"i"o"n"a"l" "b"o"u"n"d"a"r"i"e"s" "b"a"s"e"d" "o"n" "c"o"n"t"e"n"t" "o"w"n"e"r"s"h"i"p" "a"n"d" "s"u"b"j"e"c"t" "m"a"t"t"e"r" "e"x"p"e"r"t"i"s"e" "t"h"e"y" "r"e"c"o"g"n"i"z"e" "a"s" "u"s"e"f"u"l".""
+"-" "S"t"a"f"f" "r"e"t"e"n"t"i"o"n" "l"e"v"e"l"s" "i"n"c"r"e"a"s"e" "a"s" "t"h"e" "s"e"n"s"e" "o"f" "p"u"r"p"o"s"e" "a"n"d" "b"e"l"o"n"g"i"n"g" "i"s" "s"t"r"o"n"g"e"r" "b"e"t"w"e"e"n" "t"h"e" "u"s"e"r"s"," "o"r"g"a"n"i"s"a"t"i"o"n" "a"n"d" "o"n"e" "a"n"o"t"h"e"r"." "P"e"o"p"l"e" "f"e"e"l" "l"i"k"e" "t"h"e"y" "a"r"e" "v"a"l"u"e"d" "a"n"d" "t"h"i"s" "h"e"l"p"s" "t"h"e"m" "s"t"a"y" "c"o"n"n"e"c"t"e"d" "a"n"d" "c"o"n"t"i"n"u"e" "t"o" "s"u"p"p"o"r"t" "t"h"e"i"r" "c"o"l"l"e"a"g"u"e"s".""
+""
+"#"#"#" "L"e"v"e"l" "4"0"0" "-" "P"r"e"d"i"c"t"a"b"l"e""
+""
+"*"*"["P"r"e"d"i"c"t"a"b"l"e" "l"e"v"e"l"]"("m"i"c"r"o"s"o"f"t"3"6"5"-"m"a"t"u"r"i"t"y"-"m"o"d"e"l"-"-"i"n"t"r"o"."m"d"#"l"e"v"e"l"-"4"0"0"-"-"-"p"r"e"d"i"c"t"a"b"l"e")"*"*" "c"h"a"r"a"c"t"e"r"i"s"t"i"c"s" "i"n"c"l"u"d"e":""
+""
+"#"#"#"#" "4"0"0" "U"s"e"r" "E"x"p"e"r"i"e"n"c"e""
+""
+"-" "U"s"e"r"s" "r"e"l"y" "o"n" "d"i"f"f"e"r"e"n"t" "c"o"m"m"u"n"i"c"a"t"i"o"n" "c"h"a"n"n"e"l"s" "t"o" "s"t"a"y" "i"n"f"o"r"m"e"d" "f"o"r" "t"h"e"i"r" "d"a"y"-"t"o"-"d"a"y" "w"o"r"k" "a"s" "w"e"l"l" "a"s" "f"o"r" "s"p"e"c"i"a"l" "i"n"t"e"r"e"s"t" "a"r"e"a"s" "t"h"a"t" "c"o"n"t"r"i"b"u"t"e" "t"o" "c"o"m"p"a"n"y" "c"u"l"t"u"r"e".""
+"-" "C"o"m"m"u"n"i"t"i"e"s" "a"n"d" "t"h"e"i"r" "m"e"m"b"e"r"s" "a"r"e" "e"a"s"i"l"y" "d"i"s"c"o"v"e"r"a"b"l"e" "t"h"r"o"u"g"h" "s"e"a"r"c"h"." "E"n"d" "u"s"e"r"s" "b"e"g"i"n" "f"o"l"l"o"w"i"n"g" "t"h"e" "g"r"o"u"p"s" "a"n"d" "c"o"m"m"u"n"i"t"i"e"s" "w"h"i"c"h" "m"a"t"c"h" "t"h"e"i"r" "i"n"t"e"r"e"s"t"s"," "e"v"e"n" "i"f" "n"o"t" "d"i"r"e"c"t"l"y" "a"l"i"g"n"e"d" "w"i"t"h" "t"h"e"i"r" "w"o"r"k".""
+"-" "D"y"n"a"m"i"c" "o"r"g"a"n"i"z"a"t"i"o"n" "c"h"a"r"t"s" "a"r"e" "a"v"a"i"l"a"b"l"e" "b"a"s"e"d" "o"n" "u"p"-"t"o"-"d"a"t"e" "d"a"t"a" "a"b"o"u"t" "e"a"c"h" "e"m"p"l"o"y"e"e"," "e"l"i"m"i"n"a"t"i"n"g" "t"h"e" "n"e"e"d" "f"o"r" "m"a"n"u"a"l"l"y" "c"r"e"a"t"e"d" "c"h"a"r"t"s".""
+"-" "C"o"m"m"u"n"i"c"a"t"i"o"n" "i"n" "s"e"p"a"r"a"t"e" "c"o"m"m"u"n"i"t"i"e"s" "i"s" "f"l"u"i"d" "a"n"d" "l"a"r"g"e"l"y" "f"r"i"c"t"i"o"n"l"e"s"s"," "a"l"l"o"w"i"n"g" "e"a"s"y" "a"c"c"e"s"s" "t"o" "i"n"n"e"r" "l"o"o"p"s" "a"n"d" "o"u"t"e"r" "l"o"o"p"s" "w"h"e"n" "u"s"e"f"u"l".""
+""
+"#"#"#"#" "4"0"0" "C"u"l"t"u"r"e""
+""
+"-" "A" "s"t"r"a"t"e"g"i"c" "v"i"e"w" "o"f" "a"l"l" "c"o"m"m"u"n"i"c"a"t"i"o"n" "c"h"a"n"n"e"l"s" "i"n"c"l"u"d"i"n"g" "e"m"a"i"l"," "V"i"v"a" "E"n"g"a"g"e" "C"o"m"m"u"n"i"t"i"e"s"," "T"e"a"m"s" "("b"a"c"k"e"d" "b"y" "M"i"c"r"o"s"o"f"t" "3"6"5" "G"r"o"u"p"s")"," "d"i"s"t"r"i"b"u"t"i"o"n" "l"i"s"t"s"," "a"n"d" "s"e"c"u"r"i"t"y" "g"r"o"u"p"s" "i"n"c"r"e"a"s"e"s" "e"n"g"a"g"e"m"e"n"t" "i"n" "t"h"e" "r"e"s"p"e"c"t"i"v"e" "c"o"m"m"u"n"i"t"i"e"s"." "T"h"e"s"e" "o"p"p"o"r"t"u"n"i"t"i"e"s" "l"e"a"d" "t"o" "s"e"r"e"n"d"i"p"i"t"o"u"s" "c"o"n"n"e"c"t"i"o"n"s" "b"e"t"w"e"e"n" "p"e"o"p"l"e" "w"h"o" "m"i"g"h"t" "n"o"t" "h"a"v"e" "p"r"e"v"i"o"u"s"l"y" "c"o"l"l"a"b"o"r"a"t"e"d".""
+"-" "C"o"m"m"u"n"i"t"i"e"s" "f"l"o"u"r"i"s"h" "u"n"d"e"r" "g"o"v"e"r"n"a"n"c"e".""
+"-" "C"o"m"m"u"n"i"t"i"e"s" "a"n"d" "t"h"e"i"r" "m"e"m"b"e"r"s" "a"r"e" "e"a"s"i"l"y" "d"i"s"c"o"v"e"r"a"b"l"e" "t"h"r"o"u"g"h" "s"e"a"r"c"h"." "E"n"d" "u"s"e"r"s" "b"e"g"i"n" "f"o"l"l"o"w"i"n"g" "t"h"e" "g"r"o"u"p"s" "a"n"d" "c"o"m"m"u"n"i"t"i"e"s" "w"h"i"c"h" "m"a"t"c"h" "t"h"e"i"r" "i"n"t"e"r"e"s"t"s"," "e"v"e"n" "i"f" "n"o"t" "d"i"r"e"c"t"l"y" "a"l"i"g"n"e"d" "w"i"t"h" "t"h"e"i"r" "w"o"r"k".""
+""
+"#"#"#"#" "4"0"0" "P"r"o"c"e"s"s""
+""
+"#"#"#"#"#" "4"0"0" "P"r"o"f"i"l"e" "M"a"n"a"g"e"m"e"n"t""
+""
+"-" "P"r"o"f"i"l"e" "f"i"e"l"d"s" "m"a"y" "i"n"t"e"g"r"a"t"e" "w"i"t"h" "L"i"n"e" "o"f" "B"u"s"i"n"e"s"s" "d"a"t"a".""
+"-" "S"t"a"f"f" "p"h"o"t"o"s" "a"r"e" "u"p"d"a"t"e"d" "a"c"r"o"s"s" "m"u"l"t"i"p"l"e" "s"y"s"t"e"m"s" "a"n"d" "p"r"o"f"i"l"e"s" "f"r"o"m" "d"e"f"i"n"i"t"i"v"e"," "m"a"n"a"g"e"d" "s"o"u"r"c"e"." "P"h"o"t"o"g"r"a"p"h"y" "s"t"y"l"e" "i"s" "d"e"f"i"n"e"d".""
+"-" "✨" "*"*"H"R" "i"s" "t"h"e" "m"a"s"t"e"r" "f"o"r" "p"e"r"s"o"n"n"e"l" "d"a"t"a"*"*":" "H"R" "s"y"s"t"e"m"s" "("I"d"e"n"t"i"t"y" "a"n"d" "A"c"c"e"s"s" "M"a"n"a"g"e"m"e"n"t"/"I"A"M" "s"y"s"t"e"m"s")" "s"e"r"v"e" "a"s" "t"h"e" "s"i"n"g"l"e" "s"o"u"r"c"e" "o"f" "t"r"u"t"h" "f"o"r" "e"m"p"l"o"y"e"e" "i"n"f"o"r"m"a"t"i"o"n"." "T"h"i"s" "d"a"t"a" "a"u"t"o"m"a"t"i"c"a"l"l"y" "s"y"n"c"h"r"o"n"i"z"e"s" "t"o" "M"i"c"r"o"s"o"f"t" "3"6"5"," "e"n"s"u"r"i"n"g" "c"o"n"s"i"s"t"e"n"c"y" "a"c"r"o"s"s" "a"l"l" "s"y"s"t"e"m"s"." "H"R" "o"w"n"s" "t"h"e" "p"r"o"f"i"l"e" "s"t"r"u"c"t"u"r"e" "a"n"d" "e"n"s"u"r"e"s" "d"a"t"a" "q"u"a"l"i"t"y".""
+""
+"#"#"#"#"#" "4"0"0" "C"o"m"m"u"n"i"t"i"e"s" "&" "G"r"o"u"p"s""
+""
+"-" "T"h"e"r"e" "i"s" "a"n" "i"n"c"r"e"a"s"e"d" "f"o"c"u"s" "o"n" "s"e"l"f"-"s"e"r"v"i"c"e" "f"o"r" "e"n"d" "u"s"e"r"s" "t"o" "a"p"p"l"y" "s"o"l"u"t"i"o"n"s" "a"n"d" "t"e"c"h"n"o"l"o"g"i"e"s" "t"o" "t"h"e"i"r" "w"o"r"k" "s"o" "t"h"e"y" "c"a"n" "m"a"n"a"g"e" "t"h"e"i"r" "o"w"n" "m"e"m"b"e"r"s"h"i"p".""
+"-" "✨" "*"*"C"o"m"m"u"n"i"c"a"t"i"o"n"s" "d"e"p"a"r"t"m"e"n"t" "o"w"n"s" "c"h"a"n"n"e"l" "s"t"r"a"t"e"g"y"*"*":" "T"h"e" "C"o"m"m"u"n"i"c"a"t"i"o"n"s" "d"e"p"a"r"t"m"e"n"t" "i"s" "r"e"s"p"o"n"s"i"b"l"e" "f"o"r" "b"u"i"l"d"i"n"g" "a"n"d" "m"a"n"a"g"i"n"g" "V"i"v"a" "E"n"g"a"g"e" "c"o"m"m"u"n"i"t"i"e"s"," "d"e"f"i"n"i"n"g" "c"h"a"n"n"e"l" "s"t"r"a"t"e"g"y" "f"o"r" "m"a"s"s" "e"m"a"i"l"s"," "m"a"i"n"t"a"i"n"i"n"g" "l"i"v"i"n"g" "c"o"m"m"u"n"i"t"i"e"s"," "m"a"n"a"g"i"n"g" "l"e"a"d"e"r"s"h"i"p" "c"o"r"n"e"r"," "a"n"d" "c"o"a"c"h"i"n"g" "m"a"n"a"g"e"r"s" "o"n" "e"f"f"e"c"t"i"v"e" "c"o"m"m"u"n"i"c"a"t"i"o"n"." "T"h"e"y" "e"n"s"u"r"e" "t"h"e" "r"i"g"h"t" "m"e"s"s"a"g"e" "r"e"a"c"h"e"s" "t"h"e" "r"i"g"h"t" "a"u"d"i"e"n"c"e" "t"h"r"o"u"g"h" "t"h"e" "r"i"g"h"t" "c"h"a"n"n"e"l".""
+"-" "✨" "*"*"H"R" "o"w"n"s" "d"y"n"a"m"i"c" "g"r"o"u"p"s"*"*":" "H"R" "c"r"e"a"t"e"s" "a"n"d" "m"a"i"n"t"a"i"n"s" "d"y"n"a"m"i"c" "g"r"o"u"p"s" "b"a"s"e"d" "o"n" "p"r"o"f"i"l"e" "a"t"t"r"i"b"u"t"e"s" "("d"e"p"a"r"t"m"e"n"t"," "l"o"c"a"t"i"o"n"," "r"o"l"e"," "e"t"c".")" "f"o"r" "t"a"r"g"e"t"e"d" "m"e"s"s"a"g"i"n"g" "a"n"d" "a"c"c"e"s"s" "c"o"n"t"r"o"l"." "T"h"i"s" "e"n"a"b"l"e"s" "a"u"t"o"m"a"t"e"d"," "a"c"c"u"r"a"t"e" "g"r"o"u"p" "m"e"m"b"e"r"s"h"i"p" "w"i"t"h"o"u"t" "m"a"n"u"a"l" "m"a"i"n"t"e"n"a"n"c"e".""
+"-" "M"a"n"u"a"l"l"y" "m"a"i"n"t"a"i"n"e"d" "d"i"s"t"r"i"b"u"t"i"o"n" "l"i"s"t"s" "a"r"e" "u"n"c"o"m"m"o"n"," "h"a"v"i"n"g" "b"e"e"n" "r"e"p"l"a"c"e"d" "b"y" "d"y"n"a"m"i"c" "d"i"s"t"r"i"b"u"t"i"o"n" "l"i"s"t"s" "a"n"d" "g"r"o"u"p"s"," "b"a"s"e"d" "u"p"o"n" "e"m"p"l"o"y"e"e" "c"h"a"r"a"c"t"e"r"i"s"t"i"c"s" "f"o"r" "a"l"l" "c"o"m"p"a"n"y" "c"o"m"m"u"n"i"c"a"t"i"o"n"," "M"i"c"r"o"s"o"f"t" "3"6"5" "G"r"o"u"p"s" "f"o"r" "t"e"a"m"w"o"r"k" "c"o"n"v"e"r"s"a"t"i"o"n"s"," "a"n"d" "V"i"v"a" "E"n"g"a"g"e" "f"o"r" "c"o"m"p"a"n"y"-"w"i"d"e" "a"n"d" "c"u"l"t"u"r"a"l" "c"o"m"m"u"n"i"c"a"t"i"o"n".""
+""
+"#"#"#"#"#" "4"0"0" "E"x"p"e"r"t"i"s"e" "D"i"s"c"o"v"e"r"y""
+""
+"-" "T"o"o"l"i"n"g" "w"i"l"l" "i"n"d"i"r"e"c"t"l"y" "e"s"t"a"b"l"i"s"h" "w"h"o" "t"h"e" "s"u"b"j"e"c"t" "m"a"t"t"e"r" "e"x"p"e"r"t"s" "a"r"e" "b"a"s"e"d" "o"n" "t"h"e" "a"u"t"h"o"r"s" "o"f" "c"o"n"t"e"n"t".""
+"-" "S"t"a"f"f" "a"r"e" "e"n"c"o"u"r"a"g"e"d" "t"o" "a"s"k" "q"u"e"s"t"i"o"n"s" "w"i"t"h"i"n" "t"h"e" "c"o"m"m"u"n"i"t"i"e"s" "a"n"d" "a"n"s"w"e"r" "t"h"e" "q"u"e"s"t"i"o"n"s".""
+""
+"#"#"#"#" "4"0"0" "I"m"p"a"c"t"s""
+""
+"A"t" "t"h"i"s" "l"e"v"e"l" "y"o"u" "c"a"n" "e"x"p"e"c"t" "t"h"e" "f"o"l"l"o"w"i"n"g":""
+""
+"-" "U"s"e"r"s" "u"n"d"e"r"s"t"a"n"d" "a"n"d" "f"o"l"l"o"w" "g"o"v"e"r"n"a"n"c"e" "b"e"s"t" "p"r"a"c"t"i"c"e"s" "t"o" "s"h"a"r"e" "k"n"o"w"l"e"d"g"e" "i"n" "t"h"e"s"e" "s"e"p"a"r"a"t"e" "c"h"a"n"n"e"l"s"," "w"i"t"h" "a" "h"i"g"h" "d"e"g"r"e"e" "o"f" "t"r"u"s"t" "i"n" "t"h"e" "p"l"a"t"f"o"r"m" "g"e"t"t"i"n"g" "t"h"e"i"r" "m"e"s"s"a"g"e" "t"o" "t"h"e" "r"i"g"h"t" "p"e"o"p"l"e".""
+"-" "O"r"g"a"n"i"z"a"t"i"o"n" "c"h"a"r"t"s" "a"r"e" "n"o" "l"o"n"g"e"r" "m"a"n"u"a"l"l"y" "c"r"e"a"t"e"d" "a"s" "e"n"d" "u"s"e"r"s" "u"s"e" "t"h"e" "d"y"n"a"m"i"c" "o"r"g"a"n"i"z"a"t"i"o"n" "c"h"a"r"t" "i"n" "p"e"o"p"l"e" "c"a"r"d"s" "t"o" "i"d"e"n"t"i"f"y" "c"o"m"p"a"n"y" "s"t"r"u"c"t"u"r"e".""
+"-" "C"o"m"m"u"n"i"c"a"t"i"o"n" "i"n" "s"e"p"a"r"a"t"e" "c"o"m"m"u"n"i"t"i"e"s" "i"s" "f"l"u"i"d" "a"n"d" "l"a"r"g"e"l"y" "f"r"i"c"t"i"o"n"l"e"s"s"," "a"l"l"o"w"i"n"g" "e"a"s"y" "a"c"c"e"s"s" "t"o" "i"n"n"e"r" "l"o"o"p"s" "a"n"d" "o"u"t"e"r" "l"o"o"p"s" "w"h"e"n" "u"s"e"f"u"l".""
+"-" "S"t"a"f"f" "r"e"t"e"n"t"i"o"n" "l"e"v"e"l"s" "a"r"e" "f"u"r"t"h"e"r" "i"n"c"r"e"a"s"e"d" "a"s" "t"h"e" "f"e"e"l"i"n"g" "o"f" "b"e"l"o"n"g"i"n"g"," "p"u"r"p"o"s"e" "a"n"d" "v"a"l"u"e" "i"n"c"r"e"a"s"e"s"." "C"o"n"n"e"c"t"i"o"n"s" "a"n"d" "f"r"i"e"n"d"s"h"i"p"s" "o"c"c"u"r" "a"c"r"o"s"s" "o"f"f"i"c"e" "a"n"d" "t"e"a"m" "b"o"u"n"d"a"r"i"e"s".""
+"-" "T"h"e" "s"t"r"a"t"e"g"i"c" "v"i"e"w" "o"f" "a"l"l" "c"o"m"m"u"n"i"c"a"t"i"o"n" "c"h"a"n"n"e"l"s" "i"n"c"r"e"a"s"e"s" "e"n"g"a"g"e"m"e"n"t" "i"n" "t"h"e" "r"e"s"p"e"c"t"i"v"e" "c"o"m"m"u"n"i"t"i"e"s"," "l"e"a"d"i"n"g" "t"o" "s"e"r"e"n"d"i"p"i"t"o"u"s" "c"o"n"n"e"c"t"i"o"n"s" "b"e"t"w"e"e"n" "p"e"o"p"l"e" "w"h"o" "m"i"g"h"t" "n"o"t" "h"a"v"e" "p"r"e"v"i"o"u"s"l"y" "c"o"l"l"a"b"o"r"a"t"e"d".""
+""
+"#"#"#" "L"e"v"e"l" "5"0"0" "-" "O"p"t"i"m"i"z"i"n"g""
+""
+"T"h"i"s" "i"s" "w"h"e"r"e" "y"o"u" "w"a"n"t" "t"o" "b"e"." "*"*"["O"p"t"i"m"i"z"i"n"g" "l"e"v"e"l"]"("m"i"c"r"o"s"o"f"t"3"6"5"-"m"a"t"u"r"i"t"y"-"m"o"d"e"l"-"-"i"n"t"r"o"."m"d"#"l"e"v"e"l"-"5"0"0"-"-"-"o"p"t"i"m"i"z"i"n"g")"*"*" "c"h"a"r"a"c"t"e"r"i"s"t"i"c"s" "i"n"c"l"u"d"e":""
+""
+"#"#"#"#" "5"0"0" "U"s"e"r" "E"x"p"e"r"i"e"n"c"e""
+""
+"-" "P"e"o"p"l"e" "a"r"e" "c"o"n"n"e"c"t"e"d" "a"c"r"o"s"s" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n" "b"a"s"e"d" "o"n" "t"h"e"i"r" "s"k"i"l"l"s"," "i"n"t"e"r"e"s"t"s"," "a"n"d" "w"o"r"k"," "e"n"a"b"l"i"n"g" "i"n"n"o"v"a"t"i"v"e" "c"o"l"l"a"b"o"r"a"t"i"o"n"s" "w"i"t"h"o"u"t" "f"o"r"m"a"l" "s"t"r"u"c"t"u"r"e"s".""
+"-" "E"n"d" "u"s"e"r"s" "u"s"e" "p"e"o"p"l"e" "c"a"r"d"s" "t"o" "f"i"n"d" "m"o"r"e" "t"h"a"n" "j"u"s"t" "o"r"g"a"n"i"z"a"t"i"o"n" "s"t"r"u"c"t"u"r"e" "a"n"d" "e"x"p"a"n"d" "t"h"e" "u"s"a"g"e" "t"o" "s"e"e"i"n"g" "c"o"m"m"o"n" "d"o"c"u"m"e"n"t"s" "t"o" "s"p"u"r" "f"u"r"t"h"e"r" "c"o"l"l"a"b"o"r"a"t"i"o"n".""
+"-" "V"i"v"a" "I"n"s"i"g"h"t"s" "/" "M"y"A"n"a"l"y"t"i"c"s" "h"e"l"p"s" "i"n"f"o"r"m" "e"n"d" "u"s"e"r"s" "o"n" "h"o"w" "t"h"e"y" "a"r"e" "s"p"e"n"d"i"n"g" "t"h"e"i"r" "t"i"m"e" "w"o"r"k"i"n"g" "w"i"t"h" "d"i"f"f"e"r"e"n"t" "p"e"o"p"l"e" "a"n"d" "e"m"p"o"w"e"r"i"n"g" "t"h"e"m" "t"o" "k"e"e"p" "s"t"r"o"n"g"e"r" "c"o"n"n"e"c"t"i"o"n"s" "a"c"r"o"s"s" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n".""
+"-" "C"o"m"m"u"n"i"t"i"e"s" "a"n"d" "c"o"n"v"e"r"s"a"t"i"o"n"s" "e"x"t"e"n"d" "t"o" "e"x"t"e"r"n"a"l" "p"a"r"t"i"c"i"p"a"n"t"s" "w"h"e"n" "i"t" "m"a"k"e"s" "a" "p"r"o"c"e"s"s" "m"o"r"e" "e"f"f"e"c"t"i"v"e".""
+""
+"#"#"#"#" "5"0"0" "C"u"l"t"u"r"e""
+""
+"-" "P"e"o"p"l"e" "a"r"e" "c"o"n"n"e"c"t"e"d" "a"c"r"o"s"s" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n" "b"a"s"e"d" "o"n" "t"h"e"i"r" "s"k"i"l"l"s"," "i"n"t"e"r"e"s"t"s"," "a"n"d" "w"o"r"k".""
+"-" "I"n"n"o"v"a"t"i"v"e" "c"o"l"l"a"b"o"r"a"t"i"o"n"s" "a"r"i"s"e" "w"i"t"h"o"u"t" "f"o"r"m"a"l" "s"t"r"u"c"t"u"r"e"s".""
+"-" "C"o"m"m"u"n"i"t"i"e"s" "a"n"d" "c"o"n"v"e"r"s"a"t"i"o"n"s" "e"x"t"e"n"d" "t"o" "e"x"t"e"r"n"a"l" "p"a"r"t"i"c"i"p"a"n"t"s" "w"h"e"n" "i"t" "m"a"k"e"s" "a" "p"r"o"c"e"s"s" "m"o"r"e" "e"f"f"e"c"t"i"v"e".""
+"-" "E"m"p"l"o"y"e"e"s" "a"r"e" "f"i"n"d"i"n"g" "o"p"p"o"r"t"u"n"i"t"i"e"s" "t"o" "i"n"n"o"v"a"t"e" "w"i"t"h"i"n" "t"h"e" "c"o"m"p"a"n"y" "s"p"u"r"r"e"d" "b"y" "n"e"w" "c"o"n"n"e"c"t"i"o"n"s".""
+""
+"#"#"#"#" "5"0"0" "P"r"o"c"e"s"s""
+""
+"#"#"#"#"#" "5"0"0" "P"r"o"f"i"l"e" "M"a"n"a"g"e"m"e"n"t""
+""
+"-" "U"s"e"r"s" "c"a"n" "m"a"i"n"t"a"i"n" "i"m"p"o"r"t"a"n"t" "p"r"o"f"i"l"e" "d"a"t"a" "t"h"a"t" "w"r"i"t"e"s" "b"a"c"k" "t"o" "A"c"t"i"v"e" "D"i"r"e"c"t"o"r"y" "o"r" "H"u"m"a"n" "R"e"s"o"u"r"c"e"s" "I"n"f"o"r"m"a"t"i"o"n" "S"y"s"t"e"m"s"," "e"n"s"u"r"i"n"g" "b"i"d"i"r"e"c"t"i"o"n"a"l" "d"a"t"a" "f"l"o"w" "a"n"d" "c"o"n"s"i"s"t"e"n"c"y".""
+""
+"#"#"#"#"#" "5"0"0" "C"o"m"m"u"n"i"t"i"e"s" "&" "G"r"o"u"p"s""
+""
+"-" "C"o"m"m"u"n"i"t"i"e"s" "a"n"d" "c"o"n"v"e"r"s"a"t"i"o"n"s" "e"x"t"e"n"d" "t"o" "e"x"t"e"r"n"a"l" "p"a"r"t"i"c"i"p"a"n"t"s" "w"h"e"n" "i"t" "m"a"k"e"s" "a" "p"r"o"c"e"s"s" "m"o"r"e" "e"f"f"e"c"t"i"v"e"," "b"r"e"a"k"i"n"g" "d"o"w"n" "t"r"a"d"i"t"i"o"n"a"l" "o"r"g"a"n"i"z"a"t"i"o"n"a"l" "b"o"u"n"d"a"r"i"e"s".""
+""
+"#"#"#"#"#" "5"0"0" "E"x"p"e"r"t"i"s"e" "D"i"s"c"o"v"e"r"y""
+""
+"-" "E"n"d" "u"s"e"r"s" "u"s"e" "p"e"o"p"l"e" "c"a"r"d"s" "t"o" "f"i"n"d" "m"o"r"e" "t"h"a"n" "j"u"s"t" "o"r"g"a"n"i"z"a"t"i"o"n" "s"t"r"u"c"t"u"r"e" "a"n"d" "e"x"p"a"n"d" "t"h"e" "u"s"a"g"e" "t"o" "s"e"e"i"n"g" "c"o"m"m"o"n" "d"o"c"u"m"e"n"t"s" "t"o" "s"p"u"r" "f"u"r"t"h"e"r" "c"o"l"l"a"b"o"r"a"t"i"o"n".""
+"-" "V"i"v"a" "I"n"s"i"g"h"t"s" "/" "M"y"A"n"a"l"y"t"i"c"s" "h"e"l"p"s" "i"n"f"o"r"m" "e"n"d" "u"s"e"r"s" "o"n" "h"o"w" "t"h"e"y" "a"r"e" "s"p"e"n"d"i"n"g" "t"h"e"i"r" "t"i"m"e" "w"o"r"k"i"n"g" "w"i"t"h" "d"i"f"f"e"r"e"n"t" "p"e"o"p"l"e" "a"n"d" "e"m"p"o"w"e"r"i"n"g" "t"h"e"m" "t"o" "k"e"e"p" "s"t"r"o"n"g"e"r" "c"o"n"n"e"c"t"i"o"n"s" "a"c"r"o"s"s" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n".""
+""
+"#"#"#"#" "5"0"0" "I"m"p"a"c"t"s""
+""
+"A"t" "t"h"i"s" "l"e"v"e"l" "y"o"u" "c"a"n" "e"x"p"e"c"t" "t"h"e" "f"o"l"l"o"w"i"n"g":""
+""
+"-" "B"u"s"i"n"e"s"s" "l"e"a"d"e"r"s" "a"n"d" "p"l"a"t"f"o"r"m" "a"d"m"i"n"i"s"t"r"a"t"o"r"s" "i"m"p"l"e"m"e"n"t" "c"o"n"t"i"n"u"o"u"s" "i"m"p"r"o"v"e"m"e"n"t"s" "b"a"s"e"d" "o"n" "u"s"e"r" "a"c"t"i"v"i"t"i"e"s" "a"n"d" "f"e"e"d"b"a"c"k".""
+"-" "U"s"e"r"s" "a"r"e" "p"r"o"u"d" "o"f" "t"h"e" "c"o"m"m"u"n"i"t"i"e"s" "t"h"e"y" "h"a"v"e" "b"u"i"l"t" "a"n"d" "c"a"n" "s"h"o"w" "r"e"a"l" "R"O"I" "f"o"r" "i"n"c"r"e"a"s"e"d" "e"n"g"a"g"e"m"e"n"t" "o"v"e"r" "t"h"e" "w"a"y" "t"h"e"y" "p"r"e"v"i"o"u"s"l"y" "c"o"m"m"u"n"i"c"a"t"e"d".""
+"-" "S"e"n"i"o"r" "l"e"a"d"e"r"s"h"i"p" "i"s" "a"c"t"i"v"e"l"y" "e"n"g"a"g"e"d" "a"c"r"o"s"s" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n"," "w"a"l"k"i"n"g" "t"h"e" "w"a"l"k" "a"n"d" "t"a"l"k"i"n"g" "t"h"e" "t"a"l"k".""
+"-" "I"n"n"o"v"a"t"i"v"e" "c"o"l"l"a"b"o"r"a"t"i"o"n"s" "a"r"i"s"e" "w"i"t"h"o"u"t" "f"o"r"m"a"l" "s"t"r"u"c"t"u"r"e"s"," "a"n"d" "e"m"p"l"o"y"e"e"s" "a"r"e" "f"i"n"d"i"n"g" "o"p"p"o"r"t"u"n"i"t"i"e"s" "t"o" "i"n"n"o"v"a"t"e" "w"i"t"h"i"n" "t"h"e" "c"o"m"p"a"n"y" "s"p"u"r"r"e"d" "b"y" "n"e"w" "c"o"n"n"e"c"t"i"o"n"s".""
+""
+"#"#"#" "S"c"e"n"a"r"i"o"s""
+""
+"H"e"r"e"'"s" "w"h"a"t" "t"h"i"s" "l"o"o"k"s" "l"i"k"e" "i"n" "p"r"a"c"t"i"c"e":""
+""
+"-" "A"n" "e"m"p"l"o"y"e"e" "i"n"t"e"r"e"s"t" "g"r"o"u"p" "i"s" "f"o"r"m"i"n"g" "a"n"d" "n"e"e"d"s" "a" "p"l"a"c"e" "t"o" "s"h"a"r"e" "h"o"w" "t"o" "g"e"t" "i"n"v"o"l"v"e"d"." "A"t" "l"e"v"e"l" "3"0"0"+"," "t"h"e"y" "c"r"e"a"t"e" "a" "V"i"v"a" "E"n"g"a"g"e" "c"o"m"m"u"n"i"t"y" "w"i"t"h" "c"l"e"a"r" "p"u"r"p"o"s"e" "a"n"d" "g"u"i"d"e"l"i"n"e"s"," "m"a"k"i"n"g" "i"t" "d"i"s"c"o"v"e"r"a"b"l"e" "t"h"r"o"u"g"h" "s"e"a"r"c"h".""
+"-" "A"n" "e"m"p"l"o"y"e"e" "n"e"e"d"s" "t"o" "s"h"a"r"e" "a" "p"e"r"s"o"n"n"e"l" "c"h"a"n"g"e" "w"i"t"h" "t"h"e" "r"e"s"t" "o"f" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n"." "A"t" "l"e"v"e"l" "4"0"0"+"," "t"h"e" "C"o"m"m"u"n"i"c"a"t"i"o"n"s" "d"e"p"a"r"t"m"e"n"t" "u"s"e"s" "a" "d"y"n"a"m"i"c" "g"r"o"u"p" "b"a"s"e"d" "o"n" "H"R" "p"r"o"f"i"l"e" "a"t"t"r"i"b"u"t"e"s" "t"o" "e"n"s"u"r"e" "t"h"e" "r"i"g"h"t" "p"e"o"p"l"e" "r"e"c"e"i"v"e" "t"h"e" "m"e"s"s"a"g"e" "t"h"r"o"u"g"h" "t"h"e" "a"p"p"r"o"p"r"i"a"t"e" "c"h"a"n"n"e"l".""
+"-" "A" "p"r"o"j"e"c"t" "t"e"a"m" "h"a"s" "b"e"e"n" "s"e"t"u"p" "t"o" "i"n"v"e"s"t"i"g"a"t"e" "a" "n"e"w" "p"r"o"d"u"c"t" "a"n"d" "n"e"e"d"s" "a" "p"l"a"c"e" "t"o" "w"o"r"k" "t"o"g"e"t"h"e"r"," "p"l"a"n"," "a"n"d" "m"a"n"a"g"e" "t"h"e" "p"r"o"j"e"c"t"." "T"h"e"y" "c"r"e"a"t"e" "a" "M"i"c"r"o"s"o"f"t" "T"e"a"m"s" "w"o"r"k"s"p"a"c"e" "w"i"t"h" "c"l"e"a"r" "c"o"m"m"u"n"i"c"a"t"i"o"n" "g"u"i"d"e"l"i"n"e"s"," "k"n"o"w"i"n"g" "e"x"a"c"t"l"y" "w"h"i"c"h" "c"h"a"n"n"e"l" "t"o" "u"s"e" "f"o"r" "d"i"f"f"e"r"e"n"t" "t"y"p"e"s" "o"f" "c"o"n"v"e"r"s"a"t"i"o"n"s".""
+"-" "A" "n"e"w" "e"m"p"l"o"y"e"e" "r"e"a"c"h"e"s" "o"u"t" "t"o" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n" "f"o"r" "h"e"l"p" "u"n"d"e"r"s"t"a"n"d"i"n"g" "a" "t"e"c"h"n"o"l"o"g"y" "t"h"e" "c"o"m"p"a"n"y" "u"s"e"s"." "T"h"e"y" "u"s"e" "p"e"o"p"l"e" "s"e"a"r"c"h" "t"o" "f"i"n"d" "s"u"b"j"e"c"t" "m"a"t"t"e"r" "e"x"p"e"r"t"s" "b"a"s"e"d" "o"n" "p"r"o"f"i"l"e" "i"n"f"o"r"m"a"t"i"o"n"," "g"e"t"t"i"n"g" "a"n"s"w"e"r"s" "q"u"i"c"k"l"y" "w"i"t"h"o"u"t" "e"m"a"i"l"i"n"g" "t"h"e" "e"n"t"i"r"e" "c"o"m"p"a"n"y".""
+"-" "A" "m"a"n"a"g"e"r" "w"a"n"t"s" "t"o" "r"e"c"o"g"n"i"z"e" "a"n" "e"m"p"l"o"y"e"e" "o"r" "t"e"a"m" "f"o"r" "t"h"e"i"r" "h"a"r"d" "w"o"r"k"." "T"h"e"y" "p"o"s"t" "i"n" "t"h"e" "a"p"p"r"o"p"r"i"a"t"e" "c"o"m"m"u"n"i"t"y" "c"h"a"n"n"e"l" "w"h"e"r"e" "i"t" "w"i"l"l" "b"e" "s"e"e"n" "b"y" "t"h"e" "r"i"g"h"t" "a"u"d"i"e"n"c"e"," "f"o"s"t"e"r"i"n"g" "a" "c"u"l"t"u"r"e" "o"f" "a"p"p"r"e"c"i"a"t"i"o"n" "a"n"d" "c"o"n"n"e"c"t"i"o"n".""
+"-" "A" "m"a"r"k"e"t"i"n"g" "p"e"r"s"o"n" "i"s" "l"o"o"k"i"n"g" "f"o"r" "s"u"c"c"e"s"s" "s"t"o"r"i"e"s" "f"r"o"m" "t"h"e" "o"r"g"a"n"i"z"a"t"i"o"n"." "T"h"e"y" "s"e"a"r"c"h" "c"o"m"m"u"n"i"t"i"e"s" "a"n"d" "p"r"o"f"i"l"e"s" "t"o" "f"i"n"d" "r"e"l"e"v"a"n"t" "p"r"o"j"e"c"t"s" "a"n"d" "e"x"p"e"r"t"s"," "d"i"s"c"o"v"e"r"i"n"g" "c"o"n"n"e"c"t"i"o"n"s" "t"h"e"y" "d"i"d"n"'"t" "k"n"o"w" "e"x"i"s"t"e"d".""
+""
+"#"#"#" "C"o"s"t" "&" "B"e"n"e"f"i"t""
+""
+"L"e"t"'"s" "b"e" "h"o"n"e"s"t":" "b"u"i"l"d"i"n"g" "e"f"f"e"c"t"i"v"e" "P"e"o"p"l"e" "a"n"d" "C"o"m"m"u"n"i"t"i"e"s" "c"a"p"a"b"i"l"i"t"i"e"s" "r"e"q"u"i"r"e"s" "i"n"v"e"s"t"m"e"n"t" "i"n" "t"e"c"h"n"o"l"o"g"y"," "p"r"o"c"e"s"s"e"s"," "a"n"d" "m"o"s"t" "i"m"p"o"r"t"a"n"t"l"y"," "c"u"l"t"u"r"a"l" "c"h"a"n"g"e"." "B"u"t" "t"h"e" "r"e"t"u"r"n"s" "a"r"e" "s"i"g"n"i"f"i"c"a"n"t" "a"n"d" "o"f"t"e"n" "u"n"d"e"r"e"s"t"i"m"a"t"e"d".""
+""
+"A"n"e"c"d"o"t"e"s" "c"a"n" "b"e" "i"n"c"r"e"d"i"b"l"y" "i"m"p"o"r"t"a"n"t" "f"o"r" "d"e"m"o"n"s"t"r"a"t"i"n"g" "t"h"e" "b"e"n"e"f"i"t" "o"f" "i"n"v"e"s"t"m"e"n"t"s" "i"n" "e"x"p"a"n"d"i"n"g" "y"o"u"r" "P"e"o"p"l"e" "a"n"d" "C"o"m"m"u"n"i"t"i"e"s" "c"o"m"p"e"t"e"n"c"y"." "I"t" "i"s" "p"o"w"e"r"f"u"l" "w"h"e"n" "a" "t"e"a"m" "s"a"y"s" "t"h"e"y" "r"e"a"c"h"e"d" "a" "g"o"a"l" "f"a"s"t"e"r" "o"r" "b"e"t"t"e"r" "b"y" "c"e"n"t"r"a"l"i"z"i"n"g" "t"h"e"i"r" "c"o"m"m"u"n"i"c"a"t"i"o"n" "a"n"d" "i"d"e"n"t"i"f"y"i"n"g" "s"u"b"j"e"c"t" "m"a"t"t"e"r" "e"x"p"e"r"t"s" "e"a"r"l"y"." "A" "s"h"i"f"t" "i"n" "c"o"m"p"a"n"y" "c"u"l"t"u"r"e" "c"a"n" "b"e" "h"a"r"d" "t"o" "m"e"a"s"u"r"e"," "t"h"o"u"g"h" "c"a"p"t"u"r"i"n"g" "t"h"e" "a"n"e"c"d"o"t"e"s" "f"o"r" "h"o"w" "p"e"o"p"l"e" "f"e"e"l" "m"o"r"e" "i"n"v"o"l"v"e"d"," "i"n"f"o"r"m"e"d"," "a"n"d" "e"n"g"a"g"e"d" "w"i"l"l" "d"e"m"o"n"s"t"r"a"t"e" "v"a"l"u"e"." "S"t"o"r"i"e"s" "a"b"o"u"t" "h"o"w" "a"n" "i"n"n"o"v"a"t"i"o"n" "o"c"c"u"r"r"e"d" "o"r" "a"n" "i"n"s"i"g"h"t" "w"a"s" "g"a"i"n"e"d" "c"a"n" "b"e" "t"r"a"c"e"d" "b"a"c"k" "t"o" "s"p"e"c"i"f"i"c" "t"e"c"h"n"o"l"o"g"y" "i"n"v"e"s"t"m"e"n"t"s" "a"n"d" "s"u"p"p"o"r"t".""
+""
+"A" "m"a"j"o"r" "c"o"s"t" "b"e"n"e"f"i"t" "i"s" "w"i"t"h" "t"h"e" "i"m"p"r"o"v"e"m"e"n"t" "o"f" "s"t"a"f"f" "r"e"t"e"n"t"i"o"n" "l"e"v"e"l"s" "w"h"i"c"h" "c"a"n" "d"r"a"m"a"t"i"c"a"l"l"y" "r"e"d"u"c"e" "t"h"e" "c"o"s"t" "t"o" "b"u"s"i"n"e"s"s"e"s" "w"h"e"n" "p"e"o"p"l"e" "l"e"a"v"e" "a"n"d" "n"e"e"d" "r"e"p"l"a"c"i"n"g"." "T"h"e" "i"m"p"a"c"t" "o"f" "r"e"h"i"r"i"n"g" "i"s" "b"o"t"h" "f"i"n"a"n"c"i"a"l" "b"u"t" "a"l"s"o" "o"n" "r"e"l"a"t"i"o"n"s"h"i"p"s" "a"n"d" "t"h"e" "l"e"v"e"l" "o"f" "k"n"o"w"l"e"d"g"e" "t"h"a"t" "s"t"a"y"s" "i"n" "t"h"e" "b"u"s"i"n"e"s"s"." "W"h"e"n" "p"e"o"p"l"e" "f"e"e"l" "c"o"n"n"e"c"t"e"d"," "v"a"l"u"e"d"," "a"n"d" "a"b"l"e" "t"o" "f"i"n"d" "w"h"a"t" "t"h"e"y" "n"e"e"d"," "t"h"e"y"'"r"e" "m"o"r"e" "l"i"k"e"l"y" "t"o" "s"t"a"y".""
+""
+"S"o"m"e" "e"x"a"m"p"l"e"s" "o"f" "c"o"l"l"a"b"o"r"a"t"i"o"n" "R"O"I" "i"n"c"l"u"d"e":""
+""
+"-" "R"e"d"u"c"e"d" "t"i"m"e" "t"o" "l"o"c"a"t"e" "c"r"i"t"i"c"a"l" "c"o"m"p"a"n"y" "u"p"d"a"t"e"s"—"n"o" "m"o"r"e" "s"e"a"r"c"h"i"n"g" "t"h"r"o"u"g"h" "e"m"a"i"l" "t"h"r"e"a"d"s" "o"r" "a"s"k"i"n"g" """d"i"d" "I" "m"i"s"s" "s"o"m"e"t"h"i"n"g"?""""
+"-" "I"n"c"r"e"a"s"e"d" "e"n"g"a"g"e"m"e"n"t" "i"n" "c"o"m"p"a"n"y" "i"n"i"t"i"a"t"i"v"e"s" "a"s" "p"e"o"p"l"e" "f"i"n"d" "c"o"m"m"u"n"i"t"i"e"s" "t"h"a"t" "m"a"t"c"h" "t"h"e"i"r" "i"n"t"e"r"e"s"t"s" "a"n"d" "w"o"r"k""
+"-" "R"e"d"u"c"e"d" "t"i"m"e" "l"o"c"a"t"i"n"g" "s"u"b"j"e"c"t" "m"a"t"t"e"r" "e"x"p"e"r"t"s" "t"o" "h"e"l"p" "a"n"s"w"e"r" "q"u"e"s"t"i"o"n"s" "o"r" "c"o"n"t"r"i"b"u"t"e" "t"o" "p"r"o"j"e"c"t"s"—"f"r"o"m" "h"o"u"r"s" "o"f" "e"m"a"i"l" "f"o"r"w"a"r"d"i"n"g" "t"o" "m"i"n"u"t"e"s" "o"f" "s"e"a"r"c"h""
+"-" "D"e"c"r"e"a"s"e"d" "s"t"r"e"s"s" "a"s" "c"o"m"m"u"n"i"c"a"t"i"o"n" "c"h"a"n"n"e"l"s" "r"e"f"l"e"c"t" "u"r"g"e"n"c"y" "a"n"d" "t"o"p"i"c"," "a"l"l"o"w"i"n"g" "p"e"o"p"l"e" "t"o" "f"o"c"u"s" "o"n" "w"h"a"t" "m"a"t"t"e"r"s""
+"-" "I"n"n"o"v"a"t"i"o"n" "a"s" "n"e"w" "c"o"n"n"e"c"t"i"o"n"s" "a"r"e" "m"a"d"e" "a"c"r"o"s"s" "o"u"t"e"r" "l"o"o"p"s"," "l"e"a"d"i"n"g" "t"o" "u"n"e"x"p"e"c"t"e"d" "c"o"l"l"a"b"o"r"a"t"i"o"n"s" "a"n"d" "s"o"l"u"t"i"o"n"s""
+""
+"#"#" "C"o"n"c"l"u"s"i"o"n""
+""
+"I"m"p"r"o"v"i"n"g" "y"o"u"r" "P"e"o"p"l"e" "a"n"d" "C"o"m"m"u"n"i"t"i"e"s" "m"a"t"u"r"i"t"y" "m"e"a"n"s" "r"e"t"h"i"n"k"i"n"g" "y"o"u"r" "p"r"o"c"e"s"s"e"s" "a"n"d" "d"e"c"e"n"t"r"a"l"i"z"i"n"g" "c"o"m"m"u"n"i"c"a"t"i"o"n" "f"r"o"m" "o"n"e" "c"h"a"n"n"e"l" "t"o" "m"u"l"t"i"p"l"e" "a"r"e"a"s" "w"h"i"c"h" "b"e"s"t" "s"u"p"p"o"r"t" "t"h"e" "t"o"p"i"c"s" "a"n"d" "t"a"s"k"s" "a"t" "h"a"n"d"." "E"m"b"r"a"c"i"n"g" "d"i"f"f"e"r"e"n"t" "l"e"v"e"l"s" "o"f" "p"e"r"s"i"s"t"e"n"c"e" "a"n"d" "t"y"p"e"s" "o"f" "i"n"t"e"r"a"c"t"i"o"n" "w"i"t"h" "c"o"m"m"u"n"i"c"a"t"i"o"n" "i"n" "t"h"e"s"e" "c"h"a"n"n"e"l"s" "s"u"p"p"o"r"t"s" "e"n"d" "u"s"e"r"s"�"�"�" "a"b"i"l"i"t"y" "t"o" "b"e" "m"o"r"e" "f"o"c"u"s"e"d" "a"n"d" "d"e"e"p"l"y" "e"n"g"a"g"e"d" "i"n" "c"o"n"v"e"r"s"a"t"i"o"n"," "a"c"h"i"e"v"i"n"g" "b"e"t"t"e"r" "r"e"s"u"l"t"s"." "E"m"p"o"w"e"r"i"n"g" "y"o"u"r" "e"n"d" "u"s"e"r"s" "t"o" "m"a"n"a"g"e" "t"h"e"i"r" "o"w"n" "c"o"m"m"u"n"i"t"i"e"s" "e"n"a"b"l"e"s" "I"T" "p"r"o"f"e"s"s"i"o"n"a"l"s" "t"o" "f"o"c"u"s" "o"n" "a" "h"i"g"h"e"r" "s"t"r"a"t"e"g"i"c" "l"e"v"e"l" "a"n"d" "r"e"d"u"c"e" "f"r"i"c"t"i"o"n" "w"i"t"h" "e"n"d" "u"s"e"r"s".""
+""
+"T"h"e"s"e" "i"m"p"r"o"v"e"m"e"n"t"s" "h"a"v"e" "a" "h"u"g"e" "b"e"n"e"f"i"t" "t"o" "s"t"a"f"f" "w"e"l"l"-"b"e"i"n"g" "a"n"d" "r"e"t"e"n"t"i"o"n" "l"e"v"e"l"s" "w"h"i"c"h" "i"s" "o"f"t"e"n" "a" "h"i"d"d"e"n" "b"e"n"e"f"i"t".""
+""
+"#"#" "R"e"s"o"u"r"c"e"s""
+""
+"["!"I"N"C"L"U"D"E" "["m"m"4"m"3"6"5"-"p"r"a"c"t"i"t"i"o"n"e"r"s"]"("i"n"c"l"u"d"e"s"/"m"m"4"m"3"6"5"-"p"r"a"c"t"i"t"i"o"n"e"r"s"."m"d")"]""
+""
+"#"#"#" "C"o"m"m"o"n" "M"i"c"r"o"s"o"f"t" "3"6"5" "T"o"o"l"s"e"t"s""
+""
+"-" "M"y"A"n"a"l"y"t"i"c"s""
+"-" "V"i"v"a" "E"n"g"a"g"e""
+"-" "M"i"c"r"o"s"o"f"t" "T"e"a"m"s""
+"-" "S"h"a"r"e"P"o"i"n"t""
+"-" "M"i"c"r"o"s"o"f"t" "3"6"5" "G"r"o"u"p"s""
+"-" "S"e"c"u"r"i"t"y" "G"r"o"u"p"s""
+"-" "D"i"s"t"r"i"b"u"t"i"o"n" "l"i"s"t"s""
+"-" "M"i"c"r"o"s"o"f"t" "G"r"a"p"h""
+"-" "E"x"c"h"a"n"g"e""
+"-" "M"i"c"r"o"s"o"f"t" "E"n"t"r"a" "I"D""
+""
+"#"#" "R"e"l"a"t"e"d" "d"o"c"u"m"e"n"t"s""
+""
+"-" "["H"o"w" "t"o" "S"h"a"r"e" "O"r"g"-"W"i"d"e" "C"o"m"m"u"n"i"c"a"t"i"o"n" "i"n" "M"i"c"r"o"s"o"f"t" "3"6"5"]"("/"m"i"c"r"o"s"o"f"t"-"3"6"5"/"c"o"m"m"u"n"i"t"y"/"h"o"w"-"t"o"-"s"h"a"r"e"-"o"r"g"-"w"i"d"e"-"c"o"m"m"u"n"i"c"a"t"i"o"n"s"-"i"n"-"m"i"c"r"o"s"o"f"t"-"3"6"5")""
+"-" "["J"o"i"n" "a"n"d" "c"r"e"a"t"e" "a" "c"o"m"m"u"n"i"t"y" "i"n" "V"i"v"a" "E"n"g"a"g"e"]"("h"t"t"p"s":"/"/"s"u"p"p"o"r"t"."m"i"c"r"o"s"o"f"t"."c"o"m"/"o"f"f"i"c"e"/"j"o"i"n"-"a"n"d"-"c"r"e"a"t"e"-"a"-"c"o"m"m"u"n"i"t"y"-"i"n"-"v"i"v"a"-"e"n"g"a"g"e"-"5"6"a"a"f"5"9"1"-"1"f"b"c"-"4"1"6"0"-"b"a"2"6"-"0"c"4"7"2"3"c"2"3"f"d"6")""
+"-" "["M"a"n"a"g"e" "D"y"n"a"m"i"c" "D"i"s"t"r"i"b"u"t"i"o"n" "G"r"o"u"p"s"]"("/"E"x"c"h"a"n"g"e"/"r"e"c"i"p"i"e"n"t"s"/"d"y"n"a"m"i"c"-"d"i"s"t"r"i"b"u"t"i"o"n"-"g"r"o"u"p"s"/"d"y"n"a"m"i"c"-"d"i"s"t"r"i"b"u"t"i"o"n"-"g"r"o"u"p"s")""
+"-" "["P"r"i"n"c"i"p"l"e"s" "o"f" "C"o"m"m"u"n"i"c"a"t"i"o"n"]"("/"m"i"c"r"o"s"o"f"t"-"3"6"5"/"c"o"m"m"u"n"i"t"y"/"p"r"i"n"c"i"p"l"e"s"-"o"f"-"c"o"m"m"u"n"i"c"a"t"i"o"n")""
+""
+"-"-"-""
+""
+"*"*"P"r"i"n"c"i"p"a"l" "a"u"t"h"o"r"s"*"*":""
+""
+"-" "["M"a"r"c" "D" "A"n"d"e"r"s"o"n"," "M"V"P"]"("h"t"t"p"s":"/"/"w"w"w"."l"i"n"k"e"d"i"n"."c"o"m"/"i"n"/"m"a"r"c"a"n"d"e"r"s"o"n")""
+"-" "["S"i"m"o"n" "D"o"y"," "M"V"P"]"("h"t"t"p"s":"/"/"w"w"w"."l"i"n"k"e"d"i"n"."c"o"m"/"i"n"/"s"i"m"o"n"d"o"y")""
+"-" "["S"i"m"o"n" "H"u"d"s"o"n"," "M"V"P"]"("h"t"t"p"s":"/"/"w"w"w"."l"i"n"k"e"d"i"n"."c"o"m"/"i"n"/"s"i"m"o"n"j"h"u"d"s"o"n")""
+"-" "["E"m"i"l"y" "M"a"n"c"i"n"i"," "M"V"P"," "U"X"M"C"]"("h"t"t"p"s":"/"/"w"w"w"."l"i"n"k"e"d"i"n"."c"o"m"/"i"n"/"e"e"m"a"n"c"i"n"i")""
+"-" "["S"a"d"i"e" "V"a"n" "B"u"r"e"n"]"("h"t"t"p"s":"/"/"w"w"w"."l"i"n"k"e"d"i"n"."c"o"m"/"i"n"/"s"a"d"a"l"i"t")""
+""
+"-"-"-""
+""
+"["!"I"N"C"L"U"D"E" "["m"m"4"m"3"6"5"-"c"o"r"e"-"t"e"a"m"]"("i"n"c"l"u"d"e"s"/"m"m"4"m"3"6"5"-"c"o"r"e"-"t"e"a"m"."m"d")"]""
+"
