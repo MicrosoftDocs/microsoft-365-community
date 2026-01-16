@@ -12,7 +12,7 @@ description: Maturity Model for Microsoft 365 ��� People and Communities C
 ms.collection: M365Community
 ---
 
-# Maturity Model for Microsoft 365 ��� People and Communities Competency
+# Maturity Model for Microsoft 365 – People and Communities Competency
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
@@ -26,7 +26,7 @@ The People and Communities competency is focused on ensuring people have the inf
 
 For organizations to be effective they need to ensure that their staff can work together effectively both as teams and individual contributors. People need to be able to interact with each other effectively, understand skillsets, access expertise, and share interests with the right audiences.
 This competency is different from the Communication competency, as it focuses on the interactions between people who are peers or at similar level in the organization, but who might not normally work together in the same department, business unit, or discipline.
-Within Microsoft 365, this means multiple individuals communicating across different channels (or as Microsoft sometimes calls them �ǣloops���) to target their messaging or requests to the right people, in the right place, at the right time.
+Within Microsoft 365, this means multiple individuals communicating across different channels (or as Microsoft sometimes calls them "loops") to target their messaging or requests to the right people, in the right place, at the right time.
 The solution for which channels to use can vary depending on the size of your organization. For example, a small company of 6 might fulfill their need for company-wide communication via an org-wide Team while this approach would be disruptive to productivity in a company of 6,000 people actively using Teams to collaborate on projects.
 
 ## Evolution of this competency
@@ -48,7 +48,7 @@ You might recognize this one. Organizations at level 100 have done little to act
 
 #### 100 Culture
 
-- At this maturity level, many end users don���t know much about their colleagues and are unclear on how they should engage with them or reach out for help with projects and activities; this is also reflected in the amount of untargeted communications.
+- At this maturity level, many end users don't know much about their colleagues and are unclear on how they should engage with them or reach out for help with projects and activities; this is also reflected in the amount of untargeted communications.
 - Team building is based on personal knowledge and has little scope. Many staff feel left out or under-utilized for their skillsets. Expertise in different locations is rarely leveraged. Insights and support are often a matter of luck or chance.
 - There is little reinforcement of organizational culture and vision.
 - Limited internal communities inhibit supportive colleague relationships beyond immediate co-workers.
@@ -62,7 +62,7 @@ You might recognize this one. Organizations at level 100 have done little to act
 - Staff profiles, accessible to colleagues, are absent or largely unmaintained; there is no expectation that profiles are completed and updated. Any that do exist are likely to be limited to identifying who works in the organization and in which department (with contact information). Hard copy staff directories may be in use.
 - Organization charts are created manually, inconsistently published, and frequently out of date. They may also be shared via email to department members.
 - Because staff have no access to a reliable directory and may not know the best communication mechanisms to use, colleagues are often overlooked or uninformed. Long-term staff are frequently interrupted with requests for their knowledge, even when others might have been able to assist.
-- People use �ǣreply all��� despite the impact this has in colleagues��� inboxes. Employees are unable to easily identify who-does-what in the organization, find subject matter experts, or understand the reporting structure. Requests for expertise and questions are often asked via email and then forwarded around the company until the correct subject matter expert is identified; minimal shared insights are created.
+- People use "reply all" despite the impact this has in colleagues' inboxes. Employees are unable to easily identify who-does-what in the organization, find subject matter experts, or understand the reporting structure. Requests for expertise and questions are often asked via email and then forwarded around the company until the correct subject matter expert is identified; minimal shared insights are created.
 - There is no company guidance on where to have different types of conversations, share interests, or seek advice and engagement from colleagues.
 - No process exists for discovering whether colleagues have particular skills, areas of expertise, or common interests and values. Communities of interest are serendipitous and do not take place digitally. They are effectively invisible to the organization.
 - Personal contact, telephone, and email are the primary means of communication.
