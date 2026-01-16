@@ -1,5 +1,5 @@
 ﻿---
-â€“tâ€“iâ€“tâ€“lâ€“eâ€“:â€“ â€“Mâ€“aâ€“tâ€“uâ€“râ€“iâ€“tâ€“yâ€“ â€“Mâ€“oâ€“dâ€“eâ€“lâ€“ â€“fâ€“oâ€“râ€“ â€“Mâ€“iâ€“câ€“râ€“oâ€“sâ€“oâ€“fâ€“tâ€“ â€“3â€“6â€“5â€“ â€“�â€“�â€“�â€“ â€“Pâ€“eâ€“oâ€“pâ€“lâ€“eâ€“ â€“aâ€“nâ€“dâ€“ â€“Câ€“oâ€“mâ€“mâ€“uâ€“nâ€“iâ€“tâ€“iâ€“eâ€“sâ€“ â€“Câ€“oâ€“mâ€“pâ€“eâ€“tâ€“eâ€“nâ€“câ€“yâ€“
+title: Maturity Model for Microsoft 365 – People and Communities Competency
 ms.date: 1/16/2026
 author: mrsbeata
 ms.reviewer: pamgreen
@@ -8,7 +8,7 @@ ms.topic: overview
 ms.author: mrsbeata
 ms.service: microsoft-365
 ms.localizationpriority: Low
-â€“dâ€“eâ€“sâ€“câ€“râ€“iâ€“pâ€“tâ€“iâ€“oâ€“nâ€“:â€“ â€“Mâ€“aâ€“tâ€“uâ€“râ€“iâ€“tâ€“yâ€“ â€“Mâ€“oâ€“dâ€“eâ€“lâ€“ â€“fâ€“oâ€“râ€“ â€“Mâ€“iâ€“câ€“râ€“oâ€“sâ€“oâ€“fâ€“tâ€“ â€“3â€“6â€“5â€“ â€“�â€“�â€“�â€“ â€“Pâ€“eâ€“oâ€“pâ€“lâ€“eâ€“ â€“aâ€“nâ€“dâ€“ â€“Câ€“oâ€“mâ€“mâ€“uâ€“nâ€“iâ€“tâ€“iâ€“eâ€“sâ€“ â€“Câ€“oâ€“mâ€“pâ€“eâ€“tâ€“eâ€“nâ€“câ€“yâ€“
+description: Maturity Model for Microsoft 365 – People and Communities Competency
 ms.collection: M365Community
 ---
 
@@ -73,7 +73,7 @@ There is little company guidance or recommendation on where to have different ty
 
 Staff retention may be difficult as there is little in the way of glue to keep people together and create those connections. Users may feel lost and unsure of their purpose. This impact will be harder if the organisation is largely working remotely.
 
-Systems may exist to support identifying who works in the organization and in which department. Distribution lists are used to communicate with groups such as �ǣAll Company��� and each department. The processes to update information fall to IT, are essentially manual and undocumented, and lack formal processes to manage their members.
+Systems may exist to support identifying who works in the organization and in which department. Distribution lists are used to communicate with groups such as "All Company" and each department. The processes to update information fall to IT, are essentially manual and undocumented, and lack formal processes to manage their members.
 
 ### Level 200 - Managed
 
@@ -284,7 +284,7 @@ Some examples of collaboration ROI include:
 
 ## Conclusion
 
-Improving your People and Communities maturity means rethinking your processes and decentralizing communication from one channel to multiple areas which best support the topics and tasks at hand. Embracing different levels of persistence and types of interaction with communication in these channels supports end users��� ability to be more focused and deeply engaged in conversation, achieving better results. Empowering your end users to manage their own communities enables IT professionals to focus on a higher strategic level and reduce friction with end users.
+Improving your People and Communities maturity means rethinking your processes and decentralizing communication from one channel to multiple areas which best support the topics and tasks at hand. Embracing different levels of persistence and types of interaction with communication in these channels supports end users' ability to be more focused and deeply engaged in conversation, achieving better results. Empowering your end users to manage their own communities enables IT professionals to focus on a higher strategic level and reduce friction with end users.
 
 These improvements have a huge benefit to staff well-being and retention levels which is often a hidden benefit.
 
