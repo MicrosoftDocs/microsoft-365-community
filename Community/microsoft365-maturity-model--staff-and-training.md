@@ -1,18 +1,18 @@
 ---
 title:  Maturity Model for Microsoft 365 – Staff & Training Competency
-ms.date: 8/31/2020
-author: eemancini
+ms.date: 1/16/2026
+author: mrsbeata
 ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: overview
-ms.author: pamgreen
+ms.author: mrsbeata
 ms.service: microsoft-365
 ms.localizationpriority: Low
-description:  Maturity Model for Microsoft 365 - Staff & Training Competency
+description:  Maturity Model for Microsoft 365 – Staff & Training Competency
 ms.collection: M365Community
 ---
 
-# Maturity Model for Microsoft 365 - Staff & Training Competency
+# Maturity Model for Microsoft 365 – Staff & Training Competency
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
@@ -20,7 +20,7 @@ ms.collection: M365Community
 
 ## Overview of the Concepts [tl;dr]
 
-Implementing new technology solutions requires enabling the business to use and support them. Involving end users in development conversations and training them on usage of the solutions ensures an organizational understanding of why and how these solutions advance their own needs as well as the needs of the business. Structuring the system support staff to take a consultative approach with the business through repeatable business processes enables long-term collaboration to identify and focus on the most impactful solutions for the business. Creating a steering committee ensures a high-level strategic approach to developing solutions that can prioritize requests from across the business to better align with company goals. This steering committee will also be the primary audience for sharing success stories and knowledge to showcase the returns on investment.
+Implementing new technology requires training people to use it, but that's just the beginning. With continuous changes happening across all IT systems, you need training not just at implementation, but ongoing maintenance and expansion of training as systems evolve. This is where continuous learning becomes essential—training isn't a one-time event, it's an ongoing process. When you involve end users early and train them properly, they understand why the solution helps them and the business. Structure your support team to work consultatively with the business through repeatable processes. This creates long-term collaboration and helps you focus on the most impactful solutions. A steering committee ensures a strategic approach that prioritizes requests across the business and aligns with company goals. This committee also shares success stories and knowledge to showcase returns on investment.
 
 ## Definition of this competency
 
@@ -33,7 +33,7 @@ See the [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-
 
 ### Level 100 - Initial
 
-Organizations at the 100 level give more precedence to launching the solution than focusing on why the solution is launched. Typically there is a bottom-line problem to be solved (e.g. platform migration due to a merger) which takes top priority. User and training needs have not been defined, evaluated, or documented. This leaves end users to develop their own methods for working with the new solutions. As a result, they may miss out on core benefits of the solution. We often refer to this level as the “Wild West Adoption Model.”
+Organizations at the 100 level give more precedence to launching the solution than focusing on why the solution is launched. Typically there is a bottom-line problem to be solved (e.g. platform migration due to a merger) which takes top priority. User and training needs have not been defined, evaluated, or documented. This leaves end users to develop their own methods for working with the new solutions. As a result, they may miss out on core benefits of the solution. We often refer to this level as the "Wild West Adoption Model."
 
 **[Initial level](microsoft365-maturity-model--intro.md#level-100---initial)** characteristics include:
 
@@ -100,7 +100,7 @@ An IT resource is available to have these discussions, though it is not enough s
 
 ### Level 400 - Predictable
 
-The training plan for Microsoft 365 and the related solutions is viewed as a suite of training courses that better enable learning of the entire system and build off each other to support the organization’s understanding of the platform capabilities as a whole. The training is developed and lead by individual business process owners who may sit outside the IT department. All training is also linked in a central repository, like Learning Pathways or other Learning Management Systems, supporting a centralized approach to the training plan and allowing easy access for end users to find all training related to Microsoft 365.
+The training plan for Microsoft 365 and the related solutions is viewed as a suite of training courses that better enable learning of the entire system and build off each other to support the organization's understanding of the platform capabilities as a whole. The training is developed and lead by individual business process owners who may sit outside the IT department. All training is also linked in a central repository, like Learning Pathways or other Learning Management Systems, supporting a centralized approach to the training plan and allowing easy access for end users to find all training related to Microsoft 365.
 
 Now that the IT support staff has expanded, there are opportunities for the business to receive coaching, guidance, and innovation on their existing business processes in partnership with the IT department. The IT support staff have begun to proactively share updates and changes coming in the system to better involve business need in their strategic decisions. This involvement with the business reflects increased understanding in the platform and the organizational importance of developing business processes with the available enterprise solutions.
 
@@ -114,6 +114,17 @@ Now that the IT support staff has expanded, there are opportunities for the busi
 - Training viewed as a program, not just string of individual system training.
 - Positive outcomes are collected and measured to share with the organization and cross-pollination in training.
 - Usage of the solutions becomes less IT-driven and more business encouraged due to clear benefit demonstration in ongoing training.
+- Training programs begin to incorporate AI-powered tools and capabilities, with initial training on Microsoft 365 Copilot and embedded AI features. Training focuses on practical use cases and productivity improvements.
+- ✨ **Training is role-based and competency-focused**: This is a game-changer. Training is tailored to specific roles in the organization (e.g., IT security training for employees, managers, system owners, and IT department, each with different content). HR assigns trainings based on what staff is hired to do, and role definitions are clear. Certificates that need renewal are tracked and managed. Some training requires tests and certification, while others may be "read a policy and 'I have read and understood'." Employees can enter external certificates, and there is internal competency mapping that can easily analyze competency gaps.
+- ✨ **Ongoing training time is included for each employee on a monthly basis**, where they should take training, participate in competency networks, or similar activities. Weekly is best, but monthly is the minimum. Annual training is not sufficient—it's too long between sessions, and everyone needs to train continuously as IT changes occur continuously, sometimes daily. (Yes, we know it's a lot, but it's necessary.)
+
+##### 400 HR Support & Governance
+
+- ✨ **HR provides comprehensive training support**: HR works with reporting to managers whose employees fall below the approved level or have not met goals within deadlines, instead of nagging end users. HR supports the business with coaching to develop unique training that is needed. HR systematically works with system owners about their trainings and ensures they are updated and have the right quality. HR in their coaching ensures training is at the right level (e.g., when there is a new framework, the language doesn't need to come directly from lawyers' legal texts). Training should have the company's tone and maintain a graphic profile standard. HR has templates for different types of trainings. Trainings don't have to be well-produced, but they need to meet the need—sometimes just a recorded meeting will suffice (don't fall for the trap of making everything into a Netflix series). External content is linked and follows standards.
+
+##### 400 Competency Groups
+
+- ✨ **Competency groups exist for all core competencies the business needs**: HR continues to own the structure, rules, and support systems. Competency groups are designed for their target audience (e.g., Copilot may need two different groups: one for Copilot and productivity, and another for Copilot and development where AI is used to build AI into systems and processes). The **Digital leaders group exists for Microsoft 365**, driven by a change manager with strict governance, setting productivity standards and common rules. When new features are released, they are presented to this group, and if there is interest, the appropriate champions group is assigned to test and evaluate. **Power Platform competency groups are driven by an IT architect** who monitors when systems become critical to the business. A Center of Excellence for Power Platform exists with templates and governance structures to support these groups.
 
 #### 400 Impacts
 
@@ -125,7 +136,7 @@ Now that the entire company is actively using the system for common business pro
 
 ### Level 500 - Optimizing
 
-Business involvement in the Microsoft 365 platform and solutions has grown well outside of the IT department. Senior leadership is actively involved in proactively evaluating platform improvements and provides feedback on the strategic plan ensuring it aligns with the company priorities. Senior leadership’s involvement and support cascades down through the organization which formally supports embedding platform roles and responsibilities into job descriptions of IT, content owners, citizen developers, and power users. Expanding organizational involvement well past the IT department to include senior leaders and a SharePoint Community of Practice invites new opportunities to improve business processes, drive innovation, and seek opportunities where advancing technology can be a competitive advantage.
+Business involvement in the Microsoft 365 platform and solutions has grown well outside of the IT department. Senior leadership is actively involved in proactively evaluating platform improvements and provides feedback on the strategic plan ensuring it aligns with the company priorities. Senior leadership's involvement and support cascades down through the organization which formally supports embedding platform roles and responsibilities into job descriptions of IT, content owners, citizen developers, and power users. Expanding organizational involvement well past the IT department to include senior leaders and a SharePoint Community of Practice invites new opportunities to improve business processes, drive innovation, and seek opportunities where advancing technology can be a competitive advantage.
 
 The most common support scripts and training content are developed with Chatbot and AI technology, allowing IT staff to focus on escalations, proactive initiatives, and reducing the amount of time spent on break/fix. Support ticket analytics are reviewed on a scheduled cadence to identify and prioritize closure of training gaps, minimizing employee downtime, and increasing organizational productivity.
 
@@ -139,7 +150,7 @@ The most common support scripts and training content are developed with Chatbot 
 #### 500 Process
 
 - Dedicated system support includes strategic guidance, business analysis, training staff, and help desk support from IT. System support also includes members outside of IT, typically key stakeholders from other departments to inform strategy and road map.
-- Training is integrated into the organization’s learning strategy.
+- Training is integrated into the organization's learning strategy.
 
 #### 500 Impacts
 
@@ -147,7 +158,7 @@ Clear business processes for system requests, feedback, break/fix help, and guid
 
 System changes and improvements are first discussed within Centers of Excellence or Communities of Practice which comprises of content owners, key stakeholders, and other system owners. These groups provide feedback on a continual basis and are often used for pilots before launching new solutions to the entire organization. Having these communities enables IT to complete better user research, align system changes with departmental-level goals, and receive more transparent feedback. If the business explores self-service options, empowering end users to manage their own solutions (with IT guidance) enables IT professionals to focus on a higher strategic level and reduces friction with end users.
 
-Training is viewed as an integral part of the learning road map and no longer only run by members of IT; training isn’t just technical, it’s transformational, often using “what if” scenarios. Content owners or Center of Excellence members offer training specific to tasks and business processes, replacing generic system-based training that was previously offered. Skill advancement is widely recognized and rewarded.
+Training is viewed as an integral part of the learning road map and no longer only run by members of IT; training isn't just technical, it's transformational, often using "what if" scenarios. Content owners or Center of Excellence members offer training specific to tasks and business processes, replacing generic system-based training that was previously offered. Skill advancement is widely recognized and rewarded.
 
 ### Scenarios
 
@@ -167,9 +178,9 @@ Anecdotes are still very valuable as some processes may not be possible to direc
 
 ## Conclusion
 
-Launching a system without full support or training risks a lost investment in the technology as employees use the system incorrectly or don’t take advantage of features that could help them.  When planning, ensure there is time and adequate resources to engage the business early on in discussions around their needs and challenge areas.  Focus your solutions on existing issues.
+Launching a system without full support or training risks a lost investment in the technology as employees use the system incorrectly or don't take advantage of features that could help them.  When planning, ensure there is time and adequate resources to engage the business early on in discussions around their needs and challenge areas.  Focus your solutions on existing issues.
 
-Providing solutions to existing problems will generate higher interest across the organization and justification for employees’ time spent learning how to use them. Having a clear business process for feedback and transparency in the decision-making process will build trust with the organization, supporting the time and effort they are spending to understand the new systems. Developing these deep, trusted relationships with the business changes the focus of the conversations from specific technical requests to open dialogue around challenges or opportunities for innovation.
+Providing solutions to existing problems will generate higher interest across the organization and justification for employees' time spent learning how to use them. Having a clear business process for feedback and transparency in the decision-making process will build trust with the organization, supporting the time and effort they are spending to understand the new systems. Developing these deep, trusted relationships with the business changes the focus of the conversations from specific technical requests to open dialogue around challenges or opportunities for innovation.
 
 ## Resources
 
@@ -185,7 +196,6 @@ Providing solutions to existing problems will generate higher interest across th
 
 ## Related documents
 
-- [The Microsoft 365 Maturity Model – Introduction](/microsoft-365/community/microsoft365-maturity-model--intro)
 - [Why SharePoint Training is Important](/microsoft-365/community/why-sharepoint-training-is-important)
 - [Identifying Your Microsoft 365 Champions](/microsoft-365/community/identifying-your-sharepoint-champions)
 - [Empowering Your Microsoft 365 Champions](/microsoft-365/community/empowering-your-sharepoint-champions)
@@ -201,6 +211,7 @@ Providing solutions to existing problems will generate higher interest across th
 - [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 - [Simon Doy, MVP](https://www.linkedin.com/in/simondoy/)
 - [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
+- [Pia Langenkrans](https://www.linkedin.com/in/pialangenkrans/)
 - [Sadie Van Buren](https://www.linkedin.com/in/sadalit/)
 
 ---
