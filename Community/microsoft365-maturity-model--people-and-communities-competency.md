@@ -1,11 +1,11 @@
----
+﻿---
 title: Maturity Model for Microsoft 365 ��� People and Communities Competency
 ms.date: 1/16/2026
 author: eemancini
 ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: overview
-ms.author: pamgreen
+ms.author: mrsbeata
 ms.service: microsoft-365
 ms.localizationpriority: Low
 description: Maturity Model for Microsoft 365 ��� People and Communities Competency
