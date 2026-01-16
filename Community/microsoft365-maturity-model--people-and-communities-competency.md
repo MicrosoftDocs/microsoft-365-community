@@ -69,7 +69,7 @@ You might recognize this one. Organizations at level 100 have done little to act
 
 #### 100 Impacts
 
-There is little company guidance or recommendation on where to have different types of conversations to be most effective. This leads to most people feeling that, while much information is coming at them, little is what they need to know or actionable. No processes or tools exist to discover whether colleagues have specific skills, areas of expertise, or common interests and values. In project-based environments, it���s difficult to find out who worked on past projects. Communities of interest are serendipitous and do not take place digitally. Most conversations use email as the only communication channel.
+There is little company guidance or recommendation on where to have different types of conversations to be most effective. This leads to most people feeling that, while much information is coming at them, little is what they need to know or actionable. No processes or tools exist to discover whether colleagues have specific skills, areas of expertise, or common interests and values. In project-based environments, it's difficult to find out who worked on past projects. Communities of interest are serendipitous and do not take place digitally. Most conversations use email as the only communication channel.
 
 Staff retention may be difficult as there is little in the way of glue to keep people together and create those connections. Users may feel lost and unsure of their purpose. This impact will be harder if the organisation is largely working remotely.
 
