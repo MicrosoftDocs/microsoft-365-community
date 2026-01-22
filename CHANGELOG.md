@@ -19,6 +19,10 @@ Note: Changelog started in January, 2021
 
 | Article | Updated By |
 |---|---|
+| [Maturity Model for Microsoft 365 – People and Communities Competency](./Community/microsoft365-maturity-model--people-and-communities-competency.md) | [Pia Langenkrans, MVP](https://www.linkedin.com/in/pialangenkrans/)) |
+| [Maturity Model for Microsoft 365 - Staff & Training Competency](./Community/microsoft365-maturity-model--staff-and-training.md) | [Pia Langenkrans, MVP](https://www.linkedin.com/in/pialangenkrans/) |
+
+
 
 ### Removed/Retired Articles - January, 2026
 
