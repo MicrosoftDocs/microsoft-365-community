@@ -5,7 +5,7 @@ author: mrsbeata
 ms.reviewer: pamgreen
 manager: pamgreen
 ms.topic: overview
-ms.author: mrsbeata
+ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low
 description: Maturity Model for Microsoft 365 – People and Communities Competency
