@@ -58,7 +58,7 @@
       "filename-incomplete": { 
         "exclude": [ 
           "**/*.md", 
-          "**.*.yml" 
+          "**/*.yml" 
         ] 
       }, 
       "image-name-incomplete": { 
@@ -82,9 +82,9 @@
       "include-structure-incorrect": { 
         "exclude": [ 
           "**/*.md", 
-          "**.*.yml"
+          "**/*.yml"
        ] 
-      },
+      }
     }, 
     "fileMetadata": {},
     "template": [],
