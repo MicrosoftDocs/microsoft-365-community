@@ -85,10 +85,10 @@ The organization is actively using the solution(s) with a training plan in place
 
 #### 300 Process
 
-- An end-user training plan is in place.
+-  ✨ An end-user training plan is in place.
 - Onboarding and off-boarding is addressed in the training plans.
 - Training is focused on interaction with specific systems.
-- Roles and responsibilities for support and training are clearly delineated and funded.
+-  ✨ Roles and responsibilities for support and training are clearly delineated and funded.
 
 #### 300 Impacts
 
@@ -110,21 +110,30 @@ Now that the IT support staff has expanded, there are opportunities for the busi
 
 - IT has more than one resource knowledgeable on the system.
 - Requests for new functionality are tracked and prioritized.
-- Communication strategy in place for sharing system changes and improvements.
-- Training viewed as a program, not just string of individual system training.
+-  ✨ Communication strategy in place for sharing system changes and improvements.
+-  ✨ Training viewed as a program, not just string of individual system training.
 - Positive outcomes are collected and measured to share with the organization and cross-pollination in training.
 - Usage of the solutions becomes less IT-driven and more business encouraged due to clear benefit demonstration in ongoing training.
 - Training programs begin to incorporate AI-powered tools and capabilities, with initial training on Microsoft 365 Copilot and embedded AI features. Training focuses on practical use cases and productivity improvements.
-- ✨ **Training is role-based and competency-focused**: This is a game-changer. Training is tailored to specific roles in the organization (e.g., IT security training for employees, managers, system owners, and IT department, each with different content). HR assigns trainings based on what staff is hired to do, and role definitions are clear. Certificates that need renewal are tracked and managed. Some training requires tests and certification, while others may be "read a policy and 'I have read and understood'." Employees can enter external certificates, and there is internal competency mapping that can easily analyze competency gaps.
+- ✨ **Training is role-based and competency-focused**: This is a game-changer. Training is tailored to specific roles in the organization (e.g., IT security training for employees, managers, system owners, and IT department, each with different content).
+- HR assigns trainings based on what staff is hired to do, and role definitions are clear.
+- Certificates that need renewal are tracked and managed. Some training requires tests and certification, while others may be "read a policy and 'I have read and understood'."
+- Employees can enter external certificates, and there is internal competency mapping that can easily analyze competency gaps.
 - ✨ **Ongoing training time is included for each employee on a monthly basis**, where they should take training, participate in competency networks, or similar activities. Weekly is best, but monthly is the minimum. Annual training is not sufficient—it's too long between sessions, and everyone needs to train continuously as IT changes occur continuously, sometimes daily. (Yes, we know it's a lot, but it's necessary.)
 
 ##### 400 HR Support & Governance
 
-- ✨ **HR provides comprehensive training support**: HR works with reporting to managers whose employees fall below the approved level or have not met goals within deadlines, instead of nagging end users. HR supports the business with coaching to develop unique training that is needed. HR systematically works with system owners about their trainings and ensures they are updated and have the right quality. HR in their coaching ensures training is at the right level (e.g., when there is a new framework, the language doesn't need to come directly from lawyers' legal texts). Training should have the company's tone and maintain a graphic profile standard. HR has templates for different types of trainings. Trainings don't have to be well-produced, but they need to meet the need—sometimes just a recorded meeting will suffice (don't fall for the trap of making everything into a Netflix series). External content is linked and follows standards.
+- ✨ **HR provides comprehensive training support**: HR works with reporting to managers whose employees fall below the approved level or have not met goals within deadlines, instead of nagging end users.
+- HR supports the business with coaching to develop unique training that is needed.
+- HR systematically works with system owners about their trainings and ensures they are updated and have the right quality.
+- HR in their coaching ensures training is at the right level (e.g., when there is a new framework, the language doesn't need to come directly from lawyers' legal texts). Training should have the company's tone and maintain a graphic profile standard.
+- HR has templates for different types of trainings. Trainings don't have to be well-produced, but they need to meet the need—sometimes just a recorded meeting will suffice (don't fall for the trap of making everything into a Netflix series). External content is linked and follows standards.
 
 ##### 400 Competency Groups
 
-- ✨ **Competency groups exist for all core competencies the business needs**: HR continues to own the structure, rules, and support systems. Competency groups are designed for their target audience (e.g., Copilot may need two different groups: one for Copilot and productivity, and another for Copilot and development where AI is used to build AI into systems and processes). The **Digital leaders group exists for Microsoft 365**, driven by a change manager with strict governance, setting productivity standards and common rules. When new features are released, they are presented to this group, and if there is interest, the appropriate champions group is assigned to test and evaluate. **Power Platform competency groups are driven by an IT architect** who monitors when systems become critical to the business. A Center of Excellence for Power Platform exists with templates and governance structures to support these groups.
+- ✨ **Competency groups exist for all core competencies the business needs**: HR continues to own the structure, rules, and support systems. Competency groups are designed for their target audience (e.g., Copilot may need two different groups: one for Copilot and productivity, and another for Copilot and development where AI is used to build AI into systems and processes).
+-  The **Digital leaders group exists for Microsoft 365**, driven by a change manager with strict governance, setting productivity standards and common rules. When new features are released, they are presented to this group, and if there is interest, the appropriate champions group is assigned to test and evaluate.
+-  **Power Platform competency groups are driven by an IT architect** who monitors when systems become critical to the business. A Center of Excellence for Power Platform exists with templates and governance structures to support these groups.
 
 #### 400 Impacts
 
