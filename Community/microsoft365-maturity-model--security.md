@@ -38,7 +38,7 @@ Based on NIST Cybersecurity Framework (CSF), we can divide this into five phases
 - **Respond** (During breach)
 - **Recover** (Post-breach)
 
-![A circular diagram of the NIST cybersecurity framework.](media/microsoft365-maturity-model--security/CybersecurityReferenceModel-NIST.png)
+![A circular diagram of the NIST cybersecurity framework.](media/microsoft365-maturity-model--security/cybersecurity-reference-model-nist.png)
 
 Effective security programs require solutions that address questions across each phase:
 
@@ -420,21 +420,21 @@ Mature security practices create positive business value through contract wins, 
 
 ### Microsoft Official Documentation
 
-- [Microsoft Security Documentation](https://learn.microsoft.com/en-us/security/)
-- [Microsoft Cybersecurity Reference Architectures (MCRA)](https://learn.microsoft.com/en-us/security/adoption/mcra)
-- [Zero Trust Strategy and Architecture](https://www.microsoft.com/en-us/security/business/zero-trust)
-- [Microsoft 365 Defender Documentation](https://learn.microsoft.com/en-us/microsoft-365/security/defender/)
-- [Microsoft Purview Documentation](https://learn.microsoft.com/en-us/purview/)
+- [Microsoft Security Documentation]/security/)
+- [Microsoft Cybersecurity Reference Architectures (MCRA)]/security/adoption/mcra)
+- [Zero Trust Strategy and Architecture](https://www.microsoft.com/security/business/zero-trust)
+- [Microsoft 365 Defender Documentation]/microsoft-365/security/defender/)
+- [Microsoft Purview Documentation]/purview/)
 
 ### Community Resources
 
-- [Microsoft 365 Security Best Practices](https://learn.microsoft.com/en-us/microsoft-365/community/basic-security-set-up-for-microsoft-365)
+- [Microsoft 365 Security Best Practices]/microsoft-365/community/basic-security-set-up-for-microsoft-365)
 - [Microsoft Tech Community - Security, Privacy & Compliance](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/MicrosoftSecurityandCompliance)
 
 ### Training and Certification
 
-- [Microsoft Learn - Security Learning Paths](https://learn.microsoft.com/en-us/training/browse/?products=m365&subjects=security)
-- [Microsoft Security Certifications](https://learn.microsoft.com/en-us/certifications/browse/?products=m365&subjects=security)
+- [Microsoft Learn - Security Learning Paths]/training/browse/?products=m365&subjects=security)
+- [Microsoft Security Certifications]/certifications/browse/?products=m365&subjects=security)
 
 ### Related Documents
 
