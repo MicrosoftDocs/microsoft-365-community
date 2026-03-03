@@ -208,7 +208,6 @@ Providing solutions to existing problems will generate higher interest across th
 - [Why SharePoint Training is Important](/microsoft-365/community/why-sharepoint-training-is-important)
 - [Identifying Your Microsoft 365 Champions](/microsoft-365/community/identifying-your-sharepoint-champions)
 - [Empowering Your Microsoft 365 Champions](/microsoft-365/community/empowering-your-sharepoint-champions)
-
 ---
 
 **Principal author**:
