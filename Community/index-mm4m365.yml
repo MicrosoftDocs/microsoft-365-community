@@ -29,6 +29,8 @@ landingContent:
             url: microsoft365-maturity-model--intro.md
           - text: Origin of the Maturity Model for Microsoft 365
             url: microsoft365-maturity-model-origin-story.md
+          - text: Practitioners Calls Archive
+            url: practitioners-calls-archive.md
 
   # Card (optional)
   - title: What's New 🆕
@@ -109,12 +111,15 @@ landingContent:
             url: maturity-model-microsoft365-servicing-microsoft365-apps.md
           - text: Maturity Model for Microsoft 365 Practical Scenarios - Microsoft 365 Service Change Management
             url: maturity-model-microsoft365-servicing-microsoft365-service-change-management.md
-          - text: Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Health Management
+          - text: Maturity Model for Microsoft 365 Practical Scenarios - Microsoft 365 Service Health Management
             url: maturity-model-microsoft365-servicing-microsoft365-service-health-management.md
           - text: Maturity Model for Microsoft 365 Practical Scenarios - Enhancing Brand Management
             url: maturity-model-microsoft365-ps-enhancing-brand-management.md
           - text: Maturity Model for Microsoft 365 Practical Scenarios - Knowledge Management
             url: maturity-model-microsoft365-ps-knowledge-management.md
+          - text: Maturity Model for Microsoft 365 Practical Scenarios - Copilot Implementation
+            url: maturity-model-microsoft365-practical-scenarios-copilot-implementation.md
+
 
   # Card (optional)
   - title: Practitioner Sessions
