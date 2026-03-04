@@ -16,7 +16,7 @@ ms.collection: M365Community
 
 [!INCLUDE [content-disclaimer](includes/content-disclaimer.md)]
 
-![Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
+![The logo of the Maturity Model for Microsoft 365](media/maturity-model-for-microsoft-365/M365MM.png)
 
 ## Overview of the Concepts [tl;dr]
 
@@ -38,7 +38,7 @@ Based on NIST Cybersecurity Framework (CSF), we can divide this into five phases
 - **Respond** (During breach)
 - **Recover** (Post-breach)
 
-![A circular diagram of the NIST cybersecurity framework.](media/microsoft365-maturity-model--security/cybersecurity-reference-model-nist.png)
+![Diagram of the NIST cybersecurity framework.](media/microsoft365-maturity-model--security/cybersecurity-reference-model-nist.png)
 
 Effective security programs require solutions that address questions across each phase:
 
