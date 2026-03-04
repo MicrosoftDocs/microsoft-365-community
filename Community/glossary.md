@@ -46,7 +46,7 @@ Active Directory Federation Service (AD FS) enables Federated Identity and Acces
 
 Activity explorer provides a historical view of activities on your labeled content. The activity information is collected from the Microsoft 365 unified audit logs, transformed, and made available in the Activity explorer UI. Activity explorer reports on up to 30 days worth of data.
 
-### [Adaptive Cards (Teams)](https://learn.microsoft.com/en-us/microsoftteams/platform/teams-ai-library/in-depth-guides/adaptive-cards/overview)
+### [Adaptive Cards (Teams)](/microsoftteams/platform/teams-ai-library/in-depth-guides/adaptive-cards/overview)
 
 Adaptive Cards are platform‑agnostic UI snippets authored in JSON and rendered natively by host apps. In Microsoft Teams they power rich interactive messages, dialogs, message extensions, link unfurling, and configuration forms. See also: the [Adaptive Cards documentation hub](https://adaptivecards.io/).
 
@@ -112,7 +112,7 @@ The Microsoft Authenticator app provides an additional level of security to your
 
 <a name='azure-active-directory-aad'></a>
 
-### [Microsoft Entra ID (formerly Azure Active Directory)](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis)
+### [Microsoft Entra ID (formerly Azure Active Directory)](/azure/active-directory/fundamentals/active-directory-whatis)
 
 Microsoft Entra ID is the Microsoft 365 source for all identity management, and much more. It stores users, groups, app registrations, authentication methods, and permissions used across Microsoft 365 services such as Teams, SharePoint, Exchange, Purview, and the Microsoft 365 Defender portal.
 
@@ -323,7 +323,7 @@ The General Data Protection Regulation (GDPR) introduces new rules for organizat
 
 ### Microsoft Dataverse
 
-[Microsoft Microsoft Dataverse](https://powerplatform.microsoft.com/common-data-service/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Microsoft Dataverse enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
+[Microsoft Dataverse](/connectors/commondataserviceforapps/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Microsoft Dataverse enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
 
 ### Microsoft Dataverse for Teams
 
@@ -567,7 +567,7 @@ Microsoft Purview Data Lifecycle Management provides capabilities to govern your
 
 The Microsoft Graph API offers a single endpoint, [Microsoft Graph](https://graph.microsoft.com), to provide access to rich, people-centric data and insights in the Microsoft cloud, including Microsoft 365, Windows 10, and Enterprise Mobility + Security. You can use REST APIs or SDKs to access the endpoint and build apps that support Microsoft 365 scenarios, spanning across productivity, collaboration, education, people and workplace intelligence, and much more.
 
-### [Graph Connectors](https://learn.microsoft.com/en-us/microsoftsearch/connectors-overview)
+### [Graph Connectors](/microsoftsearch/connectors-overview)
 
 Graph connectors bring external systems (e.g., Salesforce, ServiceNow, websites, file shares) into **Microsoft Search** and **Copilot** so users can find and act on content beyond Microsoft 365. Govern access with Microsoft Entra ID, Purview, and search admin settings
 
@@ -1188,7 +1188,7 @@ The Search Schema refers to the customizable data dictionary used by SharePoint 
 
 Microsoft Entra self-service password reset (SSPR) gives users the ability to change or reset their password, with no administrator or help desk involvement. If a user's account is locked or they forget their password, they can follow prompts to unblock themselves and get back to work. This ability reduces help desk calls and loss of productivity when a user can't sign in to their device or an application. Microsoft recommend this video on how to enable and configure SSPR in Microsoft Entra ID.
 
-### [Semantic Index for Copilot](https://learn.microsoft.com/en-us/MicrosoftSearch/semantic-index)
+### [Semantic Index for Copilot](/microsoftsearch/semantic-index-for-copilot)
 The semantix index is a retrieval layer that understands relationships across your Microsoft 365 content (SharePoint, OneDrive, Teams), improving Copilot’s grounding and answer quality. It complements Microsoft Search and your information architecture.
 
 ### [Sensitive information type](/microsoft-365/compliance/sensitive-information-type-learn-about)
@@ -1319,7 +1319,7 @@ Download Windows apps for your Windows tablet or computer. Browse thousands of f
 
 Microsoft **Stream (Classic)** retired in 2024. Migrate videos to **Stream (on SharePoint)** so content lives alongside files in SharePoint/OneDrive/Teams, inheriting the same permissions, compliance, and eDiscovery capabilities.
 
-### [Stream (on SharePoint)](https://learn.microsoft.com/en-us/stream/))
+### [Stream (on SharePoint)](/stream/))
 Stream stores and manages videos as standard files in SharePoint, OneDrive, and Teams. It offers modern playback features like transcripts, chapters, and markers, along with easy sharing, detailed analytics, multi-geo support, and full compliance and eDiscovery parity with other file types.
 
 ### [Subsite](/sharepoint/manage-site-creation#manage-detailed-site-and-subsite-creation-settings-in-the-classic-sharepoint-admin-center)
@@ -1542,7 +1542,7 @@ When you install the DirectAccess and VPN (RAS) role service, you are deploying 
 
 An employee experience platform that brings together communications, knowledge, learning, resources, and insights.
 
-### [Viva Topics (Retired)](https://learn.microsoft.com/en-us/microsoft-365/topics/changes-coming-to-topics?view=o365-worldwi
+### [Viva Topics (Retired)](/microsoft-365/topics/changes-coming-to-topics)
 Viva Topics retired on February 22, 2025. Topic pages published by users become standard SharePoint pages; AI‑generated topic pages and automatic topic surfaces wind down. Use **SharePoint** for publishing and **Microsoft Search** and **Copilot** for discovery and knowledge experiences.
 
 ### [Volume Licencing Service Center (VLSC)](/licensing/)
