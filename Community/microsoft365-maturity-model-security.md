@@ -38,7 +38,7 @@ Based on NIST Cybersecurity Framework (CSF), we can divide this into five phases
 - **Respond** (During breach)
 - **Recover** (Post-breach)
 
-![A circular diagram of the NIST cybersecurity framework.](media/microsoft365-maturity-model--security/cybersecurity-reference-model-nist.png)
+![A circular diagram of the NIST cybersecurity framework.](media/microsoft365-maturity-model--security/cybersecurity-reference-model.png)
 
 Effective security programs require solutions that address questions across each phase:
 
