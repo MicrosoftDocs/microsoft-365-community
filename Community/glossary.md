@@ -403,23 +403,23 @@ Dynamics 365 is a set of intelligent business applications that helps you run yo
 
 ## E
 
-### [E1 licencing (Office 365)](https://www.microsoft.com/microsoft-365/enterprise/office-365-e1)
+### [E1 Licensing (Office 365)](https://www.microsoft.com/microsoft-365/enterprise/office-365-e1)
 
 Office 365 E1 includes web-based apps like Excel and Outlook integrated with cloud services like OneDrive and Teams that enable productivity from anywhere.
 
-### [E3 licencing (Office 365)](https://www.microsoft.com/microsoft-365/enterprise/office-365-e3)
+### [E3 Licensing (Office 365)](https://www.microsoft.com/microsoft-365/enterprise/office-365-e3)
 
 Office 365 E3 is a cloud-based suite of productivity apps and services with information protection and compliance capabilities included.
 
-### [E3 licencing (Microsoft 365)](https://www.microsoft.com/microsoft-365/enterprise/e3)
+### [E3 Licensing (Microsoft 365)](https://www.microsoft.com/microsoft-365/enterprise/e3)
 
 Microsoft 365 E3 combines best-in-class productivity apps with core security and compliance capabilities.
 
-### [E5 licencing (Office 365)](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5)
+### [E5 Licensing (Office 365)](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5)
 
 Office 365 E5 is a cloud-based suite of productivity apps combined with advanced voice, analytics, security, and compliance services.
 
-### [E5 licencing (Microsoft 365)](https://www.microsoft.com/microsoft-365/enterprise/e5)
+### [E5 Licensing (Microsoft 365)](https://www.microsoft.com/microsoft-365/enterprise/e5)
 
 Microsoft 365 E5 combines best-in-class productivity apps with advanced security, compliance, voice, and analytical capabilities.
 
@@ -499,7 +499,7 @@ In the modern SharePoint experience, sub-sites are not recommended. In the new �
 
 ### [Flow (Power Automate)](/power-automate/flow-types)
 
-Flows in Power Automate is a service that you can use to automate repetitive tasks to bring efficiencies to any organisation. You can create cloud flows, desktop flows, or business process flows.
+Flows in Power Automate is a service that you can use to automate repetitive tasks to bring efficiencies to any organization. You can create cloud flows, desktop flows, or business process flows.
 
 ### [Folders](https://support.microsoft.com/office/create-files-and-folders-in-onedrive-work-or-school-e1f59717-2f02-494d-93c6-8ef9613e82ba)
 
@@ -719,7 +719,7 @@ Just-in-Time access is the core principle of Microsoft Entra Privileged Identity
 
 ### [Kaizala (Retired)](https://www.microsoft.com/garage/profiles/kaizala/)
 
-Microsoft Kaizala is a mobile app and service designed for large group communications and work management. Kaizala makes it easy to connect and coordinate work with your entire value chain, including field employees, vendors, partners, and customers wherever they are. With Kaizala you efficiently assign and track tasks or collect data with individuals or large groups–even if they’re not within your organisation.
+Microsoft Kaizala is a mobile app and service designed for large group communications and work management. Kaizala makes it easy to connect and coordinate work with your entire value chain, including field employees, vendors, partners, and customers wherever they are. With Kaizala you efficiently assign and track tasks or collect data with individuals or large groups–even if they’re not within your organization.
 
 ### [Kanban](https://www.microsoft.com/microsoft-365/business-insights-ideas/resources/how-to-use-a-kanban-solution-to-manage-your-team-tasks)
 
@@ -783,11 +783,11 @@ Log Analytics is a tool in the Azure portal used to edit and run log queries wit
 
 ### [Logic Apps (Azure)](/azure/logic-apps/logic-apps-overview)
 
-Azure Logic Apps is a cloud-based platform for creating and running automated workflows that integrate your apps, data, services, and systems. With this platform, you can quickly develop highly scalable integration solutions for your enterprise and business-to-business (B2B) scenarios
+Azure Logic Apps is a cloud-based platform for creating and running automated workflows that integrate your apps, data, services, and systems. With this platform, you can quickly develop highly scalable integration solutions for your enterprise and business-to-business (B2B) scenarios.
 
 ### [Loop](https://www.microsoft.com/microsoft-loop?ms.url=microsoftcommicrosoft-loop)
 
-Loop enables multiplayer co‑creation using pages, components, and workspaces. Loop content is stored in SharePoint (via SharePoint Embedded) and supports eDiscovery, audit, retention labels, and sensitivity labels. Admins can configure group‑managed workspaces, guest sharing, and lifecycle controls
+Loop enables multiplayer co‑creation using pages, components, and workspaces. Loop content is stored in SharePoint (via SharePoint Embedded) and supports eDiscovery, audit, retention labels, and sensitivity labels. Admins can configure group‑managed workspaces, guest sharing, and lifecycle controls.
 
 ## M
 
@@ -856,7 +856,7 @@ Modern SharePoint refers to the user interface (UI) that has been available in S
 
 ### [Modern Workplace](https://www.microsoft.com/microsoft-365/modern-workplace?activetab=tab%3Amultifeaturecarouselregion6)
 
-The nature of work has changed. Employees expect to work securely from anywhere, on any device, and they put a high premium on work that enriches and fulfills them. When their productivity tools enhance the quality and effectiveness of their work experience, they’re happier, more valuable, and more likely to stay. Companies need to provide that empowerment, but they also need to protect vital IT assets. It’s a fundamental operational change for your organisation. With Microsoft Modern Workplace solutions, you can improve employee productivity and satisfaction, and create more seamless communication and collaboration across locations and platforms while maintaining the security and integrity of systems and data.
+The nature of work has changed. Employees expect to work securely from anywhere, on any device, and they put a high premium on work that enriches and fulfills them. When their productivity tools enhance the quality and effectiveness of their work experience, they’re happier, more valuable, and more likely to stay. Companies need to provide that empowerment, but they also need to protect vital IT assets. It’s a fundamental operational change for your organization. With Microsoft Modern Workplace solutions, you can improve employee productivity and satisfaction, and create more seamless communication and collaboration across locations and platforms while maintaining the security and integrity of systems and data.
 
 ### [Most Valuable Professional (MVP)](https://mvp.microsoft.com/)
 
@@ -896,7 +896,7 @@ Network settings that are common to Location-Based Routing and dynamic emergency
 
 If your organization is deploying Location-Based Routing for Direct Routing or dynamic emergency calling, you must configure network settings for use with these cloud voice features in Microsoft Teams. Network settings are used to determine the location of a Teams client and include network regions, network sites, subnets, and trusted IP addresses.
 
-### [Non Profit licencing](https://www.microsoft.com/microsoft-365/nonprofit/plans-and-pricing?activetab=tab:primaryr1)
+### [Non Profit Licensing](https://www.microsoft.com/microsoft-365/nonprofit/plans-and-pricing?activetab=tab:primaryr1)
 
 Microsoft Tech for Social Impact is dedicated to providing affordable and accessible technology and tools to help nonprofits of all sizes achieve their missions. That’s why Microsoft offer grants and discounts of their products and services to eligible nonprofits around the world, including Microsoft 365 and Office 365. To qualify for nonprofit grants and discounts, you must hold recognized charitable status in your country/region and sign Microsoft’s non-discrimination policy. Microsoft reserves the right to verify eligibility at any time and to suspend the service for ineligible organizations.
 
@@ -1061,7 +1061,7 @@ The term 'putability' is the complement to the term 'findability'; it is a measu
 
 ### QBasic
 
-QBasic is Quick Basic interpreter.This application could be used to run quick basic program and software developed for your Windows10 desktop or tablet.
+QBasic is Quick Basic interpreter. This application could be used to run quick basic program and software developed for your Windows10 desktop or tablet.
 
 ### [QnA Maker (Retiring)](/azure/cognitive-services/qnamaker/overview/overview)
 
@@ -1279,7 +1279,7 @@ When you create a site collection, a top-level site is automatically created in 
 
 ### [SKU](https://en.wikipedia.org/wiki/Stock_keeping_unit)
 
-A SKU is a Stock Keeping Unit, and in the context of Microsoft 365, a SKU refers to licencing bundles available for purchase.
+A SKU is a Stock Keeping Unit, and in the context of Microsoft 365, a SKU refers to Licensing bundles available for purchase.
 
 ### [Skype for Business](/skypeforbusiness/skype-for-business-server-2019)
 
@@ -1545,7 +1545,7 @@ An employee experience platform that brings together communications, knowledge, 
 ### [Viva Topics (Retired)](/microsoft-365/topics/changes-coming-to-topics)
 Viva Topics retired on February 22, 2025. Topic pages published by users become standard SharePoint pages; AI‑generated topic pages and automatic topic surfaces wind down. Use **SharePoint** for publishing and **Microsoft Search** and **Copilot** for discovery and knowledge experiences.
 
-### [Volume Licencing Service Center (VLSC)](/licensing/)
+### [Volume Licensing Service Center (VLSC)](/licensing/)
 
 The VLSC is where organizations manage licenses purchased via the following volume licensing programs: Microsoft Enterprise, Enterprise Subscription, Select Plus, Select, Academic – Education Enrolment or School Enrolment, Open Value, Open Value Subscription and Open Licenses programs.
 
