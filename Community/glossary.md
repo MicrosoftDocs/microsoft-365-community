@@ -52,7 +52,7 @@ Adaptive Cards are platform‑agnostic UI snippets authored in JSON and rendered
 
 ### [Adaptive Scopes (Retention)](/microsoft-365/compliance/retention-settings#configuration-information-for-adaptive-scopes)
 
-daptive scopes let you target Microsoft Purview retention and communication compliance policies dynamically using query‑based membership (for example, department, geography, or Microsoft Entra administrative units). Scopes evaluate daily and scale without the overhead of maintaining static groups.
+Adaptive scopes let you target Microsoft Purview retention and communication compliance policies dynamically using query‑based membership (for example, department, geography, or Microsoft Entra administrative units). Scopes evaluate daily and scale without the overhead of maintaining static groups.
 
 ### [Administrative units](/azure/active-directory/roles/administrative-units)
 
@@ -154,7 +154,7 @@ Azure Active Directory B2C provides business-to-customer identity as a service. 
 
 ### [Backup](/exchange/back-up-email)
 
-icrosoft operates robust data resilience and service‑level protections, but traditional “backup” (independent, point‑in‑time copies under your control) follows a shared responsibility model. Many organizations use third‑party backup to meet RPO/RTO targets, long‑term retention, or cross‑tenant restore scenarios.
+Microsoft operates robust data resilience and service‑level protections, but traditional “backup” (independent, point‑in‑time copies under your control) follows a shared responsibility model. Many organizations use third‑party backup to meet RPO/RTO targets, long‑term retention, or cross‑tenant restore scenarios.
 
 ### [Billing](/dynamics365/commerce/)
 
@@ -277,7 +277,7 @@ The Content Type Gallery is the modernized view of the [Content Type Hub](#conte
 The Content Type Hub is a Site Collection where you can manage [Content Types](#content-type) and [Site Columns](#site-column) which should be available across your entire tenant. The Content Type Hub is older technology and generally is used less than in the past, primarily because it is slow to publish and it published to all [Site Collections](#site-collection) in the tenant. There is a modernized view of the Content Type Hub in the SharePoint Admin Center's Content Services [Content Type Gallery](#content-type-gallery).
 
 
-### [Copilot](https://www.microsoft.com/en-us/microsoft-365/enterprise/copilot-for-microsoft-365)
+### [Copilot](https://www.microsoft.com/microsoft-365/enterprise/copilot-for-microsoft-365)
 
 Copilot brings the power of large language models to your organization’s data and context through Microsoft Graph. It works seamlessly across Word, Excel, PowerPoint, Outlook, Teams, Loop, and more—helping you draft, analyze, summarize, and create with ease. Built on your existing security, permissions, and compliance controls, Copilot uses advanced features like the Semantic Index to surface the most relevant content, ensuring every response is grounded in your organization’s knowledge.
 
@@ -287,7 +287,7 @@ Copilot Pages are editable, shareable canvases created from Copilot Chat. They t
 
 Both Pages and Notebooks are saved as `.loop` files in user‑owned SharePoint Embedded containers (“My workspace/Pages”), and storage counts toward your tenant’s SharePoint quota. Admins can enable/disable creation via Cloud Policy.
 
-### [Copilot Studio (formerly Power Virtual Agents)](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/microsoft-power-virtual-agents-now-part-of-microsoft-copilot-studio/)
+### [Copilot Studio (formerly Power Virtual Agents)](https://www.microsoft.com/microsoft-copilot/blog/copilot-studio/microsoft-power-virtual-agents-now-part-of-microsoft-copilot-studio/)
 
 Microsoft Copilot Studio is a low‑code platform to build custom copilots/agents, connect to data via plugins/actions, orchestrate workflows, and customize Microsoft 365 Copilot.
 
@@ -323,7 +323,7 @@ The General Data Protection Regulation (GDPR) introduces new rules for organizat
 
 ### Microsoft Dataverse
 
-[Microsoft Microsoft Dataverse](https://powerplatform.microsoft.com/dataverse/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Microsoft Dataverse enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
+[Microsoft Dataverse](https://powerplatform.microsoft.com/dataverse/) is the premium data backbone that enables people to store their data in a scalable and secure environment dynamically. Microsoft Dataverse enables organizations to look at data as a service spun up on-demand to meet ever-changing business needs.
 
 ### Microsoft Dataverse for Teams
 
@@ -619,7 +619,7 @@ In Windows 10, Windows Hello for Business replaces passwords with strong two-fac
 
 The Highlighted Content Web Part allows you to [roll up](#roll-up) content from allows you to specify content sources, sorting and filtering, and layout options.
 
-As with all web parts in SharePoint, this we part will only display content which the current user has permission to see.
+As with all web parts in SharePoint, this web part will only display content which the current user has permission to see.
 
 ### [Hololens](https://www.microsoft.com/hololens)
 
@@ -783,7 +783,7 @@ Log Analytics is a tool in the Azure portal used to edit and run log queries wit
 
 ### [Logic Apps (Azure)](/azure/logic-apps/logic-apps-overview)
 
-Azure Logic Apps s a cloud-based platform for creating and running automated workflows that integrate your apps, data, services, and systems. With this platform, you can quickly develop highly scalable integration solutions for your enterprise and business-to-business (B2B) scenarios
+Azure Logic Apps is a cloud-based platform for creating and running automated workflows that integrate your apps, data, services, and systems. With this platform, you can quickly develop highly scalable integration solutions for your enterprise and business-to-business (B2B) scenarios
 
 ### [Loop](https://www.microsoft.com/microsoft-loop?ms.url=microsoftcommicrosoft-loop)
 
@@ -1189,7 +1189,7 @@ The Search Schema refers to the customizable data dictionary used by SharePoint 
 Microsoft Entra self-service password reset (SSPR) gives users the ability to change or reset their password, with no administrator or help desk involvement. If a user's account is locked or they forget their password, they can follow prompts to unblock themselves and get back to work. This ability reduces help desk calls and loss of productivity when a user can't sign in to their device or an application. Microsoft recommend this video on how to enable and configure SSPR in Microsoft Entra ID.
 
 ### [Semantic Index for Copilot](/microsoftsearch/semantic-index-for-copilot)
-The semantix index is a retrieval layer that understands relationships across your Microsoft 365 content (SharePoint, OneDrive, Teams), improving Copilot’s grounding and answer quality. It complements Microsoft Search and your information architecture.
+The semantic index is a retrieval layer that understands relationships across your Microsoft 365 content (SharePoint, OneDrive, Teams), improving Copilot’s grounding and answer quality. It complements Microsoft Search and your information architecture.
 
 ### [Sensitive information type](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
@@ -1207,7 +1207,7 @@ Microsoft Sentinel is a scalable, cloud-native, security information and event m
 
 Microsoft partners with selected Session Border Controllers (SBC) vendors to certify that their SBCs work with Direct Routing.
 
-### [SharePoint agents](https://support.microsoft.com/en-us/office/get-started-with-sharepoint-agents-69e2faf9-2c1e-4baa-8305-23e625021bcf)
+### [SharePoint agents](https://support.microsoft.com/office/get-started-with-sharepoint-agents-69e2faf9-2c1e-4baa-8305-23e625021bcf)
 
 AI assistants scoped to SharePoint sites, pages, and libraries that answer questions, summarize content, and assist with task‑specific workflows—respecting user permissions and sensitivity labels. Every site includes a “ready‑made” agent; site owners and members can create custom agents, brand them, and expand knowledge sources. Agents are stored as `.agent` files (Site Assets/Copilots or the originating library) and can be shared to Teams/Copilot.
 
@@ -1428,7 +1428,7 @@ Transport Layer Security (TLS), the successor of the now-deprecated Secure Socke
 
 Microsoft To-Do is an intelligent task management app that makes it easy to plan and manage your day. Connect to Microsoft To-Do to manage your tasks from various services. You can perform actions such as creating tasks.
 
-### [Town halls (Teams)](https://support.microsoft.com/en-us/office/switch-from-microsoft-teams-live-events-to-town-halls-c71bf6e2-ece1-4809-900e-51271f39ac72)
+### [Town halls (Teams)](https://support.microsoft.com/office/switch-from-microsoft-teams-live-events-to-town-halls-c71bf6e2-ece1-4809-900e-51271f39ac72)
 
 Teams Town halls are optimized for one‑to‑many events with green room, structured Q&A, email communications, RTMP‑in, and higher capacities (additional options with Teams Premium). Town halls are the strategic replacement for Live Events.
 
