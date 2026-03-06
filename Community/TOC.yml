@@ -85,9 +85,9 @@ Items:
       - name: Security Competency
         items:
         - name: Security Competency
-          href: microsoft365-maturity-model--security.md
+          href: microsoft365-maturity-model-security.md
         - name: Elevating Security
-          href: microsoft365-maturity-model--how-to-elevate-security.md
+          href: microsoft365-maturity-model-how-to-elevate-security.md
       - name: Staff & Training
         items:
         - name: Staff & Training Competency
