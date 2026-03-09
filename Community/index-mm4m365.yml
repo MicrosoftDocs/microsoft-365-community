@@ -74,7 +74,7 @@ landingContent:
           - text: Search Competency
             url: microsoft365-maturity-model--search.md
           - text: Security Competency
-            url: microsoft365-maturity-model--security.md  
+            url: microsoft365-maturity-model-security.md  
           - text: Staff & Training Competency
             url: microsoft365-maturity-model--staff-and-training.md
 
