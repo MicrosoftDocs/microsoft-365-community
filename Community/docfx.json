@@ -83,7 +83,7 @@
         "exclude": [ 
           "**/*.md", 
           "**/*.yml"
-       ] 
+        ] 
       }
     }, 
     "fileMetadata": {},
