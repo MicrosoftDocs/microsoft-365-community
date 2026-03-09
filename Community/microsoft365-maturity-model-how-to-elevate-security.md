@@ -18,7 +18,7 @@ ms.collection: M365Community
 
 ## Introduction
 
-The [Security Competency](microsoft365-maturity-model--security.md) article provides an overview of security concepts and details each of the five security maturity levels from Initial to Optimizing (100 through 500). It adopts a broadly technology-agnostic approach to the business characteristics of security plus expected benefits.
+The [Security Competency](microsoft365-maturity-model-security.md) article provides an overview of security concepts and details each of the five security maturity levels from Initial to Optimizing (100 through 500). It adopts a broadly technology-agnostic approach to the business characteristics of security plus expected benefits.
 
 This article explores how organizations at any level could use the Microsoft 365 suite (and associated technologies) to reach a higher maturity level. Understanding how organizations evolve through security maturity helps you identify where to focus improvement efforts and what resources you'll need.
 
@@ -523,7 +523,7 @@ Regardless of where your organization is today, you can take action to improve s
 
 ## Related Documents
 
-- [Security Competency](microsoft365-maturity-model--security.md)
+- [Security Competency](microsoft365-maturity-model-security.md)
 - [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md)
 - [How to Run a Maturity Model Workshop](microsoft365-maturity-model--run-workshop.md)
 - [Governance, Risk, and Compliance Competency](microsoft365-maturity-model--governance-and-compliance.md)
