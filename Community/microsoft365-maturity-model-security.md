@@ -439,7 +439,7 @@ Mature security practices create positive business value through contract wins, 
 ### Related Documents
 
 - [Maturity Model for Microsoft 365 - Introduction](microsoft365-maturity-model--intro.md)
-- [Elevating Security](microsoft365-maturity-model--how-to-elevate-security.md)
+- [Elevating Security](microsoft365-maturity-model-how-to-elevate-security.md)
 - [Governance, Risk, and Compliance Competency](microsoft365-maturity-model--governance-and-compliance.md)
 - [Infrastructure Competency](microsoft365-maturity-model--infrastructure.md)
 
