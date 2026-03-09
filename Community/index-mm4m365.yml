@@ -74,7 +74,7 @@ landingContent:
           - text: Search Competency
             url: microsoft365-maturity-model--search.md
           - text: Security Competency
-            url: microsoft365-maturity-model--security.md  
+            url: microsoft365-maturity-model-security.md  
           - text: Staff & Training Competency
             url: microsoft365-maturity-model--staff-and-training.md
 
@@ -90,7 +90,7 @@ landingContent:
           - text: Elevating People and Communities
             url: microsoft-maturity-model-how-to-people-communities.md
           - text: Elevating Security
-            url: microsoft365-maturity-model--how-to-elevate-security.md  
+            url: microsoft365-maturity-model-how-to-elevate-security.md  
           - text: Elevating Staff and Training
             url: microsoft-maturity-model-how-to-staff-and-training.md
 
