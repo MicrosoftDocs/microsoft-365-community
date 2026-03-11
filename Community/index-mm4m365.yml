@@ -37,6 +37,10 @@ landingContent:
     linkLists:
       - linkListType: whats-new
         links:
+          - text: Security Competency
+            url: microsoft365-maturity-model-security.md
+          - text: Elevating Security
+            url: microsoft365-maturity-model-security.md  
           - text: Maturity Model for Microsoft 365 Practical Scenarios - Knowledge Management
             url: maturity-model-microsoft365-ps-knowledge-management.md
 
