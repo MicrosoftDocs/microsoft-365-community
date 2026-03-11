@@ -6,6 +6,25 @@
 
 Note: Changelog started in January, 2021
 
+## March, 2026
+
+### New Articles - March, 2026
+
+| Article | Principal Author |
+|---|---|
+| [Security Competency](./Community/microsoft365-maturity-model-security.md) | [Mats Wornolf, MVP](https://www.linkedin.com/in/matswarnolf/) |
+| [Elevating Security](./Community/microsoft365-maturity-model-how-to-elevate-security.md) | [Mats Wornolf, MVP](https://www.linkedin.com/in/matswarnolf/) |
+
+### Updated Articles - March, 2026
+
+| Article | Updated By |
+|---|---|
+
+### Removed/Retired Articles - March, 2026
+
+| Article |
+|---|
+
 ## January, 2026
 
 ### New Articles - January, 2026
@@ -21,8 +40,6 @@ Note: Changelog started in January, 2021
 |---|---|
 | [Maturity Model for Microsoft 365 – People and Communities Competency](./Community/microsoft365-maturity-model--people-and-communities-competency.md) | [Pia Langenkrans, MVP](https://www.linkedin.com/in/pialangenkrans/)) |
 | [Maturity Model for Microsoft 365 - Staff & Training Competency](./Community/microsoft365-maturity-model--staff-and-training.md) | [Pia Langenkrans, MVP](https://www.linkedin.com/in/pialangenkrans/) |
-
-
 
 ### Removed/Retired Articles - January, 2026
 
