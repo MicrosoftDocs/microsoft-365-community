@@ -52,7 +52,19 @@
       "open_source_feedback_issueTitle": "Microsoft 365 community feedback - ",
       "open_source_feedback_issueUrl": "https://github.com/MicrosoftDocs/microsoft-365-community/issues/new?template=customer-feedback.yml",
       "open_source_feedback_productName": "Microsoft 365 community content",
-      "searchScope": ["Microsoft 365 community"]
+      "searchScope": ["Microsoft 365 community"],
+      "contributors_to_exclude": [
+       "aditisrivastava07",
+       "AGuentherinWA",
+       "claydetels19",
+       "dstrome",
+       "garycentric",
+       "padmagit77",
+       "rjagiewich",
+       "Ruchika-mittal01",
+       "Shipra-M09",
+       "techtoons"
+     ]
     },
     "rules": {
       "filename-incomplete": { 
