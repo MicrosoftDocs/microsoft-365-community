@@ -40,7 +40,7 @@ landingContent:
           - text: Security Competency
             url: microsoft365-maturity-model-security.md
           - text: Elevating Security
-            url: microsoft365-maturity-model-security.md  
+            url: microsoft365-maturity-model-how-to-elevate-security.md
           - text: Maturity Model for Microsoft 365 Practical Scenarios - Knowledge Management
             url: maturity-model-microsoft365-ps-knowledge-management.md
 
