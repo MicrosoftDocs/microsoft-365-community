@@ -1,4 +1,7 @@
 {
+  "AutoIssueAssign": {
+    "ExcludedUserList": ["user1", "user2"]
+  },
   "AutoLabelAssign": {
     "AutoAssignUsers": 1,
     "AutoAssignReviewers": 1,
