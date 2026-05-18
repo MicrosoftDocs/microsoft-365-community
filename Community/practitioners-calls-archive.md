@@ -30,6 +30,8 @@ This page serves as an archive of all Maturity Model for Microsoft 365 Practitio
 
 ## Table of Contents
 
+- [February 2026 - AMA: AI, Governance and Organizational Maturity](#ama-ai-governance-and-organizational-maturity)
+- [January 2026 - Maturity Model for Microsoft 365 Agent](#maturity-model-for-microsoft-365-agent)
 - [November 2025 - Practical Scenario Copilot Adoption Level 300](#practical-scenario-copilot-adoption-level-300)
 - [October 2025 - Revisiting the Communications Competency](#revisiting-the-communications-competency)
 - [September 2025 - Business Process & Search Competency Update](#business-process--search-competency-update)
@@ -43,6 +45,48 @@ This page serves as an archive of all Maturity Model for Microsoft 365 Practitio
 ---
 
 ## Practitioners Calls Archive
+
+### AMA: AI, Governance and Organizational Maturity
+
+February 2026 | Recording: <a href="https://www.youtube.com/watch?v=IdIrx_p0TSs" target="_blank">YouTube</a>
+
+**Speaker(s):** <a href="https://www.linkedin.com/in/marcanderson" target="_blank">Marc D Anderson, MVP</a><br><a href="https://www.linkedin.com/in/simonjhudson/" target="_blank">Simon Hudson, MVP</a><br><a href="https://www.linkedin.com/in/sharonweaver/" target="_blank">Sharon Weaver</a><br><a href="https://www.linkedin.com/in/pialangenkrans/" target="_blank">Pia Langenkrans, MVP</a>
+
+**Summary:** The February session was an open Ask Me Anything, giving the community space to surface real-world challenges and compare experiences across organizations at different maturity levels. Several rich threads emerged from the conversation.
+
+Andress opened by describing a Copilot Chat rollout for 3,000 users across an enterprise where the data and security posture was not yet ready for full AI deployment. The team affirmed the approach of a department-by-department maturity assessment, emphasizing that readiness is an organizational question, not an individual one. Pia returned to her November session on Copilot adoption at level 300, noting the real-world example of a Swedish company whose AI consistently priced sales proposals using the Finland price list — surfacing ROT (redundant, obsolete, trivial) data as the silent killer of AI value. The consensus: managers, not IT, need to own their department's AI agents because they understand the business rules the agent will be trusted to apply.
+
+Amy, Power Platform COE manager, raised a governance challenge that drew significant discussion: blind spots in personal Power BI workspaces (invisible to tenant admin APIs) and the risk of Power Automate flows or Copilot Studio agents moving data from secured systems into uncontrolled SharePoint locations. The team explored several responses. Simon Hudson argued that agent architecture must be designed from the start to respect governance boundaries — and that where possible, user-context queries should replace content-movement patterns. Sharon shared her practical approach: monthly internal user groups where people demonstrate what they're building, used to identify and guide rogue implementations before they become incidents. The key principle: blocking by policy makes violations invisible; monitoring first makes them fixable. Pia added that sensitivity label rollouts should begin with observation — one organization had to backpedal after labeling all contracts as internal, then realizing contracts by definition involve external parties.
+
+Heather, new to a regulated organization about to enable Copilot for half its workforce, asked what to monitor first. Marc's framing cut through the anxiety: Copilot is a layer on top of what already exists. The things you should worry about are the same things you should have been worried about before it was enabled — and what Copilot exposes are the governance gaps already present. Pia added that end-user training must acknowledge that many people still struggle with the basics of Windows and Office, let alone AI prompting.
+
+Ralph raised the question of using AI to support M365 administration and maturity progression itself. Simon Hudson outlined a three-tier framework he uses when working with AI: finding information quickly, doing things faster that he already knows how to do, and extending his competency into areas just beyond his reach — provided he knows enough to recognize when the AI is going wrong. The warning was clear: asking open questions on topics you know nothing about leaves you unable to validate the answers.
+
+The session closed with discussion about where organizations get stuck: not knowing what questions to ask, which mirrors years of "I don't know what to search for." Simon noted that asking AI to coach you through a problem — "ask me questions, I'll answer them" — is itself a legitimate prompting strategy. The session slides were made available for those who wanted to explore the prepared content that the rich live discussion displaced.
+
+`AI & Cognitive Business`, `Governance, Risk & Compliance`, `People & Communities` | [→ Back to top](#table-of-contents)
+
+---
+
+### Maturity Model for Microsoft 365 Agent
+
+January 2026 | Recording: <a href="https://www.youtube.com/watch?v=lJhBc9L4gbE" target="_blank">YouTube</a>
+
+**Speaker(s):** <a href="https://www.linkedin.com/in/simondoy/" target="_blank">Simon Doy, MVP</a>
+
+**Summary:** Simon Doy presented the Maturity Model for Microsoft 365 Agent — a Copilot Studio agent he built to help practitioners navigate and apply the maturity model content without having to read through the entire documentation set. The agent is grounded exclusively on Microsoft Learn MM4M365 content and does not draw from external sources or the model's own internal knowledge, keeping responses tightly scoped to what the community has actually written.
+
+Simon demonstrated the agent live, walking through several scenarios: explaining the model's value to a developer audience, identifying a client's maturity level in the Communications competency, building a consulting narrative for a CIO conversation, and running a self-assessment checklist for the Collaboration competency. The demo surfaced useful early feedback — citations were not appearing correctly in responses despite being configured, and some yes/no assessment questions came back as open-ended rather than binary. Both were logged as issues to fix in the upcoming 1.005 release.
+
+A live survey during the session collected audience views on what features they most wanted. Top requests included competency-specific knowledge improvements, road mapping support, and usage analytics. Feedback on challenges named accuracy of research, executive buy-in, and wanting a single place that consolidates everything maturity model related.
+
+The agent is built as a managed Copilot Studio solution, deployable to Microsoft 365 Copilot for licensed users or as a standalone Teams app for organizations without Copilot licenses. Custom knowledge sources can be added — for example, internal IT policies or governance documents — making it possible to layer organizational context on top of the community content. The managed package format keeps the core instructions and grounding clean, while an unmanaged version will be made available for those who want to modify the agent's behavior directly.
+
+Simon noted the agent would eventually migrate from his personal GitHub repo into the main MicrosoftDocs/microsoft-365-community repository as iteration stabilized. The session generated enthusiasm around using the agent as an internal assessment and improvement tool, as well as potential for community members to surface improvement requests through GitHub issues.
+
+`AI & Cognitive Business`, `Customization & Development` | [→ Back to top](#table-of-contents)
+
+---
 
 ### Practical Scenario Copilot Adoption Level 300
 
