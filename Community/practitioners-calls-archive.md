@@ -1,6 +1,6 @@
 ---
 title:  Maturity Model for Microsoft 365 – Practitioners Calls Archive
-ms.date: 1/16/2026
+ms.date: 5/18/2026
 author: mrsbeata
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -30,6 +30,10 @@ This page serves as an archive of all Maturity Model for Microsoft 365 Practitio
 
 ## Table of Contents
 
+- [April 2026 - Revisiting the Staff and Training Competency](#revisiting-the-staff-and-training-competency)
+- [March 2026 - Security Competency](#security-competency)
+- [February 2026 - AMA: AI, Governance and Organizational Maturity](#ama-ai-governance-and-organizational-maturity)
+- [January 2026 - Maturity Model for Microsoft 365 Agent](#maturity-model-for-microsoft-365-agent)
 - [November 2025 - Practical Scenario Copilot Adoption Level 300](#practical-scenario-copilot-adoption-level-300)
 - [October 2025 - Revisiting the Communications Competency](#revisiting-the-communications-competency)
 - [September 2025 - Business Process & Search Competency Update](#business-process--search-competency-update)
@@ -43,6 +47,86 @@ This page serves as an archive of all Maturity Model for Microsoft 365 Practitio
 ---
 
 ## Practitioners Calls Archive
+
+### Revisiting the Staff and Training Competency
+
+April 2026 | Recording: <a href="https://www.youtube.com/watch?v=N8pQMUDLo5I" target="_blank">YouTube</a>
+
+**Speaker(s):** Emily Mancini
+
+**Summary:** Emily Mancini — one of the original authors of the maturity model, who wrote two of the first competencies — returned to present a substantial update to the Staff and Training Competency, first published around 2020. The world has moved on considerably: asynchronous online work is now the norm, and AI has fundamentally changed how organizations think about training and capability building.
+
+Emily's central argument, which she called her "spicy opinion," was that effective AI enablement in an organization does not begin until the managed level (300) is reached. Below that, processes are inconsistent, training outcomes vary wildly by person, and there is no shared definition of what a good output looks like. She illustrated this with a classroom exercise where students drew rainbows under secret constraints — some could only use certain colors, some only outlines. The best rainbow came from the student with the fewest limitations. Using AI without foundational understanding is the same: you are working with a limited palette without knowing it.
+
+The competency update reflects several important shifts since its first version. Training ownership has moved beyond IT — finance, HR, operations, and other business units increasingly lead training for tools they actually use. Champions programs and adoption leads now span the organization. The competency also explicitly addresses responsible AI fluency as a required capability, including understanding how large language models work, where they fail, and why humans must remain in the loop.
+
+A key theme was the difference between performative AI use and actual behavior change. Activity dashboards — who has Copilot enabled, how many prompts per week — do not measure whether training is working. Emily outlined four categories worth measuring instead: productivity gains (time saved, reduction in after-hours work via Viva Insights), quality of outputs (fewer document revisions, faster approval cycles), reduction in manual work (automated meeting recaps, onboarding flows), and decision speed (time from meeting to completed action items). She noted that the time freed by AI itself should be reinvested in building these measurement frameworks — previously there was rarely time to measure training effectiveness at all.
+
+The session included a pointed discussion on AI governance and training readiness. David highlighted the risk of AI becoming self-referential — "the snake eating its tail" — when humans stop validating outputs. Pia added that security training is essential for everyone regardless of maturity level, given increasingly sophisticated AI-generated phishing and deepfakes. A licensing question toward the end revealed a broader principle: the maturity model is not tied to specific Microsoft products. Organizations can reach level 300 without E5 licenses — the model describes capability levels, not product requirements.
+
+`Staff & Training`, `AI & Cognitive Business`, `People & Communities` | [→ Back to top](#table-of-contents)
+
+---
+
+### Security Competency
+
+March 2026 | Recording: <a href="https://www.youtube.com/watch?v=ZdoUMmEReXY" target="_blank">YouTube</a>
+
+**Speaker(s):** <a href="https://www.linkedin.com/in/matswarnolf/" target="_blank">Mats Warnolf, MVP</a><br>Clément Betacorne
+
+**Summary:** Mats Warnolf and Clément Betacorne presented the new Security Competency — a welcome addition to the maturity model that took over two years to develop. Their central premise challenged the most common approach to organizational security: it is not primarily a technology problem. While tools matter, the harder and more impactful challenges are people and culture — and that is precisely where most organizations struggle.
+
+The competency is grounded in the NIST Cybersecurity Framework, structured around five functions: Identify, Protect, Detect, Respond, and Recover, with Governance as the overarching layer. Mats and Clément pointed out that most organizations focus almost entirely on protection — turning on tools, checking compliance boxes — while neglecting detection and response, which is where real damage is controlled.
+
+The five maturity levels were walked through in practical detail. Level 100 organizations have no formal security role, run default settings, and typically learn about breaches from external parties. Level 200 introduces MFA for some accounts and a handful of policies, but creates a false sense of security — organizations feel they are done when significant risk remains. Level 300, illustrated through Swiss banking examples, applies standards consistently, introduces centralized logging (e.g., Microsoft Sentinel), regularly tests incident response procedures, and tracks security metrics. Level 400 turns security from reactive to predictive: conditional access on every login, automated threat response before users notice an issue, and a SIEM spanning all systems including third-party applications — with a reported 90% reduction in incidents requiring manual response. Level 500 brings full zero-trust implementation, AI-driven behavioral analytics including Insider Risk Management, external penetration testing, and active organizational contributions to broader industry security communities. Clément noted he has rarely seen an organization with all level 500 characteristics fully in place.
+
+The session included realistic progression timelines: 100 to 200 takes roughly six months with basic tools and a part-time security coordinator; 200 to 300 takes about a year and requires a full-time security role and organization-wide user training; 300 to 400 takes up to two years and demands a dedicated security team and advanced tooling; 400 to 500 is a continuous journey with no fixed endpoint, requiring sustained cultural change and regular external audits.
+
+A Q&A segment tackled Microsoft Purview: information protection and sensitivity labels belong at level 300, while Insider Risk Management is a level 400 capability. Both require a classification policy and user training before any tooling is deployed. Marc Anderson noted that rolling out Purview capabilities to a level 100 organization tends to lock things down in ways no one understands, causing people to work around the controls. On ownership, both presenters were clear: management holds ultimate responsibility for security — not IT. Mats used the seatbelt analogy to frame it: controls feel inconvenient at first, but become normalized practice. For those wanting to make the business case to leadership without drowning in technical detail, Mats recommended Bruce Schneier's *Secrets and Lies* as a foundational read.
+
+`Security`, `Governance, Risk & Compliance`, `People & Communities` | [→ Back to top](#table-of-contents)
+
+---
+
+### AMA: AI, Governance and Organizational Maturity
+
+February 2026 | Recording: <a href="https://www.youtube.com/watch?v=IdIrx_p0TSs" target="_blank">YouTube</a>
+
+**Speaker(s):** <a href="https://www.linkedin.com/in/marcanderson" target="_blank">Marc D Anderson, MVP</a><br><a href="https://www.linkedin.com/in/simonjhudson/" target="_blank">Simon Hudson, MVP</a><br><a href="https://www.linkedin.com/in/sharonweaver/" target="_blank">Sharon Weaver</a><br><a href="https://www.linkedin.com/in/pialangenkrans/" target="_blank">Pia Langenkrans, MVP</a>
+
+**Summary:** The February session was an open Ask Me Anything, giving the community space to surface real-world challenges and compare experiences across organizations at different maturity levels. Several rich threads emerged from the conversation.
+
+Andress opened by describing a Copilot Chat rollout for 3,000 users across an enterprise where the data and security posture was not yet ready for full AI deployment. The team affirmed the approach of a department-by-department maturity assessment, emphasizing that readiness is an organizational question, not an individual one. Pia returned to her November session on Copilot adoption at level 300, noting the real-world example of a Swedish company whose AI consistently priced sales proposals using the Finland price list — surfacing ROT (redundant, obsolete, trivial) data as the silent killer of AI value. The consensus: managers, not IT, need to own their department's AI agents because they understand the business rules the agent will be trusted to apply.
+
+Amy, Power Platform COE manager, raised a governance challenge that drew significant discussion: blind spots in personal Power BI workspaces (invisible to tenant admin APIs) and the risk of Power Automate flows or Copilot Studio agents moving data from secured systems into uncontrolled SharePoint locations. The team explored several responses. Simon Hudson argued that agent architecture must be designed from the start to respect governance boundaries — and that where possible, user-context queries should replace content-movement patterns. Sharon shared her practical approach: monthly internal user groups where people demonstrate what they're building, used to identify and guide rogue implementations before they become incidents. The key principle: blocking by policy makes violations invisible; monitoring first makes them fixable. Pia added that sensitivity label rollouts should begin with observation — one organization had to backpedal after labeling all contracts as internal, then realizing contracts by definition involve external parties.
+
+Heather, new to a regulated organization about to enable Copilot for half its workforce, asked what to monitor first. Marc's framing cut through the anxiety: Copilot is a layer on top of what already exists. The things you should worry about are the same things you should have worried about before it was enabled — and what Copilot exposes are the governance gaps already present. Pia added that end-user training must acknowledge that many people still struggle with the basics of Windows and Office, let alone AI prompting.
+
+Ralph raised the question of using AI to support M365 administration and maturity progression itself. Simon Hudson outlined a three-tier framework for working with AI: finding information quickly, doing things faster that you already know how to do, and extending competency into areas just beyond your reach — provided you know enough to recognize when the AI is going wrong. The warning was clear: asking open questions on topics you know nothing about leaves you unable to validate the answers. The session closed with the insight that asking AI to coach you through a problem — "ask me questions, I'll answer them" — is itself a legitimate and underused prompting strategy.
+
+`AI & Cognitive Business`, `Governance, Risk & Compliance`, `People & Communities` | [→ Back to top](#table-of-contents)
+
+---
+
+### Maturity Model for Microsoft 365 Agent
+
+January 2026 | Recording: <a href="https://www.youtube.com/watch?v=lJhBc9L4gbE" target="_blank">YouTube</a>
+
+**Speaker(s):** <a href="https://www.linkedin.com/in/simondoy/" target="_blank">Simon Doy, MVP</a>
+
+**Summary:** Simon Doy presented the Maturity Model for Microsoft 365 Agent — a Copilot Studio agent he built to help practitioners navigate and apply the maturity model content without having to read through the entire documentation set. The agent is grounded exclusively on Microsoft Learn MM4M365 content and does not draw from external sources or the model's own internal knowledge, keeping responses tightly scoped to what the community has actually written.
+
+Simon demonstrated the agent live, walking through several scenarios: explaining the model's value to a developer audience, identifying a client's maturity level in the Communications competency, building a consulting narrative for a CIO conversation, and running a self-assessment checklist for the Collaboration competency. The demo surfaced useful early feedback — citations were not appearing correctly in responses despite being configured, and some yes/no assessment questions came back as open-ended rather than binary. Both were logged as issues to fix in the upcoming 1.005 release.
+
+A live survey during the session collected audience views on what features they most wanted. Top requests included competency-specific knowledge improvements, road mapping support, and usage analytics. Feedback on challenges named accuracy of research, executive buy-in, and wanting a single place that consolidates everything maturity model related.
+
+The agent is built as a managed Copilot Studio solution, deployable to Microsoft 365 Copilot for licensed users or as a standalone Teams app for organizations without Copilot licenses. Custom knowledge sources can be added — for example, internal IT policies or governance documents — making it possible to layer organizational context on top of the community content. The managed package format keeps the core instructions and grounding clean, while an unmanaged version will be made available for those who want to modify the agent's behavior directly.
+
+Simon noted the agent would eventually migrate from his personal GitHub repo into the main MicrosoftDocs/microsoft-365-community repository as iteration stabilized. The session generated enthusiasm around using the agent as an internal assessment and improvement tool, as well as potential for community members to surface improvement requests through GitHub issues.
+
+`AI & Cognitive Business`, `Customization & Development` | [→ Back to top](#table-of-contents)
+
+---
 
 ### Practical Scenario Copilot Adoption Level 300
 

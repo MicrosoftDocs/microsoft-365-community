@@ -11,11 +11,9 @@ on:
 jobs:
 
   build-status:
-    uses: MicrosoftDocs/microsoft-365-docs/.github/workflows/Shared-BuildValidation.yml@workflows-prod
+    if: github.repository_owner == 'MicrosoftDocs'
+    uses: MicrosoftDocs/tcp-workflows/.github/workflows/Shared-BuildValidation.yml@workflows-prod
     with:
       PayloadJson: ${{ toJSON(github) }}
     secrets:
       AccessToken: ${{ secrets.GITHUB_TOKEN }}
-
-
-  
