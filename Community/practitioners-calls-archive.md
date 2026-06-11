@@ -1,6 +1,6 @@
 ---
 title:  Maturity Model for Microsoft 365 – Practitioners Calls Archive
-ms.date: 5/18/2026
+ms.date: 6/9/2026
 author: mrsbeata
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -30,6 +30,7 @@ This page serves as an archive of all Maturity Model for Microsoft 365 Practitio
 
 ## Table of Contents
 
+- [May 2026 - Frontier Firm: Maturity Model Perspective](#frontier-firm-maturity-model-perspective)
 - [April 2026 - Revisiting the Staff and Training Competency](#revisiting-the-staff-and-training-competency)
 - [March 2026 - Security Competency](#security-competency)
 - [February 2026 - AMA: AI, Governance and Organizational Maturity](#ama-ai-governance-and-organizational-maturity)
@@ -47,6 +48,26 @@ This page serves as an archive of all Maturity Model for Microsoft 365 Practitio
 ---
 
 ## Practitioners Calls Archive
+
+### Frontier Firm: Maturity Model Perspective
+
+May 2026 | Recording: [YouTube](https://www.youtube.com/watch?v=-3ldSku1168)
+
+**Speaker(s):** [Merethe Stave, MVP](https://www.linkedin.com/in/merethestave/)
+
+**Summary:** Merethe Stave from Cloudway stepped in at short notice to deliver what the community described as one of the clearest explanations yet of what the "Frontier Firm" model actually means — and why most organizations are struggling to get there.
+
+Her central argument: the AI gap is not a capability problem, it is a work design problem. The Copilot trough of disillusionment is real — people attend prompting courses, get excited, return to their desks, and find it does not work the same way. This is not a Copilot failure; it is an organizational readiness failure.
+
+Merethe outlined three distinct readiness gaps that organizations must address in parallel. Technical readiness — infrastructure, licensing, security — is where most organizations have already invested. Human readiness — change management, champions programs, behavioral change — is almost always underfunded. Content readiness — connecting AI to real business strategy and well-governed information — is the gap organizations most frequently overlook. All three must be in place for AI adoption to deliver value; investing in only one creates the illusion of progress while the underlying blockers remain.
+
+The Frontier Firm maturity model runs from 100 to 500. Level 100 is fragmented individual experimentation — people exploring AI tools on their own, with no shared direction. Level 500 is full organizational redesign: moving from an org chart to a work chart, with humans and AI agents working together as integrated teams. Most organizations today sit between level 300 and 400, and each transition carries a specific blocker — unclear direction, over-control, organizational silos, and ultimately full structural restructuring.
+
+The tractor analogy grounded the session in practical terms: Copilot can gather vendor specifications and synthesize information, but if you do not understand tractors, none of that output helps. AI amplifies existing expertise — it does not replace the need for domain knowledge. The time AI saves is precisely the time organizations now have to deepen the understanding that makes AI useful. Champions programs must reflect this: champions cannot sit in IT. Copilot is a business development project. Champions need to be embedded in the business, understand the pain points of their teams, and translate Microsoft updates into real-life examples. A formal 20% time agreement with their manager is not bureaucracy — it is the investment that makes the rest of the implementation work.
+
+`AI & Cognitive Business`, `Staff & Training`, `People & Communities` | [→ Back to top](#table-of-contents)
+
+---
 
 ### Revisiting the Staff and Training Competency
 
