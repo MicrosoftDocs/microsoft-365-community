@@ -1,25 +1,3 @@
-{
-  "redirections": [
-    {
-      "source_path": "Community/powerplatformlicensingforcitizendeveloper.md",
-      "redirect_url": "/power-platform/admin/pricing-billing-skus",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Community/Yet-another-Tool-Why-you-will-probably-love-Project-Moca-aka-Outlook-Spaces.md",
-      "redirect_url": "/microsoft-365/community/",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "Community/index_mm4m365.yml",
-      "redirect_url": "/microsoft-365/community/index-mm4m365",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "Community/where-tenant-display-name-is-used.md",
-      "redirect_url": "/microsoft-365/Community/understanding-where-tenant-display-name-is-used",
-      "redirect_document_id": true
-    },
     {
       "source_path": "Community/microsoft365-maturity-model--intro.md",
       "redirect_url": "https://pnp.github.io/maturity-model/",
@@ -170,5 +148,3 @@
       "redirect_url": "https://pnp.github.io/maturity-model/practical-scenarios/maturity-model-microsoft365-practical-scenarios-copilot-implementation.html",
       "redirect_document_id": false
     }
-  ]
-}
