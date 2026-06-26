@@ -61,14 +61,6 @@ landingContent:
             url: microsoft-teams-naming-importance.md
 
   # Card (optional)
-  - title: Maturity Model for Microsoft 365
-    linkLists:
-      - linkListType: learn
-        links:
-          - text: Learn about the Maturity Model
-            url:  index-mm4m365.yml
-
-  # Card (optional)
   - title: SharePoint Better Practices
     linkLists:
       - linkListType: learn
