@@ -35,7 +35,87 @@ Items:
       href: why-m365-adoption-projects-fail.md
     - name: Microsoft Teams Naming Best Practices
       href: microsoft-teams-naming-importance.md
-
+  - name: Maturity Model for Microsoft 365
+    items:
+    - name: Overview
+      href: index-mm4m365.yml
+      items:
+      - name: Introduction
+        href: https://pnp.github.io/maturity-model/
+      - name: Origin Story
+        href: https://pnp.github.io/maturity-model/overview/microsoft365-maturity-model--origin-story.html
+      - name: Practitioners Calls Archive
+        href: https://pnp.github.io/maturity-model/overview/practitioners-calls-archive.html
+    - name: Competencies A-Z
+      items:
+      - name: Business Process Competency
+        href: https://pnp.github.io/maturity-model/competencies/microsoft365-maturity-model--business-process.html
+      - name: Cognitive Business Competency
+        href: https://pnp.github.io/maturity-model/competencies/microsoft365-maturity-model--cognitive-business.html
+      - name: Collaboration Competency
+        items:
+        - name: Collaboration Competency
+          href: https://pnp.github.io/maturity-model/competencies/microsoft365-maturity-model--collaboration.html
+        - name: Elevating Collaboration
+          href: https://pnp.github.io/maturity-model/competencies/microsoft365-maturity-model--how-to-elevate-collaboration.html
+      - name: Communication Competency
+        items:
+        - name: Communication Competency
+          href: https://pnp.github.io/maturity-model/competencies/microsoft365-maturity-model--communication.html
+        - name: Elevating Communication
+          href: https://pnp.github.io/maturity-model/competencies/microsoft365-maturity-model--how-to-elevate-communication.html
+      - name: Customization and Development Competency
+        href: https://pnp.github.io/maturity-model/competencies/microsoft365-maturity-model--customization-and-development.html
+      - name: Employee Experience Competency
+        href: https://pnp.github.io/maturity-model/competencies/microsoft365-maturity-model--employee-experience.html
+      - name: Governance, Risk, and Compliance Competency
+        href: https://pnp.github.io/maturity-model/competencies/microsoft365-maturity-model--governance-and-compliance.html
+      - name: Infrastructure Competency
+        href: https://pnp.github.io/maturity-model/competencies/microsoft365-maturity-model--infrastructure.html
+      - name: Management of Content Competency
+        href: https://pnp.github.io/maturity-model/competencies/microsoft365-maturity-model--management-of-content.html
+      - name: People and Communities
+        items:
+        - name: People and Communities Competency
+          href: https://pnp.github.io/maturity-model/competencies/microsoft365-maturity-model--people-and-communities-competency.html
+        - name: Elevating People and Communities
+          href: https://pnp.github.io/maturity-model/competencies/microsoft-maturity-model-how-to-people-communities.html
+      - name: Search Competency
+        href: https://pnp.github.io/maturity-model/competencies/microsoft365-maturity-model--search.html
+      - name: Security Competency
+        items:
+        - name: Security Competency
+          href: https://pnp.github.io/maturity-model/competencies/microsoft365-maturity-model-security.html
+        - name: Elevating Security
+          href: https://pnp.github.io/maturity-model/competencies/microsoft365-maturity-model-how-to-elevate-security.html
+      - name: Staff & Training
+        items:
+        - name: Staff & Training Competency
+          href: https://pnp.github.io/maturity-model/competencies/microsoft365-maturity-model--staff-and-training.html
+        - name: Elevating Staff and Training
+          href: https://pnp.github.io/maturity-model/competencies/microsoft-maturity-model-how-to-staff-and-training.html
+    - name: Tools & Samples
+      items:
+      - name: How to run a Maturity Model for Microsoft 365 workshop
+        href: https://pnp.github.io/maturity-model/tools-samples/microsoft365-maturity-model--run-workshop.html
+    - name: Practical Scenarios
+      items:
+      - name: What are Practical Scenarios?
+        href: https://pnp.github.io/maturity-model/practical-scenarios/maturity-model-microsoft365-practical-scenarios.html
+      - name: Maturity Model for Microsoft 365 and Teams Development
+        href: https://pnp.github.io/maturity-model/practical-scenarios/maturity-model-microsoft365-teams-development.html
+      - name: Maturity Model for Microsoft 365 Practical Scenarios – Servicing Microsoft 365 Apps
+        href: https://pnp.github.io/maturity-model/practical-scenarios/maturity-model-microsoft365-servicing-microsoft365-apps.html
+      - name: Maturity Model for Microsoft 365 Practical Scenarios - Microsoft 365 Service Change Management
+        href: https://pnp.github.io/maturity-model/practical-scenarios/maturity-model-microsoft365-servicing-microsoft365-service-change-management.html
+      - name: Maturity Model for Microsoft 365 Practical Scenarios - Microsoft 365 Service Health Management
+        href: https://pnp.github.io/maturity-model/practical-scenarios/maturity-model-microsoft365-servicing-microsoft365-service-health-management.html
+      - name: Maturity Model for Microsoft 365 Practical Scenarios - Enhancing Brand Management
+        href: https://pnp.github.io/maturity-model/practical-scenarios/maturity-model-microsoft365-ps-enhancing-brand-management.html
+      - name: Maturity Model for Microsoft 365 Practical Scenarios - Knowledge Management
+        href: https://pnp.github.io/maturity-model/practical-scenarios/maturity-model-microsoft365-ps-knowledge-management.html
+      - name: Maturity Model for Microsoft 365 Practical Scenarios - Copilot Implementation
+        href: https://pnp.github.io/maturity-model/practical-scenarios/maturity-model-microsoft365-practical-scenarios-copilot-implementation.html
   - name: SharePoint Better Practices
     items:
     - name: Site Builder/Owner—New Site Checklist
