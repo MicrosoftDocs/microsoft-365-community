@@ -22,6 +22,7 @@ Items:
       href: query-string-url-tricks-sharepoint-m365.md
     - name: Use the Government Cloud for SharePoint and Microsoft 365
       href: government-cloud.md
+      
   - name: Microsoft 365 Better Practices
     items:
     - name: Accessibility by Design

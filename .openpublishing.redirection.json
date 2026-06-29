@@ -171,8 +171,363 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Community/maturity-model-microsoft365-practical-scenarios-copilot-implementation.md",
-      "redirect_url": "https://pnp.github.io/maturity-model/practical-scenarios/maturity-model-microsoft365-practical-scenarios-copilot-implementation.html",
+      "source_path": "Community/accessibility-by-design.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/accessibility-by-design.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/all-about-groups.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/all-about-groups.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/auto-apply-retention-labels-in-office-365-using-content-types-and-metadata.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/auto-apply-retention-labels-in-office-365-using-content-types-and-metadata.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/basic-security-set-up-for-microsoft-365.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/basic-security-set-up-for-microsoft-365.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/benefits-of-using-powershell-with-sharepoint.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/benefits-of-using-powershell-with-sharepoint.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/cds-and-model-driven-apps-standards-and-naming-conventions.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/cds-and-model-driven-apps-standards-and-naming-conventions.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/content-type-propagation.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/content-type-propagation.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/creating-useful-views-in-lists-libraries.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/creating-useful-views-in-lists-libraries.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/defining-a-power-platform-environment-strategy.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/defining-a-power-platform-environment-strategy.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/designing-solution-for-scale.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/designing-solution-for-scale.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/document-lifecycle-scenarios.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/document-lifecycle-scenarios.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/document-sets-are-magic.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/document-sets-are-magic.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/empowering-your-SharePoint-champions.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/empowering-your-SharePoint-champions.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/evolution-of-company-wide-email-communication-to-sharepoint-news.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/evolution-of-company-wide-email-communication-to-sharepoint-news.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/file-naming-intranet.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/file-naming-intranet.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/glossary.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/glossary.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/government-cloud.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/government-cloud.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/highlighted-content-web-part.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/highlighted-content-web-part.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/how-can-i-use-learning-pathways-in-my-organization.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/how-can-i-use-learning-pathways-in-my-organization.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/how-do-site-columns-become-managed-properties-thus-available-for-search.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/how-do-site-columns-become-managed-properties-thus-available-for-search.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/how-to-deploy-teams-app-templates.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/how-to-deploy-teams-app-templates.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/how-to-share-org-wide-communications-in-microsoft-365.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/how-to-share-org-wide-communications-in-microsoft-365.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/identifying-your-sharepoint-champions.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/identifying-your-sharepoint-champions.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/importing-data.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/importing-data.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/information-architecture-managed-metadata-vs-lookup-column.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/information-architecture-managed-metadata-vs-lookup-column.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/information-architecture-site-topology.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/information-architecture-site-topology.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/intranet-content-sources.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/intranet-content-sources.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/known-folder-move-benefits-for-enduser.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/known-folder-move-benefits-for-enduser.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/large-lists-large-libraries-in-SharePoint.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/large-lists-large-libraries-in-SharePoint.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/library-scenarios.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/library-scenarios.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/list-column-or-site-column-which-one-to-choose.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/list-column-or-site-column-which-one-to-choose.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/list-formatting-101.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/list-formatting-101.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/machine-learning-and-managed-metadata.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/machine-learning-and-managed-metadata.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/making-good-technology-decisions--data-storage.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/making-good-technology-decisions--data-storage.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/making-good-technology-decisions--establishing-decision-criteria.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/making-good-technology-decisions--establishing-decision-criteria.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/making-good-technology-decisions--front-end.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/making-good-technology-decisions--front-end.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/managing-external-guest-in-SharePoint-vs-Teams.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/managing-external-guest-in-SharePoint-vs-Teams.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/microsoft-365-on-social-media.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/microsoft-365-on-social-media.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/microsoft-365-search-technologies.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/microsoft-365-search-technologies.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/microsoft-teams-naming-importance.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/microsoft-teams-naming-importance.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/new-site-checklist.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/new-site-checklist.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/performing-guest-reviews.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/performing-guest-reviews.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/permission-model-differences.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/permission-model-differences.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/power-automate-send-sharepoint-files-as-attachments.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/power-automate-send-sharepoint-files-as-attachments.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/power-automate-vs-logic-apps.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/power-automate-vs-logic-apps.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/power-platform-DLP-policies-you-should-be-considering-on-Day-1.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/power-platform-DLP-policies-you-should-be-considering-on-Day-1.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/principles-of-communication.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/principles-of-communication.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/principles-of-search.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/principles-of-search.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/query-string-url-tricks-sharepoint-m365.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/query-string-url-tricks-sharepoint-m365.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/select-an-effective-navigation-strategy.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/select-an-effective-navigation-strategy.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/sharepoint-naming-guidelines.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/sharepoint-naming-guidelines.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/sharepoint-security-a-team-effort.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/sharepoint-security-a-team-effort.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/should-everyone-create-teams.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/should-everyone-create-teams.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/site-design-life-cycle.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/site-design-life-cycle.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/taking-advantage-content-type-inheritance-sharepoint.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/taking-advantage-content-type-inheritance-sharepoint.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/team-site-or-communication-site.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/team-site-or-communication-site.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/teams-shared-channel-for-admins.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/teams-shared-channel-for-admins.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/type-of-apps-microsoft-365.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/type-of-apps-microsoft-365.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/understanding-where-tenant-display-name-is-used.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/understanding-where-tenant-display-name-is-used.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/using-shared-channels-for-external-collaboration.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/using-shared-channels-for-external-collaboration.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/using-shared-channels-for-internal-collaboration.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/using-shared-channels-for-internal-collaboration.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/versioning-basics-best-practices.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/versioning-basics-best-practices.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/what-is-content-type.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/what-is-content-type.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/what-is-site-column.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/what-is-site-column.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/which-task-management-option.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/which-task-management-option.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/why-m365-adoption-projects-fail.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/why-m365-adoption-projects-fail.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/why-sharepoint-training-is-important.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/why-sharepoint-training-is-important.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/working-with-cascading-lists-in-sharepoint-and-powerapps.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/working-with-cascading-lists-in-sharepoint-and-powerapps.html",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/working-with-modern-clientside-pages-using-pnp-powershell.md",
+      "redirect_url": "https://pnp.github.io/community-docs/articles/working-with-modern-clientside-pages-using-pnp-powershell.html",
       "redirect_document_id": false
     }
   ]
