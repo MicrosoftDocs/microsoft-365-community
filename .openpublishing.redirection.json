@@ -164,6 +164,10 @@
       "source_path": "Community/maturity-model-microsoft365-ps-knowledge-management.md",
       "redirect_url": "https://pnp.github.io/maturity-model/practical-scenarios/maturity-model-microsoft365-ps-knowledge-management.html",
       "redirect_document_id": false
+    },    {
+      "source_path": "Community/microsoft365-maturity-model-practical-scenarios-copilot-implementation.md",
+      "redirect_url": "https://pnp.github.io/maturity-model/practical-scenarios/maturity-model-microsoft365-practical-scenarios-copilot-implementation.html",
+      "redirect_document_id": false
     },
     {
       "source_path": "Community/maturity-model-microsoft365-practical-scenarios-copilot-implementation.md",
