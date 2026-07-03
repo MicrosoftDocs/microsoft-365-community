@@ -17,8 +17,8 @@ metadata:
 # linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | tutorial | video | whats-new
 
 landingContent:
-# Cards and links should be based on top customer tasks or top subjects
-# Start card title with a verb
+  # Cards and links should be based on top customer tasks or top subjects
+  # Start card title with a verb
 
   # Card (optional)
   - title: Basics and Definitions
@@ -26,23 +26,23 @@ landingContent:
       - linkListType: get-started
         links:
           - text: Glossary
-            url: glossary.md
+            url: https://pnp.github.io/community-docs/articles/glossary.html
           - text: Follow Microsoft 365 on Social Media
-            url: microsoft-365-on-social-media.md
+            url: https://pnp.github.io/community-docs/articles/microsoft-365-on-social-media.html
           - text: Microsoft 365 Search Technologies
-            url: microsoft-365-search-technologies.md
+            url: https://pnp.github.io/community-docs/articles/microsoft-365-search-technologies.html
           - text: What is a Site Column?
-            url:  what-is-site-column.md
+            url: https://pnp.github.io/community-docs/articles/what-is-site-column.html
           - text: What is a Content Type?
-            url:  what-is-content-type.md
+            url: https://pnp.github.io/community-docs/articles/what-is-content-type.html
           - text: Groups in Microsoft 365 and Azure, and Which is Right for You
-            url: all-about-groups.md
+            url: https://pnp.github.io/community-docs/articles/all-about-groups.html
           - text: What kind of apps can you build on Microsoft 365?
-            url: type-of-apps-microsoft-365.md
+            url: https://pnp.github.io/community-docs/articles/type-of-apps-microsoft-365.html
           - text: Query String URL Tricks for SharePoint and Microsoft 365
-            url: query-string-url-tricks-sharepoint-m365.md
+            url: https://pnp.github.io/community-docs/articles/query-string-url-tricks-sharepoint-m365.html
           - text: Use the Government Cloud for SharePoint and Microsoft 365
-            url: government-cloud.md
+            url: https://pnp.github.io/community-docs/articles/government-cloud.html
 
   # Card (optional)
   - title: Microsoft 365 Better Practices
@@ -50,15 +50,23 @@ landingContent:
       - linkListType: learn
         links:
           - text: Accessibility by Design
-            url: accessibility-by-design.md
+            url: https://pnp.github.io/community-docs/articles/accessibility-by-design.html
           - text: Content Type Propagation
-            url: content-type-propagation.md
+            url: https://pnp.github.io/community-docs/articles/content-type-propagation.html
           - text: OneDrive PC Folder Backup Benefits for End Users
-            url:  known-folder-move-benefits-for-enduser.md
+            url: https://pnp.github.io/community-docs/articles/known-folder-move-benefits-for-enduser.html
           - text: Why Microsoft 365 adoption projects fail
-            url: why-m365-adoption-projects-fail.md
+            url: https://pnp.github.io/community-docs/articles/why-m365-adoption-projects-fail.html
           - text: Microsoft Teams Naming Best Practices
-            url: microsoft-teams-naming-importance.md
+            url: https://pnp.github.io/community-docs/articles/microsoft-teams-naming-importance.html
+
+  # Card (optional)
+  - title: Maturity Model for Microsoft 365
+    linkLists:
+      - linkListType: learn
+        links:
+          - text: Learn about the Maturity Model
+            url: https://pnp.github.io/community-docs/
 
   # Card (optional)
   - title: SharePoint Better Practices
@@ -66,25 +74,25 @@ landingContent:
       - linkListType: learn
         links:
           - text: Site Builder/Owner - New Site Checklist
-            url: new-site-checklist.md
+            url: https://pnp.github.io/community-docs/articles/new-site-checklist.html
           - text: Versioning in SharePoint
-            url: versioning-basics-best-practices.md
+            url: https://pnp.github.io/community-docs/articles/versioning-basics-best-practices.html
           - text: Planning Permissions with Group-based SharePoint Sites when you're used to Regular SharePoint Permissions
-            url:  permission-model-differences.md
+            url: https://pnp.github.io/community-docs/articles/permission-model-differences.html
           - text: Importing Data
-            url:  importing-data.md
+            url: https://pnp.github.io/community-docs/articles/importing-data.html
           - text: SharePoint Naming Guidelines
-            url:  sharepoint-naming-guidelines.md
+            url: https://pnp.github.io/community-docs/articles/sharepoint-naming-guidelines.html
           - text: Why SharePoint Training is Important
-            url: why-sharepoint-training-is-important.md
+            url: https://pnp.github.io/community-docs/articles/why-sharepoint-training-is-important.html
           - text: Building great content for your Intranet
-            url: intranet-content-sources.md
+            url: https://pnp.github.io/community-docs/articles/intranet-content-sources.html
           - text: Identifying Your SharePoint Champions
-            url: identifying-your-sharepoint-champions.md
+            url: https://pnp.github.io/community-docs/articles/identifying-your-sharepoint-champions.html
           - text: Empowering Your SharePoint Champions
-            url: empowering-your-SharePoint-champions.md
+            url: https://pnp.github.io/community-docs/articles/empowering-your-SharePoint-champions.html
           - text: File Naming on an Intranet
-            url: file-naming-intranet.md
+            url: https://pnp.github.io/community-docs/articles/file-naming-intranet.html
 
   # Card (optional)
   - title: Information Architecture
@@ -92,24 +100,23 @@ landingContent:
       - linkListType: learn
         links:
           - text: Information Architecture - Site Topology
-            url: information-architecture-site-topology.md
+            url: https://pnp.github.io/community-docs/articles/information-architecture-site-topology.html
           - text: Information Architecture - Managed Metadata vs Lookup columns
-            url: information-architecture-managed-metadata-vs-lookup-column.md
+            url: https://pnp.github.io/community-docs/articles/information-architecture-managed-metadata-vs-lookup-column.html
           - text: Living Large with Large Lists and Large Libraries
-            url: large-lists-large-libraries-in-SharePoint.md
+            url: https://pnp.github.io/community-docs/articles/large-lists-large-libraries-in-SharePoint.html
           - text: Creating Useful Views for Lists & Libraries
-            url: creating-useful-views-in-lists-libraries.md
+            url: https://pnp.github.io/community-docs/articles/creating-useful-views-in-lists-libraries.html
           - text: How Do Site Columns Become Managed Properties - Thus Available for Search?
-            url: how-do-site-columns-become-managed-properties-thus-available-for-search.md
+            url: https://pnp.github.io/community-docs/articles/how-do-site-columns-become-managed-properties-thus-available-for-search.html
           - text: Document Sets for Fast Legacy Process Automation
-            url: document-sets-are-magic.md
+            url: https://pnp.github.io/community-docs/articles/document-sets-are-magic.html
           - text: Taking Advantage of the Content Type Inheritance Model in SharePoint
-            url: taking-advantage-content-type-inheritance-sharepoint.md
+            url: https://pnp.github.io/community-docs/articles/taking-advantage-content-type-inheritance-sharepoint.html
           - text: List Formatting 101
-            url: list-formatting-101.md
+            url: https://pnp.github.io/community-docs/articles/list-formatting-101.html
           - text: Changing Microsoft Teams from private to public - What to expect in SharePoint
-            url: changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.md
-
+            url: https://pnp.github.io/community-docs/articles/changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint.html
 
   # Card (optional)
   - title: Effective Communication
@@ -117,13 +124,13 @@ landingContent:
       - linkListType: learn
         links:
           - text: The Principles of Communication
-            url: principles-of-communication.md
+            url: https://pnp.github.io/community-docs/articles/principles-of-communication.html
           - text: The Principles of Search
-            url: principles-of-search.md
+            url: https://pnp.github.io/community-docs/articles/principles-of-search.html
           - text: The Evolution of Company-wide Email Communication to SharePoint News
-            url: evolution-of-company-wide-email-communication-to-sharepoint-news.md
+            url: https://pnp.github.io/community-docs/articles/evolution-of-company-wide-email-communication-to-sharepoint-news.html
           - text: How to Share Org-Wide Communication in Microsoft 365
-            url: how-to-share-org-wide-communications-in-microsoft-365.md
+            url: https://pnp.github.io/community-docs/articles/how-to-share-org-wide-communications-in-microsoft-365.html
 
   # Card (optional)
   - title: Making Better Decisions
@@ -131,25 +138,25 @@ landingContent:
       - linkListType: concept
         links:
           - text: Team site vs Communication site - Which one should I choose?
-            url: team-site-or-communication-site.md         
+            url: https://pnp.github.io/community-docs/articles/team-site-or-communication-site.html
           - text: List columns or Site columns - which one to choose?
-            url: list-column-or-site-column-which-one-to-choose.md
+            url: https://pnp.github.io/community-docs/articles/list-column-or-site-column-which-one-to-choose.html
           - text: A Guided Tour Designed to Help You Select an Effective Navigation Strategy
-            url: select-an-effective-navigation-strategy.md
+            url: https://pnp.github.io/community-docs/articles/select-an-effective-navigation-strategy.html
           - text: Auto Apply Retention Labels in Office 365 Using Content Types and Metadata
-            url: auto-apply-retention-labels-in-office-365-using-content-types-and-metadata.md
+            url: https://pnp.github.io/community-docs/articles/auto-apply-retention-labels-in-office-365-using-content-types-and-metadata.html
           - text: Can Machine Learning be used to assign managed metadata attributes for items?
-            url: machine-learning-and-managed-metadata.md
+            url: https://pnp.github.io/community-docs/articles/machine-learning-and-managed-metadata.html
           - text: Designing your solution for scale
-            url: designing-solution-for-scale.md
+            url: https://pnp.github.io/community-docs/articles/designing-solution-for-scale.html
           - text: Should I store my files in Microsoft Teams or in SharePoint?
-            url: should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.md
+            url: https://pnp.github.io/community-docs/articles/should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes.html
           - text: Defining a Power Platform Environment Strategy
-            url: defining-a-power-platform-environment-strategy.md
+            url: https://pnp.github.io/community-docs/articles/defining-a-power-platform-environment-strategy.html
           - text: What Task Management Tool is Right For Me
-            url: which-task-management-option.md
+            url: https://pnp.github.io/community-docs/articles/which-task-management-option.html
           - text: Link vs News Link vs Link to a Document
-            url: making-good-technology-decisions--compare-link-news-link-and-link-to-a-document.md
+            url: https://pnp.github.io/community-docs/articles/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document.html
 
   # Card (optional)
   - title: Useful Scenarios
@@ -157,24 +164,23 @@ landingContent:
       - linkListType: concept
         links:
           - text: Library scenarios
-            url: library-scenarios.md
+            url: https://pnp.github.io/community-docs/articles/library-scenarios.html
           - text: Using site designs to manage project life cycles
-            url: site-design-life-cycle.md
+            url: https://pnp.github.io/community-docs/articles/site-design-life-cycle.html
           - text: Working with Cascading Lists in SharePoint and Power Apps
-            url: working-with-cascading-lists-in-sharepoint-and-powerapps.md
+            url: https://pnp.github.io/community-docs/articles/working-with-cascading-lists-in-sharepoint-and-powerapps.html
           - text: Document Lifecycle Scenarios
-            url: document-lifecycle-scenarios.md
+            url: https://pnp.github.io/community-docs/articles/document-lifecycle-scenarios.html
           - text: Power Automate - Send SharePoint files as attachments
-            url: power-automate-send-sharepoint-files-as-attachments.md
+            url: https://pnp.github.io/community-docs/articles/power-automate-send-sharepoint-files-as-attachments.html
           - text: How can I use Learning Pathways in my organization?
-            url: how-can-i-use-learning-pathways-in-my-organization.md
+            url: https://pnp.github.io/community-docs/articles/how-can-i-use-learning-pathways-in-my-organization.html
           - text: Advanced Highlighted Content Web Part
-            url: highlighted-content-web-part.md
+            url: https://pnp.github.io/community-docs/articles/highlighted-content-web-part.html
           - text: Using Shared Channels for External Collaboration
-            url: using-shared-channels-for-external-collaboration.md
+            url: https://pnp.github.io/community-docs/articles/using-shared-channels-for-external-collaboration.html
           - text: Using Shared Channels for Internal Collaboration
-            url: using-shared-channels-for-internal-collaboration.md
-
+            url: https://pnp.github.io/community-docs/articles/using-shared-channels-for-internal-collaboration.html
 
   # Card (optional)
   - title: Automation
@@ -182,11 +188,11 @@ landingContent:
       - linkListType: how-to-guide
         links:
           - text: Working with modern client-side pages using PnP PowerShell
-            url:  working-with-modern-clientside-pages-using-pnp-powershell.md
+            url: https://pnp.github.io/community-docs/articles/working-with-modern-clientside-pages-using-pnp-powershell.html
           - text: Should everyone create Teams? A Low Code Provisioning solution
-            url: should-everyone-create-teams.md
+            url: https://pnp.github.io/community-docs/articles/should-everyone-create-teams.html
           - text: Benefits of using PowerShell with SharePoint
-            url:  benefits-of-using-powershell-with-sharepoint.md
+            url: https://pnp.github.io/community-docs/articles/benefits-of-using-powershell-with-sharepoint.html
 
   # Card (optional)
   - title: Security
@@ -194,13 +200,13 @@ landingContent:
       - linkListType: concept
         links:
           - text: "Managing SharePoint Online Security: A Team Effort"
-            url: sharepoint-security-a-team-effort.md
+            url: https://pnp.github.io/community-docs/articles/sharepoint-security-a-team-effort.html
           - text: "Basic Security Set Up for Microsoft 365"
-            url: basic-security-set-up-for-microsoft-365.md
+            url: https://pnp.github.io/community-docs/articles/basic-security-set-up-for-microsoft-365.html
           - text: "Managing External Guests in SharePoint vs Teams"
-            url: managing-external-guest-in-SharePoint-vs-Teams.md
+            url: https://pnp.github.io/community-docs/articles/managing-external-guest-in-SharePoint-vs-Teams.html
           - text: The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1
-            url: power-platform-DLP-policies-you-should-be-considering-on-Day-1.md
+            url: https://pnp.github.io/community-docs/articles/power-platform-DLP-policies-you-should-be-considering-on-Day-1.html
 
   # Card (optional)
   - title: Administration
@@ -208,9 +214,9 @@ landingContent:
       - linkListType: concept
         links:
           - text: Teams Shared Channels for Admins
-            url: teams-shared-channel-for-admins.md
+            url: https://pnp.github.io/community-docs/articles/teams-shared-channel-for-admins.html
           - text: Understanding where your tenant's display name is used
-            url: understanding-where-tenant-display-name-is-used.md
+            url: https://pnp.github.io/community-docs/articles/understanding-where-tenant-display-name-is-used.html
 
   # Card (optional)
   - title: References
@@ -226,4 +232,4 @@ landingContent:
           - text: Visit the SharePoint community
             url: https://techcommunity.microsoft.com/t5/SharePoint/ct-p/SharePoint
           - text: Learn how to be a Community Contributor
-            url:  https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/README.md
+            url: https://pnp.github.io/community-docs/articles/https://github.com/MicrosoftDocs/microsoft-365-community/blob/master/README.html
