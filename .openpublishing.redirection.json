@@ -533,6 +533,11 @@
       "source_path": "Community/working-with-modern-clientside-pages-using-pnp-powershell.md",
       "redirect_url": "https://pnp.github.io/community-docs/articles/working-with-modern-clientside-pages-using-pnp-powershell.html",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Community/index.yml",
+      "redirect_url": "https://pnp.github.io/community-docs/",
+      "redirect_document_id": false
     }
   ]
 }
